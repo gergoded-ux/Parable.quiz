@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Build output
+.next/
+out/
+build/
+dist/
+
+# Vercel
+.vercel/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Claude Code / Superpowers (local agent state, not project source)
+.superpowers/
+.claude/
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
