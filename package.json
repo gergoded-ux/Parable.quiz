@@ -5,7 +5,10 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "validate:tests": "tsx scripts/validate-tests.ts"
   },
   "dependencies": {
     "@vercel/analytics": "^2.0.1",
@@ -28,6 +31,7 @@
     "@vitest/ui": "^4.1.7",
     "jsdom": "^29.1.1",
     "tailwindcss": "^4",
+    "tsx": "^4.22.4",
     "typescript": "^5",
     "vitest": "^4.1.7"
   }
