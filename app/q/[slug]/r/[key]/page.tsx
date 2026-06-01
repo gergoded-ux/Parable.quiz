@@ -1,0 +1,98 @@
+// app/q/[slug]/r/[key]/page.tsx
+import { notFound } from 'next/navigation';
+import type { Metadata } from 'next';
+import { loadAllTests, loadTestBySlug } from '@/lib/test-loader';
+import { HomeNav } from '@/components/HomeNav';
+import { ResultCard } from '@/components/ResultCard';
+import { ShareBar } from '@/components/ShareBar';
+import { AdSlot } from '@/components/AdSlot';
+import { RelatedQuizzes } from '@/components/RelatedQuizzes';
+
+export function generateStaticParams() {
+  const params: { slug: string; key: string }[] = [];
+  for (const t of loadAllTests()) {
+    if (t.mode === 'archetype' || t.mode === 'profile') {
+      Object.keys(t.results).forEach(key => params.push({ slug: t.slug, key }));
+    } else {
+      for (let p = 0; p <= 100; p += 10) params.push({ slug: t.slug, key: String(p) });
+    }
+  }
+  return params;
+}
+
+export async function generateMetadata({ params }: { params: Promise<{ slug: string; key: string }> }): Promise<Metadata> {
+  const { slug, key } = await params;
+  const test = loadTestBySlug(slug);
+  if (!test) return {};
+  let title = test.title;
+  let description = `Take ${test.title} on Parable.`;
+  if (test.mode === 'archetype') {
+    const r = test.results[key];
+    if (r) {
+      title = `You are ${r.name} · ${test.title}`;
+      description = r.description;
+    }
+  } else if (test.mode === 'profile') {
+    const r = test.results[key];
+    if (r) {
+      title = `Your top gift: ${r.name} · ${test.title}`;
+      description = r.description;
+    }
+  } else {
+    title = `${key}% · ${test.title}`;
+  }
+  const ogImage = `/og/${test.slug}/${key}`;
+  return {
+    title, description,
+    openGraph: { title, description, images: [ogImage], type: 'article' },
+    twitter: { card: 'summary_large_image', title, description, images: [ogImage] },
+  };
+}
+
+export default async function ResultPage({ params }: { params: Promise<{ slug: string; key: string }> }) {
+  const { slug, key } = await params;
+  const test = loadTestBySlug(slug);
+  if (!test) notFound();
+
+  const shareUrl = `https://parable.quiz/q/${test.slug}/r/${key}`;
+  const ogImageAbs = `https://parable.quiz/og/${test.slug}/${key}`;
+
+  let cardProps;
+  let shareText;
+
+  if (test.mode === 'archetype') {
+    const r = test.results[key];
+    if (!r) notFound();
+    cardProps = { mode: 'archetype' as const, name: r.name, emoji: r.emoji, traits: r.traits, description: r.description, scriptureRef: r.scriptureRef };
+    shareText = `I got "${r.name}" on Parable — what's yours?`;
+  } else if (test.mode === 'profile') {
+    const r = test.results[key];
+    if (!r) notFound();
+    cardProps = {
+      mode: 'profile' as const, name: r.name, description: r.description,
+      topDimensions: [{ dimension: key, score: 100, label: r.name }],
+    };
+    shareText = `My top spiritual gift: ${r.name}. Take the quiz on Parable.`;
+  } else {
+    const percent = parseInt(key, 10);
+    if (isNaN(percent)) notFound();
+    const band = test.scoring.gradeBands.find(b => percent >= b.min && percent <= b.max)
+      ?? test.scoring.gradeBands[test.scoring.gradeBands.length - 1];
+    const total = test.questions.length;
+    const correct = Math.round((percent / 100) * total);
+    cardProps = { mode: 'knowledge' as const, percent, correct, total, bandLabel: band.label, message: band.message };
+    shareText = `I scored ${percent}% on ${test.title}. Try it on Parable!`;
+  }
+
+  return (
+    <>
+      <HomeNav />
+      <main className="py-8">
+        <ResultCard {...cardProps} />
+        <ShareBar url={shareUrl} text={shareText} image={ogImageAbs} />
+        <AdSlot slot="post-share" />
+        <RelatedQuizzes slug={test.slug} />
+      </main>
+    </>
+  );
+}
