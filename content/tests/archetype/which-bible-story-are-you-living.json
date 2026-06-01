@@ -1,0 +1,127 @@
+{
+  "slug": "which-bible-story-are-you-living",
+  "title": "Which Bible Story Are You Living Through Right Now?",
+  "subtitle": "Exodus? Wilderness? Resurrection? Find the chapter you're in.",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 5,
+  "mode": "archetype",
+  "questions": [
+    {
+      "text": "What's the dominant feeling in your week?",
+      "options": [
+        { "text": "Stuck between Pharaoh and a sea.",                "weights": { "exodus": 3 } },
+        { "text": "Wandering in a dry place I can't escape.",        "weights": { "wilderness": 3 } },
+        { "text": "Surrounded by something that could end me.",      "weights": { "lions-den": 3 } },
+        { "text": "Watching God breathe life back into something I'd buried.", "weights": { "resurrection": 3 } }
+      ]
+    },
+    {
+      "text": "What is God most clearly doing?",
+      "options": [
+        { "text": "Parting waters in front of me.",                   "weights": { "exodus": 3 } },
+        { "text": "Humbling me — teaching me what was in my heart.", "weights": { "wilderness": 3 } },
+        { "text": "Closing the mouths of things that should've devoured me.", "weights": { "lions-den": 3 } },
+        { "text": "Showing me He is the resurrection and the life.", "weights": { "resurrection": 3 } }
+      ]
+    },
+    {
+      "text": "Pick the moment that feels most like now:",
+      "options": [
+        { "text": "Take off your shoes — this ground is holy.",       "weights": { "burning-bush": 3 } },
+        { "text": "Tongues of fire and people speaking new languages.", "weights": { "pentecost": 3 } },
+        { "text": "Wind and waves louder than my voice.",            "weights": { "storm-at-sea": 3 } },
+        { "text": "An angel telling me to keep walking.",            "weights": { "exodus": 2, "wilderness": 1 } }
+      ]
+    },
+    {
+      "text": "When you pray right now, you most often say...",
+      "options": [
+        { "text": "Lord, fight for me — I'll hold my peace.",         "weights": { "exodus": 3 } },
+        { "text": "Lead me through. Don't let me lose heart.",        "weights": { "wilderness": 3 } },
+        { "text": "Send Your angel. Shut the lions' mouths.",         "weights": { "lions-den": 3 } },
+        { "text": "Peace, be still — in me, in this storm.",          "weights": { "storm-at-sea": 3 } }
+      ]
+    },
+    {
+      "text": "How is God speaking to you?",
+      "options": [
+        { "text": "Through fire in a burning bush — He's calling me by name.", "weights": { "burning-bush": 3 } },
+        { "text": "Through Spirit — power I've never had before.",     "weights": { "pentecost": 3 } },
+        { "text": "Through resurrection — He's raising what I gave up on.", "weights": { "resurrection": 3 } },
+        { "text": "Through silence in the wilderness.",              "weights": { "wilderness": 3 } }
+      ]
+    },
+    {
+      "text": "What's the next step?",
+      "options": [
+        { "text": "March forward — even though the sea hasn't moved yet.", "weights": { "exodus": 3 } },
+        { "text": "Take off my shoes — this is holy ground.",            "weights": { "burning-bush": 3 } },
+        { "text": "Open the upper room and wait.",                       "weights": { "pentecost": 3 } },
+        { "text": "Wake Jesus up — He's in the boat the whole time.",    "weights": { "storm-at-sea": 3 } }
+      ]
+    },
+    {
+      "text": "What kind of God do you most need right now?",
+      "options": [
+        { "text": "A deliverer.",                                       "weights": { "exodus": 3 } },
+        { "text": "A guide.",                                           "weights": { "wilderness": 3 } },
+        { "text": "A rescuer who closes lions' mouths.",                 "weights": { "lions-den": 3 } },
+        { "text": "A resurrector.",                                     "weights": { "resurrection": 3 } }
+      ]
+    },
+    {
+      "text": "Pick the verse you keep coming back to:",
+      "options": [
+        { "text": "The Lord shall fight for you.",                      "weights": { "exodus": 3 } },
+        { "text": "Remember all the way the Lord led you.",             "weights": { "wilderness": 3 } },
+        { "text": "I am the resurrection and the life.",                "weights": { "resurrection": 3 } },
+        { "text": "Peace, be still.",                                   "weights": { "storm-at-sea": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "exodus": {
+      "name": "Crossing the Red Sea", "emoji": "🌊",
+      "traits": ["Trapped-but-trusting", "Watching", "Walking"],
+      "description": "You're stuck between what was and what will be — and God is about to split a sea you've been staring at. Hold your peace. He's fighting for you.",
+      "scriptureRef": "exod-14-14"
+    },
+    "wilderness": {
+      "name": "Wilderness Season", "emoji": "🏜️",
+      "traits": ["Stretched", "Humbled", "Forming"],
+      "description": "This isn't punishment — it's formation. God's using the dry place to show you what's in your heart and to teach you how to live on manna instead of certainty.",
+      "scriptureRef": "deut-8-2"
+    },
+    "lions-den": {
+      "name": "In the Lions' Den", "emoji": "🦁",
+      "traits": ["Surrounded", "Faithful", "Rescued"],
+      "description": "You're in a room that should've ended you, and you kept your knees bent toward home. God is sending the angel who shuts the mouths that wanted to eat you.",
+      "scriptureRef": "dan-6-22"
+    },
+    "resurrection": {
+      "name": "Resurrection Morning", "emoji": "🌅",
+      "traits": ["Reborn", "Awake", "Astonished"],
+      "description": "You watched something die — a dream, a relationship, a version of yourself — and God is rolling the stone away. He didn't just want it to live; He wanted you to see who has the power to raise it.",
+      "scriptureRef": "john-11-25"
+    },
+    "burning-bush": {
+      "name": "At the Burning Bush", "emoji": "🔥",
+      "traits": ["Called", "Holy-ground", "Reluctant"],
+      "description": "God is calling you by name in a place you didn't expect Him to. Take off your shoes — and then start arguing about it, like every prophet has. He'll still send you.",
+      "scriptureRef": "exod-3-5"
+    },
+    "pentecost": {
+      "name": "Pentecost Power", "emoji": "🔥",
+      "traits": ["Filled", "Bold", "Sent"],
+      "description": "The Spirit is filling rooms you thought were empty. You've been waiting in an upper room, and now you're being sent out — with words and courage you didn't have a week ago.",
+      "scriptureRef": "acts-2-4"
+    },
+    "storm-at-sea": {
+      "name": "Storm on the Sea of Galilee", "emoji": "⛵",
+      "traits": ["Battered", "Scared", "Held"],
+      "description": "The waves are louder than your prayers, and you're wondering if Jesus is asleep. He's in the boat. When He stands up, the storm sits down.",
+      "scriptureRef": "mark-4-39"
+    }
+  }
+}
