@@ -48,3 +48,52 @@ describe('scoreArchetype', () => {
     expect(() => scoreArchetype(apostleTest, [0, 5])).toThrow();
   });
 });
+
+import { scoreProfile } from '@/lib/scoring';
+import type { ProfileTest } from '@/lib/schema';
+
+const profileTest: ProfileTest = {
+  slug: 'p', title: 'P', lang: 'en',
+  category: 'spiritual-profile', estimatedMinutes: 5,
+  mode: 'profile',
+  dimensions: ['teaching', 'mercy', 'leadership'],
+  questions: [
+    {
+      text: 'q1',
+      options: [
+        { text: 'a', weights: { teaching: 2, mercy: 1 } },
+        { text: 'b', weights: { leadership: 2 } },
+      ],
+    },
+    {
+      text: 'q2',
+      options: [
+        { text: 'a', weights: { mercy: 2 } },
+        { text: 'b', weights: { teaching: 1 } },
+      ],
+    },
+  ],
+  results: {
+    teaching: { name: 'Teaching', description: 'd' },
+    mercy: { name: 'Mercy', description: 'd' },
+    leadership: { name: 'Leadership', description: 'd' },
+  },
+};
+
+describe('scoreProfile', () => {
+  it('returns normalized 0-100 score per dimension', () => {
+    // q1->0 (teaching:2, mercy:1); q2->0 (mercy:2)
+    // raw: teaching=2, mercy=3, leadership=0; max=3 -> 67/100/0
+    const r = scoreProfile(profileTest, [0, 0]);
+    expect(r.teaching).toBe(67);
+    expect(r.mercy).toBe(100);
+    expect(r.leadership).toBe(0);
+  });
+  it('includes every declared dimension even if score is zero', () => {
+    const r = scoreProfile(profileTest, [1, 1]);  // leadership:2 only
+    expect(Object.keys(r).sort()).toEqual(['leadership', 'mercy', 'teaching']);
+  });
+  it('throws on answer-length mismatch', () => {
+    expect(() => scoreProfile(profileTest, [0])).toThrow();
+  });
+});

@@ -1,5 +1,5 @@
 // lib/scoring.ts
-import type { ArchetypeTest } from './schema';
+import type { ArchetypeTest, ProfileTest } from './schema';
 
 export function scoreArchetype(test: ArchetypeTest, answers: number[]): string {
   if (answers.length !== test.questions.length) {
@@ -27,4 +27,24 @@ export function scoreArchetype(test: ArchetypeTest, answers: number[]): string {
     return firstSeen[a[0]] - firstSeen[b[0]];
   });
   return entries[0][0];
+}
+
+export function scoreProfile(test: ProfileTest, answers: number[]): Record<string, number> {
+  if (answers.length !== test.questions.length) {
+    throw new Error(`Expected ${test.questions.length} answers, got ${answers.length}`);
+  }
+  const raw: Record<string, number> = Object.fromEntries(test.dimensions.map(d => [d, 0]));
+  test.questions.forEach((q, qi) => {
+    const optIdx = answers[qi];
+    if (optIdx < 0 || optIdx >= q.options.length) {
+      throw new Error(`Answer index ${optIdx} out of bounds for question ${qi}`);
+    }
+    for (const [key, w] of Object.entries(q.options[optIdx].weights)) {
+      if (key in raw) raw[key] += w;
+    }
+  });
+  const max = Math.max(...Object.values(raw), 1);
+  return Object.fromEntries(
+    Object.entries(raw).map(([k, v]) => [k, Math.round((v / max) * 100)])
+  );
 }
