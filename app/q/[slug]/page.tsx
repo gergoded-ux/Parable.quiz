@@ -23,5 +23,18 @@ export default async function TestPage({ params }: { params: Promise<{ slug: str
   const { slug } = await params;
   const test = loadTestBySlug(slug);
   if (!test) notFound();
-  return <TestRunner test={test} />;
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Quiz',
+    name: test.title,
+    about: test.subtitle ?? test.title,
+    educationalLevel: 'beginner',
+    numberOfQuestions: test.questions.length,
+  };
+  return (
+    <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      <TestRunner test={test} />
+    </>
+  );
 }
