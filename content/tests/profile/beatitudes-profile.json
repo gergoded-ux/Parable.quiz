@@ -22,7 +22,7 @@
       "options": [
         { "text": "I have nothing to bring Him and I know it.", "weights": { "poor-in-spirit": 3 } },
         { "text": "I'm carrying grief I haven't put down.", "weights": { "mourning": 3 } },
-        { "text": "I want to be clean — really clean.", "weights": { "pure-in-heart": 3 } },
+        { "text": "I want to be clean. Really clean.", "weights": { "pure-in-heart": 3 } },
         { "text": "I'm starving for things to be made right.", "weights": { "righteousness": 3 } }
       ]
     },
@@ -47,7 +47,7 @@
     {
       "text": "Which appetite shows up in you the most?",
       "options": [
-        { "text": "I'm hungry for righteousness — in me and around me.", "weights": { "righteousness": 3 } },
+        { "text": "I'm hungry for righteousness, in me and around me.", "weights": { "righteousness": 3 } },
         { "text": "I want a heart that isn't divided.", "weights": { "pure-in-heart": 3 } },
         { "text": "I want to be the kind of person whose mercy is the first response.", "weights": { "merciful": 3 } },
         { "text": "I want comfort that actually reaches the place that's hurting.", "weights": { "mourning": 3 } }
@@ -56,10 +56,10 @@
     {
       "text": "Pick the verse that has been quietly preaching to you:",
       "options": [
-        { "text": "Blessed are the poor in spirit — for theirs is the kingdom.", "weights": { "poor-in-spirit": 3 } },
-        { "text": "Blessed are they that mourn — for they shall be comforted.", "weights": { "mourning": 3 } },
-        { "text": "Blessed are the meek — for they shall inherit the earth.", "weights": { "meek": 3 } },
-        { "text": "Blessed are the pure in heart — for they shall see God.", "weights": { "pure-in-heart": 3 } }
+        { "text": "Blessed are the poor in spirit, for theirs is the kingdom.", "weights": { "poor-in-spirit": 3 } },
+        { "text": "Blessed are they that mourn, for they shall be comforted.", "weights": { "mourning": 3 } },
+        { "text": "Blessed are the meek, for they shall inherit the earth.", "weights": { "meek": 3 } },
+        { "text": "Blessed are the pure in heart, for they shall see God.", "weights": { "pure-in-heart": 3 } }
       ]
     },
     {
@@ -67,7 +67,7 @@
       "options": [
         { "text": "I have nothing. Be enough.", "weights": { "poor-in-spirit": 3 } },
         { "text": "Comfort me. I can't pretend anymore.", "weights": { "mourning": 3 } },
-        { "text": "Fill me — I'm running on empty.", "weights": { "righteousness": 3 } },
+        { "text": "Fill me. I'm running on empty.", "weights": { "righteousness": 3 } },
         { "text": "Make me a peacemaker.", "weights": { "peacemakers": 3 } }
       ]
     },
@@ -83,16 +83,16 @@
     {
       "text": "What season has shaped you most in the last year?",
       "options": [
-        { "text": "Being at the end of myself — and finding Him there.", "weights": { "poor-in-spirit": 3 } },
+        { "text": "Being at the end of myself, and finding Him there.", "weights": { "poor-in-spirit": 3 } },
         { "text": "Walking through a real loss.", "weights": { "mourning": 3 } },
         { "text": "Choosing right at a real cost.", "weights": { "persecuted": 3 } },
-        { "text": "Working on what's underneath — my motives, my heart.", "weights": { "pure-in-heart": 3 } }
+        { "text": "Working on what's underneath: my motives, my heart.", "weights": { "pure-in-heart": 3 } }
       ]
     },
     {
       "text": "If Jesus described your week, which line would He say?",
       "options": [
-        { "text": "\"Blessed are you who mourn — comfort is coming.\"", "weights": { "mourning": 3 } },
+        { "text": "\"Blessed are you who mourn, comfort is coming.\"", "weights": { "mourning": 3 } },
         { "text": "\"Blessed are you who make peace.\"", "weights": { "peacemakers": 3 } },
         { "text": "\"Blessed are you who hunger for right.\"", "weights": { "righteousness": 3 } },
         { "text": "\"Blessed are you who've taken the hit for me.\"", "weights": { "persecuted": 3 } }
@@ -104,34 +104,34 @@
         { "text": "To inherit something only God can give.", "weights": { "meek": 3 } },
         { "text": "To finally see Him clearly.", "weights": { "pure-in-heart": 3 } },
         { "text": "To be called His child without doubting it.", "weights": { "peacemakers": 3 } },
-        { "text": "To know the kingdom is mine — even when nothing else is.", "weights": { "poor-in-spirit": 2, "persecuted": 1 } }
+        { "text": "To know the kingdom is mine, even when nothing else is.", "weights": { "poor-in-spirit": 2, "persecuted": 1 } }
       ]
     }
   ],
   "results": {
     "poor-in-spirit": {
       "name": "Poor in Spirit",
-      "description": "You know you don't have it all together — and that's exactly where the kingdom lives. The end of yourself is where Jesus is most clearly enough. Stay there; it's holy ground.",
+      "description": "You know you don't have it all together, and that's exactly where the kingdom lives. The end of yourself is where Jesus is most clearly enough. Stay there. It's holy ground.",
       "scriptureRef": "matt-5-3"
     },
     "mourning": {
       "name": "Mourning",
-      "description": "You're carrying real grief and refusing to fake your way past it. Jesus calls that blessed — not because the loss is good, but because comfort is on the way and it has your name on it.",
+      "description": "You're carrying real grief and refusing to fake your way past it. Jesus calls that blessed. Not because the loss is good, but because comfort is on the way and it has your name on it.",
       "scriptureRef": "matt-5-4"
     },
     "meek": {
       "name": "Meek",
-      "description": "You hold power with a soft grip. People mistake it for weakness, but it's deep strength under control. The loud will inherit headlines — you'll inherit the earth.",
+      "description": "You hold power with a soft grip. People mistake it for weakness, but it's real strength under control. The loud will inherit headlines. You'll inherit the earth.",
       "scriptureRef": "matt-5-5"
     },
     "righteousness": {
       "name": "Hungry for Righteousness",
-      "description": "You're starved for things to be made right — in you and in the world. That hunger isn't a flaw; it's the appetite God Himself put in you, and He's going to fill it.",
+      "description": "You're starved for things to be made right, in you and in the world. That hunger isn't a flaw. It's the appetite God Himself put in you, and He's going to fill it.",
       "scriptureRef": "matt-5-6"
     },
     "merciful": {
       "name": "Merciful",
-      "description": "You give mercy faster than people expect. You've been forgiven much, so you forgive much — and the same mercy you've poured out is rolling right back to you.",
+      "description": "You give mercy faster than people expect. You've been forgiven much, so you forgive much, and the same mercy you've poured out is rolling right back to you.",
       "scriptureRef": "matt-5-7"
     },
     "pure-in-heart": {
@@ -141,12 +141,12 @@
     },
     "peacemakers": {
       "name": "Peacemakers",
-      "description": "You walk into tense rooms and lower the temperature. You'll take the awkward middle seat if it means people get reconciled — and that's what gets you called a child of God.",
+      "description": "You walk into tense rooms and lower the temperature. You'll take the awkward middle seat if it means people get reconciled, and that's what gets you called a child of God.",
       "scriptureRef": "matt-5-9"
     },
     "persecuted": {
       "name": "Persecuted for Righteousness",
-      "description": "You've taken hits for doing the right thing. It's lonely and it hurts — but heaven is on your side, and the reward is greater than anything the cost has taken.",
+      "description": "You've taken hits for doing the right thing. It's lonely and it hurts. But heaven is on your side, and the reward is greater than anything the cost has taken.",
       "scriptureRef": "matt-5-10"
     }
   }

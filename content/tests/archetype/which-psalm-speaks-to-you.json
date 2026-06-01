@@ -13,7 +13,7 @@
         { "text": "Bone-tired and need to be led, not pushed.",      "weights": { "psalm-23": 3 } },
         { "text": "Guilt that won't loosen its grip.",                "weights": { "psalm-51": 3 } },
         { "text": "Fear of what's coming.",                          "weights": { "psalm-91": 2, "psalm-27": 1 } },
-        { "text": "Loneliness — I want to be known.",                "weights": { "psalm-139": 3 } }
+        { "text": "Loneliness. I want to be known.",                "weights": { "psalm-139": 3 } }
       ]
     },
     {
@@ -67,14 +67,14 @@
         { "text": "In a green field with nothing to prove.",   "weights": { "psalm-23": 3 } },
         { "text": "In the secret place behind a closed door.", "weights": { "psalm-91": 3 } },
         { "text": "In silence I finally allow myself to keep.", "weights": { "psalm-46": 3 } },
-        { "text": "In the word — open on my lap.",             "weights": { "psalm-119": 3 } }
+        { "text": "In the word, open on my lap.",             "weights": { "psalm-119": 3 } }
       ]
     },
     {
       "text": "What is your heart asking for this week?",
       "options": [
         { "text": "Forgiveness and a clean start.",           "weights": { "psalm-51": 3 } },
-        { "text": "Direction — light on this next step.",    "weights": { "psalm-119": 2, "psalm-121": 1 } },
+        { "text": "Direction, some light on this next step.",    "weights": { "psalm-119": 2, "psalm-121": 1 } },
         { "text": "Courage to stop being afraid.",           "weights": { "psalm-27": 3 } },
         { "text": "To be fully seen and still loved.",       "weights": { "psalm-139": 3 } }
       ]
@@ -82,51 +82,51 @@
   ],
   "results": {
     "psalm-23": {
-      "name": "Psalm 23 — The Shepherd's Psalm", "emoji": "🐑",
+      "name": "Psalm 23: The Shepherd's Psalm", "emoji": "🐑",
       "traits": ["Weary", "Tender", "Trusting"],
-      "description": "You need to be led, not driven. God is gently asking you to lie down in green pastures and stop performing — He'll restore what's been depleted.",
+      "description": "You need to be led, not driven. God is gently asking you to lie down in green pastures and stop performing for a while. He'll restore what's run dry.",
       "scriptureRef": "ps-23-1"
     },
     "psalm-51": {
-      "name": "Psalm 51 — The Repentance Psalm", "emoji": "🩹",
+      "name": "Psalm 51: The Repentance Psalm", "emoji": "🩹",
       "traits": ["Honest", "Sorry", "Hopeful"],
-      "description": "You're aware of where you've fallen, and you're not making excuses. The good news is that God specializes in clean hearts and renewed spirits — He's already running toward you.",
+      "description": "You know exactly where you've fallen, and you're not making excuses for it. Here's the good news: God specializes in clean hearts and fresh starts. He's already running toward you.",
       "scriptureRef": "ps-51-1"
     },
     "psalm-91": {
-      "name": "Psalm 91 — The Hiding Place", "emoji": "🛡️",
+      "name": "Psalm 91: The Hiding Place", "emoji": "🛡️",
       "traits": ["Afraid", "Sheltered", "Held"],
-      "description": "You need a hiding place, and there is one. Underneath everything you're walking through is the shadow of the Almighty — He covers you while you can't cover yourself.",
+      "description": "You need a hiding place, and there is one. Underneath everything you're walking through is the shadow of the Almighty. He covers you when you can't cover yourself.",
       "scriptureRef": "ps-91-1"
     },
     "psalm-139": {
-      "name": "Psalm 139 — The Searched Psalm", "emoji": "💜",
+      "name": "Psalm 139: The Searched Psalm", "emoji": "💜",
       "traits": ["Vulnerable", "Known", "Reassured"],
-      "description": "You long to be fully known and still wanted. You are — every dark corner, every hidden joy. He searched you and stayed.",
+      "description": "You long to be fully known and still wanted. You are. Every dark corner, every hidden joy. He searched the whole of you and stayed.",
       "scriptureRef": "ps-139-1"
     },
     "psalm-119": {
-      "name": "Psalm 119 — The Word Lover", "emoji": "📖",
+      "name": "Psalm 119: The Word Lover", "emoji": "📖",
       "traits": ["Hungry", "Reverent", "Anchored"],
-      "description": "You're hungry for the Word like it's bread. You need direction, and God puts a lamp on the very next step — that's all you have to walk by.",
+      "description": "You're hungry for the Word the way you'd be hungry for bread. You need direction, and God lights up the very next step. That's all you have to walk by for now.",
       "scriptureRef": "ps-119-105"
     },
     "psalm-121": {
-      "name": "Psalm 121 — The Lifted Eyes", "emoji": "⛰️",
+      "name": "Psalm 121: The Lifted Eyes", "emoji": "⛰️",
       "traits": ["Searching", "Tired", "Helped"],
-      "description": "You're looking for help in the right direction. The Maker of heaven and earth is your keeper — He doesn't slumber, He doesn't drift, He doesn't quit.",
+      "description": "You're looking up for help, and you're looking in the right direction. The Maker of heaven and earth is your keeper. He doesn't doze off, and He doesn't quit.",
       "scriptureRef": "ps-121-1"
     },
     "psalm-27": {
-      "name": "Psalm 27 — The Courage Psalm", "emoji": "🔦",
+      "name": "Psalm 27: The Courage Psalm", "emoji": "🔦",
       "traits": ["Brave", "Steady", "Anchored"],
-      "description": "Fear is on the table, but it's not the loudest thing in the room. The Lord is your light — and once you see Him, the room you were scared of starts to feel smaller.",
+      "description": "Fear is on the table, but it's not the loudest thing in the room anymore. The Lord is your light. Once you see Him, the thing you were scared of starts to look a lot smaller.",
       "scriptureRef": "ps-27-1"
     },
     "psalm-46": {
-      "name": "Psalm 46 — Be Still", "emoji": "🌊",
+      "name": "Psalm 46: Be Still", "emoji": "🌊",
       "traits": ["Quiet", "Surrendered", "Anchored"],
-      "description": "You don't need a strategy — you need stillness. God is louder when you stop. Be still, and let Him be God for a minute.",
+      "description": "You don't need a strategy right now. You need stillness. God gets louder the moment you stop. Be still, and let Him be God for a minute.",
       "scriptureRef": "ps-46-10"
     }
   }

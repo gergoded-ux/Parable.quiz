@@ -1,7 +1,7 @@
 {
   "slug": "which-beatitude-defines-you",
   "title": "Which Beatitude Defines You?",
-  "subtitle": "Matthew 5 — which blessing names your season?",
+  "subtitle": "Matthew 5. Which blessing names your season?",
   "lang": "en",
   "category": "bible-character",
   "estimatedMinutes": 4,
@@ -13,7 +13,7 @@
         { "text": "I have nothing to bring and I know it.",          "weights": { "poor-in-spirit": 3 } },
         { "text": "I'm carrying grief I haven't put down.",          "weights": { "mourning": 3 } },
         { "text": "I'm hungry for something more.",                 "weights": { "righteousness": 3 } },
-        { "text": "I want to be clean — really clean.",             "weights": { "pure-in-heart": 3 } }
+        { "text": "I want to be clean. Really clean.",               "weights": { "pure-in-heart": 3 } }
       ]
     },
     {
@@ -29,7 +29,7 @@
       "text": "Pick the prayer you've prayed most lately:",
       "options": [
         { "text": "Comfort me. I can't pretend anymore.",            "weights": { "mourning": 3 } },
-        { "text": "Fill me — I'm hungry.",                          "weights": { "righteousness": 3 } },
+        { "text": "Fill me. I'm so hungry.",                        "weights": { "righteousness": 3 } },
         { "text": "Help me see You.",                              "weights": { "pure-in-heart": 3 } },
         { "text": "Make me a peacemaker, not a flame-thrower.",      "weights": { "peacemakers": 3 } }
       ]
@@ -55,7 +55,7 @@
     {
       "text": "When you're wronged, your honest first instinct is...",
       "options": [
-        { "text": "Hold my fire — answer softly.",                  "weights": { "meek": 3 } },
+        { "text": "Hold my fire and answer softly.",                "weights": { "meek": 3 } },
         { "text": "Forgive faster than I want to.",                 "weights": { "merciful": 3 } },
         { "text": "Pull out my journal and pray it through.",       "weights": { "pure-in-heart": 2, "righteousness": 1 } },
         { "text": "Sit in the silence until comfort comes.",        "weights": { "mourning": 3 } }
@@ -64,7 +64,7 @@
     {
       "text": "What blessing have you been quietly aching for?",
       "options": [
-        { "text": "The kingdom — I just need Him to be enough.",    "weights": { "poor-in-spirit": 3 } },
+        { "text": "The kingdom. I just need Him to be enough.",     "weights": { "poor-in-spirit": 3 } },
         { "text": "To inherit something only God could give.",      "weights": { "meek": 3 } },
         { "text": "To be filled and not run dry.",                  "weights": { "righteousness": 3 } },
         { "text": "To finally see Him clearly.",                    "weights": { "pure-in-heart": 3 } }
@@ -73,7 +73,7 @@
     {
       "text": "What would Jesus most likely say to your week?",
       "options": [
-        { "text": "Blessed are you who mourn — comfort is coming.", "weights": { "mourning": 3 } },
+        { "text": "Blessed are you who mourn, comfort is coming.", "weights": { "mourning": 3 } },
         { "text": "Blessed are you who make peace.",                "weights": { "peacemakers": 3 } },
         { "text": "Blessed are you who hunger for right.",          "weights": { "righteousness": 3 } },
         { "text": "Blessed are you who've taken the hit.",          "weights": { "persecuted": 3 } }
@@ -84,49 +84,49 @@
     "poor-in-spirit": {
       "name": "Poor in Spirit", "emoji": "🪶",
       "traits": ["Humble", "Honest", "Open"],
-      "description": "You know you don't have it all together — and that's exactly where the kingdom lives. The end of yourself is where Jesus is most clearly enough.",
+      "description": "You know you don't have it all together, and that's exactly where the kingdom lives. The end of yourself is the place where Jesus turns out to be enough.",
       "scriptureRef": "matt-5-3"
     },
     "mourning": {
       "name": "The One Who Mourns", "emoji": "🌧️",
       "traits": ["Tender", "Honest", "Comforted"],
-      "description": "You're carrying real grief, and you're not pretending it's fine. Jesus calls that blessed — not because grief is good, but because comfort is coming and it has your name on it.",
+      "description": "You're carrying real grief, and you're not pretending it's fine. Jesus calls that blessed. Not because grief is good, but because comfort is coming and it has your name on it.",
       "scriptureRef": "matt-5-4"
     },
     "meek": {
       "name": "The Meek", "emoji": "🌾",
       "traits": ["Gentle", "Strong", "Restrained"],
-      "description": "You hold power with a soft grip. People mistake it for weakness, but it's deep strength under control — and you'll inherit more than the loud ever will.",
+      "description": "You hold power with a soft grip. People mistake it for weakness, but it's real strength under control, and you'll inherit more than the loud ones ever will.",
       "scriptureRef": "matt-5-5"
     },
     "righteousness": {
       "name": "Hungry for Righteousness", "emoji": "🥖",
       "traits": ["Hungry", "Driven", "Filled"],
-      "description": "You're starved for things to be made right — in you, in the world. That hunger isn't a flaw; it's the appetite God Himself is going to fill.",
+      "description": "You're starved for things to be made right, in you and in the world around you. That hunger isn't a flaw. It's the appetite God Himself is going to fill.",
       "scriptureRef": "matt-5-6"
     },
     "merciful": {
       "name": "The Merciful", "emoji": "🤲",
       "traits": ["Gracious", "Forgiving", "Soft"],
-      "description": "You give mercy faster than people expect. You've been forgiven much, so you forgive much — and the same mercy you've poured out is rolling back to you.",
+      "description": "You give mercy faster than people expect. You've been forgiven much, so you forgive much, and the same mercy you've poured out is rolling right back to you.",
       "scriptureRef": "matt-5-7"
     },
     "pure-in-heart": {
       "name": "Pure in Heart", "emoji": "💎",
       "traits": ["Honest", "Single-minded", "Clear"],
-      "description": "You're working to want one thing, not ten. That undivided heart is going to see God in places other people miss Him entirely.",
+      "description": "You're learning to want one thing instead of ten. That undivided heart is going to see God in places other people miss Him entirely.",
       "scriptureRef": "matt-5-8"
     },
     "peacemakers": {
       "name": "The Peacemaker", "emoji": "🕊️",
       "traits": ["Brave", "Calming", "Bridging"],
-      "description": "You walk into tense rooms and lower the temperature. You'll take the awkward seat in the middle if it means people get reconciled — and that's what gets you called a child of God.",
+      "description": "You walk into tense rooms and lower the temperature. You'll take the awkward seat in the middle if it means two people get reconciled, and that's exactly what gets you called a child of God.",
       "scriptureRef": "matt-5-9"
     },
     "persecuted": {
       "name": "Persecuted for Right", "emoji": "🛡️",
       "traits": ["Brave", "Faithful", "Steady"],
-      "description": "You've taken hits for doing the right thing. It's lonely and it hurts — but Jesus says heaven is on your side, and the reward is greater than the cost.",
+      "description": "You've taken hits for doing the right thing. It's lonely and it hurts. But Jesus says heaven is on your side, and the reward is bigger than the cost.",
       "scriptureRef": "matt-5-10"
     }
   }

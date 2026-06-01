@@ -1,7 +1,7 @@
 {
   "slug": "virtues-and-vices-profile",
   "title": "Virtues & Vices Profile",
-  "subtitle": "The seven virtues and their shadows — where are you strongest?",
+  "subtitle": "The seven virtues and their shadows. Where are you strongest?",
   "lang": "en",
   "category": "spiritual-profile",
   "estimatedMinutes": 6,
@@ -26,44 +26,44 @@
     {
       "text": "When a peer gets the win you wanted, what really happens inside you?",
       "options": [
-        { "text": "I celebrate it — their joy is genuinely good to me.", "weights": { "kindness": 3 } },
-        { "text": "Something coils in me — I don't say it, but I feel it.", "weights": { "envy": 3 } },
+        { "text": "I celebrate it. Their joy is genuinely good to me.", "weights": { "kindness": 3 } },
+        { "text": "Something coils in me. I don't say it, but I feel it.", "weights": { "envy": 3 } },
         { "text": "I quietly recount why I deserved it more.", "weights": { "pride": 3 } },
-        { "text": "I get back to work — God has my portion.", "weights": { "diligence": 2, "humility": 1 } }
+        { "text": "I get back to work. God has my portion.", "weights": { "diligence": 2, "humility": 1 } }
       ]
     },
     {
       "text": "How does waiting actually feel to you?",
       "options": [
-        { "text": "I stay present — His timing is better than mine.", "weights": { "patience": 3 } },
+        { "text": "I stay present. His timing is better than mine.", "weights": { "patience": 3 } },
         { "text": "I burn. Slowness lights something hot in me.", "weights": { "wrath": 3 } },
         { "text": "I get into something else useful while I wait.", "weights": { "diligence": 3 } },
-        { "text": "I drift — I'd rather scroll than sit with it.", "weights": { "sloth": 3 } }
+        { "text": "I drift. I'd rather scroll than sit with it.", "weights": { "sloth": 3 } }
       ]
     },
     {
       "text": "Pick the line that's most uncomfortably true about your money:",
       "options": [
-        { "text": "I give more than I tell anyone — it just spills out of me.", "weights": { "charity": 3 } },
-        { "text": "I hold tighter than I want to admit — and I rehearse the math constantly.", "weights": { "greed": 3 } },
-        { "text": "I steward it carefully — every line item has a reason.", "weights": { "temperance": 2, "diligence": 1 } },
+        { "text": "I give more than I tell anyone. It just spills out of me.", "weights": { "charity": 3 } },
+        { "text": "I hold tighter than I want to admit, and I rehearse the math constantly.", "weights": { "greed": 3 } },
+        { "text": "I steward it carefully. Every line item has a reason.", "weights": { "temperance": 2, "diligence": 1 } },
         { "text": "I spend on what numbs me when the week gets hard.", "weights": { "gluttony": 2, "sloth": 1 } }
       ]
     },
     {
       "text": "When someone praises you publicly, the honest first thing in your gut is...",
       "options": [
-        { "text": "Gratitude — and quickly redirecting it to God or others.", "weights": { "humility": 3 } },
-        { "text": "A little flare — I needed that, and I let it grow.", "weights": { "pride": 3 } },
-        { "text": "Discomfort — I'd rather be unseen.", "weights": { "humility": 2 } },
-        { "text": "Comparison — \"They didn't say that about my coworker.\"", "weights": { "envy": 2, "pride": 1 } }
+        { "text": "Gratitude, and I quickly redirect it to God or others.", "weights": { "humility": 3 } },
+        { "text": "A little flare. I needed that, and I let it grow.", "weights": { "pride": 3 } },
+        { "text": "Discomfort. I'd rather be unseen.", "weights": { "humility": 2 } },
+        { "text": "Comparison. \"They didn't say that about my coworker.\"", "weights": { "envy": 2, "pride": 1 } }
       ]
     },
     {
       "text": "Your body and your appetites this season look like...",
       "options": [
-        { "text": "Limits I actually keep — sleep, food, screens, all in their lane.", "weights": { "temperance": 3 } },
-        { "text": "One more, just one more — I keep saying yes to comfort.", "weights": { "gluttony": 3 } },
+        { "text": "Limits I actually keep. Sleep, food, screens, all in their lane.", "weights": { "temperance": 3 } },
+        { "text": "One more, just one more. I keep saying yes to comfort.", "weights": { "gluttony": 3 } },
         { "text": "Burning through stuff I know isn't building me.", "weights": { "gluttony": 2, "sloth": 1 } },
         { "text": "Saying no to a lot, because I'm pursuing something bigger.", "weights": { "diligence": 2, "temperance": 1 } }
       ]
@@ -71,27 +71,27 @@
     {
       "text": "When you're alone with your phone late at night, the honest pull is...",
       "options": [
-        { "text": "Toward what I know is for me — Word, rest, a real friend.", "weights": { "chastity": 3 } },
+        { "text": "Toward what I know is for me: the Word, rest, a real friend.", "weights": { "chastity": 3 } },
         { "text": "Toward what I'd rather no one see me click.", "weights": { "lust": 3 } },
-        { "text": "Toward numbing — give me anything that turns the noise down.", "weights": { "sloth": 2, "gluttony": 1 } },
-        { "text": "Toward more — more content, more buying, more anything.", "weights": { "greed": 2, "gluttony": 1 } }
+        { "text": "Toward numbing. Give me anything that turns the noise down.", "weights": { "sloth": 2, "gluttony": 1 } },
+        { "text": "Toward more. More content, more buying, more anything.", "weights": { "greed": 2, "gluttony": 1 } }
       ]
     },
     {
       "text": "When someone interrupts your day with a real need, you...",
       "options": [
         { "text": "Drop what I'm doing and help. They matter more than my list.", "weights": { "kindness": 3, "charity": 1 } },
-        { "text": "Help — and quietly count the cost to me afterwards.", "weights": { "kindness": 2 } },
-        { "text": "Feel the irritation rise — why now?", "weights": { "wrath": 3 } },
-        { "text": "Say I'll get to it — and then don't.", "weights": { "sloth": 3 } }
+        { "text": "Help, and quietly count the cost to me afterwards.", "weights": { "kindness": 2 } },
+        { "text": "Feel the irritation rise. Why now?", "weights": { "wrath": 3 } },
+        { "text": "Say I'll get to it, and then don't.", "weights": { "sloth": 3 } }
       ]
     },
     {
       "text": "When you remember the worst thing you've done, what rises?",
       "options": [
         { "text": "Honest grief, and gratitude that the cross covers it.", "weights": { "humility": 3 } },
-        { "text": "I quietly justify it — there were reasons.", "weights": { "pride": 3 } },
-        { "text": "I avoid it — I'd rather not look.", "weights": { "sloth": 2 } },
+        { "text": "I quietly justify it. There were reasons.", "weights": { "pride": 3 } },
+        { "text": "I avoid it. I'd rather not look.", "weights": { "sloth": 2 } },
         { "text": "I take it to confession before it gets old.", "weights": { "humility": 2, "chastity": 1 } }
       ]
     },
@@ -99,18 +99,18 @@
       "text": "Pick the season you're most clearly in right now:",
       "options": [
         { "text": "Working hard, showing up, doing the small faithful things daily.", "weights": { "diligence": 3 } },
-        { "text": "Coasting — I know I'm not putting in what I should.", "weights": { "sloth": 3 } },
-        { "text": "Giving more than I keep — quietly funding what God puts in front of me.", "weights": { "charity": 3 } },
-        { "text": "Self-controlled — I'm saying no to what used to own me.", "weights": { "temperance": 3, "chastity": 1 } }
+        { "text": "Coasting. I know I'm not putting in what I should.", "weights": { "sloth": 3 } },
+        { "text": "Giving more than I keep, quietly funding what God puts in front of me.", "weights": { "charity": 3 } },
+        { "text": "Self-controlled. I'm saying no to what used to own me.", "weights": { "temperance": 3, "chastity": 1 } }
       ]
     },
     {
       "text": "What does God most likely want to address with you next?",
       "options": [
-        { "text": "My anger — He's calling me to lay it down.", "weights": { "wrath": 3 } },
-        { "text": "My pride — I keep wanting credit He's already taken.", "weights": { "pride": 3 } },
-        { "text": "My drifting heart — I keep wandering toward what numbs me.", "weights": { "lust": 2, "gluttony": 1 } },
-        { "text": "My hands — I think He's growing real generosity in me.", "weights": { "charity": 3 } }
+        { "text": "My anger. He's calling me to lay it down.", "weights": { "wrath": 3 } },
+        { "text": "My pride. I keep wanting credit He's already taken.", "weights": { "pride": 3 } },
+        { "text": "My drifting heart. I keep wandering toward what numbs me.", "weights": { "lust": 2, "gluttony": 1 } },
+        { "text": "My hands. I think He's growing real generosity in me.", "weights": { "charity": 3 } }
       ]
     }
   ],
@@ -121,7 +121,7 @@
     },
     "pride": {
       "name": "Pride",
-      "description": "You've been quietly running your own scoreboard, and it's wearing you out. The good news is that Jesus doesn't humble proud people to humiliate them — He does it to set them free. Let Him."
+      "description": "You've been quietly running your own scoreboard, and it's wearing you out. Here's the good news: Jesus doesn't humble proud people to humiliate them. He does it to set them free. Let Him."
     },
     "kindness": {
       "name": "Kindness",
@@ -129,7 +129,7 @@
     },
     "envy": {
       "name": "Envy",
-      "description": "You feel the sting when someone else gets what you wanted. The cure isn't pretending you don't — it's bringing the comparison into prayer and remembering that God's portion for you is custom, not leftovers."
+      "description": "You feel the sting when someone else gets what you wanted. The cure isn't pretending you don't. It's bringing the comparison into prayer and remembering that God's portion for you is custom, not leftovers."
     },
     "patience": {
       "name": "Patience",
@@ -137,15 +137,15 @@
     },
     "wrath": {
       "name": "Wrath",
-      "description": "You feel things hot, and lately it's been spilling. Anger isn't the enemy — what you do with it is. Bring it to Jesus before you bring it to whoever triggered it, and watch it convert into holy fire instead of damage."
+      "description": "You feel things hot, and lately it's been spilling. Anger isn't the enemy. What you do with it is. Bring it to Jesus before you bring it to whoever triggered it, and watch it convert into holy fire instead of damage."
     },
     "diligence": {
       "name": "Diligence",
-      "description": "You show up. You do the unsexy daily work. You're the kind of person God promotes quietly because He can trust you with the unseen. Keep going — the harvest is closer than you think."
+      "description": "You show up. You do the unsexy daily work. You're the kind of person God promotes quietly because He can trust you with the unseen. Keep going. The harvest is closer than you think."
     },
     "sloth": {
       "name": "Sloth",
-      "description": "You've been coasting, and you know it. The fix isn't grinding harder — it's getting honest about what you've been numbing and letting God reignite real desire. Start with the next small obedience today."
+      "description": "You've been coasting, and you know it. The fix isn't grinding harder. It's getting honest about what you've been numbing and letting God reignite real desire. Start with the next small obedience today."
     },
     "charity": {
       "name": "Charity",
@@ -153,23 +153,23 @@
     },
     "greed": {
       "name": "Greed",
-      "description": "Money's been a tighter grip than you'd like to admit. The honest move is generosity that costs — give something away this week before you have a feeling about it. You'll be shocked how much lighter you feel."
+      "description": "Money's been a tighter grip than you'd like to admit. The honest move is generosity that costs. Give something away this week before you have a feeling about it. You'll be shocked how much lighter you feel."
     },
     "temperance": {
       "name": "Temperance",
-      "description": "You've made peace with limits, and your limits are setting you free. Food, sleep, screens, spending — you've got reins on the parts of you that used to drag you. That's grown-up holiness."
+      "description": "You've made peace with limits, and your limits are setting you free. Food, sleep, screens, spending. You've got reins on the parts of you that used to drag you. That's grown-up holiness."
     },
     "gluttony": {
       "name": "Gluttony",
-      "description": "You keep saying \"just one more,\" and one more is wearing you down. The issue isn't appetite — it's that something deeper is unfed. Take the hunger to Jesus before you take it to the snack drawer."
+      "description": "You keep saying \"just one more,\" and one more is wearing you down. The issue isn't appetite. It's that something deeper is unfed. Take the hunger to Jesus before you take it to the snack drawer."
     },
     "chastity": {
       "name": "Chastity",
-      "description": "You've been guarding your heart, your eyes, and your phone, and it shows. You're saying no to what used to own you, and yes to what makes you fully alive. Keep the fences high — they're for your joy."
+      "description": "You've been guarding your heart, your eyes, and your phone, and it shows. You're saying no to what used to own you, and yes to what makes you fully alive. Keep the fences high. They're for your joy."
     },
     "lust": {
       "name": "Lust",
-      "description": "You know what pulls at you when no one's watching. The cure isn't shame — it's confession and brotherhood. Bring it into the light fast, and watch how quickly Jesus meets you there with mercy."
+      "description": "You know what pulls at you when no one's watching. The cure isn't shame. It's confession and brotherhood. Bring it into the light fast, and watch how quickly Jesus meets you there with mercy."
     }
   }
 }

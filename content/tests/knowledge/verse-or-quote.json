@@ -10,81 +10,81 @@
     {
       "text": "\"God helps those who help themselves.\"",
       "options": [
-        { "text": "Scripture", "correct": false, "explanation": "This is NOT in the Bible — it traces back to Aesop's Fables and was later popularized by Benjamin Franklin. Scripture actually teaches the opposite: God helps the helpless (Romans 5:6)." },
-        { "text": "Pinterest", "correct": true, "explanation": "Correct — this is not in the Bible. It's from Aesop's Fables, and Scripture actually emphasizes that God helps the helpless (Romans 5:6)." }
+        { "text": "Scripture", "correct": false, "explanation": "Nope, this one isn't in the Bible. It traces back to Aesop's Fables and was later popularized by Benjamin Franklin. Scripture actually teaches the opposite: God helps the helpless (Romans 5:6)." },
+        { "text": "Pinterest", "correct": true, "explanation": "Right you are. This isn't in the Bible. It's from Aesop's Fables, and Scripture actually says God helps the helpless (Romans 5:6)." }
       ]
     },
     {
       "text": "\"I can do all things through Christ which strengtheneth me.\"",
       "options": [
-        { "text": "Scripture (Philippians 4:13)", "correct": true, "explanation": "Yes — Philippians 4:13. Paul wrote this from prison, in the context of being content in any circumstance." },
-        { "text": "Pinterest", "correct": false, "explanation": "This is a real verse — Philippians 4:13. Paul wrote it from prison about contentment in any circumstance." }
+        { "text": "Scripture (Philippians 4:13)", "correct": true, "explanation": "Yes, this is Philippians 4:13. Paul wrote it from prison, in the context of being content in any circumstance." },
+        { "text": "Pinterest", "correct": false, "explanation": "This one is real Scripture: Philippians 4:13. Paul wrote it from prison, about contentment in any circumstance." }
       ]
     },
     {
       "text": "\"God will never give you more than you can handle.\"",
       "options": [
-        { "text": "Scripture", "correct": false, "explanation": "This is NOT in the Bible. It's a misreading of 1 Corinthians 10:13, which actually says God won't let you be tempted beyond what you can bear — about temptation, not life's hardships." },
-        { "text": "Pinterest", "correct": true, "explanation": "Correct — not in the Bible. 1 Corinthians 10:13 talks about temptation, not suffering, and 2 Corinthians 1:8 says Paul was burdened beyond his strength so he would rely on God." }
+        { "text": "Scripture", "correct": false, "explanation": "This one isn't in the Bible. It's a misreading of 1 Corinthians 10:13, which says God won't let you be tempted beyond what you can bear. That's about temptation, not life's hardships." },
+        { "text": "Pinterest", "correct": true, "explanation": "Good call. This isn't in the Bible. 1 Corinthians 10:13 talks about temptation, not suffering, and 2 Corinthians 1:8 says Paul was burdened beyond his strength so he would rely on God." }
       ]
     },
     {
       "text": "\"For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.\"",
       "options": [
-        { "text": "Scripture (John 3:16)", "correct": true, "explanation": "Yes — John 3:16. The most-quoted verse in the Bible, spoken by Jesus to Nicodemus." },
-        { "text": "Pinterest", "correct": false, "explanation": "This is the most famous verse in the Bible — John 3:16, spoken by Jesus to Nicodemus." }
+        { "text": "Scripture (John 3:16)", "correct": true, "explanation": "Yes, this is John 3:16, the most-quoted verse in the Bible. Jesus spoke it to Nicodemus." },
+        { "text": "Pinterest", "correct": false, "explanation": "This is about as real as it gets: John 3:16, the most famous verse in the Bible, spoken by Jesus to Nicodemus." }
       ]
     },
     {
       "text": "\"Cleanliness is next to godliness.\"",
       "options": [
-        { "text": "Scripture", "correct": false, "explanation": "This is NOT in the Bible. It comes from a John Wesley sermon in 1778, where he was quoting an even older proverb." },
-        { "text": "Pinterest", "correct": true, "explanation": "Correct — not in the Bible. It comes from a John Wesley sermon in 1778, quoting an older proverb." }
+        { "text": "Scripture", "correct": false, "explanation": "This one isn't in the Bible. It comes from a John Wesley sermon in 1778, where he was quoting an even older proverb." },
+        { "text": "Pinterest", "correct": true, "explanation": "Spot on. Not in the Bible. It comes from a John Wesley sermon in 1778, quoting an older proverb." }
       ]
     },
     {
       "text": "\"Money is the root of all evil.\"",
       "options": [
-        { "text": "Scripture", "correct": false, "explanation": "MISQUOTE — 1 Timothy 6:10 actually says \"the LOVE of money is the root of ALL KINDS of evil.\" Money itself isn't the root; loving it is." },
-        { "text": "Pinterest (misquoted verse)", "correct": true, "explanation": "Correct — this is a misquote. 1 Timothy 6:10 says \"the LOVE of money is the root of all KINDS of evil.\" Money itself isn't condemned; loving it is." }
+        { "text": "Scripture", "correct": false, "explanation": "Close, but it's a misquote. 1 Timothy 6:10 actually says \"the LOVE of money is the root of ALL KINDS of evil.\" Money itself isn't the root; loving it is." },
+        { "text": "Pinterest (misquoted verse)", "correct": true, "explanation": "Yes, this is a misquote. 1 Timothy 6:10 says \"the LOVE of money is the root of all KINDS of evil.\" Money itself isn't condemned; loving it is." }
       ]
     },
     {
       "text": "\"Be still, and know that I am God.\"",
       "options": [
-        { "text": "Scripture (Psalm 46:10)", "correct": true, "explanation": "Yes — Psalm 46:10. A call to stop striving and recognize God's sovereignty over the nations." },
-        { "text": "Pinterest", "correct": false, "explanation": "This is Psalm 46:10 — a call to stop striving and recognize God's sovereignty." }
+        { "text": "Scripture (Psalm 46:10)", "correct": true, "explanation": "Yes, this is Psalm 46:10, a call to stop striving and recognize God's sovereignty over the nations." },
+        { "text": "Pinterest", "correct": false, "explanation": "This one's real: Psalm 46:10, a call to stop striving and recognize God's sovereignty." }
       ]
     },
     {
       "text": "\"This too shall pass.\"",
       "options": [
-        { "text": "Scripture", "correct": false, "explanation": "This is NOT in the Bible. It comes from a Persian fable, popularized in the West by Abraham Lincoln." },
-        { "text": "Pinterest", "correct": true, "explanation": "Correct — not in the Bible. It's from a medieval Persian fable, later popularized in English by Abraham Lincoln." }
+        { "text": "Scripture", "correct": false, "explanation": "This one isn't in the Bible. It comes from a Persian fable, popularized in the West by Abraham Lincoln." },
+        { "text": "Pinterest", "correct": true, "explanation": "Nailed it. Not in the Bible. It's from a medieval Persian fable, later popularized in English by Abraham Lincoln." }
       ]
     },
     {
       "text": "\"The Lord works in mysterious ways.\"",
       "options": [
-        { "text": "Scripture", "correct": false, "explanation": "This is NOT in the Bible. It comes from a 1773 hymn by William Cowper: \"God moves in a mysterious way, His wonders to perform.\" Isaiah 55:8-9 captures a similar idea biblically." },
-        { "text": "Pinterest", "correct": true, "explanation": "Correct — not in the Bible. It's from an 18th-century hymn by William Cowper. Isaiah 55:8-9 captures a similar idea in actual Scripture." }
+        { "text": "Scripture", "correct": false, "explanation": "This one isn't in the Bible. It comes from a 1773 hymn by William Cowper: \"God moves in a mysterious way, His wonders to perform.\" Isaiah 55:8-9 captures a similar idea biblically." },
+        { "text": "Pinterest", "correct": true, "explanation": "You got it. Not in the Bible. It's from an 18th-century hymn by William Cowper. Isaiah 55:8-9 captures a similar idea in actual Scripture." }
       ]
     },
     {
       "text": "\"Trust in the LORD with all thine heart; and lean not unto thine own understanding.\"",
       "options": [
-        { "text": "Scripture (Proverbs 3:5)", "correct": true, "explanation": "Yes — Proverbs 3:5, one of the most beloved verses in the wisdom literature." },
-        { "text": "Pinterest", "correct": false, "explanation": "This is Proverbs 3:5 — one of the most beloved verses in the wisdom literature." }
+        { "text": "Scripture (Proverbs 3:5)", "correct": true, "explanation": "Yes, this is Proverbs 3:5, one of the most beloved verses in the wisdom literature." },
+        { "text": "Pinterest", "correct": false, "explanation": "This one's real: Proverbs 3:5, one of the most beloved verses in the wisdom literature." }
       ]
     }
   ],
   "scoring": {
-    "perfectMessage": "Ten for ten — your Bible nose is sharp.",
+    "perfectMessage": "Ten for ten. Your Bible nose is sharp.",
     "gradeBands": [
       { "min": 0, "max": 50, "label": "Beginner", "message": "Time to learn what's actually in the Book." },
-      { "min": 51, "max": 80, "label": "Strong", "message": "You can spot a fake — most of the time." },
+      { "min": 51, "max": 80, "label": "Strong", "message": "You can spot a fake most of the time." },
       { "min": 81, "max": 99, "label": "Master", "message": "Few can tell Scripture from sentiment this well." },
-      { "min": 100, "max": 100, "label": "Master", "message": "Flawless — your Bible nose is sharp." }
+      { "min": 100, "max": 100, "label": "Master", "message": "Flawless. Your Bible nose is sharp." }
     ]
   }
 }

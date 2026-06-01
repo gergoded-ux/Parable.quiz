@@ -28,7 +28,7 @@
     {
       "text": "Pick the prayer you've prayed most this month:",
       "options": [
-        { "text": "Father, I have sinned — let me come home.",        "weights": { "prodigal-son": 3 } },
+        { "text": "Father, I have sinned. Let me come home.",          "weights": { "prodigal-son": 3 } },
         { "text": "God be merciful to me a sinner.",                  "weights": { "pharisee-and-tax-collector": 3 } },
         { "text": "Lord, give me eyes to see the person in front of me.", "weights": { "good-samaritan": 3 } },
         { "text": "Make this small thing You gave me bear fruit.",    "weights": { "mustard-seed": 2, "talents": 2 } }
@@ -39,8 +39,8 @@
       "options": [
         { "text": "Soil that finally feels ready.",                  "weights": { "sower": 3 } },
         { "text": "Something tiny that hasn't bloomed yet.",         "weights": { "mustard-seed": 3 } },
-        { "text": "Steward season — using what I've been given.",   "weights": { "talents": 3 } },
-        { "text": "Found season — He came after me.",               "weights": { "lost-sheep": 3 } }
+        { "text": "Steward season, using what I've been given.",    "weights": { "talents": 3 } },
+        { "text": "Found season. He came after me.",                "weights": { "lost-sheep": 3 } }
       ]
     },
     {
@@ -49,7 +49,7 @@
         { "text": "Cross the road to help them.",                   "weights": { "good-samaritan": 3 } },
         { "text": "Leave the ninety-nine to go after the one.",     "weights": { "lost-sheep": 3 } },
         { "text": "Throw a party when they come home.",            "weights": { "prodigal-son": 3 } },
-        { "text": "Catch myself judging — and ask for mercy.",      "weights": { "pharisee-and-tax-collector": 3 } }
+        { "text": "Catch myself judging, then ask for mercy.",      "weights": { "pharisee-and-tax-collector": 3 } }
       ]
     },
     {
@@ -84,43 +84,43 @@
     "prodigal-son": {
       "name": "The Prodigal Coming Home", "emoji": "👣",
       "traits": ["Honest", "Returning", "Loved"],
-      "description": "You're walking home after a long time away — and the Father is already running. You don't need a polished speech, just the courage to keep walking toward His arms.",
+      "description": "You're walking home after a long time away, and the Father is already running. You don't need a polished speech. You just need the nerve to keep walking toward His arms.",
       "scriptureRef": "luke-15-20"
     },
     "good-samaritan": {
       "name": "The Good Samaritan", "emoji": "🤝",
       "traits": ["Compassionate", "Brave", "Hands-on"],
-      "description": "You see the person everyone else walked past. Your love isn't theoretical — it bandages wounds, pays bills, comes back tomorrow. That's the kingdom in real time.",
+      "description": "You see the person everyone else walked past. Your love isn't theoretical. It bandages wounds and pays the bill and comes back the next day to check in. That's the kingdom in real time.",
       "scriptureRef": "luke-10-33"
     },
     "sower": {
       "name": "The Sower's Good Soil", "emoji": "🌱",
       "traits": ["Receptive", "Rooted", "Fruitful"],
-      "description": "The Word is finally landing on ground that's been broken open. Don't be afraid of how slow fruit grows — yours is coming in thirties, sixties, and hundreds.",
+      "description": "The Word is finally landing on ground that's been broken open. Don't let the slow pace scare you. Your fruit is coming, and it's coming in thirties and sixties and hundreds.",
       "scriptureRef": "matt-13-23"
     },
     "mustard-seed": {
       "name": "The Mustard Seed", "emoji": "🌳",
       "traits": ["Small", "Patient", "Becoming"],
-      "description": "Right now your faith feels tiny — almost embarrassingly so. But this is the season where God grows trees from things you can barely see.",
+      "description": "Right now your faith feels tiny, almost embarrassingly so. But this is the season where God grows whole trees from things you can barely see.",
       "scriptureRef": "matt-13-32"
     },
     "lost-sheep": {
       "name": "The Lost Sheep Carried Home", "emoji": "🐑",
       "traits": ["Found", "Carried", "Rejoiced-over"],
-      "description": "You don't have to find your way back — He came after you. He's carrying you on His shoulders, rejoicing the whole way. Let Him.",
+      "description": "You don't have to find your way back. He came after you. He's carrying you on His shoulders and rejoicing the whole way home. Let Him.",
       "scriptureRef": "luke-15-5"
     },
     "talents": {
       "name": "The Faithful Steward", "emoji": "🪙",
       "traits": ["Faithful", "Diligent", "Trusted"],
-      "description": "You're using what God put in your hand instead of burying it out of fear. The reward isn't more stuff — it's more of Him saying 'well done.'",
+      "description": "You're using what God put in your hand instead of burying it out of fear. The reward isn't more stuff. It's more of Him saying 'well done.'",
       "scriptureRef": "matt-25-21"
     },
     "pharisee-and-tax-collector": {
       "name": "The Tax Collector at the Back", "emoji": "🙏",
       "traits": ["Humble", "Honest", "Mercy-soaked"],
-      "description": "You won't even lift your eyes — and that's the very posture God justifies. The simplest prayer in scripture is the one you've been praying: God, be merciful to me.",
+      "description": "You won't even lift your eyes, and that's the exact posture God justifies. The simplest prayer in scripture is the one you've been praying: God, be merciful to me.",
       "scriptureRef": "luke-18-13"
     }
   }

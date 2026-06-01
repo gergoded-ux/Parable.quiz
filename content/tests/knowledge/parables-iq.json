@@ -10,7 +10,7 @@
     {
       "text": "In the parable of the Good Samaritan, who walked past the wounded man before the Samaritan helped him?",
       "options": [
-        { "text": "A priest and a Levite", "correct": true, "explanation": "Luke 10:31-32 — a priest passed by on the other side, then a Levite did the same, before the Samaritan stopped." },
+        { "text": "A priest and a Levite", "correct": true, "explanation": "In Luke 10:31-32, a priest passed by on the other side, then a Levite did the same, before the Samaritan stopped." },
         { "text": "A Pharisee and a scribe", "correct": false, "explanation": "Pharisees and scribes were the audience Jesus often addressed, but they are not the ones in this parable." },
         { "text": "A tax collector and a soldier", "correct": false, "explanation": "Neither appears in this parable; the two who passed by were religious officials." },
         { "text": "A king and his servant", "correct": false, "explanation": "That's closer to the Unforgiving Servant parable in Matthew 18." }
@@ -20,18 +20,18 @@
       "text": "What did the father give the prodigal son when he returned home?",
       "options": [
         { "text": "A scroll of forgiveness and a horse", "correct": false, "explanation": "The text gives no scroll and no horse; it speaks of a robe, ring, shoes, and a feast." },
-        { "text": "The best robe, a ring, and shoes — and a feast with the fatted calf", "correct": true, "explanation": "Luke 15:22-23 — the father called for the best robe, a ring on his finger, shoes on his feet, and the fatted calf for the feast." },
+        { "text": "The best robe, a ring, and shoes, plus a feast with the fatted calf", "correct": true, "explanation": "In Luke 15:22-23, the father called for the best robe, a ring on his finger, shoes on his feet, and the fatted calf for the feast." },
         { "text": "Half the kingdom", "correct": false, "explanation": "That phrase belongs to King Ahasuerus in Esther, not the prodigal's father." },
-        { "text": "Only forgiveness and silence", "correct": false, "explanation": "The father didn't stay silent — he rejoiced loudly and ordered a celebration." }
+        { "text": "Only forgiveness and silence", "correct": false, "explanation": "The father was anything but silent. He rejoiced loudly and ordered a celebration." }
       ]
     },
     {
       "text": "Which of these is NOT one of the soils in the Parable of the Sower?",
       "options": [
-        { "text": "The wayside", "correct": false, "explanation": "Matthew 13:4 — \"some seeds fell by the way side\" is one of the four soils." },
-        { "text": "Stony places", "correct": false, "explanation": "Matthew 13:5 — stony ground is the second soil." },
-        { "text": "A sandy shore", "correct": true, "explanation": "There is no \"sandy shore\" soil. The four soils are wayside, stony, thorny, and good ground." },
-        { "text": "Among thorns", "correct": false, "explanation": "Matthew 13:7 — thorny ground is the third soil." }
+        { "text": "The wayside", "correct": false, "explanation": "Matthew 13:4 counts it as one of the four soils: \"some seeds fell by the way side.\"" },
+        { "text": "Stony places", "correct": false, "explanation": "Stony ground is the second soil, in Matthew 13:5." },
+        { "text": "A sandy shore", "correct": true, "explanation": "There is no \"sandy shore\" soil. The four are wayside, stony, thorny, and good ground." },
+        { "text": "Among thorns", "correct": false, "explanation": "Thorny ground is the third soil, in Matthew 13:7." }
       ]
     },
     {
@@ -39,24 +39,24 @@
       "options": [
         { "text": "Five", "correct": false, "explanation": "The servant given five talents doubled them to ten and was praised." },
         { "text": "Two", "correct": false, "explanation": "The servant given two talents also doubled them and was praised." },
-        { "text": "One", "correct": true, "explanation": "Matthew 25:18 — \"he that had received one went and digged in the earth, and hid his lord's money.\"" },
+        { "text": "One", "correct": true, "explanation": "Matthew 25:18 says, \"he that had received one went and digged in the earth, and hid his lord's money.\"" },
         { "text": "Ten", "correct": false, "explanation": "Ten talents is what the first servant ended up with after doubling his five." }
       ]
     },
     {
       "text": "Which of these is NOT a real parable of Jesus?",
       "options": [
-        { "text": "The Pearl of Great Price", "correct": false, "explanation": "Matthew 13:45-46 — Jesus did tell this parable." },
-        { "text": "The Two Builders on Rock and Sand", "correct": false, "explanation": "Matthew 7:24-27 — this concludes the Sermon on the Mount." },
-        { "text": "The Three Lamps on the Hillside", "correct": true, "explanation": "Jesus told a parable about one lamp not being put under a basket (Matthew 5:15), but there is no \"three lamps on a hillside\" parable." },
-        { "text": "The Wheat and the Tares", "correct": false, "explanation": "Matthew 13:24-30 — Jesus told this parable about the enemy who sowed tares among wheat." }
+        { "text": "The Pearl of Great Price", "correct": false, "explanation": "Jesus did tell this one, in Matthew 13:45-46." },
+        { "text": "The Two Builders on Rock and Sand", "correct": false, "explanation": "This is real, and it closes out the Sermon on the Mount in Matthew 7:24-27." },
+        { "text": "The Three Lamps on the Hillside", "correct": true, "explanation": "Jesus told a parable about one lamp not being put under a basket (Matthew 5:15), but there's no \"three lamps on a hillside\" parable." },
+        { "text": "The Wheat and the Tares", "correct": false, "explanation": "This is real too. Matthew 13:24-30 tells of the enemy who sowed tares among the wheat." }
       ]
     },
     {
       "text": "In the parable of the Good Shepherd, what does the shepherd do for the sheep?",
       "options": [
         { "text": "Counts them every morning", "correct": false, "explanation": "The emphasis isn't on counting." },
-        { "text": "Lays down his life for them", "correct": true, "explanation": "John 10:11 — \"I am the good shepherd: the good shepherd giveth his life for the sheep.\"" },
+        { "text": "Lays down his life for them", "correct": true, "explanation": "John 10:11 says, \"I am the good shepherd: the good shepherd giveth his life for the sheep.\"" },
         { "text": "Sells the weak ones for profit", "correct": false, "explanation": "That's the opposite of the Good Shepherd; the hireling abandons the sheep." },
         { "text": "Keeps only the strongest", "correct": false, "explanation": "Jesus leaves the ninety-nine to seek the one lost sheep (Luke 15:4)." }
       ]
@@ -65,7 +65,7 @@
       "text": "In the parable of the Ten Virgins, what did the foolish virgins forget to bring?",
       "options": [
         { "text": "Their wedding garments", "correct": false, "explanation": "The wedding garment shows up in a different parable (Matthew 22:11)." },
-        { "text": "Oil for their lamps", "correct": true, "explanation": "Matthew 25:3 — \"They that were foolish took their lamps, and took no oil with them.\"" },
+        { "text": "Oil for their lamps", "correct": true, "explanation": "Matthew 25:3 says, \"They that were foolish took their lamps, and took no oil with them.\"" },
         { "text": "The bridegroom's gift", "correct": false, "explanation": "The parable doesn't mention a gift for the bridegroom." },
         { "text": "Their invitations", "correct": false, "explanation": "All ten were invited; the issue was the oil." }
       ]
@@ -74,7 +74,7 @@
       "text": "Which lesson best matches the parable of the Mustard Seed?",
       "options": [
         { "text": "Hidden things will eventually be exposed", "correct": false, "explanation": "That's a different teaching (Mark 4:22)." },
-        { "text": "The kingdom starts small but grows greater than any herb", "correct": true, "explanation": "Matthew 13:31-32 — the mustard seed is least of seeds, but becomes a tree where the birds lodge in its branches." },
+        { "text": "The kingdom starts small but grows greater than any herb", "correct": true, "explanation": "In Matthew 13:31-32, the mustard seed is least of seeds, yet it becomes a tree where the birds lodge in its branches." },
         { "text": "You must wait patiently for harvest", "correct": false, "explanation": "Closer to the Seed Growing Secretly (Mark 4:26-29)." },
         { "text": "Faith without works is dead", "correct": false, "explanation": "That phrase is from James 2:26, not from Jesus' parables." }
       ]
@@ -83,7 +83,7 @@
       "text": "In the parable of the Unforgiving Servant, how much did the master forgive him?",
       "options": [
         { "text": "A hundred pence", "correct": false, "explanation": "A hundred pence is what the servant refused to forgive his fellow servant." },
-        { "text": "Ten thousand talents", "correct": true, "explanation": "Matthew 18:24 — \"one was brought unto him, which owed him ten thousand talents\" — an astronomically large debt." },
+        { "text": "Ten thousand talents", "correct": true, "explanation": "Matthew 18:24 says, \"one was brought unto him, which owed him ten thousand talents.\" That's a staggering debt." },
         { "text": "Thirty pieces of silver", "correct": false, "explanation": "Thirty pieces of silver was the price paid to Judas, not from this parable." },
         { "text": "Two mites", "correct": false, "explanation": "Two mites was the widow's offering in Mark 12:42." }
       ]
@@ -91,17 +91,17 @@
     {
       "text": "Which line is from the parable of the Rich Fool, not an inspirational quote?",
       "options": [
-        { "text": "\"God will never give you more than you can handle\"", "correct": false, "explanation": "That phrase is not in the Bible at all — it's modern Christian folklore." },
-        { "text": "\"Soul, thou hast much goods laid up for many years; take thine ease, eat, drink, and be merry\"", "correct": true, "explanation": "Luke 12:19 — the rich man's self-talk just before God called him a fool that very night." },
+        { "text": "\"God will never give you more than you can handle\"", "correct": false, "explanation": "That phrase isn't in the Bible at all. It's modern Christian folklore." },
+        { "text": "\"Soul, thou hast much goods laid up for many years; take thine ease, eat, drink, and be merry\"", "correct": true, "explanation": "This is Luke 12:19, the rich man's self-talk just before God called him a fool that very night." },
         { "text": "\"Let go and let God\"", "correct": false, "explanation": "A modern Christian saying, not Scripture." },
-        { "text": "\"This too shall pass\"", "correct": false, "explanation": "Not in the Bible — often attributed to a Persian fable." }
+        { "text": "\"This too shall pass\"", "correct": false, "explanation": "Not in the Bible. It's often traced to a Persian fable." }
       ]
     },
     {
       "text": "In the parable of the Lost Sheep, how many sheep did the shepherd leave to find the one?",
       "options": [
         { "text": "Forty-nine", "correct": false, "explanation": "Not the number Jesus gave." },
-        { "text": "Ninety-nine", "correct": true, "explanation": "Luke 15:4 — \"What man of you, having an hundred sheep, if he lose one of them, doth not leave the ninety and nine?\"" },
+        { "text": "Ninety-nine", "correct": true, "explanation": "Luke 15:4 asks, \"What man of you, having an hundred sheep, if he lose one of them, doth not leave the ninety and nine?\"" },
         { "text": "Nine", "correct": false, "explanation": "Not in this parable." },
         { "text": "Eleven", "correct": false, "explanation": "Not in this parable." }
       ]
@@ -111,18 +111,18 @@
       "options": [
         { "text": "The Two Coins and the Banker", "correct": false, "explanation": "There is no such parable. The closest is the Widow's Mite, but that's a real event, not a parable." },
         { "text": "The Stone That Cried Out", "correct": false, "explanation": "Jesus said if the disciples were silent the stones would cry out (Luke 19:40), but no parable carries this title." },
-        { "text": "The Pharisee and the Publican", "correct": true, "explanation": "Luke 18:9-14 — Jesus told this parable about the proud Pharisee and the humble tax collector who went home justified." },
+        { "text": "The Pharisee and the Publican", "correct": true, "explanation": "Luke 18:9-14 tells it: the proud Pharisee and the humble tax collector who went home justified." },
         { "text": "The Centurion's Vineyard", "correct": false, "explanation": "There's a centurion story (Matthew 8) and a vineyard parable (Matthew 21), but no combined \"Centurion's Vineyard\" parable." }
       ]
     }
   ],
   "scoring": {
-    "perfectMessage": "Twelve for twelve — the Teacher Himself would smile.",
+    "perfectMessage": "Twelve for twelve. The Teacher Himself would smile.",
     "gradeBands": [
       { "min": 0, "max": 50, "label": "Beginner", "message": "The parables are waiting for a slower read." },
       { "min": 51, "max": 80, "label": "Strong", "message": "You know the Teacher's stories well." },
       { "min": 81, "max": 99, "label": "Master", "message": "Few hear the parables this clearly." },
-      { "min": 100, "max": 100, "label": "Master", "message": "Flawless — the Teacher Himself would smile." }
+      { "min": 100, "max": 100, "label": "Master", "message": "Flawless. The Teacher Himself would smile." }
     ]
   }
 }

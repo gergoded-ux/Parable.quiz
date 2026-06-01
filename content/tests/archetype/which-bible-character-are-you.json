@@ -12,7 +12,7 @@
       "options": [
         { "text": "Argue with God about why you're the wrong person.",       "weights": { "moses": 3, "esther": 1 } },
         { "text": "Quietly say yes and figure out the details later.",        "weights": { "mary": 3, "ruth": 1 } },
-        { "text": "Step up because someone has to — even if it costs you.",   "weights": { "esther": 3, "david": 1 } },
+        { "text": "Step up because someone has to, even if it costs you.",   "weights": { "esther": 3, "david": 1 } },
         { "text": "Keep doing the next right thing and trust the long arc.",  "weights": { "daniel": 2, "joseph": 2 } }
       ]
     },
@@ -20,7 +20,7 @@
       "text": "What's your relationship with risk?",
       "options": [
         { "text": "I'll run at the giant if no one else will.",                "weights": { "david": 3 } },
-        { "text": "I'll go where you go — loyalty is the risk I'll take.",     "weights": { "ruth": 3, "mary": 1 } },
+        { "text": "I'll go where you go. Loyalty is the risk I'll take.",     "weights": { "ruth": 3, "mary": 1 } },
         { "text": "I'll keep my convictions even when the lions are waiting.", "weights": { "daniel": 3, "esther": 1 } },
         { "text": "I'll travel anywhere if the gospel is on the line.",        "weights": { "paul": 3 } }
       ]
@@ -46,9 +46,9 @@
     {
       "text": "How do you process big feelings?",
       "options": [
-        { "text": "Out loud — psalms, songs, raw honesty.",         "weights": { "david": 3 } },
-        { "text": "In silence — pondering in my heart.",            "weights": { "mary": 3 } },
-        { "text": "On my knees — three times a day if I have to.",  "weights": { "daniel": 3 } },
+        { "text": "Out loud, in psalms and songs and raw honesty.",         "weights": { "david": 3 } },
+        { "text": "In silence, turning it over in my heart.",            "weights": { "mary": 3 } },
+        { "text": "On my knees, three times a day if I have to.",  "weights": { "daniel": 3 } },
         { "text": "By writing long letters to the people I love.",   "weights": { "paul": 3 } }
       ]
     },
@@ -84,49 +84,49 @@
     "david": {
       "name": "David the Songwriter", "emoji": "🎵",
       "traits": ["Passionate", "Honest", "Brave"],
-      "description": "You feel everything loudly and bring it straight to God. You'll run at the giant, write the psalm, and weep over your mistakes — and your heart is after His.",
+      "description": "You feel everything loudly and bring it straight to God. You'll run at the giant one day and weep over your own mistakes the next. Through all of it, your heart keeps reaching for His.",
       "scriptureRef": "1-sam-16-7"
     },
     "moses": {
       "name": "Moses the Reluctant", "emoji": "🔥",
       "traits": ["Humble", "Stubborn", "Called"],
-      "description": "You feel underqualified for what God's asking, and you'll argue about it for a while. But once you go, you go all the way — and the waters part.",
+      "description": "You feel underqualified for what God's asking, and you'll argue about it for a while. But once you go, you go all the way. And then the waters part.",
       "scriptureRef": "exod-3-11"
     },
     "esther": {
       "name": "Esther for Such a Time", "emoji": "👑",
       "traits": ["Courageous", "Strategic", "Sacrificial"],
-      "description": "You sense you're in this room for a reason, even when the room is dangerous. You'll risk everything when the moment asks for it.",
+      "description": "You sense you're in this room for a reason, even when the room is dangerous. When the moment asks for it, you'll risk everything.",
       "scriptureRef": "esth-4-14"
     },
     "ruth": {
       "name": "Ruth the Loyal", "emoji": "🌾",
       "traits": ["Devoted", "Steady", "Hopeful"],
-      "description": "Your love doesn't quit when the road turns hard. You'll leave the familiar to follow the people God's given you, and your faithfulness writes a new lineage.",
+      "description": "Your love doesn't quit when the road turns hard. You'll leave everything familiar to follow the people God's given you. That kind of faithfulness ends up starting a whole new family line.",
       "scriptureRef": "ruth-1-16"
     },
     "daniel": {
       "name": "Daniel in Exile", "emoji": "🦁",
       "traits": ["Disciplined", "Principled", "Prayerful"],
-      "description": "You hold the line quietly. In rooms that don't share your values, you keep your window open toward home — and God closes the lions' mouths.",
+      "description": "You hold the line quietly. In rooms that don't share your values, you keep your window open toward home. And God keeps closing the lions' mouths.",
       "scriptureRef": "dan-6-10"
     },
     "joseph": {
       "name": "Joseph in the Long Wait", "emoji": "🌈",
       "traits": ["Resilient", "Forgiving", "Faithful"],
-      "description": "Pit, prison, palace — you've learned God writes redemption underneath what other people meant for harm. You forgive in ways that startle people.",
+      "description": "Pit, then prison, then palace. You've learned that God can redeem what other people meant for harm. You forgive in ways that genuinely startle people.",
       "scriptureRef": "gen-50-20"
     },
     "paul": {
       "name": "Paul on the Road", "emoji": "✉️",
       "traits": ["Driven", "Articulate", "Relentless"],
-      "description": "Once you saw the light, there was no slowing you down. You'll travel anywhere, write everyone, and press toward the prize until your last breath.",
+      "description": "Once you saw the light, there was no slowing you down. You'll travel anywhere and write to anyone, and you'll press toward the prize until your last breath.",
       "scriptureRef": "phil-3-14"
     },
     "mary": {
       "name": "Mary the Yes", "emoji": "🕊️",
       "traits": ["Surrendered", "Pondering", "Brave"],
-      "description": "Your courage is quiet. You said yes to something impossible and carried it in your heart through every hard moment after.",
+      "description": "Your courage is the quiet kind. You said yes to something impossible, then carried it in your heart through every hard moment that followed.",
       "scriptureRef": "luke-1-38"
     }
   }

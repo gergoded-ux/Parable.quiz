@@ -10,9 +10,9 @@
     {
       "text": "What's your energy in a hard moment?",
       "options": [
-        { "text": "Roar — I run toward the fight.",              "weights": { "lion-of-judah": 3 } },
+        { "text": "Roar. I run toward the fight.",               "weights": { "lion-of-judah": 3 } },
         { "text": "Quiet surrender that disarms the room.",      "weights": { "lamb": 3, "dove": 1 } },
-        { "text": "Lift off — I need height to see clearly.",    "weights": { "eagle": 3 } },
+        { "text": "Lift off. I need height to see clearly.",     "weights": { "eagle": 3 } },
         { "text": "Stay in the flock and listen for the Voice.", "weights": { "sheep": 3 } }
       ]
     },
@@ -30,14 +30,14 @@
       "options": [
         { "text": "Strong, protective, the room's center.",      "weights": { "lion-of-judah": 3 } },
         { "text": "Calm, peace-bringing, a settling presence.",  "weights": { "dove": 3 } },
-        { "text": "Visionary — you see what's coming.",          "weights": { "eagle": 3 } },
+        { "text": "Visionary, the one who sees what's coming.",   "weights": { "eagle": 3 } },
         { "text": "Steady, faithful, dependable.",               "weights": { "sheep": 2, "donkey": 1 } }
       ]
     },
     {
       "text": "Your secret superpower is...",
       "options": [
-        { "text": "Sensing when something is off — I won't be fooled.", "weights": { "serpent": 3 } },
+        { "text": "Sensing when something's off. I won't be fooled.", "weights": { "serpent": 3 } },
         { "text": "Carrying heavy loads without complaining.",          "weights": { "donkey": 3 } },
         { "text": "Walking into chaos and lowering the temperature.",  "weights": { "dove": 3 } },
         { "text": "Knowing my shepherd's voice in a crowd.",            "weights": { "sheep": 3 } }
@@ -46,8 +46,8 @@
     {
       "text": "Where do you find God most often?",
       "options": [
-        { "text": "At high places — wide perspective.",          "weights": { "eagle": 3 } },
-        { "text": "At the altar — quiet, surrendered.",          "weights": { "lamb": 3 } },
+        { "text": "Up high, where the perspective is wide.",     "weights": { "eagle": 3 } },
+        { "text": "At the altar, quiet and surrendered.",        "weights": { "lamb": 3 } },
         { "text": "In the everyday workload, faithful in small things.", "weights": { "donkey": 3 } },
         { "text": "In the fight, where courage is required.",    "weights": { "lion-of-judah": 3 } }
       ]
@@ -55,10 +55,10 @@
     {
       "text": "Pick the season you're in:",
       "options": [
-        { "text": "Roar season — I need to use my voice.",       "weights": { "lion-of-judah": 3 } },
-        { "text": "Soaring — I'm being renewed.",                "weights": { "eagle": 3 } },
-        { "text": "Following — I need to be led for a while.",   "weights": { "sheep": 3 } },
-        { "text": "Carrying — there's a load that's mine to bear.", "weights": { "donkey": 3 } }
+        { "text": "Roar season. I need to use my voice.",        "weights": { "lion-of-judah": 3 } },
+        { "text": "Soaring. I'm being renewed.",                 "weights": { "eagle": 3 } },
+        { "text": "Following. I need to be led for a while.",    "weights": { "sheep": 3 } },
+        { "text": "Carrying a load that's mine to bear.",        "weights": { "donkey": 3 } }
       ]
     },
     {
@@ -84,43 +84,43 @@
     "lion-of-judah": {
       "name": "Lion of Judah", "emoji": "🦁",
       "traits": ["Bold", "Protective", "Strong"],
-      "description": "You carry kingdom strength. You'll roar when other people stay quiet, and you protect what God has put in your care — even at cost to yourself.",
+      "description": "You carry a fierce kind of courage. You'll roar when other people stay quiet, and you protect what God has put in your care, even when it costs you something.",
       "scriptureRef": "rev-5-5"
     },
     "lamb": {
       "name": "The Lamb", "emoji": "🐑",
       "traits": ["Surrendered", "Pure", "Gentle"],
-      "description": "Your strength is a yielded one. You disarm people by refusing to retaliate, and you carry the same posture Jesus carried — quiet, willing, and powerful in its softness.",
+      "description": "Your strength is a yielded one. You disarm people by refusing to hit back, and you carry the same posture Jesus carried: quiet, willing, and somehow powerful in all that softness.",
       "scriptureRef": "john-1-29"
     },
     "eagle": {
       "name": "Eagle on the Updraft", "emoji": "🦅",
       "traits": ["Visionary", "Renewed", "Soaring"],
-      "description": "You're built for height. You see what's coming before others do, and your strength is renewed every time you wait on God instead of trying to flap your way through.",
+      "description": "You're built for height. You see what's coming before everyone else does, and your strength gets renewed every time you wait on God instead of flapping your way through.",
       "scriptureRef": "isa-40-31"
     },
     "dove": {
       "name": "The Dove", "emoji": "🕊️",
       "traits": ["Peaceful", "Pure", "Holy"],
-      "description": "You carry the Spirit's calm. Where you land, peace lands. You're the friend whose presence in a tense room makes anxious shoulders drop.",
+      "description": "You carry the Spirit's calm. Where you land, peace lands. You're the friend who walks into a tense room and somehow everyone's shoulders drop an inch.",
       "scriptureRef": "matt-3-16"
     },
     "sheep": {
       "name": "Sheep of His Pasture", "emoji": "🐏",
       "traits": ["Following", "Trusting", "Known"],
-      "description": "You know His voice. You're not impressive on paper, but you follow closely — and that closeness is its own miracle.",
+      "description": "You know His voice. You're not impressive on paper, but you stay close, and that closeness is its own quiet miracle.",
       "scriptureRef": "john-10-27"
     },
     "donkey": {
       "name": "Balaam's Donkey", "emoji": "🐴",
       "traits": ["Honest", "Faithful", "Truth-telling"],
-      "description": "You see what others miss and you'll say it even when it's awkward. God uses unlikely voices like yours to keep people on the path — even prophets.",
+      "description": "You see what others miss and you'll say it even when it's awkward. God uses unlikely voices like yours to keep people on the path. Even prophets need one sometimes.",
       "scriptureRef": "num-22-28"
     },
     "serpent": {
       "name": "Wise as Serpents", "emoji": "🐍",
       "traits": ["Discerning", "Shrewd", "Wise"],
-      "description": "You see through what other people swallow whole. Jesus told His friends to be exactly this kind of wise — sharp-eyed, no-nonsense, and harmless in motive.",
+      "description": "You see through what other people swallow whole. Jesus told His friends to be exactly this kind of wise: sharp-eyed and no-nonsense, but harmless in motive.",
       "scriptureRef": "matt-10-16"
     }
   }

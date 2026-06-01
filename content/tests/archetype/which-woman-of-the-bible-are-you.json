@@ -21,7 +21,7 @@
       "options": [
         { "text": "Pour out your soul until words run out.",   "weights": { "hannah": 3 } },
         { "text": "Stay loyal to the people He gave you.",     "weights": { "ruth": 3 } },
-        { "text": "Lead the next step anyway — someone has to.", "weights": { "deborah": 3, "esther": 1 } },
+        { "text": "Lead the next step anyway, because someone has to.", "weights": { "deborah": 3, "esther": 1 } },
         { "text": "Sit and listen for the still small voice.",  "weights": { "mary-of-bethany": 2 } }
       ]
     },
@@ -46,7 +46,7 @@
     {
       "text": "How do you handle being underestimated?",
       "options": [
-        { "text": "I lead anyway — the result speaks.",                 "weights": { "deborah": 3 } },
+        { "text": "I lead anyway and let the result speak.",                 "weights": { "deborah": 3 } },
         { "text": "I teach the people in front of me with patience.",   "weights": { "priscilla": 3 } },
         { "text": "I trust God knows my name even when no one says it.", "weights": { "hannah": 2, "ruth": 1 } },
         { "text": "I do the thing the room said was impossible.",       "weights": { "rahab": 3, "esther": 1 } }
@@ -65,7 +65,7 @@
       "text": "When you're stressed, your version of self-care is...",
       "options": [
         { "text": "Sitting still in a quiet place.",         "weights": { "mary-of-bethany": 3 } },
-        { "text": "Cleaning, cooking, organizing — moving.", "weights": { "martha": 3 } },
+        { "text": "Cleaning, cooking, organizing, just keep moving.", "weights": { "martha": 3 } },
         { "text": "Long, honest prayer.",                    "weights": { "hannah": 3 } },
         { "text": "A walk with someone wise.",               "weights": { "priscilla": 2, "deborah": 1 } }
       ]
@@ -84,49 +84,49 @@
     "mary-of-bethany": {
       "name": "Mary of Bethany", "emoji": "🪔",
       "traits": ["Devoted", "Attentive", "Still"],
-      "description": "You've chosen the better part. Where others scramble, you sit — and the world thinks you're wasting time until they realize you've been with Him the whole while.",
+      "description": "You've chosen the better part. Where others scramble, you sit. People think you're wasting time, right up until they realize you've been with Him the whole while.",
       "scriptureRef": "luke-10-42"
     },
     "martha": {
       "name": "Martha the Doer", "emoji": "🍞",
       "traits": ["Capable", "Loyal", "Caring"],
-      "description": "Your love shows up as service. You're often the reason the room is fed and the room is steady — and Jesus is gently inviting you to also just sit with Him.",
+      "description": "Your love shows up as service. You're usually the reason the room is fed and steady. And Jesus is gently inviting you to put the tray down for a minute and just sit with Him.",
       "scriptureRef": "luke-10-41"
     },
     "ruth": {
       "name": "Ruth the Loyal", "emoji": "🌾",
       "traits": ["Devoted", "Steady", "Hopeful"],
-      "description": "You'll leave the familiar to follow the people God's given you. Your faithfulness in obscurity becomes part of a lineage you can't yet see.",
+      "description": "You'll leave everything familiar to follow the people God's given you. Your faithfulness in the quiet years ends up being part of a story far bigger than you can see right now.",
       "scriptureRef": "ruth-1-16"
     },
     "esther": {
       "name": "Esther for Such a Time", "emoji": "👑",
       "traits": ["Courageous", "Strategic", "Sacrificial"],
-      "description": "You sense the room you're in is no accident. When the moment demands courage, you'll walk in even if it costs you everything.",
+      "description": "You sense the room you're standing in is no accident. When the moment demands courage, you'll walk in, even if it costs you everything.",
       "scriptureRef": "esth-4-14"
     },
     "deborah": {
       "name": "Deborah the Judge", "emoji": "🌳",
       "traits": ["Wise", "Decisive", "Bold"],
-      "description": "You lead from the tree, not the throne. People come to you for clarity, and you give it without ego. When the army won't move alone, you go with them.",
+      "description": "You lead from the tree, not the throne. People come to you for clarity and you give it without any ego attached. And when the army won't move without you, you go with them.",
       "scriptureRef": "judg-4-9"
     },
     "hannah": {
       "name": "Hannah in the Temple", "emoji": "🙏",
       "traits": ["Honest", "Persistent", "Surrendered"],
-      "description": "You bring your tears to God without dressing them up. You've been misunderstood while praying — and still, you'll keep pouring out your soul until He answers.",
+      "description": "You bring your tears to God without dressing them up first. People have misread you mid-prayer and assumed the worst. You keep praying anyway, until He answers.",
       "scriptureRef": "1-sam-1-15"
     },
     "rahab": {
       "name": "Rahab the Brave", "emoji": "🪢",
       "traits": ["Daring", "Resourceful", "Believing"],
-      "description": "You don't have a religious resume — but you have eyes that recognized the real God. You'll risk everything to align with what's true, and grace writes you into the family tree.",
+      "description": "You don't have a religious resume. What you have is the instinct to recognize the real God when you see Him. You'll risk everything to be on the side of what's true, and grace writes you right into the family tree.",
       "scriptureRef": "josh-2-11"
     },
     "priscilla": {
       "name": "Priscilla the Teacher", "emoji": "📜",
       "traits": ["Sharp", "Hospitable", "Discipling"],
-      "description": "You learn deeply and you teach gently. You take people aside and explain things more fully without making them feel small. The church grows because of women like you.",
+      "description": "You learn things carefully, then teach them gently. You take people aside and explain it all more fully without ever making them feel small. The church grows because of women like you.",
       "scriptureRef": "acts-18-26"
     }
   }

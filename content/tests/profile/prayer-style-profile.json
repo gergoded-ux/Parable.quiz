@@ -19,27 +19,27 @@
     {
       "text": "When you really need to pray, where do you go?",
       "options": [
-        { "text": "Somewhere quiet — I just want to be with Him.", "weights": { "contemplative": 3 } },
-        { "text": "My Bible — I pray Scripture back to Him.", "weights": { "scripture-praying": 3 } },
-        { "text": "On a walk — I need to talk it all out.", "weights": { "petitionary": 2, "lament": 1 } },
-        { "text": "Music on, hands up — I have to worship.", "weights": { "praise": 3 } }
+        { "text": "Somewhere quiet. I just want to be with Him.", "weights": { "contemplative": 3 } },
+        { "text": "My Bible. I pray Scripture back to Him.", "weights": { "scripture-praying": 3 } },
+        { "text": "On a walk. I need to talk it all out.", "weights": { "petitionary": 2, "lament": 1 } },
+        { "text": "Music on, hands up. I have to worship.", "weights": { "praise": 3 } }
       ]
     },
     {
       "text": "Your prayer time most often sounds like...",
       "options": [
         { "text": "A list of names and needs I'm carrying for others.", "weights": { "intercessory": 3 } },
-        { "text": "More silence than speaking — I'm waiting on Him.", "weights": { "listening": 3, "contemplative": 1 } },
-        { "text": "Raw honesty — the hard things go straight to Him.", "weights": { "lament": 3 } },
+        { "text": "More silence than speaking. I'm waiting on Him.", "weights": { "listening": 3, "contemplative": 1 } },
+        { "text": "Raw honesty. The hard things go straight to Him.", "weights": { "lament": 3 } },
         { "text": "A psalm I'm praying word by word.", "weights": { "scripture-praying": 3 } }
       ]
     },
     {
       "text": "When life gets heavy, what comes out of you first?",
       "options": [
-        { "text": "Why, God? — and I mean it.", "weights": { "lament": 3 } },
-        { "text": "Help me, please — and a long list of asks.", "weights": { "petitionary": 3 } },
-        { "text": "I praise anyway — that's where I find Him.", "weights": { "praise": 3 } },
+        { "text": "Why, God? And I mean it.", "weights": { "lament": 3 } },
+        { "text": "Help me, please. And a long list of asks.", "weights": { "petitionary": 3 } },
+        { "text": "I praise anyway. That's where I find Him.", "weights": { "praise": 3 } },
         { "text": "I open my Bible and pray the words back at Him.", "weights": { "scripture-praying": 3 } }
       ]
     },
@@ -55,25 +55,25 @@
     {
       "text": "Your friends know that if they need prayer, they should...",
       "options": [
-        { "text": "Tell me — I'll carry it daily until something breaks.", "weights": { "intercessory": 3 } },
-        { "text": "Sit with me in silence — I'll pray as we listen.", "weights": { "contemplative": 2, "listening": 1 } },
-        { "text": "Text me a need — I'll pray right then and there.", "weights": { "petitionary": 3 } },
-        { "text": "Send me the situation — I'll find the verse and pray it over them.", "weights": { "scripture-praying": 3 } }
+        { "text": "Tell me. I'll carry it daily until something breaks.", "weights": { "intercessory": 3 } },
+        { "text": "Sit with me in silence. I'll pray as we listen.", "weights": { "contemplative": 2, "listening": 1 } },
+        { "text": "Text me a need. I'll pray right then and there.", "weights": { "petitionary": 3 } },
+        { "text": "Send me the situation. I'll find the verse and pray it over them.", "weights": { "scripture-praying": 3 } }
       ]
     },
     {
       "text": "What rhythm has worked best in your prayer life lately?",
       "options": [
-        { "text": "Worship music — I sing my way into His presence.", "weights": { "praise": 3 } },
-        { "text": "Walking, talking, asking — moving prayer fits me.", "weights": { "petitionary": 3 } },
-        { "text": "Journaling honestly — including the parts that hurt.", "weights": { "lament": 2 } },
+        { "text": "Worship music. I sing my way into His presence.", "weights": { "praise": 3 } },
+        { "text": "Walking, talking, asking. Moving prayer fits me.", "weights": { "petitionary": 3 } },
+        { "text": "Journaling honestly, including the parts that hurt.", "weights": { "lament": 2 } },
         { "text": "Praying through a list of people I love.", "weights": { "intercessory": 3 } }
       ]
     },
     {
       "text": "When God answers, you most often realize it because...",
       "options": [
-        { "text": "I heard Him in the quiet — He spoke to my spirit.", "weights": { "listening": 3 } },
+        { "text": "I heard Him in the quiet. He spoke to my spirit.", "weights": { "listening": 3 } },
         { "text": "The verse I prayed came alive that very day.", "weights": { "scripture-praying": 3 } },
         { "text": "The thing I asked for showed up.", "weights": { "petitionary": 3 } },
         { "text": "The person I've been praying for finally moved.", "weights": { "intercessory": 3 } }
@@ -83,7 +83,7 @@
       "text": "When you don't know what to pray, what saves you?",
       "options": [
         { "text": "I open the Psalms and let David pray for me.", "weights": { "scripture-praying": 3, "lament": 1 } },
-        { "text": "I just sit in His presence — words aren't needed.", "weights": { "contemplative": 3 } },
+        { "text": "I just sit in His presence. Words aren't needed.", "weights": { "contemplative": 3 } },
         { "text": "I list everyone I love and bring each one to Him.", "weights": { "intercessory": 3 } },
         { "text": "I worship until my heart catches up.", "weights": { "praise": 3 } }
       ]
@@ -101,29 +101,29 @@
   "results": {
     "contemplative": {
       "name": "Contemplative",
-      "description": "You meet God in the quiet. You'd rather sit with Him than perform anything for Him, and the silence isn't empty — it's full. Protect that hidden time; it's where the rest of your life gets watered.",
+      "description": "You meet God in the quiet. You'd rather sit with Him than perform anything for Him, and the silence isn't empty. It's full. Protect that hidden time. It's where the rest of your life gets watered.",
       "scriptureRef": "ps-46-10"
     },
     "petitionary": {
       "name": "Petitionary",
-      "description": "You talk to God like a Father who can actually fix things — because He can. Your prayer life runs on real asks for real needs, and you're not embarrassed to bring them. He loves that you come."
+      "description": "You talk to God like a Father who can actually fix things, because He can. Your prayer life runs on real asks for real needs, and you're not embarrassed to bring them. He loves that you come."
     },
     "praise": {
       "name": "Praise",
-      "description": "You break through in worship. Where others get stuck in their head, you sing your way back to Him, and the room shifts when you do. Keep the music on — that's your front door."
+      "description": "You break through in worship. Where others get stuck in their head, you sing your way back to Him, and the room shifts when you do. Keep the music on. That's your front door."
     },
     "lament": {
       "name": "Lament",
-      "description": "You're honest with God when it hurts. You don't decorate your prayers — you bring the rawness, the why, the how long. He calls that worship too, and the Psalms were written for hearts like yours.",
+      "description": "You're honest with God when it hurts. You don't decorate your prayers. You bring the rawness, the why, the how long. He calls that worship too, and the Psalms were written for hearts like yours.",
       "scriptureRef": "ps-51-1"
     },
     "intercessory": {
       "name": "Intercessory",
-      "description": "You carry people in prayer like a job. You have a list, and you actually pray it — daily, sometimes for years, until heaven moves. That's a watchman's gift; the Body needs you praying."
+      "description": "You carry people in prayer like a job. You have a list, and you actually pray it. Daily, sometimes for years, until heaven moves. That's a watchman's gift, and the Body needs you praying."
     },
     "listening": {
       "name": "Listening",
-      "description": "You expect God to actually speak — and He does. You make space, get still, and hear Him in your spirit. That kind of prayer takes practice and trust, and you've been building both.",
+      "description": "You expect God to actually speak, and He does. You make space, get still, and hear Him in your spirit. That kind of prayer takes practice and trust, and you've been building both.",
       "scriptureRef": "1-kgs-19-12"
     },
     "scripture-praying": {
