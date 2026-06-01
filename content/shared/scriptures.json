@@ -1,10 +1,10 @@
 {
-  "matt-16-18": {
-    "text": "And on this rock I will build my church.",
-    "reference": "Matthew 16:18"
-  },
-  "john-13-23": {
-    "text": "Now there was leaning on Jesus' bosom one of his disciples, whom Jesus loved.",
-    "reference": "John 13:23"
-  }
+  "matt-16-18": { "text": "And on this rock I will build my church.", "reference": "Matthew 16:18" },
+  "john-13-23": { "text": "Now there was leaning on Jesus' bosom one of his disciples, whom Jesus loved.", "reference": "John 13:23" },
+  "mark-3-17": { "text": "James and John, to whom he gave the name Boanerges, that is, sons of thunder.", "reference": "Mark 3:17" },
+  "john-1-41": { "text": "He first findeth his own brother Simon, and saith unto him, We have found the Messiah.", "reference": "John 1:41" },
+  "john-20-25": { "text": "Except I shall see in his hands the print of the nails... I will not believe.", "reference": "John 20:25" },
+  "matt-9-9": { "text": "And as Jesus passed forth from thence, he saw a man, named Matthew, sitting at the receipt of custom: and he saith unto him, Follow me.", "reference": "Matthew 9:9" },
+  "john-6-7": { "text": "Two hundred pennyworth of bread is not sufficient for them.", "reference": "John 6:7" },
+  "john-1-45": { "text": "Philip findeth Nathanael, and saith unto him, We have found him.", "reference": "John 1:45" }
 }
