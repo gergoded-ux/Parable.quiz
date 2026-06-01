@@ -1,0 +1,155 @@
+{
+  "slug": "genesis-iq",
+  "title": "Genesis IQ",
+  "subtitle": "How well do you know the book of beginnings?",
+  "lang": "en",
+  "category": "bible-iq",
+  "estimatedMinutes": 5,
+  "mode": "knowledge",
+  "questions": [
+    {
+      "text": "On which day did God create the sun, moon, and stars?",
+      "options": [
+        { "text": "The first day", "correct": false, "explanation": "The first day brought light, but the sun, moon, and stars came later." },
+        { "text": "The third day", "correct": false, "explanation": "The third day brought dry land and vegetation." },
+        { "text": "The fourth day", "correct": true, "explanation": "Genesis 1:14-19 — \"And God made two great lights... the stars also.\" Day four." },
+        { "text": "The sixth day", "correct": false, "explanation": "Day six brought land animals and mankind." }
+      ]
+    },
+    {
+      "text": "What was the name of the garden God placed Adam in?",
+      "options": [
+        { "text": "Gethsemane", "correct": false, "explanation": "Gethsemane is in the New Testament — the garden where Jesus prayed before the cross." },
+        { "text": "Eden", "correct": true, "explanation": "Genesis 2:8 — \"And the LORD God planted a garden eastward in Eden.\"" },
+        { "text": "Goshen", "correct": false, "explanation": "Goshen was the region in Egypt where Israel settled under Joseph." },
+        { "text": "Shiloh", "correct": false, "explanation": "Shiloh was a later worship site in Israel, not the original garden." }
+      ]
+    },
+    {
+      "text": "Who killed Abel?",
+      "options": [
+        { "text": "Seth", "correct": false, "explanation": "Seth was the son Adam and Eve had after Abel's death." },
+        { "text": "Lamech", "correct": false, "explanation": "Lamech was a later descendant of Cain who also boasted of killing a man." },
+        { "text": "Cain", "correct": true, "explanation": "Genesis 4:8 — Cain rose up against his brother Abel and slew him." },
+        { "text": "Enoch", "correct": false, "explanation": "Enoch was a righteous man who \"walked with God,\" not a murderer." }
+      ]
+    },
+    {
+      "text": "How old was Noah when the flood came on the earth?",
+      "options": [
+        { "text": "500 years", "correct": false, "explanation": "Noah was 500 when he began having sons (Genesis 5:32)." },
+        { "text": "600 years", "correct": true, "explanation": "Genesis 7:6 — \"Noah was six hundred years old when the flood of waters was upon the earth.\"" },
+        { "text": "700 years", "correct": false, "explanation": "Noah lived to 950 (Genesis 9:29), but the flood came at 600." },
+        { "text": "950 years", "correct": false, "explanation": "That was the total length of Noah's life, not his age at the flood." }
+      ]
+    },
+    {
+      "text": "What did God use to set in the cloud as a sign of His covenant with Noah?",
+      "options": [
+        { "text": "A star", "correct": false, "explanation": "Stars are signs elsewhere in Scripture, but not the rainbow covenant." },
+        { "text": "A rainbow", "correct": true, "explanation": "Genesis 9:13 — \"I do set my bow in the cloud, and it shall be for a token of a covenant.\"" },
+        { "text": "A dove", "correct": false, "explanation": "The dove brought back an olive leaf, but the covenant sign was the bow." },
+        { "text": "An olive branch", "correct": false, "explanation": "The dove returned with an olive leaf to signal the waters had abated, but it wasn't the covenant sign." }
+      ]
+    },
+    {
+      "text": "What city did the people build with a tower that God confused with many languages?",
+      "options": [
+        { "text": "Nineveh", "correct": false, "explanation": "Nineveh was the Assyrian capital where Jonah preached, not the tower city." },
+        { "text": "Babel", "correct": true, "explanation": "Genesis 11:9 — \"Therefore is the name of it called Babel; because the LORD did there confound the language of all the earth.\"" },
+        { "text": "Sodom", "correct": false, "explanation": "Sodom was destroyed by fire, not language confusion." },
+        { "text": "Ur", "correct": false, "explanation": "Ur was Abraham's homeland, not the tower city." }
+      ]
+    },
+    {
+      "text": "What was Abraham's name before God changed it?",
+      "options": [
+        { "text": "Abram", "correct": true, "explanation": "Genesis 17:5 — \"Neither shall thy name any more be called Abram, but thy name shall be Abraham; for a father of many nations have I made thee.\"" },
+        { "text": "Aram", "correct": false, "explanation": "Aram was a region/people in the ancient Near East, not Abraham's prior name." },
+        { "text": "Eber", "correct": false, "explanation": "Eber was an ancestor, not Abraham's earlier name." },
+        { "text": "Adam", "correct": false, "explanation": "Adam was the first man, generations before Abraham." }
+      ]
+    },
+    {
+      "text": "Sarah laughed when she heard she would bear a son. What did God name the child?",
+      "options": [
+        { "text": "Ishmael", "correct": false, "explanation": "Ishmael was Abraham's son by Hagar, not Sarah's son." },
+        { "text": "Isaac", "correct": true, "explanation": "Genesis 21:3 — \"And Abraham called the name of his son... Isaac.\" The name means \"laughter.\"" },
+        { "text": "Jacob", "correct": false, "explanation": "Jacob was Isaac's son and Sarah's grandson." },
+        { "text": "Esau", "correct": false, "explanation": "Esau was Isaac's son, not Sarah's son." }
+      ]
+    },
+    {
+      "text": "On what mountain did Abraham nearly sacrifice Isaac?",
+      "options": [
+        { "text": "Mount Sinai", "correct": false, "explanation": "Mount Sinai is where Moses received the Law much later." },
+        { "text": "Mount Carmel", "correct": false, "explanation": "Mount Carmel is where Elijah confronted the prophets of Baal." },
+        { "text": "Mount Moriah", "correct": true, "explanation": "Genesis 22:2 — \"Get thee into the land of Moriah; and offer him there for a burnt offering upon one of the mountains.\"" },
+        { "text": "Mount Hermon", "correct": false, "explanation": "Mount Hermon is in northern Israel, associated with the Transfiguration in some traditions." }
+      ]
+    },
+    {
+      "text": "What did Esau sell to Jacob for a bowl of stew?",
+      "options": [
+        { "text": "His sword", "correct": false, "explanation": "Esau was a hunter, but the trade wasn't for a weapon." },
+        { "text": "His tent", "correct": false, "explanation": "The trade wasn't for property." },
+        { "text": "His birthright", "correct": true, "explanation": "Genesis 25:33 — \"And he sold his birthright unto Jacob.\"" },
+        { "text": "His name", "correct": false, "explanation": "Esau kept his name; what he sold was his birthright as firstborn." }
+      ]
+    },
+    {
+      "text": "What did Jacob see in his dream at Bethel?",
+      "options": [
+        { "text": "A burning bush", "correct": false, "explanation": "The burning bush was Moses' encounter centuries later." },
+        { "text": "A ladder reaching to heaven", "correct": true, "explanation": "Genesis 28:12 — \"And he dreamed, and behold a ladder set up on the earth, and the top of it reached to heaven.\"" },
+        { "text": "Four chariots", "correct": false, "explanation": "Chariot visions belong to Zechariah and other prophets." },
+        { "text": "A scroll of names", "correct": false, "explanation": "Scroll visions belong to Ezekiel and Revelation." }
+      ]
+    },
+    {
+      "text": "After wrestling all night with the angel, what was Jacob's new name?",
+      "options": [
+        { "text": "Israel", "correct": true, "explanation": "Genesis 32:28 — \"Thy name shall be called no more Jacob, but Israel: for as a prince hast thou power with God and with men, and hast prevailed.\"" },
+        { "text": "Judah", "correct": false, "explanation": "Judah was one of Jacob's sons, not his new name." },
+        { "text": "Bethel", "correct": false, "explanation": "Bethel was the place where Jacob had his ladder dream." },
+        { "text": "Peniel", "correct": false, "explanation": "Peniel was the name Jacob gave the place of the wrestling — \"I have seen God face to face\" — but his own new name was Israel." }
+      ]
+    },
+    {
+      "text": "How many sons did Jacob have who became the tribes of Israel?",
+      "options": [
+        { "text": "Ten", "correct": false, "explanation": "Joseph and Benjamin would be missing from a list of ten." },
+        { "text": "Twelve", "correct": true, "explanation": "Genesis 35:22-26 lists Jacob's twelve sons, the fathers of the twelve tribes of Israel." },
+        { "text": "Seven", "correct": false, "explanation": "Leah had six sons of her own, but Jacob fathered twelve total." },
+        { "text": "Fourteen", "correct": false, "explanation": "There are twelve sons of Jacob; the tribes sometimes count Joseph's two sons (Ephraim and Manasseh) separately, but Jacob's sons are twelve." }
+      ]
+    },
+    {
+      "text": "Why did Joseph's brothers sell him into slavery?",
+      "options": [
+        { "text": "He stole their money", "correct": false, "explanation": "Joseph didn't steal anything; his brothers acted out of jealousy." },
+        { "text": "They were jealous of his coat and his dreams", "correct": true, "explanation": "Genesis 37:3-11 — Joseph's coat of many colors and his dreams of his brothers bowing made them envy him." },
+        { "text": "He betrayed them to Egyptians", "correct": false, "explanation": "Joseph was the victim, not the betrayer." },
+        { "text": "Their father told them to", "correct": false, "explanation": "Jacob was devastated when he believed Joseph was dead; he never sanctioned this." }
+      ]
+    },
+    {
+      "text": "How does the book of Genesis end?",
+      "options": [
+        { "text": "With Israel crossing the Red Sea", "correct": false, "explanation": "The Red Sea crossing is in Exodus 14." },
+        { "text": "With the death of Abraham", "correct": false, "explanation": "Abraham's death is in Genesis 25, well before the end." },
+        { "text": "With Joseph's death in Egypt", "correct": true, "explanation": "Genesis 50:26 — \"So Joseph died, being an hundred and ten years old: and they embalmed him, and he was put in a coffin in Egypt.\"" },
+        { "text": "With Moses' birth", "correct": false, "explanation": "Moses' birth is in Exodus 2." }
+      ]
+    }
+  ],
+  "scoring": {
+    "perfectMessage": "Eden-level scholar!",
+    "gradeBands": [
+      { "min": 0, "max": 50, "label": "Beginner", "message": "Time to crack open Genesis." },
+      { "min": 51, "max": 80, "label": "Strong", "message": "You know the beginning well." },
+      { "min": 81, "max": 99, "label": "Master", "message": "Few know Genesis like you do." },
+      { "min": 100, "max": 100, "label": "Master", "message": "Flawless. Eden-level scholar." }
+    ]
+  }
+}
