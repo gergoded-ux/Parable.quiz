@@ -1,0 +1,47 @@
+# Existing 20 LIVE quizzes (slugs) + 20 ROADMAP quizzes (normalized).
+# Any new topic whose slug or normalized title matches an entry here is a DUPLICATE and must be dropped.
+# Format: one normalized identifier per line (lowercase, kebab-case).
+
+# --- 20 LIVE ---
+which-apostle-are-you
+which-bible-character-are-you
+which-fruit-of-the-spirit-are-you
+which-woman-of-the-bible-are-you
+mary-or-martha
+which-psalm-speaks-to-you
+which-prophet-are-you
+which-parable-describes-your-life
+which-beatitude-defines-you
+which-bible-animal-are-you
+which-bible-story-are-you-living
+which-christmas-character-are-you
+spiritual-gifts-profile
+beatitudes-profile
+virtues-and-vices-profile
+prayer-style-profile
+spiritual-discipline-recommender
+genesis-iq
+parables-iq
+verse-or-quote
+
+# --- 20 ROADMAP (already planned, treat as taken) ---
+which-easter-character-are-you
+which-pauline-letter-speaks-to-you
+bible-geography-iq
+new-testament-iq
+worship-style-profile
+which-spiritual-armor-piece-are-you
+which-bible-mountain-are-you
+names-of-god-quiz
+calling-profile
+discipleship-stage-profile
+which-christmas-hymn-are-you
+which-bible-villain-trait
+which-disciple-misunderstood-jesus
+old-testament-iq
+spiritual-battle-profile
+which-bible-friendship-are-you
+books-of-the-bible-sorter
+acts-iq
+which-bible-prayer-matches-yours
+which-sermon-on-the-mount-teaching-convicts-you
