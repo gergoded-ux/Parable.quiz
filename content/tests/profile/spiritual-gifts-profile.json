@@ -1,0 +1,186 @@
+{
+  "slug": "spiritual-gifts-profile",
+  "title": "Spiritual Gifts Profile",
+  "subtitle": "Discover the top three ways God has wired you to serve",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 7,
+  "mode": "profile",
+  "dimensions": [
+    "teaching",
+    "mercy",
+    "prophecy",
+    "leadership",
+    "service",
+    "wisdom",
+    "faith",
+    "healing",
+    "discernment",
+    "evangelism",
+    "giving",
+    "exhortation"
+  ],
+  "questions": [
+    {
+      "text": "At a church potluck where a stranger walks in alone, what's your move?",
+      "options": [
+        { "text": "I walk over and start a real conversation — they'll leave knowing Jesus loves them.", "weights": { "evangelism": 3, "mercy": 1 } },
+        { "text": "I get them a plate, save them a seat, and quietly make sure they're not forgotten.", "weights": { "service": 3, "mercy": 1 } },
+        { "text": "I sit with them and listen — there's a story under the surface and I want to hear it.", "weights": { "mercy": 3, "discernment": 1 } },
+        { "text": "I pull others over and host the conversation — let's make this a moment.", "weights": { "leadership": 3, "exhortation": 1 } }
+      ]
+    },
+    {
+      "text": "When a friend texts you in a crisis at midnight, what comes out of you?",
+      "options": [
+        { "text": "I drop into prayer and trust God for what only He can do — I know He'll show up.", "weights": { "faith": 3, "healing": 1 } },
+        { "text": "I help them see what's really going on — Scripture cuts through the fog.", "weights": { "prophecy": 2, "wisdom": 2 } },
+        { "text": "I sit with them in the dark and remind them they're not alone.", "weights": { "mercy": 3 } },
+        { "text": "I show up with a practical plan — what do you need done by morning?", "weights": { "service": 2, "leadership": 1 } }
+      ]
+    },
+    {
+      "text": "Which compliment lands deepest on you?",
+      "options": [
+        { "text": "\"You helped me actually understand the Bible.\"", "weights": { "teaching": 3 } },
+        { "text": "\"Talking to you felt like God was in the room.\"", "weights": { "prophecy": 2, "discernment": 1 } },
+        { "text": "\"You believed for me when I couldn't.\"", "weights": { "faith": 3, "exhortation": 1 } },
+        { "text": "\"You always know the right thing to do.\"", "weights": { "wisdom": 3 } }
+      ]
+    },
+    {
+      "text": "Money lands in your account unexpectedly. Your honest first thought?",
+      "options": [
+        { "text": "Who needs this more than I do? — I already have a name in mind.", "weights": { "giving": 3 } },
+        { "text": "I'll put it where the ministry will go further than people see.", "weights": { "giving": 2, "wisdom": 1 } },
+        { "text": "I'll use it to host, feed, and serve people this season.", "weights": { "service": 2, "giving": 1 } },
+        { "text": "I'll fund a mission trip or someone going to the field.", "weights": { "evangelism": 2, "giving": 1 } }
+      ]
+    },
+    {
+      "text": "Sitting in a tense meeting, you usually...",
+      "options": [
+        { "text": "Sense what's really happening under the surface before anyone names it.", "weights": { "discernment": 3 } },
+        { "text": "Speak up with the truth no one wants to say.", "weights": { "prophecy": 3 } },
+        { "text": "Find the wise path forward and articulate it calmly.", "weights": { "wisdom": 3 } },
+        { "text": "Step into the gap and lead a way through.", "weights": { "leadership": 3 } }
+      ]
+    },
+    {
+      "text": "When you teach or explain something, people usually say...",
+      "options": [
+        { "text": "\"That finally made sense — I see it now.\"", "weights": { "teaching": 3 } },
+        { "text": "\"You made me want to actually do something.\"", "weights": { "exhortation": 3 } },
+        { "text": "\"You said exactly what I needed to hear.\"", "weights": { "prophecy": 2, "exhortation": 1 } },
+        { "text": "\"I want to know your Jesus.\"", "weights": { "evangelism": 3 } }
+      ]
+    },
+    {
+      "text": "What pulls your tears the fastest?",
+      "options": [
+        { "text": "Watching someone broken receive real comfort.", "weights": { "mercy": 3, "healing": 1 } },
+        { "text": "Hearing about people who've never heard the gospel.", "weights": { "evangelism": 3 } },
+        { "text": "A wounded person finally getting healed in body or soul.", "weights": { "healing": 3 } },
+        { "text": "Watching God do what only God could do — and being there for it.", "weights": { "faith": 3 } }
+      ]
+    },
+    {
+      "text": "When you read the Bible, what tends to happen?",
+      "options": [
+        { "text": "I see structure and connections others miss — I want to unpack it.", "weights": { "teaching": 3 } },
+        { "text": "I feel a fire to call God's people back to Him.", "weights": { "prophecy": 3 } },
+        { "text": "I find the practical word someone needs this week.", "weights": { "exhortation": 2, "wisdom": 1 } },
+        { "text": "I weep at how merciful He is — and want others to know it.", "weights": { "mercy": 2, "evangelism": 1 } }
+      ]
+    },
+    {
+      "text": "Pick the verse that hits your gut hardest:",
+      "options": [
+        { "text": "\"How shall they hear without a preacher?\"", "weights": { "evangelism": 3 } },
+        { "text": "\"By his stripes we are healed.\"", "weights": { "healing": 3 } },
+        { "text": "\"Without faith it is impossible to please him.\"", "weights": { "faith": 3 } },
+        { "text": "\"Test the spirits — see whether they are of God.\"", "weights": { "discernment": 3 } }
+      ]
+    },
+    {
+      "text": "When a project at church needs hands, what slot do you naturally fill?",
+      "options": [
+        { "text": "The chair — I'll organize it and get people moving.", "weights": { "leadership": 3 } },
+        { "text": "The doer — give me the list, I'll knock it out.", "weights": { "service": 3 } },
+        { "text": "The encourager — I'll keep everyone going when energy dips.", "weights": { "exhortation": 3 } },
+        { "text": "The funder — I'd rather quietly cover what's needed.", "weights": { "giving": 3 } }
+      ]
+    },
+    {
+      "text": "Pray for someone in person. What do you sense most often?",
+      "options": [
+        { "text": "Heat, peace, sometimes literal change in their body — I expect it.", "weights": { "healing": 3, "faith": 1 } },
+        { "text": "A specific word for them that I didn't plan to say.", "weights": { "prophecy": 3 } },
+        { "text": "Compassion so strong I could cry with them.", "weights": { "mercy": 3 } },
+        { "text": "Quiet clarity about what's really going on with them.", "weights": { "discernment": 3 } }
+      ]
+    },
+    {
+      "text": "If you had one free day to serve, what would you actually do?",
+      "options": [
+        { "text": "Teach a small group through a hard passage.", "weights": { "teaching": 3 } },
+        { "text": "Knock on doors and share the gospel.", "weights": { "evangelism": 3 } },
+        { "text": "Cook for a family in crisis and fix what's broken at their house.", "weights": { "service": 3, "mercy": 1 } },
+        { "text": "Cover someone's rent anonymously.", "weights": { "giving": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "teaching": {
+      "name": "Teaching",
+      "description": "You light up when complicated truth finally clicks for someone. You see structure where others see fog, and you can't help making the Word land — patient, clear, and unhurried. The Body needs your steady mind.",
+      "scriptureRef": "rom-12-6"
+    },
+    "mercy": {
+      "name": "Mercy",
+      "description": "You feel the weight of people before they say a word. You sit with the hurting longer than anyone else can stand to, and they feel God's tenderness on you. Don't let cynics talk you out of it — that softness is a gift.",
+      "scriptureRef": "rom-12-6"
+    },
+    "prophecy": {
+      "name": "Prophecy",
+      "description": "You carry the truth that has to be said. It burns in you when God's people drift, and you'd rather risk being unpopular than stay silent. The Spirit gives you words — speak them with love, and watch what He does."
+    },
+    "leadership": {
+      "name": "Leadership",
+      "description": "You see where things should go, and people follow when you step. You set tone, pace, and direction without needing the spotlight to enjoy it. Lead the way you've been shaped to — gently, decisively, and on your knees."
+    },
+    "service": {
+      "name": "Service",
+      "description": "You'd rather do the thing than talk about the thing. You see the dishes, the broken hinge, the empty chair — and you fix it before anyone asks. The Body runs on hands like yours, and Jesus is watching every quiet act."
+    },
+    "wisdom": {
+      "name": "Wisdom",
+      "description": "You can hold three sides of a hard situation in your head at once. People bring you tangled problems and leave with a path forward. That clarity isn't smarts — it's a gift, and the Church needs it desperately right now."
+    },
+    "faith": {
+      "name": "Faith",
+      "description": "You believe God for things other people won't even ask for. You hold the rope when prayers feel impossible, and you've watched Him come through enough times that it doesn't surprise you anymore. Keep believing — He's not done."
+    },
+    "healing": {
+      "name": "Healing",
+      "description": "You carry an unusual expectation that Jesus still heals — and you've seen it. Bodies, hearts, and histories shift when you pray. Don't shrink it because some don't understand; this is His mercy moving through you.",
+      "scriptureRef": "1-cor-12-7"
+    },
+    "discernment": {
+      "name": "Discernment",
+      "description": "You feel the room before anyone speaks. You sense what's real, what's off, and what spirit is actually driving the conversation. That sensitivity is a watchman's gift — steward it with prayer, not paranoia."
+    },
+    "evangelism": {
+      "name": "Evangelism",
+      "description": "You can't sit on the good news. You bring it up in line at the store, in the Uber, at the family dinner. People meet Jesus through you because you actually believe they need Him — and you love them enough to say so."
+    },
+    "giving": {
+      "name": "Giving",
+      "description": "You feel God prompt you to release what others would clutch. You give quietly, generously, often anonymously — and you sleep well at night knowing it. The Kingdom expands through quiet checks like yours."
+    },
+    "exhortation": {
+      "name": "Exhortation",
+      "description": "You're a Barnabas. You stand next to people who are about to quit and put courage back in their lungs. You see what they could be in Christ and call it out until they believe it themselves. Keep building people up — it's holy work."
+    }
+  }
+}
