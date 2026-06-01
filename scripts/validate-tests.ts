@@ -9,6 +9,13 @@ function main() {
   for (const t of tests) {
     if (t.mode === 'archetype') {
       for (const [key, r] of Object.entries(t.results)) {
+        // Archetype results must carry scripture: inline, or a resolvable ref.
+        if (r.scripture) continue;
+        if (!r.scriptureRef) {
+          console.error(`❌ ${t.slug} → result "${key}" → missing scripture (need inline scripture or scriptureRef)`);
+          errors++;
+          continue;
+        }
         try { getScripture(r.scriptureRef); }
         catch (e) {
           console.error(`❌ ${t.slug} → result "${key}" → ${(e as Error).message}`);
@@ -17,12 +24,12 @@ function main() {
       }
     } else if (t.mode === 'profile') {
       for (const [key, r] of Object.entries(t.results)) {
-        if (r.scriptureRef) {
-          try { getScripture(r.scriptureRef); }
-          catch (e) {
-            console.error(`❌ ${t.slug} → result "${key}" → ${(e as Error).message}`);
-            errors++;
-          }
+        // Profile scripture is optional, but a ref (if used) must resolve.
+        if (r.scripture || !r.scriptureRef) continue;
+        try { getScripture(r.scriptureRef); }
+        catch (e) {
+          console.error(`❌ ${t.slug} → result "${key}" → ${(e as Error).message}`);
+          errors++;
         }
       }
     }

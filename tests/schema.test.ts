@@ -168,3 +168,34 @@ describe('Test (discriminated union)', () => {
     expect(result.success).toBe(false);
   });
 });
+
+describe('Inline scripture', () => {
+  const base = {
+    slug: 's', title: 't', lang: 'en', category: 'bible-character', estimatedMinutes: 1,
+    mode: 'archetype' as const,
+    questions: [{ text: 'q', options: [{ text: 'a', weights: { x: 1 } }, { text: 'b', weights: { y: 1 } }] }],
+  };
+  it('accepts an archetype result with inline scripture and no scriptureRef', () => {
+    const r = ArchetypeTest.safeParse({
+      ...base,
+      results: { x: { name: 'X', emoji: '⚓', traits: ['a'], description: 'd', scripture: { text: 'In the beginning', reference: 'Genesis 1:1' } } },
+    });
+    expect(r.success).toBe(true);
+  });
+  it('accepts an archetype result with only a scriptureRef (back-compat)', () => {
+    const r = ArchetypeTest.safeParse({
+      ...base,
+      results: { x: { name: 'X', emoji: '⚓', traits: ['a'], description: 'd', scriptureRef: 'gen-1-1' } },
+    });
+    expect(r.success).toBe(true);
+  });
+  it('accepts a profile result with inline scripture', () => {
+    const r = ProfileTest.safeParse({
+      slug: 's', title: 't', lang: 'en', category: 'spiritual-profile', estimatedMinutes: 1,
+      mode: 'profile', dimensions: ['x'],
+      questions: [{ text: 'q', options: [{ text: 'a', weights: { x: 1 } }, { text: 'b', weights: { x: 0 } }] }],
+      results: { x: { name: 'X', description: 'd', scripture: { text: 'Be still', reference: 'Psalm 46:10' } } },
+    });
+    expect(r.success).toBe(true);
+  });
+});

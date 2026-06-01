@@ -63,16 +63,17 @@ export default async function ResultPage({ params }: { params: Promise<{ slug: s
   if (test.mode === 'archetype') {
     const r = test.results[key];
     if (!r) notFound();
-    cardProps = { mode: 'archetype' as const, name: r.name, emoji: r.emoji, traits: r.traits, description: r.description, scriptureRef: r.scriptureRef };
+    cardProps = { mode: 'archetype' as const, name: r.name, emoji: r.emoji, traits: r.traits, description: r.description, scriptureRef: r.scriptureRef, scripture: r.scripture };
     shareText = `I got "${r.name}" on Parable — what's yours?`;
   } else if (test.mode === 'profile') {
     const r = test.results[key];
     if (!r) notFound();
     cardProps = {
       mode: 'profile' as const, name: r.name, description: r.description,
+      scriptureRef: r.scriptureRef, scripture: r.scripture,
       topDimensions: [{ dimension: key, score: 100, label: r.name }],
     };
-    shareText = `My top spiritual gift: ${r.name}. Take the quiz on Parable.`;
+    shareText = `I got "${r.name}" on Parable — what's yours?`;
   } else {
     const percent = parseInt(key, 10);
     if (isNaN(percent)) notFound();

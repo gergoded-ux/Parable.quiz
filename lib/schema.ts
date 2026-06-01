@@ -2,6 +2,15 @@ import { z } from 'zod';
 
 export const ScriptureRef = z.string().min(1);
 
+// Inline scripture lets a quiz carry its own verse instead of pointing into the
+// shared scriptures.json. Self-contained quizzes avoid a shared-file bottleneck
+// when many are authored at once.
+export const InlineScripture = z.object({
+  text: z.string().min(1),
+  reference: z.string().min(1),
+});
+export type InlineScripture = z.infer<typeof InlineScripture>;
+
 export const TestBase = z.object({
   slug: z.string().min(1),
   title: z.string().min(1),
@@ -21,12 +30,15 @@ const ArchetypeQuestion = z.object({
   })).min(2),
 });
 
+// A result carries scripture either by ref (into shared/scriptures.json) or
+// inline. validate-tests.ts enforces that archetype results have one or the other.
 const ArchetypeResult = z.object({
   name: z.string().min(1),
   emoji: z.string().min(1),
   traits: z.array(z.string().min(1)).min(1),
   description: z.string().min(1),
-  scriptureRef: ScriptureRef,
+  scriptureRef: ScriptureRef.optional(),
+  scripture: InlineScripture.optional(),
 });
 
 export const ArchetypeTest = TestBase.extend({
@@ -49,6 +61,7 @@ const ProfileResult = z.object({
   name: z.string().min(1),
   description: z.string().min(1),
   scriptureRef: ScriptureRef.optional(),
+  scripture: InlineScripture.optional(),
 });
 
 export const ProfileTest = TestBase.extend({
