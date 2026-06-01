@@ -1,0 +1,121 @@
+{
+  "slug": "which-christmas-character-are-you",
+  "title": "Which Christmas Story Character Are You?",
+  "subtitle": "The manger had more than one role",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 3,
+  "mode": "archetype",
+  "questions": [
+    {
+      "text": "When God asks you to do something impossible, you...",
+      "options": [
+        { "text": "Say yes before I have a plan.",                 "weights": { "mary": 3 } },
+        { "text": "Sleep on it — and obey when I wake up.",         "weights": { "joseph": 3 } },
+        { "text": "Pack and start traveling toward the answer.",   "weights": { "wise-men": 3 } },
+        { "text": "Sprint to tell the people I love.",            "weights": { "shepherds": 3 } }
+      ]
+    },
+    {
+      "text": "Pick the season you most relate to:",
+      "options": [
+        { "text": "Carrying something holy nobody can see yet.",   "weights": { "mary": 3 } },
+        { "text": "Quietly protecting someone I love.",            "weights": { "joseph": 3 } },
+        { "text": "Searching — following a sign I half understand.", "weights": { "wise-men": 3 } },
+        { "text": "Watching, faithfully, in an unimpressive job.", "weights": { "shepherds": 3 } }
+      ]
+    },
+    {
+      "text": "How do you respond to a vision or a nudge from God?",
+      "options": [
+        { "text": "I ponder it in my heart.",                      "weights": { "mary": 3 } },
+        { "text": "I do exactly what the angel said.",            "weights": { "joseph": 3 } },
+        { "text": "I show up — even if I miss the room and apologize later.", "weights": { "innkeeper": 3 } },
+        { "text": "I deliver the message and let it land where it lands.", "weights": { "angel": 3 } }
+      ]
+    },
+    {
+      "text": "Your love language for God is...",
+      "options": [
+        { "text": "Surrender — a whispered yes.",                 "weights": { "mary": 3 } },
+        { "text": "Quiet, costly obedience.",                    "weights": { "joseph": 3 } },
+        { "text": "Long pilgrimages with the best gifts I have.", "weights": { "wise-men": 3 } },
+        { "text": "Telling everyone what I just saw.",            "weights": { "shepherds": 3 } }
+      ]
+    },
+    {
+      "text": "Pick the verse that hits hardest:",
+      "options": [
+        { "text": "Be it unto me according to thy word.",         "weights": { "mary": 3 } },
+        { "text": "He did as the angel of the Lord had bidden him.", "weights": { "joseph": 3 } },
+        { "text": "They presented unto him gifts.",               "weights": { "wise-men": 3 } },
+        { "text": "Let us now go even unto Bethlehem.",          "weights": { "shepherds": 3 } }
+      ]
+    },
+    {
+      "text": "When good news shows up, you...",
+      "options": [
+        { "text": "Carry it quietly until it's the right time.",  "weights": { "mary": 3 } },
+        { "text": "Treat it like a sacred secret to steward.",    "weights": { "joseph": 3 } },
+        { "text": "Pack up and travel to see it firsthand.",      "weights": { "wise-men": 3, "shepherds": 1 } },
+        { "text": "Run to tell everyone, full volume.",          "weights": { "angel": 3, "shepherds": 1 } }
+      ]
+    },
+    {
+      "text": "What's the moment that most resonates?",
+      "options": [
+        { "text": "Holding a fragile, holy yes.",                 "weights": { "mary": 3 } },
+        { "text": "Realizing I have no room — and panicking.",   "weights": { "innkeeper": 3 } },
+        { "text": "Looking up at a sky full of glory.",          "weights": { "shepherds": 2, "angel": 1 } },
+        { "text": "Falling down to worship.",                    "weights": { "wise-men": 3 } }
+      ]
+    },
+    {
+      "text": "If your role in the nativity were a one-liner, it'd be...",
+      "options": [
+        { "text": "Behold the handmaid of the Lord.",            "weights": { "mary": 3 } },
+        { "text": "He did as the angel had bidden him.",         "weights": { "joseph": 3 } },
+        { "text": "Fear not: I bring good tidings.",             "weights": { "angel": 3 } },
+        { "text": "There was no room — but here's what I have.", "weights": { "innkeeper": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "mary": {
+      "name": "Mary the Yes", "emoji": "🕊️",
+      "traits": ["Surrendered", "Pondering", "Brave"],
+      "description": "Your courage is quiet. You said yes to something impossible and carried it in your heart through every hard moment after — the whole story rests on women like you.",
+      "scriptureRef": "luke-1-38"
+    },
+    "joseph": {
+      "name": "Joseph the Steady", "emoji": "🪚",
+      "traits": ["Faithful", "Obedient", "Protective"],
+      "description": "You don't get the big speeches, but you do exactly what the angel said. Your obedience is the quiet shelter someone else's calling rests on.",
+      "scriptureRef": "matt-1-24"
+    },
+    "wise-men": {
+      "name": "The Wise Men", "emoji": "⭐",
+      "traits": ["Seeking", "Worshipful", "Generous"],
+      "description": "You follow signs other people ignore. You travel a long way to worship, and when you find Him, you don't hold anything back — gold, frankincense, myrrh, all of it.",
+      "scriptureRef": "matt-2-11"
+    },
+    "shepherds": {
+      "name": "The Shepherds", "emoji": "🐑",
+      "traits": ["Watchful", "Eager", "Unimpressive-but-chosen"],
+      "description": "You're at work — unglamorous, unnoticed — when the sky opens. Heaven announces big news to people just like you, and you can't help running to tell the rest of us.",
+      "scriptureRef": "luke-2-15"
+    },
+    "innkeeper": {
+      "name": "The Innkeeper", "emoji": "🚪",
+      "traits": ["Stretched", "Resourceful", "Welcoming"],
+      "description": "You don't have it all together — your inn is full and your week is full and you almost missed Him. But you found a space, even if it was just a manger, and the kingdom moved in.",
+      "scriptureRef": "luke-2-7"
+    },
+    "angel": {
+      "name": "The Announcing Angel", "emoji": "📯",
+      "traits": ["Bold", "Hopeful", "Heralding"],
+      "description": "You can't help announcing good news. You walk into rooms ready to say 'fear not' — because you've actually seen what God is doing and someone has to tell people.",
+      "scriptureRef": "luke-2-10"
+    }
+  }
+}
