@@ -1,0 +1,143 @@
+{
+  "slug": "which-fear-not-moment-is-yours",
+  "title": "Which \"Fear Not\" Bible Moment Is Yours?",
+  "subtitle": "Fear not is the most repeated command in the Bible, and God always says it inside a real, scary moment. Let's find the scene that fits yours.",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 5,
+  "mode": "archetype",
+  "questions": [
+    {
+      "text": "What does your fear feel like right now?",
+      "options": [
+        { "text": "A huge task ahead of me, and I'm not sure I'm enough for it.", "weights": { "joshua": 3 } },
+        { "text": "Bone-deep exhaustion, like I can't take another step.", "weights": { "elijah": 3 } },
+        { "text": "A storm I can't control crashing over my whole life.", "weights": { "disciples-storm": 3 } },
+        { "text": "I stepped out in faith and now I'm starting to sink.", "weights": { "peter-water": 3 } }
+      ]
+    },
+    {
+      "text": "When the fear hits hardest, what's your first move?",
+      "options": [
+        { "text": "I freeze, afraid of making the wrong call.", "weights": { "gideon": 3 } },
+        { "text": "I go quiet and brace for whatever's coming.", "weights": { "mary": 3 } },
+        { "text": "I keep doing the right thing even when it could cost me.", "weights": { "daniel": 3 } },
+        { "text": "I cry out, because there's nothing left to do but call for help.", "weights": { "disciples-storm": 2, "peter-water": 1 } }
+      ]
+    },
+    {
+      "text": "What kind of reassurance do you most need from God?",
+      "options": [
+        { "text": "Be strong. I am with you wherever you go.", "weights": { "joshua": 3 } },
+        { "text": "Rest. Eat. You don't have to be strong right now.", "weights": { "elijah": 3 } },
+        { "text": "Peace, be still. I'm in the boat with you.", "weights": { "disciples-storm": 3 } },
+        { "text": "Take My hand. I won't let you go under.", "weights": { "peter-water": 3 } }
+      ]
+    },
+    {
+      "text": "Which situation sounds closest to yours?",
+      "options": [
+        { "text": "God's asking me to do something brave that feels too big.", "weights": { "joshua": 3 } },
+        { "text": "I'm surrounded by pressure to compromise, and I won't.", "weights": { "daniel": 3 } },
+        { "text": "Life handed me something huge and unexpected to carry.", "weights": { "mary": 3 } },
+        { "text": "I keep asking God to confirm it before I act.", "weights": { "gideon": 3 } }
+      ]
+    },
+    {
+      "text": "What's the lie fear keeps whispering to you?",
+      "options": [
+        { "text": "You're too weak and too small for this.", "weights": { "joshua": 2, "gideon": 1 } },
+        { "text": "You're all alone and nobody's coming.", "weights": { "elijah": 3 } },
+        { "text": "This storm is going to take everything.", "weights": { "disciples-storm": 3 } },
+        { "text": "You were foolish to step out in the first place.", "weights": { "peter-water": 3 } }
+      ]
+    },
+    {
+      "text": "How are you holding up underneath it all?",
+      "options": [
+        { "text": "Worn out and ready to quit, honestly.", "weights": { "elijah": 3 } },
+        { "text": "Standing firm, but the pressure is intense.", "weights": { "daniel": 3 } },
+        { "text": "Tossed around and a little seasick from it all.", "weights": { "disciples-storm": 3 } },
+        { "text": "Steady on the outside, trembling on the inside.", "weights": { "mary": 2, "joshua": 1 } }
+      ]
+    },
+    {
+      "text": "What would help you trust God most in this?",
+      "options": [
+        { "text": "Knowing He goes ahead of me into the unknown.", "weights": { "joshua": 3 } },
+        { "text": "Him meeting my body's needs, not just my soul's.", "weights": { "elijah": 3 } },
+        { "text": "A clear sign so I can finally move forward.", "weights": { "gideon": 3 } },
+        { "text": "Hearing that this hard, holy thing really is from Him.", "weights": { "mary": 3 } }
+      ]
+    },
+    {
+      "text": "When you imagine God showing up, what do you picture?",
+      "options": [
+        { "text": "Him calling me courageous before I feel it.", "weights": { "joshua": 3 } },
+        { "text": "An angel with food, telling me to rest and eat.", "weights": { "elijah": 3 } },
+        { "text": "Him shutting the lions' mouths around me.", "weights": { "daniel": 3 } },
+        { "text": "His hand catching mine the second I slip.", "weights": { "peter-water": 3 } }
+      ]
+    },
+    {
+      "text": "Which prayer is closest to yours right now?",
+      "options": [
+        { "text": "Make me brave for what's in front of me.", "weights": { "joshua": 2, "gideon": 1 } },
+        { "text": "I'm done, Lord. Carry me.", "weights": { "elijah": 3 } },
+        { "text": "Don't You care that I'm drowning?", "weights": { "disciples-storm": 3 } },
+        { "text": "Let it be to me just as You've said.", "weights": { "mary": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "joshua": {
+      "name": "Joshua \"Be Strong and Courageous\"",
+      "emoji": "🦁",
+      "traits": ["Called", "Tested", "Backed by God"],
+      "description": "You're staring down something big, an assignment that feels three sizes too large for you, and the fear is mostly about whether you're enough. Joshua felt that exact weight when he had to fill Moses' shoes and lead a whole nation. God didn't tell him he was qualified. He told him He'd be there. That's the courage you get to lean on too. You don't go in alone.",
+      "scripture": { "text": "Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.", "reference": "Joshua 1:9" }
+    },
+    "elijah": {
+      "name": "Elijah Fed by the Angel",
+      "emoji": "🍞",
+      "traits": ["Exhausted", "Honest", "Tended To"],
+      "description": "You're not just scared, you're depleted, running on empty and ready to give up. Right after his greatest victory, Elijah collapsed under a tree and asked to die. And God's response is so tender it almost surprises you. No lecture. An angel, some food, and a chance to sleep. God knows your fear is tangled up with exhaustion, and sometimes the holiest thing He offers a weary heart is rest.",
+      "scripture": { "text": "Get up and eat, for the journey is too much for you.", "reference": "1 Kings 19:7" }
+    },
+    "disciples-storm": {
+      "name": "Disciples in the Storm",
+      "emoji": "🌊",
+      "traits": ["Overwhelmed", "Desperate", "Held"],
+      "description": "A storm you never asked for is crashing over everything, and it feels like it might take it all. The disciples were sure they were sinking, and the wildest part is Jesus was right there in the boat the whole time. He wasn't gone. When they cried out, He stood up and spoke to the wind itself. The same Jesus is in your boat, and no storm gets the final say while He's aboard.",
+      "scripture": { "text": "He got up, rebuked the wind and said to the waves, 'Quiet! Be still!' Then the wind died down and it was completely calm.", "reference": "Mark 4:39" }
+    },
+    "peter-water": {
+      "name": "Peter Walking on Water",
+      "emoji": "💧",
+      "traits": ["Bold", "Faltering", "Caught"],
+      "description": "You took a brave step of faith, and now you're starting to sink, and fear is telling you that you were foolish to try. But look closer at Peter's story. The moment he slipped and cried out, Jesus immediately reached out and grabbed him. He didn't let Peter drown for his wobble. Sinking isn't the end of your faith. It's where you discover how fast Jesus moves to catch a hand that reaches for Him.",
+      "scripture": { "text": "Immediately Jesus reached out his hand and caught him. 'You of little faith,' he said, 'why did you doubt?'", "reference": "Matthew 14:31" }
+    },
+    "gideon": {
+      "name": "Gideon \"The Lord Is With You\"",
+      "emoji": "🛡️",
+      "traits": ["Hesitant", "Sincere", "Chosen"],
+      "description": "You feel small and uncertain, and you keep asking God to confirm it before you dare to move. Gideon was hiding in a winepress when God called him a mighty warrior, which must have felt almost like a joke at the time. But God saw who Gideon would become, not just who he was that day. He's patient with your need for reassurance, and He sees that same hidden strength in you.",
+      "scripture": { "text": "The Lord turned to him and said, 'Go in the strength you have... Am I not sending you?'", "reference": "Judges 6:14" }
+    },
+    "mary": {
+      "name": "Mary \"Do Not Be Afraid\"",
+      "emoji": "🕊️",
+      "traits": ["Surrendered", "Brave", "Favored"],
+      "description": "Life handed you something huge and holy and more than a little terrifying, and you're being asked to carry it without a roadmap. Mary was a young woman facing the impossible when the angel said do not be afraid. She was scared, and she still said yes. Her courage wasn't the absence of fear. It was trust spoken right in the middle of it. God's favor is on the one who carries the hard thing with an open heart.",
+      "scripture": { "text": "Do not be afraid, Mary; you have found favor with God.", "reference": "Luke 1:30" }
+    },
+    "daniel": {
+      "name": "Daniel in the Lions' Den",
+      "emoji": "🦁",
+      "traits": ["Faithful", "Unshaken", "Protected"],
+      "description": "You're under real pressure to fold, to compromise what you believe to make the fear stop, and you're choosing to stand firm anyway. Daniel kept praying with his windows open even when it could cost him his life, and God shut the lions' mouths. Faithfulness under pressure is its own kind of courage, and you have it. The God who closed those jaws is right there in your den too, and He hasn't left.",
+      "scripture": { "text": "My God sent his angel, and he shut the mouths of the lions. They have not hurt me.", "reference": "Daniel 6:22" }
+    }
+  }
+}

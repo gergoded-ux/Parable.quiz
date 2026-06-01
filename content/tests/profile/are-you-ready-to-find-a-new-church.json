@@ -1,0 +1,115 @@
+{
+  "slug": "are-you-ready-to-find-a-new-church",
+  "title": "Are You Ready to Find a New Church?",
+  "subtitle": "There is no rush and no right timeline. Let's gently figure out where your heart actually is.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": ["heal-first", "ready-to-visit", "ready-to-belong", "no-timeline"],
+  "questions": [
+    {
+      "text": "When you think about walking into a church again, what comes up?",
+      "options": [
+        { "text": "A tightness in my chest. The wound is still raw.", "weights": { "heal-first": 2 } },
+        { "text": "Curiosity, as long as I can hang back at first.", "weights": { "ready-to-visit": 2 } },
+        { "text": "A real longing to belong somewhere again.", "weights": { "ready-to-belong": 2 } },
+        { "text": "Peace, whatever I decide. I am not on anyone's clock.", "weights": { "no-timeline": 2 } }
+      ]
+    },
+    {
+      "text": "How would you describe where you are with the last church?",
+      "options": [
+        { "text": "Still grieving it. I have not processed what happened.", "weights": { "heal-first": 2 } },
+        { "text": "Healing, but cautious. I am not ready to dive in.", "weights": { "ready-to-visit": 2 } },
+        { "text": "Mostly mended. I feel ready to open up again.", "weights": { "ready-to-belong": 2 } },
+        { "text": "At peace with it, and refusing to be rushed forward.", "weights": { "no-timeline": 2 } }
+      ]
+    },
+    {
+      "text": "If you visited a new church this weekend, what would you do?",
+      "options": [
+        { "text": "I could not. The thought alone is too much right now.", "weights": { "heal-first": 2 } },
+        { "text": "Slip in, sit in the back, and leave before small talk.", "weights": { "ready-to-visit": 2 } },
+        { "text": "Actually introduce myself and look for a group to join.", "weights": { "ready-to-belong": 2 } },
+        { "text": "Go if I felt led, skip it if I did not, no pressure.", "weights": { "no-timeline": 2 } }
+      ]
+    },
+    {
+      "text": "What is your honest level of trust toward church leaders?",
+      "options": [
+        { "text": "Very low. I am not ready to trust anyone there yet.", "weights": { "heal-first": 2 } },
+        { "text": "Guarded. I would watch carefully before trusting.", "weights": { "ready-to-visit": 2 } },
+        { "text": "Cautiously open. I can give trust as it is earned.", "weights": { "ready-to-belong": 2 } },
+        { "text": "Settled. I will trust slowly and that is okay.", "weights": { "no-timeline": 2 } }
+      ]
+    },
+    {
+      "text": "How is your relationship with God outside of church right now?",
+      "options": [
+        { "text": "Tender and tangled. I am still untangling Him from the hurt.", "weights": { "heal-first": 2 } },
+        { "text": "Steadier. I am rebuilding it on my own first.", "weights": { "ready-to-visit": 2 } },
+        { "text": "Growing, and I am craving community to grow alongside.", "weights": { "ready-to-belong": 2 } },
+        { "text": "Close, and not dependent on a building or a schedule.", "weights": { "no-timeline": 2 } }
+      ]
+    },
+    {
+      "text": "What do you most want from a future church?",
+      "options": [
+        { "text": "Nothing yet. I need to heal before I want anything.", "weights": { "heal-first": 2 } },
+        { "text": "A safe place to observe without pressure to commit.", "weights": { "ready-to-visit": 2 } },
+        { "text": "Real people, real belonging, a place to be known.", "weights": { "ready-to-belong": 2 } },
+        { "text": "Whatever God leads me to, in His timing, not anyone's.", "weights": { "no-timeline": 2 } }
+      ]
+    },
+    {
+      "text": "When people ask if you have found a new church, you feel...",
+      "options": [
+        { "text": "Pressured and a little wounded. I am not there yet.", "weights": { "heal-first": 2 } },
+        { "text": "Like saying I am looking, slowly, in my own way.", "weights": { "ready-to-visit": 2 } },
+        { "text": "Hopeful, actually. I am ready to start.", "weights": { "ready-to-belong": 2 } },
+        { "text": "Calm. My answer is my own and I do not owe an explanation.", "weights": { "no-timeline": 2 } }
+      ]
+    },
+    {
+      "text": "Which fear is loudest when you think about trying again?",
+      "options": [
+        { "text": "That I will get hurt before I have even healed.", "weights": { "heal-first": 2 } },
+        { "text": "That I will commit too fast and regret it.", "weights": { "ready-to-visit": 2 } },
+        { "text": "Honestly, not much fear. Mostly hope.", "weights": { "ready-to-belong": 2 } },
+        { "text": "None really. I have made peace with going at my pace.", "weights": { "no-timeline": 2 } }
+      ]
+    },
+    {
+      "text": "Which sentence feels most true for you today?",
+      "options": [
+        { "text": "I need to heal before I do anything else.", "weights": { "heal-first": 2 } },
+        { "text": "I am ready to visit, but I want to stay on the edges.", "weights": { "ready-to-visit": 2 } },
+        { "text": "I am ready to try belonging again.", "weights": { "ready-to-belong": 2 } },
+        { "text": "I do not owe anyone a timeline, and I am at peace with that.", "weights": { "no-timeline": 2 } }
+      ]
+    }
+  ],
+  "results": {
+    "heal-first": {
+      "name": "Heal First, Don't Rush",
+      "description": "Right now your heart needs healing more than it needs a new pew. The wound is still tender, and pushing yourself back into a church before you are ready could deepen it. That is not weakness or backsliding. Grieving what happened is part of the work. Let God tend the hurt first, in your own quiet way, and trust that He is just as present in this in-between season as He is on any Sunday.",
+      "scripture": { "text": "He healeth the broken in heart, and bindeth up their wounds.", "reference": "Psalm 147:3" }
+    },
+    "ready-to-visit": {
+      "name": "Ready to Visit but Stay on the Edges",
+      "description": "You are healed enough to look, but wise to keep some distance while you do. Visiting from the edges is not half-hearted, it is healthy. Let yourself sit in the back, observe how a place treats people, and give your trust slowly as it is earned. There is no rule that says you have to dive in to belong. Take the next small step, and let the rest unfold one Sunday at a time.",
+      "scripture": { "text": "The simple believeth every word: but the prudent man looketh well to his going.", "reference": "Proverbs 14:15" }
+    },
+    "ready-to-belong": {
+      "name": "Ready to Try Belonging Again",
+      "description": "Something in you has mended, and you are ready to be known by a community again. That is a brave and beautiful place to arrive at after being hurt. Go gently, but go. Introduce yourself, find a smaller group, and let real people back into your life. We were never meant to walk this out alone, and the longing you feel for belonging is one God put there on purpose.",
+      "scripture": { "text": "And let us consider one another to provoke unto love and to good works.", "reference": "Hebrews 10:24-25" }
+    },
+    "no-timeline": {
+      "name": "You Don't Owe Anyone a Timeline",
+      "description": "You have made peace with moving at your own pace, and that is exactly right. You do not owe anyone an explanation for how long this takes. Your closeness to God does not hang on a building or a schedule, and you can trust Him to lead you to the right place at the right time. Keep listening for His nudge, and ignore the pressure from everyone else. He is not rushing you, so you do not have to rush yourself.",
+      "scripture": { "text": "He hath made every thing beautiful in his time.", "reference": "Ecclesiastes 3:11" }
+    }
+  }
+}

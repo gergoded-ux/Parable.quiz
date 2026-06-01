@@ -1,0 +1,117 @@
+{
+  "slug": "are-you-stuck-in-worst-case-mode",
+  "title": "Are You Stuck in Worst-Case-Scenario Mode?",
+  "subtitle": "You always assume the worst. Let's see how deep you're in, and the one thought that pulls you back.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "full-catastrophe",
+    "frequent-spiraler",
+    "situational-catastrophizer",
+    "mostly-grounded",
+    "anchored-in-hope"
+  ],
+  "questions": [
+    {
+      "text": "Your phone buzzes with a text that just says \"Can we talk?\" What happens in your head?",
+      "options": [
+        { "text": "Instant disaster. I've already imagined the whole catastrophe.", "weights": { "full-catastrophe": 3 } },
+        { "text": "My stomach drops and the worst-case starts looping.", "weights": { "frequent-spiraler": 3 } },
+        { "text": "Depends on who it is. Some people set me spinning, most don't.", "weights": { "situational-catastrophizer": 3 } },
+        { "text": "A flicker of worry, then I figure I'll find out soon enough.", "weights": { "mostly-grounded": 3 } }
+      ]
+    },
+    {
+      "text": "How often does your mind rehearse disasters that haven't happened?",
+      "options": [
+        { "text": "Constantly. It's the background noise of my whole day.", "weights": { "full-catastrophe": 3 } },
+        { "text": "A lot. I spiral several times a week, easily.", "weights": { "frequent-spiraler": 3 } },
+        { "text": "Mostly when one specific area of life gets shaky.", "weights": { "situational-catastrophizer": 3 } },
+        { "text": "Now and then, but I usually catch it pretty fast.", "weights": { "mostly-grounded": 2, "anchored-in-hope": 1 } }
+      ]
+    },
+    {
+      "text": "When a loved one is late and not answering, you...",
+      "options": [
+        { "text": "Picture the accident, the hospital, the worst news, all of it.", "weights": { "full-catastrophe": 3 } },
+        { "text": "Feel the panic rise and have to actively talk myself down.", "weights": { "frequent-spiraler": 3 } },
+        { "text": "Get jumpy, but it depends on the situation and the person.", "weights": { "situational-catastrophizer": 3 } },
+        { "text": "Assume traffic or a dead battery, and wait it out.", "weights": { "mostly-grounded": 3 } }
+      ]
+    },
+    {
+      "text": "How much of your worrying actually comes true?",
+      "options": [
+        { "text": "Almost none, but that's never stopped the dread.", "weights": { "full-catastrophe": 3 } },
+        { "text": "Hardly any, though my body reacts like it will.", "weights": { "frequent-spiraler": 3 } },
+        { "text": "Rarely, and I can usually see that once it passes.", "weights": { "situational-catastrophizer": 2, "mostly-grounded": 1 } },
+        { "text": "Very little, and I've mostly made peace with that.", "weights": { "anchored-in-hope": 3 } }
+      ]
+    },
+    {
+      "text": "Where does the worst-case thinking live in your body?",
+      "options": [
+        { "text": "Everywhere, all the time. Tight chest, racing thoughts, no off switch.", "weights": { "full-catastrophe": 3 } },
+        { "text": "It comes in waves that hijack me before I can stop them.", "weights": { "frequent-spiraler": 3 } },
+        { "text": "Only when a certain trigger hits. Otherwise I'm fine.", "weights": { "situational-catastrophizer": 3 } },
+        { "text": "It rarely takes hold long enough to settle in.", "weights": { "mostly-grounded": 3 } }
+      ]
+    },
+    {
+      "text": "When you try to hand a worry to God, how does it go?",
+      "options": [
+        { "text": "I pray, then snatch it right back within minutes.", "weights": { "full-catastrophe": 3 } },
+        { "text": "It helps for a bit, then the spiral pulls me under again.", "weights": { "frequent-spiraler": 3 } },
+        { "text": "Works fine for most things, harder with my one big fear.", "weights": { "situational-catastrophizer": 3 } },
+        { "text": "I can usually leave it with Him and actually feel lighter.", "weights": { "anchored-in-hope": 3 } }
+      ]
+    },
+    {
+      "text": "Which sentence sounds most like you?",
+      "options": [
+        { "text": "\"If I imagine the worst, at least I won't be blindsided.\"", "weights": { "full-catastrophe": 3 } },
+        { "text": "\"I know it's probably fine, but I can't make my brain believe it.\"", "weights": { "frequent-spiraler": 3 } },
+        { "text": "\"I'm calm until this one thing, and then I lose it.\"", "weights": { "situational-catastrophizer": 3 } },
+        { "text": "\"Most days I trust that things will work out.\"", "weights": { "mostly-grounded": 3 } }
+      ]
+    },
+    {
+      "text": "What do you most want when the what-ifs take over?",
+      "options": [
+        { "text": "Any way out of the constant dread, even a small one.", "weights": { "full-catastrophe": 3 } },
+        { "text": "A tool to break the spiral before it swallows me.", "weights": { "frequent-spiraler": 3 } },
+        { "text": "Peace in the one area that always trips me up.", "weights": { "situational-catastrophizer": 3 } },
+        { "text": "To keep growing the calm I've already started to find.", "weights": { "anchored-in-hope": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "full-catastrophe": {
+      "name": "Full Catastrophe Mode",
+      "description": "Worst-case thinking isn't an occasional visitor for you. It's the background hum of your whole day. Some part of you believes that imagining the disaster keeps you safe from it, but mostly it just keeps you exhausted by things that never happen. Here's the good news: your mind is not telling you the truth, and you don't have to believe every alarm it sounds. You can take a thought captive instead of letting it drag you off. Start with one. Name it as a what-if, not a fact, and hand that single one to God today.",
+      "scripture": { "text": "We take captive every thought to make it obedient to Christ.", "reference": "2 Corinthians 10:5" }
+    },
+    "frequent-spiraler": {
+      "name": "Frequent Spiraler",
+      "description": "You spiral often, and the hardest part is that you usually know it's irrational while it's happening. Your head says \"it's probably fine\" and your body reacts like the disaster is already here. That gap is real, and it's not a character flaw. The move isn't to argue the spiral into submission. It's to interrupt it early, before it gathers speed. Name the worry out loud, breathe, and bring it to God in the moment instead of after. You're not stuck on this ride. You can choose to step off.",
+      "scripture": { "text": "When anxiety was great within me, your consolation brought me joy.", "reference": "Psalm 94:19" }
+    },
+    "situational-catastrophizer": {
+      "name": "Situational Catastrophizer",
+      "description": "Most of the time you're steady. But there's one area, maybe your health, your kids, your money, that flips a switch and sends you straight to the worst case. That's actually useful information. It tells you exactly where your fear is anchored, and that's where God wants to meet you. You don't need to overhaul your whole mind. You need to bring that one tender spot into the light and let Him speak to it specifically. Peace in that area is closer than the panic makes it feel.",
+      "scripture": { "text": "Cast all your anxiety on him because he cares for you.", "reference": "1 Peter 5:7" }
+    },
+    "mostly-grounded": {
+      "name": "Mostly Grounded",
+      "description": "You feel the worry, but it rarely runs the show. When the what-ifs show up, you tend to catch them before they take root, and you can usually return to a calm, steady place. That's a real strength, and it's worth protecting. Keep noticing what helps you stay grounded, whether it's prayer, perspective, or just refusing to feed the spiral. You've built something solid here. Tend it, and it will hold you on the harder days too.",
+      "scripture": { "text": "You will keep in perfect peace those whose minds are steadfast, because they trust in you.", "reference": "Isaiah 26:3" }
+    },
+    "anchored-in-hope": {
+      "name": "Anchored in Hope",
+      "description": "Somewhere along the way you learned to set the worst-case habit down. You still feel fear like everyone does, but you don't live there anymore. You can hand a worry to God and actually leave it with Him, and that lightness is hard-won. This isn't denial. It's trust that has been tested and held. Keep leaning into it, and don't be surprised when other people start asking how you stay so steady. The hope you carry is meant to be shared.",
+      "scripture": { "text": "We have this hope as an anchor for the soul, firm and secure.", "reference": "Hebrews 6:19" }
+    }
+  }
+}

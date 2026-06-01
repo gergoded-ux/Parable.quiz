@@ -1,0 +1,136 @@
+{
+  "slug": "which-reluctant-believer-are-you",
+  "title": "Which Reluctant Believer Are You?",
+  "subtitle": "Half-convinced, a little suspicious, still showing up. You're in good company.",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 5,
+  "mode": "archetype",
+  "questions": [
+    {
+      "text": "When someone tells you God is real and good, what happens inside you?",
+      "options": [
+        { "text": "I want proof I can test, not just a feeling.", "weights": { "gideon": 3 } },
+        { "text": "I'd have to see it with my own eyes to buy it.", "weights": { "thomas": 3 } },
+        { "text": "I'm curious, but I'd rather ask my questions privately.", "weights": { "nicodemus": 3 } },
+        { "text": "Sure. Right. Can anything that good really come my way?", "weights": { "nathanael": 3 } }
+      ]
+    },
+    {
+      "text": "What's holding your faith back the most right now?",
+      "options": [
+        { "text": "Life turned bitter, and I'm not pretending it didn't.", "weights": { "naomi": 3 } },
+        { "text": "I half believe and half don't, and I'm tired of faking the rest.", "weights": { "mark-9-father": 3 } },
+        { "text": "I need a sign before I'll commit to anything.", "weights": { "gideon": 3 } },
+        { "text": "Everyone else seems sure. I want the evidence first.", "weights": { "thomas": 3 } }
+      ]
+    },
+    {
+      "text": "How do you usually explore your questions about God?",
+      "options": [
+        { "text": "Quietly, after hours, where no one's watching.", "weights": { "nicodemus": 3 } },
+        { "text": "Out loud, bluntly, even if it sounds skeptical.", "weights": { "nathanael": 2, "thomas": 1 } },
+        { "text": "By asking for confirmation again and again.", "weights": { "gideon": 3 } },
+        { "text": "By admitting honestly that I'm stuck between belief and doubt.", "weights": { "mark-9-father": 3 } }
+      ]
+    },
+    {
+      "text": "Which prayer feels most like yours?",
+      "options": [
+        { "text": "If this is really You, prove it to me one more time.", "weights": { "gideon": 3 } },
+        { "text": "Show me. I have to see it before I trust it.", "weights": { "thomas": 3 } },
+        { "text": "I do believe. Please help the part of me that doesn't.", "weights": { "mark-9-father": 3 } },
+        { "text": "Just call me bitter, because that's how I feel.", "weights": { "naomi": 3 } }
+      ]
+    },
+    {
+      "text": "Someone invites you to actually meet Jesus for yourself. Your first move?",
+      "options": [
+        { "text": "I go and look, ready to be unimpressed.", "weights": { "nathanael": 3 } },
+        { "text": "I'd come, but at night, where it's safer to wonder.", "weights": { "nicodemus": 3 } },
+        { "text": "I want a guarantee before I show up.", "weights": { "gideon": 3 } },
+        { "text": "I'm too worn down to expect much.", "weights": { "naomi": 3 } }
+      ]
+    },
+    {
+      "text": "What does your suspicion usually sound like?",
+      "options": [
+        { "text": "Things this good don't come from a place like that.", "weights": { "nathanael": 3 } },
+        { "text": "I'll believe it when I can touch it.", "weights": { "thomas": 3 } },
+        { "text": "I have real questions, and I'm not satisfied with easy answers.", "weights": { "nicodemus": 3 } },
+        { "text": "I used to hope. Hope cost me too much.", "weights": { "naomi": 3 } }
+      ]
+    },
+    {
+      "text": "When life falls apart, what rises in you?",
+      "options": [
+        { "text": "A hardness. Don't call me by my old hopeful name anymore.", "weights": { "naomi": 3 } },
+        { "text": "A need for one more sign that I'm not on my own.", "weights": { "gideon": 3 } },
+        { "text": "A raw honesty. I believe, sort of, and I'm hurting.", "weights": { "mark-9-father": 3 } },
+        { "text": "A pull to go ask hard questions in private.", "weights": { "nicodemus": 2, "thomas": 1 } }
+      ]
+    },
+    {
+      "text": "What would actually move you closer to trust?",
+      "options": [
+        { "text": "God being patient with my fear instead of scolding it.", "weights": { "gideon": 3 } },
+        { "text": "An encounter so real I couldn't explain it away.", "weights": { "thomas": 3 } },
+        { "text": "Being known by name before I even said a word.", "weights": { "nathanael": 3 } },
+        { "text": "Room to ask everything without being shamed.", "weights": { "nicodemus": 3 } }
+      ]
+    },
+    {
+      "text": "Deep down, what do you secretly hope is true?",
+      "options": [
+        { "text": "That my honest, cracked faith is still enough for Him.", "weights": { "mark-9-father": 3 } },
+        { "text": "That the bitterness isn't the end of my story.", "weights": { "naomi": 3 } },
+        { "text": "That something genuinely good really did come for me.", "weights": { "nathanael": 3 } },
+        { "text": "That He won't get tired of reassuring a fearful heart.", "weights": { "gideon": 2, "mark-9-father": 1 } }
+      ]
+    }
+  ],
+  "results": {
+    "gideon": {
+      "name": "Gideon (test it twice)",
+      "emoji": "🐑",
+      "traits": ["Cautious", "Sincere", "Brave"],
+      "description": "You're not arrogant in your hesitation. You're scared, and you keep asking God to confirm it just one more time before you move. Gideon did exactly that, twice, laying out a fleece, and God answered both times without a trace of irritation. He is gentle with a fearful heart that genuinely wants to obey. He won't run out of patience with you.",
+      "scripture": { "text": "The Lord is with you, mighty warrior.", "reference": "Judges 6:12" }
+    },
+    "thomas": {
+      "name": "Thomas (show me)",
+      "emoji": "🖐️",
+      "traits": ["Honest", "Skeptical", "Devoted"],
+      "description": "You won't fake a faith you don't feel, and you'd rather say it plainly than nod along. Thomas wanted to see the wounds for himself, and watch what Jesus did. He didn't shame the doubt. He showed up and held out His hands. Your demand for something real isn't a wall. It's often the very door Jesus walks through to reach you.",
+      "scripture": { "text": "Stop doubting and believe.", "reference": "John 20:27" }
+    },
+    "nicodemus": {
+      "name": "Nicodemus (come at night)",
+      "emoji": "🌙",
+      "traits": ["Thoughtful", "Searching", "Careful"],
+      "description": "You have real questions, and you'd rather bring them quietly than perform certainty in public. Nicodemus came to Jesus after dark, cautious and curious at once, and Jesus met him with one of the most famous conversations in Scripture. Your private wondering is welcome. He isn't waiting for you to have it all figured out before you knock.",
+      "scripture": { "text": "How can someone be born when they are old?", "reference": "John 3:4" }
+    },
+    "naomi": {
+      "name": "Naomi (call me Mara, I'm bitter)",
+      "emoji": "🍂",
+      "traits": ["Honest", "Grieving", "Resilient"],
+      "description": "Life took more than you expected, and you've stopped pretending otherwise. Naomi came home empty and told everyone to call her Mara, which means bitter. She wasn't punished for that honesty. Her story quietly turned, through a daughter-in-law's love and a redeemer she never saw coming. Your bitterness is allowed to be spoken, and it doesn't get the last word.",
+      "scripture": { "text": "Where you go I will go, and where you stay I will stay.", "reference": "Ruth 1:16" }
+    },
+    "mark-9-father": {
+      "name": "The Mark 9 Father (I believe, help me)",
+      "emoji": "🙏",
+      "traits": ["Honest", "Hopeful", "Tender"],
+      "description": "You carry belief and doubt in the very same breath, and you're brave enough to admit both. That desperate father's prayer might be the most honest line in the whole Bible: I do believe, help my unbelief. And Jesus answered it on the spot. You don't need a flawless faith to come to Him. You just need to bring the cracked one you actually have.",
+      "scripture": { "text": "I do believe; help me overcome my unbelief!", "reference": "Mark 9:24" }
+    },
+    "nathanael": {
+      "name": "Nathanael (can anything good come?)",
+      "emoji": "🌿",
+      "traits": ["Blunt", "Honest", "Loyal"],
+      "description": "You lead with a raised eyebrow. Can anything that good really come from a place like that, or for someone like me? Nathanael said almost those exact words, and then Jesus told him He'd seen him before they ever met. The skeptic became a follower in one sentence. Your bluntness isn't a problem. He sees you behind it, and He likes what He sees.",
+      "scripture": { "text": "I saw you while you were still under the fig tree.", "reference": "John 1:48" }
+    }
+  }
+}

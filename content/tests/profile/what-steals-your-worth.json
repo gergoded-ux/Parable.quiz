@@ -1,0 +1,129 @@
+{
+  "slug": "what-steals-your-worth",
+  "title": "What's Stealing Your Sense of Worth?",
+  "subtitle": "Your worth keeps leaking out somewhere. Let's find the hook it's tied to, then untie it.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "achievement",
+    "approval",
+    "appearance",
+    "other-peoples-opinions"
+  ],
+  "questions": [
+    {
+      "text": "On a day when you feel worthless, what's usually missing?",
+      "options": [
+        { "text": "I didn't get enough done. The day felt wasted.", "weights": { "achievement": 3 } },
+        { "text": "Nobody told me I did well or that I mattered.", "weights": { "approval": 3 } },
+        { "text": "I didn't feel good about how I looked.", "weights": { "appearance": 3 } },
+        { "text": "Someone seemed disappointed in me and I can't shake it.", "weights": { "other-peoples-opinions": 3 } }
+      ]
+    },
+    {
+      "text": "When do you feel most secure in who you are?",
+      "options": [
+        { "text": "After I've crushed a goal or checked off a big list.", "weights": { "achievement": 3 } },
+        { "text": "When someone I respect says they're proud of me.", "weights": { "approval": 3 } },
+        { "text": "When I catch my reflection and actually like what I see.", "weights": { "appearance": 3 } },
+        { "text": "When I know people are speaking well of me.", "weights": { "other-peoples-opinions": 3 } }
+      ]
+    },
+    {
+      "text": "What's the first thing you reach for when you feel low?",
+      "options": [
+        { "text": "Productivity. If I accomplish something, I feel real again.", "weights": { "achievement": 3 } },
+        { "text": "Reassurance. I need someone to tell me I'm okay.", "weights": { "approval": 3 } },
+        { "text": "The mirror, or a new outfit, or a fresh look.", "weights": { "appearance": 3 } },
+        { "text": "My phone, to see how others are responding to me.", "weights": { "other-peoples-opinions": 3 } }
+      ]
+    },
+    {
+      "text": "Which compliment lands the deepest for you?",
+      "options": [
+        { "text": "\"You're so capable. You get things done.\"", "weights": { "achievement": 3 } },
+        { "text": "\"I'm really proud of you.\"", "weights": { "approval": 3 } },
+        { "text": "\"You look amazing.\"", "weights": { "appearance": 3 } },
+        { "text": "\"Everyone really likes you.\"", "weights": { "other-peoples-opinions": 3 } }
+      ]
+    },
+    {
+      "text": "What quietly drains you the fastest?",
+      "options": [
+        { "text": "Falling behind, or feeling unproductive.", "weights": { "achievement": 3 } },
+        { "text": "A withheld \"well done\" from someone whose opinion I want.", "weights": { "approval": 3 } },
+        { "text": "Feeling like I look tired, older, or not put together.", "weights": { "appearance": 3 } },
+        { "text": "Imagining what people might be saying about me.", "weights": { "other-peoples-opinions": 3 } }
+      ]
+    },
+    {
+      "text": "Finish this sentence: \"If I stopped ___, I'd feel like a nobody.\"",
+      "options": [
+        { "text": "achieving and performing", "weights": { "achievement": 3 } },
+        { "text": "earning people's approval", "weights": { "approval": 2, "other-peoples-opinions": 1 } },
+        { "text": "keeping up my appearance", "weights": { "appearance": 3 } },
+        { "text": "managing what people think of me", "weights": { "other-peoples-opinions": 3 } }
+      ]
+    },
+    {
+      "text": "What kind of failure haunts you most?",
+      "options": [
+        { "text": "Not living up to my potential.", "weights": { "achievement": 3 } },
+        { "text": "Letting down someone I wanted to impress.", "weights": { "approval": 3 } },
+        { "text": "Being seen at my worst, looking like a mess.", "weights": { "appearance": 3 } },
+        { "text": "Becoming the person people gossip about.", "weights": { "other-peoples-opinions": 3 } }
+      ]
+    },
+    {
+      "text": "Where does most of your mental energy go in a given week?",
+      "options": [
+        { "text": "Proving I'm competent and ahead of the curve.", "weights": { "achievement": 3 } },
+        { "text": "Reading whether the people around me are pleased with me.", "weights": { "approval": 3 } },
+        { "text": "How I'm coming across visually, what I'm wearing, my body.", "weights": { "appearance": 3 } },
+        { "text": "Wondering how I'm being perceived by everyone.", "weights": { "other-peoples-opinions": 3 } }
+      ]
+    },
+    {
+      "text": "What would it feel like to finally rest in God's view of you?",
+      "options": [
+        { "text": "Loved even on a day I produce absolutely nothing.", "weights": { "achievement": 3 } },
+        { "text": "Accepted without needing anyone to sign off on me.", "weights": { "approval": 3 } },
+        { "text": "Beautiful to Him no matter what the mirror says.", "weights": { "appearance": 3 } },
+        { "text": "Free, even if not everyone approves of me.", "weights": { "other-peoples-opinions": 3 } }
+      ]
+    },
+    {
+      "text": "Which truth feels hardest for you to actually believe?",
+      "options": [
+        { "text": "Your worth was never based on what you achieve.", "weights": { "achievement": 3 } },
+        { "text": "You don't need anyone's stamp of approval to be enough.", "weights": { "approval": 3 } },
+        { "text": "You are loved completely, exactly as you look today.", "weights": { "appearance": 3 } },
+        { "text": "What people think of you doesn't get to define you.", "weights": { "other-peoples-opinions": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "achievement": {
+      "name": "Achievement",
+      "description": "You measure your worth by the scoreboard, and the scoreboard never lets you rest. One win buys you a few hours of feeling enough, then the pressure starts again. But God didn't love you because you produced. He loved you first, before you ever achieved a single thing. You can lay the striving down. Your value was settled long before your to-do list existed.",
+      "scripture": { "text": "For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.", "reference": "Ephesians 2:10" }
+    },
+    "approval": {
+      "name": "Approval",
+      "description": "You've handed someone else the pen to write your worth, and they don't even know they're holding it. When they approve of you, you feel real. When they don't, you feel like you're disappearing. Here's the freedom: God already accepts you, fully, and His isn't the kind of approval you have to keep re-earning. You don't need a second signature on a worth He already declared.",
+      "scripture": { "text": "Accept one another, then, just as Christ accepted you, in order to bring praise to God.", "reference": "Romans 15:7" }
+    },
+    "appearance": {
+      "name": "Appearance",
+      "description": "The mirror has become a courtroom, and most days the verdict is harsh. You tie your worth to how you look, so a bad reflection can sink a whole day. But God doesn't size you up the way the world does. He looks past the surface and sees a heart He treasures. The beauty He gave you doesn't fade with the years, and it was never up for a vote.",
+      "scripture": { "text": "The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart.", "reference": "1 Samuel 16:7" }
+    },
+    "other-peoples-opinions": {
+      "name": "Other People's Opinions",
+      "description": "You live with an invisible jury in your head, and you keep adjusting yourself to win their verdict. The trouble is, the verdict keeps changing, so you can never quite settle. Here's the truth that frees you: the only opinion that gets the final word already chose you. You can stop performing for a crowd that was never the judge to begin with.",
+      "scripture": { "text": "Am I now trying to win the approval of human beings, or of God? Or am I trying to please people? If I were still trying to please people, I would not be a servant of Christ.", "reference": "Galatians 1:10" }
+    }
+  }
+}

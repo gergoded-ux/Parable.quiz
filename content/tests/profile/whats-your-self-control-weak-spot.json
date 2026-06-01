@@ -1,0 +1,135 @@
+{
+  "slug": "whats-your-self-control-weak-spot",
+  "title": "What's Your Self-Control Weak Spot?",
+  "subtitle": "Self-control is the hardest fruit to grow, and everyone has one stubborn area. Let's find yours, gently.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "appetite",
+    "tongue",
+    "screen",
+    "temper",
+    "lust"
+  ],
+  "questions": [
+    {
+      "text": "When you're stressed at the end of a long day, what do you reach for first?",
+      "options": [
+        { "text": "Food, even when I'm not really hungry.", "weights": { "appetite": 3 } },
+        { "text": "My phone, to scroll until I feel numb.", "weights": { "screen": 3 } },
+        { "text": "A vent session where I say more than I should.", "weights": { "tongue": 3 } },
+        { "text": "Something to look at that I know I shouldn't.", "weights": { "lust": 3 } }
+      ]
+    },
+    {
+      "text": "Which \"just one more\" do you say most often?",
+      "options": [
+        { "text": "\"Just one more bite,\" long after I'm full.", "weights": { "appetite": 3 } },
+        { "text": "\"Just one more video,\" and an hour disappears.", "weights": { "screen": 3 } },
+        { "text": "\"Just one more comment,\" when I should've stayed quiet.", "weights": { "tongue": 3 } },
+        { "text": "\"Just one more look,\" that pulls me where I don't want to go.", "weights": { "lust": 3 } }
+      ]
+    },
+    {
+      "text": "What do you most often regret after the fact?",
+      "options": [
+        { "text": "How much I ate when I wasn't even enjoying it.", "weights": { "appetite": 3 } },
+        { "text": "The words that flew out before I could stop them.", "weights": { "tongue": 3 } },
+        { "text": "Snapping at someone over something small.", "weights": { "temper": 3 } },
+        { "text": "Where my eyes and thoughts wandered.", "weights": { "lust": 3 } }
+      ]
+    },
+    {
+      "text": "Which moment makes you wince to remember?",
+      "options": [
+        { "text": "Polishing off the whole thing and feeling sick after.", "weights": { "appetite": 3 } },
+        { "text": "Hours lost to the scroll when I meant to do something real.", "weights": { "screen": 3 } },
+        { "text": "Losing my temper and seeing the hurt on their face.", "weights": { "temper": 3 } },
+        { "text": "A sharp word I can't take back.", "weights": { "tongue": 3 } }
+      ]
+    },
+    {
+      "text": "Where does temptation hit you the hardest?",
+      "options": [
+        { "text": "In the kitchen, late, when willpower's already low.", "weights": { "appetite": 3 } },
+        { "text": "In quiet, idle moments with my phone in hand.", "weights": { "screen": 2, "lust": 1 } },
+        { "text": "When I'm provoked and the anger flares fast.", "weights": { "temper": 3 } },
+        { "text": "When I'm lonely or restless and my mind drifts.", "weights": { "lust": 3 } }
+      ]
+    },
+    {
+      "text": "What does your inner battle usually sound like?",
+      "options": [
+        { "text": "\"I'll start eating better tomorrow,\" again and again.", "weights": { "appetite": 3 } },
+        { "text": "\"I'll put the phone down in five minutes,\" but I don't.", "weights": { "screen": 3 } },
+        { "text": "\"Don't say it. Don't say it.\" And then I say it.", "weights": { "tongue": 3 } },
+        { "text": "\"Stay calm,\" right before I completely lose it.", "weights": { "temper": 3 } }
+      ]
+    },
+    {
+      "text": "When you feel out of control, it usually shows up as...",
+      "options": [
+        { "text": "Eating to soothe something food can't actually fix.", "weights": { "appetite": 3 } },
+        { "text": "An anger that comes out hotter than the moment deserves.", "weights": { "temper": 3 } },
+        { "text": "Numbing out on a screen for way too long.", "weights": { "screen": 3 } },
+        { "text": "Chasing a craving that leaves me emptier than before.", "weights": { "lust": 3 } }
+      ]
+    },
+    {
+      "text": "Which area do you most often pray for help with?",
+      "options": [
+        { "text": "My appetite and the comfort I keep seeking in food.", "weights": { "appetite": 3 } },
+        { "text": "My words and how quickly they wound.", "weights": { "tongue": 3 } },
+        { "text": "My temper and the flashes of anger I hate.", "weights": { "temper": 3 } },
+        { "text": "My eyes and thoughts when lust comes knocking.", "weights": { "lust": 3 } }
+      ]
+    },
+    {
+      "text": "What would freedom in this area actually feel like?",
+      "options": [
+        { "text": "Eating because I'm hungry, not because I'm hurting.", "weights": { "appetite": 3 } },
+        { "text": "Putting the phone down without that pull to pick it up.", "weights": { "screen": 3 } },
+        { "text": "Speaking words that build people up, not tear them down.", "weights": { "tongue": 3 } },
+        { "text": "Staying steady and gentle even when I'm provoked.", "weights": { "temper": 3 } }
+      ]
+    },
+    {
+      "text": "What do you most need to believe about your struggle?",
+      "options": [
+        { "text": "That God can satisfy the deeper hunger underneath the craving.", "weights": { "appetite": 2, "lust": 1 } },
+        { "text": "That He can tame even the part of me I can't control.", "weights": { "temper": 3 } },
+        { "text": "That He always makes a way out when I'm tempted.", "weights": { "lust": 3 } },
+        { "text": "That His Spirit is growing self-control in me, slowly but surely.", "weights": { "screen": 2, "tongue": 1 } }
+      ]
+    }
+  ],
+  "results": {
+    "appetite": {
+      "name": "Appetite",
+      "description": "Your weak spot is appetite, and the truth is, it's rarely just about food. The kitchen has become the place you go when something inside aches, and eating soothes it for a moment before the emptiness returns. There's no shame in naming that. The hunger underneath is real, and only God can fill it. He made you to be satisfied in Him, and He gently offers to meet the very need you keep handing to the fridge.",
+      "scripture": { "text": "Jesus declared, I am the bread of life. Whoever comes to me will never go hungry.", "reference": "John 6:35" }
+    },
+    "tongue": {
+      "name": "Tongue/Words",
+      "description": "Your weak spot is your words, and you know the sting of wishing you could pull a sentence back out of the air. The tongue is small but it carries enormous power, and yours tends to run ahead of your better judgment. Take heart: this is one of the most common struggles there is, and God is patient with it. He can teach you the holy pause, the quiet breath before you speak, until your words start to heal more than they hurt.",
+      "scripture": { "text": "Everyone should be quick to listen, slow to speak and slow to become angry.", "reference": "James 1:19" }
+    },
+    "screen": {
+      "name": "Screen/Scroll",
+      "description": "Your weak spot is the screen, that endless scroll that swallows your time and leaves you feeling hollow. It's the easiest place to numb out, and the hours vanish before you notice. You're not weak for getting pulled in. These things are built to hold you. But you weren't made to live numb. God is inviting you to look up, to trade the scroll for things that actually fill you, and to let Him help you reclaim your attention.",
+      "scripture": { "text": "Set your minds on things above, not on earthly things.", "reference": "Colossians 3:2" }
+    },
+    "temper": {
+      "name": "Temper",
+      "description": "Your weak spot is your temper, the anger that flares hotter and faster than you mean it to, and then leaves you sitting in regret. You've seen the hurt it causes, and you hate that part of the cycle. Here's the hope: self-control is a fruit the Spirit grows, not a switch you flip on your own. God isn't asking you to white-knuckle it. He's offering to soften the fire from the inside out, one provoking moment at a time.",
+      "scripture": { "text": "Better a patient person than a warrior, one with self-control than one who takes a city.", "reference": "Proverbs 16:32" }
+    },
+    "lust": {
+      "name": "Lust",
+      "description": "Your weak spot is lust, the pull that promises something and always leaves you emptier than before. This is a quiet, heavy struggle, and carrying it in secret only makes it heavier. So hear this clearly: you are not beyond help, and you are not alone in it. God always provides a way out, every single time, and He meets you with grace, not disgust. Bring it into the light. Freedom grows where shame loses its grip.",
+      "scripture": { "text": "God is faithful; he will not let you be tempted beyond what you can bear. But when you are tempted, he will also provide a way out so that you can endure it.", "reference": "1 Corinthians 10:13" }
+    }
+  }
+}

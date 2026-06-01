@@ -1,0 +1,129 @@
+{
+  "slug": "waiting-on-god-or-god-waiting-on-you",
+  "title": "Are You Waiting on God or Is God Waiting on You?",
+  "subtitle": "Sometimes the holdup isn't heaven. Sometimes He's already moved and He's waiting on your yes. Brave question. Let's look honestly.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "building-your-patience",
+    "avoiding-obedient-step",
+    "mix-of-both",
+    "wait-almost-over"
+  ],
+  "questions": [
+    {
+      "text": "When you think about what you're waiting for, what's true?",
+      "options": [
+        { "text": "I've done what I can. Now it's genuinely out of my hands.", "weights": { "building-your-patience": 3 } },
+        { "text": "There's a step I keep dodging that I know He's asked for.", "weights": { "avoiding-obedient-step": 3 } },
+        { "text": "Some of it is His timing and some of it is me stalling.", "weights": { "mix-of-both": 3 } },
+        { "text": "Things are quietly shifting. It feels close.", "weights": { "wait-almost-over": 3 } }
+      ]
+    },
+    {
+      "text": "Be honest. Is there an action you've been putting off?",
+      "options": [
+        { "text": "No. I've taken every step I know to take.", "weights": { "building-your-patience": 3 } },
+        { "text": "Yes, and I keep finding reasons not to do it.", "weights": { "avoiding-obedient-step": 3 } },
+        { "text": "Sort of. I've done some of it but not all.", "weights": { "mix-of-both": 3 } },
+        { "text": "I just took a step and now I'm watching it unfold.", "weights": { "wait-almost-over": 3 } }
+      ]
+    },
+    {
+      "text": "What does your waiting feel like most days?",
+      "options": [
+        { "text": "A slow stretching, like God is growing my patience on purpose.", "weights": { "building-your-patience": 3 } },
+        { "text": "A low hum of guilt I keep trying to ignore.", "weights": { "avoiding-obedient-step": 3 } },
+        { "text": "Confusing. I can't always tell if it's Him or me.", "weights": { "mix-of-both": 3 } },
+        { "text": "Hopeful, like the sky is starting to lighten.", "weights": { "wait-almost-over": 3 } }
+      ]
+    },
+    {
+      "text": "When you pray about it, what do you sense?",
+      "options": [
+        { "text": "Peace to keep trusting and not force anything.", "weights": { "building-your-patience": 3 } },
+        { "text": "A nudge toward the very thing I keep avoiding.", "weights": { "avoiding-obedient-step": 3 } },
+        { "text": "Mixed signals, honestly. Wait here, move there.", "weights": { "mix-of-both": 3 } },
+        { "text": "A growing sense that movement is coming soon.", "weights": { "wait-almost-over": 3 } }
+      ]
+    },
+    {
+      "text": "What's the story you tell yourself about the delay?",
+      "options": [
+        { "text": "God's timing is perfect and mine would rush it.", "weights": { "building-your-patience": 3 } },
+        { "text": "I'm waiting on God, when really I'm scared to obey.", "weights": { "avoiding-obedient-step": 3 } },
+        { "text": "I'm partly waiting and partly hiding behind the wait.", "weights": { "mix-of-both": 3 } },
+        { "text": "The long part is almost done. I can feel it turning.", "weights": { "wait-almost-over": 3 } }
+      ]
+    },
+    {
+      "text": "Which of these stings to read?",
+      "options": [
+        { "text": "Nothing here stings. I'm at peace in the waiting.", "weights": { "building-your-patience": 3 } },
+        { "text": "Sometimes God has already answered and is waiting on us.", "weights": { "avoiding-obedient-step": 3 } },
+        { "text": "It's easier to blame timing than to admit my part.", "weights": { "mix-of-both": 3 } },
+        { "text": "Don't quit right before the breakthrough.", "weights": { "wait-almost-over": 3 } }
+      ]
+    },
+    {
+      "text": "If a wise friend looked at your situation, they'd probably say...",
+      "options": [
+        { "text": "You're doing your part. Keep trusting the timing.", "weights": { "building-your-patience": 3 } },
+        { "text": "You already know what to do. Why haven't you done it?", "weights": { "avoiding-obedient-step": 3 } },
+        { "text": "Part of this is God and part of it is you. Sort out which.", "weights": { "mix-of-both": 3 } },
+        { "text": "Hang on. You're closer than you think.", "weights": { "wait-almost-over": 3 } }
+      ]
+    },
+    {
+      "text": "What's the risk you're most likely to fall into?",
+      "options": [
+        { "text": "Getting impatient and grabbing it before God's ready.", "weights": { "building-your-patience": 3 } },
+        { "text": "Calling my disobedience patience and never moving.", "weights": { "avoiding-obedient-step": 3 } },
+        { "text": "Staying foggy so I never have to face my part.", "weights": { "mix-of-both": 3 } },
+        { "text": "Giving up one step short of the answer.", "weights": { "wait-almost-over": 3 } }
+      ]
+    },
+    {
+      "text": "What do you most need to hear from God right now?",
+      "options": [
+        { "text": "Keep waiting. I haven't forgotten you, and the timing is mine.", "weights": { "building-your-patience": 3 } },
+        { "text": "I've already spoken. The next move is yours.", "weights": { "avoiding-obedient-step": 3 } },
+        { "text": "Let me show you what's mine to do and what's yours.", "weights": { "mix-of-both": 3 } },
+        { "text": "Hold on a little longer. It's almost here.", "weights": { "wait-almost-over": 3 } }
+      ]
+    },
+    {
+      "text": "Gut check. Which one is it?",
+      "options": [
+        { "text": "I'm waiting on God, and He's growing my patience.", "weights": { "building-your-patience": 3 } },
+        { "text": "God's waiting on me to take the step I've been ducking.", "weights": { "avoiding-obedient-step": 3 } },
+        { "text": "It's honestly a mix of both.", "weights": { "mix-of-both": 3 } },
+        { "text": "I'm waiting, but the wait is nearly over.", "weights": { "wait-almost-over": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "building-your-patience": {
+      "name": "God Is Building Your Patience",
+      "description": "You've done your part. You've taken the steps, you've stayed faithful, and now the timing really is in His hands, not yours. This is the kind of waiting that grows something deep. He's teaching you to trust His clock over your impatience, and that's no small thing. The temptation will be to grab the answer early, to force a door before He opens it. Resist that. What He gives in His time comes whole and unhurried. Keep waiting well. He has not forgotten you.",
+      "scripture": { "text": "Wait for the Lord; be strong and take heart and wait for the Lord.", "reference": "Psalm 27:14" }
+    },
+    "avoiding-obedient-step": {
+      "name": "You're Avoiding an Obedient Step",
+      "description": "Here's the brave truth this quiz surfaced: you're not actually waiting on God. He's waiting on you. There's a step you already know He's asked for, and you've been calling it patience because obedience costs you something you'd rather not pay. That's not a reason for shame. It's an invitation. He's already moved, and the next move is yours. The breakthrough you keep praying for might be sitting on the other side of the yes you keep avoiding. Take the step. He's waiting right there.",
+      "scripture": { "text": "Why do you call me, Lord, Lord, and do not do what I say?", "reference": "Luke 6:46" }
+    },
+    "mix-of-both": {
+      "name": "A Mix of Both",
+      "description": "It's tangled, and that's honest. Part of this really is God's timing, and part of it is you using the wait as a place to hide from a step you don't want to take. The kindest thing you can do is untangle the two. Ask Him plainly: what's yours to do, and what's mine to wait for? Then do your part fully and leave His part to Him. Don't let the genuine mystery of His timing become an excuse to dodge the things you already know.",
+      "scripture": { "text": "Trust in the Lord with all your heart and lean not on your own understanding.", "reference": "Proverbs 3:5" }
+    },
+    "wait-almost-over": {
+      "name": "The Wait Is Almost Over",
+      "description": "You've been in this a long time, and something is shifting. There's a lightening in the sky, a quiet sense that movement is coming. Don't quit now. So many people give up one step short of the very thing they were waiting for, worn out right at the edge of the answer. This is the moment to dig in, not to fold. Keep showing up, keep praying, keep trusting. The patience you've been building is about to meet its reward. Hold on a little longer.",
+      "scripture": { "text": "Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up.", "reference": "Galatians 6:9" }
+    }
+  }
+}

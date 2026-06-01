@@ -1,0 +1,120 @@
+{
+  "slug": "which-source-of-your-anger",
+  "title": "Which Source of Your Anger Runs Deepest?",
+  "subtitle": "Anger is rarely the whole story. It usually points to something tender underneath. Let's find what yours is guarding.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": ["hurt", "injustice", "boundaries", "fear", "grief"],
+  "questions": [
+    {
+      "text": "When your anger flares, what is usually happening just before?",
+      "options": [
+        { "text": "Someone touched a wound I am still carrying.", "weights": { "hurt": 2 } },
+        { "text": "I saw something unfair done to me or to someone else.", "weights": { "injustice": 2 } },
+        { "text": "Someone walked right over a line I had drawn.", "weights": { "boundaries": 2 } },
+        { "text": "Something felt out of control and it scared me.", "weights": { "fear": 2 } }
+      ]
+    },
+    {
+      "text": "If you sat with the anger long enough, what would you find underneath?",
+      "options": [
+        { "text": "An old hurt that never fully healed.", "weights": { "hurt": 2 } },
+        { "text": "A deep sense that this should not be allowed to happen.", "weights": { "injustice": 2 } },
+        { "text": "Exhaustion from people not respecting my limits.", "weights": { "boundaries": 2 } },
+        { "text": "A loss I never let myself actually grieve.", "weights": { "grief": 2 } }
+      ]
+    },
+    {
+      "text": "Which situation lights your fuse the fastest?",
+      "options": [
+        { "text": "Being dismissed or treated like I do not matter.", "weights": { "hurt": 2 } },
+        { "text": "Watching someone get away with something wrong.", "weights": { "injustice": 2 } },
+        { "text": "People taking more from me than I agreed to give.", "weights": { "boundaries": 2 } },
+        { "text": "Feeling like everything could fall apart any second.", "weights": { "fear": 2 } }
+      ]
+    },
+    {
+      "text": "How does your anger usually come out?",
+      "options": [
+        { "text": "As sharpness that surprises even me, then later, tears.", "weights": { "hurt": 2 } },
+        { "text": "As a burning need to make it right or call it out.", "weights": { "injustice": 2 } },
+        { "text": "As a hard no after I have said yes too many times.", "weights": { "boundaries": 2 } },
+        { "text": "As snapping when I feel cornered or out of control.", "weights": { "fear": 2 } }
+      ]
+    },
+    {
+      "text": "What thought runs through your mind in the heat of it?",
+      "options": [
+        { "text": "Here it is again, the same old pain.", "weights": { "hurt": 2 } },
+        { "text": "This is not right, and someone has to do something.", "weights": { "injustice": 2 } },
+        { "text": "Why do I keep letting people do this to me?", "weights": { "boundaries": 2 } },
+        { "text": "I cannot lose control of this. I cannot.", "weights": { "fear": 2 } }
+      ]
+    },
+    {
+      "text": "Which feeling do you have the hardest time admitting?",
+      "options": [
+        { "text": "That I am hurt, not just mad.", "weights": { "hurt": 2 } },
+        { "text": "That the unfairness has made me bitter.", "weights": { "injustice": 2 } },
+        { "text": "That I resent how much I let slide.", "weights": { "boundaries": 2 } },
+        { "text": "That I am grieving, and the anger is easier to feel.", "weights": { "grief": 2 } }
+      ]
+    },
+    {
+      "text": "When the anger fades, what is left behind?",
+      "options": [
+        { "text": "A familiar ache, like an old bruise that got pressed.", "weights": { "hurt": 2 } },
+        { "text": "A heavy sense that the world is not as it should be.", "weights": { "injustice": 2 } },
+        { "text": "Tiredness from defending a line nobody respects.", "weights": { "boundaries": 2, "fear": 1 } },
+        { "text": "Sadness I usually push back down.", "weights": { "grief": 2 } }
+      ]
+    },
+    {
+      "text": "What do you most need permission to do?",
+      "options": [
+        { "text": "Tend the old wound instead of just reacting to it.", "weights": { "hurt": 2 } },
+        { "text": "Hand the injustice to God instead of carrying it alone.", "weights": { "injustice": 2 } },
+        { "text": "Say no, and stop apologizing for protecting myself.", "weights": { "boundaries": 2 } },
+        { "text": "Actually grieve what I lost.", "weights": { "grief": 2 } }
+      ]
+    },
+    {
+      "text": "Which sentence rings truest about your anger?",
+      "options": [
+        { "text": "It is really hurt wearing an angry face.", "weights": { "hurt": 2 } },
+        { "text": "It is a response to injustice I witnessed.", "weights": { "injustice": 2 } },
+        { "text": "It rises when my boundaries get crossed.", "weights": { "boundaries": 2 } },
+        { "text": "It is fear, or grief, that I never let myself feel.", "weights": { "fear": 1, "grief": 2 } }
+      ]
+    }
+  ],
+  "results": {
+    "hurt": {
+      "name": "Hurt Pretending to Be Anger",
+      "description": "Your anger is mostly hurt in disguise. When someone presses an old wound, anger rushes in first because it feels safer than the pain underneath. But the real thing asking for attention is the hurt, not the heat. Be gentle with yourself here. When you let God near the wound instead of just reacting from it, the anger loses its grip and healing finally has room to begin.",
+      "scripture": { "text": "The Lord is nigh unto them that are of a broken heart.", "reference": "Psalm 34:18" }
+    },
+    "injustice": {
+      "name": "Injustice You Witnessed",
+      "description": "Your anger rises from a deep sense that something is wrong and should not be. That instinct is not a flaw, it actually reflects God's own heart for justice. The danger is letting it curdle into bitterness you carry alone. You are allowed to be angry at what is unfair. Bring it to the God who sees every wrong and promises to set things right, and let Him carry the weight you were never meant to hold by yourself.",
+      "scripture": { "text": "Be ye angry, and sin not: let not the sun go down upon your wrath.", "reference": "Ephesians 4:26" }
+    },
+    "boundaries": {
+      "name": "Boundaries People Crossed",
+      "description": "Your anger flares when people walk over the lines you have drawn, and underneath it is exhaustion from giving more than you agreed to. That anger is a signal, not a sin. It is telling you a limit got crossed. You are allowed to say no without guilt and to protect your own time and heart. Honoring your limits is not selfish. It is how you keep yourself whole enough to love people well.",
+      "scripture": { "text": "Let your communication be, Yea, yea; Nay, nay.", "reference": "Matthew 5:37" }
+    },
+    "fear": {
+      "name": "Fear Wearing an Angry Mask",
+      "description": "When life feels out of control, fear shows up dressed as anger because anger feels stronger and safer. So you snap when you are really scared. The tender thing underneath is the fear, and it is asking to be brought into the open. You do not have to white-knuckle control to feel safe. There is a peace that holds steady even when everything else shakes, and it is yours for the asking.",
+      "scripture": { "text": "What time I am afraid, I will trust in thee.", "reference": "Psalm 56:3" }
+    },
+    "grief": {
+      "name": "Grief You Never Got to Feel",
+      "description": "Your anger is sitting on top of a grief you never let yourself feel. Sometimes anger is easier than sorrow, so you reach for the heat to avoid the heartbreak. But the loss is still there, waiting to be honored. Give yourself permission to actually mourn what you lost. When you let the tears come, the anger softens, and you make room for the comfort God promises to those who grieve.",
+      "scripture": { "text": "Blessed are they that mourn: for they shall be comforted.", "reference": "Matthew 5:4" }
+    }
+  }
+}

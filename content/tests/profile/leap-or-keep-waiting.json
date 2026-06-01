@@ -1,0 +1,129 @@
+{
+  "slug": "leap-or-keep-waiting",
+  "title": "Should You Make the Leap or Keep Waiting?",
+  "subtitle": "You keep going back and forth on the same big decision. Let's name what your gut is really telling you.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "take-the-leap",
+    "wait-a-little-longer",
+    "gather-more-counsel-first",
+    "you-already-know-the-answer"
+  ],
+  "questions": [
+    {
+      "text": "When you picture yourself a year from now having said yes to this, how does your body react?",
+      "options": [
+        { "text": "Something settles. It feels like relief, like I finally moved.", "weights": { "take-the-leap": 3 } },
+        { "text": "A flutter of fear that says \"too soon, slow down.\"", "weights": { "wait-a-little-longer": 3 } },
+        { "text": "I want to but I keep noticing all the things I don't know yet.", "weights": { "gather-more-counsel-first": 3 } },
+        { "text": "I already know how I'd feel. I just haven't admitted it out loud.", "weights": { "you-already-know-the-answer": 3 } }
+      ]
+    },
+    {
+      "text": "Be honest. What's actually keeping you stuck right now?",
+      "options": [
+        { "text": "Fear of looking foolish if it doesn't work out.", "weights": { "take-the-leap": 3 } },
+        { "text": "A real sense that the timing isn't ready yet.", "weights": { "wait-a-little-longer": 3 } },
+        { "text": "I don't have enough information to decide well.", "weights": { "gather-more-counsel-first": 3 } },
+        { "text": "Nothing, really. I'm just stalling on what I already feel.", "weights": { "you-already-know-the-answer": 3 } }
+      ]
+    },
+    {
+      "text": "How long have you been sitting with this decision?",
+      "options": [
+        { "text": "Long enough. The waiting itself has started to wear me down.", "weights": { "take-the-leap": 2, "you-already-know-the-answer": 1 } },
+        { "text": "Not very long. It's still fresh and I need to let it breathe.", "weights": { "wait-a-little-longer": 3 } },
+        { "text": "A while, but I keep realizing there are gaps in what I know.", "weights": { "gather-more-counsel-first": 3 } },
+        { "text": "Months. And my answer hasn't actually changed once.", "weights": { "you-already-know-the-answer": 3 } }
+      ]
+    },
+    {
+      "text": "When you pray about it, what do you tend to hear?",
+      "options": [
+        { "text": "A nudge to step out, even though I can't see the whole staircase.", "weights": { "take-the-leap": 3 } },
+        { "text": "A quiet \"not yet.\" Peace about waiting, not rushing.", "weights": { "wait-a-little-longer": 3 } },
+        { "text": "A sense that I should seek wise people before I move.", "weights": { "gather-more-counsel-first": 3 } },
+        { "text": "Honestly, the same answer I've been avoiding for a while.", "weights": { "you-already-know-the-answer": 3 } }
+      ]
+    },
+    {
+      "text": "Which regret would sting more?",
+      "options": [
+        { "text": "Looking back and realizing I let fear keep me small.", "weights": { "take-the-leap": 3 } },
+        { "text": "Rushing in and wishing I'd given it more time.", "weights": { "wait-a-little-longer": 3 } },
+        { "text": "Jumping before I understood what I was actually saying yes to.", "weights": { "gather-more-counsel-first": 3 } },
+        { "text": "Wasting more months pretending I haven't already decided.", "weights": { "you-already-know-the-answer": 3 } }
+      ]
+    },
+    {
+      "text": "Who have you talked to about this so far?",
+      "options": [
+        { "text": "Plenty of people. At this point I'm just looking for permission to go.", "weights": { "take-the-leap": 2, "you-already-know-the-answer": 1 } },
+        { "text": "A few, and the honest takeaway was that it's early.", "weights": { "wait-a-little-longer": 3 } },
+        { "text": "Not enough of the right people yet. I need wiser input.", "weights": { "gather-more-counsel-first": 3 } },
+        { "text": "Hardly anyone, because deep down I'm afraid they'll confirm what I know.", "weights": { "you-already-know-the-answer": 3 } }
+      ]
+    },
+    {
+      "text": "What does the \"safe\" option feel like to you?",
+      "options": [
+        { "text": "A cage I've outgrown. Staying put is starting to cost me.", "weights": { "take-the-leap": 3 } },
+        { "text": "Wisdom, for now. There's nothing wrong with steady ground.", "weights": { "wait-a-little-longer": 3 } },
+        { "text": "Reasonable until I've done my homework properly.", "weights": { "gather-more-counsel-first": 3 } },
+        { "text": "An excuse. I'm hiding in it instead of acting on what I feel.", "weights": { "you-already-know-the-answer": 3 } }
+      ]
+    },
+    {
+      "text": "If a trusted friend laid out your exact situation, what would you tell them?",
+      "options": [
+        { "text": "\"Go for it. You'll figure out the rest as you walk.\"", "weights": { "take-the-leap": 3 } },
+        { "text": "\"Give it a little more time. It'll be clearer soon.\"", "weights": { "wait-a-little-longer": 3 } },
+        { "text": "\"Talk to a few wise people first, then decide.\"", "weights": { "gather-more-counsel-first": 3 } },
+        { "text": "\"You already know. You're just scared to say it.\"", "weights": { "you-already-know-the-answer": 3 } }
+      ]
+    },
+    {
+      "text": "What scares you most about getting it wrong?",
+      "options": [
+        { "text": "Nothing scares me more than never trying at all.", "weights": { "take-the-leap": 3 } },
+        { "text": "Moving too fast and missing God's timing.", "weights": { "wait-a-little-longer": 3 } },
+        { "text": "Realizing too late I missed something obvious.", "weights": { "gather-more-counsel-first": 3 } },
+        { "text": "That I'll have wasted the answer I already had.", "weights": { "you-already-know-the-answer": 3 } }
+      ]
+    },
+    {
+      "text": "What would actually bring you peace right now?",
+      "options": [
+        { "text": "Finally taking the step and trusting God to catch me.", "weights": { "take-the-leap": 3 } },
+        { "text": "Permission to wait without feeling like I'm falling behind.", "weights": { "wait-a-little-longer": 3 } },
+        { "text": "A couple of wise voices speaking into it before I move.", "weights": { "gather-more-counsel-first": 3 } },
+        { "text": "Admitting the answer I've been carrying and acting on it.", "weights": { "you-already-know-the-answer": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "take-the-leap": {
+      "name": "Take the Leap",
+      "description": "You've circled this long enough, and the thing holding you back isn't wisdom. It's fear dressed up as caution. Peace keeps pointing you forward, and the waiting has started to cost you more than the risk would. You don't need to see the whole path to take the next step. God has caught braver and shakier people than you. Go.",
+      "scripture": { "text": "Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.", "reference": "Joshua 1:9" }
+    },
+    "wait-a-little-longer": {
+      "name": "Wait a Little Longer",
+      "description": "Not every pause is procrastination. Sometimes the most faithful thing you can do is hold steady while the picture sharpens. You're sensing that the timing isn't ripe yet, and that instinct deserves your trust, not your guilt. Waiting on God isn't falling behind. It's letting Him set the pace, and He's never once been late.",
+      "scripture": { "text": "Wait for the Lord; be strong and take heart and wait for the Lord.", "reference": "Psalm 27:14" }
+    },
+    "gather-more-counsel-first": {
+      "name": "Gather More Counsel First",
+      "description": "You're not stuck. You're just missing a few pieces, and you know it. Before you decide, get the right voices in the room: people who love God, love you, and will tell you the truth even when it's hard to hear. Wisdom rarely arrives alone. Go find the counsel your gut keeps asking for, then move with clear eyes.",
+      "scripture": { "text": "Plans fail for lack of counsel, but with many advisers they succeed.", "reference": "Proverbs 15:22" }
+    },
+    "you-already-know-the-answer": {
+      "name": "You Already Know the Answer",
+      "description": "Be honest with yourself. The answer hasn't changed in months, and all this back-and-forth has been a way to avoid saying it out loud. You're not confused. You're scared. That's okay. But the clarity you keep asking for is already sitting in your chest. Stop interviewing yourself and trust what you already know to be true.",
+      "scripture": { "text": "Whether you turn to the right or to the left, your ears will hear a voice behind you, saying, \"This is the way; walk in it.\"", "reference": "Isaiah 30:21" }
+    }
+  }
+}

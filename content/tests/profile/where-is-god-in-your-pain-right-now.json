@@ -1,0 +1,120 @@
+{
+  "slug": "where-is-god-in-your-pain-right-now",
+  "title": "Where Is God in Your Pain Right Now?",
+  "subtitle": "Not where you think you should be with Him. Where you actually are.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "silent-god",
+    "refining-god",
+    "weeping-god",
+    "god-youre-angry-at"
+  ],
+  "questions": [
+    {
+      "text": "When you pray about your pain lately, how does it feel?",
+      "options": [
+        { "text": "Like my words hit the ceiling and nothing answers back.", "weights": { "silent-god": 3 } },
+        { "text": "Like there's a purpose in it I can't see yet.", "weights": { "refining-god": 3 } },
+        { "text": "Like God is close and grieving right beside me.", "weights": { "weeping-god": 3 } },
+        { "text": "Like I have a lot of angry questions for Him.", "weights": { "god-youre-angry-at": 3 } }
+      ]
+    },
+    {
+      "text": "Which sentence is closest to what you'd tell God honestly?",
+      "options": [
+        { "text": "\"Where are You? I can't feel You anywhere.\"", "weights": { "silent-god": 3 } },
+        { "text": "\"I trust You're doing something through this.\"", "weights": { "refining-god": 3 } },
+        { "text": "\"I know You're here, weeping with me.\"", "weights": { "weeping-god": 3 } },
+        { "text": "\"How could You let this happen to me?\"", "weights": { "god-youre-angry-at": 3 } }
+      ]
+    },
+    {
+      "text": "What do you most need from God in this pain?",
+      "options": [
+        { "text": "Any sign at all that He hasn't left me.", "weights": { "silent-god": 3 } },
+        { "text": "Meaning, so the suffering isn't pointless.", "weights": { "refining-god": 3 } },
+        { "text": "His nearness, just to not be alone in it.", "weights": { "weeping-god": 3 } },
+        { "text": "Answers, and somewhere to put my anger.", "weights": { "god-youre-angry-at": 3 } }
+      ]
+    },
+    {
+      "text": "How would you describe your faith right now?",
+      "options": [
+        { "text": "Hanging on in the dark, hearing nothing back.", "weights": { "silent-god": 3 } },
+        { "text": "Bruised, but trusting there's a reason in it.", "weights": { "refining-god": 3 } },
+        { "text": "Tender, leaning into a God I believe is with me.", "weights": { "weeping-god": 3 } },
+        { "text": "Wrestling, full of hard and honest questions.", "weights": { "god-youre-angry-at": 3 } }
+      ]
+    },
+    {
+      "text": "When others say \"God has a plan,\" you feel...",
+      "options": [
+        { "text": "Hollow, because right now He feels absent.", "weights": { "silent-god": 3 } },
+        { "text": "Comforted, because I sense He's refining me.", "weights": { "refining-god": 3 } },
+        { "text": "Okay, as long as the plan includes Him being near.", "weights": { "weeping-god": 3 } },
+        { "text": "Irritated, because it skips past my real anger.", "weights": { "god-youre-angry-at": 3 } }
+      ]
+    },
+    {
+      "text": "Which Bible scene meets you where you are?",
+      "options": [
+        { "text": "The psalmist crying, \"My God, why have You forsaken me?\"", "weights": { "silent-god": 3 } },
+        { "text": "Gold refined in fire, coming out purer.", "weights": { "refining-god": 3 } },
+        { "text": "Jesus weeping at the tomb of His friend.", "weights": { "weeping-god": 3 } },
+        { "text": "Job demanding that God answer him.", "weights": { "god-youre-angry-at": 3 } }
+      ]
+    },
+    {
+      "text": "What does the pain make you want to do with God?",
+      "options": [
+        { "text": "Keep calling out, even into the silence.", "weights": { "silent-god": 3 } },
+        { "text": "Ask Him to use it, to not let it be wasted.", "weights": { "refining-god": 3 } },
+        { "text": "Crawl closer, because He's the only comfort.", "weights": { "weeping-god": 3 } },
+        { "text": "Yell, then wonder if I'm allowed to.", "weights": { "god-youre-angry-at": 3 } }
+      ]
+    },
+    {
+      "text": "Late at night, the feeling that surfaces most is...",
+      "options": [
+        { "text": "Abandonment. Like I'm facing this completely alone.", "weights": { "silent-god": 3 } },
+        { "text": "A quiet hope that I'm being shaped, not crushed.", "weights": { "refining-god": 3 } },
+        { "text": "Comfort that Someone is grieving this with me.", "weights": { "weeping-god": 3 } },
+        { "text": "Anger that won't quite settle down.", "weights": { "god-youre-angry-at": 3 } }
+      ]
+    },
+    {
+      "text": "What would help you most right now?",
+      "options": [
+        { "text": "Knowing His silence doesn't mean His absence.", "weights": { "silent-god": 3 } },
+        { "text": "Trusting that He wastes nothing, not even this.", "weights": { "refining-god": 3 } },
+        { "text": "Feeling His presence sit with me in the dark.", "weights": { "weeping-god": 3 } },
+        { "text": "Permission to be angry and still be held by Him.", "weights": { "god-youre-angry-at": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "silent-god": {
+      "name": "The Silent God (Felt Absence)",
+      "description": "Right now God feels gone, and your prayers seem to vanish into the quiet. That ache is real, and you're not the first to feel it. Even Jesus cried out, my God, why have you forsaken me. Here's what the silence can't tell you: felt absence is not actual absence. He has promised never to leave, and that promise holds when you can't sense a thing. Keep calling out into the dark. He is nearer than the silence makes Him seem, and the silence will not have the last word.",
+      "scripture": { "text": "Never will I leave you; never will I forsake you.", "reference": "Hebrews 13:5" }
+    },
+    "refining-god": {
+      "name": "The Refining God (Purpose)",
+      "description": "You're holding on to the belief that this pain isn't pointless, that God is doing something in you through it. That trust is a real strength. Scripture says suffering can produce perseverance, character, and hope, the way fire purifies gold. None of that makes the pain hurt less, and you don't have to pretend it does. But you can grieve and still trust the Refiner. He isn't burning you up. He's bringing out something in you that only the fire could reveal, and He stays beside the furnace the whole time.",
+      "scripture": { "text": "Suffering produces perseverance; perseverance, character; and character, hope.", "reference": "Romans 5:3-4" }
+    },
+    "weeping-god": {
+      "name": "The Weeping God (With You)",
+      "description": "You sense that God is close, grieving right alongside you, and that nearness is carrying you through. Hold on to it. When Jesus stood at His friend's tomb, He wept, even knowing what He was about to do. Our God is not distant from suffering. He enters it. The comfort you're feeling is true: you are not alone in this, and you never were. Keep crawling close to the One who sits with you in the dark and cries the tears you can't. His presence is the gift in the middle of the pain.",
+      "scripture": { "text": "Jesus wept.", "reference": "John 11:35" }
+    },
+    "god-youre-angry-at": {
+      "name": "The God You're Angry At",
+      "description": "You're furious, and underneath the anger are questions God hasn't answered. First, hear this: you're allowed. Job demanded answers for chapters, and in the end God called his raw honesty right, over his friends' tidy theology. The Psalms are full of believers yelling at heaven and still being held. Your anger isn't the opposite of faith. It's a sign you're still in the relationship, still expecting Him to show up. Bring Him the rage instead of hiding it. He's big enough to hold it, and He won't walk away from your honesty.",
+      "scripture": { "text": "How long, Lord? Will you forget me forever?", "reference": "Psalm 13:1" }
+    }
+  }
+}

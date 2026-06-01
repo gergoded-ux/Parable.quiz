@@ -1,0 +1,120 @@
+{
+  "slug": "how-bitter-have-you-become",
+  "title": "How Bitter Have You Become? (Be Honest)",
+  "subtitle": "Bitterness creeps in quietly, one rehearsed grievance at a time. This is a gentle mirror, not a verdict. There's an off-ramp at every stage.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "barely-a-seed",
+    "root-taking-hold",
+    "wall-around-heart",
+    "bitterness-driving"
+  ],
+  "questions": [
+    {
+      "text": "When the person or situation that hurt you comes to mind, what happens inside?",
+      "options": [
+        { "text": "A small sting, but it passes pretty quickly.", "weights": { "barely-a-seed": 3 } },
+        { "text": "I replay it more than I'd like to admit.", "weights": { "root-taking-hold": 3 } },
+        { "text": "My whole body tenses and I shut down.", "weights": { "wall-around-heart": 3 } },
+        { "text": "A wave of anger I can't seem to turn off.", "weights": { "bitterness-driving": 3 } }
+      ]
+    },
+    {
+      "text": "How often do you mentally rehearse what they did?",
+      "options": [
+        { "text": "Rarely. I've mostly let it go.", "weights": { "barely-a-seed": 3 } },
+        { "text": "Now and then, when something reminds me.", "weights": { "root-taking-hold": 3 } },
+        { "text": "Often enough that I have the speech memorized.", "weights": { "wall-around-heart": 2, "bitterness-driving": 1 } },
+        { "text": "Constantly. It runs in the background most days.", "weights": { "bitterness-driving": 3 } }
+      ]
+    },
+    {
+      "text": "When good things happen to the person who hurt you, you feel...",
+      "options": [
+        { "text": "Honestly, mostly indifferent. It doesn't really touch me.", "weights": { "barely-a-seed": 3 } },
+        { "text": "A twinge of unfairness I have to talk myself out of.", "weights": { "root-taking-hold": 3 } },
+        { "text": "Resentful. They don't deserve to be okay.", "weights": { "wall-around-heart": 2, "bitterness-driving": 1 } },
+        { "text": "Genuinely angry that they get to move on while I'm stuck.", "weights": { "bitterness-driving": 3 } }
+      ]
+    },
+    {
+      "text": "How has this affected the way you treat other people?",
+      "options": [
+        { "text": "It hasn't, really. I'm still pretty open.", "weights": { "barely-a-seed": 3 } },
+        { "text": "I'm a little more guarded than I used to be.", "weights": { "root-taking-hold": 3 } },
+        { "text": "I keep most people at arm's length now.", "weights": { "wall-around-heart": 3 } },
+        { "text": "I assume the worst of almost everyone these days.", "weights": { "bitterness-driving": 3 } }
+      ]
+    },
+    {
+      "text": "If a friend gently asked whether you've forgiven them, you'd say...",
+      "options": [
+        { "text": "Mostly, yeah. I'm at peace with it.", "weights": { "barely-a-seed": 3 } },
+        { "text": "I'm working on it. It comes and goes.", "weights": { "root-taking-hold": 3 } },
+        { "text": "Why should I? They never even apologized.", "weights": { "wall-around-heart": 2, "bitterness-driving": 1 } },
+        { "text": "No, and honestly I don't want to.", "weights": { "bitterness-driving": 3 } }
+      ]
+    },
+    {
+      "text": "What does your inner world feel like lately?",
+      "options": [
+        { "text": "Pretty light. This isn't weighing me down.", "weights": { "barely-a-seed": 3 } },
+        { "text": "A bit heavier than usual, with a low hum of frustration.", "weights": { "root-taking-hold": 3 } },
+        { "text": "Hardened. I've put up a wall and locked it.", "weights": { "wall-around-heart": 3 } },
+        { "text": "Sour. Like the hurt has colored everything.", "weights": { "bitterness-driving": 3 } }
+      ]
+    },
+    {
+      "text": "How do you talk about the person who wronged you?",
+      "options": [
+        { "text": "Calmly, if it even comes up at all.", "weights": { "barely-a-seed": 3 } },
+        { "text": "With a bit of an edge I can hear in my own voice.", "weights": { "root-taking-hold": 3 } },
+        { "text": "I'd rather not talk about them. I change the subject.", "weights": { "wall-around-heart": 3 } },
+        { "text": "I bring them up a lot, and it's never kind.", "weights": { "bitterness-driving": 3 } }
+      ]
+    },
+    {
+      "text": "When you think about your relationship with God in all this...",
+      "options": [
+        { "text": "It feels close. I've been able to hand Him the hurt.", "weights": { "barely-a-seed": 3 } },
+        { "text": "It's fine, but I sense this is starting to get between us.", "weights": { "root-taking-hold": 3 } },
+        { "text": "I feel a distance I don't fully want to close yet.", "weights": { "wall-around-heart": 3 } },
+        { "text": "Honestly, the bitterness has crowded Him out.", "weights": { "bitterness-driving": 3 } }
+      ]
+    },
+    {
+      "text": "Deep down, what do you actually want right now?",
+      "options": [
+        { "text": "To keep my heart soft and stay free of this.", "weights": { "barely-a-seed": 3 } },
+        { "text": "To deal with it before it grows into something bigger.", "weights": { "root-taking-hold": 3 } },
+        { "text": "To feel safe enough to let the wall down.", "weights": { "wall-around-heart": 3 } },
+        { "text": "To be free, even though letting go feels impossible.", "weights": { "bitterness-driving": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "barely-a-seed": {
+      "name": "Barely a Seed",
+      "description": "If there's any bitterness in you, it's just a seed, and you've kept your heart remarkably soft. You feel the sting of what happened, but you haven't let it set up camp. That's a real grace, and it's worth protecting. Keep bringing the small hurts to God as they come, before any of them have a chance to take root. You're in a good, free place. Stay there.",
+      "scripture": { "text": "Above all else, guard your heart, for everything you do flows from it.", "reference": "Proverbs 4:23" }
+    },
+    "root-taking-hold": {
+      "name": "A Root Taking Hold",
+      "description": "Something is starting to take root in you, and the honest part of you can already feel it. There's an edge in your voice and a replay you can't quite stop. This is actually a hopeful place to catch it, because roots are easier to pull when they're young. Name the hurt, take it to God, and don't let the rehearsing win. You can deal with this now, while it's still small.",
+      "scripture": { "text": "See to it that no one falls short of the grace of God and that no bitter root grows up to cause trouble.", "reference": "Hebrews 12:15" }
+    },
+    "wall-around-heart": {
+      "name": "A Wall Around Your Heart",
+      "description": "The bitterness has hardened into a wall, and you built it to keep from getting hurt again. That makes complete sense. But the same wall that keeps the pain out is keeping the good out too, including a lot of God's comfort. He isn't asking you to pretend it didn't hurt or to let your guard down with the person who wounded you. He's asking to come inside and soften what's gone hard, at a pace you can handle.",
+      "scripture": { "text": "I will give you a new heart and put a new spirit in you; I will remove from you your heart of stone and give you a heart of flesh.", "reference": "Ezekiel 36:26" }
+    },
+    "bitterness-driving": {
+      "name": "Bitterness Is Driving Now",
+      "description": "You answered honestly, and that took courage, so receive this with the same honesty: bitterness is in the driver's seat right now, and it's costing you more than the person who hurt you. Carrying it has quietly become its own prison. Here's the freeing truth though. You don't have to manufacture warm feelings to start letting go. You just have to be willing, and you can hand the whole weight, the anger and the unfairness, to a God who actually understands it. Freedom is closer than it feels.",
+      "scripture": { "text": "Get rid of all bitterness, rage and anger. Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you.", "reference": "Ephesians 4:31-32" }
+    }
+  }
+}

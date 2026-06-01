@@ -1,0 +1,120 @@
+{
+  "slug": "whats-your-hidden-stage-of-grief",
+  "title": "What's Your Hidden Stage of Grief?",
+  "subtitle": "Grief rarely moves in a straight line. Let's gently name the stage you're quietly sitting in right now.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": ["numb-shock", "bargaining-with-god", "anger-you-wont-admit", "quiet-acceptance", "stuck-in-sorrow"],
+  "questions": [
+    {
+      "text": "When you think about the loss, what happens inside you?",
+      "options": [
+        { "text": "Not much. It feels far away, almost like it happened to someone else.", "weights": { "numb-shock": 2 } },
+        { "text": "My mind starts running deals: if only I had done this, or prayed that.", "weights": { "bargaining-with-god": 2 } },
+        { "text": "Heat rises. I am angrier than I would ever say out loud.", "weights": { "anger-you-wont-admit": 2 } },
+        { "text": "A deep ache, but a quieter one. I am learning to carry it.", "weights": { "quiet-acceptance": 2 } }
+      ]
+    },
+    {
+      "text": "How would you describe the last few weeks?",
+      "options": [
+        { "text": "Foggy. I am moving through the days but not really feeling them.", "weights": { "numb-shock": 2 } },
+        { "text": "A loop of what-ifs and silent prayers for a different outcome.", "weights": { "bargaining-with-god": 2 } },
+        { "text": "Heavy. The sadness sits on me and will not lift.", "weights": { "stuck-in-sorrow": 2 } },
+        { "text": "Slowly steadying. Some days are softer than they used to be.", "weights": { "quiet-acceptance": 2 } }
+      ]
+    },
+    {
+      "text": "When you pray about it, what comes out?",
+      "options": [
+        { "text": "Honestly, nothing. The words just are not there.", "weights": { "numb-shock": 2 } },
+        { "text": "Pleas and offers. God, if you fix this, I will change.", "weights": { "bargaining-with-god": 2 } },
+        { "text": "Frustration I feel guilty for. Part of me wants to argue.", "weights": { "anger-you-wont-admit": 2 } },
+        { "text": "Tears that will not stop, no matter how long it has been.", "weights": { "stuck-in-sorrow": 2 } }
+      ]
+    },
+    {
+      "text": "What is the thought that sneaks up on you most?",
+      "options": [
+        { "text": "This cannot really be happening.", "weights": { "numb-shock": 2 } },
+        { "text": "There must have been something I could have done differently.", "weights": { "bargaining-with-god": 2 } },
+        { "text": "It is not fair, and I am tired of pretending I am okay with it.", "weights": { "anger-you-wont-admit": 2, "stuck-in-sorrow": 1 } },
+        { "text": "I will always miss this, and somehow I am still here.", "weights": { "quiet-acceptance": 2 } }
+      ]
+    },
+    {
+      "text": "How do you respond when someone asks how you're doing?",
+      "options": [
+        { "text": "I say fine, mostly because I cannot find the real answer.", "weights": { "numb-shock": 2 } },
+        { "text": "I deflect into all the things I should have done sooner.", "weights": { "bargaining-with-god": 2 } },
+        { "text": "I keep it polite while something sharper simmers underneath.", "weights": { "anger-you-wont-admit": 2 } },
+        { "text": "I tell the truth: I am sad, and I am also okay.", "weights": { "quiet-acceptance": 2 } }
+      ]
+    },
+    {
+      "text": "Which of these feels most true about your energy?",
+      "options": [
+        { "text": "I feel flat, like someone turned the volume down on everything.", "weights": { "numb-shock": 2 } },
+        { "text": "My head is busy negotiating with a past I cannot change.", "weights": { "bargaining-with-god": 2 } },
+        { "text": "I snap more easily than I used to, and I hate that I do.", "weights": { "anger-you-wont-admit": 2 } },
+        { "text": "Some mornings I cannot get up. The grief just pins me down.", "weights": { "stuck-in-sorrow": 2 } }
+      ]
+    },
+    {
+      "text": "When you picture life going forward, what do you feel?",
+      "options": [
+        { "text": "I cannot picture it yet. It all feels unreal.", "weights": { "numb-shock": 2 } },
+        { "text": "I keep trying to rewind instead of looking ahead at all.", "weights": { "bargaining-with-god": 2 } },
+        { "text": "A flare of resentment that I have to go on without them.", "weights": { "anger-you-wont-admit": 2 } },
+        { "text": "Stuck in place. I cannot seem to move past this point.", "weights": { "stuck-in-sorrow": 2 } }
+      ]
+    },
+    {
+      "text": "What do you most need to hear right now?",
+      "options": [
+        { "text": "It is okay that you are numb. Feeling will come back in time.", "weights": { "numb-shock": 2 } },
+        { "text": "You could not have controlled this, and God is not blaming you.", "weights": { "bargaining-with-god": 2 } },
+        { "text": "Your anger is allowed here. God can hold all of it.", "weights": { "anger-you-wont-admit": 2 } },
+        { "text": "You do not have to rush. He sits with you in the sadness.", "weights": { "stuck-in-sorrow": 2 } }
+      ]
+    },
+    {
+      "text": "Looking back over your grief so far, what is the honest summary?",
+      "options": [
+        { "text": "I am still in disbelief. It has not fully landed.", "weights": { "numb-shock": 2 } },
+        { "text": "I am stuck bargaining with a moment I cannot get back.", "weights": { "bargaining-with-god": 2 } },
+        { "text": "There is anger in me I have not let myself look at.", "weights": { "anger-you-wont-admit": 2 } },
+        { "text": "I am finding a fragile peace, even with the ache still here.", "weights": { "quiet-acceptance": 2 } }
+      ]
+    }
+  ],
+  "results": {
+    "numb-shock": {
+      "name": "Numb Shock",
+      "description": "Right now everything feels muffled, like the loss has not fully reached you yet. That numbness is not coldness or weak faith. It is your heart protecting you while it catches up to something too big to take in all at once. Be patient with yourself. The feelings will return when you are ready to carry them, and God is near to you even in the fog.",
+      "scripture": { "text": "The Lord is nigh unto them that are of a broken heart.", "reference": "Psalm 34:18" }
+    },
+    "bargaining-with-god": {
+      "name": "Bargaining With God",
+      "description": "Your mind keeps circling the same what-ifs, replaying choices and offering God deals to undo what happened. That is a very human way to grieve, and it usually means you loved deeply. But you could not have controlled this, and God is not standing over you with a list of blame. Let the deals go. Bring Him the loss as it really is, and let Him carry the part you never could.",
+      "scripture": { "text": "Casting all your care upon him; for he careth for you.", "reference": "1 Peter 5:7" }
+    },
+    "anger-you-wont-admit": {
+      "name": "The Anger You Won't Admit",
+      "description": "There is a heat under your grief that you have not let yourself name, maybe because anger feels wrong to bring to God. It is not. The Psalms are full of honest, raw complaints poured out to a God who can take them. You do not have to clean up your heart before you come to Him. Tell Him the truth. He would rather have your honest anger than your polite distance.",
+      "scripture": { "text": "Pour out your heart before him: God is a refuge for us.", "reference": "Psalm 62:8" }
+    },
+    "quiet-acceptance": {
+      "name": "Quiet Acceptance",
+      "description": "You are not over the loss, and you never will be in the way people sometimes expect. But you have found a quieter place where the ache and a real peace can live side by side. That is not forgetting. It is healing. Keep letting yourself miss what you lost, and keep leaning into the God who has walked every step of this with you.",
+      "scripture": { "text": "Weeping may endure for a night, but joy cometh in the morning.", "reference": "Psalm 30:5" }
+    },
+    "stuck-in-sorrow": {
+      "name": "Stuck in Sorrow",
+      "description": "The sadness has settled in deep, and lately it feels like you cannot move past this one place. That does not mean you are failing at grief. It means the wound is still tender and you may need others to help carry it. Please do not stay here alone. Let a trusted friend, a pastor, or a counselor sit with you in it. God has not left, and He is gently making a way through, even when you cannot see it yet.",
+      "scripture": { "text": "He healeth the broken in heart, and bindeth up their wounds.", "reference": "Psalm 147:3" }
+    }
+  }
+}

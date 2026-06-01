@@ -1,0 +1,126 @@
+{
+  "slug": "whats-your-doubt-trying-to-tell-you",
+  "title": "What's Your Doubt Trying to Tell You?",
+  "subtitle": "What if your doubt isn't an enemy to crush but a messenger with something to say? Let's find out what it's actually pointing to.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "unanswered-question",
+    "buried-wound",
+    "hidden-sin",
+    "outgrown-faith",
+    "invitation-deeper"
+  ],
+  "questions": [
+    {
+      "text": "When the doubt shows up, what does it usually sound like?",
+      "options": [
+        { "text": "A specific question I genuinely can't answer.", "weights": { "unanswered-question": 3 } },
+        { "text": "An old ache that flares up whenever God comes up.", "weights": { "buried-wound": 3 } },
+        { "text": "A quiet unease I'd rather not look at too closely.", "weights": { "hidden-sin": 3 } },
+        { "text": "A sense that what I was taught doesn't fit anymore.", "weights": { "outgrown-faith": 3 } }
+      ]
+    },
+    {
+      "text": "Where does the doubt seem to come from?",
+      "options": [
+        { "text": "My head. It's logical, factual, intellectual.", "weights": { "unanswered-question": 3 } },
+        { "text": "My heart. It's tangled up with pain I haven't healed.", "weights": { "buried-wound": 3 } },
+        { "text": "My conscience. Something's off and I know it.", "weights": { "hidden-sin": 3 } },
+        { "text": "My gut. The old version of faith just feels too small now.", "weights": { "outgrown-faith": 3 } }
+      ]
+    },
+    {
+      "text": "Be honest: when did the doubt really get loud?",
+      "options": [
+        { "text": "When I read or heard something I couldn't reconcile.", "weights": { "unanswered-question": 3 } },
+        { "text": "After someone or something hurt me deeply.", "weights": { "buried-wound": 3 } },
+        { "text": "Around the same time I started compromising somewhere.", "weights": { "hidden-sin": 3 } },
+        { "text": "When I started growing and my old answers stopped fitting.", "weights": { "outgrown-faith": 2, "invitation-deeper": 1 } }
+      ]
+    },
+    {
+      "text": "What do you find yourself avoiding?",
+      "options": [
+        { "text": "Nothing, really. I actually want to dig into the questions.", "weights": { "unanswered-question": 2, "invitation-deeper": 1 } },
+        { "text": "The memory underneath all of this. It hurts too much.", "weights": { "buried-wound": 3 } },
+        { "text": "Being fully honest with God about one specific thing.", "weights": { "hidden-sin": 3 } },
+        { "text": "Going back to a faith that no longer feels like mine.", "weights": { "outgrown-faith": 3 } }
+      ]
+    },
+    {
+      "text": "If your doubt could talk, what might it be asking for?",
+      "options": [
+        { "text": "Answers, or at least the freedom to keep searching.", "weights": { "unanswered-question": 3 } },
+        { "text": "Healing for a wound I've been ignoring.", "weights": { "buried-wound": 3 } },
+        { "text": "Honesty about something I've been hiding.", "weights": { "hidden-sin": 3 } },
+        { "text": "A deeper, more real version of God than I had before.", "weights": { "invitation-deeper": 3 } }
+      ]
+    },
+    {
+      "text": "How does your doubt make you feel about yourself?",
+      "options": [
+        { "text": "Curious, like I'm finally asking real questions.", "weights": { "unanswered-question": 2, "invitation-deeper": 1 } },
+        { "text": "Raw, like an old injury got pressed on again.", "weights": { "buried-wound": 3 } },
+        { "text": "Guilty, like I'm using doubt to dodge something.", "weights": { "hidden-sin": 3 } },
+        { "text": "Restless, like I've outgrown a shirt that no longer fits.", "weights": { "outgrown-faith": 3 } }
+      ]
+    },
+    {
+      "text": "Which sentence makes you pause?",
+      "options": [
+        { "text": "\"Your doubt is a real question that deserves a real answer.\"", "weights": { "unanswered-question": 3 } },
+        { "text": "\"Your doubt is grief wearing the mask of disbelief.\"", "weights": { "buried-wound": 3 } },
+        { "text": "\"Your doubt got louder right when your obedience got quieter.\"", "weights": { "hidden-sin": 3 } },
+        { "text": "\"Your doubt isn't losing faith. It's outgrowing a small one.\"", "weights": { "outgrown-faith": 2, "invitation-deeper": 1 } }
+      ]
+    },
+    {
+      "text": "What happens when you sit with your doubt instead of fighting it?",
+      "options": [
+        { "text": "I land on a question I really want to chase down.", "weights": { "unanswered-question": 3 } },
+        { "text": "A wave of old hurt rises up to the surface.", "weights": { "buried-wound": 3 } },
+        { "text": "A nudge toward something I've been avoiding confessing.", "weights": { "hidden-sin": 3 } },
+        { "text": "A strange sense that God might be inviting me closer.", "weights": { "invitation-deeper": 3 } }
+      ]
+    },
+    {
+      "text": "Deep down, what do you hope is on the other side of this doubt?",
+      "options": [
+        { "text": "Answers I can actually rest in.", "weights": { "unanswered-question": 3 } },
+        { "text": "Healing for the part of me that got wounded.", "weights": { "buried-wound": 3 } },
+        { "text": "Freedom, once I stop hiding and come clean.", "weights": { "hidden-sin": 3 } },
+        { "text": "A faith that's bigger, deeper, and truly my own.", "weights": { "invitation-deeper": 2, "outgrown-faith": 1 } }
+      ]
+    }
+  ],
+  "results": {
+    "unanswered-question": {
+      "name": "An Unanswered Question",
+      "description": "Your doubt isn't rebellion. It's a real, specific question that hasn't been answered yet, and it deserves to be taken seriously. Don't be afraid of it. Faith has never required you to switch off your mind. Some of the deepest believers in history were people who chased their hardest questions all the way down and found God waiting at the bottom. Go ask. Read, study, talk to someone wise. A question honestly pursued is not a threat to your faith. It's how it grows up.",
+      "scripture": { "text": "Ask and it will be given to you; seek and you will find.", "reference": "Matthew 7:7" }
+    },
+    "buried-wound": {
+      "name": "A Buried Wound",
+      "description": "What looks like disbelief is actually grief in disguise. Somewhere underneath the doubt is a wound you never got to heal, and every time God comes up, it presses on the bruise. This isn't a thinking problem. It's a hurting one. You don't need a better argument. You need to let the pain be seen, by a safe person and by God Himself. He is gentle with broken hearts. Tend the wound, and you may find your doubt was never really about belief at all.",
+      "scripture": { "text": "He heals the brokenhearted and binds up their wounds.", "reference": "Psalm 147:3" }
+    },
+    "hidden-sin": {
+      "name": "A Sin You're Hiding From",
+      "description": "If you're honest, the doubt got louder around the same time something in your life started pulling you away from God. Sometimes doubt is a smokescreen, a way to keep distance so we don't have to face what we already know. This isn't said to shame you. It's said to free you. The thing you're hiding loses its grip the moment you bring it into the light. God already knows, and He isn't waiting to condemn you. He's waiting to restore you. Come clean, and watch the fog lift.",
+      "scripture": { "text": "If we confess our sins, he is faithful and just and will forgive us our sins.", "reference": "1 John 1:9" }
+    },
+    "outgrown-faith": {
+      "name": "A Faith You Outgrew",
+      "description": "Your doubt isn't the death of your faith. It's the growing pains of one that got too small. The simple version you inherited served you for a season, and now you're reaching for something deeper and truer, something that can hold the weight of real life. That's not a crisis. That's maturity knocking. Don't throw the whole thing out. Let the old shell crack so the real thing can grow. God is big enough for the faith you're becoming.",
+      "scripture": { "text": "When I was a child, I talked like a child. When I became a man, I put the ways of childhood behind me.", "reference": "1 Corinthians 13:11" }
+    },
+    "invitation-deeper": {
+      "name": "An Invitation to Go Deeper",
+      "description": "What if this doubt is less a wall and more a door? You're being drawn past the surface toward a God who's far more real and present than the version you've known. The restlessness you feel is holy. It's the pull of Someone inviting you to stop settling for secondhand faith and come find Him for yourself. Don't run from this. Lean in. The other side of this doubt isn't disbelief. It's a closeness you haven't tasted yet.",
+      "scripture": { "text": "You will seek me and find me when you seek me with all your heart.", "reference": "Jeremiah 29:13" }
+    }
+  }
+}

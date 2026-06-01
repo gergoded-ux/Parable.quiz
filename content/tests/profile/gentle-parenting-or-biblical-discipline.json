@@ -1,0 +1,120 @@
+{
+  "slug": "gentle-parenting-or-biblical-discipline",
+  "title": "Gentle Parenting or Biblical Discipline: Where Do You Land?",
+  "subtitle": "The most-argued parenting question of the moment. No judgment here, just an honest read.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "mostly-gentle",
+    "balanced-grace-and-truth",
+    "mostly-structure",
+    "still-figuring-it-out"
+  ],
+  "questions": [
+    {
+      "text": "Your child melts down in the grocery store. Your first instinct is to...",
+      "options": [
+        { "text": "Kneel down and help them name the big feeling.", "weights": { "mostly-gentle": 3 } },
+        { "text": "Comfort them, then calmly hold the limit.", "weights": { "balanced-grace-and-truth": 3 } },
+        { "text": "Give a clear consequence so the behavior stops.", "weights": { "mostly-structure": 3 } },
+        { "text": "Honestly, freeze for a second and wonder what's right.", "weights": { "still-figuring-it-out": 3 } }
+      ]
+    },
+    {
+      "text": "When you think about discipline, you mostly believe...",
+      "options": [
+        { "text": "Connection comes first, and behavior follows from it.", "weights": { "mostly-gentle": 3 } },
+        { "text": "Kids need both warmth and firm boundaries.", "weights": { "balanced-grace-and-truth": 3 } },
+        { "text": "Clear rules and consequences keep kids secure.", "weights": { "mostly-structure": 3 } },
+        { "text": "I'm genuinely torn between the approaches.", "weights": { "still-figuring-it-out": 3 } }
+      ]
+    },
+    {
+      "text": "Which phrase sounds most like you in a hard moment?",
+      "options": [
+        { "text": "\"I can see you're really upset. I'm right here.\"", "weights": { "mostly-gentle": 3 } },
+        { "text": "\"I love you, and the answer is still no.\"", "weights": { "balanced-grace-and-truth": 3 } },
+        { "text": "\"We talked about this. Here's what happens now.\"", "weights": { "mostly-structure": 3 } },
+        { "text": "\"Um. Let me think about how to handle this.\"", "weights": { "still-figuring-it-out": 3 } }
+      ]
+    },
+    {
+      "text": "What worries you most about the other side of the debate?",
+      "options": [
+        { "text": "That too much structure crushes a child's heart.", "weights": { "mostly-gentle": 3 } },
+        { "text": "That either extreme misses something kids need.", "weights": { "balanced-grace-and-truth": 3 } },
+        { "text": "That too much gentleness leaves kids without limits.", "weights": { "mostly-structure": 3 } },
+        { "text": "That I'll pick wrong and mess my kids up.", "weights": { "still-figuring-it-out": 3 } }
+      ]
+    },
+    {
+      "text": "Your child breaks a rule they clearly understood. You...",
+      "options": [
+        { "text": "Get curious about what was going on underneath.", "weights": { "mostly-gentle": 3 } },
+        { "text": "Address the heart and follow through on the limit.", "weights": { "balanced-grace-and-truth": 3 } },
+        { "text": "Apply the consequence we already agreed on.", "weights": { "mostly-structure": 3 } },
+        { "text": "React in the moment, then second-guess it later.", "weights": { "still-figuring-it-out": 3 } }
+      ]
+    },
+    {
+      "text": "Which verse anchors your parenting most?",
+      "options": [
+        { "text": "\"Be kind and compassionate to one another.\"", "weights": { "mostly-gentle": 3 } },
+        { "text": "\"Bring them up in the training and instruction of the Lord.\"", "weights": { "balanced-grace-and-truth": 3 } },
+        { "text": "\"Discipline your children, and they will give you peace.\"", "weights": { "mostly-structure": 3 } },
+        { "text": "I'm still searching Scripture for my footing here.", "weights": { "still-figuring-it-out": 3 } }
+      ]
+    },
+    {
+      "text": "After a rough parenting day, you tend to feel...",
+      "options": [
+        { "text": "Worried I was too harsh and damaged the connection.", "weights": { "mostly-gentle": 3 } },
+        { "text": "Okay, as long as I led with both love and limits.", "weights": { "balanced-grace-and-truth": 3 } },
+        { "text": "Fine, as long as I stayed consistent.", "weights": { "mostly-structure": 3 } },
+        { "text": "Unsure whether I handled any of it right.", "weights": { "still-figuring-it-out": 3 } }
+      ]
+    },
+    {
+      "text": "When you scroll parenting content online, you...",
+      "options": [
+        { "text": "Nod along with the gentle, connection-first voices.", "weights": { "mostly-gentle": 3 } },
+        { "text": "Take a little from each side and find the middle.", "weights": { "balanced-grace-and-truth": 3 } },
+        { "text": "Roll your eyes at the no-consequences crowd.", "weights": { "mostly-structure": 3 } },
+        { "text": "Feel more confused than when you started.", "weights": { "still-figuring-it-out": 3 } }
+      ]
+    },
+    {
+      "text": "What do you most want your kids to remember about home?",
+      "options": [
+        { "text": "That they always felt safe to bring me their feelings.", "weights": { "mostly-gentle": 3 } },
+        { "text": "That they were deeply loved and clearly guided.", "weights": { "balanced-grace-and-truth": 3 } },
+        { "text": "That our home was steady, with rules they could trust.", "weights": { "mostly-structure": 3 } },
+        { "text": "That I kept trying to love them well, even unsure.", "weights": { "still-figuring-it-out": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "mostly-gentle": {
+      "name": "Mostly Gentle",
+      "description": "You lead with connection. You believe a child's heart opens before their behavior changes, and you'd rather understand the feeling under the meltdown than just shut it down. That tenderness reflects how God parents you, with patience and compassion. One gentle nudge: kids feel safest when warmth comes with clear limits too. Your kindness is a strength. Pair it with steady boundaries, and you give your children both the softness and the structure their hearts need.",
+      "scripture": { "text": "Be kind and compassionate to one another, forgiving each other.", "reference": "Ephesians 4:32" }
+    },
+    "balanced-grace-and-truth": {
+      "name": "Balanced Grace-and-Truth",
+      "description": "You hold love and limits in the same hand. You'll comfort the tears and still keep the boundary, because you know your child needs both. That's exactly how Jesus came, full of grace and truth at once, never one at the expense of the other. It's a hard balance to keep, and you won't nail it every day. But your instinct to refuse the false choice between warmth and firmness is deeply healthy. Keep leaning on God for the wisdom to know which one each moment calls for.",
+      "scripture": { "text": "The Word became flesh ... full of grace and truth.", "reference": "John 1:14" }
+    },
+    "mostly-structure": {
+      "name": "Mostly Structure",
+      "description": "You believe clear rules and steady consequences make a child feel secure, and there's real wisdom in that. Kids do thrive with consistency and limits they can count on. Scripture honors loving discipline as a form of care, not cruelty. One gentle reminder: the firmest boundaries land best when your kids are sure of your warmth underneath them. Discipline and tenderness aren't rivals. When your children feel both your strength and your love, your structure becomes a safe place rather than just a fence.",
+      "scripture": { "text": "Discipline your children, and they will give you peace; they will bring you the delights you desire.", "reference": "Proverbs 29:17" }
+    },
+    "still-figuring-it-out": {
+      "name": "Still Figuring It Out",
+      "description": "You're caught between the approaches, second-guessing yourself, afraid of getting it wrong. First, breathe. The fact that you care this much already says a lot about the parent you are. There's no perfect formula, and even the wisest parents are learning as they go. You don't have to have it all sorted today. Ask God for wisdom one day at a time, He gives it generously, and trust that your love plus His help is enough to keep growing into this.",
+      "scripture": { "text": "If any of you lacks wisdom, you should ask God, who gives generously to all.", "reference": "James 1:5" }
+    }
+  }
+}

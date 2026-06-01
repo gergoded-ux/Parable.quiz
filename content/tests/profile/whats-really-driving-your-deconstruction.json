@@ -1,0 +1,117 @@
+{
+  "slug": "whats-really-driving-your-deconstruction",
+  "title": "What's Really Driving Your Deconstruction?",
+  "subtitle": "Naming the actual root of your faith shift tells you whether to rebuild or grieve. Let's find it.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "church-hurt",
+    "intellectual-questions",
+    "hypocrisy-witnessed",
+    "unanswered-prayer",
+    "inherited-faith"
+  ],
+  "questions": [
+    {
+      "text": "When did your faith start to come apart?",
+      "options": [
+        { "text": "After a church or leader wounded me personally.", "weights": { "church-hurt": 3 } },
+        { "text": "When questions I couldn't answer started piling up.", "weights": { "intellectual-questions": 3 } },
+        { "text": "Once I saw the gap between what was preached and how people lived.", "weights": { "hypocrisy-witnessed": 3 } },
+        { "text": "After I prayed hard for something and heaven stayed silent.", "weights": { "unanswered-prayer": 3 } }
+      ]
+    },
+    {
+      "text": "What's the feeling that comes up most when you think about faith now?",
+      "options": [
+        { "text": "A deep hurt that the church became unsafe for me.", "weights": { "church-hurt": 3 } },
+        { "text": "Restless curiosity. I need things to actually make sense.", "weights": { "intellectual-questions": 3 } },
+        { "text": "Disgust at the hypocrisy I can't unsee.", "weights": { "hypocrisy-witnessed": 3 } },
+        { "text": "Disappointment, like God didn't show up when I needed Him.", "weights": { "unanswered-prayer": 3 } }
+      ]
+    },
+    {
+      "text": "Which statement lands hardest?",
+      "options": [
+        { "text": "\"The people who should have protected me hurt me instead.\"", "weights": { "church-hurt": 3 } },
+        { "text": "\"I have honest questions and the easy answers don't satisfy me.\"", "weights": { "intellectual-questions": 3 } },
+        { "text": "\"They said one thing and did another, and it broke something.\"", "weights": { "hypocrisy-witnessed": 3 } },
+        { "text": "\"I never actually chose this faith. It was just handed to me.\"", "weights": { "inherited-faith": 3 } }
+      ]
+    },
+    {
+      "text": "What are you really sorting through underneath it all?",
+      "options": [
+        { "text": "Whether I can ever trust a church community again.", "weights": { "church-hurt": 3 } },
+        { "text": "Whether Christianity actually holds up to scrutiny.", "weights": { "intellectual-questions": 3 } },
+        { "text": "Whether faith is real or just a performance people put on.", "weights": { "hypocrisy-witnessed": 3 } },
+        { "text": "Whether God is even listening, after the silence I got.", "weights": { "unanswered-prayer": 3 } }
+      ]
+    },
+    {
+      "text": "How much of your old faith felt like your own?",
+      "options": [
+        { "text": "It was mine, until people in it hurt me.", "weights": { "church-hurt": 3 } },
+        { "text": "It was mine, but I never let myself examine it closely.", "weights": { "intellectual-questions": 2, "inherited-faith": 1 } },
+        { "text": "I believed it, then the hypocrisy made me doubt all of it.", "weights": { "hypocrisy-witnessed": 3 } },
+        { "text": "Honestly, almost none. I inherited it without ever owning it.", "weights": { "inherited-faith": 3 } }
+      ]
+    },
+    {
+      "text": "What would help you most right now?",
+      "options": [
+        { "text": "A safe place to heal from what the church did.", "weights": { "church-hurt": 3 } },
+        { "text": "Honest answers to my hardest questions, no dodging.", "weights": { "intellectual-questions": 3 } },
+        { "text": "Proof that real, humble faith actually exists.", "weights": { "hypocrisy-witnessed": 3 } },
+        { "text": "To make sense of why God felt absent when it mattered.", "weights": { "unanswered-prayer": 3 } }
+      ]
+    },
+    {
+      "text": "Which version of God are you wrestling with?",
+      "options": [
+        { "text": "The one whose followers wounded me.", "weights": { "church-hurt": 3 } },
+        { "text": "The one I can't square with the hard questions.", "weights": { "intellectual-questions": 3 } },
+        { "text": "The one people claim to follow but clearly don't.", "weights": { "hypocrisy-witnessed": 3 } },
+        { "text": "The one I'm not sure I ever really met for myself.", "weights": { "inherited-faith": 3 } }
+      ]
+    },
+    {
+      "text": "Deep down, what do you want to come out of all this?",
+      "options": [
+        { "text": "Healing, and maybe a faith that survives the wound.", "weights": { "church-hurt": 3 } },
+        { "text": "A faith I can believe with my mind, not just my upbringing.", "weights": { "intellectual-questions": 3 } },
+        { "text": "Something genuine, not the show I grew up watching.", "weights": { "hypocrisy-witnessed": 3 } },
+        { "text": "To finally decide for myself what I actually believe.", "weights": { "inherited-faith": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "church-hurt": {
+      "name": "Church Hurt",
+      "description": "Your deconstruction started with a wound, not a doubt. People who should have protected you hurt you, and the church became unsafe, so it makes sense that your faith would shake. Here's something important to separate out: what people did to you is not the same as who God is. The failure was theirs, not His. This isn't necessarily a faith to abandon. It may be a faith to heal. Find safe people, grieve what happened honestly, and give yourself room. God was not the one who hurt you, and He's not finished with you.",
+      "scripture": { "text": "The Lord is close to the brokenhearted and saves those who are crushed in spirit.", "reference": "Psalm 34:18" }
+    },
+    "intellectual-questions": {
+      "name": "Intellectual Questions",
+      "description": "Your faith shift is driven by your mind. The easy Sunday-school answers stopped satisfying you, and you need things to actually hold up. That's not a sin or a sign of weak faith. It's intellectual honesty, and faith has nothing to fear from it. The questions you're asking have been asked by serious, brilliant believers for centuries, and there are real answers worth digging into. Don't let anyone shame you for thinking hard. A faith that survives your toughest questions will be sturdier than one that never faced them. Keep seeking.",
+      "scripture": { "text": "Ask and it will be given to you, seek and you will find.", "reference": "Matthew 7:7" }
+    },
+    "hypocrisy-witnessed": {
+      "name": "Hypocrisy You Witnessed",
+      "description": "What broke something in you was the gap between what people preached and how they actually lived. The hypocrisy was real, and your disgust is justified. But here's the thing to hold onto: hypocrites failing to live out the truth doesn't make the truth false. Jesus himself was furious at religious hypocrisy. He's on your side about this. Don't let people who faked it convince you the real thing doesn't exist. It does, often quietly, in people who would never put on a show. Go looking for the genuine. It's out there.",
+      "scripture": { "text": "These people honor me with their lips, but their hearts are far from me.", "reference": "Matthew 15:8" }
+    },
+    "unanswered-prayer": {
+      "name": "A Prayer God Didn't Answer",
+      "description": "Your faith cracked in a moment of silence. You prayed hard for something that mattered, and heaven felt empty, and that disappointment cut deep. This is one of the most honest places to be, and you're in good company. The Psalms are full of people crying out and feeling unheard, and God didn't reject a single one of them for it. Bring Him your anger and your confusion directly. A silent answer is not the same as no God. Sometimes the relationship deepens most right here, in the honest wrestling.",
+      "scripture": { "text": "How long, Lord? Will you forget me forever?", "reference": "Psalm 13:1" }
+    },
+    "inherited-faith": {
+      "name": "Inherited Faith You Never Owned",
+      "description": "You're realizing the faith you had was handed to you, not chosen by you, and now you need to decide for yourself what you actually believe. That's not the end of faith. It might be the real beginning of it. Borrowed belief was always going to hit this point. The fact that you're examining it means you're taking it seriously enough to make it your own. Don't rush to throw it all out, and don't rush to keep it all either. Seek God for yourself, honestly. A faith you choose will mean more than one you simply absorbed.",
+      "scripture": { "text": "You will seek me and find me when you seek me with all your heart.", "reference": "Jeremiah 29:13" }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "slug": "burned-out-or-spiritually-dry",
+  "title": "Are You Spiritually Burned Out or Spiritually Dry?",
+  "subtitle": "Four things people blur into one. Sort out which is yours so you stop treating burnout like a sin problem.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "burnout",
+    "dryness",
+    "depression",
+    "dark-night",
+    "disillusionment"
+  ],
+  "questions": [
+    {
+      "text": "How did this flat, empty stretch begin?",
+      "options": [
+        { "text": "I gave and gave until there was nothing left.", "weights": { "burnout": 3 } },
+        { "text": "It just crept in, like a normal dry patch.", "weights": { "dryness": 3 } },
+        { "text": "A heaviness settled over everything, not just my faith.", "weights": { "depression": 3 } },
+        { "text": "Something I believed about God quietly fell apart.", "weights": { "disillusionment": 3 } }
+      ]
+    },
+    {
+      "text": "What does the emptiness feel like underneath?",
+      "options": [
+        { "text": "Exhaustion. I poured out way past my limits.", "weights": { "burnout": 3 } },
+        { "text": "A dry spell. Nothing's wrong exactly, it's just flat.", "weights": { "dryness": 3 } },
+        { "text": "A weight on everything, even things I used to enjoy.", "weights": { "depression": 3 } },
+        { "text": "A holy ache, like God is drawing me deeper through the silence.", "weights": { "dark-night": 3 } }
+      ]
+    },
+    {
+      "text": "What's true about your energy in general right now?",
+      "options": [
+        { "text": "Depleted from doing too much for too long.", "weights": { "burnout": 3 } },
+        { "text": "Mostly fine. It's really just my spiritual life that's dry.", "weights": { "dryness": 3 } },
+        { "text": "Drained across the board. Sleep doesn't even fix it.", "weights": { "depression": 3 } },
+        { "text": "Steady enough, but my certainties have come loose.", "weights": { "disillusionment": 2, "dark-night": 1 } }
+      ]
+    },
+    {
+      "text": "How do you feel about God specifically?",
+      "options": [
+        { "text": "Too tired to engage, not distant exactly, just spent.", "weights": { "burnout": 3 } },
+        { "text": "A bit far, but I trust it's a season that'll pass.", "weights": { "dryness": 3 } },
+        { "text": "Numb toward Him, the way I feel numb toward everything.", "weights": { "depression": 3 } },
+        { "text": "Quiet on purpose, like He's weaning me off the warm feelings.", "weights": { "dark-night": 3 } }
+      ]
+    },
+    {
+      "text": "Which sentence sounds most like your inner voice?",
+      "options": [
+        { "text": "\"I have nothing left to give anyone, including God.\"", "weights": { "burnout": 3 } },
+        { "text": "\"This is just a dry stretch. Deserts are normal.\"", "weights": { "dryness": 3 } },
+        { "text": "\"I can't feel much of anything anymore.\"", "weights": { "depression": 3 } },
+        { "text": "\"A belief I built my faith on just broke.\"", "weights": { "disillusionment": 3 } }
+      ]
+    },
+    {
+      "text": "What's been happening in your life lately?",
+      "options": [
+        { "text": "Nonstop demands and giving with no refill.", "weights": { "burnout": 3 } },
+        { "text": "Nothing major. The flatness came on its own.", "weights": { "dryness": 3 } },
+        { "text": "A low fog that's affecting sleep, appetite, and joy.", "weights": { "depression": 3 } },
+        { "text": "Something shook what I assumed about how God works.", "weights": { "disillusionment": 3 } }
+      ]
+    },
+    {
+      "text": "When you try to pray or read Scripture, what happens?",
+      "options": [
+        { "text": "I'm just too wrung out to engage with anything.", "weights": { "burnout": 3 } },
+        { "text": "It feels dry, but I keep showing up and trust it'll return.", "weights": { "dryness": 3 } },
+        { "text": "I can't focus or feel it, like a flat grey wall.", "weights": { "depression": 3 } },
+        { "text": "It's dry, yet underneath I sense God doing something deeper.", "weights": { "dark-night": 3 } }
+      ]
+    },
+    {
+      "text": "What do you most need right now?",
+      "options": [
+        { "text": "Real rest, and permission to stop giving for a while.", "weights": { "burnout": 3 } },
+        { "text": "Patience to keep showing up until the desert ends.", "weights": { "dryness": 3 } },
+        { "text": "Support and maybe a professional, because this is heavy.", "weights": { "depression": 3 } },
+        { "text": "Honest space to rebuild what just came apart.", "weights": { "disillusionment": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "burnout": {
+      "name": "Burnout (you gave too much)",
+      "description": "This isn't a sin problem, so please stop treating it like one. You're burned out because you poured yourself out past your limits, not because your faith failed. There's a huge difference, and it changes how you heal. You don't need to repent of being tired. You need rest, the deep kind, and permission to stop giving for a while. Even Jesus withdrew from the crowds. Following His example here isn't selfish. It's wisdom. Lay the load down before it lays you down, and let yourself be refilled.",
+      "scripture": { "text": "Come to me, all you who are weary and burdened, and I will give you rest.", "reference": "Matthew 11:28" }
+    },
+    "dryness": {
+      "name": "Dryness (a normal desert)",
+      "description": "What you're in is a dry season, and the most reassuring thing about it is how normal it is. Deserts are a regular part of walking with God, even for the most devoted people. Nothing is broken. The feelings just went quiet for a stretch. Don't panic and don't force it. Keep showing up in small, faithful ways, and trust that the green will return. Faith that keeps walking through the dry patch without the rush of emotion is a strong and mature faith. This season has an end. Keep going.",
+      "scripture": { "text": "They are like a tree planted by streams of water, whose leaf does not wither.", "reference": "Psalm 1:3" }
+    },
+    "depression": {
+      "name": "Depression (needs care)",
+      "description": "What you're describing sounds heavier than a spiritual dry spell. When the numbness covers everything, sleep doesn't help, and joy drains out of things you used to love, that's worth taking seriously. This is not a faith failure, and it's not something to white-knuckle alone. God works through doctors, counselors, and medicine just as truly as through prayer. Reaching out for help is not a lack of trust. It's an act of stewardship over the life He gave you. Please tell someone, and let people walk with you through this.",
+      "scripture": { "text": "He heals the brokenhearted and binds up their wounds.", "reference": "Psalm 147:3" }
+    },
+    "dark-night": {
+      "name": "The Dark Night",
+      "description": "This dryness might not be a problem to fix at all. Sometimes God goes quiet on purpose, weaning you off the warm feelings so you'll learn to trust Him for who He is rather than for the rush. That holy ache underneath the silence is a clue. This isn't abandonment. It's a deeper invitation. Keep showing up in the dark even when you feel nothing, because faith that holds on without the feelings is the strongest kind there is. He hasn't left. He's closer than this silence makes Him seem.",
+      "scripture": { "text": "When you pass through the waters, I will be with you.", "reference": "Isaiah 43:2" }
+    },
+    "disillusionment": {
+      "name": "Disillusionment (a belief broke)",
+      "description": "Something you built your faith on came apart, and now everything feels off because the foundation shifted. This isn't burnout or a simple dry spell. A belief broke, and that needs honest space to work through, not a quick patch. The good news is that losing a false or fragile idea about God is not the same as losing God. Sometimes He lets the shaky scaffolding fall so something truer can be built. Bring your disappointment to Him directly. The faith that gets rebuilt on the other side of this can be deeper and more honest than what came before.",
+      "scripture": { "text": "Now we see only a reflection as in a mirror, then we shall see face to face.", "reference": "1 Corinthians 13:12" }
+    }
+  }
+}

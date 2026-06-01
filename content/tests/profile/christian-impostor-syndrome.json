@@ -1,0 +1,129 @@
+{
+  "slug": "christian-impostor-syndrome",
+  "title": "Do You Have Christian Impostor Syndrome?",
+  "subtitle": "That quiet fear that everyone around you is the real deal and you're somehow faking it? More people sit in that feeling than you'd ever guess. Let's name yours.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "fraud-feeling",
+    "never-holy-enough",
+    "comparison-christian",
+    "secure-in-grace"
+  ],
+  "questions": [
+    {
+      "text": "What's the thought that sneaks up on you at church?",
+      "options": [
+        { "text": "If they knew the real me, they'd know I'm faking this.", "weights": { "fraud-feeling": 3 } },
+        { "text": "I should be holier by now. I'm clearly behind.", "weights": { "never-holy-enough": 3 } },
+        { "text": "Everyone here seems to have a faith I just don't have.", "weights": { "comparison-christian": 3 } },
+        { "text": "I'm not perfect, but I know I belong to God.", "weights": { "secure-in-grace": 3 } }
+      ]
+    },
+    {
+      "text": "When someone calls you a strong Christian, how do you feel?",
+      "options": [
+        { "text": "Like a fraud who has them fooled.", "weights": { "fraud-feeling": 3 } },
+        { "text": "Uncomfortable, because I know how far I fall short.", "weights": { "never-holy-enough": 3 } },
+        { "text": "Surprised, since others are obviously more devoted than me.", "weights": { "comparison-christian": 3 } },
+        { "text": "Grateful, and I quietly give the credit to God.", "weights": { "secure-in-grace": 3 } }
+      ]
+    },
+    {
+      "text": "What do you measure your faith against?",
+      "options": [
+        { "text": "The gap between my outside and my inside.", "weights": { "fraud-feeling": 3 } },
+        { "text": "A standard of holiness I keep failing to reach.", "weights": { "never-holy-enough": 3 } },
+        { "text": "Whoever seems to have it more together than me.", "weights": { "comparison-christian": 3 } },
+        { "text": "What Jesus already did, not what I manage to produce.", "weights": { "secure-in-grace": 3 } }
+      ]
+    },
+    {
+      "text": "Which fear feels most familiar?",
+      "options": [
+        { "text": "Getting found out. That my faith is mostly performance.", "weights": { "fraud-feeling": 3 } },
+        { "text": "That my sin proves I was never really His.", "weights": { "never-holy-enough": 3 } },
+        { "text": "That everyone else is closer to God than I'll ever be.", "weights": { "comparison-christian": 3 } },
+        { "text": "Honestly, I don't carry much of that fear anymore.", "weights": { "secure-in-grace": 3 } }
+      ]
+    },
+    {
+      "text": "What do you do when you sin?",
+      "options": [
+        { "text": "Feel like a hypocrite for ever calling myself a believer.", "weights": { "fraud-feeling": 3 } },
+        { "text": "Pile on shame and try harder to earn my way back.", "weights": { "never-holy-enough": 3 } },
+        { "text": "Assume real Christians don't struggle with this like I do.", "weights": { "comparison-christian": 3 } },
+        { "text": "Bring it to God, receive His grace, and keep walking.", "weights": { "secure-in-grace": 3 } }
+      ]
+    },
+    {
+      "text": "When you hear someone share their testimony, you think...",
+      "options": [
+        { "text": "Mine would sound fake next to that.", "weights": { "fraud-feeling": 2, "comparison-christian": 1 } },
+        { "text": "They've clearly arrived somewhere I never will.", "weights": { "never-holy-enough": 3 } },
+        { "text": "Their faith is the real thing. Mine feels like a knockoff.", "weights": { "comparison-christian": 3 } },
+        { "text": "What a gift. God's been good to them and to me.", "weights": { "secure-in-grace": 3 } }
+      ]
+    },
+    {
+      "text": "Be honest about your prayer life.",
+      "options": [
+        { "text": "I say the words but feel like I'm performing for an empty room.", "weights": { "fraud-feeling": 3 } },
+        { "text": "I feel too unworthy to come to God most days.", "weights": { "never-holy-enough": 3 } },
+        { "text": "I assume God hears the more spiritual people first.", "weights": { "comparison-christian": 3 } },
+        { "text": "It's honest and ordinary, and I trust He's listening.", "weights": { "secure-in-grace": 3 } }
+      ]
+    },
+    {
+      "text": "What lie do you most often half-believe?",
+      "options": [
+        { "text": "I'm pretending to be something I'm not.", "weights": { "fraud-feeling": 3 } },
+        { "text": "God can't really love someone who keeps failing like me.", "weights": { "never-holy-enough": 3 } },
+        { "text": "Everyone else got the real version of faith and I missed it.", "weights": { "comparison-christian": 3 } },
+        { "text": "I don't really fall for those lies these days.", "weights": { "secure-in-grace": 3 } }
+      ]
+    },
+    {
+      "text": "What would set you free if you actually believed it?",
+      "options": [
+        { "text": "That God sees the real me and loves me anyway.", "weights": { "fraud-feeling": 3 } },
+        { "text": "That I'm accepted because of Jesus, not my track record.", "weights": { "never-holy-enough": 3 } },
+        { "text": "That God isn't grading me against anyone else.", "weights": { "comparison-christian": 3 } },
+        { "text": "I'm already standing in most of that freedom.", "weights": { "secure-in-grace": 3 } }
+      ]
+    },
+    {
+      "text": "Which one sounds most like you?",
+      "options": [
+        { "text": "I feel like a fraud who's fooling everyone.", "weights": { "fraud-feeling": 3 } },
+        { "text": "I never feel holy enough to count as a real Christian.", "weights": { "never-holy-enough": 3 } },
+        { "text": "I'm always sure everyone else's faith is more real than mine.", "weights": { "comparison-christian": 3 } },
+        { "text": "I rest in grace, flaws and all.", "weights": { "secure-in-grace": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "fraud-feeling": {
+      "name": "The Fraud Feeling",
+      "description": "You carry a quiet dread that the gap between your outside and your inside makes you a phony. You smile, you serve, you say the words, and a voice whispers that if people saw the real you, the whole thing would fall apart. Here's what that voice never tells you: God already sees the real you, every messy corner, and He chose you anyway. Faith was never about hiding the mess. It's about being known by the One who loves you through it. You're not a fraud. You're forgiven, and that's the realest thing about you.",
+      "scripture": { "text": "But God demonstrates his own love for us in this: While we were still sinners, Christ died for us.", "reference": "Romans 5:8" }
+    },
+    "never-holy-enough": {
+      "name": "The Never-Holy-Enough",
+      "description": "You hold yourself to a bar of holiness you can never quite clear, and every stumble feels like proof you don't belong. So you try harder, and the shame piles higher, and grace stays just out of reach. But here's the thing you keep forgetting: you were never accepted because of your performance. You're accepted because of what Jesus already did. He didn't save the finished product. He saved you, mid-struggle, and He's not standing over you tapping His foot. Let the striving rest. You're already His, and that was never up to your effort.",
+      "scripture": { "text": "For it is by grace you have been saved, through faith, and this is not from yourselves, it is the gift of God.", "reference": "Ephesians 2:8" }
+    },
+    "comparison-christian": {
+      "name": "The Comparison Christian",
+      "description": "You're always glancing sideways, measuring your faith against the person who seems holier, more devoted, more sure. Next to them, yours feels like a cheap imitation. But comparison is a thief, and it's been lying to you. God isn't grading you on a curve against anyone else. He sees your faith, your story, your honest reaching for Him, and He's not comparing it to a soul. The person beside you has their own struggles you can't see. Stop auditioning against them. The God who made you is delighted by you, specifically.",
+      "scripture": { "text": "Each one should test their own actions. Then they can take pride in themselves alone, without comparing themselves to someone else.", "reference": "Galatians 6:4" }
+    },
+    "secure-in-grace": {
+      "name": "The Secure-in-Grace",
+      "description": "You've made peace with something a lot of believers wrestle with for years: your standing with God doesn't rise and fall on your performance. You know you're flawed, and you know you're loved, and you've stopped pretending one cancels the other. That's not pride, it's freedom, the good kind. Keep guarding it. The impostor voice can come back on a hard day. When it does, return to the truth you already hold: you're His, fully and finally, because of grace and not because you earned it. Now go help someone else believe it too.",
+      "scripture": { "text": "There is now no condemnation for those who are in Christ Jesus.", "reference": "Romans 8:1" }
+    }
+  }
+}

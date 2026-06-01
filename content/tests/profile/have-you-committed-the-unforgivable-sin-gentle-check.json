@@ -1,0 +1,129 @@
+{
+  "slug": "have-you-committed-the-unforgivable-sin-gentle-check",
+  "title": "Have You Committed the Unforgivable Sin? (A Gentle Check)",
+  "subtitle": "If this fear has been torturing you, take a breath. The very worry you're carrying is the clue. Let's walk through it gently.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "fear-is-proof",
+    "scrupulosity-is-lying",
+    "assurance-not-punishment",
+    "rest-in-finished-work"
+  ],
+  "questions": [
+    {
+      "text": "When this fear grips you, what are you actually afraid of?",
+      "options": [
+        { "text": "That I've put myself beyond God's forgiveness forever.", "weights": { "fear-is-proof": 3 } },
+        { "text": "That a stray thought I had means I'm condemned.", "weights": { "scrupulosity-is-lying": 3 } },
+        { "text": "That I'll never feel certain I'm actually safe with God.", "weights": { "assurance-not-punishment": 3 } },
+        { "text": "That I have to keep proving my repentance to earn my place.", "weights": { "rest-in-finished-work": 3 } }
+      ]
+    },
+    {
+      "text": "How does your heart respond to the thought of grieving God?",
+      "options": [
+        { "text": "It wrecks me. The last thing I want is to push Him away.", "weights": { "fear-is-proof": 3 } },
+        { "text": "I obsess over whether I crossed a line I can't uncross.", "weights": { "scrupulosity-is-lying": 3 } },
+        { "text": "I keep begging for a sign that I'm still okay.", "weights": { "assurance-not-punishment": 3 } },
+        { "text": "I feel I must do penance until the guilt finally lifts.", "weights": { "rest-in-finished-work": 3 } }
+      ]
+    },
+    {
+      "text": "Be honest. Do you want to be forgiven and close to God?",
+      "options": [
+        { "text": "Desperately. That longing is the loudest thing in me.", "weights": { "fear-is-proof": 3 } },
+        { "text": "Yes, but my mind keeps tormenting me with doubt about it.", "weights": { "scrupulosity-is-lying": 3 } },
+        { "text": "Yes, I just can't seem to feel secure that I have it.", "weights": { "assurance-not-punishment": 3 } },
+        { "text": "Yes, though I keep feeling I haven't done enough to deserve it.", "weights": { "rest-in-finished-work": 3 } }
+      ]
+    },
+    {
+      "text": "Where does most of this fear live?",
+      "options": [
+        { "text": "In a dread that I've committed the one thing He won't forgive.", "weights": { "fear-is-proof": 3 } },
+        { "text": "In a loop of \"what if\" thoughts I can't seem to shut off.", "weights": { "scrupulosity-is-lying": 3 } },
+        { "text": "In a constant need for reassurance that never quite sticks.", "weights": { "assurance-not-punishment": 3 } },
+        { "text": "In a feeling that grace can't be that free for someone like me.", "weights": { "rest-in-finished-work": 3 } }
+      ]
+    },
+    {
+      "text": "How long have you been carrying this particular fear?",
+      "options": [
+        { "text": "A long time, and the dread comes in waves I can't predict.", "weights": { "fear-is-proof": 3 } },
+        { "text": "It cycles. It eases, then a new intrusive thought sets it off.", "weights": { "scrupulosity-is-lying": 3 } },
+        { "text": "Off and on, and I keep needing someone to tell me I'm fine.", "weights": { "assurance-not-punishment": 3 } },
+        { "text": "On and off, usually when I feel I haven't repented hard enough.", "weights": { "rest-in-finished-work": 3 } }
+      ]
+    },
+    {
+      "text": "When you read a hard verse about sin, what happens inside?",
+      "options": [
+        { "text": "My heart sinks and I assume the worst about myself.", "weights": { "fear-is-proof": 3 } },
+        { "text": "My mind latches on and replays it for hours or days.", "weights": { "scrupulosity-is-lying": 3 } },
+        { "text": "I hunt for any phrase that might reassure me I'm safe.", "weights": { "assurance-not-punishment": 3 } },
+        { "text": "I feel pressure to do more to make myself acceptable.", "weights": { "rest-in-finished-work": 3 } }
+      ]
+    },
+    {
+      "text": "Which response feels closest to how you cope?",
+      "options": [
+        { "text": "I spiral into fear that I've finally gone too far.", "weights": { "fear-is-proof": 3 } },
+        { "text": "I compulsively analyze my thoughts for hidden blasphemy.", "weights": { "scrupulosity-is-lying": 3 } },
+        { "text": "I ask the same question over and over, needing comfort.", "weights": { "assurance-not-punishment": 3 } },
+        { "text": "I try to earn peace through extra prayers or rules.", "weights": { "rest-in-finished-work": 3 } }
+      ]
+    },
+    {
+      "text": "What would actually bring relief to your heart right now?",
+      "options": [
+        { "text": "Knowing for certain my fear itself proves I haven't done it.", "weights": { "fear-is-proof": 3 } },
+        { "text": "Understanding that this might be an anxiety loop, not the truth.", "weights": { "scrupulosity-is-lying": 3 } },
+        { "text": "A settled assurance that doesn't slip away an hour later.", "weights": { "assurance-not-punishment": 3 } },
+        { "text": "Permission to stop striving and trust it's already finished.", "weights": { "rest-in-finished-work": 3 } }
+      ]
+    },
+    {
+      "text": "If a hurting friend described your exact fear, what would you tell them?",
+      "options": [
+        { "text": "\"The fact that you care this much shows your heart is His.\"", "weights": { "fear-is-proof": 3 } },
+        { "text": "\"This sounds like your mind tormenting you, not God.\"", "weights": { "scrupulosity-is-lying": 3 } },
+        { "text": "\"You don't need another sign. You need to rest in His promise.\"", "weights": { "assurance-not-punishment": 2, "rest-in-finished-work": 1 } },
+        { "text": "\"You can stop performing. Jesus already paid for all of it.\"", "weights": { "rest-in-finished-work": 3 } }
+      ]
+    },
+    {
+      "text": "What do you most need to hear from God in this moment?",
+      "options": [
+        { "text": "\"Your fear of losing Me is proof you're still Mine.\"", "weights": { "fear-is-proof": 3 } },
+        { "text": "\"That tormenting voice is a lie. I am not condemning you.\"", "weights": { "scrupulosity-is-lying": 3 } },
+        { "text": "\"You are safe. Lean on My promise, not on your feelings.\"", "weights": { "assurance-not-punishment": 3 } },
+        { "text": "\"It is finished. There's nothing left for you to pay.\"", "weights": { "rest-in-finished-work": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "fear-is-proof": {
+      "name": "Your Fear Itself Is Proof You Haven't",
+      "description": "Take a deep breath. The thing tormenting you actually answers your own question. People who have truly hardened their hearts against God don't lie awake terrified of losing Him. Your fear is the heartbeat of someone who loves Him and longs to stay close. That ache to be forgiven is His Spirit at work in you, not against you. You have not gone too far. You couldn't, because He's still holding you.",
+      "scripture": { "text": "The one who comes to me I will never drive away.", "reference": "John 6:37" }
+    },
+    "scrupulosity-is-lying": {
+      "name": "Scrupulosity Is Lying to You",
+      "description": "What you're describing sounds less like a spiritual verdict and more like an anxious mind stuck in a loop, replaying \"what if\" until you can't tell up from down. That voice that condemns you on repeat is not the voice of God. He doesn't torment His children with endless dread. This is a fear worth bringing to a wise counselor or pastor, because you deserve real help. The lie is loud, but it's still a lie.",
+      "scripture": { "text": "For God has not given us a spirit of fear, but of power and of love and of a sound mind.", "reference": "2 Timothy 1:7" }
+    },
+    "assurance-not-punishment": {
+      "name": "You Need Assurance, Not Punishment",
+      "description": "You keep chasing a feeling of certainty, and the moment it fades you're back to square one, begging for another sign. But assurance was never meant to rest on your shifting emotions. It rests on what God has promised, and His promise doesn't expire when your feelings dip. You don't need more punishment to feel safe. You need to lean your full weight on the One who already said you're His.",
+      "scripture": { "text": "I give them eternal life, and they shall never perish; no one will snatch them out of my hand.", "reference": "John 10:28" }
+    },
+    "rest-in-finished-work": {
+      "name": "Rest in the Finished Work",
+      "description": "You've been trying to pay for something that was already paid in full, adding extra prayers and rules to quiet a guilt that won't lift on its own. Here's the rest you've been aching for: when Jesus said \"it is finished,\" He meant it. There's no balance left on the account, nothing more for you to earn. You can finally set down the striving and simply receive what He already gave you, free and complete.",
+      "scripture": { "text": "When he had received the drink, Jesus said, It is finished. With that, he bowed his head and gave up his spirit.", "reference": "John 19:30" }
+    }
+  }
+}

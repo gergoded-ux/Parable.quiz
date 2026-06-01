@@ -1,0 +1,136 @@
+{
+  "slug": "which-rhythm-of-jesus-do-you-need",
+  "title": "Which Rhythm of Jesus Do You Most Need?",
+  "subtitle": "Jesus lived unhurried in a world that never slowed down. Here's the rhythm of His that your tired soul is missing most.",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 5,
+  "mode": "archetype",
+  "questions": [
+    {
+      "text": "What does your soul feel starved for lately?",
+      "options": [
+        { "text": "Quiet. A place to get away from the noise and just be with God.", "weights": { "withdraw": 3 } },
+        { "text": "Peace in the chaos. I'm panicking while everything around me rocks.", "weights": { "sleep-in-the-storm": 3 } },
+        { "text": "Focus. I'm scattered across a hundred tasks and missing the one that matters.", "weights": { "one-thing-needed": 3 } },
+        { "text": "Rest. I'm carrying a weight that's flattening me.", "weights": { "come-to-me": 3 } }
+      ]
+    },
+    {
+      "text": "How are you moving through your days?",
+      "options": [
+        { "text": "Fast. Too fast. I rush from thing to thing and never feel present.", "weights": { "walk-dont-rush": 3 } },
+        { "text": "Heavy. Like I'm dragging an invisible load everywhere.", "weights": { "come-to-me": 3 } },
+        { "text": "Joyless. Even good things feel like more to manage.", "weights": { "feast-and-celebrate": 3 } },
+        { "text": "Frantic. My mind is loud and I can't find a quiet corner.", "weights": { "withdraw": 3 } }
+      ]
+    },
+    {
+      "text": "When life gets stormy, what's your default?",
+      "options": [
+        { "text": "I spiral. Worst-case scenarios on a loop.", "weights": { "sleep-in-the-storm": 3 } },
+        { "text": "I work harder, trying to control all of it at once.", "weights": { "one-thing-needed": 2, "walk-dont-rush": 1 } },
+        { "text": "I push through grimly, forgetting joy is even allowed.", "weights": { "feast-and-celebrate": 3 } },
+        { "text": "I withdraw inward, but not toward God, just into my head.", "weights": { "withdraw": 2, "sleep-in-the-storm": 1 } }
+      ]
+    },
+    {
+      "text": "What would actually feel like good news right now?",
+      "options": [
+        { "text": "You're allowed to come away and rest with God alone.", "weights": { "withdraw": 3 } },
+        { "text": "You can sleep through the storm because Someone bigger is awake.", "weights": { "sleep-in-the-storm": 3 } },
+        { "text": "You don't have to do it all. Just choose the better thing.", "weights": { "one-thing-needed": 3 } },
+        { "text": "Bring me your heavy load, and I'll carry it with you.", "weights": { "come-to-me": 3 } }
+      ]
+    },
+    {
+      "text": "Which describes your relationship with hurry?",
+      "options": [
+        { "text": "I'm addicted to it. Slowing down feels like falling behind.", "weights": { "walk-dont-rush": 3 } },
+        { "text": "I'm anxious in it. The pace keeps me on edge.", "weights": { "sleep-in-the-storm": 2, "walk-dont-rush": 1 } },
+        { "text": "I'm buried under it. So busy I've lost the point.", "weights": { "one-thing-needed": 3 } },
+        { "text": "I rush right past the moments worth savoring.", "weights": { "feast-and-celebrate": 2, "walk-dont-rush": 1 } }
+      ]
+    },
+    {
+      "text": "What have you forgotten how to do?",
+      "options": [
+        { "text": "Be alone with God without an agenda.", "weights": { "withdraw": 3 } },
+        { "text": "Stop striving and just sit at His feet.", "weights": { "one-thing-needed": 3 } },
+        { "text": "Celebrate. To actually feast and enjoy the gift of life.", "weights": { "feast-and-celebrate": 3 } },
+        { "text": "Trust that I can rest while God keeps watch.", "weights": { "come-to-me": 2, "sleep-in-the-storm": 1 } }
+      ]
+    },
+    {
+      "text": "Which sentence makes your chest tighten a little?",
+      "options": [
+        { "text": "\"You never withdraw. You just keep going until you collapse.\"", "weights": { "withdraw": 3 } },
+        { "text": "\"You're exhausted from trying to control what only God can hold.\"", "weights": { "sleep-in-the-storm": 3 } },
+        { "text": "\"You're so busy serving that you forgot to be present.\"", "weights": { "one-thing-needed": 3 } },
+        { "text": "\"You've been carrying this load alone for far too long.\"", "weights": { "come-to-me": 3 } }
+      ]
+    },
+    {
+      "text": "When was the last time you truly celebrated something?",
+      "options": [
+        { "text": "I genuinely can't remember. Joy feels like a luxury.", "weights": { "feast-and-celebrate": 3 } },
+        { "text": "I was too rushed to notice it even happened.", "weights": { "walk-dont-rush": 3 } },
+        { "text": "I was too tired and weighed down to feel it.", "weights": { "come-to-me": 2, "feast-and-celebrate": 1 } },
+        { "text": "I was too anxious to let myself enjoy it.", "weights": { "sleep-in-the-storm": 2, "feast-and-celebrate": 1 } }
+      ]
+    },
+    {
+      "text": "Deep down, what does your heart most want to hear from Jesus?",
+      "options": [
+        { "text": "Come away with me to a quiet place and rest.", "weights": { "withdraw": 3 } },
+        { "text": "Peace. Be still. Why are you so afraid?", "weights": { "sleep-in-the-storm": 3 } },
+        { "text": "You are worried about many things, but only one is needed.", "weights": { "one-thing-needed": 3 } },
+        { "text": "Come to me, and I will give you rest.", "weights": { "come-to-me": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "withdraw": {
+      "name": "Withdraw to a Quiet Place",
+      "emoji": "🏞️",
+      "traits": ["Overstimulated", "Seeking", "Tender"],
+      "description": "You're drowning in noise and pulled in every direction, and your soul is begging for a quiet corner with God. Jesus did the very thing you're craving. Even with crowds chasing Him, He slipped away to lonely places to be alone with His Father. That instinct in you isn't avoidance. It's wisdom. Give yourself permission to step away, even for a little while. The quiet is where you'll find Him again.",
+      "scripture": { "text": "But Jesus often withdrew to lonely places and prayed.", "reference": "Luke 5:16" }
+    },
+    "sleep-in-the-storm": {
+      "name": "Sleep in the Storm",
+      "emoji": "⛵",
+      "traits": ["Anxious", "Faithful", "Weary"],
+      "description": "The waves are crashing and you're convinced it's all about to sink. Meanwhile, Jesus slept in the back of a boat through a storm that terrified seasoned fishermen, because He trusted the Father completely. He's not asleep because He doesn't care. He's at peace because He knows who holds the wind. The rhythm you need is the kind of trust that can rest even when the storm hasn't stopped yet.",
+      "scripture": { "text": "Peace! Be still! Then the wind ceased, and there was a dead calm.", "reference": "Mark 4:39" }
+    },
+    "one-thing-needed": {
+      "name": "One Thing Is Needed (Mary)",
+      "emoji": "🌿",
+      "traits": ["Distracted", "Devoted", "Stretched"],
+      "description": "You're running yourself ragged doing good things, and somewhere in the rush you lost the one thing that matters most. Martha was busy serving while Mary simply sat at Jesus' feet, and He gently said Mary chose better. He's not asking you to do more. He's inviting you to stop, sit close, and let the rest fall into place. One thing is needed, and you're allowed to choose it.",
+      "scripture": { "text": "Few things are needed, or indeed only one. Mary has chosen what is better.", "reference": "Luke 10:42" }
+    },
+    "come-to-me": {
+      "name": "Come to Me, All Who Are Weary",
+      "emoji": "🤲",
+      "traits": ["Burdened", "Honest", "Worn"],
+      "description": "You've been carrying a weight that's far too heavy, and your arms are shaking. Jesus has the gentlest invitation in all of Scripture waiting for you: come to me, and I will give you rest. He doesn't want you to clean yourself up first or muscle through alone. He wants the heavy thing. Bring it to Him today, exactly as it is, and let Him take what you were never meant to hold by yourself.",
+      "scripture": { "text": "Come to me, all you who are weary and burdened, and I will give you rest.", "reference": "Matthew 11:28" }
+    },
+    "walk-dont-rush": {
+      "name": "Walk, Don't Rush",
+      "emoji": "🚶",
+      "traits": ["Hurried", "Driven", "Restless"],
+      "description": "You move fast and rarely stop, and the speed has started to cost you. Jesus walked everywhere. He had the most important mission in history, and He never once hurried. He had time for the interruption, the question, the person in the crowd. The rhythm you need is the slow, present pace of someone who trusts the Father with the timing. Slow down. The most important moments happen when you're not rushing past them.",
+      "scripture": { "text": "Walk with me and work with me. Watch how I do it. Learn the unforced rhythms of grace.", "reference": "Matthew 11:29" }
+    },
+    "feast-and-celebrate": {
+      "name": "Feast and Celebrate",
+      "emoji": "🍇",
+      "traits": ["Joyless", "Serious", "Drained"],
+      "description": "Somewhere along the way, joy slipped out of your life and you barely noticed it leave. Everything became a duty. But Jesus feasted. He went to weddings, turned water into wine, ate with friends, and was even called a friend of sinners for how freely He celebrated. Joy is not unspiritual. The rhythm you need is to receive life as the gift it is. Go enjoy something good, and let gladness back in.",
+      "scripture": { "text": "These things I have spoken to you, that my joy may be in you, and that your joy may be full.", "reference": "John 15:11" }
+    }
+  }
+}

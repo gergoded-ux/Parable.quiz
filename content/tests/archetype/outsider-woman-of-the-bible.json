@@ -1,0 +1,113 @@
+{
+  "slug": "outsider-woman-of-the-bible",
+  "title": "Which Outsider Woman of the Bible Are You?",
+  "subtitle": "If you've ever felt like you were standing on the edge of the room, one of these women already knows that ache. And every one of them got moved toward, not away.",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 4,
+  "mode": "archetype",
+  "questions": [
+    {
+      "text": "What kind of outsider do you feel like most?",
+      "options": [
+        { "text": "The one with a past people would whisper about.", "weights": { "woman-at-the-well": 3 } },
+        { "text": "The one who got pushed out and left to survive alone.", "weights": { "hagar": 3 } },
+        { "text": "The one who doesn't belong here, a foreigner in the room.", "weights": { "ruth-the-foreigner": 3 } },
+        { "text": "The one whose condition keeps people at a distance.", "weights": { "bleeding-woman": 3 } }
+      ]
+    },
+    {
+      "text": "What time of day do you do your hardest things?",
+      "options": [
+        { "text": "When no one's around, to avoid the looks.", "weights": { "woman-at-the-well": 3 } },
+        { "text": "Out in the wilderness, far from anyone who'd help.", "weights": { "hagar": 3 } },
+        { "text": "Quietly, in the background, hoping not to be a burden.", "weights": { "ruth-the-foreigner": 3 } },
+        { "text": "In a crowd, but somehow still completely alone in it.", "weights": { "bleeding-woman": 3 } }
+      ]
+    },
+    {
+      "text": "What's the wound that made you feel like an outsider?",
+      "options": [
+        { "text": "Relationships that fell apart and a reputation that followed me.", "weights": { "woman-at-the-well": 3 } },
+        { "text": "Being used, then discarded by people who had power over me.", "weights": { "hagar": 3 } },
+        { "text": "Loss that left me far from home and starting over.", "weights": { "ruth-the-foreigner": 3 } },
+        { "text": "Years of suffering that drained everything I had.", "weights": { "bleeding-woman": 3 } }
+      ]
+    },
+    {
+      "text": "What do you secretly long for?",
+      "options": [
+        { "text": "To be fully known and not run away from.", "weights": { "woman-at-the-well": 3 } },
+        { "text": "To know that someone, anyone, actually sees me.", "weights": { "hagar": 3 } },
+        { "text": "To finally belong somewhere and be welcomed in.", "weights": { "ruth-the-foreigner": 3 } },
+        { "text": "To be healed, and to be touched without flinching.", "weights": { "bleeding-woman": 3 } }
+      ]
+    },
+    {
+      "text": "How do you handle being on the margins?",
+      "options": [
+        { "text": "I deflect with conversation and keep people at arm's length.", "weights": { "woman-at-the-well": 3 } },
+        { "text": "I cry out to God when there's no one else left.", "weights": { "hagar": 2, "bleeding-woman": 1 } },
+        { "text": "I work hard and stay loyal, hoping it earns me a place.", "weights": { "ruth-the-foreigner": 3 } },
+        { "text": "I keep reaching, even when nothing's worked yet.", "weights": { "bleeding-woman": 3 } }
+      ]
+    },
+    {
+      "text": "What's the lie you're tempted to believe?",
+      "options": [
+        { "text": "My past disqualifies me from anything good.", "weights": { "woman-at-the-well": 3 } },
+        { "text": "Nobody wanted me, so God must not either.", "weights": { "hagar": 3 } },
+        { "text": "I'll always be the one who doesn't quite fit.", "weights": { "ruth-the-foreigner": 3 } },
+        { "text": "I'm too far gone, too unclean to be made whole.", "weights": { "bleeding-woman": 3 } }
+      ]
+    },
+    {
+      "text": "If you could ask God one thing, it'd be...",
+      "options": [
+        { "text": "Do you really know everything about me and still want me?", "weights": { "woman-at-the-well": 3 } },
+        { "text": "Do you see me out here, alone like this?", "weights": { "hagar": 3 } },
+        { "text": "Is there a place for someone like me in your family?", "weights": { "ruth-the-foreigner": 3 } },
+        { "text": "Can you make me well after all this time?", "weights": { "bleeding-woman": 3 } }
+      ]
+    },
+    {
+      "text": "What would change everything for you?",
+      "options": [
+        { "text": "One conversation where I'm finally seen and not condemned.", "weights": { "woman-at-the-well": 3 } },
+        { "text": "Knowing God learned my name in the wilderness.", "weights": { "hagar": 3 } },
+        { "text": "Being chosen and brought all the way in.", "weights": { "ruth-the-foreigner": 3 } },
+        { "text": "One moment of contact that actually heals.", "weights": { "bleeding-woman": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "woman-at-the-well": {
+      "name": "The Woman at the Well",
+      "emoji": "🪣",
+      "traits": ["Guarded", "Honest", "Found"],
+      "description": "You've kept to the edges, going out of your way to avoid the looks and the whispers about your past. Then look what Jesus does. He sits down at a well in the heat of the day and talks to the very woman everyone else avoided. He knew her whole story and didn't flinch, and she ran back to town telling everyone about the man who saw all of her. He sees all of you too, and He isn't walking away. Your past is not the end of your story with Him.",
+      "scripture": { "text": "Come, see a man who told me everything I ever did.", "reference": "John 4:29" }
+    },
+    "hagar": {
+      "name": "Hagar",
+      "emoji": "🏜️",
+      "traits": ["Cast-out", "Weary", "Seen"],
+      "description": "You've been used and then pushed out, left in a wilderness sure that no one noticed. But Hagar, a servant with no power and nowhere to go, is the first person in all of Scripture to give God a name. Out in that empty place He met her, and she called Him the God who sees me. He found her by name when she felt invisible to everyone else. That same God sees you, right here, in the place you thought He'd forgotten. You are not unseen.",
+      "scripture": { "text": "You are the God who sees me.", "reference": "Genesis 16:13" }
+    },
+    "ruth-the-foreigner": {
+      "name": "Ruth the Foreigner",
+      "emoji": "🌾",
+      "traits": ["Loyal", "Brave", "Welcomed"],
+      "description": "You know what it's like to be the outsider, far from home, working hard in the corners and hoping there's room for someone like you. Ruth was a foreigner and a widow, the last person anyone expected God to use. She left everything to stay loyal, gathered grain in a stranger's field, and was not only welcomed in but written into the family line of Jesus Himself. You belong more than you know. God has a way of bringing the outsider all the way home.",
+      "scripture": { "text": "Where you go I will go, and where you stay I will stay. Your people will be my people and your God my God.", "reference": "Ruth 1:16" }
+    },
+    "bleeding-woman": {
+      "name": "The Bleeding Woman",
+      "emoji": "🤲",
+      "traits": ["Suffering", "Persistent", "Healed"],
+      "description": "Twelve years of suffering had drained your strength and pushed you to the margins, untouchable, exhausted, but still reaching. She pressed through a crowd just to touch the hem of His robe, and the moment she did, Jesus stopped everything. He didn't scold her for being unclean. He called her daughter and told her she was healed. He notices the quiet reach you thought no one saw. Keep reaching for Him. He is not put off by what you carry. He wants to make you whole.",
+      "scripture": { "text": "Daughter, your faith has healed you. Go in peace.", "reference": "Mark 5:34" }
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "slug": "are-you-allowed-to-be-angry-at-god",
+  "title": "Are You Allowed to Be Angry at God?",
+  "subtitle": "Grief can turn into anger, and the anger can scare you. Here's the question you've been afraid to ask out loud.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "like-david",
+    "like-job",
+    "complaining-to-god",
+    "complaining-about-god"
+  ],
+  "questions": [
+    {
+      "text": "When the anger rises, what does it sound like inside you?",
+      "options": [
+        { "text": "Raw, loud honesty. \"God, where were You?\"", "weights": { "like-david": 3 } },
+        { "text": "A weary protest from the bottom of my pain.", "weights": { "like-job": 3 } },
+        { "text": "Hard questions I still bring straight to Him.", "weights": { "complaining-to-god": 3 } },
+        { "text": "Bitter words I've started saying to everyone but Him.", "weights": { "complaining-about-god": 3 } }
+      ]
+    },
+    {
+      "text": "Where do you take the anger right now?",
+      "options": [
+        { "text": "Straight to God, even when it comes out as a shout.", "weights": { "like-david": 3 } },
+        { "text": "Into honest lament, sitting in the ashes with Him.", "weights": { "like-job": 3 } },
+        { "text": "Into prayer, asking the hard \"why\" questions face to face.", "weights": { "complaining-to-god": 3 } },
+        { "text": "Away from Him, venting to others instead of talking to Him.", "weights": { "complaining-about-god": 3 } }
+      ]
+    },
+    {
+      "text": "Deep down, do you still believe God is good?",
+      "options": [
+        { "text": "Yes, which is exactly why His silence hurts so much.", "weights": { "like-david": 3 } },
+        { "text": "I'm clinging to it through gritted teeth, but yes.", "weights": { "like-job": 3 } },
+        { "text": "Mostly, and I keep telling Him my doubts directly.", "weights": { "complaining-to-god": 3 } },
+        { "text": "I've started to wonder if He even cares about me.", "weights": { "complaining-about-god": 3 } }
+      ]
+    },
+    {
+      "text": "What's the honest reason behind your anger?",
+      "options": [
+        { "text": "I trusted Him and the pain still came anyway.", "weights": { "like-david": 3 } },
+        { "text": "I've lost so much and I can't make sense of it.", "weights": { "like-job": 3 } },
+        { "text": "I don't understand what He's doing, and it's eating at me.", "weights": { "complaining-to-god": 3 } },
+        { "text": "I feel betrayed, and I've quietly given up reaching out.", "weights": { "complaining-about-god": 3 } }
+      ]
+    },
+    {
+      "text": "When you pray these days, what happens?",
+      "options": [
+        { "text": "I pour it all out, no filter, like the psalmists did.", "weights": { "like-david": 3 } },
+        { "text": "I sit in silence and let the grief speak for me.", "weights": { "like-job": 3 } },
+        { "text": "I argue, I question, but I'm still showing up to talk.", "weights": { "complaining-to-god": 3 } },
+        { "text": "I've mostly stopped. Why talk to someone who let me down?", "weights": { "complaining-about-god": 3 } }
+      ]
+    },
+    {
+      "text": "Which sentence is closest to your heart right now?",
+      "options": [
+        { "text": "\"How long, Lord? Will You forget me forever?\"", "weights": { "like-david": 3 } },
+        { "text": "\"I'm crushed, but I won't let go of You.\"", "weights": { "like-job": 3 } },
+        { "text": "\"I don't get it, God, but I'm still asking You to.\"", "weights": { "complaining-to-god": 3 } },
+        { "text": "\"He's not listening anyway, so what's the point.\"", "weights": { "complaining-about-god": 3 } }
+      ]
+    },
+    {
+      "text": "How do you feel about being angry at God?",
+      "options": [
+        { "text": "I've decided He can handle my honesty, so I let it out.", "weights": { "like-david": 3 } },
+        { "text": "Guilty sometimes, but the loss is too big to pretend.", "weights": { "like-job": 3 } },
+        { "text": "Okay, as long as I keep bringing it to Him directly.", "weights": { "complaining-to-god": 3 } },
+        { "text": "It's curdled into bitterness, and I've turned my back a bit.", "weights": { "complaining-about-god": 3 } }
+      ]
+    },
+    {
+      "text": "Who hears about your anger most?",
+      "options": [
+        { "text": "God, loudly and first, before anyone else.", "weights": { "like-david": 3 } },
+        { "text": "God, in long honest silences and lament.", "weights": { "like-job": 3 } },
+        { "text": "God, through questions I refuse to stop asking Him.", "weights": { "complaining-to-god": 3 } },
+        { "text": "Other people, while I keep God at a cold distance.", "weights": { "complaining-about-god": 3 } }
+      ]
+    },
+    {
+      "text": "What do you fear your anger might cost you?",
+      "options": [
+        { "text": "Nothing, honestly. I think God invites the raw truth.", "weights": { "like-david": 3 } },
+        { "text": "Maybe nothing, if I keep holding on like Job did.", "weights": { "like-job": 3 } },
+        { "text": "Nothing, as long as I keep the conversation going with Him.", "weights": { "complaining-to-god": 3 } },
+        { "text": "My closeness to Him, which I can already feel slipping.", "weights": { "complaining-about-god": 3 } }
+      ]
+    },
+    {
+      "text": "What do you most need to hear right now?",
+      "options": [
+        { "text": "\"Yell it all out. I can take your honest anger.\"", "weights": { "like-david": 3 } },
+        { "text": "\"Sit in the ashes. I haven't left your side.\"", "weights": { "like-job": 3 } },
+        { "text": "\"Keep bringing it to Me. That's still faith.\"", "weights": { "complaining-to-god": 3 } },
+        { "text": "\"Come back and talk to Me. I never stopped listening.\"", "weights": { "complaining-about-god": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "like-david": {
+      "name": "Yes, Like David Yelled the Psalms",
+      "description": "Your anger comes out loud and unfiltered, straight at God, and you're afraid that's not allowed. It is. David filled the Psalms with raw cries like \"How long, Lord?\" and God called him a man after His own heart. Honesty isn't the opposite of faith. It's what faith sounds like when it's hurting. Keep yelling it at Him. He's strong enough to hold every word, and He'd rather have your honesty than your distance.",
+      "scripture": { "text": "How long, Lord? Will you forget me forever? How long will you hide your face from me?", "reference": "Psalm 13:1" }
+    },
+    "like-job": {
+      "name": "Yes, Like Job in His Ash Heap",
+      "description": "You've lost so much that you can't tidy it up, and your anger is the sound of grief with nowhere to go. Job sat in ashes and let it all out, questioned, protested, ached, and never let go of God. In the end, God didn't scold his honesty. You don't have to pretend you're fine. You can sit in the hard place and still hold on. He's sitting there with you, closer than you feel.",
+      "scripture": { "text": "Though he slay me, yet will I hope in him.", "reference": "Job 13:15" }
+    },
+    "complaining-to-god": {
+      "name": "You're Complaining TO God (Faith)",
+      "description": "Here's something freeing: you're still bringing it all to Him. The questions, the frustration, the why, all of it lands at His feet because you haven't stopped talking to Him. That's not a lack of faith. That's faith doing exactly what it should: taking the pain to the only One who can carry it. Keep the conversation open. Complaining to God keeps you tethered to Him, and that tether is everything.",
+      "scripture": { "text": "I pour out before him my complaint; before him I tell my trouble.", "reference": "Psalm 142:2" }
+    },
+    "complaining-about-god": {
+      "name": "You've Slipped to Complaining ABOUT God",
+      "description": "Somewhere in the pain, the anger turned away from God instead of toward Him, and now you vent about Him to everyone but talk to Him less and less. That's a gentle warning, not a condemnation. The bitterness is pulling you to a cold distance, and your heart can feel it. The door back is simpler than you think: turn around and tell Him directly. He never stopped listening, and He's been waiting for you to come back and talk.",
+      "scripture": { "text": "Cast all your anxiety on him because he cares for you.", "reference": "1 Peter 5:7" }
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "slug": "are-you-jealous-of-others-success",
+  "title": "Are You Secretly Jealous of Others' Success?",
+  "subtitle": "Be honest with yourself for a minute. This is a tender check on what rises in you when someone else wins.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": ["genuinely-happy", "quietly-comparing", "resentful", "consumed-by-comparison"],
+  "questions": [
+    {
+      "text": "A friend shares great news. What is your real first reaction?",
+      "options": [
+        { "text": "Pure joy. I am thrilled and I tell them so.", "weights": { "genuinely-happy": 2 } },
+        { "text": "Happy for them, with a small pang underneath.", "weights": { "quietly-comparing": 2 } },
+        { "text": "A flash of why them and not me.", "weights": { "resentful": 2 } },
+        { "text": "It ruins my whole day and I cannot shake it.", "weights": { "consumed-by-comparison": 2 } }
+      ]
+    },
+    {
+      "text": "How does scrolling social media usually leave you feeling?",
+      "options": [
+        { "text": "Fine. I can celebrate other people without it touching me.", "weights": { "genuinely-happy": 2 } },
+        { "text": "A little behind, like everyone is doing better than me.", "weights": { "quietly-comparing": 2 } },
+        { "text": "Irritated and quietly bitter about other people's wins.", "weights": { "resentful": 2 } },
+        { "text": "Worse every time, but I keep checking anyway.", "weights": { "consumed-by-comparison": 2 } }
+      ]
+    },
+    {
+      "text": "When someone you know gets the thing you wanted, you...",
+      "options": [
+        { "text": "Cheer them on and trust my own timing.", "weights": { "genuinely-happy": 2 } },
+        { "text": "Smile on the outside and replay it later in my head.", "weights": { "quietly-comparing": 2 } },
+        { "text": "Feel a knot of resentment I do not say out loud.", "weights": { "resentful": 2 } },
+        { "text": "Spiral, comparing every part of my life to theirs.", "weights": { "consumed-by-comparison": 2 } }
+      ]
+    },
+    {
+      "text": "How often do you measure your life against other people's?",
+      "options": [
+        { "text": "Hardly ever. I run my own race.", "weights": { "genuinely-happy": 2 } },
+        { "text": "Now and then, usually when I am feeling low.", "weights": { "quietly-comparing": 2 } },
+        { "text": "Often, and it leaves a sour taste each time.", "weights": { "resentful": 2 } },
+        { "text": "Constantly. It is the lens I see almost everything through.", "weights": { "consumed-by-comparison": 2 } }
+      ]
+    },
+    {
+      "text": "Be honest: have you ever quietly hoped someone would fail?",
+      "options": [
+        { "text": "No, their success genuinely does not threaten me.", "weights": { "genuinely-happy": 2 } },
+        { "text": "Not really, though I have wished I had what they have.", "weights": { "quietly-comparing": 2 } },
+        { "text": "Once or twice, and it bothered me that I felt that way.", "weights": { "resentful": 2 } },
+        { "text": "More than I want to admit. It scares me a little.", "weights": { "consumed-by-comparison": 2 } }
+      ]
+    },
+    {
+      "text": "What do you do when comparison hits?",
+      "options": [
+        { "text": "Thank God for what I have and move on quickly.", "weights": { "genuinely-happy": 2 } },
+        { "text": "Notice it, sit in it a while, then try to let it go.", "weights": { "quietly-comparing": 2 } },
+        { "text": "Stew on it and find reasons they did not deserve it.", "weights": { "resentful": 2 } },
+        { "text": "Get pulled all the way under. It colors everything.", "weights": { "consumed-by-comparison": 2 } }
+      ]
+    },
+    {
+      "text": "How is your sense of your own worth lately?",
+      "options": [
+        { "text": "Steady. It is not riding on how I stack up to others.", "weights": { "genuinely-happy": 2 } },
+        { "text": "A bit shaky when I see other people doing well.", "weights": { "quietly-comparing": 2 } },
+        { "text": "Wrapped up in being ahead of, or behind, other people.", "weights": { "resentful": 2 } },
+        { "text": "Completely tangled in comparison. I cannot separate them.", "weights": { "consumed-by-comparison": 2 } }
+      ]
+    },
+    {
+      "text": "What do you most need to hear right now?",
+      "options": [
+        { "text": "Keep celebrating others. That freedom is a gift.", "weights": { "genuinely-happy": 2 } },
+        { "text": "Your life is not behind. Comparison is lying to you.", "weights": { "quietly-comparing": 2 } },
+        { "text": "Your resentment is pointing at a wound that wants healing.", "weights": { "resentful": 2 } },
+        { "text": "You can be free of this. The spiral does not get the final word.", "weights": { "consumed-by-comparison": 2 } }
+      ]
+    },
+    {
+      "text": "Which honest summary fits you best?",
+      "options": [
+        { "text": "I am genuinely happy when others win.", "weights": { "genuinely-happy": 2 } },
+        { "text": "I compare quietly, mostly in my own head.", "weights": { "quietly-comparing": 2 } },
+        { "text": "There is real resentment in me I have not dealt with.", "weights": { "resentful": 2 } },
+        { "text": "Comparison has a grip on me, and I want out.", "weights": { "consumed-by-comparison": 2 } }
+      ]
+    }
+  ],
+  "results": {
+    "genuinely-happy": {
+      "name": "Genuinely Happy",
+      "description": "When someone else wins, you can truly celebrate, and that is rarer than you might think. Their success does not shrink yours, because your worth is not riding on the comparison. Keep guarding that freedom. The world will keep trying to pull you into the scoreboard, but you have learned to rejoice with people, and that joy will keep your heart light and your friendships real.",
+      "scripture": { "text": "Rejoice with them that do rejoice, and weep with them that weep.", "reference": "Romans 12:15" }
+    },
+    "quietly-comparing": {
+      "name": "Quietly Comparing",
+      "description": "You are mostly happy for others, but a quiet pang shows up when they get ahead, and you replay it later when no one is around. That is the early whisper of comparison, and it usually shows up loudest when you are feeling low about yourself. Comparison is lying to you about being behind. Your life is unfolding on its own timeline, and God is not measuring you against anyone else.",
+      "scripture": { "text": "Let every man prove his own work, and then shall he have rejoicing in himself alone, and not in another.", "reference": "Galatians 6:4" }
+    },
+    "resentful": {
+      "name": "Resentful",
+      "description": "When others succeed, something sharper than envy rises in you: a quiet resentment you do not say out loud. That feeling is not your enemy, it is a signal. Underneath it is usually a wound, a longing, or a place you feel overlooked. Bring it into the light instead of feeding it in the dark. God can heal the ache that the resentment is guarding, and you do not have to carry the bitterness with it.",
+      "scripture": { "text": "Let all bitterness, and wrath, and anger, and clamour, be put away from you.", "reference": "Ephesians 4:31" }
+    },
+    "consumed-by-comparison": {
+      "name": "Consumed By Comparison",
+      "description": "Comparison has gone from a passing thought to a lens you see almost everything through, and it is wearing you down. This is exhausting, and the fact that you can name it is the first step out. You are not stuck here. Take a break from the feeds that fuel it, and let God remind you who you are apart from anyone else's highlight reel. Your worth was never up for comparison in the first place.",
+      "scripture": { "text": "A sound heart is the life of the flesh: but envy the rottenness of the bones.", "reference": "Proverbs 14:30" }
+    }
+  }
+}

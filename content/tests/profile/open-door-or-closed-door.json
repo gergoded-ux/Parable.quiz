@@ -1,0 +1,120 @@
+{
+  "slug": "open-door-or-closed-door",
+  "title": "Open Door or Closed Door?",
+  "subtitle": "You've got a decision in front of you and you're trying to read the sign. Let's sort out what that open or closed door might actually mean.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "door-from-god",
+    "door-is-a-detour",
+    "still-being-tested",
+    "wrong-door"
+  ],
+  "questions": [
+    {
+      "text": "When you pray about this door, what do you sense?",
+      "options": [
+        { "text": "A steady peace that stays, even after I overthink it.", "weights": { "door-from-god": 3 } },
+        { "text": "An excited rush, but the peace comes and goes.", "weights": { "door-is-a-detour": 2, "still-being-tested": 1 } },
+        { "text": "Quiet. I keep asking and don't have clarity yet.", "weights": { "still-being-tested": 3 } },
+        { "text": "A nagging check in my spirit I keep trying to ignore.", "weights": { "wrong-door": 3 } }
+      ]
+    },
+    {
+      "text": "How did this door open in the first place?",
+      "options": [
+        { "text": "It came together in ways I couldn't have arranged myself.", "weights": { "door-from-god": 3 } },
+        { "text": "I forced it open through a lot of striving and pushing.", "weights": { "wrong-door": 2, "door-is-a-detour": 1 } },
+        { "text": "It cracked open, but it's not fully open yet.", "weights": { "still-being-tested": 3 } },
+        { "text": "It looked great fast, almost too easy and too shiny.", "weights": { "door-is-a-detour": 3 } }
+      ]
+    },
+    {
+      "text": "Does this door line up with God's character and His Word?",
+      "options": [
+        { "text": "Completely. It fits everything I know of Him.", "weights": { "door-from-god": 3 } },
+        { "text": "Mostly, but it would require some compromises.", "weights": { "door-is-a-detour": 3 } },
+        { "text": "I'm not sure yet. I'm still searching Scripture on it.", "weights": { "still-being-tested": 3 } },
+        { "text": "Not really. Deep down I know it pulls me off course.", "weights": { "wrong-door": 3 } }
+      ]
+    },
+    {
+      "text": "What do the wise people in your life say?",
+      "options": [
+        { "text": "They confirm it, and their peace matches mine.", "weights": { "door-from-god": 3 } },
+        { "text": "They're excited but a couple have gentle reservations.", "weights": { "door-is-a-detour": 3 } },
+        { "text": "They say wait, pray more, don't rush this one.", "weights": { "still-being-tested": 3 } },
+        { "text": "Honestly, I've been avoiding asking them.", "weights": { "wrong-door": 3 } }
+      ]
+    },
+    {
+      "text": "What's really driving you toward this door?",
+      "options": [
+        { "text": "A clear sense of calling that's grown over time.", "weights": { "door-from-god": 3 } },
+        { "text": "Impatience. I'm tired of waiting and want movement.", "weights": { "door-is-a-detour": 3 } },
+        { "text": "A genuine pull, but I want to be sure it's Him.", "weights": { "still-being-tested": 3 } },
+        { "text": "Fear, or wanting something I know I shouldn't.", "weights": { "wrong-door": 3 } }
+      ]
+    },
+    {
+      "text": "When you imagine walking through it, how do you feel?",
+      "options": [
+        { "text": "Settled and free, like I'm stepping where I belong.", "weights": { "door-from-god": 3 } },
+        { "text": "Thrilled at first, then a quiet unease creeps in.", "weights": { "door-is-a-detour": 3 } },
+        { "text": "Hopeful but unsure, like I need more confirmation.", "weights": { "still-being-tested": 3 } },
+        { "text": "A pit in my stomach I keep talking myself out of.", "weights": { "wrong-door": 3 } }
+      ]
+    },
+    {
+      "text": "Which sentence rings most true?",
+      "options": [
+        { "text": "\"The peace has held through every test I've thrown at it.\"", "weights": { "door-from-god": 3 } },
+        { "text": "\"It looks like a shortcut, but it's leading me sideways.\"", "weights": { "door-is-a-detour": 3 } },
+        { "text": "\"I just need to wait and let God make it clear.\"", "weights": { "still-being-tested": 3 } },
+        { "text": "\"I already know the answer. I just don't want it.\"", "weights": { "wrong-door": 3 } }
+      ]
+    },
+    {
+      "text": "What happens when you try to wait on God's timing?",
+      "options": [
+        { "text": "The peace only deepens the longer I wait.", "weights": { "door-from-god": 3 } },
+        { "text": "I get antsy and want to grab it before it closes.", "weights": { "door-is-a-detour": 2, "wrong-door": 1 } },
+        { "text": "I'm okay waiting. I'd rather be sure than fast.", "weights": { "still-being-tested": 3 } },
+        { "text": "Waiting makes the wrongness of it harder to ignore.", "weights": { "wrong-door": 3 } }
+      ]
+    },
+    {
+      "text": "Be honest: what does your gut already suspect?",
+      "options": [
+        { "text": "This is from Him, and I can move forward in peace.", "weights": { "door-from-god": 3 } },
+        { "text": "This is a tempting detour dressed up as a blessing.", "weights": { "door-is-a-detour": 3 } },
+        { "text": "It's too soon to know. I need to keep seeking.", "weights": { "still-being-tested": 3 } },
+        { "text": "I'm knocking on a door God never meant me to open.", "weights": { "wrong-door": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "door-from-god": {
+      "name": "This Door Is From God",
+      "description": "Everything you described points the same direction: a peace that holds, doors opening in ways you couldn't engineer, wise people confirming it, and a calling that lines up with who God is. That's a strong pattern. When God opens a door, His peace tends to settle deeper the more you pray, not less. You've tested it well. You can step forward without forcing anything, trusting that the One who opened this is also walking through it with you.",
+      "scripture": { "text": "See, I have placed before you an open door that no one can shut.", "reference": "Revelation 3:8" }
+    },
+    "door-is-a-detour": {
+      "name": "This Door Is a Detour",
+      "description": "On the surface this looks like an opportunity, but the unease underneath is worth listening to. Not every open door is from God. Some are shortcuts that lead sideways, and they often show up when we're impatient or tired of waiting. The excitement is real, but excitement isn't the same as peace. Slow down. Bring it back to God honestly and ask whether this is His best or just a quicker route. The detour usually costs more than the wait would have.",
+      "scripture": { "text": "There is a way that appears to be right, but in the end it leads to death.", "reference": "Proverbs 14:12" }
+    },
+    "still-being-tested": {
+      "name": "The Door's Still Being Tested",
+      "description": "You don't have your answer yet, and that's okay. This door is still in the testing phase, and the wisest thing you can do is keep seeking instead of forcing a verdict before its time. Waiting isn't wasted, and it isn't the same as a no. God is rarely in a hurry, and He's not annoyed by your asking. Keep praying, keep weighing it against His Word, keep listening to wise counsel. Clarity usually comes to those who are willing to wait for it. Don't rush this one.",
+      "scripture": { "text": "Wait for the Lord; be strong and take heart and wait for the Lord.", "reference": "Psalm 27:14" }
+    },
+    "wrong-door": {
+      "name": "You're Knocking on the Wrong Door",
+      "description": "If you're honest, you already know. The pit in your stomach, the counsel you've been avoiding, the check you keep talking yourself out of, all of it has been telling you the truth. This is a door God never meant for you to open, and chasing it will cost you peace you can't afford to lose. That's not condemnation. It's mercy. The closed door is God's protection, not His rejection. Step back, trust that He's keeping something better, and let Him lead you to the door that's truly yours.",
+      "scripture": { "text": "Trust in the Lord with all your heart and lean not on your own understanding.", "reference": "Proverbs 3:5" }
+    }
+  }
+}

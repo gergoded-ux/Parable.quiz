@@ -1,0 +1,111 @@
+{
+  "slug": "whats-keeping-you-stuck-in-unforgiveness",
+  "title": "What's Keeping You Stuck in Unforgiveness?",
+  "subtitle": "There's a belief jamming the lock. Once you see it, the door gets a lot lighter.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "forgiving-means-okay",
+    "protecting-yourself",
+    "waiting-to-pay",
+    "forgiving-feels-like-losing"
+  ],
+  "questions": [
+    {
+      "text": "When you imagine forgiving them, what's the very first thing that rises up?",
+      "options": [
+        { "text": "It would be like saying what they did was fine.", "weights": { "forgiving-means-okay": 3 } },
+        { "text": "If I soften, they'll just hurt me all over again.", "weights": { "protecting-yourself": 3 } },
+        { "text": "They haven't paid for it yet. Why should they get off free?", "weights": { "waiting-to-pay": 3 } },
+        { "text": "It feels like handing them a win I don't owe them.", "weights": { "forgiving-feels-like-losing": 3 } }
+      ]
+    },
+    {
+      "text": "What word would you secretly use for forgiving them right now?",
+      "options": [
+        { "text": "Excusing.", "weights": { "forgiving-means-okay": 3 } },
+        { "text": "Unsafe.", "weights": { "protecting-yourself": 3 } },
+        { "text": "Unfair.", "weights": { "waiting-to-pay": 3 } },
+        { "text": "Surrender.", "weights": { "forgiving-feels-like-losing": 3 } }
+      ]
+    },
+    {
+      "text": "What keeps the grudge feeling almost necessary?",
+      "options": [
+        { "text": "Letting go would erase how wrong it actually was.", "weights": { "forgiving-means-okay": 3 } },
+        { "text": "My anger is the only wall standing between me and them.", "weights": { "protecting-yourself": 3 } },
+        { "text": "Holding it is the only justice I've got.", "weights": { "waiting-to-pay": 3 } },
+        { "text": "Staying mad feels like staying strong.", "weights": { "forgiving-feels-like-losing": 3 } }
+      ]
+    },
+    {
+      "text": "When you replay what happened, what are you really hoping for?",
+      "options": [
+        { "text": "For someone to admit out loud that it was a big deal.", "weights": { "forgiving-means-okay": 2, "waiting-to-pay": 1 } },
+        { "text": "To never be that exposed and unguarded again.", "weights": { "protecting-yourself": 3 } },
+        { "text": "For them to finally feel a fraction of what I felt.", "weights": { "waiting-to-pay": 3 } },
+        { "text": "To stop feeling like the one who lost the most.", "weights": { "forgiving-feels-like-losing": 3 } }
+      ]
+    },
+    {
+      "text": "Which fear is closest to the truth for you?",
+      "options": [
+        { "text": "That forgiving rewrites history and makes the harm small.", "weights": { "forgiving-means-okay": 3 } },
+        { "text": "That dropping my guard is the same as inviting more pain.", "weights": { "protecting-yourself": 3 } },
+        { "text": "That if I let go, they'll never face any consequences.", "weights": { "waiting-to-pay": 3 } },
+        { "text": "That forgiving means they win and I just absorb it.", "weights": { "forgiving-feels-like-losing": 3 } }
+      ]
+    },
+    {
+      "text": "Be honest about the cost you're carrying. What's the grudge doing to you?",
+      "options": [
+        { "text": "It keeps me chained to proving how serious it was.", "weights": { "forgiving-means-okay": 3 } },
+        { "text": "It's exhausting, but it feels safer than being open.", "weights": { "protecting-yourself": 3 } },
+        { "text": "I rehearse the offense more than they ever think about me.", "weights": { "waiting-to-pay": 3 } },
+        { "text": "It's quietly making me bitter, but at least I'm not the loser.", "weights": { "forgiving-feels-like-losing": 3 } }
+      ]
+    },
+    {
+      "text": "What would you need to believe to even start?",
+      "options": [
+        { "text": "That forgiving doesn't mean calling the wrong okay.", "weights": { "forgiving-means-okay": 3 } },
+        { "text": "That I can let go of resentment and keep my boundaries.", "weights": { "protecting-yourself": 3 } },
+        { "text": "That justice isn't only mine to carry.", "weights": { "waiting-to-pay": 3 } },
+        { "text": "That releasing them is strength, not defeat.", "weights": { "forgiving-feels-like-losing": 3 } }
+      ]
+    },
+    {
+      "text": "If you set this down, what are you most afraid you'd lose?",
+      "options": [
+        { "text": "The acknowledgment that it mattered.", "weights": { "forgiving-means-okay": 3 } },
+        { "text": "My protection. The grudge feels like armor.", "weights": { "protecting-yourself": 3 } },
+        { "text": "My grip on making sure they don't get away with it.", "weights": { "waiting-to-pay": 3 } },
+        { "text": "My footing. Like I'd be the one giving everything up.", "weights": { "forgiving-feels-like-losing": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "forgiving-means-okay": {
+      "name": "You Think Forgiving Means It Was Okay",
+      "description": "Somewhere along the way you started believing that forgiving someone is the same as saying what they did was fine. So you hold on, because letting go feels like erasing the wrong. But forgiveness has never meant pretending. It means you stop carrying the debt, not that you call the harm small. God takes what happened to you more seriously than you do, which is exactly why He can ask you to release it without ever asking you to excuse it.",
+      "scripture": { "text": "Bear with each other and forgive one another. Forgive as the Lord forgave you.", "reference": "Colossians 3:13" }
+    },
+    "protecting-yourself": {
+      "name": "You're Protecting Yourself From More Hurt",
+      "description": "Your anger has become armor. As long as it stays up, they can't get close enough to wound you again. That instinct makes sense after what happened. But here's the freeing part: forgiveness and boundaries are not opposites. You can release the resentment and still keep the door locked. Letting go of the grudge doesn't mean letting them back in. You can be both forgiving and safe, and you don't have to choose.",
+      "scripture": { "text": "Above all else, guard your heart, for everything you do flows from it.", "reference": "Proverbs 4:23" }
+    },
+    "waiting-to-pay": {
+      "name": "You're Waiting for Them to Pay",
+      "description": "It feels unfair to let go while they walk around like nothing happened. So you hold the offense, because it's the only justice you've got. But notice the cost: you rehearse it constantly while they barely think of you. The grudge punishes you, not them. The good news is that justice was never only yours to carry. You can hand the scales to a God who sees everything and forgets nothing, and finally put the weight down.",
+      "scripture": { "text": "Do not take revenge, my dear friends, but leave room for God's wrath.", "reference": "Romans 12:19" }
+    },
+    "forgiving-feels-like-losing": {
+      "name": "Forgiving Feels Like Losing",
+      "description": "Staying angry feels like staying strong, and forgiving feels like handing them the win. So you keep your grip, because letting go looks like defeat. But flip it over. The grudge is quietly making you bitter while they go on unbothered. That's not winning. Real strength is choosing to release someone instead of letting them rent space in your head for free. Forgiveness isn't surrender. It's you taking your freedom back.",
+      "scripture": { "text": "If the Son sets you free, you will be free indeed.", "reference": "John 8:36" }
+    }
+  }
+}

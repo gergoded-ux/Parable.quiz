@@ -1,0 +1,129 @@
+{
+  "slug": "whats-your-singleness-season",
+  "title": "What's Your Singleness Season?",
+  "subtitle": "Single doesn't mean one single feeling. Let's name the season your heart is actually in right now.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "contented-caller",
+    "aching-waiter",
+    "gift-embracer",
+    "restless-striver"
+  ],
+  "questions": [
+    {
+      "text": "When you think about being single right now, what's the honest first feeling?",
+      "options": [
+        { "text": "Peace. I'm genuinely okay, even if it's not forever.", "weights": { "contented-caller": 3 } },
+        { "text": "A real ache. I want this season to end.", "weights": { "aching-waiter": 3 } },
+        { "text": "Gratitude. I see the freedom in it.", "weights": { "gift-embracer": 3 } },
+        { "text": "Restlessness. I feel like I should be doing more to change it.", "weights": { "restless-striver": 3 } }
+      ]
+    },
+    {
+      "text": "How do you handle Sunday afternoons or quiet weekends alone?",
+      "options": [
+        { "text": "I've made peace with them. They're mine and I use them well.", "weights": { "contented-caller": 3 } },
+        { "text": "They're the hardest. The loneliness sits heavy.", "weights": { "aching-waiter": 3 } },
+        { "text": "I love them. So much I could pour into things I care about.", "weights": { "gift-embracer": 3 } },
+        { "text": "I fill them. If I slow down, the impatience creeps in.", "weights": { "restless-striver": 3 } }
+      ]
+    },
+    {
+      "text": "When a friend gets engaged, what rises in you?",
+      "options": [
+        { "text": "Real joy for them, with a quiet contentment in my own season.", "weights": { "contented-caller": 3 } },
+        { "text": "Happiness for them tangled up with my own longing.", "weights": { "aching-waiter": 3 } },
+        { "text": "Joy, and a settled sense that my path is good too.", "weights": { "gift-embracer": 3 } },
+        { "text": "A jolt of \"I need to get moving on this.\"", "weights": { "restless-striver": 3 } }
+      ]
+    },
+    {
+      "text": "How would you describe your prayers about a future spouse?",
+      "options": [
+        { "text": "Open-handed. \"If it's coming, I trust Your timing.\"", "weights": { "contented-caller": 3 } },
+        { "text": "Aching. \"How much longer do I have to wait?\"", "weights": { "aching-waiter": 3 } },
+        { "text": "Rare, honestly. I'm content with where He has me.", "weights": { "gift-embracer": 3 } },
+        { "text": "Anxious. \"Please, just show me it's going to happen.\"", "weights": { "restless-striver": 3 } }
+      ]
+    },
+    {
+      "text": "What do you think about the phrase \"the gift of singleness\"?",
+      "options": [
+        { "text": "It's true some days. Other days it feels more like a stretch.", "weights": { "contented-caller": 3 } },
+        { "text": "It's hard to receive when my heart aches to be married.", "weights": { "aching-waiter": 3 } },
+        { "text": "I actually feel it. This season is a real gift to me.", "weights": { "gift-embracer": 3 } },
+        { "text": "It frustrates me a little. I'd rather be working toward more.", "weights": { "restless-striver": 3 } }
+      ]
+    },
+    {
+      "text": "Which sentence sounds most like your inner voice lately?",
+      "options": [
+        { "text": "\"I'm content, even though part of me still hopes.\"", "weights": { "contented-caller": 3 } },
+        { "text": "\"I'm so tired of waiting in this room.\"", "weights": { "aching-waiter": 3 } },
+        { "text": "\"My life is full and good right where it is.\"", "weights": { "gift-embracer": 3 } },
+        { "text": "\"I should be further along. I need to make this happen.\"", "weights": { "restless-striver": 3 } }
+      ]
+    },
+    {
+      "text": "When people ask why you're still single, you feel...",
+      "options": [
+        { "text": "Unbothered. I'm at peace with my answer.", "weights": { "contented-caller": 3 } },
+        { "text": "A pang of sadness I try to hide.", "weights": { "aching-waiter": 3 } },
+        { "text": "Free to say I'm genuinely happy in this season.", "weights": { "gift-embracer": 3 } },
+        { "text": "Pressure, like I'm behind and need to fix it fast.", "weights": { "restless-striver": 3 } }
+      ]
+    },
+    {
+      "text": "What's your relationship with dating apps and setups right now?",
+      "options": [
+        { "text": "I'm open if something comes, but I'm not anxious about it.", "weights": { "contented-caller": 3 } },
+        { "text": "I keep at it, but it mostly leaves me more discouraged.", "weights": { "aching-waiter": 2, "restless-striver": 1 } },
+        { "text": "I've stepped back. I'm content to let life unfold.", "weights": { "gift-embracer": 3 } },
+        { "text": "I'm pushing hard, almost like it's a project to complete.", "weights": { "restless-striver": 3 } }
+      ]
+    },
+    {
+      "text": "What would minister to your heart most right now?",
+      "options": [
+        { "text": "A reminder that my peace doesn't depend on the outcome.", "weights": { "contented-caller": 3 } },
+        { "text": "Permission to grieve the wait without guilt.", "weights": { "aching-waiter": 3 } },
+        { "text": "Encouragement to keep pouring out this freedom I've been given.", "weights": { "gift-embracer": 3 } },
+        { "text": "Freedom to stop striving and trust that I'm not behind.", "weights": { "restless-striver": 3 } }
+      ]
+    },
+    {
+      "text": "Deep down, what do you most need to hear from God?",
+      "options": [
+        { "text": "\"Your contentment is real, and I'm with you in it.\"", "weights": { "contented-caller": 3 } },
+        { "text": "\"I see your ache, and I have not forgotten you.\"", "weights": { "aching-waiter": 3 } },
+        { "text": "\"This season is a gift, and you're using it well.\"", "weights": { "gift-embracer": 3 } },
+        { "text": "\"You're not behind. You can rest. I've got the timing.\"", "weights": { "restless-striver": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "contented-caller": {
+      "name": "The Contented Caller",
+      "description": "You've found a quiet peace in this season, even if a part of you still hopes for more someday. That contentment isn't pretending the longing away. It's holding it loosely while you live fully. You've learned the secret Paul wrote about: that joy doesn't have to wait for circumstances to change. Keep living open-handed. Your peace is real, and God is right there in it with you.",
+      "scripture": { "text": "I have learned to be content whatever the circumstances.", "reference": "Philippians 4:11" }
+    },
+    "aching-waiter": {
+      "name": "The Aching Waiter",
+      "description": "Let's be honest, this season hurts, and you're tired of waiting in a room with no clear exit. You don't need to dress that up or feel guilty for the longing. God sees the ache, and He's near to you in it, not annoyed by it. You can be faithful and still be sad. He has not forgotten you, and the waiting is not wasted, even when it feels endless.",
+      "scripture": { "text": "The Lord is close to the brokenhearted and saves those who are crushed in spirit.", "reference": "Psalm 34:18" }
+    },
+    "gift-embracer": {
+      "name": "The Gift-Embracer",
+      "description": "You've come to see this season not as a waiting room but as a real gift, and you're using the freedom it gives you. There's so much you can pour into right now: people, purpose, presence with God. That's not settling. That's wisdom. Keep embracing what's in front of you. Whether this season lasts a while or a lifetime, you're living it well, and that matters more than you know.",
+      "scripture": { "text": "I would like you to be free from concern. An unmarried man is concerned about the Lord's affairs, how he can please the Lord.", "reference": "1 Corinthians 7:32" }
+    },
+    "restless-striver": {
+      "name": "The Restless Striver",
+      "description": "You feel like the clock is ticking, so you keep pushing, planning, and trying to make a relationship happen by sheer effort. Underneath it is a fear that you're falling behind. Here's the relief: you are not behind. There's no schedule you're failing to keep. You can set down the striving and trust that God isn't rushed and hasn't overlooked you. Rest is allowed, even here.",
+      "scripture": { "text": "Rest in the Lord, and wait patiently for him.", "reference": "Psalm 37:7" }
+    }
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "slug": "whats-blocking-your-decision",
+  "title": "What's Keeping You From Making the Decision?",
+  "subtitle": "You've turned it over a hundred times and you're still stuck. Something specific is jamming the lock. Let's name it so you can finally move.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "fear-of-wrong-choice",
+    "waiting-for-a-sign",
+    "too-many-good-options",
+    "other-peoples-opinions",
+    "quiet-disobedience"
+  ],
+  "questions": [
+    {
+      "text": "When you picture finally deciding, what's the first thing you feel?",
+      "options": [
+        { "text": "Panic that I'll pick wrong and wreck everything.", "weights": { "fear-of-wrong-choice": 3 } },
+        { "text": "Hesitation, because I haven't gotten a clear sign yet.", "weights": { "waiting-for-a-sign": 3 } },
+        { "text": "Overwhelm. Every path in front of me looks good.", "weights": { "too-many-good-options": 3 } },
+        { "text": "Worry about what everyone will think of me.", "weights": { "other-peoples-opinions": 3 } }
+      ]
+    },
+    {
+      "text": "What keeps replaying in your head about this choice?",
+      "options": [
+        { "text": "All the ways it could go badly.", "weights": { "fear-of-wrong-choice": 3 } },
+        { "text": "I just need God to make it obvious first.", "weights": { "waiting-for-a-sign": 3 } },
+        { "text": "Pros and cons for option after option, on a loop.", "weights": { "too-many-good-options": 3 } },
+        { "text": "I already sense the answer and I keep flinching from it.", "weights": { "quiet-disobedience": 3 } }
+      ]
+    },
+    {
+      "text": "What would help you most right now?",
+      "options": [
+        { "text": "A promise that I won't ruin things if I get it wrong.", "weights": { "fear-of-wrong-choice": 3 } },
+        { "text": "One unmistakable sign so I don't have to guess.", "weights": { "waiting-for-a-sign": 3 } },
+        { "text": "Permission to pick one good thing and let the others go.", "weights": { "too-many-good-options": 3 } },
+        { "text": "Less noise from everyone else's expectations.", "weights": { "other-peoples-opinions": 3 } }
+      ]
+    },
+    {
+      "text": "Be honest. What's really underneath the stalling?",
+      "options": [
+        { "text": "I'm scared of regret more than I'm scared of staying stuck.", "weights": { "fear-of-wrong-choice": 3 } },
+        { "text": "I don't trust my own read, so I'm waiting on a sign.", "weights": { "waiting-for-a-sign": 3 } },
+        { "text": "Saying yes to one means closing doors, and I hate that.", "weights": { "too-many-good-options": 3 } },
+        { "text": "I'm avoiding a step I already know God is asking for.", "weights": { "quiet-disobedience": 3 } }
+      ]
+    },
+    {
+      "text": "Whose voice is loudest as you weigh this?",
+      "options": [
+        { "text": "My own worst-case narrator.", "weights": { "fear-of-wrong-choice": 3 } },
+        { "text": "The silence where I keep hoping a sign will show up.", "weights": { "waiting-for-a-sign": 2, "quiet-disobedience": 1 } },
+        { "text": "A crowd of good options all talking at once.", "weights": { "too-many-good-options": 3 } },
+        { "text": "Family, friends, people whose disapproval I dread.", "weights": { "other-peoples-opinions": 3 } }
+      ]
+    },
+    {
+      "text": "Which sentence sounds most like you?",
+      "options": [
+        { "text": "What if I choose this and it turns out to be a mistake?", "weights": { "fear-of-wrong-choice": 3 } },
+        { "text": "I'll move the moment God makes it crystal clear.", "weights": { "waiting-for-a-sign": 3 } },
+        { "text": "I can't decide because none of them are bad.", "weights": { "too-many-good-options": 3 } },
+        { "text": "Honestly, I know the right thing. I just don't want to do it.", "weights": { "quiet-disobedience": 3 } }
+      ]
+    },
+    {
+      "text": "How do you usually handle big decisions?",
+      "options": [
+        { "text": "I research forever and still feel terrified to commit.", "weights": { "fear-of-wrong-choice": 3 } },
+        { "text": "I wait, and wait, for some confirmation to land.", "weights": { "waiting-for-a-sign": 3 } },
+        { "text": "I keep all the options open as long as humanly possible.", "weights": { "too-many-good-options": 3 } },
+        { "text": "I poll everyone and end up doing what pleases them.", "weights": { "other-peoples-opinions": 3 } }
+      ]
+    },
+    {
+      "text": "What are you most afraid will happen if you choose?",
+      "options": [
+        { "text": "I'll look back and wish I'd gone the other way.", "weights": { "fear-of-wrong-choice": 3 } },
+        { "text": "I'll find out later it wasn't God's will after all.", "weights": { "waiting-for-a-sign": 2, "fear-of-wrong-choice": 1 } },
+        { "text": "I'll always wonder about the road I didn't take.", "weights": { "too-many-good-options": 3 } },
+        { "text": "People I care about will be let down or angry.", "weights": { "other-peoples-opinions": 3 } }
+      ]
+    },
+    {
+      "text": "If God spoke one sentence over this decision, you'd want it to be...",
+      "options": [
+        { "text": "I'll redeem it even if you stumble. You can't out-mistake my grace.", "weights": { "fear-of-wrong-choice": 3 } },
+        { "text": "I've already given you wisdom and peace. Trust it.", "weights": { "waiting-for-a-sign": 3 } },
+        { "text": "Any of these can honor me. Pick one and walk it with me.", "weights": { "too-many-good-options": 3 } },
+        { "text": "You answer to me, not to the crowd. Be free.", "weights": { "other-peoples-opinions": 3 } }
+      ]
+    },
+    {
+      "text": "Which one finally rings true about your stall?",
+      "options": [
+        { "text": "Fear of choosing wrong has me frozen.", "weights": { "fear-of-wrong-choice": 3 } },
+        { "text": "I'm holding out for a sign instead of using the wisdom I have.", "weights": { "waiting-for-a-sign": 3 } },
+        { "text": "There are too many good roads and I won't shut any door.", "weights": { "too-many-good-options": 3 } },
+        { "text": "I keep stalling because I already know, and the answer costs me.", "weights": { "quiet-disobedience": 2, "other-peoples-opinions": 1 } }
+      ]
+    }
+  ],
+  "results": {
+    "fear-of-wrong-choice": {
+      "name": "Fear of the Wrong Choice",
+      "description": "You're not really undecided. You're scared. Underneath the endless pros and cons is a quiet terror of looking back with regret, so you keep the decision open because an unmade choice can't be a mistake yet. Here's the freeing part: God is not waiting to punish a wrong turn. He's bigger than your missteps and He has a long history of redeeming them. You don't need a guarantee. You need to trust that He goes with you down whatever road you pick. Move. He'll meet you there.",
+      "scripture": { "text": "Whether you turn to the right or to the left, your ears will hear a voice behind you, saying, This is the way; walk in it.", "reference": "Isaiah 30:21" }
+    },
+    "waiting-for-a-sign": {
+      "name": "Waiting for a Sign",
+      "description": "You keep stalling until God makes it unmistakable, a billboard, a feeling, a door slamming shut. But most of the time He guides through wisdom, counsel, peace, and an open Bible, not skywriting. The clarity you're waiting for might already be in your hands. Ask Him for wisdom, He gives it freely. Then make the call with the light you have and trust Him to redirect you if you drift. Faith usually moves before the fog fully lifts.",
+      "scripture": { "text": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault.", "reference": "James 1:5" }
+    },
+    "too-many-good-options": {
+      "name": "Too Many Good Options",
+      "description": "This is a kinder problem than it feels like. You're not stuck between right and wrong. You're stuck between good and good, and saying yes to one means letting the others go. That grief is real, but it's the price of every actual choice. You don't have to find the one perfect path. More than one of these can genuinely honor God. Pick the one that fits your wiring and your peace, close the other doors on purpose, and stop mourning roads you were never meant to walk at once.",
+      "scripture": { "text": "Commit to the Lord whatever you do, and he will establish your plans.", "reference": "Proverbs 16:3" }
+    },
+    "other-peoples-opinions": {
+      "name": "Other People's Opinions",
+      "description": "The thing freezing you isn't the decision. It's the audience. You keep running the choice through everyone else's expectations, and the fear of disappointing them is louder than your own sense of what's right. Wise counsel matters, but you don't owe the crowd a vote on your life. In the end you answer to God, not to their approval. Get quiet enough to hear what you actually believe He's leading you toward, and then have the courage to choose it, even if it lets someone down.",
+      "scripture": { "text": "Fear of man will prove to be a snare, but whoever trusts in the Lord is kept safe.", "reference": "Proverbs 29:25" }
+    },
+    "quiet-disobedience": {
+      "name": "Quiet Disobedience",
+      "description": "Let's be honest. You're not confused. You already know what's right, and you've been calling it indecision because the truth costs you something you don't want to pay. That's not a flaw to hide, it's a fork to face. God isn't standing over you with a clipboard. He's inviting you to trust Him enough to obey the thing you've been dodging. The peace you've been hunting for isn't on the other side of more deliberation. It's on the other side of the yes you keep avoiding.",
+      "scripture": { "text": "Anyone, then, who knows the good they ought to do and doesn't do it, it is sin for them.", "reference": "James 4:17" }
+    }
+  }
+}

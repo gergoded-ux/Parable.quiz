@@ -1,0 +1,111 @@
+{
+  "slug": "are-you-healing-or-just-avoiding",
+  "title": "Are You Healing or Just Avoiding?",
+  "subtitle": "A gentle gut-check on whether you're actually mending, or just getting good at not feeling it.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "truly-healing",
+    "numbing-as-peace",
+    "spiritual-bypassing",
+    "stuck-but-honest"
+  ],
+  "questions": [
+    {
+      "text": "When the old hurt surfaces, what do you usually do with it?",
+      "options": [
+        { "text": "Let myself feel it, then bring it to God honestly.", "weights": { "truly-healing": 3 } },
+        { "text": "Distract until the feeling goes quiet again.", "weights": { "numbing-as-peace": 3 } },
+        { "text": "Remind myself I should be over it and pray it away.", "weights": { "spiritual-bypassing": 3 } },
+        { "text": "Sit in it, stuck, but at least I'm not pretending.", "weights": { "stuck-but-honest": 3 } }
+      ]
+    },
+    {
+      "text": "How would you describe the peace you have right now?",
+      "options": [
+        { "text": "Hard-won and real. I faced things to get here.", "weights": { "truly-healing": 3 } },
+        { "text": "Calm on the surface, as long as I don't look too close.", "weights": { "numbing-as-peace": 3 } },
+        { "text": "Spiritual on the outside, but I'm not sure it's settled inside.", "weights": { "spiritual-bypassing": 3 } },
+        { "text": "I wouldn't call it peace. I'd call it honest discomfort.", "weights": { "stuck-but-honest": 3 } }
+      ]
+    },
+    {
+      "text": "What do you tend to say when someone asks how you're really doing?",
+      "options": [
+        { "text": "The truth, even the messy parts.", "weights": { "truly-healing": 3 } },
+        { "text": "\"I'm fine,\" and I change the subject fast.", "weights": { "numbing-as-peace": 3 } },
+        { "text": "\"God's got it,\" before I've actually let Him into it.", "weights": { "spiritual-bypassing": 3 } },
+        { "text": "\"Honestly? Still hurting,\" and I leave it there.", "weights": { "stuck-but-honest": 3 } }
+      ]
+    },
+    {
+      "text": "Which habit do you lean on most when the pain gets loud?",
+      "options": [
+        { "text": "Naming it, journaling, talking it through with safe people.", "weights": { "truly-healing": 3 } },
+        { "text": "Scrolling, snacking, staying busy, anything to not feel it.", "weights": { "numbing-as-peace": 3 } },
+        { "text": "Bible verses on repeat to skip straight to the victory.", "weights": { "spiritual-bypassing": 3 } },
+        { "text": "Nothing, really. I just carry it and tell the truth about it.", "weights": { "stuck-but-honest": 3 } }
+      ]
+    },
+    {
+      "text": "Be honest. What are you a little afraid of?",
+      "options": [
+        { "text": "Not much here. I've already faced the hard stuff.", "weights": { "truly-healing": 2, "stuck-but-honest": 1 } },
+        { "text": "That if I stop moving, all of it will catch up to me.", "weights": { "numbing-as-peace": 3 } },
+        { "text": "That feeling the pain would mean my faith isn't strong.", "weights": { "spiritual-bypassing": 3 } },
+        { "text": "That I'll stay stuck here, even though I'm being real about it.", "weights": { "stuck-but-honest": 3 } }
+      ]
+    },
+    {
+      "text": "When you pray about the wound, what's it usually sound like?",
+      "options": [
+        { "text": "Honest, raw, sometimes angry, always real.", "weights": { "truly-healing": 3 } },
+        { "text": "I mostly don't. I'd rather not stir it up.", "weights": { "numbing-as-peace": 3 } },
+        { "text": "\"Thank You that I'm healed,\" while I quietly still ache.", "weights": { "spiritual-bypassing": 3 } },
+        { "text": "\"This still hurts and I don't know what to do with it.\"", "weights": { "stuck-but-honest": 3 } }
+      ]
+    },
+    {
+      "text": "How do you feel about the parts of the story that still sting?",
+      "options": [
+        { "text": "I've grieved them, and they have less grip on me now.", "weights": { "truly-healing": 3 } },
+        { "text": "I keep them in a box I never open.", "weights": { "numbing-as-peace": 3 } },
+        { "text": "I tell myself I've forgiven and moved on, but have I?", "weights": { "spiritual-bypassing": 3 } },
+        { "text": "They still sting, and I'm not going to pretend otherwise.", "weights": { "stuck-but-honest": 3 } }
+      ]
+    },
+    {
+      "text": "What do you most need to hear right now?",
+      "options": [
+        { "text": "Keep going. What you've been doing is real healing.", "weights": { "truly-healing": 3 } },
+        { "text": "It's safe to stop running and actually feel it.", "weights": { "numbing-as-peace": 3 } },
+        { "text": "God validates your pain before He asks you to move past it.", "weights": { "spiritual-bypassing": 3 } },
+        { "text": "Being honest about being stuck is the doorway, not the dead end.", "weights": { "stuck-but-honest": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "truly-healing": {
+      "name": "Truly Healing",
+      "description": "You're doing the real work, and it shows. You let yourself feel the hard things instead of skipping past them, and you bring the mess to God honestly. That's not the easy road, but it's the one that actually mends. The wound has less grip on you now because you faced it, not because you buried it. Keep going gently. Healing isn't a finish line you cross once. It's a path you're genuinely walking, and you're further than you think.",
+      "scripture": { "text": "He heals the brokenhearted and binds up their wounds.", "reference": "Psalm 147:3" }
+    },
+    "numbing-as-peace": {
+      "name": "Numbing and Calling It Peace",
+      "description": "What feels like peace might really be distraction working overtime. The scrolling, the busyness, the \"I'm fine\" all keep the pain quiet, but quiet isn't the same as healed. The thing in the box doesn't disappear. It just waits. Here's the gentle truth: it's safe to stop running. God isn't going to flinch at what you've been avoiding, and you don't have to feel it all at once. You can set down one thing today. That's where real rest starts.",
+      "scripture": { "text": "Come to me, all you who are weary and burdened, and I will give you rest.", "reference": "Matthew 11:28" }
+    },
+    "spiritual-bypassing": {
+      "name": "Spiritually Bypassing the Pain",
+      "description": "You've learned to skip straight to the verse, the victory, the \"God's got it,\" before you've actually let Him into the hurt. It looks like faith, but it can be a way of avoiding the part that aches. Here's what changes everything: God validates your pain before He heals it. He doesn't rush you past it. Look at how the Psalms cry out, how Jesus wept. Letting yourself grieve isn't weak faith. It's the honest kind, and it's the kind that actually heals.",
+      "scripture": { "text": "Jesus wept.", "reference": "John 11:35" }
+    },
+    "stuck-but-honest": {
+      "name": "Stuck but Honest About It",
+      "description": "You're not pretending, and that matters more than you know. You're sitting in something that still hurts, and instead of slapping a smile on it, you're telling the truth. That honesty is not the dead end it feels like. It's the doorway. God meets people in the raw, unfinished middle, not just at the tidy resolution. You don't have to manufacture progress today. Just keep being this honest with Him. Stuck and truthful is so much closer to healing than fine and faking it.",
+      "scripture": { "text": "The Lord is close to the brokenhearted and saves those who are crushed in spirit.", "reference": "Psalm 34:18" }
+    }
+  }
+}

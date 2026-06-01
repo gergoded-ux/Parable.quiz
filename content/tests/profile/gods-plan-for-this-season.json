@@ -1,0 +1,135 @@
+{
+  "slug": "gods-plan-for-this-season",
+  "title": "What's God's Plan for This Season of Your Life?",
+  "subtitle": "You don't need the whole map right now. You just need to know what He's doing in you this season. Let's find the word for where you are.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "season-to-build",
+    "season-to-wait",
+    "season-to-heal",
+    "season-to-risk",
+    "season-to-rest"
+  ],
+  "questions": [
+    {
+      "text": "How does this stretch of life actually feel day to day?",
+      "options": [
+        { "text": "Busy and energizing. I'm laying foundations for something.", "weights": { "season-to-build": 3 } },
+        { "text": "Like an in-between. I'm holding on for something not here yet.", "weights": { "season-to-wait": 3 } },
+        { "text": "Tender and raw. I'm still sore from something that hurt.", "weights": { "season-to-heal": 3 } },
+        { "text": "Restless. I sense a leap coming and it scares me.", "weights": { "season-to-risk": 3 } }
+      ]
+    },
+    {
+      "text": "What does your soul seem to be asking for most?",
+      "options": [
+        { "text": "Momentum. Let me get to work and grow this thing.", "weights": { "season-to-build": 3 } },
+        { "text": "Patience. Help me trust the timing I can't control.", "weights": { "season-to-wait": 3 } },
+        { "text": "Mending. I need space to let an old wound close.", "weights": { "season-to-heal": 3 } },
+        { "text": "Stillness. I'm worn out and running on empty.", "weights": { "season-to-rest": 3 } }
+      ]
+    },
+    {
+      "text": "When you think about the next year, what stirs in you?",
+      "options": [
+        { "text": "Plans, goals, and the itch to start.", "weights": { "season-to-build": 3 } },
+        { "text": "A prayer I keep praying that hasn't been answered.", "weights": { "season-to-wait": 3 } },
+        { "text": "A hope that I'll finally feel whole again.", "weights": { "season-to-heal": 3 } },
+        { "text": "A bold move I keep almost making.", "weights": { "season-to-risk": 3 } }
+      ]
+    },
+    {
+      "text": "Where do you sense the most resistance?",
+      "options": [
+        { "text": "I have the vision but not the resources or hands yet.", "weights": { "season-to-build": 3 } },
+        { "text": "I'm tired of waiting and tempted to force the door.", "weights": { "season-to-wait": 3 } },
+        { "text": "I keep trying to rush past a pain that won't be rushed.", "weights": { "season-to-heal": 3 } },
+        { "text": "Fear keeps talking me out of the leap.", "weights": { "season-to-risk": 3 } }
+      ]
+    },
+    {
+      "text": "What would feel like an answer to prayer right now?",
+      "options": [
+        { "text": "A green light and the strength to build.", "weights": { "season-to-build": 3 } },
+        { "text": "A sign the wait is almost over.", "weights": { "season-to-wait": 3 } },
+        { "text": "A real sense that the wound is finally closing.", "weights": { "season-to-heal": 3 } },
+        { "text": "Permission to actually stop and breathe.", "weights": { "season-to-rest": 3 } }
+      ]
+    },
+    {
+      "text": "Which sentence lands closest to home?",
+      "options": [
+        { "text": "I think God is handing me something to grow.", "weights": { "season-to-build": 3 } },
+        { "text": "I think God is teaching me to wait on Him.", "weights": { "season-to-wait": 3 } },
+        { "text": "I think God is slowly putting me back together.", "weights": { "season-to-heal": 3 } },
+        { "text": "I think God is asking me to step out before I feel ready.", "weights": { "season-to-risk": 3 } }
+      ]
+    },
+    {
+      "text": "How's your energy lately?",
+      "options": [
+        { "text": "High. I've got more drive than I've had in ages.", "weights": { "season-to-build": 3 } },
+        { "text": "Steady but stretched thin by the waiting.", "weights": { "season-to-wait": 2, "season-to-rest": 1 } },
+        { "text": "Fragile. Some days I'm okay, some days I'm not.", "weights": { "season-to-heal": 3 } },
+        { "text": "Depleted. I've got nothing left in the tank.", "weights": { "season-to-rest": 3 } }
+      ]
+    },
+    {
+      "text": "What are you most tempted to do that you probably shouldn't?",
+      "options": [
+        { "text": "Take on even more before the foundation is solid.", "weights": { "season-to-build": 2, "season-to-rest": 1 } },
+        { "text": "Grab the thing myself instead of waiting on God.", "weights": { "season-to-wait": 3 } },
+        { "text": "Pretend I'm fine and skip the healing part.", "weights": { "season-to-heal": 3 } },
+        { "text": "Play it safe and never take the leap at all.", "weights": { "season-to-risk": 3 } }
+      ]
+    },
+    {
+      "text": "If God described this season in one sentence, you'd hope He'd say...",
+      "options": [
+        { "text": "Build. I've given you the materials and the time.", "weights": { "season-to-build": 3 } },
+        { "text": "Wait. What you're praying for is coming, and it's worth it.", "weights": { "season-to-wait": 3 } },
+        { "text": "Heal. I'm not rushing you. Let me tend this slowly.", "weights": { "season-to-heal": 3 } },
+        { "text": "Rest. You don't have to earn the pause. Stop and be held.", "weights": { "season-to-rest": 3 } }
+      ]
+    },
+    {
+      "text": "Deep down, which word fits where you are?",
+      "options": [
+        { "text": "Build.", "weights": { "season-to-build": 3 } },
+        { "text": "Wait.", "weights": { "season-to-wait": 3 } },
+        { "text": "Heal.", "weights": { "season-to-heal": 3 } },
+        { "text": "Risk.", "weights": { "season-to-risk": 2, "season-to-rest": 1 } }
+      ]
+    }
+  ],
+  "results": {
+    "season-to-build": {
+      "name": "A Season to Build",
+      "description": "This is a working season, and that's a gift. God has handed you materials, energy, and time, and He's inviting you to put your hands to something that matters. Don't shrink it or rush it. The unglamorous, brick-by-brick stretches are where He shapes both the work and the worker. Stay faithful in the small steps, keep building with Him in the room, and let Him establish what you can't. What you put together now with Him will outlast you.",
+      "scripture": { "text": "Unless the Lord builds the house, the builders labor in vain.", "reference": "Psalm 127:1" }
+    },
+    "season-to-wait": {
+      "name": "A Season to Wait",
+      "description": "You're in the in-between, and it's the hardest place to be faithful, because nothing looks like it's moving. But waiting on God is not wasted time. It's where roots go deep and strength gets renewed for what's next. The thing you're praying for has a season, and forcing the door early usually breaks what patience would have given whole. Hold on. Keep your hope fixed on Him, not just on the answer. The wait is doing more in you than you can see right now.",
+      "scripture": { "text": "Those who hope in the Lord will renew their strength. They will soar on wings like eagles.", "reference": "Isaiah 40:31" }
+    },
+    "season-to-heal": {
+      "name": "A Season to Heal",
+      "description": "You're tender right now, still sore from something that cut deep, and the temptation is to rush past it and act fine. Please don't. God is a gentle healer, and He doesn't hurry the mending of a heart. This season isn't a detour from your purpose. It is the work. Let Him near the wound, give yourself permission to not be okay yet, and trust the slow, careful way He puts broken things back together. You'll come out of this whole, and stronger where the break was.",
+      "scripture": { "text": "He heals the brokenhearted and binds up their wounds.", "reference": "Psalm 147:3" }
+    },
+    "season-to-risk": {
+      "name": "A Season to Risk",
+      "description": "Something in you keeps leaning toward a leap, and fear keeps talking you out of it. This may be the season God is asking you to step out before you feel ready, onto water, with your eyes on Him. Courage isn't the absence of fear. It's moving with Him in spite of it. He doesn't promise the leap will be comfortable, only that He'll be with you in it. Stop waiting to feel brave. Take the step you keep almost taking. He's already out there waiting for you.",
+      "scripture": { "text": "Be strong and courageous. Do not be afraid, for the Lord your God will be with you wherever you go.", "reference": "Joshua 1:9" }
+    },
+    "season-to-rest": {
+      "name": "A Season to Rest",
+      "description": "You're running on empty, and the holiest thing you can do right now is stop. Rest isn't laziness and it isn't a reward you earn after you collapse. God built it into the rhythm of life on purpose, and He's the one inviting you into it. You don't have to keep proving your worth by how much you carry. Let the weight down. Sleep, breathe, sit with Him without an agenda. He restores tired people, and this pause is part of the plan, not a break from it.",
+      "scripture": { "text": "Come to me, all you who are weary and burdened, and I will give you rest.", "reference": "Matthew 11:28" }
+    }
+  }
+}

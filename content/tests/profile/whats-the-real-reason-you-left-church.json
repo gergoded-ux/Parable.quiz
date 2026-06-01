@@ -1,0 +1,120 @@
+{
+  "slug": "whats-the-real-reason-you-left-church",
+  "title": "What's the Real Reason You Left the Church?",
+  "subtitle": "Naming the why is where the healing starts. This is a safe, honest look at what actually pushed you out the door.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": ["a-leader-hurt-you", "the-hypocrisy", "never-allowed-to-doubt", "burnout", "you-drifted"],
+  "questions": [
+    {
+      "text": "When you think back on why you left, what surfaces first?",
+      "options": [
+        { "text": "A specific person in leadership who wounded me.", "weights": { "a-leader-hurt-you": 2 } },
+        { "text": "The gap between what was preached and how people lived.", "weights": { "the-hypocrisy": 2 } },
+        { "text": "Being shut down every time I had a real question.", "weights": { "never-allowed-to-doubt": 2 } },
+        { "text": "I was just so tired. I had nothing left to give.", "weights": { "burnout": 2 } }
+      ]
+    },
+    {
+      "text": "Was there a single breaking point, or a slow fade?",
+      "options": [
+        { "text": "A breaking point, tied to how a leader treated me.", "weights": { "a-leader-hurt-you": 2 } },
+        { "text": "A moment I saw behind the curtain and could not unsee it.", "weights": { "the-hypocrisy": 2 } },
+        { "text": "A question I asked that got me labeled or shamed.", "weights": { "never-allowed-to-doubt": 2 } },
+        { "text": "No big moment. I just quietly stopped showing up.", "weights": { "you-drifted": 2 } }
+      ]
+    },
+    {
+      "text": "What feeling comes up when you picture the building now?",
+      "options": [
+        { "text": "Hurt, tied to one person who had power over me.", "weights": { "a-leader-hurt-you": 2 } },
+        { "text": "Disillusionment. It did not match what it claimed to be.", "weights": { "the-hypocrisy": 2 } },
+        { "text": "Suffocation, like I could never be fully honest there.", "weights": { "never-allowed-to-doubt": 2 } },
+        { "text": "Exhaustion, like even thinking about it makes me tired.", "weights": { "burnout": 2 } }
+      ]
+    },
+    {
+      "text": "What did you most need that you did not get?",
+      "options": [
+        { "text": "To be treated with care by the people in charge.", "weights": { "a-leader-hurt-you": 2 } },
+        { "text": "To see the values actually lived out, not just preached.", "weights": { "the-hypocrisy": 2 } },
+        { "text": "Room to wrestle and doubt without being judged.", "weights": { "never-allowed-to-doubt": 2 } },
+        { "text": "Rest, instead of one more thing to volunteer for.", "weights": { "burnout": 2 } }
+      ]
+    },
+    {
+      "text": "How do you describe your faith now, apart from church?",
+      "options": [
+        { "text": "Still real, but wary of anyone holding spiritual authority.", "weights": { "a-leader-hurt-you": 2 } },
+        { "text": "Intact, but allergic to anything that feels fake.", "weights": { "the-hypocrisy": 2 } },
+        { "text": "More honest, finally free to ask what I really wonder.", "weights": { "never-allowed-to-doubt": 2 } },
+        { "text": "Foggy. I drifted from God about the time I drifted from church.", "weights": { "you-drifted": 2 } }
+      ]
+    },
+    {
+      "text": "Which sentence stings the most to read?",
+      "options": [
+        { "text": "Someone I trusted with my soul used that trust against me.", "weights": { "a-leader-hurt-you": 2 } },
+        { "text": "The people who taught grace showed me none.", "weights": { "the-hypocrisy": 2 } },
+        { "text": "I was told that doubting meant something was wrong with me.", "weights": { "never-allowed-to-doubt": 2 } },
+        { "text": "I gave and gave until there was nothing left of me.", "weights": { "burnout": 2 } }
+      ]
+    },
+    {
+      "text": "If you are honest, how much of leaving was a decision?",
+      "options": [
+        { "text": "It was a clear choice after I was hurt.", "weights": { "a-leader-hurt-you": 2 } },
+        { "text": "A choice I made once I saw the hypocrisy clearly.", "weights": { "the-hypocrisy": 2 } },
+        { "text": "A choice, once I realized I could not be honest there.", "weights": { "never-allowed-to-doubt": 2 } },
+        { "text": "Barely a decision. I drifted out more than I walked out.", "weights": { "you-drifted": 2 } }
+      ]
+    },
+    {
+      "text": "What do you find yourself longing for, even now?",
+      "options": [
+        { "text": "A safe place where leaders actually protect people.", "weights": { "a-leader-hurt-you": 2 } },
+        { "text": "A community that is real, flaws and all, with no pretending.", "weights": { "the-hypocrisy": 2 } },
+        { "text": "Somewhere I can bring my doubts and not be cast out.", "weights": { "never-allowed-to-doubt": 2 } },
+        { "text": "Rest for my soul, and maybe a way back to God.", "weights": { "burnout": 1, "you-drifted": 2 } }
+      ]
+    },
+    {
+      "text": "Which honest summary fits best?",
+      "options": [
+        { "text": "A leader hurt me, and that is what pushed me out.", "weights": { "a-leader-hurt-you": 2 } },
+        { "text": "The hypocrisy is what finally broke me.", "weights": { "the-hypocrisy": 2 } },
+        { "text": "I was never allowed to doubt, and I could not stay.", "weights": { "never-allowed-to-doubt": 2 } },
+        { "text": "I drifted more than I decided to leave.", "weights": { "you-drifted": 2 } }
+      ]
+    }
+  ],
+  "results": {
+    "a-leader-hurt-you": {
+      "name": "A Leader Hurt You",
+      "description": "Underneath it all, a person who held spiritual authority over you used that trust in a way that wounded you. That is not a small thing, and your wariness of leaders now makes complete sense. God takes the misuse of spiritual power seriously, and what happened to you grieves Him too. Your faith can survive this, even when your trust in people is shaken. He is a shepherd who actually protects, and He has not failed you the way they did.",
+      "scripture": { "text": "The Lord is my shepherd; I shall not want.", "reference": "Psalm 23:1" }
+    },
+    "the-hypocrisy": {
+      "name": "The Hypocrisy Broke You",
+      "description": "What pushed you out was the gap between the message and the living, the grace that was preached but never shown. Seeing behind the curtain broke something in you, and that disillusionment is honest and fair. Here is what is worth holding onto: the failures of people never canceled the truth of who Jesus is. He hated hypocrisy more than you do, and He is nothing like the version that let you down. Your hunger for something real is not a flaw. It is pointing you home.",
+      "scripture": { "text": "This people draweth nigh unto me with their mouth ... but their heart is far from me.", "reference": "Matthew 15:8" }
+    },
+    "never-allowed-to-doubt": {
+      "name": "You Were Never Allowed to Doubt",
+      "description": "You needed room to wrestle, to ask the hard questions out loud, and instead you were shamed or shut down for it. So you left to breathe. But doubt was never the enemy of faith. Some of the most faithful people in Scripture brought God their honest questions, and He did not turn them away. You are allowed to wonder, to push, to ask why. God is not threatened by your questions, and you do not have to hide them to be close to Him.",
+      "scripture": { "text": "Lord, I believe; help thou mine unbelief.", "reference": "Mark 9:24" }
+    },
+    "burnout": {
+      "name": "Burnout and Exhaustion",
+      "description": "You did not storm out in anger. You simply ran out of fuel after giving and serving until there was nothing left of you. That kind of depletion is real, and it is not a sign of weak faith. Jesus never asked you to pour yourself dry for a schedule of obligations. He offers a rest that goes deeper than a Sunday off. Let yourself stop, breathe, and be cared for. He wants to restore your soul before He asks anything else of you.",
+      "scripture": { "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.", "reference": "Matthew 11:28" }
+    },
+    "you-drifted": {
+      "name": "You Drifted More Than You Decided",
+      "description": "There was no dramatic exit. Life got busy, the connection thinned out, and one day you realized you had quietly slipped away from both church and God. That is a gentler story than most, and it carries less anger, but the distance is real. The good news is that drifting is easy to reverse. You do not need a grand gesture to come back. One small step toward God is enough, and He is already watching the road for you.",
+      "scripture": { "text": "Draw nigh to God, and he will draw nigh to you.", "reference": "James 4:8" }
+    }
+  }
+}

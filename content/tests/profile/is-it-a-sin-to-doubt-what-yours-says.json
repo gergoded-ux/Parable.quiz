@@ -1,0 +1,126 @@
+{
+  "slug": "is-it-a-sin-to-doubt-what-yours-says",
+  "title": "Is It a Sin to Doubt? (What Your Doubt Says About You)",
+  "subtitle": "The fear that doubting means you're not really saved is heavier than the doubt itself. Let's read what's actually underneath yours.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "honest-seeking",
+    "faith-wrestling",
+    "avoidance-doubt",
+    "assurance-anxiety",
+    "cynical-drift"
+  ],
+  "questions": [
+    {
+      "text": "When doubt shows up, what's it usually asking?",
+      "options": [
+        { "text": "Is this actually true? I really want to know.", "weights": { "honest-seeking": 3 } },
+        { "text": "God, where are You? I'm fighting to hold on.", "weights": { "faith-wrestling": 3 } },
+        { "text": "Am I even saved? I can't shake the fear that I'm not.", "weights": { "assurance-anxiety": 3 } },
+        { "text": "Does any of this even matter anymore?", "weights": { "cynical-drift": 3 } }
+      ]
+    },
+    {
+      "text": "What's your honest motive when the questions come?",
+      "options": [
+        { "text": "I genuinely want answers and a stronger faith.", "weights": { "honest-seeking": 3 } },
+        { "text": "I want to keep trusting God even when it's hard.", "weights": { "faith-wrestling": 3 } },
+        { "text": "If I'm honest, the questions let me dodge something convicting.", "weights": { "avoidance-doubt": 3 } },
+        { "text": "I'm tired and a little numb to the whole thing.", "weights": { "cynical-drift": 3 } }
+      ]
+    },
+    {
+      "text": "How do you feel after wrestling with a doubt?",
+      "options": [
+        { "text": "Curious and ready to dig deeper.", "weights": { "honest-seeking": 3 } },
+        { "text": "Worn out, but still clinging to Him.", "weights": { "faith-wrestling": 3 } },
+        { "text": "Anxious and unsure where I really stand with God.", "weights": { "assurance-anxiety": 3 } },
+        { "text": "Relieved I have a reason to keep my distance.", "weights": { "avoidance-doubt": 2, "cynical-drift": 1 } }
+      ]
+    },
+    {
+      "text": "What do you do with your hardest questions?",
+      "options": [
+        { "text": "I research, ask, and chase down real answers.", "weights": { "honest-seeking": 3 } },
+        { "text": "I take them straight to God, even angrily.", "weights": { "faith-wrestling": 3 } },
+        { "text": "I use them to avoid changing how I'm living.", "weights": { "avoidance-doubt": 3 } },
+        { "text": "I replay the same fear that I'm not really His.", "weights": { "assurance-anxiety": 3 } }
+      ]
+    },
+    {
+      "text": "Be honest. Is there anything you'd rather not look at?",
+      "options": [
+        { "text": "Not really. My questions are pretty sincere.", "weights": { "honest-seeking": 3 } },
+        { "text": "There's a wound I keep bringing to God, not hiding.", "weights": { "faith-wrestling": 3 } },
+        { "text": "Yeah. The doubts are convenient cover for something.", "weights": { "avoidance-doubt": 3 } },
+        { "text": "I've stopped caring enough to even look.", "weights": { "cynical-drift": 3 } }
+      ]
+    },
+    {
+      "text": "How often do you fear you might not actually be saved?",
+      "options": [
+        { "text": "Rarely. That's not really my struggle.", "weights": { "honest-seeking": 2, "faith-wrestling": 1 } },
+        { "text": "Constantly. It loops in my head and won't quit.", "weights": { "assurance-anxiety": 3 } },
+        { "text": "Sometimes, usually when I'm wrestling hard.", "weights": { "faith-wrestling": 3 } },
+        { "text": "I've stopped worrying about it. I've checked out.", "weights": { "cynical-drift": 3 } }
+      ]
+    },
+    {
+      "text": "What's your relationship with God like in the middle of doubt?",
+      "options": [
+        { "text": "Active. I keep talking to Him as I question.", "weights": { "honest-seeking": 2, "faith-wrestling": 1 } },
+        { "text": "Raw but real. I'm still holding on to Him.", "weights": { "faith-wrestling": 3 } },
+        { "text": "Tense. I'm anxiously checking if He's still there.", "weights": { "assurance-anxiety": 3 } },
+        { "text": "Faded. We barely talk these days.", "weights": { "cynical-drift": 3 } }
+      ]
+    },
+    {
+      "text": "What worries you most about your own doubt?",
+      "options": [
+        { "text": "Not much. I trust that honest questions are okay.", "weights": { "honest-seeking": 3 } },
+        { "text": "That the wrestling might wear me down for good.", "weights": { "faith-wrestling": 3 } },
+        { "text": "That it proves my faith was never real.", "weights": { "assurance-anxiety": 3 } },
+        { "text": "That I'm slowly drifting away and don't feel much.", "weights": { "cynical-drift": 3 } }
+      ]
+    },
+    {
+      "text": "Which sentence lands closest to home?",
+      "options": [
+        { "text": "I'm seeking, and I believe I'll find.", "weights": { "honest-seeking": 3 } },
+        { "text": "I won't let go until You bless me.", "weights": { "faith-wrestling": 3 } },
+        { "text": "I just need to know I'm really His.", "weights": { "assurance-anxiety": 3 } },
+        { "text": "I'm not sure I even care like I used to.", "weights": { "cynical-drift": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "honest-seeking": {
+      "name": "Honest Seeking Doubt (not sin)",
+      "description": "Take a deep breath, because here's the good news: your kind of doubt is not a sin. It's honest seeking, the kind that wants real answers and a sturdier faith, and Scripture actually welcomes it. Jesus didn't scold the people who came with sincere questions. He met them. Seeking isn't the opposite of faith. It's often faith doing its homework. Keep asking, keep digging, and trust the promise that those who genuinely seek will find.",
+      "scripture": { "text": "Ask and it will be given to you; seek and you will find; knock and the door will be opened to you.", "reference": "Matthew 7:7" }
+    },
+    "faith-wrestling": {
+      "name": "Faith Wrestling (Jacob-style)",
+      "description": "Yours is the doubt that wrestles, the kind that grabs hold of God in the dark and refuses to let go, even when it hurts. That's not faithlessness. That's Jacob, who wrestled all night and walked away limping but blessed, with a new name. God doesn't run from people who fight to hold on to Him. He honors them. Your struggle is exhausting, but it's a sign your faith is alive and gripping. Don't let go. The blessing often comes right at the edge of the fight.",
+      "scripture": { "text": "Then the man said, 'Let me go, for it is daybreak.' But Jacob replied, 'I will not let you go unless you bless me.'", "reference": "Genesis 32:26" }
+    },
+    "avoidance-doubt": {
+      "name": "Avoidance Doubt (dodging conviction)",
+      "description": "You answered honestly, so here's some honest grace in return: your doubts might be doing a job you didn't fully realize. Sometimes questions become a convenient place to hide from something God is gently nudging us to face. That's not a reason for shame. It's actually a hopeful thing to notice, because it means the real issue isn't your intellect, it's a tender spot you've been avoiding. God isn't waiting to pounce. He's inviting you to bring the thing you've been dodging into the light, where grace already is.",
+      "scripture": { "text": "If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness.", "reference": "1 John 1:9" }
+    },
+    "assurance-anxiety": {
+      "name": "Assurance Anxiety",
+      "description": "Your doubt isn't really about whether God is real. It's the gnawing fear that you're not truly His, and it loops in your head no matter how much you do. Here's something freeing: the very fact that you care this much is itself a sign the Spirit is at work in you. People who've walked away don't lie awake worried about it. Your assurance was never meant to rest on the strength of your feelings. It rests on what Christ did, and His grip on you is far stronger than your grip on Him.",
+      "scripture": { "text": "I give them eternal life, and they shall never perish; no one will snatch them out of my hand.", "reference": "John 10:28" }
+    },
+    "cynical-drift": {
+      "name": "Cynical Drift",
+      "description": "Your doubt feels less like a fight and more like a slow fade, a quiet numbness where you're not even sure you care like you used to. That's a real and tender place, and naming it is brave. The drift usually isn't about losing an argument. It's about a heart that got tired and started to coast. Here's the gentle hope: God runs toward people who wander. He's not standing back with arms crossed. The smallest turn of your heart back toward Him is met before you even finish the step.",
+      "scripture": { "text": "While he was still a long way off, his father saw him and was filled with compassion for him; he ran to his son.", "reference": "Luke 15:20" }
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "slug": "which-generational-curse-are-you-called-to-break",
+  "title": "Which Generational Curse Are You Called to Break?",
+  "subtitle": "Some patterns get handed down for generations. You could be the one who ends it.",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 5,
+  "mode": "archetype",
+  "questions": [
+    {
+      "text": "What's the pattern you most want to stop passing down?",
+      "options": [
+        { "text": "The rage. The yelling, the slammed doors, the fear in the room.", "weights": { "anger-and-abuse": 3 } },
+        { "text": "The bottle, the substance, the thing people reach for to cope.", "weights": { "addiction": 3 } },
+        { "text": "Dads who leave, or who are there but never really present.", "weights": { "fatherlessness": 3 } },
+        { "text": "The scarcity panic, the sense that there's never enough.", "weights": { "fear-and-poverty": 3 } }
+      ]
+    },
+    {
+      "text": "When you picture your childhood home, what tightens in your chest?",
+      "options": [
+        { "text": "Walking on eggshells, never sure when it would blow up.", "weights": { "anger-and-abuse": 3 } },
+        { "text": "Watching someone disappear into a habit they couldn't quit.", "weights": { "addiction": 3 } },
+        { "text": "An empty chair where a parent should have been.", "weights": { "fatherlessness": 3 } },
+        { "text": "The fear that the money, and the safety, could vanish overnight.", "weights": { "fear-and-poverty": 3 } }
+      ]
+    },
+    {
+      "text": "What's the lie this pattern taught you to believe?",
+      "options": [
+        { "text": "That love and fear are supposed to live in the same house.", "weights": { "anger-and-abuse": 3 } },
+        { "text": "That you need a crutch to get through the hard feelings.", "weights": { "addiction": 3 } },
+        { "text": "That people you count on will eventually leave.", "weights": { "fatherlessness": 3 } },
+        { "text": "That control is the only thing keeping it all from falling apart.", "weights": { "pride-and-control": 3 } }
+      ]
+    },
+    {
+      "text": "Where do you catch the old pattern trying to creep into your own life?",
+      "options": [
+        { "text": "In how sharp my temper gets when I'm overwhelmed.", "weights": { "anger-and-abuse": 3 } },
+        { "text": "In the way I numb out instead of feeling things.", "weights": { "addiction": 3 } },
+        { "text": "In how hard it is for me to fully show up for people.", "weights": { "fatherlessness": 3 } },
+        { "text": "In how tightly I grip everything, afraid to let go.", "weights": { "pride-and-control": 2, "fear-and-poverty": 1 } }
+      ]
+    },
+    {
+      "text": "What do you most want for the kids, or the people, coming after you?",
+      "options": [
+        { "text": "A home that feels safe, where no one flinches.", "weights": { "anger-and-abuse": 3 } },
+        { "text": "Freedom from the thing that owned the people before them.", "weights": { "addiction": 3 } },
+        { "text": "A parent who stays, who is steady and present.", "weights": { "fatherlessness": 3 } },
+        { "text": "A peace about provision that I never had.", "weights": { "fear-and-poverty": 3 } }
+      ]
+    },
+    {
+      "text": "When stress hits hard, your instinct is to...",
+      "options": [
+        { "text": "Snap, then hate myself for sounding just like them.", "weights": { "anger-and-abuse": 3 } },
+        { "text": "Reach for something to take the edge off.", "weights": { "addiction": 3 } },
+        { "text": "Pull away and handle it alone, like I learned to.", "weights": { "fatherlessness": 2, "pride-and-control": 1 } },
+        { "text": "Tighten my grip and try to manage every detail.", "weights": { "pride-and-control": 3 } }
+      ]
+    },
+    {
+      "text": "What does breaking this cycle cost you that no one else sees?",
+      "options": [
+        { "text": "Learning to stay soft when everything in me wants to harden.", "weights": { "anger-and-abuse": 3 } },
+        { "text": "Sitting with pain instead of escaping it.", "weights": { "addiction": 3 } },
+        { "text": "Choosing to stay and be present when leaving feels easier.", "weights": { "fatherlessness": 3 } },
+        { "text": "Trusting God with the future instead of hoarding against it.", "weights": { "fear-and-poverty": 3 } }
+      ]
+    },
+    {
+      "text": "Which struggle feels closest to your daily fight?",
+      "options": [
+        { "text": "Keeping my pride from running the whole show.", "weights": { "pride-and-control": 3 } },
+        { "text": "Refusing to medicate every uncomfortable feeling.", "weights": { "addiction": 3 } },
+        { "text": "Believing there will be enough, even when it's tight.", "weights": { "fear-and-poverty": 3 } },
+        { "text": "Responding gently when my first reaction is fury.", "weights": { "anger-and-abuse": 3 } }
+      ]
+    },
+    {
+      "text": "What would it mean to you to be the one who finally ends it?",
+      "options": [
+        { "text": "Knowing the next generation won't fear the person they love.", "weights": { "anger-and-abuse": 3 } },
+        { "text": "Knowing the chains stop here and don't get inherited.", "weights": { "addiction": 3 } },
+        { "text": "Knowing someone after me will feel chosen and kept.", "weights": { "fatherlessness": 3 } },
+        { "text": "Finally laying down the control I've white-knuckled for years.", "weights": { "pride-and-control": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "anger-and-abuse": {
+      "name": "Anger and Abuse",
+      "emoji": "🔥",
+      "traits": ["Tender", "Watchful", "Courageous"],
+      "description": "You grew up where love and fear shared the same room, and you're determined that the people after you won't flinch the way you did. Choosing softness when fury rises is some of the hardest, holiest work there is. You're not doomed to repeat it. God can give you a gentleness that no one ever modeled for you, and every patient choice you make rewrites the story.",
+      "scripture": { "text": "A gentle answer turns away wrath, but a harsh word stirs up anger.", "reference": "Proverbs 15:1" }
+    },
+    "addiction": {
+      "name": "Addiction",
+      "emoji": "⛓️‍💥",
+      "traits": ["Honest", "Brave", "Free"],
+      "description": "You watched someone you loved disappear into a habit they couldn't beat, and you refuse to hand that down. Sitting with pain instead of escaping it is brutal, and you're doing it anyway. The chain really can stop with you. Where you feel weak, God's grace meets you, and freedom isn't just possible for you, it's the very thing He came to bring.",
+      "scripture": { "text": "It is for freedom that Christ has set us free.", "reference": "Galatians 5:1" }
+    },
+    "fatherlessness": {
+      "name": "Fatherlessness",
+      "emoji": "🏡",
+      "traits": ["Steady", "Present", "Loyal"],
+      "description": "There was an empty chair where a parent should have been, and somewhere you decided that the people counting on you would never wonder if you'd stay. Choosing to show up, again and again, heals something old in you too. You had a Father all along who never once left, and His faithfulness is the well you can keep drawing from as you become the steady one.",
+      "scripture": { "text": "A father to the fatherless, a defender of widows, is God in his holy dwelling.", "reference": "Psalm 68:5" }
+    },
+    "fear-and-poverty": {
+      "name": "Fear and Poverty",
+      "emoji": "🌾",
+      "traits": ["Trusting", "Generous", "Steadfast"],
+      "description": "You learned young that safety could vanish overnight, and that scarcity panic followed you into adulthood. Breaking it means trusting God with provision instead of bracing for loss. He has fed His people in deserts and stretched what little they had. You can open your hands a little more each day, and you'll find He's been keeping you the whole time.",
+      "scripture": { "text": "And my God will meet all your needs according to the riches of his glory in Christ Jesus.", "reference": "Philippians 4:19" }
+    },
+    "pride-and-control": {
+      "name": "Pride and Control",
+      "emoji": "🤲",
+      "traits": ["Self-aware", "Humble", "Surrendered"],
+      "description": "Control became your survival skill, the way you kept the chaos from winning, and now your fists ache from gripping so hard. Laying that down feels like falling, but it's actually rest. God doesn't ask you to manage the universe. He invites you to trust the One who already holds it, and the freedom on the other side of surrender is more than you've let yourself imagine.",
+      "scripture": { "text": "Humble yourselves, therefore, under God's mighty hand, that he may lift you up in due time.", "reference": "1 Peter 5:6" }
+    }
+  }
+}

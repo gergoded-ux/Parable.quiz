@@ -1,0 +1,126 @@
+{
+  "slug": "how-far-from-god-do-you-actually-feel",
+  "title": "How Far From God Do You Actually Feel?",
+  "subtitle": "Sometimes He feels a whisper away. Sometimes He feels like He left the room. This measures the gap, and names the one thing pulling you away most.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "numb-and-distant",
+    "cautiously-reaching",
+    "one-foot-out",
+    "closer-than-you-think",
+    "in-the-long-wait"
+  ],
+  "questions": [
+    {
+      "text": "When you try to pray lately, what happens?",
+      "options": [
+        { "text": "Nothing. The words feel like they hit the ceiling.", "weights": { "numb-and-distant": 3 } },
+        { "text": "I start, stop, and start again, hoping He's listening.", "weights": { "cautiously-reaching": 3 } },
+        { "text": "I barely try anymore. I've kind of stopped reaching.", "weights": { "one-foot-out": 3 } },
+        { "text": "It's quiet, but I keep showing up and waiting on Him.", "weights": { "in-the-long-wait": 3 } }
+      ]
+    },
+    {
+      "text": "How would you describe your heart toward God right now?",
+      "options": [
+        { "text": "Flat. I don't feel much of anything anymore.", "weights": { "numb-and-distant": 3 } },
+        { "text": "Tender but unsure, like I want back in but I'm scared.", "weights": { "cautiously-reaching": 3 } },
+        { "text": "Drifting. I can feel myself slowly checking out.", "weights": { "one-foot-out": 3 } },
+        { "text": "Honestly? Warmer than I expected once I stopped to notice.", "weights": { "closer-than-you-think": 3 } }
+      ]
+    },
+    {
+      "text": "What's the story underneath the distance?",
+      "options": [
+        { "text": "I went numb after something hard and never came back.", "weights": { "numb-and-distant": 3 } },
+        { "text": "I pulled away, but a part of me wants to return.", "weights": { "cautiously-reaching": 3 } },
+        { "text": "Doubt and disappointment have me edging toward the door.", "weights": { "one-foot-out": 3 } },
+        { "text": "I've been faithfully waiting on a God who feels silent.", "weights": { "in-the-long-wait": 3 } }
+      ]
+    },
+    {
+      "text": "When you walk into church or open your Bible, what's the feeling?",
+      "options": [
+        { "text": "Empty. Like I'm going through motions that used to mean something.", "weights": { "numb-and-distant": 3 } },
+        { "text": "A little hopeful, like maybe today something reconnects.", "weights": { "cautiously-reaching": 3 } },
+        { "text": "Detached, like I'm watching from outside the window.", "weights": { "one-foot-out": 3 } },
+        { "text": "Steady. I keep coming even when I don't feel a thing.", "weights": { "in-the-long-wait": 2, "closer-than-you-think": 1 } }
+      ]
+    },
+    {
+      "text": "What's the main thing creating the gap?",
+      "options": [
+        { "text": "A pain so deep I shut down to survive it.", "weights": { "numb-and-distant": 3 } },
+        { "text": "Guilt and shame, like I drifted too far to come back clean.", "weights": { "cautiously-reaching": 2, "one-foot-out": 1 } },
+        { "text": "Honest doubts I haven't been able to resolve.", "weights": { "one-foot-out": 3 } },
+        { "text": "A wait so long I've wondered if He forgot about me.", "weights": { "in-the-long-wait": 3 } }
+      ]
+    },
+    {
+      "text": "Be honest: do you actually want to feel close to Him again?",
+      "options": [
+        { "text": "I want to want it, but right now I feel nothing.", "weights": { "numb-and-distant": 3 } },
+        { "text": "Yes, desperately. I miss Him more than I admit.", "weights": { "cautiously-reaching": 3 } },
+        { "text": "Some days yes, some days I'm tempted to just walk away.", "weights": { "one-foot-out": 3 } },
+        { "text": "Yes, and I'm choosing to stay even in the silence.", "weights": { "in-the-long-wait": 2, "closer-than-you-think": 1 } }
+      ]
+    },
+    {
+      "text": "Which sentence quietly stings?",
+      "options": [
+        { "text": "\"You're not far from God. You're numb to Him.\"", "weights": { "numb-and-distant": 3 } },
+        { "text": "\"You keep reaching back even though you're afraid.\"", "weights": { "cautiously-reaching": 3 } },
+        { "text": "\"You've got one foot out the door and you know it.\"", "weights": { "one-foot-out": 3 } },
+        { "text": "\"He feels far, but He's been nearer than you realize.\"", "weights": { "closer-than-you-think": 3 } }
+      ]
+    },
+    {
+      "text": "When you picture God right now, where is He?",
+      "options": [
+        { "text": "Behind a wall I can't feel through.", "weights": { "numb-and-distant": 3 } },
+        { "text": "Just ahead, waiting, while I work up the courage to come.", "weights": { "cautiously-reaching": 3 } },
+        { "text": "Somewhere back there, getting smaller as I drift.", "weights": { "one-foot-out": 3 } },
+        { "text": "Right beside me, even though I can't hear Him yet.", "weights": { "in-the-long-wait": 2, "closer-than-you-think": 1 } }
+      ]
+    },
+    {
+      "text": "What do you most need to believe today?",
+      "options": [
+        { "text": "That He can reach me even when I feel nothing at all.", "weights": { "numb-and-distant": 3 } },
+        { "text": "That it's not too late, and He's running toward me.", "weights": { "cautiously-reaching": 3 } },
+        { "text": "That one honest step back is enough to start.", "weights": { "one-foot-out": 3 } },
+        { "text": "That the silence isn't absence, and He's still working.", "weights": { "in-the-long-wait": 2, "closer-than-you-think": 1 } }
+      ]
+    }
+  ],
+  "results": {
+    "numb-and-distant": {
+      "name": "Numb & Distant",
+      "description": "Right now He doesn't feel far so much as gone, and your heart has gone quiet to match. Often this kind of numbness shows up after something painful, when shutting down was the only way to keep going. Hear this gently: God is not waiting for you to feel something before He draws near. He comes close to people exactly like you, the brokenhearted and the crushed. You don't have to manufacture emotion. Just turn toward Him in the numbness, and let Him do the reaching.",
+      "scripture": { "text": "The Lord is close to the brokenhearted and saves those who are crushed in spirit.", "reference": "Psalm 34:18" }
+    },
+    "cautiously-reaching": {
+      "name": "Cautiously Reaching",
+      "description": "Part of you pulled away, and part of you desperately wants back in, and you're standing in the tension between the two. There's fear there, maybe shame, a quiet worry that you drifted too far to come home clean. But here's the heart of God toward you: while you were still a long way off, He saw you and ran. You don't have to crawl back perfectly. Just turn toward home, and you'll find Him already coming to meet you.",
+      "scripture": { "text": "While he was still a long way off, his father saw him and was filled with compassion for him.", "reference": "Luke 15:20" }
+    },
+    "one-foot-out": {
+      "name": "One Foot Out",
+      "description": "You can feel yourself drifting, one foot already pointed toward the door, worn down by doubt or disappointment or both. Before you take the next step away, hear this: drifting rarely happens because God left. It happens slowly, quietly, while life gets loud. You don't have to fix all your questions to come back. One honest step toward Him counts. Tell Him exactly where you are, doubts and all. He can handle your honesty far better than your distance.",
+      "scripture": { "text": "Come near to God and he will come near to you.", "reference": "James 4:8" }
+    },
+    "closer-than-you-think": {
+      "name": "Closer Than You Think",
+      "description": "He's felt far away, but when you actually stop and look, He's been nearer than the feeling let on. Sometimes distance is more about how worn out or distracted we are than about where God actually is. The warmth is still there under the noise. Keep leaning in. Notice the small ways He's been showing up that you almost missed. He never moved. You're closer to Him than this hard season has let you feel.",
+      "scripture": { "text": "The Lord your God is with you, the Mighty Warrior who saves.", "reference": "Zephaniah 3:17" }
+    },
+    "in-the-long-wait": {
+      "name": "In the Long Wait",
+      "description": "You haven't walked away. You've kept showing up to a God who's gone quiet, and the silence has stretched so long you've wondered if He forgot you. He hasn't. Some of the most faithful people in Scripture waited in silence and felt utterly alone, and God was working the whole time in ways they couldn't see. The waiting is not wasted, and it is not abandonment. Keep showing up. The silence is not the end of your story.",
+      "scripture": { "text": "I waited patiently for the Lord; he turned to me and heard my cry.", "reference": "Psalm 40:1" }
+    }
+  }
+}

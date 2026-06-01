@@ -1,0 +1,147 @@
+{
+  "slug": "what-rest-does-your-soul-need",
+  "title": "What Kind of Rest Does Your Soul Need?",
+  "subtitle": "You keep sleeping and waking up tired anyway. Maybe the rest you actually need isn't the kind you've been reaching for.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "physical-rest",
+    "emotional-rest",
+    "spiritual-rest",
+    "social-rest",
+    "sensory-rest",
+    "creative-rest",
+    "sabbath-rest"
+  ],
+  "questions": [
+    {
+      "text": "When you imagine truly resting, what does your soul reach for first?",
+      "options": [
+        { "text": "Sleep. My body is just running on fumes.", "weights": { "physical-rest": 3 } },
+        { "text": "A good cry and someone safe to be honest with.", "weights": { "emotional-rest": 3 } },
+        { "text": "Quiet time with God where I don't have to perform.", "weights": { "spiritual-rest": 3 } },
+        { "text": "A day with absolutely no people and no plans.", "weights": { "social-rest": 3 } }
+      ]
+    },
+    {
+      "text": "What kind of tired are you, really?",
+      "options": [
+        { "text": "Bone tired. My body aches and never feels recovered.", "weights": { "physical-rest": 3 } },
+        { "text": "Overstimulated. Too much noise, too many screens, too bright.", "weights": { "sensory-rest": 3 } },
+        { "text": "Drained from holding it together for everyone else.", "weights": { "emotional-rest": 3 } },
+        { "text": "Stuck and uninspired, like a part of me went quiet.", "weights": { "creative-rest": 3 } }
+      ]
+    },
+    {
+      "text": "At the end of a normal day, what's your honest state?",
+      "options": [
+        { "text": "Physically wrecked, just wanting to lie down.", "weights": { "physical-rest": 3 } },
+        { "text": "Peopled out, even by the ones I love.", "weights": { "social-rest": 3 } },
+        { "text": "Wired from notifications, music, and constant input.", "weights": { "sensory-rest": 3 } },
+        { "text": "Spiritually flat, like I went all day without God.", "weights": { "spiritual-rest": 3 } }
+      ]
+    },
+    {
+      "text": "Which of these would feel like medicine right now?",
+      "options": [
+        { "text": "Sitting in total silence with everything turned off.", "weights": { "sensory-rest": 3 } },
+        { "text": "Making something with my hands just for the joy of it.", "weights": { "creative-rest": 3 } },
+        { "text": "A whole day to stop and remember I'm not in charge.", "weights": { "sabbath-rest": 3 } },
+        { "text": "A nap so deep I lose track of time.", "weights": { "physical-rest": 3 } }
+      ]
+    },
+    {
+      "text": "What do you keep pouring out that no one refills?",
+      "options": [
+        { "text": "My emotions. I'm everyone's safe place, and I'm running dry.", "weights": { "emotional-rest": 3 } },
+        { "text": "My energy for people. I'm always on, always available.", "weights": { "social-rest": 3 } },
+        { "text": "My ideas and creativity, until there's nothing left to give.", "weights": { "creative-rest": 3 } },
+        { "text": "My faith. I keep serving and forget to be fed myself.", "weights": { "spiritual-rest": 3 } }
+      ]
+    },
+    {
+      "text": "When you finally get quiet, what does your mind crave?",
+      "options": [
+        { "text": "Less input. No screens, no sound, no bright lights.", "weights": { "sensory-rest": 3 } },
+        { "text": "Permission to feel what I've been stuffing down.", "weights": { "emotional-rest": 3 } },
+        { "text": "Space to create without anyone watching or judging.", "weights": { "creative-rest": 3 } },
+        { "text": "To just be near God with nothing required of me.", "weights": { "spiritual-rest": 3 } }
+      ]
+    },
+    {
+      "text": "What's missing from your week that your soul keeps asking for?",
+      "options": [
+        { "text": "One real day where I stop and let everything be enough.", "weights": { "sabbath-rest": 3 } },
+        { "text": "Actual sleep, not just less of it.", "weights": { "physical-rest": 3 } },
+        { "text": "Time alone to come back to myself.", "weights": { "social-rest": 3 } },
+        { "text": "Beauty and quiet instead of constant noise.", "weights": { "sensory-rest": 2, "creative-rest": 1 } }
+      ]
+    },
+    {
+      "text": "Which statement makes you sigh because it's true?",
+      "options": [
+        { "text": "\"You're emotionally exhausted from carrying everyone.\"", "weights": { "emotional-rest": 3 } },
+        { "text": "\"You haven't fully unplugged in longer than you can remember.\"", "weights": { "sensory-rest": 3 } },
+        { "text": "\"You're around people all day and starving for solitude.\"", "weights": { "social-rest": 3 } },
+        { "text": "\"You never let a single day be holy and unhurried.\"", "weights": { "sabbath-rest": 3 } }
+      ]
+    },
+    {
+      "text": "If God handed you one gift today, which would undo you a little?",
+      "options": [
+        { "text": "Rest for my weary heart.", "weights": { "emotional-rest": 2, "spiritual-rest": 1 } },
+        { "text": "A spark to create and dream again.", "weights": { "creative-rest": 3 } },
+        { "text": "Deep, restoring sleep for my exhausted body.", "weights": { "physical-rest": 3 } },
+        { "text": "A whole day set apart just to be with Him.", "weights": { "sabbath-rest": 3 } }
+      ]
+    },
+    {
+      "text": "Deep down, what would actually refill you?",
+      "options": [
+        { "text": "Stopping the striving and trusting God to hold it all.", "weights": { "sabbath-rest": 3 } },
+        { "text": "Being truly known instead of just needed.", "weights": { "emotional-rest": 3 } },
+        { "text": "Real solitude with no one to take care of.", "weights": { "social-rest": 3 } },
+        { "text": "Sitting at Jesus' feet instead of running around for Him.", "weights": { "spiritual-rest": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "physical-rest": {
+      "name": "Physical Rest",
+      "description": "Your body has been waving a white flag, and you keep pushing past it. The tiredness you feel isn't laziness. It's a real need your body was created to have. Before you reach for one more workaround, give yourself actual sleep, real stillness, and food that fuels you. God built rest into the very rhythm of creation, and He built it into you. Honoring your limits isn't weakness. It's how you were designed to last.",
+      "scripture": { "text": "In vain you rise early and stay up late, for he grants sleep to those he loves.", "reference": "Psalm 127:2" }
+    },
+    "emotional-rest": {
+      "name": "Emotional Rest",
+      "description": "You're the strong one, the safe place, the person everyone leans on. And quietly, your own heart is running on empty. Emotional rest means having somewhere to put your feelings instead of always holding everyone else's. You don't have to be okay all the time. Find one person you can be honest with, and let God hold the parts you've been hiding even from yourself.",
+      "scripture": { "text": "Cast all your anxiety on him because he cares for you.", "reference": "1 Peter 5:7" }
+    },
+    "spiritual-rest": {
+      "name": "Spiritual Rest",
+      "description": "You've been serving and striving so hard that your own soul went hungry. Somewhere along the way, being with God turned into working for Him. The rest you need is the kind that stops performing and simply sits in His presence. You don't have to earn your place near Him. Come empty, come tired, come exactly as you are, and let Him fill what striving never could.",
+      "scripture": { "text": "Return to your rest, my soul, for the Lord has been good to you.", "reference": "Psalm 116:7" }
+    },
+    "social-rest": {
+      "name": "Social Rest",
+      "description": "You're surrounded by people all day, and a part of you is quietly aching for solitude. That's not antisocial. It's your soul asking for room to breathe. Even Jesus pulled away from the crowds to be alone with His Father. Give yourself permission to step back, to go quiet, to not be available for a little while. You'll come back with more to give once you've had time to just be.",
+      "scripture": { "text": "But Jesus often withdrew to lonely places and prayed.", "reference": "Luke 5:16" }
+    },
+    "sensory-rest": {
+      "name": "Sensory Rest",
+      "description": "Screens, noise, notifications, bright lights, all of it has been pouring in nonstop, and your mind never gets to settle. You're not weak for feeling overstimulated. You're overstimulated because the world rarely turns down. The rest you need is quiet and dim and slow. Turn off what you can. Sit in the silence on purpose. In the stillness, you'll hear things, including God, that the noise has been drowning out.",
+      "scripture": { "text": "Be still, and know that I am God.", "reference": "Psalm 46:10" }
+    },
+    "creative-rest": {
+      "name": "Creative Rest",
+      "description": "Something in you went quiet, and you can feel the absence of it. You've been so busy producing and giving that wonder dried up. Creative rest isn't about being productive. It's about letting beauty fill you again with no goal attached. Look at a sky, make something just for joy, sit in a place that takes your breath away. The same God who made the stars put creativity in you, and it's allowed to be refreshed.",
+      "scripture": { "text": "The heavens declare the glory of God; the skies proclaim the work of his hands.", "reference": "Psalm 19:1" }
+    },
+    "sabbath-rest": {
+      "name": "Sabbath Rest",
+      "description": "Your soul is asking for something bigger than a nap. It wants a whole day set apart, a real stopping where you let the striving go and remember the world holds together because God holds it, not because you do. Sabbath isn't a reward you earn after the work is done. It's a gift you receive on purpose. Pick a day, guard it, and let it teach you that you are loved, not for what you produce, but simply because you're His.",
+      "scripture": { "text": "There remains, then, a Sabbath-rest for the people of God.", "reference": "Hebrews 4:9" }
+    }
+  }
+}

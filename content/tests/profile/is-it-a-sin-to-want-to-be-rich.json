@@ -1,0 +1,115 @@
+{
+  "slug": "is-it-a-sin-to-want-to-be-rich",
+  "title": "Is It a Sin to Want to Be Rich? (Heart Test)",
+  "subtitle": "Money itself is not the problem. This is a gentle look at what your wanting is really rooted in.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": ["healthy-desire", "slippery-slope", "love-of-money", "already-free"],
+  "questions": [
+    {
+      "text": "When you imagine having a lot more money, what is the first thing you picture?",
+      "options": [
+        { "text": "Giving generously and taking care of the people I love.", "weights": { "healthy-desire": 2 } },
+        { "text": "Finally feeling safe, then probably wanting even more.", "weights": { "slippery-slope": 2 } },
+        { "text": "Status, the right things, people seeing I made it.", "weights": { "love-of-money": 2 } },
+        { "text": "Honestly, not much changes. I am content either way.", "weights": { "already-free": 2 } }
+      ]
+    },
+    {
+      "text": "How often do you think about money?",
+      "options": [
+        { "text": "Enough to plan and work hard, but it does not rule me.", "weights": { "healthy-desire": 2 } },
+        { "text": "More lately. It is creeping into more of my thoughts.", "weights": { "slippery-slope": 2 } },
+        { "text": "Constantly. It is one of the main things on my mind.", "weights": { "love-of-money": 2 } },
+        { "text": "Rarely. I have what I need and my mind is elsewhere.", "weights": { "already-free": 2 } }
+      ]
+    },
+    {
+      "text": "If a big windfall came tomorrow, what would you do first?",
+      "options": [
+        { "text": "Set some aside to give before I did anything else.", "weights": { "healthy-desire": 2 } },
+        { "text": "Splurge a little, then feel a pull to chase the next gain.", "weights": { "slippery-slope": 2 } },
+        { "text": "Upgrade everything so people could see the change.", "weights": { "love-of-money": 2 } },
+        { "text": "Keep living simply and steward it carefully.", "weights": { "already-free": 2 } }
+      ]
+    },
+    {
+      "text": "Where do you feel your security comes from?",
+      "options": [
+        { "text": "God, mostly, with money as a tool I try to handle well.", "weights": { "healthy-desire": 2 } },
+        { "text": "I say God, but my peace rises and falls with my bank balance.", "weights": { "slippery-slope": 2 } },
+        { "text": "If I am honest, my sense of safety is tied to my net worth.", "weights": { "love-of-money": 2 } },
+        { "text": "Fully in God. My peace does not move when money does.", "weights": { "already-free": 2 } }
+      ]
+    },
+    {
+      "text": "How do you feel when someone else gets rich?",
+      "options": [
+        { "text": "Genuinely glad for them. Their gain is not my loss.", "weights": { "healthy-desire": 2, "already-free": 1 } },
+        { "text": "A little restless, like I should be doing more, faster.", "weights": { "slippery-slope": 2 } },
+        { "text": "Envious. I quietly compare and come up short.", "weights": { "love-of-money": 2 } },
+        { "text": "Unbothered. Their story is theirs and mine is mine.", "weights": { "already-free": 2 } }
+      ]
+    },
+    {
+      "text": "What is your honest relationship with giving?",
+      "options": [
+        { "text": "I give freely and want my wealth to bless others.", "weights": { "healthy-desire": 2 } },
+        { "text": "I give, but I notice I am holding on a little tighter lately.", "weights": { "slippery-slope": 2 } },
+        { "text": "Giving feels hard. I would rather keep building my pile.", "weights": { "love-of-money": 2 } },
+        { "text": "Open-handed. What I have was never really mine anyway.", "weights": { "already-free": 2 } }
+      ]
+    },
+    {
+      "text": "Which statement makes you most uncomfortable?",
+      "options": [
+        { "text": "Wanting to provide well could quietly turn into wanting to hoard.", "weights": { "healthy-desire": 2 } },
+        { "text": "I am closer to loving money than I want to admit.", "weights": { "slippery-slope": 2 } },
+        { "text": "My worth has gotten tangled up with what I own.", "weights": { "love-of-money": 2 } },
+        { "text": "None of these land. My heart feels settled here.", "weights": { "already-free": 2 } }
+      ]
+    },
+    {
+      "text": "What would you say is the real driver behind your money goals?",
+      "options": [
+        { "text": "Stewardship, provision, and a desire to give more.", "weights": { "healthy-desire": 2 } },
+        { "text": "A fear of not having enough that keeps growing.", "weights": { "slippery-slope": 2 } },
+        { "text": "Proving something, or filling a hole nothing has filled.", "weights": { "love-of-money": 2 } },
+        { "text": "Nothing urgent. I am at peace with what I have.", "weights": { "already-free": 2 } }
+      ]
+    },
+    {
+      "text": "If God asked you to give a large amount away, how would you react?",
+      "options": [
+        { "text": "I would want to obey, even if it stretched me.", "weights": { "healthy-desire": 2 } },
+        { "text": "I would wrestle hard. My grip is tighter than it should be.", "weights": { "slippery-slope": 2 } },
+        { "text": "Honestly, I am not sure I could let it go.", "weights": { "love-of-money": 2 } },
+        { "text": "Gladly. It was His to begin with.", "weights": { "already-free": 2 } }
+      ]
+    }
+  ],
+  "results": {
+    "healthy-desire": {
+      "name": "Healthy Desire",
+      "description": "Wanting to provide well, work hard, and have enough to be generous is not a sin. Your desire for more is pointed in a good direction: toward stewardship and giving, not toward worship of the money itself. Keep your hands open and your heart checked, and money will stay a tool in your hands rather than a master over them. There is nothing wrong with the ambition you are carrying.",
+      "scripture": { "text": "Honour the Lord with thy substance, and with the firstfruits of all thine increase.", "reference": "Proverbs 3:9" }
+    },
+    "slippery-slope": {
+      "name": "Slippery Slope",
+      "description": "You are not in love with money yet, but you can feel the pull getting stronger. The desire for security is creeping toward something that wants to grip you, and the grip is tightening. This is a kind season to notice it, before it owns you. Loosen your hold on purpose. Give a little more than feels comfortable, and let that practice keep your heart free.",
+      "scripture": { "text": "Lay not up for yourselves treasures upon earth, but lay up treasures in heaven.", "reference": "Matthew 6:19-20" }
+    },
+    "love-of-money": {
+      "name": "Love of Money",
+      "description": "If you are honest, money has become more than a tool. It has crept into the place where your security and your worth are supposed to sit. That is the very thing Scripture warns about, and the good news is that it can be named and surrendered. This is not a verdict on you, it is an invitation. Bring it to God, ask Him to reset your heart, and let real contentment replace the chase. He can free you from this.",
+      "scripture": { "text": "For the love of money is the root of all evil.", "reference": "1 Timothy 6:10" }
+    },
+    "already-free": {
+      "name": "Already Free",
+      "description": "Your heart sits in a rare and beautiful place. You can have money or not have it, and your peace does not move either way. You hold what you have with open hands because you know it was never really yours to clutch. Keep walking in that freedom. Your contentment is a quiet kind of wealth that no market can touch, and it makes you generous in a way the world rarely sees.",
+      "scripture": { "text": "I have learned, in whatsoever state I am, therewith to be content.", "reference": "Philippians 4:11" }
+    }
+  }
+}

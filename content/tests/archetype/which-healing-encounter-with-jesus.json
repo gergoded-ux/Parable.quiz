@@ -1,0 +1,129 @@
+{
+  "slug": "which-healing-encounter-with-jesus",
+  "title": "Which Healing Encounter With Jesus Is Yours?",
+  "subtitle": "Five people met Jesus at their lowest. Find the one whose story sounds like yours, and the words He still says to you.",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 4,
+  "mode": "archetype",
+  "questions": [
+    {
+      "text": "What does your wound feel like underneath?",
+      "options": [
+        { "text": "A long, draining suffering I've quietly carried for years.", "weights": { "bleeding-woman": 3 } },
+        { "text": "A stuck place I've sat in so long I almost stopped hoping.", "weights": { "bethesda-invalid": 3 } },
+        { "text": "Shame, like everyone can see exactly what I did.", "weights": { "woman-caught-in-sin": 3 } },
+        { "text": "Being overlooked, shouting for help while the world walks past.", "weights": { "bartimaeus": 3 } }
+      ]
+    },
+    {
+      "text": "When you imagine coming to Jesus, how do you approach?",
+      "options": [
+        { "text": "Quietly, from behind, hoping just to touch the edge of His cloak.", "weights": { "bleeding-woman": 3 } },
+        { "text": "Hesitant, like I'm not even sure I want to get well anymore.", "weights": { "bethesda-invalid": 3 } },
+        { "text": "Braced for condemnation, waiting to be called out.", "weights": { "woman-caught-in-sin": 3 } },
+        { "text": "Loud and desperate, refusing to be shushed.", "weights": { "bartimaeus": 3 } }
+      ]
+    },
+    {
+      "text": "What have other people made you feel about your condition?",
+      "options": [
+        { "text": "Unclean, like I should keep my distance from everyone.", "weights": { "the-leper": 3 } },
+        { "text": "Like a lost cause they got tired of helping.", "weights": { "bethesda-invalid": 3 } },
+        { "text": "Like the example of what not to be.", "weights": { "woman-caught-in-sin": 3 } },
+        { "text": "Invisible. A nuisance to be quieted, not a person to be helped.", "weights": { "bartimaeus": 3 } }
+      ]
+    },
+    {
+      "text": "What's the lie you most need Jesus to break?",
+      "options": [
+        { "text": "\"You've tried everything, so nothing will ever change.\"", "weights": { "bleeding-woman": 3 } },
+        { "text": "\"You've been down too long to get back up.\"", "weights": { "bethesda-invalid": 3 } },
+        { "text": "\"What you did defines you forever.\"", "weights": { "woman-caught-in-sin": 3 } },
+        { "text": "\"You're too untouchable to be wanted.\"", "weights": { "the-leper": 3 } }
+      ]
+    },
+    {
+      "text": "If Jesus turned and looked right at you, what would you most need to hear?",
+      "options": [
+        { "text": "\"Daughter, your faith has healed you.\"", "weights": { "bleeding-woman": 3 } },
+        { "text": "\"Get up. Your waiting is over.\"", "weights": { "bethesda-invalid": 3 } },
+        { "text": "\"I don't condemn you. Go in peace.\"", "weights": { "woman-caught-in-sin": 3 } },
+        { "text": "\"What do you want me to do for you?\"", "weights": { "bartimaeus": 3 } }
+      ]
+    },
+    {
+      "text": "What's been the hardest part of staying stuck?",
+      "options": [
+        { "text": "Spending everything I had and only getting worse.", "weights": { "bleeding-woman": 3 } },
+        { "text": "Watching others get their breakthrough while I stayed put.", "weights": { "bethesda-invalid": 3 } },
+        { "text": "Carrying a secret I'm terrified someone will hold against me.", "weights": { "woman-caught-in-sin": 3 } },
+        { "text": "Being cut off from touch, from people, from belonging.", "weights": { "the-leper": 3 } }
+      ]
+    },
+    {
+      "text": "What kind of healing do you crave most?",
+      "options": [
+        { "text": "To finally be free of the thing that's drained me for so long.", "weights": { "bleeding-woman": 3 } },
+        { "text": "To actually want to move forward again, and then to move.", "weights": { "bethesda-invalid": 3 } },
+        { "text": "To be released from shame and look someone in the eye again.", "weights": { "woman-caught-in-sin": 3 } },
+        { "text": "To be touched, included, and called clean.", "weights": { "the-leper": 2, "bartimaeus": 1 } }
+      ]
+    },
+    {
+      "text": "Which moment makes your throat tighten?",
+      "options": [
+        { "text": "Reaching out in a crowd and feeling power leave Him for me.", "weights": { "bleeding-woman": 3 } },
+        { "text": "Hearing \"Do you want to get well?\" after all this time.", "weights": { "bethesda-invalid": 3 } },
+        { "text": "Watching the accusers drop their stones and walk away.", "weights": { "woman-caught-in-sin": 3 } },
+        { "text": "Jesus reaching out His hand and touching the untouchable.", "weights": { "the-leper": 3 } }
+      ]
+    },
+    {
+      "text": "What would you whisper to someone still waiting for their healing?",
+      "options": [
+        { "text": "\"Keep reaching. He's not too holy to be touched by your mess.\"", "weights": { "bleeding-woman": 3 } },
+        { "text": "\"It's not too late to get up.\"", "weights": { "bethesda-invalid": 3 } },
+        { "text": "\"He doesn't condemn you. He never did.\"", "weights": { "woman-caught-in-sin": 3 } },
+        { "text": "\"Cry out anyway. He stops for the ones everyone ignores.\"", "weights": { "bartimaeus": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "bleeding-woman": {
+      "name": "The Bleeding Woman (Reached Out in Desperation)",
+      "emoji": "🤲",
+      "traits": ["Desperate", "Believing", "Brave"],
+      "description": "You've spent years on a suffering that drained everything and changed nothing, and somehow you kept hoping for one more chance. That's you in the crowd, reaching out just to touch the edge of His cloak. And He stops. He doesn't recoil from your mess or scold you for the years. He calls you daughter and sends you off in peace. Your faith reached Him, and He didn't pull away.",
+      "scripture": { "text": "Daughter, your faith has healed you. Go in peace.", "reference": "Mark 5:34" }
+    },
+    "bethesda-invalid": {
+      "name": "The Invalid at Bethesda (\"Do You Want to Get Well?\")",
+      "emoji": "💧",
+      "traits": ["Weary", "Stuck", "Awakening"],
+      "description": "You've been down so long you almost stopped believing it could change. You've watched others get their breakthrough while you stayed put by the water's edge. Then Jesus asks the question that cuts right through the resignation: do you want to get well? It's not a scolding. It's an invitation to hope again. He's not bound by how long you've waited. With Him, getting up is still possible, even now.",
+      "scripture": { "text": "Get up! Pick up your mat and walk.", "reference": "John 5:8" }
+    },
+    "woman-caught-in-sin": {
+      "name": "The Woman Caught in Sin (Released From Shame)",
+      "emoji": "🕊️",
+      "traits": ["Exposed", "Forgiven", "Free"],
+      "description": "You know what it is to feel like the example of what not to be, braced for everyone to throw their stones. But when you came to Jesus, one by one the accusers walked away. He didn't pretend the sin away, and He didn't crush you with it either. He set you free from the shame and pointed you forward. What you did is not your name. His mercy is louder than your worst moment.",
+      "scripture": { "text": "Then neither do I condemn you. Go now and leave your life of sin.", "reference": "John 8:11" }
+    },
+    "bartimaeus": {
+      "name": "Bartimaeus (Cried Out for Mercy)",
+      "emoji": "🙌",
+      "traits": ["Bold", "Persistent", "Seen"],
+      "description": "You're the one who refuses to be quieted. The crowd told you to hush, to stop being a nuisance, but you cried out louder. And Jesus, surrounded by people, stopped for you. He asked what you wanted Him to do, treating you like a person, not a problem. You may feel overlooked by everyone else, but you have never once been invisible to Him. He stops for the ones the world walks past.",
+      "scripture": { "text": "Go, your faith has healed you.", "reference": "Mark 10:52" }
+    },
+    "the-leper": {
+      "name": "The Leper (Untouchable, Then Touched)",
+      "emoji": "✋",
+      "traits": ["Isolated", "Hopeful", "Restored"],
+      "description": "You've felt unclean, cut off from touch and people and belonging, keeping your distance because that's what everyone expected. Then Jesus did the unthinkable. He reached out His hand and touched you, the one no one else would. He wasn't afraid of your condition, and He wasn't disgusted by it. He made you clean and gave you back to the world. You were never too far gone to be wanted.",
+      "scripture": { "text": "Jesus reached out his hand and touched the man. \"I am willing,\" he said. \"Be clean!\"", "reference": "Matthew 8:3" }
+    }
+  }
+}

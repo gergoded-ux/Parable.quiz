@@ -1,0 +1,117 @@
+{
+  "slug": "why-arent-your-prayers-being-answered",
+  "title": "Why Aren't Your Prayers Being Answered?",
+  "subtitle": "The silence has a reason. Let's gently find which one fits, instead of leaving you feeling ignored.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "not-yet",
+    "loving-no",
+    "heart-barrier",
+    "wrong-motive",
+    "answered-differently"
+  ],
+  "questions": [
+    {
+      "text": "When you think about the prayer that's gone unanswered, what's the feeling underneath?",
+      "options": [
+        { "text": "Impatience. I believe it's coming, the waiting is just hard.", "weights": { "not-yet": 3 } },
+        { "text": "Confusion. It's such a good thing to ask for, why no?", "weights": { "loving-no": 3 } },
+        { "text": "A nagging sense that something's off in my own heart.", "weights": { "heart-barrier": 3 } },
+        { "text": "Honestly, I wonder if I was asking for the wrong reasons.", "weights": { "wrong-motive": 3 } }
+      ]
+    },
+    {
+      "text": "How long have you been praying about this?",
+      "options": [
+        { "text": "A while, and I still sense a quiet \"keep waiting.\"", "weights": { "not-yet": 3 } },
+        { "text": "Long enough that I think the answer might just be no.", "weights": { "loving-no": 3 } },
+        { "text": "On and off, but I keep avoiding something God's nudging me about.", "weights": { "heart-barrier": 3 } },
+        { "text": "A long time, and looking back, He may have already responded.", "weights": { "answered-differently": 2, "not-yet": 1 } }
+      ]
+    },
+    {
+      "text": "What do you sense when you bring this prayer to God?",
+      "options": [
+        { "text": "A peace that says \"not yet,\" not \"never.\"", "weights": { "not-yet": 3 } },
+        { "text": "A gentle redirect, like He's protecting me from something.", "weights": { "loving-no": 3 } },
+        { "text": "A check in my spirit, like there's a blockage to clear first.", "weights": { "heart-barrier": 3 } },
+        { "text": "A question back: why do I really want this?", "weights": { "wrong-motive": 3 } }
+      ]
+    },
+    {
+      "text": "Is there anyone you're holding something against right now?",
+      "options": [
+        { "text": "No, my heart feels clear on that front.", "weights": { "not-yet": 2, "loving-no": 1 } },
+        { "text": "Maybe. There's a grudge I keep rehearsing.", "weights": { "heart-barrier": 3 } },
+        { "text": "Honestly yes, and I know it's sitting between me and God.", "weights": { "heart-barrier": 3 } },
+        { "text": "Not really, but I do wonder about my motives.", "weights": { "wrong-motive": 3 } }
+      ]
+    },
+    {
+      "text": "If you're honest, why do you want what you're asking for?",
+      "options": [
+        { "text": "It's a good desire and I trust God's timing on it.", "weights": { "not-yet": 3 } },
+        { "text": "I want it badly, but I'm open to Him knowing better.", "weights": { "loving-no": 3 } },
+        { "text": "Partly for comfort, status, or to prove something.", "weights": { "wrong-motive": 3 } },
+        { "text": "I've realized my reasons were more about me than I admitted.", "weights": { "wrong-motive": 3 } }
+      ]
+    },
+    {
+      "text": "Looking back, has God moved in ways you didn't expect?",
+      "options": [
+        { "text": "Not yet, but I have peace that He will.", "weights": { "not-yet": 3 } },
+        { "text": "He closed a door I'm starting to see was protection.", "weights": { "loving-no": 3 } },
+        { "text": "He keeps pointing at something in me before the answer.", "weights": { "heart-barrier": 3 } },
+        { "text": "Yes, actually. The answer just didn't look like I pictured.", "weights": { "answered-differently": 3 } }
+      ]
+    },
+    {
+      "text": "Which sentence sits closest to the truth?",
+      "options": [
+        { "text": "\"The timing isn't here yet, and that's okay.\"", "weights": { "not-yet": 3 } },
+        { "text": "\"This might be a loving no, even if it stings.\"", "weights": { "loving-no": 3 } },
+        { "text": "\"There's something I need to deal with first.\"", "weights": { "heart-barrier": 3 } },
+        { "text": "\"He answered, just not the way I wanted Him to.\"", "weights": { "answered-differently": 3 } }
+      ]
+    },
+    {
+      "text": "What would actually help you most right now?",
+      "options": [
+        { "text": "Strength to keep waiting without losing hope.", "weights": { "not-yet": 3 } },
+        { "text": "Trust that His no is still love.", "weights": { "loving-no": 3 } },
+        { "text": "Help facing the thing I keep stepping around.", "weights": { "heart-barrier": 3 } },
+        { "text": "Eyes to see the answer He already gave.", "weights": { "answered-differently": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "not-yet": {
+      "name": "It's a \"Not Yet\"",
+      "description": "Your prayer hasn't been denied. It's been delayed, and there's a real difference. You sense a quiet \"keep waiting\" rather than a closed door, and that peace is worth trusting. God's timing rarely matches ours, but slow is not the same as no. He's often doing something in the waiting that the answer alone couldn't accomplish. Don't read the silence as rejection. Keep asking, keep trusting, and let Him prepare both you and the answer. What's coming may be worth the wait in ways you can't see yet.",
+      "scripture": { "text": "Wait for the Lord. Be strong and take heart and wait for the Lord.", "reference": "Psalm 27:14" }
+    },
+    "loving-no": {
+      "name": "It's a Loving \"No\"",
+      "description": "This might be a no, and that's one of the hardest answers to receive. But sit with this: a loving parent doesn't grant every request, especially the ones that would quietly harm their child. God can see the whole road. The door He closed may be the very protection you'll thank Him for later. His no isn't a sign He stopped caring. Sometimes it's the clearest proof that He does. Trust that He withholds only what love would withhold, and let Him lead you somewhere better.",
+      "scripture": { "text": "No good thing does he withhold from those whose walk is blameless.", "reference": "Psalm 84:11" }
+    },
+    "heart-barrier": {
+      "name": "A Heart Barrier (unforgiveness)",
+      "description": "There's a check in your spirit, and you already know why. Something is sitting between you and God, most likely a grudge you keep rehearsing or a thing you keep stepping around. This isn't God punishing you. It's Him caring enough to deal with the blockage before the breakthrough. Jesus tied our prayers directly to our willingness to forgive. The kindest thing you can do for your prayer life is to bring that barrier into the light, release it, and let the connection clear. The answer may be waiting on the other side of that.",
+      "scripture": { "text": "When you stand praying, if you hold anything against anyone, forgive them.", "reference": "Mark 11:25" }
+    },
+    "wrong-motive": {
+      "name": "Wrong-Motive Asking",
+      "description": "You've started to notice that your reasons were more about you than you first admitted. Maybe comfort, status, or proving something was quietly underneath the request. That honesty is a gift, not a failure. God isn't scolding you for it. He's inviting you to ask differently. When you let Him reshape the why behind your prayers, the prayers themselves change, and so does the peace you feel about the answer. Bring Him your real motives. He can work with honesty far more than with a polished prayer that hides what's underneath.",
+      "scripture": { "text": "You ask and do not receive, because you ask with wrong motives.", "reference": "James 4:3" }
+    },
+    "answered-differently": {
+      "name": "He Answered Differently Than You Asked",
+      "description": "Here's the quiet plot twist. God may have already answered, just not in the shape you were watching for. You were looking for one specific thing, and the help came through a different door entirely. That can be easy to miss when our hearts are fixed on a particular outcome. Look back with softer eyes. Where did provision, comfort, or a way forward show up that you didn't credit to Him? His answers are often bigger and stranger than our requests. You may have more reasons to be grateful than you realized.",
+      "scripture": { "text": "He is able to do immeasurably more than all we ask or imagine.", "reference": "Ephesians 3:20" }
+    }
+  }
+}

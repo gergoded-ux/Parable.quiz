@@ -1,0 +1,126 @@
+{
+  "slug": "faith-or-feelings-what-running-on",
+  "title": "Faith or Feelings: What Are You Actually Running On?",
+  "subtitle": "When the spiritual high fades, what's left? This shows you whether your faith leans on a feeling, and what holds you up when the feeling is gone.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "chasing-the-feeling",
+    "faith-on-fumes",
+    "steady-but-joyless",
+    "numb-but-faithful",
+    "feeling-free-trust"
+  ],
+  "questions": [
+    {
+      "text": "What pulls you toward God most often?",
+      "options": [
+        { "text": "The emotional high. Worship that gives me goosebumps.", "weights": { "chasing-the-feeling": 3 } },
+        { "text": "Honestly, leftover habit. There's not much fuel left.", "weights": { "faith-on-fumes": 3 } },
+        { "text": "Discipline. I show up whether I feel it or not.", "weights": { "steady-but-joyless": 2, "numb-but-faithful": 1 } },
+        { "text": "Trust in who He is, feelings or no feelings.", "weights": { "feeling-free-trust": 3 } }
+      ]
+    },
+    {
+      "text": "When the spiritual high fades, what happens to you?",
+      "options": [
+        { "text": "I chase the next one, conference, retreat, worship night.", "weights": { "chasing-the-feeling": 3 } },
+        { "text": "I assume something's wrong with me or my faith.", "weights": { "faith-on-fumes": 3 } },
+        { "text": "I keep going, just without much joy in it.", "weights": { "steady-but-joyless": 3 } },
+        { "text": "I stay steady. The feeling was never the point.", "weights": { "feeling-free-trust": 3 } }
+      ]
+    },
+    {
+      "text": "How do you know if God is near?",
+      "options": [
+        { "text": "I feel Him. If I don't feel it, I assume He's far.", "weights": { "chasing-the-feeling": 3 } },
+        { "text": "I'm not sure I do anymore. I feel pretty empty.", "weights": { "faith-on-fumes": 3 } },
+        { "text": "I believe He is, even when I feel nothing at all.", "weights": { "numb-but-faithful": 3 } },
+        { "text": "Because He promised, and His promise outranks my mood.", "weights": { "feeling-free-trust": 3 } }
+      ]
+    },
+    {
+      "text": "What's your worship like lately?",
+      "options": [
+        { "text": "I'm hunting for that one song that wrecks me every time.", "weights": { "chasing-the-feeling": 3 } },
+        { "text": "Going through the motions, waiting to feel something again.", "weights": { "faith-on-fumes": 3 } },
+        { "text": "I sing the words, but my heart feels flat and far off.", "weights": { "steady-but-joyless": 2, "numb-but-faithful": 1 } },
+        { "text": "Real, whether it stirs me or not. It's about Him.", "weights": { "feeling-free-trust": 3 } }
+      ]
+    },
+    {
+      "text": "What scares you most about your faith right now?",
+      "options": [
+        { "text": "That if the feeling stops, my faith might stop too.", "weights": { "chasing-the-feeling": 3 } },
+        { "text": "That the emptiness means it was never real.", "weights": { "faith-on-fumes": 3 } },
+        { "text": "That I've lost the joy and can't get it back.", "weights": { "steady-but-joyless": 3 } },
+        { "text": "Honestly, not much. My trust feels pretty settled.", "weights": { "feeling-free-trust": 3 } }
+      ]
+    },
+    {
+      "text": "When you don't feel God, what do you tell yourself?",
+      "options": [
+        { "text": "I need to get back to that place where I felt Him.", "weights": { "chasing-the-feeling": 3 } },
+        { "text": "Maybe I'm doing this whole thing wrong.", "weights": { "faith-on-fumes": 3 } },
+        { "text": "Keep obeying anyway. Feelings aren't the measure.", "weights": { "numb-but-faithful": 3 } },
+        { "text": "His love doesn't rise and fall with how I feel.", "weights": { "feeling-free-trust": 3 } }
+      ]
+    },
+    {
+      "text": "Which sentence hits a nerve?",
+      "options": [
+        { "text": "\"You're addicted to the high more than the One who gives it.\"", "weights": { "chasing-the-feeling": 3 } },
+        { "text": "\"You're running on fumes and calling it faith.\"", "weights": { "faith-on-fumes": 3 } },
+        { "text": "\"You kept the obedience but lost the joy.\"", "weights": { "steady-but-joyless": 3 } },
+        { "text": "\"You're faithful in the numbness, and that counts.\"", "weights": { "numb-but-faithful": 3 } }
+      ]
+    },
+    {
+      "text": "What does a 'good' time with God look like to you?",
+      "options": [
+        { "text": "One where I feel something powerful and moving.", "weights": { "chasing-the-feeling": 3 } },
+        { "text": "Lately? I can't remember the last one I'd call good.", "weights": { "faith-on-fumes": 3 } },
+        { "text": "One where I showed up, even if I felt nothing.", "weights": { "numb-but-faithful": 3 } },
+        { "text": "Any time I'm with Him. The quality isn't about my mood.", "weights": { "feeling-free-trust": 3 } }
+      ]
+    },
+    {
+      "text": "Deep down, what do you most need to learn?",
+      "options": [
+        { "text": "That God is real even when I don't feel a thing.", "weights": { "chasing-the-feeling": 2, "numb-but-faithful": 1 } },
+        { "text": "That dryness isn't proof of distance or failure.", "weights": { "faith-on-fumes": 3 } },
+        { "text": "How to let joy back in, not just keep grinding.", "weights": { "steady-but-joyless": 3 } },
+        { "text": "Nothing new. I just want to keep trusting like this.", "weights": { "feeling-free-trust": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "chasing-the-feeling": {
+      "name": "Chasing the Feeling",
+      "description": "You love God, but somewhere along the way the feeling of Him became the thing you're really after. So you chase the next high, the next worship night, the next goosebump moment, and when it fades you panic a little. Here's the freeing truth: God is not only in the mountaintop moments. He's just as present in the flat, ordinary days when you feel nothing at all. The feeling is a gift, not the foundation. Let your faith rest on who He is, and the highs become a bonus instead of a lifeline.",
+      "scripture": { "text": "We live by faith, not by sight.", "reference": "2 Corinthians 5:7" }
+    },
+    "faith-on-fumes": {
+      "name": "Faith on Fumes",
+      "description": "You're running on the last drops of something that used to feel full, and the emptiness has you wondering if any of it was ever real. Breathe. Dryness is not proof that God left, and it's not a sign your faith failed. Even the psalmists cried out from parched, weary places, and God met them there. You don't have to manufacture a feeling to be close to Him. Keep showing up in the dryness. The well isn't gone. You're just learning to drink from it in a deeper way.",
+      "scripture": { "text": "My soul thirsts for you; my whole being longs for you, in a dry and parched land where there is no water.", "reference": "Psalm 63:1" }
+    },
+    "steady-but-joyless": {
+      "name": "Steady but Joyless",
+      "description": "You never quit. You kept obeying, kept showing up, kept doing the right things, but somewhere the joy quietly drained out and left duty behind. That faithfulness is real, and it matters. But God didn't save you for grim obedience. He wants your gladness back too. Joy isn't a reward for the spiritual elite. It's part of your inheritance. Ask Him to restore it, not as pressure to feel happy, but as the deep delight that comes from being His. The steadiness is beautiful. Now let the joy return.",
+      "scripture": { "text": "Restore to me the joy of your salvation.", "reference": "Psalm 51:12" }
+    },
+    "numb-but-faithful": {
+      "name": "Numb but Faithful",
+      "description": "You feel nothing, and you keep going anyway, and that is one of the truest forms of faith there is. Anyone can follow God when the emotions are flowing. To keep trusting Him in the numbness, when there's no payoff and no warm feeling, is the kind of faith that runs deep. God sees it, and He treasures it. Don't measure your standing with Him by what you feel. The fact that you're still here, still choosing Him in the dark, says more than any spiritual high ever could.",
+      "scripture": { "text": "Blessed are those who have not seen and yet have believed.", "reference": "John 20:29" }
+    },
+    "feeling-free-trust": {
+      "name": "Feeling-Free Trust",
+      "description": "You've learned the secret that sets so many believers free: your faith doesn't rise and fall with your feelings. When the highs come, you enjoy them. When they leave, you stay put, anchored in who God is rather than how you happen to feel. That's a mature, durable faith, the kind that weathers storms. Keep it up, and keep being honest. Even rock-solid trust needs tending. You're standing on something that won't move, and the peace it gives is meant to steady others too.",
+      "scripture": { "text": "Now faith is confidence in what we hope for and assurance about what we do not see.", "reference": "Hebrews 11:1" }
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "slug": "why-cant-you-trust-church-again",
+  "title": "Why Can't You Trust Church Again?",
+  "subtitle": "The wall you put up has a reason. Let's name it, and call slow trust what it really is: wisdom.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "power-abused",
+    "shamed-for-questions",
+    "community-turned",
+    "behind-the-curtain",
+    "not-ready-yet"
+  ],
+  "questions": [
+    {
+      "text": "When you think about walking back through church doors, what tightens in you first?",
+      "options": [
+        { "text": "The memory of a leader who used their position to control people.", "weights": { "power-abused": 3 } },
+        { "text": "The way honest questions got me labeled instead of answered.", "weights": { "shamed-for-questions": 3 } },
+        { "text": "How fast the people I called family turned cold.", "weights": { "community-turned": 3 } },
+        { "text": "Everything I saw once I got close enough to see it.", "weights": { "behind-the-curtain": 3 } }
+      ]
+    },
+    {
+      "text": "What's the sentence that still plays in your head?",
+      "options": [
+        { "text": "\"Do what the leader says and don't push back.\"", "weights": { "power-abused": 3 } },
+        { "text": "\"Good Christians don't ask things like that.\"", "weights": { "shamed-for-questions": 3 } },
+        { "text": "\"We're behind you,\" right up until I needed them.", "weights": { "community-turned": 3 } },
+        { "text": "\"It looks holy from the outside, doesn't it?\"", "weights": { "behind-the-curtain": 2, "not-ready-yet": 1 } }
+      ]
+    },
+    {
+      "text": "Picture yourself in a pew next Sunday. What's your body doing?",
+      "options": [
+        { "text": "Watching the person up front, waiting to be told what to do.", "weights": { "power-abused": 3 } },
+        { "text": "Censoring myself so I don't say the wrong thing.", "weights": { "shamed-for-questions": 3 } },
+        { "text": "Scanning the room for who might drop me next.", "weights": { "community-turned": 3 } },
+        { "text": "Bracing, because I know what can hide under the polish.", "weights": { "behind-the-curtain": 3 } }
+      ]
+    },
+    {
+      "text": "What broke the trust in the first place?",
+      "options": [
+        { "text": "Someone with authority crossed a line they should never have crossed.", "weights": { "power-abused": 3 } },
+        { "text": "I doubted out loud once, and they made me regret it.", "weights": { "shamed-for-questions": 3 } },
+        { "text": "I got iced out the moment I stopped being useful.", "weights": { "community-turned": 3 } },
+        { "text": "I saw the gap between the stage and what happened backstage.", "weights": { "behind-the-curtain": 3 } }
+      ]
+    },
+    {
+      "text": "When someone says \"just find a new church,\" how does that land?",
+      "options": [
+        { "text": "Like they don't get how much damage one bad leader can do.", "weights": { "power-abused": 2, "not-ready-yet": 1 } },
+        { "text": "Like my questions will just get shut down somewhere new.", "weights": { "shamed-for-questions": 3 } },
+        { "text": "Like I'd be handing strangers the power to hurt me again.", "weights": { "community-turned": 3 } },
+        { "text": "Honestly, like I'm just not there yet, and that's okay.", "weights": { "not-ready-yet": 3 } }
+      ]
+    },
+    {
+      "text": "What do you actually need before you could trust a church again?",
+      "options": [
+        { "text": "Leaders who answer to someone and don't lord it over people.", "weights": { "power-abused": 3 } },
+        { "text": "A place where I can wrestle with hard things out loud.", "weights": { "shamed-for-questions": 3 } },
+        { "text": "Proof that people stay when things get inconvenient.", "weights": { "community-turned": 3 } },
+        { "text": "Time. I'm not rushing this, and I shouldn't have to.", "weights": { "not-ready-yet": 3 } }
+      ]
+    },
+    {
+      "text": "Which fear sits closest to the surface?",
+      "options": [
+        { "text": "That I'll hand my trust to another person who abuses it.", "weights": { "power-abused": 3 } },
+        { "text": "That my honest faith will always be treated as a threat.", "weights": { "shamed-for-questions": 3 } },
+        { "text": "That belonging anywhere means setting myself up to be dropped.", "weights": { "community-turned": 3 } },
+        { "text": "That what I saw once, I'll just see everywhere now.", "weights": { "behind-the-curtain": 3 } }
+      ]
+    },
+    {
+      "text": "Where are you with God in all of this?",
+      "options": [
+        { "text": "Still with Him. It's the system around Him I don't trust.", "weights": { "power-abused": 2, "behind-the-curtain": 1 } },
+        { "text": "Closer, actually, now that nobody's policing my questions.", "weights": { "shamed-for-questions": 3 } },
+        { "text": "Holding on, but lonelier than I've ever been.", "weights": { "community-turned": 3 } },
+        { "text": "Quietly healing, on my own timeline, and I think He's okay with that.", "weights": { "not-ready-yet": 3 } }
+      ]
+    },
+    {
+      "text": "What would feel like a small, safe first step?",
+      "options": [
+        { "text": "Watching how a place handles correction and accountability before I commit.", "weights": { "power-abused": 3 } },
+        { "text": "Finding one person who won't flinch at my hardest question.", "weights": { "shamed-for-questions": 3 } },
+        { "text": "Letting one or two people back in slowly, with eyes open.", "weights": { "community-turned": 3 } },
+        { "text": "Sitting in the back, staying as long as I want, leaving when I need to.", "weights": { "not-ready-yet": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "power-abused": {
+      "name": "A Leader Abused Their Power",
+      "description": "Someone in authority used their position to control instead of to serve, and your guard went up for good reason. That wall isn't a lack of faith. It's hard-won wisdom. God never asked you to hand your trust to anyone who lords it over you. Healthy leaders point you to Jesus and answer to others. When you do step back in, watch how a place handles accountability. You're allowed to need that proof.",
+      "scripture": { "text": "Not domineering over those in your charge, but being examples to the flock.", "reference": "1 Peter 5:3" }
+    },
+    "shamed-for-questions": {
+      "name": "You Were Shamed for Asking Questions",
+      "description": "You asked something honest, and instead of an answer you got a label. So you learned to keep quiet. But a faith that can't survive your questions was never very strong to begin with, and your questions aren't the problem. God is not nervous about them. The people who shamed you were. Find one place, one person, where you can wrestle out loud. The door back may be a conversation, not a building.",
+      "scripture": { "text": "Come now, let us reason together, says the Lord.", "reference": "Isaiah 1:18" }
+    },
+    "community-turned": {
+      "name": "Community Turned on You",
+      "description": "The people who called you family went cold, and now belonging anywhere feels like setting yourself up to be dropped again. That ache is real, and the caution makes sense. People failed you. God didn't. Real community does exist, the kind that stays when things get inconvenient, but you get to test it slowly. Let one or two safe people back in at a time. You don't owe anyone your whole heart on day one.",
+      "scripture": { "text": "A friend loves at all times, and a brother is born for a time of adversity.", "reference": "Proverbs 17:17" }
+    },
+    "behind-the-curtain": {
+      "name": "You Saw Behind the Curtain",
+      "description": "You got close enough to see the gap between the stage and what happened backstage, and you can't unsee it. Now everything polished makes you brace. That instinct isn't cynicism. It's discernment, and Scripture takes hypocrisy more seriously than you might think. Jesus did too. Seeing clearly doesn't mean every church is fake. It means you'll never again confuse a good show with a good heart. That's wisdom, not bitterness.",
+      "scripture": { "text": "These people honor me with their lips, but their hearts are far from me.", "reference": "Matthew 15:8" }
+    },
+    "not-ready-yet": {
+      "name": "You're Just Not Ready Yet",
+      "description": "You're not against church. You're just not there yet, and something in you keeps insisting that's allowed. It is. Healing has a timeline that pressure can't rush, and slow doesn't mean stuck. God is patient with where you actually are, not where others think you should be. Sit in the back. Stay as long as you want. Leave when you need to. The willingness to even consider it is already movement. Let it be enough for now.",
+      "scripture": { "text": "He will not break a bruised reed or quench a smoldering wick.", "reference": "Isaiah 42:3" }
+    }
+  }
+}
