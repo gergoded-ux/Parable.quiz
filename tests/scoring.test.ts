@@ -97,3 +97,45 @@ describe('scoreProfile', () => {
     expect(() => scoreProfile(profileTest, [0])).toThrow();
   });
 });
+
+import { scoreKnowledge } from '@/lib/scoring';
+import type { KnowledgeTest } from '@/lib/schema';
+
+const knowledgeTest: KnowledgeTest = {
+  slug: 'g', title: 'G', lang: 'en',
+  category: 'bible-iq', estimatedMinutes: 4,
+  mode: 'knowledge',
+  questions: [
+    { text: 'q1', options: [{ text: 'a', correct: true }, { text: 'b', correct: false }] },
+    { text: 'q2', options: [{ text: 'a', correct: false }, { text: 'b', correct: true }] },
+    { text: 'q3', options: [{ text: 'a', correct: true }, { text: 'b', correct: false }] },
+    { text: 'q4', options: [{ text: 'a', correct: false }, { text: 'b', correct: true }] },
+  ],
+  scoring: {
+    perfectMessage: 'Perfect!',
+    gradeBands: [
+      { min: 0,  max: 50,  label: 'Beginner', message: 'Keep reading.' },
+      { min: 51, max: 99,  label: 'Strong',   message: 'Nicely done.' },
+      { min: 100, max: 100, label: 'Master', message: 'Flawless.' },
+    ],
+  },
+};
+
+describe('scoreKnowledge', () => {
+  it('returns correct/total/percent/band', () => {
+    const r = scoreKnowledge(knowledgeTest, [0, 1, 0, 1]);  // all correct
+    expect(r.correct).toBe(4);
+    expect(r.total).toBe(4);
+    expect(r.percent).toBe(100);
+    expect(r.band.label).toBe('Master');
+  });
+  it('selects the right band for a mid score', () => {
+    const r = scoreKnowledge(knowledgeTest, [0, 0, 0, 0]);  // 2/4 -> 50%
+    expect(r.percent).toBe(50);
+    expect(r.band.label).toBe('Beginner');
+  });
+  it('returns Strong for 51-99', () => {
+    const r = scoreKnowledge(knowledgeTest, [0, 1, 0, 0]);  // 3/4 -> 75%
+    expect(r.band.label).toBe('Strong');
+  });
+});

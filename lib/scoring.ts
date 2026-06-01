@@ -1,5 +1,12 @@
 // lib/scoring.ts
-import type { ArchetypeTest, ProfileTest } from './schema';
+import type { ArchetypeTest, ProfileTest, KnowledgeTest } from './schema';
+
+export interface KnowledgeResult {
+  correct: number;
+  total: number;
+  percent: number;
+  band: { min: number; max: number; label: string; message: string };
+}
 
 export function scoreArchetype(test: ArchetypeTest, answers: number[]): string {
   if (answers.length !== test.questions.length) {
@@ -47,4 +54,23 @@ export function scoreProfile(test: ProfileTest, answers: number[]): Record<strin
   return Object.fromEntries(
     Object.entries(raw).map(([k, v]) => [k, Math.round((v / max) * 100)])
   );
+}
+
+export function scoreKnowledge(test: KnowledgeTest, answers: number[]): KnowledgeResult {
+  if (answers.length !== test.questions.length) {
+    throw new Error(`Expected ${test.questions.length} answers, got ${answers.length}`);
+  }
+  let correct = 0;
+  test.questions.forEach((q, qi) => {
+    const optIdx = answers[qi];
+    if (optIdx < 0 || optIdx >= q.options.length) {
+      throw new Error(`Answer index ${optIdx} out of bounds for question ${qi}`);
+    }
+    if (q.options[optIdx].correct) correct++;
+  });
+  const total = test.questions.length;
+  const percent = Math.round((correct / total) * 100);
+  const band = test.scoring.gradeBands.find(b => percent >= b.min && percent <= b.max)
+    ?? test.scoring.gradeBands[test.scoring.gradeBands.length - 1];
+  return { correct, total, percent, band };
 }
