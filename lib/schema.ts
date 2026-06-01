@@ -36,3 +36,26 @@ export const ArchetypeTest = TestBase.extend({
 });
 
 export type ArchetypeTest = z.infer<typeof ArchetypeTest>;
+
+const ProfileQuestion = z.object({
+  text: z.string().min(1),
+  options: z.array(z.object({
+    text: z.string().min(1),
+    weights: z.record(z.string(), z.number()),
+  })).min(2),
+});
+
+const ProfileResult = z.object({
+  name: z.string().min(1),
+  description: z.string().min(1),
+  scriptureRef: ScriptureRef.optional(),
+});
+
+export const ProfileTest = TestBase.extend({
+  mode: z.literal('profile'),
+  dimensions: z.array(z.string().min(1)).min(1),
+  questions: z.array(ProfileQuestion).min(1),
+  results: z.record(z.string(), ProfileResult),
+});
+
+export type ProfileTest = z.infer<typeof ProfileTest>;

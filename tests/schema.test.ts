@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { ScriptureRef, TestBase, ArchetypeTest } from '@/lib/schema';
+import { ScriptureRef, TestBase, ArchetypeTest, ProfileTest } from '@/lib/schema';
 
 describe('ScriptureRef', () => {
   it('accepts non-empty string', () => {
@@ -82,5 +82,37 @@ describe('ArchetypeTest', () => {
   it('rejects when a result key has no traits', () => {
     const bad = { ...validArchetype, results: { ...validArchetype.results, peter: { ...validArchetype.results.peter, traits: [] } } };
     expect(ArchetypeTest.safeParse(bad).success).toBe(false);
+  });
+});
+
+describe('ProfileTest', () => {
+  const validProfile = {
+    slug: 'spiritual-gifts-profile',
+    title: 'Spiritual Gifts Profile',
+    lang: 'en',
+    category: 'spiritual-profile',
+    estimatedMinutes: 7,
+    mode: 'profile' as const,
+    dimensions: ['teaching', 'mercy', 'leadership'],
+    questions: [{
+      text: 'When you see a need in the community, you...',
+      options: [
+        { text: 'Organize others to meet it', weights: { leadership: 2 } },
+        { text: 'Meet it quietly yourself',   weights: { mercy: 2 } },
+      ],
+    }],
+    results: {
+      teaching: { name: 'Teaching', description: 'You make scripture clear.' },
+      mercy: { name: 'Mercy', description: 'You feel others\' pain as your own.' },
+      leadership: { name: 'Leadership', description: 'You see what could be and call others into it.' },
+    },
+  };
+
+  it('accepts a valid profile test', () => {
+    expect(ProfileTest.safeParse(validProfile).success).toBe(true);
+  });
+  it('requires at least one dimension', () => {
+    const bad = { ...validProfile, dimensions: [] };
+    expect(ProfileTest.safeParse(bad).success).toBe(false);
   });
 });
