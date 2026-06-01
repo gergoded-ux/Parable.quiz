@@ -1,0 +1,111 @@
+{
+  "slug": "whats-your-path-back-to-god-after-falling",
+  "title": "What's Your Path Back to God After Falling?",
+  "subtitle": "You don't have to stay where the shame left you. There's a way home, and it's closer than you think.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "the-prodigals-long-walk-home",
+    "quiet-confession",
+    "restoration-after-public-failure",
+    "believing-the-old-self-is-gone"
+  ],
+  "questions": [
+    {
+      "text": "How does the distance from God feel right now?",
+      "options": [
+        { "text": "Like I wandered far off and the way back looks long.", "weights": { "the-prodigals-long-walk-home": 3 } },
+        { "text": "Close, actually. I just need to come clean and say it.", "weights": { "quiet-confession": 3 } },
+        { "text": "Heavy, because other people know how I fell.", "weights": { "restoration-after-public-failure": 3 } },
+        { "text": "Confusing. I'm not sure who I even am after this.", "weights": { "believing-the-old-self-is-gone": 3 } }
+      ]
+    },
+    {
+      "text": "What's the biggest thing standing between you and God?",
+      "options": [
+        { "text": "I drifted so gradually I barely noticed how far I got.", "weights": { "the-prodigals-long-walk-home": 3 } },
+        { "text": "Honestly, nothing but my own avoidance of admitting it.", "weights": { "quiet-confession": 3 } },
+        { "text": "The public fallout and the shame in front of others.", "weights": { "restoration-after-public-failure": 3 } },
+        { "text": "I can't tell if I'm still the same broken version of me.", "weights": { "believing-the-old-self-is-gone": 3 } }
+      ]
+    },
+    {
+      "text": "When you imagine coming back to God, what do you picture?",
+      "options": [
+        { "text": "A long road home, hoping He'll still take me in.", "weights": { "the-prodigals-long-walk-home": 3 } },
+        { "text": "A quiet moment of just telling Him the truth.", "weights": { "quiet-confession": 3 } },
+        { "text": "Needing to be restored in front of the people who saw me fall.", "weights": { "restoration-after-public-failure": 3 } },
+        { "text": "Stepping into a whole new identity I'm not sure I believe yet.", "weights": { "believing-the-old-self-is-gone": 3 } }
+      ]
+    },
+    {
+      "text": "Which fear whispers the loudest?",
+      "options": [
+        { "text": "I've gone too far this time to be welcomed back.", "weights": { "the-prodigals-long-walk-home": 3 } },
+        { "text": "If I name it out loud, it becomes real.", "weights": { "quiet-confession": 3 } },
+        { "text": "Everyone will always remember me by my worst moment.", "weights": { "restoration-after-public-failure": 3 } },
+        { "text": "I'll just go back to being the old me again.", "weights": { "believing-the-old-self-is-gone": 3 } }
+      ]
+    },
+    {
+      "text": "What do you most need to believe right now?",
+      "options": [
+        { "text": "That He's watching the road and ready to run to me.", "weights": { "the-prodigals-long-walk-home": 3 } },
+        { "text": "That confession brings instant cleansing, not condemnation.", "weights": { "quiet-confession": 3 } },
+        { "text": "That God can rebuild what failure tore down in public.", "weights": { "restoration-after-public-failure": 3 } },
+        { "text": "That the old me really is gone for good.", "weights": { "believing-the-old-self-is-gone": 3 } }
+      ]
+    },
+    {
+      "text": "How do you usually handle guilt after a fall?",
+      "options": [
+        { "text": "I keep my distance and rehearse a speech of apology.", "weights": { "the-prodigals-long-walk-home": 3 } },
+        { "text": "I just need to stop hiding and say it plainly.", "weights": { "quiet-confession": 3 } },
+        { "text": "I brace for judgment from everyone around me.", "weights": { "restoration-after-public-failure": 3 } },
+        { "text": "I doubt whether I can ever really change.", "weights": { "believing-the-old-self-is-gone": 3 } }
+      ]
+    },
+    {
+      "text": "What would home with God feel like again?",
+      "options": [
+        { "text": "Being wrapped in a welcome I didn't deserve.", "weights": { "the-prodigals-long-walk-home": 3 } },
+        { "text": "The relief of finally being honest and forgiven.", "weights": { "quiet-confession": 3 } },
+        { "text": "Being trusted and useful again, not just tolerated.", "weights": { "restoration-after-public-failure": 3 } },
+        { "text": "Walking as a genuinely new person, not the old one.", "weights": { "believing-the-old-self-is-gone": 3 } }
+      ]
+    },
+    {
+      "text": "Deep down, the lie keeping you from returning is...",
+      "options": [
+        { "text": "You burned the bridge. There's no welcome left for you.", "weights": { "the-prodigals-long-walk-home": 3 } },
+        { "text": "You have to clean yourself up before you can confess.", "weights": { "quiet-confession": 2, "the-prodigals-long-walk-home": 1 } },
+        { "text": "Your reputation is your worth, and it's ruined.", "weights": { "restoration-after-public-failure": 3 } },
+        { "text": "People don't really change. You're stuck as you are.", "weights": { "believing-the-old-self-is-gone": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "the-prodigals-long-walk-home": {
+      "name": "The Prodigal's Long Walk Home",
+      "description": "You feel like you've wandered far, and the road back looks long and uncertain. But hear the heart of Jesus' most famous story: the father wasn't waiting with crossed arms. He saw his son a long way off and ran. You don't have to crawl back or earn your welcome. The moment you turn toward home, you'll find your Father already running to meet you with open arms.",
+      "scripture": { "text": "But while he was still a long way off, his father saw him and was filled with compassion for him; he ran to his son.", "reference": "Luke 15:20" }
+    },
+    "quiet-confession": {
+      "name": "Quiet Confession",
+      "description": "Your path back is simpler than you fear. There's no long penance to perform, just the honest act of telling God the truth. The moment you stop hiding and confess, He is faithful to forgive and to wash you clean. You don't have to fix yourself first. Come as you are, say it plainly, and let His faithfulness do what your effort never could.",
+      "scripture": { "text": "If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness.", "reference": "1 John 1:9" }
+    },
+    "restoration-after-public-failure": {
+      "name": "Restoration After Public Failure",
+      "description": "Your fall happened where others could see it, and the shame of that feels almost unbearable. But God is in the business of restoring people right out in the open. Peter denied Jesus publicly, and Jesus didn't just forgive him quietly. He restored him fully and gave him a purpose again. Your worst moment is not your final identity. God can rebuild you, and He often does His best restoration in plain sight.",
+      "scripture": { "text": "Jesus said, Feed my sheep.", "reference": "John 21:17" }
+    },
+    "believing-the-old-self-is-gone": {
+      "name": "Believing the Old Self Is Gone",
+      "description": "You doubt whether real change is possible, whether you'll just slide back into the old version of you. But this is the heart of the gospel: in Christ, the old you actually died, and something genuinely new took its place. You're not the same person trying harder. You're a new creation. It may not feel true yet, but it is true, and you can start living from who you already are.",
+      "scripture": { "text": "Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!", "reference": "2 Corinthians 5:17" }
+    }
+  }
+}

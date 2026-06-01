@@ -1,0 +1,136 @@
+{
+  "slug": "whats-your-sabbath-personality",
+  "title": "What's Your Sabbath Personality?",
+  "subtitle": "Rest doesn't look the same for everyone, and that's the point. Find the kind of Sabbath that actually refills you, so a real day off finally feels possible instead of guilt-inducing.",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 5,
+  "mode": "archetype",
+  "questions": [
+    {
+      "text": "Picture a free day with zero obligations. What sounds like heaven?",
+      "options": [
+        { "text": "A slow morning with coffee and absolutely no rush.", "weights": { "slow-morning-sabbath": 3 } },
+        { "text": "Getting outside, into trees, water, or open sky.", "weights": { "nature-sabbath": 3 } },
+        { "text": "A whole day to myself with no people to manage.", "weights": { "people-free-sabbath": 3 } },
+        { "text": "Time to worship, pray, and soak in God's presence.", "weights": { "worship-filled-sabbath": 3 } }
+      ]
+    },
+    {
+      "text": "After a draining week, what actually restores you?",
+      "options": [
+        { "text": "Easing into the day with nowhere to be.", "weights": { "slow-morning-sabbath": 3 } },
+        { "text": "Fresh air and a long walk somewhere green.", "weights": { "nature-sabbath": 3 } },
+        { "text": "Making something with my hands instead of consuming.", "weights": { "creative-sabbath": 3 } },
+        { "text": "Honestly? Sleep. My body just needs to recover.", "weights": { "sleep-and-recover-sabbath": 3 } }
+      ]
+    },
+    {
+      "text": "What drains you the fastest during the week?",
+      "options": [
+        { "text": "The constant rushing from one thing to the next.", "weights": { "slow-morning-sabbath": 3 } },
+        { "text": "Being stuck indoors and cut off from nature.", "weights": { "nature-sabbath": 3 } },
+        { "text": "Being around people nonstop with no quiet.", "weights": { "people-free-sabbath": 3 } },
+        { "text": "Sheer physical exhaustion. I'm running on empty.", "weights": { "sleep-and-recover-sabbath": 3 } }
+      ]
+    },
+    {
+      "text": "Your ideal Sabbath sound is...",
+      "options": [
+        { "text": "Quiet. Just the kettle and an unhurried morning.", "weights": { "slow-morning-sabbath": 3 } },
+        { "text": "Birds, wind, water. The outdoors.", "weights": { "nature-sabbath": 3 } },
+        { "text": "Worship music filling the room.", "weights": { "worship-filled-sabbath": 3 } },
+        { "text": "The hum of whatever I'm creating.", "weights": { "creative-sabbath": 3 } }
+      ]
+    },
+    {
+      "text": "How do you most naturally connect with God when you rest?",
+      "options": [
+        { "text": "In unhurried stillness, with margin to just be.", "weights": { "slow-morning-sabbath": 2, "worship-filled-sabbath": 1 } },
+        { "text": "Out in creation, where He feels close.", "weights": { "nature-sabbath": 3 } },
+        { "text": "In solitude, away from the noise of people.", "weights": { "people-free-sabbath": 3 } },
+        { "text": "In worship and prayer, set apart on purpose.", "weights": { "worship-filled-sabbath": 3 } }
+      ]
+    },
+    {
+      "text": "Which makes you feel most like yourself again?",
+      "options": [
+        { "text": "A gentle, no-alarm start to the day.", "weights": { "slow-morning-sabbath": 3 } },
+        { "text": "Quiet hours alone to recharge my battery.", "weights": { "people-free-sabbath": 3 } },
+        { "text": "Painting, baking, writing, building, something with my hands.", "weights": { "creative-sabbath": 3 } },
+        { "text": "Catching up on the sleep I've been missing.", "weights": { "sleep-and-recover-sabbath": 3 } }
+      ]
+    },
+    {
+      "text": "Be honest about why a day off sometimes feels hard.",
+      "options": [
+        { "text": "I struggle to slow down enough to enjoy it.", "weights": { "slow-morning-sabbath": 3 } },
+        { "text": "I feel cooped up if I don't get outside.", "weights": { "nature-sabbath": 3 } },
+        { "text": "There are too many people and not enough quiet.", "weights": { "people-free-sabbath": 3 } },
+        { "text": "I'm too tired to do anything but crash.", "weights": { "sleep-and-recover-sabbath": 3 } }
+      ]
+    },
+    {
+      "text": "What would make a Sabbath feel truly holy to you?",
+      "options": [
+        { "text": "Pure unhurriedness, the gift of no agenda.", "weights": { "slow-morning-sabbath": 3 } },
+        { "text": "Standing in creation and remembering the Creator.", "weights": { "nature-sabbath": 3 } },
+        { "text": "Setting the whole day apart for God in worship.", "weights": { "worship-filled-sabbath": 3 } },
+        { "text": "Making something beautiful as an act of praise.", "weights": { "creative-sabbath": 3 } }
+      ]
+    },
+    {
+      "text": "Finish the sentence: \"By the end of a good rest day, I feel...\"",
+      "options": [
+        { "text": "\"...unhurried and human again.\"", "weights": { "slow-morning-sabbath": 3 } },
+        { "text": "\"...refreshed from time spent outdoors.\"", "weights": { "nature-sabbath": 3 } },
+        { "text": "\"...recharged from blessed alone time.\"", "weights": { "people-free-sabbath": 3 } },
+        { "text": "\"...physically rested and finally caught up.\"", "weights": { "sleep-and-recover-sabbath": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "slow-morning-sabbath": {
+      "name": "The Slow-Morning Sabbath",
+      "emoji": "☕",
+      "traits": ["Unhurried", "Present", "Gentle"],
+      "description": "Your soul rests when the rush finally stops. No alarm, no agenda, just a slow start with coffee and the rare gift of nowhere to be. This is real Sabbath, the kind that lets you become human again. Protect it without guilt. The pace of your week will always try to steal it back, so claim the morning on purpose and let the slowness be your worship. God isn't in a hurry with you, and a gentle, unhurried start is one of the truest ways you remember that.",
+      "scripture": { "text": "He makes me lie down in green pastures, he leads me beside quiet waters.", "reference": "Psalm 23:2" }
+    },
+    "nature-sabbath": {
+      "name": "The Nature Sabbath",
+      "emoji": "🌿",
+      "traits": ["Outdoorsy", "Grounded", "Awed"],
+      "description": "You meet God outside. A walk in the trees, the sound of water, open sky overhead, and something in you settles that four walls never could. That's not a small thing, creation has always pointed people back to the Creator. Make this your rhythm. Get out on purpose, leave the phone in your pocket, and let the world He made remind you how cared for you are. When you stand in nature, you're reading one of the oldest sermons there is, and your tired heart hears it well.",
+      "scripture": { "text": "The heavens declare the glory of God; the skies proclaim the work of his hands.", "reference": "Psalm 19:1" }
+    },
+    "people-free-sabbath": {
+      "name": "The People-Free Sabbath",
+      "emoji": "🤫",
+      "traits": ["Solitary", "Recharging", "Quiet"],
+      "description": "You give a lot to people all week, and the way you refill is solitude. A day with no one to manage, no noise to absorb, just quiet, and your battery climbs back to full. This isn't selfish, it's wisdom. Even Jesus pulled away from the crowds to be alone with the Father. Build in that quiet without apologizing for it. Solitude isn't you avoiding people, it's you returning to God so you have something to give the people again. Guard it like the lifeline it is.",
+      "scripture": { "text": "But Jesus often withdrew to lonely places and prayed.", "reference": "Luke 5:16" }
+    },
+    "worship-filled-sabbath": {
+      "name": "The Worship-Filled Sabbath",
+      "emoji": "🙌",
+      "traits": ["Devoted", "Expectant", "Centered"],
+      "description": "Rest, for you, means turning your whole attention to God. Worship music, prayer, the Word, a day set apart on purpose, and you come away centered in a way nothing else gives. That's a beautiful instinct, you've learned that being with Him is the deepest rest there is. Keep making the space. Let the worship be unhurried, not squeezed in, and let it spill into the rest of your week. When God is the center of your day off, everything else finds its proper size again.",
+      "scripture": { "text": "Better is one day in your courts than a thousand elsewhere.", "reference": "Psalm 84:10" }
+    },
+    "creative-sabbath": {
+      "name": "The Creative Sabbath",
+      "emoji": "🎨",
+      "traits": ["Making", "Inspired", "Hands-On"],
+      "description": "You rest by making something. Painting, baking, writing, building, your hands need to create instead of just consume, and there's a quiet joy in it that recharges you deeply. That makes sense, you're an image-bearer of a Creator, and making things is one of the ways you reflect Him. Give yourself permission to call this rest, even if it doesn't look like sitting still. When you create on your Sabbath, you're echoing the One who made a world and called it good. Let it be your praise.",
+      "scripture": { "text": "In the beginning God created the heavens and the earth.", "reference": "Genesis 1:1" }
+    },
+    "sleep-and-recover-sabbath": {
+      "name": "The Sleep-and-Recover Sabbath",
+      "emoji": "😴",
+      "traits": ["Replenishing", "Honest", "Restoring"],
+      "description": "Right now your body is simply tired, and the most spiritual thing you can do is sleep. There's no shame in that. Rest is so important to God that He built it into the very rhythm of creation, and sometimes obeying Him looks like a nap and an early night. Let yourself recover without guilt. You are not lazy, you are depleted, and your Maker knows the difference. Catch up on the sleep you've been missing, and trust that the God who never slumbers is holding everything while you finally rest.",
+      "scripture": { "text": "In peace I will lie down and sleep, for you alone, Lord, make me dwell in safety.", "reference": "Psalm 4:8" }
+    }
+  }
+}

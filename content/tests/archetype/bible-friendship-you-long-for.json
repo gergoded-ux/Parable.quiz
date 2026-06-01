@@ -1,0 +1,122 @@
+{
+  "slug": "bible-friendship-you-long-for",
+  "title": "Which Bible Friendship Do You Long For?",
+  "subtitle": "Most of us are quietly starved for one real friend. Let's find the kind of bond your heart keeps reaching for.",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 5,
+  "mode": "archetype",
+  "questions": [
+    {
+      "text": "When you picture the friendship you most want, what's at the center of it?",
+      "options": [
+        { "text": "Someone who's loyal to me no matter what it costs them.", "weights": { "david-jonathan": 3 } },
+        { "text": "Someone who simply refuses to leave my side.", "weights": { "ruth-naomi": 3 } },
+        { "text": "Someone older who believes in me and pours into me.", "weights": { "paul-timothy": 3 } },
+        { "text": "A small circle that's let all the way into my real life.", "weights": { "jesus-inner-three": 3 } }
+      ]
+    },
+    {
+      "text": "What do you find yourself aching for most these days?",
+      "options": [
+        { "text": "A friend who'd defend me even when it's risky for them.", "weights": { "david-jonathan": 3 } },
+        { "text": "Someone to stick with me through a season of real loss.", "weights": { "ruth-naomi": 3 } },
+        { "text": "A mentor who sees something in me I can't see yet.", "weights": { "paul-timothy": 3 } },
+        { "text": "People I can be unguarded with in my hardest moments.", "weights": { "jesus-inner-three": 3 } }
+      ]
+    },
+    {
+      "text": "How do you most want a friend to show up for you?",
+      "options": [
+        { "text": "By having my back when others turn on me.", "weights": { "david-jonathan": 3 } },
+        { "text": "By choosing my world as their own, no matter what.", "weights": { "ruth-naomi": 3 } },
+        { "text": "By teaching me and handing me what they've learned.", "weights": { "paul-timothy": 3 } },
+        { "text": "By staying near when everything is falling apart.", "weights": { "jesus-inner-three": 3 } }
+      ]
+    },
+    {
+      "text": "What kind of words would mean the most coming from a friend?",
+      "options": [
+        { "text": "\"I'm with you, whatever happens.\"", "weights": { "david-jonathan": 3 } },
+        { "text": "\"Where you go, I'll go. I'm not leaving.\"", "weights": { "ruth-naomi": 3 } },
+        { "text": "\"I see a gift in you, and I'm going to help you grow it.\"", "weights": { "paul-timothy": 3 } },
+        { "text": "\"Stay close to me tonight. I need you here.\"", "weights": { "jesus-inner-three": 2, "david-jonathan": 1 } }
+      ]
+    },
+    {
+      "text": "What's the loneliest part of where you are right now?",
+      "options": [
+        { "text": "I don't have anyone who'd take my side without flinching.", "weights": { "david-jonathan": 3 } },
+        { "text": "I'm walking through grief and I feel like I'm doing it alone.", "weights": { "ruth-naomi": 3 } },
+        { "text": "Nobody's really invested in who I'm becoming.", "weights": { "paul-timothy": 3 } },
+        { "text": "Plenty of people know me a little. Nobody knows the real me.", "weights": { "jesus-inner-three": 3 } }
+      ]
+    },
+    {
+      "text": "When you offer friendship to someone else, what do you tend to give?",
+      "options": [
+        { "text": "Fierce loyalty, even when it's costly for me.", "weights": { "david-jonathan": 3 } },
+        { "text": "A promise to stay, especially when things get hard.", "weights": { "ruth-naomi": 3 } },
+        { "text": "Encouragement and a push toward their potential.", "weights": { "paul-timothy": 3 } },
+        { "text": "Steady presence when their life caves in.", "weights": { "jesus-inner-three": 3 } }
+      ]
+    },
+    {
+      "text": "Which loss would hurt you the most to live without?",
+      "options": [
+        { "text": "A soul-level friend who's bound to me heart to heart.", "weights": { "david-jonathan": 3 } },
+        { "text": "Someone whose devotion never wavers, even in famine seasons.", "weights": { "ruth-naomi": 3 } },
+        { "text": "A spiritual parent who believes in me and sends me out.", "weights": { "paul-timothy": 3 } },
+        { "text": "An inner few I can collapse in front of and not be judged.", "weights": { "jesus-inner-three": 3 } }
+      ]
+    },
+    {
+      "text": "What would make you feel truly known?",
+      "options": [
+        { "text": "Knowing someone would risk their own standing to protect mine.", "weights": { "david-jonathan": 3 } },
+        { "text": "Knowing someone tied their future to mine on purpose.", "weights": { "ruth-naomi": 3 } },
+        { "text": "Being mentored by someone who calls me their own.", "weights": { "paul-timothy": 3 } },
+        { "text": "Being invited into the room when others are kept out.", "weights": { "jesus-inner-three": 3 } }
+      ]
+    },
+    {
+      "text": "If you could ask God for one friendship this year, you'd ask for...",
+      "options": [
+        { "text": "A loyal one who'd stand with me against the odds.", "weights": { "david-jonathan": 3 } },
+        { "text": "A faithful one who'd refuse to walk away.", "weights": { "ruth-naomi": 3 } },
+        { "text": "A wise one who'd raise me up and send me on.", "weights": { "paul-timothy": 3 } },
+        { "text": "A trusted few who'd hold me in the dark.", "weights": { "jesus-inner-three": 2, "ruth-naomi": 1 } }
+      ]
+    }
+  ],
+  "results": {
+    "david-jonathan": {
+      "name": "David and Jonathan",
+      "emoji": "🤝",
+      "traits": ["Loyal", "Brave", "Devoted"],
+      "description": "You long for a David-and-Jonathan kind of bond, the friend who's so knit to your heart that they'd risk their own future to protect you. Jonathan was the king's son with everything to lose, and he still chose David over his own crown. That's the loyalty you're reaching for, and it's worth reaching for. The good news is that a friendship like this usually starts with one person willing to be that loyal first. You might be the Jonathan someone else is praying for.",
+      "scripture": { "text": "Jonathan became one in spirit with David, and he loved him as himself.", "reference": "1 Samuel 18:1" }
+    },
+    "ruth-naomi": {
+      "name": "Ruth and Naomi",
+      "emoji": "🌾",
+      "traits": ["Faithful", "Steadfast", "Tender"],
+      "description": "You ache for a Ruth-and-Naomi friendship, the one that simply refuses to leave when everything else has fallen apart. Ruth lost her husband and could have gone home, but she tied her whole life to a grieving older woman and said she'd go wherever Naomi went. That's the staying-power you crave. If you're walking through loss right now and feel alone in it, this longing is a holy one. Ask God for your Ruth, and keep your eyes open. She may already be standing nearby.",
+      "scripture": { "text": "Where you go I will go, and where you stay I will stay. Your people will be my people.", "reference": "Ruth 1:16" }
+    },
+    "paul-timothy": {
+      "name": "Paul and Timothy",
+      "emoji": "📜",
+      "traits": ["Mentored", "Growing", "Believed-In"],
+      "description": "What you long for is a Paul-and-Timothy friendship, an older, wiser believer who sees the gift in you and pours their life into growing it. Paul called Timothy his true son in the faith and handed him everything he'd learned. That kind of being-invested-in is rare, and wanting it isn't needy. It's how God grows people. Pray for your Paul, and stay open, because the mentor you need often shows up in someone you'd least expect. And one day, you may become that for someone younger.",
+      "scripture": { "text": "To Timothy my true son in the faith: Grace, mercy and peace from God the Father.", "reference": "1 Timothy 1:2" }
+    },
+    "jesus-inner-three": {
+      "name": "Jesus and His Inner Three",
+      "emoji": "🔥",
+      "traits": ["Trusted", "Close", "Let-In"],
+      "description": "You long to be in someone's inner circle, the small, trusted few who get let all the way in. Even Jesus, who could have kept everyone at arm's length, pulled Peter, James, and John close and asked them to stay near in His darkest hour in the garden. That tells you something: wanting a few people who truly know you isn't weakness. It's how we were made. You don't need a crowd. You need three. Ask God to build you that small, safe circle, and be willing to be one of those three for someone else.",
+      "scripture": { "text": "He took Peter, James and John along with him, and he began to be deeply distressed.", "reference": "Mark 14:33" }
+    }
+  }
+}

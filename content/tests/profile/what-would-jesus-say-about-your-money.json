@@ -1,0 +1,129 @@
+{
+  "slug": "what-would-jesus-say-about-your-money",
+  "title": "What Would Jesus Say About Your Money?",
+  "subtitle": "He talked about money more than almost anything, and never to shame people, always to free them. Answer honestly and find out which of His words might be for you right now.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "well-done-steward",
+    "watch-your-heart",
+    "you-lack-one-thing",
+    "where-is-your-treasure"
+  ],
+  "questions": [
+    {
+      "text": "Money comes in unexpectedly. Where does your mind go first?",
+      "options": [
+        { "text": "How can I steward this well and maybe bless someone?", "weights": { "well-done-steward": 3 } },
+        { "text": "Finally, some breathing room and a few things I've wanted.", "weights": { "watch-your-heart": 3 } },
+        { "text": "Straight to saving it. Letting go of money is hard for me.", "weights": { "you-lack-one-thing": 3 } },
+        { "text": "More of what I'm chasing, and I'm always chasing more.", "weights": { "where-is-your-treasure": 3 } }
+      ]
+    },
+    {
+      "text": "When you give, how does it actually feel inside?",
+      "options": [
+        { "text": "Like worship. I plan for it and give with joy.", "weights": { "well-done-steward": 3 } },
+        { "text": "Good, though I sometimes give to be seen doing it.", "weights": { "watch-your-heart": 3 } },
+        { "text": "I want to, but a tight grip kicks in every time.", "weights": { "you-lack-one-thing": 3 } },
+        { "text": "Like a loss. Giving feels like less for me.", "weights": { "where-is-your-treasure": 3 } }
+      ]
+    },
+    {
+      "text": "What does having money mostly mean to you?",
+      "options": [
+        { "text": "A trust to manage well on God's behalf.", "weights": { "well-done-steward": 3 } },
+        { "text": "Comfort, but I sense my heart wandering toward it.", "weights": { "watch-your-heart": 3 } },
+        { "text": "Security I'd struggle to surrender if God asked.", "weights": { "you-lack-one-thing": 3 } },
+        { "text": "Proof I'm doing well. It's where my hope quietly sits.", "weights": { "where-is-your-treasure": 3 } }
+      ]
+    },
+    {
+      "text": "If God asked you to give away something costly tomorrow, you'd...",
+      "options": [
+        { "text": "Trust Him and obey. It was never really mine anyway.", "weights": { "well-done-steward": 3 } },
+        { "text": "Do it, but I'd have to wrestle my motives first.", "weights": { "watch-your-heart": 2, "well-done-steward": 1 } },
+        { "text": "Hesitate hard. That one thing is the thing I can't release.", "weights": { "you-lack-one-thing": 3 } },
+        { "text": "Feel my heart sink, because that's where my treasure is.", "weights": { "where-is-your-treasure": 3 } }
+      ]
+    },
+    {
+      "text": "Which money fear feels most like yours?",
+      "options": [
+        { "text": "Honestly, not fear so much as wanting to manage it faithfully.", "weights": { "well-done-steward": 3 } },
+        { "text": "That I'm slowly loving it more than I'd admit.", "weights": { "watch-your-heart": 3 } },
+        { "text": "Losing my safety net and feeling exposed.", "weights": { "you-lack-one-thing": 3 } },
+        { "text": "That without it, I wouldn't know what my life is worth.", "weights": { "where-is-your-treasure": 3 } }
+      ]
+    },
+    {
+      "text": "How much of your daydreaming is about money or what it can buy?",
+      "options": [
+        { "text": "Not much. I think more about how to use it well.", "weights": { "well-done-steward": 3 } },
+        { "text": "More than I'd like to confess lately.", "weights": { "watch-your-heart": 3 } },
+        { "text": "I mostly daydream about feeling finally secure.", "weights": { "you-lack-one-thing": 3 } },
+        { "text": "A lot. The next purchase always promises to be the one.", "weights": { "where-is-your-treasure": 3 } }
+      ]
+    },
+    {
+      "text": "When you picture true contentment, what's in the picture?",
+      "options": [
+        { "text": "Enough to live on and plenty to give away.", "weights": { "well-done-steward": 3 } },
+        { "text": "A heart that wants God more than the next upgrade.", "weights": { "watch-your-heart": 3 } },
+        { "text": "A cushion big enough that I never feel afraid.", "weights": { "you-lack-one-thing": 3 } },
+        { "text": "Honestly, more. The picture keeps moving the closer I get.", "weights": { "where-is-your-treasure": 3 } }
+      ]
+    },
+    {
+      "text": "What would the people around you say money does to you?",
+      "options": [
+        { "text": "That I hold it loosely and give generously.", "weights": { "well-done-steward": 3 } },
+        { "text": "That I'm good, but I name-drop my giving a bit.", "weights": { "watch-your-heart": 3 } },
+        { "text": "That I'm careful to the point of clutching.", "weights": { "you-lack-one-thing": 3 } },
+        { "text": "That I never seem satisfied, no matter how much I have.", "weights": { "where-is-your-treasure": 3 } }
+      ]
+    },
+    {
+      "text": "Deep down, where does your heart feel safest?",
+      "options": [
+        { "text": "In God, with money as a tool I get to manage.", "weights": { "well-done-steward": 3 } },
+        { "text": "In God, mostly, though my heart keeps drifting.", "weights": { "watch-your-heart": 3 } },
+        { "text": "In my savings. That's the honest answer.", "weights": { "you-lack-one-thing": 2, "where-is-your-treasure": 1 } },
+        { "text": "In what I own and earn. It's where I've stored my hope.", "weights": { "where-is-your-treasure": 3 } }
+      ]
+    },
+    {
+      "text": "Which of Jesus's words makes you flinch a little?",
+      "options": [
+        { "text": "\"Well done, good and faithful servant.\" I want to hear that.", "weights": { "well-done-steward": 3 } },
+        { "text": "\"Watch out for all kinds of greed.\" That one finds me.", "weights": { "watch-your-heart": 3 } },
+        { "text": "\"Sell what you have and follow me.\" That's the hard one.", "weights": { "you-lack-one-thing": 3 } },
+        { "text": "\"Where your treasure is, there your heart will be.\" Ouch.", "weights": { "where-is-your-treasure": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "well-done-steward": {
+      "name": "Well Done, Steward",
+      "description": "Money flows through your hands without owning them. You see it as something to manage on God's behalf, you give with joy, and you hold it loosely enough to obey when He asks. That's not a small thing, it's faithfulness, and Jesus has words for it. Keep tending what you've been trusted with, keep your eyes open for who you can bless next, and don't let success quietly tighten the grip. You're living the parable. Stay there.",
+      "scripture": { "text": "Well done, good and faithful servant. You have been faithful over a little; I will set you over much.", "reference": "Matthew 25:23" }
+    },
+    "watch-your-heart": {
+      "name": "Watch Your Heart",
+      "description": "You're not greedy, but you've felt the pull, the way your heart leans toward money a little more than you'd like to admit. Maybe you give partly to be noticed, or you daydream about the next upgrade more than about God. This isn't condemnation, it's a warning bell, and the fact that you hear it is a gift. Jesus says to be on guard, because a heart can drift without us noticing. Name the leaning, bring it to Him, and let Him reset what you treasure.",
+      "scripture": { "text": "Watch out! Be on your guard against all kinds of greed; life does not consist in an abundance of possessions.", "reference": "Luke 12:15" }
+    },
+    "you-lack-one-thing": {
+      "name": "You Lack One Thing",
+      "description": "You love God, you really do, and yet there's one thing you're not sure you could let go of. That's exactly where the rich young ruler stood. Notice this: when Jesus saw him, He loved him before He asked for anything. The request to release came from tenderness, not greed. Whatever your one thing is, the security you're clutching can't hold you the way God can. He isn't trying to leave you empty. He's trying to set you free.",
+      "scripture": { "text": "One thing you lack. Go, sell everything you have and give to the poor, and you will have treasure in heaven. Then come, follow me.", "reference": "Mark 10:21" }
+    },
+    "where-is-your-treasure": {
+      "name": "Where Is Your Treasure?",
+      "description": "If you trace where your hope and your daydreams go, they keep landing on what you own and earn. The trouble is that this kind of treasure never satisfies, the picture keeps moving the closer you get. Jesus said it plainly: your heart follows your treasure. That ache you feel for more isn't proof you need more, it's a compass pointing you home. Start moving even a little of your treasure toward God and what lasts, and watch your heart begin to follow it there.",
+      "scripture": { "text": "For where your treasure is, there your heart will be also.", "reference": "Matthew 6:21" }
+    }
+  }
+}

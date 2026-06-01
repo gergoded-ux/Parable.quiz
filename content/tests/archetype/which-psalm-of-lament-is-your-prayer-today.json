@@ -1,0 +1,122 @@
+{
+  "slug": "which-psalm-of-lament-is-your-prayer-today",
+  "title": "Which Psalm of Lament Is Your Prayer Today?",
+  "subtitle": "Some days hurt too much for tidy prayers. The psalms of lament hand you honest words for the dark. Let's find the one that fits today.",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 5,
+  "mode": "archetype",
+  "questions": [
+    {
+      "text": "What does the ache in your chest sound like right now?",
+      "options": [
+        { "text": "How long, Lord? I can't keep waiting like this.", "weights": { "psalm-13": 3 } },
+        { "text": "Why does it feel like You've left me completely?", "weights": { "psalm-22": 3 } },
+        { "text": "Why are you so downcast, my soul? Where did the joy go?", "weights": { "psalm-42": 3 } },
+        { "text": "It's just dark, and I don't see the end of it.", "weights": { "psalm-88": 3 } }
+      ]
+    },
+    {
+      "text": "What's the shape of the pain you're carrying?",
+      "options": [
+        { "text": "Exhaustion from waiting on God to finally move.", "weights": { "psalm-13": 3 } },
+        { "text": "A feeling of being abandoned at my lowest point.", "weights": { "psalm-22": 3 } },
+        { "text": "A homesick longing to feel close to God again.", "weights": { "psalm-42": 3 } },
+        { "text": "Grief so heavy it has no bottom yet.", "weights": { "psalm-88": 3 } }
+      ]
+    },
+    {
+      "text": "How long has this been weighing on you?",
+      "options": [
+        { "text": "Long enough that I keep asking how much longer.", "weights": { "psalm-13": 3 } },
+        { "text": "It hit hard and sudden, like the floor dropped out.", "weights": { "psalm-22": 3 } },
+        { "text": "It comes in waves, especially when I remember better days.", "weights": { "psalm-42": 3 } },
+        { "text": "So long the darkness feels like a permanent companion.", "weights": { "psalm-88": 3 } }
+      ]
+    },
+    {
+      "text": "What do you most want from God in this moment?",
+      "options": [
+        { "text": "An end to the waiting and a sign He hasn't forgotten me.", "weights": { "psalm-13": 3 } },
+        { "text": "To know He hasn't actually turned His face from me.", "weights": { "psalm-22": 3 } },
+        { "text": "To feel near to Him the way I used to.", "weights": { "psalm-42": 3 } },
+        { "text": "For Him to simply hear me in the dark.", "weights": { "psalm-88": 3 } }
+      ]
+    },
+    {
+      "text": "When you pray right now, how does it usually go?",
+      "options": [
+        { "text": "I beg Him to hurry, then remind myself He loves me.", "weights": { "psalm-13": 3 } },
+        { "text": "I cry out and feel like the words hit the ceiling.", "weights": { "psalm-22": 3 } },
+        { "text": "I tell my own soul to put its hope in God again.", "weights": { "psalm-42": 3 } },
+        { "text": "I pray into the silence and hope He's still there.", "weights": { "psalm-88": 3 } }
+      ]
+    },
+    {
+      "text": "Which honest thought feels closest to home?",
+      "options": [
+        { "text": "I'm so tired of this season dragging on.", "weights": { "psalm-13": 3 } },
+        { "text": "I feel forsaken, like a cry no one answers.", "weights": { "psalm-22": 3 } },
+        { "text": "My tears have been my food day and night.", "weights": { "psalm-42": 3 } },
+        { "text": "The darkness has become my closest friend.", "weights": { "psalm-88": 3 } }
+      ]
+    },
+    {
+      "text": "Where is your faith in the middle of this?",
+      "options": [
+        { "text": "Worn thin, but I still choose to trust His love.", "weights": { "psalm-13": 3 } },
+        { "text": "Clinging on, even while I feel utterly alone.", "weights": { "psalm-22": 2, "psalm-88": 1 } },
+        { "text": "Longing for Him, telling my heart to hope anyway.", "weights": { "psalm-42": 3 } },
+        { "text": "Barely flickering, but still turned toward Him.", "weights": { "psalm-88": 3 } }
+      ]
+    },
+    {
+      "text": "What's the question you keep asking heaven?",
+      "options": [
+        { "text": "How long will You forget me?", "weights": { "psalm-13": 3 } },
+        { "text": "My God, why have You forsaken me?", "weights": { "psalm-22": 3 } },
+        { "text": "Why must I go about mourning?", "weights": { "psalm-42": 3 } },
+        { "text": "Why, Lord, do You hide Your face from me?", "weights": { "psalm-88": 3 } }
+      ]
+    },
+    {
+      "text": "If you could whisper one raw, honest thing to God, it would be...",
+      "options": [
+        { "text": "Please move soon. I'm exhausted from waiting.", "weights": { "psalm-13": 3 } },
+        { "text": "Don't be far from me. I feel so alone.", "weights": { "psalm-22": 3 } },
+        { "text": "I miss You. I want to feel You near again.", "weights": { "psalm-42": 3 } },
+        { "text": "Don't make me carry this dark alone.", "weights": { "psalm-88": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "psalm-13": {
+      "name": "Psalm 13 (How Long, O Lord?)",
+      "emoji": "⏳",
+      "traits": ["Weary", "Waiting", "Trusting"],
+      "description": "You're worn down by the waiting, and the question on repeat is how long. Psalm 13 lives in that exact place, asking God four times how long He'll seem to forget. But watch what it does. It moves, slowly, from raw complaint to a stubborn I will trust in your unfailing love. You don't have to skip the ache to get there. This prayer lets you hold the how long and the I still trust You in the very same breath, and that's a faith worth having.",
+      "scripture": { "text": "How long, Lord? Will you forget me forever?... But I trust in your unfailing love.", "reference": "Psalm 13:1,5" }
+    },
+    "psalm-22": {
+      "name": "Psalm 22 (Why Have You Forsaken Me?)",
+      "emoji": "🩸",
+      "traits": ["Forsaken", "Crying Out", "Held"],
+      "description": "Yours is the prayer of feeling abandoned at your lowest, and Psalm 22 begins with the very cry your heart is making. Here's what makes it sacred: Jesus prayed these exact words from the cross. The God you feel far from has spoken your line Himself, which means He understands this ache from the inside. And the psalm doesn't end in the dark. It turns toward praise and trust, line by line. You're not alone in this cry. The One who prayed it first is right here with you.",
+      "scripture": { "text": "My God, my God, why have you forsaken me?... Yet you are enthroned as the Holy One.", "reference": "Psalm 22:1,3" }
+    },
+    "psalm-42": {
+      "name": "Psalm 42 (Why So Downcast?)",
+      "emoji": "🦌",
+      "traits": ["Longing", "Homesick", "Hopeful"],
+      "description": "Yours is a homesick kind of sorrow, an ache to feel near to God the way you once did. Psalm 42 puts words to it perfectly, comparing your soul to a deer panting for water. The beautiful part is how the psalmist talks straight to his own downcast heart, telling it to put its hope in God before the feeling even returns. You can do that too. You can preach hope to your own soul on the days it can't find any on its own, and slowly, the nearness comes back.",
+      "scripture": { "text": "Why, my soul, are you downcast?... Put your hope in God, for I will yet praise him.", "reference": "Psalm 42:5" }
+    },
+    "psalm-88": {
+      "name": "Psalm 88 (The Darkness Is My Closest Friend)",
+      "emoji": "🌑",
+      "traits": ["Grieving", "Honest", "Still Praying"],
+      "description": "You're in the deepest kind of dark, the kind without a tidy ending yet, and Psalm 88 is the prayer for exactly this. It's the one lament in the whole book that doesn't wrap up with hope. It just ends in the shadows. And that's the gift of it. God put a prayer in the Bible for the nights that don't resolve, which means He isn't asking you to fake light you don't have. You can keep crying out in the dark, and that crying is still real prayer.",
+      "scripture": { "text": "You have put me in the lowest pit, in the darkest depths... I call to you, Lord, every day.", "reference": "Psalm 88:6,9" }
+    }
+  }
+}

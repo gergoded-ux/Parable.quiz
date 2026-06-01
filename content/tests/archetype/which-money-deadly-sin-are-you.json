@@ -1,0 +1,113 @@
+{
+  "slug": "which-money-deadly-sin-are-you",
+  "title": "Which Deadly Sin Is Your Money Tempting You Toward?",
+  "subtitle": "Money rarely tempts everyone the same way. For some it's hoarding, for others it's wanting what others have. Find out which old temptation your wallet is whispering, so you can name it and fight it.",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 5,
+  "mode": "archetype",
+  "questions": [
+    {
+      "text": "A surprise sum lands in your account. What's your gut reaction?",
+      "options": [
+        { "text": "Lock it away. I can never quite have enough saved.", "weights": { "greed": 3 } },
+        { "text": "Finally I can get what so-and-so already has.", "weights": { "envy": 3 } },
+        { "text": "Now I can show people I've made it.", "weights": { "pride": 3 } },
+        { "text": "Treat myself. I deserve to indulge a little.", "weights": { "gluttony-excess": 3 } }
+      ]
+    },
+    {
+      "text": "Which money thought sneaks up on you most often?",
+      "options": [
+        { "text": "\"Hold on tighter. You might need it all someday.\"", "weights": { "greed": 3 } },
+        { "text": "\"Why do they get to have that and I don't?\"", "weights": { "envy": 3 } },
+        { "text": "\"Look at what I've built. I did that.\"", "weights": { "pride": 3 } },
+        { "text": "\"One more won't hurt. Go ahead.\"", "weights": { "gluttony-excess": 3 } }
+      ]
+    },
+    {
+      "text": "Giving money away feels like...",
+      "options": [
+        { "text": "A loss. I'd rather keep and accumulate.", "weights": { "greed": 3 } },
+        { "text": "Fine, unless it means someone else gets ahead of me.", "weights": { "envy": 2, "pride": 1 } },
+        { "text": "Good, especially when others see me do it.", "weights": { "pride": 3 } },
+        { "text": "Not really my instinct. I'd rather spend it on enjoying life.", "weights": { "gluttony-excess": 3 } }
+      ]
+    },
+    {
+      "text": "You see a friend's new house or car online. What rises up?",
+      "options": [
+        { "text": "A mental note that I should be saving even harder.", "weights": { "greed": 3 } },
+        { "text": "A sharp sting. I want what they have.", "weights": { "envy": 3 } },
+        { "text": "A quiet need to one-up them somehow.", "weights": { "pride": 3 } },
+        { "text": "An urge to go buy something nice for myself too.", "weights": { "gluttony-excess": 3 } }
+      ]
+    },
+    {
+      "text": "What does your spending or saving secretly promise you?",
+      "options": [
+        { "text": "Total security, if I just keep enough in reserve.", "weights": { "greed": 3 } },
+        { "text": "That one day I'll finally have what others have.", "weights": { "envy": 3 } },
+        { "text": "Status. Proof to the world that I matter.", "weights": { "pride": 3 } },
+        { "text": "Comfort and pleasure whenever I want it.", "weights": { "gluttony-excess": 3 } }
+      ]
+    },
+    {
+      "text": "Where do you most easily overdo it?",
+      "options": [
+        { "text": "Hoarding. I struggle to ever feel I have enough.", "weights": { "greed": 3 } },
+        { "text": "Resenting. I keep score of who has more than me.", "weights": { "envy": 3 } },
+        { "text": "Flaunting. I like people to see what I can afford.", "weights": { "pride": 3 } },
+        { "text": "Indulging. I buy and consume well past what I need.", "weights": { "gluttony-excess": 3 } }
+      ]
+    },
+    {
+      "text": "When money is tight, what's your worst reaction?",
+      "options": [
+        { "text": "I clutch every dollar and grow anxious and stingy.", "weights": { "greed": 3 } },
+        { "text": "I get bitter watching others spend freely.", "weights": { "envy": 3 } },
+        { "text": "I hide it and keep up appearances anyway.", "weights": { "pride": 3 } },
+        { "text": "I still indulge to feel better, even when I shouldn't.", "weights": { "gluttony-excess": 3 } }
+      ]
+    },
+    {
+      "text": "Which honest confession lands closest to home?",
+      "options": [
+        { "text": "\"I love the feeling of more, and it's never enough.\"", "weights": { "greed": 3 } },
+        { "text": "\"I compare my finances to others way too much.\"", "weights": { "envy": 3 } },
+        { "text": "\"My possessions have become how I prove my worth.\"", "weights": { "pride": 3 } },
+        { "text": "\"I use spending and treats to soothe myself.\"", "weights": { "gluttony-excess": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "greed": {
+      "name": "Greed",
+      "emoji": "🪙",
+      "traits": ["Hoarding", "Anxious", "Never Satisfied"],
+      "description": "Money tempts you to grab and hold, to build a wall of savings high enough to finally feel safe. But the wall never gets high enough, does it? That's the trap of greed, it promises security and delivers a hunger that won't quit. Jesus warned about exactly this, because more possessions were never going to be where life is found. Your safety was never meant to sit in a bank balance. Loosen your grip on purpose, give some away, and watch a peace settle in that hoarding could never buy.",
+      "scripture": { "text": "Watch out! Be on your guard against all kinds of greed; life does not consist in an abundance of possessions.", "reference": "Luke 12:15" }
+    },
+    "envy": {
+      "name": "Envy",
+      "emoji": "👀",
+      "traits": ["Comparing", "Restless", "Resentful"],
+      "description": "Your money struggle is really about everyone else's money. You keep score, you feel the sting when someone gets the thing you wanted, and contentment slips away the moment you start comparing. Envy is a thief, it robs you of the good you already have by fixing your eyes on someone else's. The cure isn't getting more, it's gratitude. Start naming what God has actually given you, and the grip of comparison begins to loosen. Their blessing was never your loss.",
+      "scripture": { "text": "A heart at peace gives life to the body, but envy rots the bones.", "reference": "Proverbs 14:30" }
+    },
+    "pride": {
+      "name": "Pride",
+      "emoji": "👑",
+      "traits": ["Status-Driven", "Proving", "Image-Conscious"],
+      "description": "For you, money is about standing, proof to the world that you matter and that you've made it. The temptation is to let what you own become how you measure your worth, and to need others to see it. But status built on possessions is a fragile throne, and it leaves you forever performing. Your value was settled long before any purchase, and it isn't for sale. Let God be the one whose approval you live for, and you can hold your money with open hands instead of using it to keep score.",
+      "scripture": { "text": "Pride goes before destruction, a haughty spirit before a fall.", "reference": "Proverbs 16:18" }
+    },
+    "gluttony-excess": {
+      "name": "Gluttony and Excess",
+      "emoji": "🍷",
+      "traits": ["Indulgent", "Soothing", "Excessive"],
+      "description": "Money tempts you toward more of everything, the treat, the upgrade, the comfort, the one more that quietly becomes too much. Often it's not really about the thing at all. It's about soothing something underneath. The problem is that indulgence keeps asking for the next hit and never truly fills you. There's a deeper satisfaction available, the kind that doesn't leave you empty afterward. Bring the real ache to God instead of to the next purchase, and let Him satisfy what no amount of excess ever could.",
+      "scripture": { "text": "Do not join those who drink too much wine or gorge themselves on meat.", "reference": "Proverbs 23:20" }
+    }
+  }
+}

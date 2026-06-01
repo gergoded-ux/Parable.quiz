@@ -1,0 +1,120 @@
+{
+  "slug": "is-your-marriage-a-roommate-marriage",
+  "title": "Is Your Marriage Becoming a Roommate Marriage?",
+  "subtitle": "Two people can share a roof, a calendar, even a bed, and still feel miles apart. This is a gentle, honest read on where you really are.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "deeply-connected",
+    "drifting-quietly",
+    "roommate-zone",
+    "rebuilding"
+  ],
+  "questions": [
+    {
+      "text": "When you talk these days, what's it usually about?",
+      "options": [
+        { "text": "Everything. We still go deep and laugh a lot.", "weights": { "deeply-connected": 3 } },
+        { "text": "Mostly the surface, though we used to go deeper.", "weights": { "drifting-quietly": 3 } },
+        { "text": "Logistics. Schedules, bills, kids, the to-do list.", "weights": { "roommate-zone": 3 } },
+        { "text": "We're slowly learning to really talk again.", "weights": { "rebuilding": 3 } }
+      ]
+    },
+    {
+      "text": "How does it feel when it's just the two of you, no distractions?",
+      "options": [
+        { "text": "Easy and warm. I still love that time.", "weights": { "deeply-connected": 3 } },
+        { "text": "A little awkward lately, like we're out of practice.", "weights": { "drifting-quietly": 3 } },
+        { "text": "Honestly quiet. We tend to reach for our phones.", "weights": { "roommate-zone": 3 } },
+        { "text": "Tender and intentional. We're choosing each other again.", "weights": { "rebuilding": 3 } }
+      ]
+    },
+    {
+      "text": "When something good or hard happens, who do you want to tell first?",
+      "options": [
+        { "text": "My spouse, always, without thinking about it.", "weights": { "deeply-connected": 3 } },
+        { "text": "Usually them, though sometimes I forget to share it.", "weights": { "drifting-quietly": 3 } },
+        { "text": "Often a friend, before it even crosses my mind to tell them.", "weights": { "roommate-zone": 3 } },
+        { "text": "I'm working on turning toward them first again.", "weights": { "rebuilding": 3 } }
+      ]
+    },
+    {
+      "text": "How would you describe physical and emotional closeness lately?",
+      "options": [
+        { "text": "Alive and steady. We stay connected on both.", "weights": { "deeply-connected": 3 } },
+        { "text": "Cooler than it was, like something quietly faded.", "weights": { "drifting-quietly": 3 } },
+        { "text": "Mostly absent. We coexist more than we connect.", "weights": { "roommate-zone": 3 } },
+        { "text": "Coming back to life, little by little.", "weights": { "rebuilding": 3 } }
+      ]
+    },
+    {
+      "text": "When you picture your life together a year from now, you feel...",
+      "options": [
+        { "text": "Excited. I genuinely look forward to it with them.", "weights": { "deeply-connected": 3 } },
+        { "text": "A bit uneasy if nothing changes.", "weights": { "drifting-quietly": 3 } },
+        { "text": "Resigned, like we'll just keep running parallel lives.", "weights": { "roommate-zone": 3 } },
+        { "text": "Hopeful. We're already turning things around.", "weights": { "rebuilding": 3 } }
+      ]
+    },
+    {
+      "text": "How often do you genuinely laugh together?",
+      "options": [
+        { "text": "All the time. They still crack me up.", "weights": { "deeply-connected": 3 } },
+        { "text": "Less than we used to, and I miss it.", "weights": { "drifting-quietly": 3 } },
+        { "text": "Rarely. We're more like polite coworkers now.", "weights": { "roommate-zone": 3 } },
+        { "text": "It's returning. We're finding our humor again.", "weights": { "rebuilding": 3 } }
+      ]
+    },
+    {
+      "text": "What happens after a disagreement?",
+      "options": [
+        { "text": "We work it through and come back closer.", "weights": { "deeply-connected": 3 } },
+        { "text": "We move on without really resolving it.", "weights": { "drifting-quietly": 3 } },
+        { "text": "We just go quiet and avoid each other for a while.", "weights": { "roommate-zone": 3 } },
+        { "text": "We're learning to repair instead of retreat.", "weights": { "rebuilding": 3 } }
+      ]
+    },
+    {
+      "text": "Do you still feel like a team with a shared life?",
+      "options": [
+        { "text": "Completely. We're partners in this.", "weights": { "deeply-connected": 3 } },
+        { "text": "Somewhat, though we feel more separate than before.", "weights": { "drifting-quietly": 3 } },
+        { "text": "Not really. We're two people managing one household.", "weights": { "roommate-zone": 3 } },
+        { "text": "We're rebuilding that sense of us on purpose.", "weights": { "rebuilding": 3 } }
+      ]
+    },
+    {
+      "text": "What do you most want for your marriage right now?",
+      "options": [
+        { "text": "To keep nurturing what we already have.", "weights": { "deeply-connected": 3 } },
+        { "text": "To close the gap before it grows any wider.", "weights": { "drifting-quietly": 3 } },
+        { "text": "To feel like more than roommates again.", "weights": { "roommate-zone": 3 } },
+        { "text": "To keep going on the repair we've started.", "weights": { "rebuilding": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "deeply-connected": {
+      "name": "Deeply Connected",
+      "description": "Your marriage is genuinely alive. You still turn toward each other, still laugh, still want to share the good and the hard. In a world where so many couples drift, that closeness is rare and precious, and it didn't happen by accident. You've been tending it. Keep doing that. Connection isn't a finish line you cross once. It's a fire you keep feeding. Stay curious about each other, keep guarding your time together, and don't take this warmth for granted. What you have is worth protecting with everything you've got.",
+      "scripture": { "text": "Two are better than one, because they have a good return for their labor.", "reference": "Ecclesiastes 4:9" }
+    },
+    "drifting-quietly": {
+      "name": "Drifting Quietly",
+      "description": "Nothing is broken, but something has quietly cooled. The deep talks happen less, the laughter has thinned, and there's a small gap where closeness used to be. The good news is that drift is reversible, especially now, while it's still subtle. You don't need a dramatic rescue. You need small, steady turns back toward each other: a real conversation, an unhurried evening, a question you actually want the answer to. Pay attention to this gentle warning. The best time to close the distance is before it becomes a canyon.",
+      "scripture": { "text": "Above all, love each other deeply, because love covers over a multitude of sins.", "reference": "1 Peter 4:8" }
+    },
+    "roommate-zone": {
+      "name": "Roommate Zone",
+      "description": "Right now, life together feels more like managing a shared household than sharing a heart. You handle the logistics, you're polite, but the spark and the real connection have gone quiet. Please hear this gently: that's a sign to act, not a verdict on your marriage. Roommate seasons are common, and many couples have come back from exactly here. It usually starts smaller than you'd think, with one honest conversation and a decision to turn toward each other again. You're not stuck. And you don't have to fix it all in one night.",
+      "scripture": { "text": "Therefore what God has joined together, let no one separate.", "reference": "Mark 10:9" }
+    },
+    "rebuilding": {
+      "name": "Rebuilding",
+      "description": "You're in one of the most hopeful places a marriage can be: you saw the distance, and instead of accepting it, you started reaching back. The closeness is returning, the laughter is finding its way home, and you're choosing each other on purpose again. That takes real courage, and it's beautiful. Keep going, even on the days it feels slow. Rebuilding rarely happens in a straight line. Celebrate the small wins, be patient through the setbacks, and remember you don't have to do this on your own strength. The God who restores is right here in it with you.",
+      "scripture": { "text": "He has sent me to bind up the brokenhearted, to comfort all who mourn.", "reference": "Isaiah 61:1-2" }
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "slug": "who-sees-you-invisible",
+  "title": "Who Sees You When You Feel Invisible?",
+  "subtitle": "When you feel unseen, there's a picture of God meant for exactly this. Let's find the one for you.",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 4,
+  "mode": "archetype",
+  "questions": [
+    {
+      "text": "What does feeling invisible look like for you right now?",
+      "options": [
+        { "text": "Cast aside in some wilderness, sure no one knows where I am.", "weights": { "el-roi-the-god-who-sees": 3 } },
+        { "text": "Sitting on the side of the road while everyone walks past me.", "weights": { "jesus-who-stopped": 3 } },
+        { "text": "Far from home, half hoping someone's still watching for me.", "weights": { "father-watching-the-road": 3 } },
+        { "text": "Wandered off and lost, with no one coming to look.", "weights": { "shepherd-who-searches": 3 } }
+      ]
+    },
+    {
+      "text": "Which ache is closest to yours?",
+      "options": [
+        { "text": "I just need to know God actually sees my situation.", "weights": { "el-roi-the-god-who-sees": 3 } },
+        { "text": "I need someone to stop and notice me in the noise.", "weights": { "jesus-who-stopped": 3 } },
+        { "text": "I need to know I'd still be welcomed back after how I've drifted.", "weights": { "father-watching-the-road": 3 } },
+        { "text": "I need someone to come find me, because I can't find my way.", "weights": { "shepherd-who-searches": 3 } }
+      ]
+    },
+    {
+      "text": "When the loneliness hits, what do you whisper?",
+      "options": [
+        { "text": "Does anyone even see what's happening to me?", "weights": { "el-roi-the-god-who-sees": 3 } },
+        { "text": "Over here. Please, just see me.", "weights": { "jesus-who-stopped": 3 } },
+        { "text": "Would they even want me back?", "weights": { "father-watching-the-road": 3 } },
+        { "text": "Is anyone looking for me at all?", "weights": { "shepherd-who-searches": 3 } }
+      ]
+    },
+    {
+      "text": "How did you end up feeling so unseen?",
+      "options": [
+        { "text": "Someone sent me away, and now I'm out here alone.", "weights": { "el-roi-the-god-who-sees": 3 } },
+        { "text": "The crowd moved on and left me sitting in the dust.", "weights": { "jesus-who-stopped": 2, "el-roi-the-god-who-sees": 1 } },
+        { "text": "I wandered off on my own and I'm ashamed of how far.", "weights": { "father-watching-the-road": 3 } },
+        { "text": "I drifted little by little until I didn't know the way back.", "weights": { "shepherd-who-searches": 3 } }
+      ]
+    },
+    {
+      "text": "What would make you feel truly found?",
+      "options": [
+        { "text": "Hearing God call me by name out here in the empty place.", "weights": { "el-roi-the-god-who-sees": 3 } },
+        { "text": "Jesus stopping in His tracks and asking what I need.", "weights": { "jesus-who-stopped": 3 } },
+        { "text": "Being seen from far off and run toward, not lectured.", "weights": { "father-watching-the-road": 3 } },
+        { "text": "Being lifted up and carried home on someone's shoulders.", "weights": { "shepherd-who-searches": 3 } }
+      ]
+    },
+    {
+      "text": "What's the lie you're most tempted to believe?",
+      "options": [
+        { "text": "I'm invisible to God out here.", "weights": { "el-roi-the-god-who-sees": 3 } },
+        { "text": "I'm not worth stopping for.", "weights": { "jesus-who-stopped": 3 } },
+        { "text": "I've drifted too far to be welcomed home.", "weights": { "father-watching-the-road": 3 } },
+        { "text": "No one would even bother coming after me.", "weights": { "shepherd-who-searches": 3 } }
+      ]
+    },
+    {
+      "text": "When you picture being noticed, you see...",
+      "options": [
+        { "text": "Eyes that see me fully, right where I am.", "weights": { "el-roi-the-god-who-sees": 3 } },
+        { "text": "Someone halting the whole parade for me.", "weights": { "jesus-who-stopped": 3 } },
+        { "text": "A figure on the porch, watching the road for my return.", "weights": { "father-watching-the-road": 3 } },
+        { "text": "Someone climbing out into the rough places to reach me.", "weights": { "shepherd-who-searches": 3 } }
+      ]
+    },
+    {
+      "text": "Deep down, what do you still hope is true?",
+      "options": [
+        { "text": "That there's a God who sees me, even way out here.", "weights": { "el-roi-the-god-who-sees": 3 } },
+        { "text": "That if I cry out loud enough, He'll stop for me.", "weights": { "jesus-who-stopped": 3 } },
+        { "text": "That home has been waiting, with the light still on.", "weights": { "father-watching-the-road": 3 } },
+        { "text": "That I matter enough to be searched for.", "weights": { "shepherd-who-searches": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "el-roi-the-god-who-sees": {
+      "name": "El Roi, the God Who Sees (Hagar)",
+      "emoji": "👁️",
+      "traits": ["Seen", "Named", "Found"],
+      "description": "You need to know God sees you out here, and that's exactly the place where Hagar met Him. Cast out into the wilderness, certain no one noticed, she discovered one of God's most tender names. She called Him El Roi, the God who sees me. That same God is looking right at you in the spot you feel most invisible. You haven't dropped off His radar. You are seen, fully, by name, in the wilderness.",
+      "scripture": { "text": "You are the God who sees me.", "reference": "Genesis 16:13" }
+    },
+    "jesus-who-stopped": {
+      "name": "Jesus Who Stopped (Bartimaeus)",
+      "emoji": "🛑",
+      "traits": ["Heard", "Noticed", "Answered"],
+      "description": "You feel like the one on the side of the road while life rushes past, and Bartimaeus knows that feeling exactly. The crowd told him to be quiet. He shouted louder. And Jesus, in the middle of a moving crowd, stopped. He stood still and called the overlooked man to Himself. That's the Jesus who hears you. He is not too busy or too important to halt everything for the person everyone else walks past. Keep crying out. He stops.",
+      "scripture": { "text": "Jesus stopped and said, \"Call him.\"", "reference": "Mark 10:49" }
+    },
+    "father-watching-the-road": {
+      "name": "The Father Watching the Road",
+      "emoji": "🏡",
+      "traits": ["Awaited", "Welcomed", "Embraced"],
+      "description": "You're worried you've drifted too far to be wanted back, and that's the very fear the prodigal carried home. But look at the father in the story. While the son was still a long way off, the father saw him. He had been watching the road. He didn't wait with crossed arms. He ran, and he threw his arms around him before a word of apology came out. That's how God waits for you. The light is on, the road is watched, and your return is the thing He's hoping for.",
+      "scripture": { "text": "But while he was still a long way off, his father saw him and was filled with compassion for him.", "reference": "Luke 15:20" }
+    },
+    "shepherd-who-searches": {
+      "name": "The Shepherd Who Searches",
+      "emoji": "🐑",
+      "traits": ["Sought", "Carried", "Treasured"],
+      "description": "You feel lost and you're not sure anyone would come looking, and that's exactly the situation Jesus answered with a story. A shepherd leaves the ninety-nine and goes after the one that wandered off. He keeps searching until he finds it, then lifts it onto his shoulders and carries it home, glad the whole way. That's how God comes after you. Being lost has never made you less wanted. He's already out in the rough places, searching, and He doesn't stop until you're found.",
+      "scripture": { "text": "And when he finds it, he joyfully puts it on his shoulders.", "reference": "Luke 15:5" }
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "slug": "how-you-handle-feeling-left-out",
+  "title": "How Do You Handle Feeling Left Out?",
+  "subtitle": "That sting of being on the outside is more common than anyone admits. Let's name your move when it hits, and a gentler way forward.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "withdraw",
+    "overcompensate",
+    "numb-it",
+    "pretend-fine"
+  ],
+  "questions": [
+    {
+      "text": "You see a photo of a gathering you weren't invited to. What's your first move?",
+      "options": [
+        { "text": "I go quiet and pull back from everyone for a while.", "weights": { "withdraw": 3 } },
+        { "text": "I start planning something so I'm not left out next time.", "weights": { "overcompensate": 3 } },
+        { "text": "I grab my phone or a snack and tune the feeling out.", "weights": { "numb-it": 3 } },
+        { "text": "I tell myself it's fine and act totally unbothered.", "weights": { "pretend-fine": 3 } }
+      ]
+    },
+    {
+      "text": "When you feel like an afterthought in a group, you tend to...",
+      "options": [
+        { "text": "Shrink back and stop reaching out first.", "weights": { "withdraw": 3 } },
+        { "text": "Try harder to be useful so they'll want me around.", "weights": { "overcompensate": 3 } },
+        { "text": "Distract myself until the ache fades.", "weights": { "numb-it": 3 } },
+        { "text": "Smile and pretend it doesn't bother me at all.", "weights": { "pretend-fine": 3 } }
+      ]
+    },
+    {
+      "text": "What's the story you tell yourself when you're excluded?",
+      "options": [
+        { "text": "Maybe I'm just better off keeping to myself.", "weights": { "withdraw": 3 } },
+        { "text": "I have to earn my place. I clearly haven't done enough.", "weights": { "overcompensate": 3 } },
+        { "text": "I don't want to think about it, so I won't.", "weights": { "numb-it": 3 } },
+        { "text": "It's not a big deal. I'm completely fine.", "weights": { "pretend-fine": 3 } }
+      ]
+    },
+    {
+      "text": "How do you usually cope when the loneliness gets loud?",
+      "options": [
+        { "text": "I retreat and go silent, sometimes for days.", "weights": { "withdraw": 3 } },
+        { "text": "I overschedule and stay busy so I never sit with it.", "weights": { "overcompensate": 2, "numb-it": 1 } },
+        { "text": "I scroll, snack, or binge something to feel less.", "weights": { "numb-it": 3 } },
+        { "text": "I keep up a happy front and tell no one.", "weights": { "pretend-fine": 3 } }
+      ]
+    },
+    {
+      "text": "If a friend asked how you're really doing after being left out, you'd...",
+      "options": [
+        { "text": "Keep it vague and quietly change the subject.", "weights": { "withdraw": 3 } },
+        { "text": "Pivot to all the things I'm busy doing instead.", "weights": { "overcompensate": 3 } },
+        { "text": "Say I'm good, then go numb out alone later.", "weights": { "numb-it": 3 } },
+        { "text": "Insist I'm great, even though I'm not.", "weights": { "pretend-fine": 3 } }
+      ]
+    },
+    {
+      "text": "What do you fear most about admitting you felt left out?",
+      "options": [
+        { "text": "That getting close again just sets me up to be hurt.", "weights": { "withdraw": 3 } },
+        { "text": "That I'll look like I'm not enough on my own.", "weights": { "overcompensate": 3 } },
+        { "text": "That actually feeling it will be too much to handle.", "weights": { "numb-it": 3 } },
+        { "text": "That people will see I'm not as okay as I seem.", "weights": { "pretend-fine": 3 } }
+      ]
+    },
+    {
+      "text": "When you're hurting, how does it usually show on the outside?",
+      "options": [
+        { "text": "I get distant and hard to reach.", "weights": { "withdraw": 3 } },
+        { "text": "I get extra helpful, extra available, extra agreeable.", "weights": { "overcompensate": 3 } },
+        { "text": "It doesn't show. I check out instead.", "weights": { "numb-it": 3 } },
+        { "text": "I look more cheerful than usual, on purpose.", "weights": { "pretend-fine": 3 } }
+      ]
+    },
+    {
+      "text": "What would actually help you most when you feel on the outside?",
+      "options": [
+        { "text": "Someone gently pulling me back in before I disappear.", "weights": { "withdraw": 3 } },
+        { "text": "Hearing I'm wanted for who I am, not what I do.", "weights": { "overcompensate": 3 } },
+        { "text": "Permission to feel the hurt instead of escaping it.", "weights": { "numb-it": 3 } },
+        { "text": "A safe person I could finally drop the act with.", "weights": { "pretend-fine": 3 } }
+      ]
+    },
+    {
+      "text": "Deep down, what do you most need to know in those moments?",
+      "options": [
+        { "text": "That I'm not actually meant to do life alone.", "weights": { "withdraw": 3 } },
+        { "text": "That I don't have to earn a single seat at the table.", "weights": { "overcompensate": 3 } },
+        { "text": "That my feelings are safe to feel.", "weights": { "numb-it": 3 } },
+        { "text": "That I can be honest and still be loved.", "weights": { "pretend-fine": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "withdraw": {
+      "name": "You Withdraw",
+      "description": "When you feel left out, your instinct is to disappear. You go quiet, stop reaching out, and tell yourself you're better off alone. It's a way of protecting your heart, and it makes sense. But the pulling-back that feels safe in the moment can quietly deepen the very loneliness you're trying to escape. You weren't made to vanish when you're hurting. God designed you for connection, even imperfect connection. The next time you feel that urge to retreat, try staying one inch longer than feels comfortable. Reach out before you fade out.",
+      "scripture": { "text": "The Lord is close to the brokenhearted and saves those who are crushed in spirit.", "reference": "Psalm 34:18" }
+    },
+    "overcompensate": {
+      "name": "You Overcompensate",
+      "description": "When you feel excluded, you go into overdrive: more helpful, more available, working overtime to earn the spot you're afraid you don't deserve. It comes from a tender place, but it's exhausting, and a seat you have to keep buying never feels secure. Here's what your heart needs to hear: you don't have to perform your way into belonging. God didn't choose you for your usefulness. He chose you because He wanted you. You're allowed to show up as yourself, do less, and still be wanted. Let that truth take some weight off your shoulders.",
+      "scripture": { "text": "I have loved you with an everlasting love; I have drawn you with unfailing kindness.", "reference": "Jeremiah 31:3" }
+    },
+    "numb-it": {
+      "name": "You Numb It",
+      "description": "When the sting of being left out hits, you reach for something to dull it: the phone, the snacks, the next episode, anything to feel less. It works for a bit, but numbing the pain also numbs everything else, and the ache just waits for you underneath. You don't have to be afraid of your own feelings. They won't destroy you. God can hold the very emotions you're trying to escape, and bringing Him the raw, unfiltered hurt is its own kind of relief. You're safe to feel it. He's right there in it with you.",
+      "scripture": { "text": "Cast all your anxiety on him because he cares for you.", "reference": "1 Peter 5:7" }
+    },
+    "pretend-fine": {
+      "name": "You Pretend You're Fine",
+      "description": "When you're left out, you paint on the smile and insist you're great, sometimes looking even more cheerful than usual. The mask keeps you from looking weak, but it also keeps you alone with the very thing that's hurting. Pretending is heavy work, and you deserve a place to set it down. You don't have to perform okayness for God. He already sees the real you, and He loves that one, not the polished version. Find one safe person and let the act slip, just a little. Honesty is where real comfort finally gets in.",
+      "scripture": { "text": "Search me, God, and know my heart; test me and know my anxious thoughts.", "reference": "Psalm 139:23" }
+    }
+  }
+}

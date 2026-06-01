@@ -1,0 +1,135 @@
+{
+  "slug": "how-do-you-react-when-plans-fall-apart",
+  "title": "How Do You React When Plans Fall Apart?",
+  "subtitle": "When life goes off-script, the way you scramble says a lot. Let's name your pattern, and the gentler way through.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "frantic-fixer",
+    "shutdown",
+    "spiraler",
+    "quiet-controller",
+    "surrenderer"
+  ],
+  "questions": [
+    {
+      "text": "Your carefully laid plan just collapsed. What's your first move?",
+      "options": [
+        { "text": "Spring into action and try to fix it all at once.", "weights": { "frantic-fixer": 3 } },
+        { "text": "Go quiet and kind of freeze up inside.", "weights": { "shutdown": 3 } },
+        { "text": "My mind races straight to worst-case scenarios.", "weights": { "spiraler": 3 } },
+        { "text": "Quietly start re-engineering everything behind the scenes.", "weights": { "quiet-controller": 3 } }
+      ]
+    },
+    {
+      "text": "When things go sideways, what does your body do?",
+      "options": [
+        { "text": "Adrenaline kicks in and I can't sit still.", "weights": { "frantic-fixer": 3 } },
+        { "text": "I shut down and feel kind of numb.", "weights": { "shutdown": 3 } },
+        { "text": "My chest tightens and my thoughts won't stop.", "weights": { "spiraler": 3 } },
+        { "text": "I get tense but keep a calm face while I plot the fix.", "weights": { "quiet-controller": 3 } }
+      ]
+    },
+    {
+      "text": "What's the thought running on a loop when chaos hits?",
+      "options": [
+        { "text": "Do something, anything, just fix it.", "weights": { "frantic-fixer": 3 } },
+        { "text": "I can't deal with this right now.", "weights": { "shutdown": 3 } },
+        { "text": "What if this ruins everything?", "weights": { "spiraler": 3 } },
+        { "text": "If I'd just controlled this better, it wouldn't have happened.", "weights": { "quiet-controller": 2, "spiraler": 1 } }
+      ]
+    },
+    {
+      "text": "How do the people around you experience you in a crisis?",
+      "options": [
+        { "text": "A whirlwind, doing ten things at once.", "weights": { "frantic-fixer": 3 } },
+        { "text": "Withdrawn, like I've checked out.", "weights": { "shutdown": 3 } },
+        { "text": "Anxious and full of what-ifs.", "weights": { "spiraler": 3 } },
+        { "text": "Calm on the outside, gripping hard on the inside.", "weights": { "quiet-controller": 3 } }
+      ]
+    },
+    {
+      "text": "Underneath your reaction, what's the real fear?",
+      "options": [
+        { "text": "That if I stop moving, it'll all fall apart.", "weights": { "frantic-fixer": 3 } },
+        { "text": "That I'm not equipped to handle this.", "weights": { "shutdown": 3 } },
+        { "text": "That the worst thing really is about to happen.", "weights": { "spiraler": 3 } },
+        { "text": "That without my grip, everything spins out.", "weights": { "quiet-controller": 3 } }
+      ]
+    },
+    {
+      "text": "After the dust settles, how do you feel?",
+      "options": [
+        { "text": "Exhausted from all the scrambling.", "weights": { "frantic-fixer": 3 } },
+        { "text": "Drained and slow to come back online.", "weights": { "shutdown": 3 } },
+        { "text": "Wrung out from the mental spiral.", "weights": { "spiraler": 3 } },
+        { "text": "Relieved I steered it, but quietly worn down.", "weights": { "quiet-controller": 3 } }
+      ]
+    },
+    {
+      "text": "When you read \"trust in the Lord with all your heart,\" your honest reaction is...",
+      "options": [
+        { "text": "I trust Him, but I still feel like I have to do it all.", "weights": { "frantic-fixer": 3 } },
+        { "text": "I want to, but I usually just go numb instead.", "weights": { "shutdown": 3 } },
+        { "text": "I want that peace, but my mind won't slow down.", "weights": { "spiraler": 3 } },
+        { "text": "Trusting feels like letting go of the wheel, and that scares me.", "weights": { "quiet-controller": 3 } }
+      ]
+    },
+    {
+      "text": "What would actually help you most when a plan falls apart?",
+      "options": [
+        { "text": "Permission to pause before I start fixing.", "weights": { "frantic-fixer": 3 } },
+        { "text": "Someone to gently coax me back out of my shell.", "weights": { "shutdown": 3 } },
+        { "text": "A way to take my racing thoughts captive.", "weights": { "spiraler": 3 } },
+        { "text": "The freedom to release what was never mine to control.", "weights": { "quiet-controller": 3 } }
+      ]
+    },
+    {
+      "text": "Which is closest to where you'd love to be?",
+      "options": [
+        { "text": "Calm enough to act wisely instead of frantically.", "weights": { "frantic-fixer": 3 } },
+        { "text": "Able to stay present instead of disappearing.", "weights": { "shutdown": 3 } },
+        { "text": "At peace even when I don't know the outcome.", "weights": { "spiraler": 3 } },
+        { "text": "Resting in God's hands instead of my own grip.", "weights": { "quiet-controller": 2, "surrenderer": 1 } }
+      ]
+    },
+    {
+      "text": "When everything changes, what does your faith sound like at its best?",
+      "options": [
+        { "text": "Lord, slow me down so I don't run ahead of you.", "weights": { "frantic-fixer": 3 } },
+        { "text": "Help me come back to you instead of shutting down.", "weights": { "shutdown": 3 } },
+        { "text": "Quiet my mind. I'm choosing to trust you with the unknown.", "weights": { "spiraler": 3 } },
+        { "text": "This is yours, not mine. I'm letting go.", "weights": { "surrenderer": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "frantic-fixer": {
+      "name": "The Frantic Fixer",
+      "description": "When plans collapse, you don't freeze, you accelerate. You start fixing everything at once, fueled by the fear that if you stop moving, it all falls apart. That energy can be a gift, but it leaves you exhausted and running ahead of God. Your invitation isn't to stop caring. It's to pause first, breathe, and ask Him what actually needs doing. Some of the load you grab was never yours to carry alone.",
+      "scripture": { "text": "Be still, and know that I am God.", "reference": "Psalm 46:10" }
+    },
+    "shutdown": {
+      "name": "The Shutdown",
+      "description": "When life goes off-script, you go quiet and a little numb, almost like you've checked out to protect yourself. There's no shame in that. Freezing is a real response to feeling overwhelmed. But you don't have to face it from inside the fog. God meets you right there and gently calls you back to the present. You're not as alone or as unequipped as the numbness tells you. He's near, and He's patient with how you come back online.",
+      "scripture": { "text": "The Lord himself goes before you and will be with you; he will never leave you nor forsake you. Do not be afraid; do not be discouraged.", "reference": "Deuteronomy 31:8" }
+    },
+    "spiraler": {
+      "name": "The Spiraler",
+      "description": "The moment plans fall apart, your mind takes off toward every worst-case ending. The spiral feels automatic, and it wrings you out. Here's the good news: you're not stuck with whatever thought shows up first. You can take those racing thoughts captive, one at a time, and hand them to God. Peace isn't pretending nothing's wrong. It's trusting Him with the outcome you can't see yet, and letting that quiet your mind.",
+      "scripture": { "text": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.", "reference": "Philippians 4:6" }
+    },
+    "quiet-controller": {
+      "name": "The Quiet Controller",
+      "description": "On the outside you stay composed, but inside you're gripping hard, quietly re-engineering everything so nothing slips. Control feels like safety, especially when life proves how little of it you actually have. But the white-knuckling wears you down, and it crowds out trust. God isn't asking you to be careless. He's inviting you to loosen your grip and discover He's steadier than your plans ever were. You can rest. He's already holding what you're afraid to release.",
+      "scripture": { "text": "Trust in the Lord with all your heart and lean not on your own understanding.", "reference": "Proverbs 3:5" }
+    },
+    "surrenderer": {
+      "name": "The Surrenderer",
+      "description": "When plans unravel, you've learned to do the hardest thing: open your hands and let go. Instead of scrambling or spiraling, you bring it to God and trust Him with the parts you can't see. That doesn't mean you don't feel the disappointment. It means you've found a peace that doesn't depend on everything going your way. Keep leaning there. The surrender you've practiced is a steady place, and it will hold you next time the script changes.",
+      "scripture": { "text": "Cast all your anxiety on him because he cares for you.", "reference": "1 Peter 5:7" }
+    }
+  }
+}

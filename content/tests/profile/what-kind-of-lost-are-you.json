@@ -1,0 +1,129 @@
+{
+  "slug": "what-kind-of-lost-are-you",
+  "title": "What Kind of Lost Are You?",
+  "subtitle": "\"I feel lost\" can mean a lot of things. Let's find out which one you're actually carrying, and what would help.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "spiritually-lost",
+    "directionally-lost",
+    "identity-lost",
+    "resting-not-lost"
+  ],
+  "questions": [
+    {
+      "text": "When you say you feel lost, what's closest to the truth?",
+      "options": [
+        { "text": "God feels far, and I'm not sure where He went.", "weights": { "spiritually-lost": 3 } },
+        { "text": "I don't know what I'm supposed to be doing with my life.", "weights": { "directionally-lost": 3 } },
+        { "text": "I don't really know who I am anymore.", "weights": { "identity-lost": 3 } },
+        { "text": "Honestly, I'm okay. Just slower than usual.", "weights": { "resting-not-lost": 3 } }
+      ]
+    },
+    {
+      "text": "What keeps you up at night lately?",
+      "options": [
+        { "text": "Wondering if my faith is even real right now.", "weights": { "spiritually-lost": 3 } },
+        { "text": "The next step. The decision I can't seem to make.", "weights": { "directionally-lost": 3 } },
+        { "text": "Who I became without noticing, and whether I like her.", "weights": { "identity-lost": 2, "spiritually-lost": 1 } },
+        { "text": "Not much. I sleep fine. I'm in a quiet stretch.", "weights": { "resting-not-lost": 3 } }
+      ]
+    },
+    {
+      "text": "Which sentence sounds the most like you?",
+      "options": [
+        { "text": "\"I used to feel close to God. Now there's just static.\"", "weights": { "spiritually-lost": 3 } },
+        { "text": "\"Everyone seems to have a plan except me.\"", "weights": { "directionally-lost": 3 } },
+        { "text": "\"I've played so many roles I forgot the real me.\"", "weights": { "identity-lost": 3 } },
+        { "text": "\"I'm not behind. I'm just resting for a bit.\"", "weights": { "resting-not-lost": 3 } }
+      ]
+    },
+    {
+      "text": "What would feel like a relief right now?",
+      "options": [
+        { "text": "Sensing God again, even a little.", "weights": { "spiritually-lost": 3 } },
+        { "text": "One clear direction to walk in.", "weights": { "directionally-lost": 3 } },
+        { "text": "Remembering what I actually love and want.", "weights": { "identity-lost": 3 } },
+        { "text": "Permission to keep things slow without guilt.", "weights": { "resting-not-lost": 3 } }
+      ]
+    },
+    {
+      "text": "When something good happens to a friend, you feel...",
+      "options": [
+        { "text": "Distant, like even good news can't quite reach me.", "weights": { "spiritually-lost": 2, "identity-lost": 1 } },
+        { "text": "A pang. They're moving and I'm standing still.", "weights": { "directionally-lost": 3 } },
+        { "text": "Unsure who I'd even be if that were my life.", "weights": { "identity-lost": 3 } },
+        { "text": "Genuinely happy. My turn isn't the point right now.", "weights": { "resting-not-lost": 3 } }
+      ]
+    },
+    {
+      "text": "How's your prayer life these days?",
+      "options": [
+        { "text": "Quiet. The words feel like they hit the ceiling.", "weights": { "spiritually-lost": 3 } },
+        { "text": "Mostly me asking God where to go from here.", "weights": { "directionally-lost": 3 } },
+        { "text": "I don't even know what to ask for myself.", "weights": { "identity-lost": 3 } },
+        { "text": "Calm and steady. Less asking, more sitting with Him.", "weights": { "resting-not-lost": 3 } }
+      ]
+    },
+    {
+      "text": "What's your gut reaction to the word \"lost\"?",
+      "options": [
+        { "text": "Spiritually adrift. Like I wandered off the path.", "weights": { "spiritually-lost": 3 } },
+        { "text": "No map. I can't tell which way is forward.", "weights": { "directionally-lost": 3 } },
+        { "text": "Like I misplaced myself somewhere along the way.", "weights": { "identity-lost": 3 } },
+        { "text": "It doesn't fit. I'm not lost, just paused.", "weights": { "resting-not-lost": 3 } }
+      ]
+    },
+    {
+      "text": "What do you most want to hear right now?",
+      "options": [
+        { "text": "\"I never left. You're not as far as you feel.\"", "weights": { "spiritually-lost": 3 } },
+        { "text": "\"This is the way. Walk in it.\"", "weights": { "directionally-lost": 3 } },
+        { "text": "\"I know exactly who you are, even when you forget.\"", "weights": { "identity-lost": 3 } },
+        { "text": "\"You can rest. Nothing is falling apart.\"", "weights": { "resting-not-lost": 3 } }
+      ]
+    },
+    {
+      "text": "If you traced the lost feeling to a root, it's mostly about...",
+      "options": [
+        { "text": "Distance from God.", "weights": { "spiritually-lost": 3 } },
+        { "text": "Not knowing where to go.", "weights": { "directionally-lost": 3 } },
+        { "text": "Not knowing who I am.", "weights": { "identity-lost": 3 } },
+        { "text": "Nothing's wrong. I'm just still.", "weights": { "resting-not-lost": 3 } }
+      ]
+    },
+    {
+      "text": "Be honest: how lost are you, really?",
+      "options": [
+        { "text": "Spiritually, pretty far off the trail.", "weights": { "spiritually-lost": 3 } },
+        { "text": "I know who I am, I just can't find the door.", "weights": { "directionally-lost": 3 } },
+        { "text": "I'd know the door if I remembered who I was.", "weights": { "identity-lost": 3 } },
+        { "text": "Not lost at all, now that you ask.", "weights": { "resting-not-lost": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "spiritually-lost": {
+      "name": "Spiritually Lost",
+      "description": "The lost feeling you're carrying is really about distance from God. He used to feel close, and now there's mostly silence, and you're half afraid you wandered too far to find your way back. Here's the thing about being lost in God's economy: He doesn't wait at the path for you to find your own way home. He comes looking. The shepherd leaves the ninety-nine and goes after the one. You are the one He goes after, and being hard to find has never once stopped Him.",
+      "scripture": { "text": "I will search for the lost and bring back the strays.", "reference": "Ezekiel 34:16" }
+    },
+    "directionally-lost": {
+      "name": "Directionally Lost",
+      "description": "You're not far from God and you haven't lost yourself. You just can't see the next step, and watching everyone else march forward with a plan makes the fog feel worse. Take a breath. You don't need the whole map handed to you at once. God tends to give light for the next step, not floodlights for the next decade. Ask Him for that one step, take it, and trust that the path keeps showing up as you walk. He has promised to lead you, and He means it.",
+      "scripture": { "text": "Your word is a lamp for my feet, a light on my path.", "reference": "Psalm 119:105" }
+    },
+    "identity-lost": {
+      "name": "Identity Lost",
+      "description": "Somewhere between the roles and the seasons, you lost track of yourself, and now you're not sure which version is the real one. That's a disorienting place to be. But you were not assembled out of other people's expectations. You were made on purpose, known before you took a breath, named by the One who doesn't forget who He made. You haven't disappeared. You're still in there, and the way back to yourself starts with the One who has known you all along.",
+      "scripture": { "text": "Before I formed you in the womb I knew you.", "reference": "Jeremiah 1:5" }
+    },
+    "resting-not-lost": {
+      "name": "Just Resting and Not Lost At All",
+      "description": "Good news: you're not actually lost. You're in a quiet stretch, and the panic everyone else feels about slowing down just isn't yours right now. That's not laziness or drifting. That's rest, and rest is something God built into the rhythm of a good life on purpose. Don't let comparison talk you out of a season your soul clearly needs. Stay here as long as He keeps you here. Stillness can be its own kind of obedience.",
+      "scripture": { "text": "He makes me lie down in green pastures, he leads me beside quiet waters.", "reference": "Psalm 23:2" }
+    }
+  }
+}

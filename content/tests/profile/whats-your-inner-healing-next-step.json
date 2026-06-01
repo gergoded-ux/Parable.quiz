@@ -1,0 +1,135 @@
+{
+  "slug": "whats-your-inner-healing-next-step",
+  "title": "What's Your Inner-Healing Next Step?",
+  "subtitle": "You don't have to fix everything at once. Let's find the one next move that fits exactly where you are.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "name-the-wound",
+    "grieve-and-lament",
+    "forgive",
+    "replace-the-lie",
+    "invite-god-in"
+  ],
+  "questions": [
+    {
+      "text": "When you think about what you're carrying, what's most true right now?",
+      "options": [
+        { "text": "I can feel something's wrong, but I can't put words to it.", "weights": { "name-the-wound": 3 } },
+        { "text": "I know the hurt, I just haven't let myself feel it.", "weights": { "grieve-and-lament": 3 } },
+        { "text": "There's a person tied to all of this I haven't released.", "weights": { "forgive": 3 } },
+        { "text": "I've believed a lie about myself for a long time.", "weights": { "replace-the-lie": 3 } }
+      ]
+    },
+    {
+      "text": "Which sentence sounds the most like you?",
+      "options": [
+        { "text": "I keep reacting in ways I don't fully understand.", "weights": { "name-the-wound": 3 } },
+        { "text": "I've stayed busy so I wouldn't have to cry about it.", "weights": { "grieve-and-lament": 3 } },
+        { "text": "I replay what they did and it still has a grip on me.", "weights": { "forgive": 3 } },
+        { "text": "There's a memory I've never let God anywhere near.", "weights": { "invite-god-in": 3 } }
+      ]
+    },
+    {
+      "text": "What happens when the pain comes up?",
+      "options": [
+        { "text": "I get confused about why it hits me so hard.", "weights": { "name-the-wound": 3 } },
+        { "text": "I push it down and keep moving.", "weights": { "grieve-and-lament": 3 } },
+        { "text": "I feel the resentment flare all over again.", "weights": { "forgive": 3 } },
+        { "text": "I hear the same old lie loud and clear.", "weights": { "replace-the-lie": 3 } }
+      ]
+    },
+    {
+      "text": "If a wise friend asked, \"What do you most need?\" you'd say...",
+      "options": [
+        { "text": "Help me figure out what actually happened to me.", "weights": { "name-the-wound": 3 } },
+        { "text": "Permission to finally grieve what I lost.", "weights": { "grieve-and-lament": 3 } },
+        { "text": "A way to let go of someone who hurt me.", "weights": { "forgive": 3 } },
+        { "text": "A new truth to believe instead of the old lie.", "weights": { "replace-the-lie": 3 } }
+      ]
+    },
+    {
+      "text": "Which feels like the locked door in your healing?",
+      "options": [
+        { "text": "I haven't named the wound, so it stays foggy.", "weights": { "name-the-wound": 3 } },
+        { "text": "I've never really let the sadness out.", "weights": { "grieve-and-lament": 3 } },
+        { "text": "I can't move forward while I'm still holding the offense.", "weights": { "forgive": 3 } },
+        { "text": "There's a moment I've kept God out of for years.", "weights": { "invite-god-in": 3 } }
+      ]
+    },
+    {
+      "text": "When you pray about this, what tends to happen?",
+      "options": [
+        { "text": "I don't even know what to ask for yet.", "weights": { "name-the-wound": 3 } },
+        { "text": "I keep it polite and never say how much it hurts.", "weights": { "grieve-and-lament": 2, "invite-god-in": 1 } },
+        { "text": "A name or a face comes up that I'd rather avoid.", "weights": { "forgive": 3 } },
+        { "text": "The old accusing thought drowns everything else out.", "weights": { "replace-the-lie": 3 } }
+      ]
+    },
+    {
+      "text": "Which old belief still steers you more than you'd like?",
+      "options": [
+        { "text": "I'm not sure what I believe. It's all tangled.", "weights": { "name-the-wound": 3 } },
+        { "text": "If I let myself feel it, I'll fall apart.", "weights": { "grieve-and-lament": 3 } },
+        { "text": "If I forgive, it means what they did was okay.", "weights": { "forgive": 3 } },
+        { "text": "It must have been my fault somehow.", "weights": { "replace-the-lie": 2, "invite-god-in": 1 } }
+      ]
+    },
+    {
+      "text": "What would feel like real progress to you?",
+      "options": [
+        { "text": "Finally understanding what I've been carrying.", "weights": { "name-the-wound": 3 } },
+        { "text": "Letting the tears come without shame.", "weights": { "grieve-and-lament": 3 } },
+        { "text": "Setting down a grudge that's worn me out.", "weights": { "forgive": 3 } },
+        { "text": "Hearing God's voice in a memory that's always hurt.", "weights": { "invite-god-in": 3 } }
+      ]
+    },
+    {
+      "text": "Be honest about where God fits in your pain right now.",
+      "options": [
+        { "text": "I want His help naming what's really going on.", "weights": { "name-the-wound": 3 } },
+        { "text": "I need to know He can handle my honest grief.", "weights": { "grieve-and-lament": 3 } },
+        { "text": "I need His strength to forgive what I can't on my own.", "weights": { "forgive": 3 } },
+        { "text": "I'm ready to let Him into the place I've kept locked.", "weights": { "invite-god-in": 3 } }
+      ]
+    },
+    {
+      "text": "What truth do you most need to hold onto today?",
+      "options": [
+        { "text": "God is near to the broken, even when I can't name the break.", "weights": { "name-the-wound": 3 } },
+        { "text": "He keeps every tear. My grief is safe with Him.", "weights": { "grieve-and-lament": 3 } },
+        { "text": "Forgiveness sets me free, not just the other person.", "weights": { "forgive": 3 } },
+        { "text": "His truth about me is stronger than the lie.", "weights": { "replace-the-lie": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "name-the-wound": {
+      "name": "Name the Wound",
+      "description": "You can feel that something hurts, but it's still foggy, and that's exactly why naming it is your next step. You can't heal a wound you won't look at. Ask God to help you put words to what actually happened, gently and without rushing. Naming it isn't dwelling on the past. It's the first honest move toward letting Him touch it. He already sees the whole thing, and He's not afraid of what you'll find.",
+      "scripture": { "text": "The Lord is close to the brokenhearted and saves those who are crushed in spirit.", "reference": "Psalm 34:18" }
+    },
+    "grieve-and-lament": {
+      "name": "Grieve and Lament It",
+      "description": "You know where the hurt lives, but you've kept moving so you wouldn't have to feel it. Your next step is to let the grief out. God isn't asking you to be strong and silent. The whole book of Psalms is full of people crying out their pain to Him, and He welcomed every word. You won't fall apart if you let yourself mourn. He's holding you, and He keeps every tear you cry.",
+      "scripture": { "text": "Record my misery; list my tears on your scroll. Are they not in your record?", "reference": "Psalm 56:8" }
+    },
+    "forgive": {
+      "name": "Forgive the One Who Caused It",
+      "description": "There's a person woven through this pain, and as long as you're holding the offense, the wound stays open. Your next step is forgiveness, and here's the part worth hearing: forgiving doesn't mean what they did was okay, and it doesn't always mean reconciling. It means handing them over to God so the resentment stops draining you. You don't have to do it perfectly or all at once. Ask Him for the strength, and start.",
+      "scripture": { "text": "Bear with each other and forgive one another if any of you has a grievance against someone. Forgive as the Lord forgave you.", "reference": "Colossians 3:13" }
+    },
+    "replace-the-lie": {
+      "name": "Replace the Lie With Truth",
+      "description": "A lie has been running quietly underneath your reactions, telling you you're not enough, or it was your fault, or you're too much. Your next step is to trade it for the truth. When the old accusation speaks, answer it out loud with what God actually says about you. This isn't pretending. It's letting the deeper, truer voice win the argument. Repeat it until it sinks past your head and into your heart.",
+      "scripture": { "text": "Then you will know the truth, and the truth will set you free.", "reference": "John 8:32" }
+    },
+    "invite-god-in": {
+      "name": "Invite God Into the Memory",
+      "description": "There's a moment from your past you've kept sealed off, a place you've never let God anywhere near. Your next step is to open the door and ask Him in. He was already there when it happened, even if you couldn't feel Him. Picture handing Him that memory and asking what He wants you to know. He doesn't barge in. He waits to be invited, and He brings His presence into the very place that still aches.",
+      "scripture": { "text": "Even though I walk through the darkest valley, I will fear no evil, for you are with me.", "reference": "Psalm 23:4" }
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "slug": "whats-keeping-you-from-forgiving-them",
+  "title": "What's Keeping You From Forgiving Them?",
+  "subtitle": "You want to forgive, but something keeps jamming the lock. Let's find out what it actually is.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "wound-still-bleeding",
+    "forgiving-with-excusing",
+    "fear-letting-them-off",
+    "forgiven-trust-gone"
+  ],
+  "questions": [
+    {
+      "text": "When you think about forgiving this person, what stops you first?",
+      "options": [
+        { "text": "It still hurts too much. The wound is fresh.", "weights": { "wound-still-bleeding": 3 } },
+        { "text": "Forgiving feels like saying what they did was fine.", "weights": { "forgiving-with-excusing": 3 } },
+        { "text": "They'd basically get away with it, and that's not right.", "weights": { "fear-letting-them-off": 3 } },
+        { "text": "Honestly, I think I have forgiven. I just can't trust them.", "weights": { "forgiven-trust-gone": 3 } }
+      ]
+    },
+    {
+      "text": "What does the thought of letting it go stir up in you?",
+      "options": [
+        { "text": "Raw pain, like pressing on a fresh bruise.", "weights": { "wound-still-bleeding": 3 } },
+        { "text": "Resistance, because it feels like excusing the harm.", "weights": { "forgiving-with-excusing": 3 } },
+        { "text": "A sense of injustice. They never paid for it.", "weights": { "fear-letting-them-off": 3 } },
+        { "text": "Peace about them, but caution about ever getting close.", "weights": { "forgiven-trust-gone": 3 } }
+      ]
+    },
+    {
+      "text": "Which sentence sounds the most like you?",
+      "options": [
+        { "text": "\"I'm not ready. It's still bleeding.\"", "weights": { "wound-still-bleeding": 3 } },
+        { "text": "\"Forgiving them feels like excusing them.\"", "weights": { "forgiving-with-excusing": 3 } },
+        { "text": "\"If I forgive, they win and I lose.\"", "weights": { "fear-letting-them-off": 3 } },
+        { "text": "\"I've forgiven them, but trust is another story.\"", "weights": { "forgiven-trust-gone": 3 } }
+      ]
+    },
+    {
+      "text": "What do you secretly believe forgiveness requires?",
+      "options": [
+        { "text": "Feeling okay about it first, which I'm nowhere near.", "weights": { "wound-still-bleeding": 3 } },
+        { "text": "Pretending it wasn't really that bad.", "weights": { "forgiving-with-excusing": 3 } },
+        { "text": "Letting them off the hook completely.", "weights": { "fear-letting-them-off": 3 } },
+        { "text": "Acting like nothing ever happened and trusting again.", "weights": { "forgiven-trust-gone": 3 } }
+      ]
+    },
+    {
+      "text": "When their name comes up, your body...",
+      "options": [
+        { "text": "Tenses up with hurt that's still very alive.", "weights": { "wound-still-bleeding": 3 } },
+        { "text": "Gets defensive, like I have to keep insisting it mattered.", "weights": { "forgiving-with-excusing": 3 } },
+        { "text": "Flares with the unfairness of it all.", "weights": { "fear-letting-them-off": 3 } },
+        { "text": "Stays calm, but I quietly keep my distance.", "weights": { "forgiven-trust-gone": 3 } }
+      ]
+    },
+    {
+      "text": "What would help you most right now?",
+      "options": [
+        { "text": "Time and care to let the wound actually heal.", "weights": { "wound-still-bleeding": 3 } },
+        { "text": "Knowing forgiveness doesn't mean calling wrong right.", "weights": { "forgiving-with-excusing": 3 } },
+        { "text": "Trusting that justice isn't only up to me to enforce.", "weights": { "fear-letting-them-off": 3 } },
+        { "text": "Permission to forgive without rushing back into trust.", "weights": { "forgiven-trust-gone": 3 } }
+      ]
+    },
+    {
+      "text": "What's your biggest fear about forgiving them?",
+      "options": [
+        { "text": "That I'll have to feel all this pain to do it.", "weights": { "wound-still-bleeding": 3 } },
+        { "text": "That I'll be erasing what they did.", "weights": { "forgiving-with-excusing": 3 } },
+        { "text": "That they'll never face any consequences.", "weights": { "fear-letting-them-off": 3 } },
+        { "text": "That forgiving means lowering my guard and getting hurt again.", "weights": { "forgiven-trust-gone": 3 } }
+      ]
+    },
+    {
+      "text": "How do you tend to carry this offense day to day?",
+      "options": [
+        { "text": "Gingerly, because it still throbs when touched.", "weights": { "wound-still-bleeding": 3 } },
+        { "text": "By rehearsing that it was serious, so no one minimizes it.", "weights": { "forgiving-with-excusing": 2, "fear-letting-them-off": 1 } },
+        { "text": "By keeping a quiet tally of what they owe.", "weights": { "fear-letting-them-off": 3 } },
+        { "text": "Mostly at peace, with a wall firmly up.", "weights": { "forgiven-trust-gone": 3 } }
+      ]
+    },
+    {
+      "text": "What truth do you most need to hear?",
+      "options": [
+        { "text": "\"You can begin to forgive even before the pain is gone.\"", "weights": { "wound-still-bleeding": 3 } },
+        { "text": "\"Forgiving is not the same as saying it was okay.\"", "weights": { "forgiving-with-excusing": 3 } },
+        { "text": "\"Justice belongs to God. You can release it to Him.\"", "weights": { "fear-letting-them-off": 3 } },
+        { "text": "\"You can forgive someone and still not trust them yet.\"", "weights": { "forgiven-trust-gone": 3 } }
+      ]
+    },
+    {
+      "text": "If you named the real block in a phrase, it's...",
+      "options": [
+        { "text": "The wound is still bleeding.", "weights": { "wound-still-bleeding": 3 } },
+        { "text": "I'm confusing forgiving with excusing.", "weights": { "forgiving-with-excusing": 3 } },
+        { "text": "I fear letting them off.", "weights": { "fear-letting-them-off": 3 } },
+        { "text": "I've forgiven, but trust is gone.", "weights": { "forgiven-trust-gone": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "wound-still-bleeding": {
+      "name": "The Wound Is Still Bleeding",
+      "description": "You're not stuck because you're unwilling. You're stuck because the wound is fresh, and asking yourself to forgive right now feels like pressing on a cut that hasn't closed. Be gentle with yourself here. Forgiveness is often a process, not a single heroic moment, and it usually starts long before the pain fully fades. You don't have to wait until you feel fine. You can take one small step, a choice not to plot revenge, an honest prayer about it, while God tends the bleeding. Let Him near the part that still hurts. He binds up wounds, and He is patient with how long yours takes to heal.",
+      "scripture": { "text": "He heals the brokenhearted and binds up their wounds.", "reference": "Psalm 147:3" }
+    },
+    "forgiving-with-excusing": {
+      "name": "You Confuse Forgiving With Excusing",
+      "description": "The lock is jammed by a misunderstanding. Somewhere you came to believe that forgiving someone means declaring that what they did was fine, so you hold the offense tight to make sure no one, including you, ever minimizes it. But forgiveness has never meant calling wrong right. You can name something as truly wrong and still release your grip on the debt. In fact, forgiveness only exists where there was a real offense to begin with. You're allowed to say both things: that it was genuinely wrong, and that you're choosing not to let it own you anymore. Excusing denies the wound. Forgiving heals around it.",
+      "scripture": { "text": "Bear with each other and forgive one another if any of you has a grievance against someone.", "reference": "Colossians 3:13" }
+    },
+    "fear-letting-them-off": {
+      "name": "You Fear Letting Them Off",
+      "description": "What's holding you back is a hunger for justice, and that hunger is not wrong. It feels unbearable that they might walk away while you carry the cost, so you keep a tally of the debt, afraid that forgiving means they simply get away with it. Here's the freedom in it: forgiving is not the same as deciding the offense doesn't matter. It's handing the matter to a God who sees everything and judges rightly. You're not dropping the case. You're moving it to a higher court. He has promised that justice is His to settle, which means you can let go of the burden of enforcing it. They don't get off. You get free.",
+      "scripture": { "text": "Do not take revenge, my dear friends, but leave room for God's wrath, for it is written: \"It is mine to avenge; I will repay,\" says the Lord.", "reference": "Romans 12:19" }
+    },
+    "forgiven-trust-gone": {
+      "name": "You've Forgiven, but Trust Is Gone",
+      "description": "Good news: you've likely done more of the work than you give yourself credit for. You've released the bitterness, you wish them no harm, and the thing actually keeping you cautious isn't unforgiveness at all. It's broken trust, and those are two different things. Forgiveness you can give freely. Trust has to be rebuilt over time through changed behavior, and it's wisdom, not bitterness, to keep a wall up until that happens. You can forgive someone fully and still not hand them the keys again. Don't let anyone shame you into rushing back into harm. Forgive freely. Let trust be earned slowly.",
+      "scripture": { "text": "The simple believe anything, but the prudent give thought to their steps.", "reference": "Proverbs 14:15" }
+    }
+  }
+}

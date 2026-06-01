@@ -1,0 +1,111 @@
+{
+  "slug": "is-your-quiet-time-actually-working",
+  "title": "Is Your Quiet Time Actually Working?",
+  "subtitle": "If your devotions feel like homework, let's figure out what rut you're in and how to climb out.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": ["box-checking", "bone-dry", "distracted", "performance-reading", "quietly-growing"],
+  "questions": [
+    {
+      "text": "When you sit down for your quiet time, how does it usually feel?",
+      "options": [
+        { "text": "Like one more task to finish so I can move on.", "weights": { "box-checking": 2 } },
+        { "text": "Flat. I read the words but nothing lands.", "weights": { "bone-dry": 2 } },
+        { "text": "Scattered. My mind drifts before I'm three verses in.", "weights": { "distracted": 2 } },
+        { "text": "Steadier than it feels in the moment, honestly.", "weights": { "quietly-growing": 2 } }
+      ]
+    },
+    {
+      "text": "Why do you keep showing up to it, if you're honest?",
+      "options": [
+        { "text": "Mostly out of duty. I'd feel guilty if I skipped.", "weights": { "box-checking": 2 } },
+        { "text": "I keep hoping the dryness will break and I'll feel something again.", "weights": { "bone-dry": 2 } },
+        { "text": "I want it to count, but I can't seem to focus.", "weights": { "distracted": 2 } },
+        { "text": "To prove I'm a serious, disciplined Christian.", "weights": { "performance-reading": 2 } }
+      ]
+    },
+    {
+      "text": "What happens in your head while you read?",
+      "options": [
+        { "text": "I'm counting how many chapters until I'm done.", "weights": { "box-checking": 2 } },
+        { "text": "Static. The words just slide past without sticking.", "weights": { "bone-dry": 2 } },
+        { "text": "My to-do list, my phone, a dozen other things.", "weights": { "distracted": 2 } },
+        { "text": "I'm tracking how much I've read so I can feel accomplished.", "weights": { "performance-reading": 2 } }
+      ]
+    },
+    {
+      "text": "How do you feel when you finish?",
+      "options": [
+        { "text": "Relieved it's checked off for the day.", "weights": { "box-checking": 2 } },
+        { "text": "Empty, like I poured water on a stone.", "weights": { "bone-dry": 2 } },
+        { "text": "Like I barely retained a word of it.", "weights": { "distracted": 2 } },
+        { "text": "Quietly fed, even if it was a small thing.", "weights": { "quietly-growing": 2 } }
+      ]
+    },
+    {
+      "text": "What does success in your quiet time look like to you?",
+      "options": [
+        { "text": "Getting through the plan for the day.", "weights": { "box-checking": 2 } },
+        { "text": "Finally feeling close to God again.", "weights": { "bone-dry": 2 } },
+        { "text": "Hitting my reading goal and staying on streak.", "weights": { "performance-reading": 2 } },
+        { "text": "One verse that actually meets me where I am.", "weights": { "quietly-growing": 2 } }
+      ]
+    },
+    {
+      "text": "Be honest. What's the real reason it feels off lately?",
+      "options": [
+        { "text": "I've reduced it to a habit with no heart in it.", "weights": { "box-checking": 2 } },
+        { "text": "I keep waiting for a feeling that won't come.", "weights": { "bone-dry": 2 } },
+        { "text": "I can't quiet my mind long enough to be present.", "weights": { "distracted": 2 } },
+        { "text": "I'm doing it to perform, not to be with God.", "weights": { "performance-reading": 2 } }
+      ]
+    },
+    {
+      "text": "If God could say one thing to you about your quiet time, you'd want to hear...",
+      "options": [
+        { "text": "I want your heart, not just your checkmark.", "weights": { "box-checking": 2 } },
+        { "text": "I'm here even when you can't feel Me.", "weights": { "bone-dry": 2 } },
+        { "text": "Slow down. You don't have to read it all to find Me.", "weights": { "distracted": 2 } },
+        { "text": "You have nothing to prove. Just come.", "weights": { "performance-reading": 2 } }
+      ]
+    },
+    {
+      "text": "What do you most want your time with God to become?",
+      "options": [
+        { "text": "Something alive again, not just a box I tick.", "weights": { "box-checking": 2 } },
+        { "text": "A place where I sense Him, even a little.", "weights": { "bone-dry": 2 } },
+        { "text": "Unhurried and focused enough to actually receive.", "weights": { "distracted": 2 } },
+        { "text": "A relationship, not a performance review.", "weights": { "performance-reading": 2 } }
+      ]
+    }
+  ],
+  "results": {
+    "box-checking": {
+      "name": "Box-Checking",
+      "description": "Your quiet time has quietly turned into a task. You show up, get through it, and tick it off, but your heart isn't really in the room. That's an easy rut to fall into, and it doesn't make you a fraud. It just means the habit outlived the hunger. Try shrinking it down. One honest verse and one honest sentence to God beats a chapter you skim to finish. He was never after your checkmark. He wants you.",
+      "scripture": { "text": "This people draweth nigh unto me with their mouth, but their heart is far from me.", "reference": "Matthew 15:8" }
+    },
+    "bone-dry": {
+      "name": "Bone Dry",
+      "description": "You keep opening the Bible and nothing lands. The words slide past, the feeling doesn't come, and you walk away as empty as you sat down. Dry seasons are real, and they're not proof that something's wrong with you or that God has left. Faith isn't built on the feeling. Keep showing up, lower your expectations of an emotional high, and trust that seeds planted in dry ground still grow underground where you can't see. He is near even in the silence.",
+      "scripture": { "text": "My soul thirsteth for God, for the living God.", "reference": "Psalm 42:2" }
+    },
+    "distracted": {
+      "name": "Distracted",
+      "description": "Your heart might be willing, but your attention scatters the second you sit down. The to-do list, the phone, a dozen stray thoughts, and suddenly you've read a page and absorbed nothing. You're not failing. You're just trying to meet God at the same speed you live the rest of your life. Slow it down on purpose. Put the phone in another room, read less, and sit with one verse longer. Presence matters more than volume.",
+      "scripture": { "text": "Be still, and know that I am God.", "reference": "Psalm 46:10" }
+    },
+    "performance-reading": {
+      "name": "Performance Reading",
+      "description": "Somewhere along the way your quiet time became something to achieve. The streak, the plan, the proof that you're a disciplined believer. But God isn't grading your reading, and you have nothing to earn by it. He already loves you fully, before you open the book. Let go of the scoreboard. Come to Him the way you'd come to a friend, not a performance review. The pressure you're carrying was never His idea.",
+      "scripture": { "text": "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God.", "reference": "Ephesians 2:8" }
+    },
+    "quietly-growing": {
+      "name": "Quietly Growing",
+      "description": "Here's the good news you might not feel: more is happening than you think. Even when it seems ordinary, the steady habit of coming to God is feeding something real and deep in you. Growth in the Word is often slow and quiet, like roots before fruit. Don't measure it by the emotional high on any given morning. Keep showing up, stay honest, and trust that the One you're meeting is shaping you in ways you'll only see later.",
+      "scripture": { "text": "He shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season.", "reference": "Psalm 1:3" }
+    }
+  }
+}

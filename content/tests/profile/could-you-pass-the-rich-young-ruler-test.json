@@ -1,0 +1,129 @@
+{
+  "slug": "could-you-pass-the-rich-young-ruler-test",
+  "title": "Could You Pass the Rich Young Ruler Test?",
+  "subtitle": "Jesus once asked a good man to let go of the one thing he was holding onto. What would you do if He asked you?",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "would-follow",
+    "would-hesitate",
+    "walk-away-sad",
+    "already-free"
+  ],
+  "questions": [
+    {
+      "text": "Imagine Jesus looking right at you and saying, \"Give it up and follow me.\" What rises first?",
+      "options": [
+        { "text": "A quiet yes. It would cost me, but I'd go.", "weights": { "would-follow": 3 } },
+        { "text": "A knot in my stomach. I'd want to, but I'd stall.", "weights": { "would-hesitate": 3 } },
+        { "text": "Honestly, my heart would sink. I'm holding too much.", "weights": { "walk-away-sad": 3 } },
+        { "text": "Peace. My hands are already pretty open.", "weights": { "already-free": 3 } }
+      ]
+    },
+    {
+      "text": "What's the one thing you'd least want Him to ask for?",
+      "options": [
+        { "text": "Whatever it is, I think I could release it.", "weights": { "would-follow": 2, "already-free": 1 } },
+        { "text": "My savings, my security. That one scares me.", "weights": { "would-hesitate": 3 } },
+        { "text": "My comfort and the life I've built. I'd grieve losing it.", "weights": { "walk-away-sad": 3 } },
+        { "text": "There isn't much I'm gripping. He's first already.", "weights": { "already-free": 3 } }
+      ]
+    },
+    {
+      "text": "When you read about the rich young ruler walking away sad, what do you feel?",
+      "options": [
+        { "text": "I get it, but I don't want to be him.", "weights": { "would-follow": 2, "would-hesitate": 1 } },
+        { "text": "A little too seen. I might do the same.", "weights": { "would-hesitate": 3 } },
+        { "text": "Deep sadness, because I recognize myself in him.", "weights": { "walk-away-sad": 3 } },
+        { "text": "Sorrow for him. He missed the better thing.", "weights": { "already-free": 3 } }
+      ]
+    },
+    {
+      "text": "How tight is your grip on money right now?",
+      "options": [
+        { "text": "Loose. It's a tool, not my treasure.", "weights": { "would-follow": 2, "already-free": 1 } },
+        { "text": "Tighter than I'd like to admit.", "weights": { "would-hesitate": 3 } },
+        { "text": "Pretty tight. It's how I feel safe.", "weights": { "walk-away-sad": 3 } },
+        { "text": "Open. I've already learned to hold it lightly.", "weights": { "already-free": 3 } }
+      ]
+    },
+    {
+      "text": "If giving generously meant you'd have noticeably less, you'd...",
+      "options": [
+        { "text": "Do it, even with a deep breath first.", "weights": { "would-follow": 3 } },
+        { "text": "Talk myself in and out of it for weeks.", "weights": { "would-hesitate": 3 } },
+        { "text": "Probably find a reason not to.", "weights": { "walk-away-sad": 3 } },
+        { "text": "Already do this. It brings me joy.", "weights": { "already-free": 3 } }
+      ]
+    },
+    {
+      "text": "What does \"surrender\" feel like to you these days?",
+      "options": [
+        { "text": "A real choice I keep making, even when it's hard.", "weights": { "would-follow": 3 } },
+        { "text": "Something I admire but keep putting off.", "weights": { "would-hesitate": 3 } },
+        { "text": "A word that makes me a little anxious.", "weights": { "walk-away-sad": 2, "would-hesitate": 1 } },
+        { "text": "A relief. I've stopped white-knuckling my life.", "weights": { "already-free": 3 } }
+      ]
+    },
+    {
+      "text": "Be honest: where does your sense of security actually come from?",
+      "options": [
+        { "text": "I'm learning to root it in God, not my bank account.", "weights": { "would-follow": 3 } },
+        { "text": "I say God, but my balance still rules my mood.", "weights": { "would-hesitate": 3 } },
+        { "text": "If I'm honest, it's my stuff and my plans.", "weights": { "walk-away-sad": 3 } },
+        { "text": "In God. He's proven faithful enough that I rest.", "weights": { "already-free": 3 } }
+      ]
+    },
+    {
+      "text": "The ruler kept all the commandments and still lacked one thing. What's your \"one thing\"?",
+      "options": [
+        { "text": "Following through when obedience gets expensive.", "weights": { "would-follow": 2, "would-hesitate": 1 } },
+        { "text": "Letting go before I've worked out every detail.", "weights": { "would-hesitate": 3 } },
+        { "text": "Trusting Him more than the things I can see and touch.", "weights": { "walk-away-sad": 3 } },
+        { "text": "I'm not sure I have one. He has most of me.", "weights": { "already-free": 3 } }
+      ]
+    },
+    {
+      "text": "When Jesus says it's hard for the rich to enter the kingdom, you think...",
+      "options": [
+        { "text": "Then I want to keep my hands open, whatever I have.", "weights": { "would-follow": 3 } },
+        { "text": "That's a sobering wake-up call for me.", "weights": { "would-hesitate": 3 } },
+        { "text": "Maybe that's me, and it stings.", "weights": { "walk-away-sad": 3 } },
+        { "text": "With God, even that impossible thing is possible.", "weights": { "already-free": 3 } }
+      ]
+    },
+    {
+      "text": "What do you most need to hear from Jesus today?",
+      "options": [
+        { "text": "Come, follow me. I'll give you courage for the cost.", "weights": { "would-follow": 3 } },
+        { "text": "Don't be afraid. What you release, I'll more than replace.", "weights": { "would-hesitate": 3 } },
+        { "text": "I'm not asking to take from you. I'm offering you more.", "weights": { "walk-away-sad": 3 } },
+        { "text": "Well done. Keep walking with your hands wide open.", "weights": { "already-free": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "would-follow": {
+      "name": "You'd Follow",
+      "description": "If Jesus asked, you'd say yes, even knowing it would cost you something real. That's a rare and beautiful thing. The rich young ruler couldn't do it, but you've already started loosening your grip on what you own. Keep practicing that open-handed life in the small moments, and the big surrender will feel less like loss and more like freedom.",
+      "scripture": { "text": "Come, follow me, Jesus said, and I will send you out to fish for people.", "reference": "Matthew 4:19" }
+    },
+    "would-hesitate": {
+      "name": "You'd Hesitate",
+      "description": "You want to follow with everything, but there's a pause, a knot that tightens when the cost gets real. That's honest, and you're in good company. Most of us stall at the exact place God is inviting us to trust Him. The hesitation isn't failure. It's the doorway. Take one small step of letting go this week and watch how He meets you on the other side of it.",
+      "scripture": { "text": "Whoever wants to be my disciple must deny themselves and take up their cross daily and follow me.", "reference": "Luke 9:23" }
+    },
+    "walk-away-sad": {
+      "name": "You'd Walk Away Sad",
+      "description": "If you're honest, your security is tangled up in what you can hold and count, and the thought of releasing it makes your heart sink. The ruler walked away grieving for the same reason. But here's the part of the story we forget: Jesus looked at him and loved him. He looks at you the same way. He isn't trying to take from you. He's offering you treasure that never runs out. You can come back. The invitation is still open.",
+      "scripture": { "text": "Do not store up for yourselves treasures on earth, where moths and vermin destroy. But store up for yourselves treasures in heaven.", "reference": "Matthew 6:19-20" }
+    },
+    "already-free": {
+      "name": "You're Already Free",
+      "description": "Somewhere along the way, you stopped letting your stuff own you. Your security rests in God, not your bank account, and it shows in how easily you give and how little you grasp. That's the freedom the rich young ruler never tasted. Guard it gently, because comfort has a way of creeping back. For now, enjoy the lightness of carrying your blessings with open hands.",
+      "scripture": { "text": "Keep your lives free from the love of money and be content with what you have, because God has said, Never will I leave you.", "reference": "Hebrews 13:5" }
+    }
+  }
+}

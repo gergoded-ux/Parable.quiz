@@ -1,0 +1,129 @@
+{
+  "slug": "which-wilderness-season",
+  "title": "Which Wilderness Season Are You In?",
+  "subtitle": "The desert isn't punishment. It's where God does some of His deepest work. Here's whose wilderness mirrors yours.",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 5,
+  "mode": "archetype",
+  "questions": [
+    {
+      "text": "What does your wilderness season feel like right now?",
+      "options": [
+        { "text": "Quiet and obscure, like I've been set aside far from my calling.", "weights": { "midian": 3 } },
+        { "text": "Like I'm being tested, and the temptation to quit is loud.", "weights": { "forty-days": 3 } },
+        { "text": "Like I'm wandering in circles, going nowhere for ages.", "weights": { "wandering": 3 } },
+        { "text": "Like I've collapsed. I gave everything and now I'm empty.", "weights": { "elijah": 3 } }
+      ]
+    },
+    {
+      "text": "How did you end up in this desert?",
+      "options": [
+        { "text": "I had to flee a mess and start over somewhere hidden.", "weights": { "midian": 3 } },
+        { "text": "I was led here on purpose, and it's testing what's in me.", "weights": { "forty-days": 3 } },
+        { "text": "I got free of one thing only to feel lost in the next.", "weights": { "wandering": 3 } },
+        { "text": "I was cast out, alone, with no one to turn to.", "weights": { "hagar": 3 } }
+      ]
+    },
+    {
+      "text": "What's the hardest part of where you are?",
+      "options": [
+        { "text": "Feeling forgotten and useless in the middle of nowhere.", "weights": { "midian": 3 } },
+        { "text": "The relentless pull to give up and take the easy way out.", "weights": { "forty-days": 3 } },
+        { "text": "How long it's taking. I keep wondering if I'll ever arrive.", "weights": { "wandering": 3 } },
+        { "text": "I'm so burned out I've honestly wanted to be done.", "weights": { "elijah": 3 } }
+      ]
+    },
+    {
+      "text": "What are you wrestling with most in this season?",
+      "options": [
+        { "text": "Whether God still has a purpose for me at all.", "weights": { "midian": 3 } },
+        { "text": "Holding onto what's true when I'm hungry and worn down.", "weights": { "forty-days": 3 } },
+        { "text": "Trusting Him for the next step when I can't see the road.", "weights": { "wandering": 3 } },
+        { "text": "Believing He even sees me out here, alone.", "weights": { "hagar": 3 } }
+      ]
+    },
+    {
+      "text": "How are you holding up day to day?",
+      "options": [
+        { "text": "Quietly faithful in small, ordinary, hidden work.", "weights": { "midian": 3 } },
+        { "text": "Leaning hard on Scripture to push back the lies.", "weights": { "forty-days": 3 } },
+        { "text": "Some days trusting, some days grumbling and tired.", "weights": { "wandering": 3 } },
+        { "text": "Barely. I'm running on empty and need to be cared for.", "weights": { "elijah": 3 } }
+      ]
+    },
+    {
+      "text": "What do you suspect God might be doing in the silence?",
+      "options": [
+        { "text": "Forming me in obscurity for an assignment I can't see yet.", "weights": { "midian": 3 } },
+        { "text": "Proving and strengthening a faith that comfort never could.", "weights": { "forty-days": 3 } },
+        { "text": "Teaching me to depend on Him one day at a time.", "weights": { "wandering": 3 } },
+        { "text": "Gently restoring me before He sends me out again.", "weights": { "elijah": 2, "hagar": 1 } }
+      ]
+    },
+    {
+      "text": "What do you most need to believe right now?",
+      "options": [
+        { "text": "These hidden years are not wasted.", "weights": { "midian": 3 } },
+        { "text": "I can stand firm, because His Word is enough.", "weights": { "forty-days": 3 } },
+        { "text": "He's leading me, even when the path makes no sense.", "weights": { "wandering": 3 } },
+        { "text": "The God who sees me has not lost track of me out here.", "weights": { "hagar": 3 } }
+      ]
+    },
+    {
+      "text": "If God spoke one sentence to you in the desert, you'd want to hear...",
+      "options": [
+        { "text": "I'm not done with you. The quiet years are preparing you.", "weights": { "midian": 3 } },
+        { "text": "Stand firm. Every test you pass makes you stronger.", "weights": { "forty-days": 3 } },
+        { "text": "I'll go before you every single day until you arrive.", "weights": { "wandering": 3 } },
+        { "text": "I see you. You are not abandoned here.", "weights": { "hagar": 3 } }
+      ]
+    },
+    {
+      "text": "When the wilderness ends, what do you most want to walk out with?",
+      "options": [
+        { "text": "A clear calling, ready at last for what I was made for.", "weights": { "midian": 3 } },
+        { "text": "Proven faith and the power to resist what once tripped me.", "weights": { "forty-days": 3 } },
+        { "text": "Arrival, finally, into the place God promised.", "weights": { "wandering": 3 } },
+        { "text": "Renewed strength and a fresh word to keep going.", "weights": { "elijah": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "midian": {
+      "name": "The Midian Years (Moses)",
+      "emoji": "🐑",
+      "traits": ["Hidden", "Humbled", "Prepared"],
+      "description": "You've landed in a quiet, out-of-the-way place that feels like the end of your usefulness. Moses spent forty years tending sheep in Midian after fleeing Egypt, hidden and seemingly forgotten, before God ever called him from the burning bush. Those obscure years weren't a detour. They were the making of the man who would lead a nation. Your hidden season is doing work you can't see. Obscurity often comes right before the assignment.",
+      "scripture": { "text": "Now Moses kept the flock of Jethro his father in law.", "reference": "Exodus 3:1" }
+    },
+    "forty-days": {
+      "name": "The 40 Days (Jesus Tested)",
+      "emoji": "📖",
+      "traits": ["Tested", "Steadfast", "Anchored"],
+      "description": "You've been led into a season of testing, and the pull to give up or compromise is loud and constant. Jesus was led by the Spirit into the wilderness for forty days, hungry and tempted, and He met every lie with the truth of Scripture. The wilderness isn't always punishment. Sometimes it's where your faith gets proven and your roots go deep. Stand firm on what God has said. What's being tested in you now is being strengthened for what's ahead.",
+      "scripture": { "text": "It is written, Man shall not live by bread alone, but by every word of God.", "reference": "Luke 4:4" }
+    },
+    "wandering": {
+      "name": "The Desert Wandering (Israel)",
+      "emoji": "🏜️",
+      "traits": ["Waiting", "Learning", "Led"],
+      "description": "You got free from one hard thing only to find yourself wandering, going in circles, wondering if you'll ever reach the promise. Israel spent forty years in the desert between Egypt and the promised land, learning slowly to trust God for daily bread and to follow His lead one step at a time. The long way isn't lostness. He was teaching them dependence the short way never could. He goes before you still, even when the road makes no sense.",
+      "scripture": { "text": "The Lord thy God led thee these forty years in the wilderness, to humble thee, and to prove thee.", "reference": "Deuteronomy 8:2" }
+    },
+    "elijah": {
+      "name": "Elijah's Burnout Cave",
+      "emoji": "🔥",
+      "traits": ["Exhausted", "Honest", "Restored"],
+      "description": "You poured everything out, and now you're collapsed and empty, maybe even wishing you could just be done. Elijah ran into the wilderness after his greatest victory, sat under a broom tree, and asked God to take his life. And God's response wasn't a rebuke. It was food, sleep, and a gentle whisper. Burnout isn't a sin to confess. It's a wound to heal. Let Him care for your tired body and soul. He restores the weary before He sends them out again.",
+      "scripture": { "text": "Arise and eat; because the journey is too great for thee.", "reference": "1 Kings 19:7" }
+    },
+    "hagar": {
+      "name": "Hagar in the Desert",
+      "emoji": "💧",
+      "traits": ["Cast-out", "Desperate", "Seen"],
+      "description": "You've been pushed out and left alone, and the deepest ache is wondering whether God even notices you're here. Hagar fled into the desert, abandoned and afraid, and there the God who sees met her, provided for her, and gave her a promise. She called Him the God who sees me. You are not invisible in this wilderness. The same God found her in her lowest moment, and He has not lost sight of you for a second.",
+      "scripture": { "text": "Thou God seest me.", "reference": "Genesis 16:13" }
+    }
+  }
+}

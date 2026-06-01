@@ -1,0 +1,129 @@
+{
+  "slug": "chasing-or-running-from-calling",
+  "title": "Are You Chasing Your Calling or Running From It?",
+  "subtitle": "Deep down you can feel which direction you're facing. Let's name it honestly, with a little grace and a Jonah-sized wink.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "all-in-chasing",
+    "quietly-avoiding",
+    "jonah-style-running",
+    "stuck-at-the-starting-line"
+  ],
+  "questions": [
+    {
+      "text": "When you think about the thing you sense God made you for, what happens?",
+      "options": [
+        { "text": "I light up and lean in. I'm already going for it.", "weights": { "all-in-chasing": 3 } },
+        { "text": "I look away and find something else to do.", "weights": { "quietly-avoiding": 3 } },
+        { "text": "Honestly, I head in the opposite direction.", "weights": { "jonah-style-running": 3 } },
+        { "text": "I want to start but I freeze at the edge.", "weights": { "stuck-at-the-starting-line": 3 } }
+      ]
+    },
+    {
+      "text": "Which sentence feels uncomfortably accurate?",
+      "options": [
+        { "text": "I've ordered my life around this calling.", "weights": { "all-in-chasing": 3 } },
+        { "text": "I keep it on a someday list I never reach.", "weights": { "quietly-avoiding": 3 } },
+        { "text": "I know what He's asking and I'm dodging it.", "weights": { "jonah-style-running": 3 } },
+        { "text": "I've prepared forever but never actually begun.", "weights": { "stuck-at-the-starting-line": 3 } }
+      ]
+    },
+    {
+      "text": "What's your relationship with the nudge you keep feeling?",
+      "options": [
+        { "text": "I follow it. It's pulled me into real action.", "weights": { "all-in-chasing": 3 } },
+        { "text": "I notice it, then quietly set it aside.", "weights": { "quietly-avoiding": 3 } },
+        { "text": "I argue with it and book a ticket elsewhere.", "weights": { "jonah-style-running": 3 } },
+        { "text": "I feel it strongly but fear keeps me planted.", "weights": { "stuck-at-the-starting-line": 3 } }
+      ]
+    },
+    {
+      "text": "What's the real reason you're not further along?",
+      "options": [
+        { "text": "I am moving. I'm in the thick of it.", "weights": { "all-in-chasing": 3 } },
+        { "text": "Comfort. It's easier to leave it untouched.", "weights": { "quietly-avoiding": 3 } },
+        { "text": "I don't want this assignment, so I'm resisting it.", "weights": { "jonah-style-running": 3 } },
+        { "text": "I'm scared I'll fail, so I never start.", "weights": { "stuck-at-the-starting-line": 3 } }
+      ]
+    },
+    {
+      "text": "When someone asks what you're called to, you...",
+      "options": [
+        { "text": "Tell them, because I'm living it.", "weights": { "all-in-chasing": 3 } },
+        { "text": "Get vague and change the subject.", "weights": { "quietly-avoiding": 3 } },
+        { "text": "Deflect, because I'm avoiding God about it.", "weights": { "jonah-style-running": 3 } },
+        { "text": "Admit it, then add all the reasons I haven't started.", "weights": { "stuck-at-the-starting-line": 3 } }
+      ]
+    },
+    {
+      "text": "Which fear or feeling is closest to the surface?",
+      "options": [
+        { "text": "Excitement, honestly. I can't let this go.", "weights": { "all-in-chasing": 3 } },
+        { "text": "A low guilt that I keep putting it off.", "weights": { "quietly-avoiding": 3 } },
+        { "text": "Dread, like Nineveh is the last place I want to go.", "weights": { "jonah-style-running": 3 } },
+        { "text": "Paralysis. The first step feels impossibly big.", "weights": { "stuck-at-the-starting-line": 3 } }
+      ]
+    },
+    {
+      "text": "What does God seem to keep doing about your calling?",
+      "options": [
+        { "text": "Opening doors as I keep walking forward.", "weights": { "all-in-chasing": 3 } },
+        { "text": "Gently bringing it back up while I look away.", "weights": { "quietly-avoiding": 3 } },
+        { "text": "Pursuing me even as I sail the other way.", "weights": { "jonah-style-running": 3 } },
+        { "text": "Reassuring me He'll be with me if I just begin.", "weights": { "stuck-at-the-starting-line": 3 } }
+      ]
+    },
+    {
+      "text": "If you pictured obeying the call fully, you'd feel...",
+      "options": [
+        { "text": "More alive than ever. It's where I belong.", "weights": { "all-in-chasing": 3 } },
+        { "text": "Relieved, like I finally stopped stalling.", "weights": { "quietly-avoiding": 3 } },
+        { "text": "Surrendered, like Jonah finally facing the city.", "weights": { "jonah-style-running": 3 } },
+        { "text": "Terrified and thrilled at the same time.", "weights": { "stuck-at-the-starting-line": 3 } }
+      ]
+    },
+    {
+      "text": "What's the honest state of your courage right now?",
+      "options": [
+        { "text": "Strong. I keep saying yes even when it's hard.", "weights": { "all-in-chasing": 3 } },
+        { "text": "Dozing. I keep choosing the easier path.", "weights": { "quietly-avoiding": 3 } },
+        { "text": "In open rebellion, if I'm being real.", "weights": { "jonah-style-running": 3 } },
+        { "text": "Shaky. I need a push to take step one.", "weights": { "stuck-at-the-starting-line": 3 } }
+      ]
+    },
+    {
+      "text": "What do you most need to hear from God today?",
+      "options": [
+        { "text": "Keep going. You're right where I want you.", "weights": { "all-in-chasing": 3 } },
+        { "text": "Don't bury what I gave you. It matters.", "weights": { "quietly-avoiding": 3 } },
+        { "text": "You can't outrun me, and my plans for you are good.", "weights": { "jonah-style-running": 3 } },
+        { "text": "Be strong and courageous. I'm with you. Begin.", "weights": { "stuck-at-the-starting-line": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "all-in-chasing": {
+      "name": "All-In Chasing",
+      "description": "You're facing your calling head-on and running toward it with everything you've got. You've ordered your life around the thing God put in you, and you keep saying yes even when the cost is real. That kind of wholehearted pursuit is rare and good. Keep going, but stay close to God in the chase so it stays His calling and not just your ambition. You're right where He wants you. Don't let the hard days convince you otherwise.",
+      "scripture": { "text": "Whatever you do, work at it with all your heart, as working for the Lord.", "reference": "Colossians 3:23" }
+    },
+    "quietly-avoiding": {
+      "name": "Quietly Avoiding",
+      "description": "You're not running dramatically. You're just quietly setting the calling aside, keeping it on a someday list you never quite reach. Comfort is the gentle trap here. It's easier to leave the gift untouched than to risk using it. But God didn't put that pull in you for nothing. He gave it on purpose, and He's gently bringing it back up while you look away. Don't bury what He entrusted to you. Take it off the shelf and do one small thing with it this week.",
+      "scripture": { "text": "Do not neglect your gift, which was given you through prophecy when the body of elders laid their hands on you.", "reference": "1 Timothy 4:14" }
+    },
+    "jonah-style-running": {
+      "name": "Jonah-Style Running",
+      "description": "Let's be honest: you know what God is asking, and you're heading the other way. Jonah did the same thing, booking passage to Tarshish to avoid Nineveh. Here's the good news hidden in his story. He couldn't outrun God, and God's pursuit wasn't punishment, it was mercy. The same is true for you. You can't sail far enough to escape His call, and you wouldn't want to. His plans for you are good, even the hard assignment you're dodging. Turn around. He's still with you.",
+      "scripture": { "text": "But Jonah ran away from the Lord and headed for Tarshish.", "reference": "Jonah 1:3" }
+    },
+    "stuck-at-the-starting-line": {
+      "name": "Stuck at the Starting Line",
+      "description": "You're not avoiding or running. You're frozen, standing right at the edge of your calling, paralyzed by the fear that you'll fail. You've maybe prepared and prayed and waited, but the first step feels impossibly big. Here's what you need to know: God doesn't ask you to feel ready. He asks you to begin, and He promises to go with you. Courage isn't the absence of fear. It's taking the step while afraid. He's already beside you. Take the first one.",
+      "scripture": { "text": "Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.", "reference": "Joshua 1:9" }
+    }
+  }
+}

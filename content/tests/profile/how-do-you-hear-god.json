@@ -1,0 +1,135 @@
+{
+  "slug": "how-do-you-hear-god",
+  "title": "How Do You Hear God?",
+  "subtitle": "God speaks in more than one language, and you're probably already tuned to one of them. Find out where you tend to hear Him clearest, so you can lean in on purpose.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "through-scripture",
+    "through-peace",
+    "through-people",
+    "through-circumstances",
+    "through-conviction"
+  ],
+  "questions": [
+    {
+      "text": "You're facing a real decision and you want God's input. Where do you turn first?",
+      "options": [
+        { "text": "Straight to the Bible. I want a verse to stand on.", "weights": { "through-scripture": 3 } },
+        { "text": "Inward, to check which option carries peace.", "weights": { "through-peace": 3 } },
+        { "text": "To wise people I trust to speak truth.", "weights": { "through-people": 3 } },
+        { "text": "I watch what doors open and close around me.", "weights": { "through-circumstances": 3 } }
+      ]
+    },
+    {
+      "text": "Looking back, when have you felt God speak most clearly?",
+      "options": [
+        { "text": "A verse leapt off the page like it was written for that day.", "weights": { "through-scripture": 3 } },
+        { "text": "A deep calm settled over me and I just knew.", "weights": { "through-peace": 3 } },
+        { "text": "Someone said something they couldn't have known I needed.", "weights": { "through-people": 3 } },
+        { "text": "Events lined up in a way that felt too precise to be chance.", "weights": { "through-circumstances": 3 } }
+      ]
+    },
+    {
+      "text": "How do you usually sense you've stepped off course?",
+      "options": [
+        { "text": "A Scripture comes to mind and gently corrects me.", "weights": { "through-scripture": 3 } },
+        { "text": "My peace drains away and something feels off.", "weights": { "through-peace": 2, "through-conviction": 1 } },
+        { "text": "A friend lovingly calls it out.", "weights": { "through-people": 3 } },
+        { "text": "An inner nudge convicts me before I go further.", "weights": { "through-conviction": 3 } }
+      ]
+    },
+    {
+      "text": "When you pray about guidance, what are you really listening for?",
+      "options": [
+        { "text": "A passage that frames my situation in God's words.", "weights": { "through-scripture": 3 } },
+        { "text": "Whether my heart settles or stays unsettled.", "weights": { "through-peace": 3 } },
+        { "text": "Confirmation through the people God puts in my path.", "weights": { "through-people": 3 } },
+        { "text": "That quiet inner voice telling me yes or no.", "weights": { "through-conviction": 3 } }
+      ]
+    },
+    {
+      "text": "A friend asks how they can know God's will. What do you tell them?",
+      "options": [
+        { "text": "Soak in Scripture. He speaks loudest through His Word.", "weights": { "through-scripture": 3 } },
+        { "text": "Notice where you have peace and where you don't.", "weights": { "through-peace": 3 } },
+        { "text": "Get counsel. God often speaks through other people.", "weights": { "through-people": 3 } },
+        { "text": "Pay attention to what He opens and closes in your life.", "weights": { "through-circumstances": 3 } }
+      ]
+    },
+    {
+      "text": "Which moment would convince you God was guiding you?",
+      "options": [
+        { "text": "The exact passage I needed showing up unprompted.", "weights": { "through-scripture": 3 } },
+        { "text": "An unexplainable peace in the middle of chaos.", "weights": { "through-peace": 3 } },
+        { "text": "Three different people pointing me the same direction.", "weights": { "through-people": 3 } },
+        { "text": "A door I'd long prayed about finally swinging open.", "weights": { "through-circumstances": 3 } }
+      ]
+    },
+    {
+      "text": "What's your relationship with that nagging inner sense of right and wrong?",
+      "options": [
+        { "text": "I test it against what the Bible actually says.", "weights": { "through-scripture": 2, "through-conviction": 1 } },
+        { "text": "I treat it as God's gentle warning system.", "weights": { "through-conviction": 3 } },
+        { "text": "I'll run it past someone I trust before acting.", "weights": { "through-people": 3 } },
+        { "text": "I notice it most when my peace disappears.", "weights": { "through-peace": 3 } }
+      ]
+    },
+    {
+      "text": "When God feels quiet, what do you assume is happening?",
+      "options": [
+        { "text": "I haven't been in His Word enough lately.", "weights": { "through-scripture": 3 } },
+        { "text": "I'm too anxious to feel the peace He's offering.", "weights": { "through-peace": 3 } },
+        { "text": "I need to get around people who hear Him well.", "weights": { "through-people": 3 } },
+        { "text": "He's still working, I just can't see the doors yet.", "weights": { "through-circumstances": 3 } }
+      ]
+    },
+    {
+      "text": "What makes you most confident a prompting is really from God?",
+      "options": [
+        { "text": "It matches Scripture and never contradicts it.", "weights": { "through-scripture": 3 } },
+        { "text": "It comes with a settled, lasting peace.", "weights": { "through-peace": 3 } },
+        { "text": "Trusted believers confirm it independently.", "weights": { "through-people": 3 } },
+        { "text": "It tugs at my conscience and won't let go.", "weights": { "through-conviction": 3 } }
+      ]
+    },
+    {
+      "text": "Finish the sentence: \"I most often hear God when...\"",
+      "options": [
+        { "text": "\"I open the Bible and a verse comes alive.\"", "weights": { "through-scripture": 3 } },
+        { "text": "\"I get quiet and feel His peace settle in.\"", "weights": { "through-peace": 3 } },
+        { "text": "\"Someone speaks the exact word I needed.\"", "weights": { "through-people": 3 } },
+        { "text": "\"My circumstances shift in undeniable ways.\"", "weights": { "through-circumstances": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "through-scripture": {
+      "name": "Through Scripture",
+      "description": "You hear God clearest in His Word. A verse can leap off the page at the exact moment you need it, and you instinctively test everything else against what the Bible actually says. That's a steady, trustworthy way to listen, because Scripture never shifts with your mood. Keep feeding this. The more familiar His written voice becomes, the faster you'll recognize Him everywhere else. When other ways of hearing feel foggy, this is your anchor.",
+      "scripture": { "text": "Your word is a lamp for my feet, a light on my path.", "reference": "Psalm 119:105" }
+    },
+    "through-peace": {
+      "name": "Through Peace",
+      "description": "God often guides you by the inner weather of your heart. When a path is right, peace settles in. When it isn't, something stays unsettled, even when the logic looks fine. That's a real and biblical way to be led, peace is meant to act like a referee inside you. Just keep it tethered to Scripture so feelings stay tested, not blind. Learn the difference between God's peace and mere relief, and this gentle sense will guide you well for a lifetime.",
+      "scripture": { "text": "Let the peace of Christ rule in your hearts.", "reference": "Colossians 3:15" }
+    },
+    "through-people": {
+      "name": "Through People",
+      "description": "God loves to speak to you through other people. The friend who says the unexpected right thing, the counsel that confirms what you suspected, the stranger whose words land too precisely to be random. You're wise to seek this out, Scripture says there's safety in many advisers. Keep surrounding yourself with people who know God and will tell you the truth. Just weigh their words against His Word, and you'll keep hearing Him through the community He's placed around you.",
+      "scripture": { "text": "Plans fail for lack of counsel, but with many advisers they succeed.", "reference": "Proverbs 15:22" }
+    },
+    "through-circumstances": {
+      "name": "Through Circumstances",
+      "description": "You watch for God's hand in the events of your life, the doors that open, the ones that close, the timing that feels too precise to be chance. There's real faith in that, you expect Him to be at work in the details. Stay patient when the doors are slow, because His timing rarely matches ours, and pair what you see with Scripture so you read the signs rightly. Keep your eyes open. He is moving in your circumstances, even the ones that don't make sense yet.",
+      "scripture": { "text": "In their hearts humans plan their course, but the Lord establishes their steps.", "reference": "Proverbs 16:9" }
+    },
+    "through-conviction": {
+      "name": "Through Conviction",
+      "description": "God speaks to you through that quiet inner voice, the nudge that warns you before you go too far, the tug on your conscience that won't let go. That's the Holy Spirit at work, and it's a tender thing to be so sensitive to Him. Protect it. A conscience grows sharper the more you obey it and duller the more you ignore it. Keep testing those promptings against Scripture, and keep saying yes to the small ones. He's teaching you to recognize His voice from the inside out.",
+      "scripture": { "text": "Whether you turn to the right or to the left, your ears will hear a voice behind you, saying, This is the way; walk in it.", "reference": "Isaiah 30:21" }
+    }
+  }
+}

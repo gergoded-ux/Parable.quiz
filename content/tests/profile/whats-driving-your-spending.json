@@ -1,0 +1,120 @@
+{
+  "slug": "whats-driving-your-spending",
+  "title": "What's Driving Your Spending?",
+  "subtitle": "Behind every purchase is a feeling. Let's gently uncover the one steering yours.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": ["comfort", "status", "fear", "generosity", "stewardship"],
+  "questions": [
+    {
+      "text": "You've had a rough day. What's the pull you feel?",
+      "options": [
+        { "text": "Open a shopping app. Buying something would make me feel better.", "weights": { "comfort": 2 } },
+        { "text": "Honestly nothing. A rough day doesn't really change how I spend.", "weights": { "stewardship": 2 } },
+        { "text": "Tighten up and spend nothing. Hard days make me cling to my money.", "weights": { "fear": 2 } },
+        { "text": "Do something kind for someone else. It lifts me more than buying for me.", "weights": { "generosity": 2 } }
+      ]
+    },
+    {
+      "text": "When you do buy yourself something nice, what's the quiet motive underneath?",
+      "options": [
+        { "text": "I want people to see it and think well of me.", "weights": { "status": 2 } },
+        { "text": "I just want to feel soothed and a little happier.", "weights": { "comfort": 2 } },
+        { "text": "I thought it through and decided it was a wise use of money.", "weights": { "stewardship": 2 } },
+        { "text": "Rare for me. I'd rather spend on others than on myself.", "weights": { "generosity": 2 } }
+      ]
+    },
+    {
+      "text": "How do you feel when you walk past something expensive you can't justify?",
+      "options": [
+        { "text": "A little ache. I wish I could afford the life that comes with it.", "weights": { "status": 2 } },
+        { "text": "Tempted to buy it anyway just to feel the lift.", "weights": { "comfort": 2 } },
+        { "text": "Anxious even thinking about it. Letting go of money is hard.", "weights": { "fear": 2 } },
+        { "text": "Pretty unbothered. I know what matters to me and that isn't it.", "weights": { "stewardship": 2 } }
+      ]
+    },
+    {
+      "text": "Which thought sounds most like the voice in your head while you shop?",
+      "options": [
+        { "text": "This will finally make me feel put-together and impressive.", "weights": { "status": 2 } },
+        { "text": "I deserve this. I've earned a little treat.", "weights": { "comfort": 2 } },
+        { "text": "What if I need this money later? I should keep every penny.", "weights": { "fear": 2 } },
+        { "text": "Could I bless someone with this instead of keeping it?", "weights": { "generosity": 2 } }
+      ]
+    },
+    {
+      "text": "When money comes in unexpectedly, your first move is...",
+      "options": [
+        { "text": "Plan it carefully so it actually does some good.", "weights": { "stewardship": 2 } },
+        { "text": "Treat myself before it disappears.", "weights": { "comfort": 2 } },
+        { "text": "Stash it away and feel a little safer.", "weights": { "fear": 2 } },
+        { "text": "Think of who I could share it with.", "weights": { "generosity": 2 } }
+      ]
+    },
+    {
+      "text": "Be honest. What do you regret most about how you've spent?",
+      "options": [
+        { "text": "Buying things to impress people who barely noticed.", "weights": { "status": 2 } },
+        { "text": "Reaching for purchases to numb a feeling I should have faced.", "weights": { "comfort": 2 } },
+        { "text": "Holding on so tightly I missed chances to enjoy or give.", "weights": { "fear": 2 } },
+        { "text": "Honestly, not much. I try to spend on purpose.", "weights": { "stewardship": 1, "generosity": 1 } }
+      ]
+    },
+    {
+      "text": "What does a full cart usually mean for you emotionally?",
+      "options": [
+        { "text": "A hit of comfort that fades by the time it arrives.", "weights": { "comfort": 2 } },
+        { "text": "A step toward the image I want people to see.", "weights": { "status": 2 } },
+        { "text": "Rare. I usually abandon it because spending makes me nervous.", "weights": { "fear": 2 } },
+        { "text": "Often it's gifts. I love buying for the people I care about.", "weights": { "generosity": 2 } }
+      ]
+    },
+    {
+      "text": "How would you want to handle money if nothing held you back?",
+      "options": [
+        { "text": "Wisely and calmly, like someone managing a gift well.", "weights": { "stewardship": 2 } },
+        { "text": "Generously, with an open hand toward others.", "weights": { "generosity": 2, "stewardship": 1 } },
+        { "text": "Without the fear that makes me cling so hard.", "weights": { "fear": 1, "stewardship": 1 } },
+        { "text": "Without needing it to prove anything about me.", "weights": { "status": 1, "comfort": 1 } }
+      ]
+    },
+    {
+      "text": "What do you most want money to never become in your life?",
+      "options": [
+        { "text": "A bandage I keep slapping over feelings I won't deal with.", "weights": { "comfort": 2 } },
+        { "text": "A scoreboard for how I measure up to other people.", "weights": { "status": 2 } },
+        { "text": "A source of fear that runs my whole mood.", "weights": { "fear": 2 } },
+        { "text": "Something I worship instead of something I steward.", "weights": { "stewardship": 2 } }
+      ]
+    }
+  ],
+  "results": {
+    "comfort": {
+      "name": "Comfort and Retail Therapy",
+      "description": "When life feels heavy, a purchase gives you a quick lift. The problem is that the lift never lasts, and the feeling you were trying to soothe is still waiting when the box arrives. There's nothing wrong with enjoying nice things. The trouble starts when shopping becomes the way you cope. Next time the urge hits, pause and ask what your heart is actually hungry for. Real comfort was never something you could buy.",
+      "scripture": { "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.", "reference": "Matthew 11:28" }
+    },
+    "status": {
+      "name": "Status and Image",
+      "description": "A lot of your spending is quietly aimed at how you'll be seen. The right thing, the right look, the right life on display. But chasing the approval that comes from stuff is exhausting, and it never fills the spot it promises to fill. You are already valued by the One whose opinion outlasts every trend. You don't have to buy your way into worth you already have.",
+      "scripture": { "text": "Man looketh on the outward appearance, but the Lord looketh on the heart.", "reference": "1 Samuel 16:7" }
+    },
+    "fear": {
+      "name": "Fear and Hoarding",
+      "description": "Spending makes you nervous, so you hold on as tightly as you can. Saving is wise, but for you it has tipped into anxiety, and the grip is starting to cost you joy and freedom. The numbers can be fine and you'll still brace for disaster. God knows what you need before you ask. You can plan with care and still loosen your hands enough to live and to give.",
+      "scripture": { "text": "Take no thought for your life. Your heavenly Father knoweth that ye have need of all these things.", "reference": "Matthew 6:25,32" }
+    },
+    "generosity": {
+      "name": "Generosity",
+      "description": "Your money tends to flow outward, toward people and needs you notice. That open hand is a beautiful thing, and God loves the cheerful heart behind it. Just make sure you're giving from overflow and not from emptiness. Caring for yourself isn't selfish. It's what keeps you able to keep blessing others for years to come.",
+      "scripture": { "text": "God loveth a cheerful giver.", "reference": "2 Corinthians 9:7" }
+    },
+    "stewardship": {
+      "name": "Genuine Stewardship",
+      "description": "You see money for what it really is: something entrusted to you to manage well, not to worship and not to fear. You spend on purpose, you give on purpose, and your purchases don't run your moods. That's a healthy, grounded place to be. Keep leaning on God as the true owner, and let Him keep shaping how you handle what He provides.",
+      "scripture": { "text": "Moreover it is required in stewards, that a man be found faithful.", "reference": "1 Corinthians 4:2" }
+    }
+  }
+}

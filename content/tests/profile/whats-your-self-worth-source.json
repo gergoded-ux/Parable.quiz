@@ -1,0 +1,129 @@
+{
+  "slug": "whats-your-self-worth-source",
+  "title": "What's Your Self-Worth Source?",
+  "subtitle": "Everyone is standing their worth on something. Some foundations crack under pressure, and one holds no matter what. Find out what yours is built on, and whether it can actually carry you.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "performance-based",
+    "approval-based",
+    "comparison-based",
+    "grace-based"
+  ],
+  "questions": [
+    {
+      "text": "On a day you feel good about yourself, what usually caused it?",
+      "options": [
+        { "text": "I got a lot done and did it well.", "weights": { "performance-based": 3 } },
+        { "text": "Someone I care about was pleased with me.", "weights": { "approval-based": 3 } },
+        { "text": "I came out ahead of the people I measure myself against.", "weights": { "comparison-based": 3 } },
+        { "text": "Nothing in particular. I'm loved whether the day went well or not.", "weights": { "grace-based": 3 } }
+      ]
+    },
+    {
+      "text": "Now the flip side. What most reliably makes you feel small?",
+      "options": [
+        { "text": "Failing at something or falling short of my standard.", "weights": { "performance-based": 3 } },
+        { "text": "Someone being disappointed or upset with me.", "weights": { "approval-based": 3 } },
+        { "text": "Watching someone else win at the thing I want.", "weights": { "comparison-based": 3 } },
+        { "text": "Honestly, my low moments don't shake my worth much.", "weights": { "grace-based": 3 } }
+      ]
+    },
+    {
+      "text": "When you scroll social media, what's the usual aftertaste?",
+      "options": [
+        { "text": "Pressure to achieve more so I can keep up.", "weights": { "performance-based": 2, "comparison-based": 1 } },
+        { "text": "I check how many people liked and reacted to mine.", "weights": { "approval-based": 3 } },
+        { "text": "I rank myself against everyone else's highlight reel.", "weights": { "comparison-based": 3 } },
+        { "text": "Mostly fine. Their wins don't subtract from mine.", "weights": { "grace-based": 3 } }
+      ]
+    },
+    {
+      "text": "Why do you work as hard as you do, deep down?",
+      "options": [
+        { "text": "To prove I'm capable and worth something.", "weights": { "performance-based": 3 } },
+        { "text": "To earn the respect and approval of people who matter.", "weights": { "approval-based": 3 } },
+        { "text": "To stay ahead of the people I quietly compete with.", "weights": { "comparison-based": 3 } },
+        { "text": "Because I want to, not because I'm trying to be enough.", "weights": { "grace-based": 3 } }
+      ]
+    },
+    {
+      "text": "Someone criticizes you. What does it do to you?",
+      "options": [
+        { "text": "It feels like proof I'm not good enough.", "weights": { "performance-based": 3 } },
+        { "text": "I'm crushed that they think less of me.", "weights": { "approval-based": 3 } },
+        { "text": "I instantly wonder if they'd say the same to someone better.", "weights": { "comparison-based": 3 } },
+        { "text": "I can take what's true and let my worth stay intact.", "weights": { "grace-based": 3 } }
+      ]
+    },
+    {
+      "text": "Picture a season where you produce almost nothing. How does that feel?",
+      "options": [
+        { "text": "Unbearable. If I'm not achieving, I feel worthless.", "weights": { "performance-based": 3 } },
+        { "text": "Scary. I'd worry people would lose respect for me.", "weights": { "approval-based": 3 } },
+        { "text": "Threatening. I'd fall behind everyone else.", "weights": { "comparison-based": 3 } },
+        { "text": "Hard, but my value wouldn't actually change.", "weights": { "grace-based": 3 } }
+      ]
+    },
+    {
+      "text": "What's the quiet voice in your head most likely to say?",
+      "options": [
+        { "text": "\"You're only as good as your last result.\"", "weights": { "performance-based": 3 } },
+        { "text": "\"Make sure everyone is happy with you.\"", "weights": { "approval-based": 3 } },
+        { "text": "\"Look how far ahead they are. You're behind.\"", "weights": { "comparison-based": 3 } },
+        { "text": "\"You're loved right now, exactly as you are.\"", "weights": { "grace-based": 3 } }
+      ]
+    },
+    {
+      "text": "When you think about God's opinion of you, what comes up?",
+      "options": [
+        { "text": "I feel I have to perform well to keep Him pleased.", "weights": { "performance-based": 3 } },
+        { "text": "I worry I've let Him down and need to win Him back.", "weights": { "approval-based": 3 } },
+        { "text": "I compare my faith to other Christians and feel short.", "weights": { "comparison-based": 3 } },
+        { "text": "I trust He loves me because of grace, not my track record.", "weights": { "grace-based": 3 } }
+      ]
+    },
+    {
+      "text": "What would actually change your life if you fully believed it?",
+      "options": [
+        { "text": "That I don't have to earn my place by achieving.", "weights": { "performance-based": 3 } },
+        { "text": "That I'm secure even when people are unhappy with me.", "weights": { "approval-based": 3 } },
+        { "text": "That someone else's success takes nothing from me.", "weights": { "comparison-based": 3 } },
+        { "text": "I'm already living from this most days.", "weights": { "grace-based": 3 } }
+      ]
+    },
+    {
+      "text": "Finish the sentence: \"I am enough when...\"",
+      "options": [
+        { "text": "\"...I'm performing and getting results.\"", "weights": { "performance-based": 3 } },
+        { "text": "\"...the people around me approve of me.\"", "weights": { "approval-based": 3 } },
+        { "text": "\"...I'm ahead of the people I compare with.\"", "weights": { "comparison-based": 3 } },
+        { "text": "\"...full stop. I'm enough because God says so.\"", "weights": { "grace-based": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "performance-based": {
+      "name": "Performance-Based",
+      "description": "Your worth rises and falls with what you produce. A good result lifts you, a failure flattens you, and rest feels almost dangerous because if you're not achieving, who even are you? It's an exhausting way to live, and it's built on sand, because no performance is ever good enough to settle the question for long. Here's the truth your striving keeps missing: you were loved before you ever accomplished a thing. God's acceptance isn't a wage you earn. Let that sink in, and the pressure starts to lift.",
+      "scripture": { "text": "For it is by grace you have been saved, through faith, and this is not from yourselves, it is the gift of God, not by works, so that no one can boast.", "reference": "Ephesians 2:8-9" }
+    },
+    "approval-based": {
+      "name": "Approval-Based",
+      "description": "Your sense of worth is tied to what other people think of you. When they're pleased, you feel solid. When someone is disappointed, the ground gives way. The trouble is that human approval is a moving target you can never fully hit, and chasing it will pull you in a dozen directions at once. There's a freedom waiting for you here. You already have the approval that matters most, settled and permanent, from a Father who calls you His. Build on that, and you can love people without needing them to carry your worth.",
+      "scripture": { "text": "Am I now trying to win the approval of human beings, or of God? If I were still trying to please people, I would not be a servant of Christ.", "reference": "Galatians 1:10" }
+    },
+    "comparison-based": {
+      "name": "Comparison-Based",
+      "description": "You measure yourself against everyone else, and your worth depends on coming out ahead. The problem is the math never ends, there's always someone further along, and comparison quietly steals your joy either way. When you're behind you feel less, and when you're ahead you're already nervous about staying there. But someone else's success was never a subtraction from your value. God didn't make you to win a ranking. He made you on purpose, fully known and fully loved, and that worth was never up for comparison.",
+      "scripture": { "text": "Each one should test their own actions. Then they can take pride in themselves alone, without comparing themselves to someone else.", "reference": "Galatians 6:4" }
+    },
+    "grace-based": {
+      "name": "Grace-Based",
+      "description": "Your worth is built on the one foundation that actually holds. You know, deep down, that you're loved because of grace and not because of your results, your applause, or your ranking. That means a failure can sting without sinking you and someone else's win can't shrink you. This is the freedom every other answer is aching for. Keep returning to it, because the old pulls toward performing and comparing never fully disappear. You are enough because God says so, full stop. Stand there, and help someone else find this ground too.",
+      "scripture": { "text": "See what great love the Father has lavished on us, that we should be called children of God! And that is what we are!", "reference": "1 John 3:1" }
+    }
+  }
+}

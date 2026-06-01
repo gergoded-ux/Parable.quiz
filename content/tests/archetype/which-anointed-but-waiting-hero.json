@@ -1,0 +1,129 @@
+{
+  "slug": "which-anointed-but-waiting-hero",
+  "title": "Which Anointed-but-Waiting Hero Are You?",
+  "subtitle": "You know you're called. It just hasn't started yet. Here's the Bible figure who waited in that exact tension.",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 5,
+  "mode": "archetype",
+  "questions": [
+    {
+      "text": "What's the tension you live in right now?",
+      "options": [
+        { "text": "I've been marked for something big, but I'm stuck doing small things.", "weights": { "david": 3 } },
+        { "text": "I've seen what I'm meant for, and right now I'm in chains instead.", "weights": { "joseph": 3 } },
+        { "text": "I sense I was placed here for a purpose, but I'm hidden and unsure.", "weights": { "esther": 3 } },
+        { "text": "I know I'm next in line, so I keep faithfully following for now.", "weights": { "joshua": 3 } }
+      ]
+    },
+    {
+      "text": "How long have you felt called without seeing it start?",
+      "options": [
+        { "text": "Years. The anointing came early and the throne never did.", "weights": { "david": 3 } },
+        { "text": "Long enough that my circumstances got worse, not better.", "weights": { "joseph": 3 } },
+        { "text": "I'm still waiting for the moment I was clearly positioned for.", "weights": { "esther": 3 } },
+        { "text": "A whole season of serving in someone else's shadow.", "weights": { "joshua": 2, "timothy": 1 } }
+      ]
+    },
+    {
+      "text": "What's the hardest part of being called but not yet?",
+      "options": [
+        { "text": "Tending small, ordinary things when I know there's more.", "weights": { "david": 3 } },
+        { "text": "Doing the right thing and still ending up in a worse spot.", "weights": { "joseph": 3 } },
+        { "text": "Wondering if now is my moment or if I should stay hidden.", "weights": { "esther": 3 } },
+        { "text": "Being overlooked and underestimated because I'm young.", "weights": { "timothy": 3 } }
+      ]
+    },
+    {
+      "text": "How are you handling the wait day to day?",
+      "options": [
+        { "text": "Staying faithful in the field, even when no one's watching.", "weights": { "david": 3 } },
+        { "text": "Keeping my integrity intact no matter where I land.", "weights": { "joseph": 3 } },
+        { "text": "Quietly preparing, sensing I was put here for such a time.", "weights": { "esther": 3 } },
+        { "text": "Serving and learning under those ahead of me.", "weights": { "joshua": 3 } }
+      ]
+    },
+    {
+      "text": "What lie does the waiting whisper to you?",
+      "options": [
+        { "text": "You'll be stuck tending sheep forever. The throne isn't coming.", "weights": { "david": 3 } },
+        { "text": "Your dream died in this pit. Stop hoping.", "weights": { "joseph": 3 } },
+        { "text": "Stay safe and silent. Your moment isn't really yours.", "weights": { "esther": 3 } },
+        { "text": "You're too young and too small to be taken seriously.", "weights": { "timothy": 3 } }
+      ]
+    },
+    {
+      "text": "What's quietly being built in you while you wait?",
+      "options": [
+        { "text": "The character to carry the calling once it finally comes.", "weights": { "david": 3 } },
+        { "text": "Trust that God is working even when it all looks wrong.", "weights": { "joseph": 3 } },
+        { "text": "The courage to step up when the moment finally arrives.", "weights": { "esther": 3 } },
+        { "text": "The humility and readiness to lead when it's my turn.", "weights": { "joshua": 3 } }
+      ]
+    },
+    {
+      "text": "What keeps you going on the discouraging days?",
+      "options": [
+        { "text": "God anointed me for a reason, so I'll be faithful in the small.", "weights": { "david": 3 } },
+        { "text": "What others meant for harm, God can turn for good.", "weights": { "joseph": 3 } },
+        { "text": "Maybe I was placed exactly here for exactly this moment.", "weights": { "esther": 3 } },
+        { "text": "He's with me like He was with the ones before me.", "weights": { "joshua": 3 } }
+      ]
+    },
+    {
+      "text": "If God spoke one sentence to you today, you'd want to hear...",
+      "options": [
+        { "text": "The throne is still coming. Keep being faithful in the field.", "weights": { "david": 3 } },
+        { "text": "I never left the pit or the prison with you.", "weights": { "joseph": 3 } },
+        { "text": "This is your moment. Don't be afraid to step into it.", "weights": { "esther": 3 } },
+        { "text": "Don't let anyone look down on you for being young.", "weights": { "timothy": 3 } }
+      ]
+    },
+    {
+      "text": "When your calling finally begins, what do you most want to feel?",
+      "options": [
+        { "text": "Ready, because the hidden years prepared me for the crown.", "weights": { "david": 3 } },
+        { "text": "Vindicated, lifted from the pit to the very place I was promised.", "weights": { "joseph": 3 } },
+        { "text": "Brave, stepping into the role I was positioned for all along.", "weights": { "esther": 3 } },
+        { "text": "Equipped, finally leading after years of following well.", "weights": { "joshua": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "david": {
+      "name": "David (Anointed, Tending Sheep)",
+      "emoji": "🐑",
+      "traits": ["Faithful", "Patient", "Steady"],
+      "description": "You've been marked for something and then handed years of waiting in the field instead of the palace. David was anointed king as a boy and then spent over a decade tending sheep and running for his life before the crown ever came. The gap between the promise and the throne is where God builds the kind of leader who can actually carry it. Stay faithful in the small, hidden things. The anointing was real, and so is the wait, and neither one cancels the other.",
+      "scripture": { "text": "Then Samuel took the horn of oil, and anointed him in the midst of his brethren.", "reference": "1 Samuel 16:13" }
+    },
+    "joseph": {
+      "name": "Joseph (Dreamer, in Chains)",
+      "emoji": "⛓️",
+      "traits": ["Resilient", "Honest", "Trusting"],
+      "description": "You saw what you were meant for, and then everything went the opposite direction: betrayal, a pit, a prison, a dream that looked dead. Joseph lived that exact descent, holding onto his integrity through years that made no sense, while God was quietly arranging a rescue and a throne the whole time. What others meant for harm, God meant for good. Your dream didn't die in the chains. It's being positioned for a comeback you can't yet see.",
+      "scripture": { "text": "Ye thought evil against me; but God meant it unto good.", "reference": "Genesis 50:20" }
+    },
+    "esther": {
+      "name": "Esther (Chosen, in Hiding)",
+      "emoji": "👑",
+      "traits": ["Hidden", "Courageous", "Positioned"],
+      "description": "You sense you were placed where you are on purpose, but you're hidden, unsure whether your moment is now or not yet. Esther was an unlikely queen who kept her identity quiet until the day everything hung on whether she would step forward. Then came the words that changed her life: perhaps you were made for such a time as this. Your hidden positioning is not an accident. When your moment comes, you'll have what it takes to rise to it.",
+      "scripture": { "text": "Who knoweth whether thou art come to the kingdom for such a time as this?", "reference": "Esther 4:14" }
+    },
+    "joshua": {
+      "name": "Joshua (Next-in-Line, Still Following)",
+      "emoji": "🧭",
+      "traits": ["Loyal", "Humble", "Ready"],
+      "description": "You know you're next in line, so you keep serving faithfully under those ahead of you, learning and waiting for your turn. Joshua spent years as Moses' assistant, watching, helping, staying close, long before he ever led anyone. Those following years weren't a holding pattern. They were his training ground. God was preparing him to be strong and courageous when the weight finally shifted to his shoulders. Serve well now. Your leadership season is coming, and you'll be ready for it.",
+      "scripture": { "text": "Be strong and of a good courage. As I was with Moses, so I will be with thee.", "reference": "Joshua 1:5-6" }
+    },
+    "timothy": {
+      "name": "Timothy (Called Young, Underestimated)",
+      "emoji": "🌱",
+      "traits": ["Young", "Gifted", "Underestimated"],
+      "description": "You've been called, but people keep looking past you because you're young, untested, or easy to overlook. Timothy faced the same thing, leading a church while still young enough that Paul had to remind everyone not to dismiss him for it. Your age and your stage don't disqualify you. God doesn't measure by the things people use to size you up. Step into what He's given you with confidence, and let your faith and character do the talking.",
+      "scripture": { "text": "Let no man despise thy youth; but be thou an example of the believers.", "reference": "1 Timothy 4:12" }
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "slug": "which-bible-power-couple-are-you",
+  "title": "Which Bible Power Couple Are You?",
+  "subtitle": "Some couples don't just stay together, they go on mission together. Let's find the biblical pair that mirrors the two of you.",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 5,
+  "mode": "archetype",
+  "questions": [
+    {
+      "text": "What lights the two of you up most as a couple?",
+      "options": [
+        { "text": "Serving side by side, fully equal partners in the work.", "weights": { "priscilla-aquila": 3 } },
+        { "text": "Quietly mentoring younger people in the faith.", "weights": { "aquilas-apprentices": 3 } },
+        { "text": "Saying yes to God's plan even when it's costly.", "weights": { "joseph-mary": 3 } },
+        { "text": "Building a steady, faithful home together.", "weights": { "boaz-ruth": 3 } }
+      ]
+    },
+    {
+      "text": "How do you tend to handle ministry or service together?",
+      "options": [
+        { "text": "Shoulder to shoulder, no one in the lead.", "weights": { "priscilla-aquila": 3 } },
+        { "text": "By pulling others alongside us and teaching them.", "weights": { "aquilas-apprentices": 3 } },
+        { "text": "By trusting God through plans we didn't expect.", "weights": { "joseph-mary": 3 } },
+        { "text": "By showing up faithfully and providing for others.", "weights": { "boaz-ruth": 3 } }
+      ]
+    },
+    {
+      "text": "What's a phrase that captures your relationship?",
+      "options": [
+        { "text": "\"We're a team, all the way down.\"", "weights": { "priscilla-aquila": 3 } },
+        { "text": "\"Let's invest in the next generation together.\"", "weights": { "aquilas-apprentices": 3 } },
+        { "text": "\"Wherever God leads, we'll go.\"", "weights": { "joseph-mary": 3 } },
+        { "text": "\"We protect and provide for the people we love.\"", "weights": { "boaz-ruth": 3 } }
+      ]
+    },
+    {
+      "text": "When God asks something hard of you both, how do you respond?",
+      "options": [
+        { "text": "We take the risk together, even if it's dangerous.", "weights": { "priscilla-aquila": 3 } },
+        { "text": "We ask how it helps us pour into others.", "weights": { "aquilas-apprentices": 3 } },
+        { "text": "We obey first and trust Him with the rest.", "weights": { "joseph-mary": 3 } },
+        { "text": "We quietly do the faithful, honorable thing.", "weights": { "boaz-ruth": 3 } }
+      ]
+    },
+    {
+      "text": "What gift do the two of you bring to your community?",
+      "options": [
+        { "text": "A home that's always open for the work of God.", "weights": { "priscilla-aquila": 3 } },
+        { "text": "Patient teaching that grows people up in faith.", "weights": { "aquilas-apprentices": 3 } },
+        { "text": "A picture of obedience under pressure.", "weights": { "joseph-mary": 3 } },
+        { "text": "Loyalty, kindness, and steady provision.", "weights": { "boaz-ruth": 3 } }
+      ]
+    },
+    {
+      "text": "How would friends describe your marriage?",
+      "options": [
+        { "text": "Two equals who do everything together.", "weights": { "priscilla-aquila": 3 } },
+        { "text": "The couple always discipling someone.", "weights": { "aquilas-apprentices": 3 } },
+        { "text": "Humble, faithful, and quietly brave.", "weights": { "joseph-mary": 3 } },
+        { "text": "Dependable, generous, and rooted.", "weights": { "boaz-ruth": 3 } }
+      ]
+    },
+    {
+      "text": "What's your shared dream for your life together?",
+      "options": [
+        { "text": "To labor side by side for the gospel as long as we can.", "weights": { "priscilla-aquila": 3 } },
+        { "text": "To leave behind people we helped grow in Christ.", "weights": { "aquilas-apprentices": 3 } },
+        { "text": "To follow God faithfully wherever the path goes.", "weights": { "joseph-mary": 3 } },
+        { "text": "To build a home and legacy that blesses others.", "weights": { "boaz-ruth": 3 } }
+      ]
+    },
+    {
+      "text": "When you correct or guide someone, you do it...",
+      "options": [
+        { "text": "Together, both of us speaking into their life.", "weights": { "priscilla-aquila": 3 } },
+        { "text": "Gently and clearly, helping them understand more.", "weights": { "aquilas-apprentices": 3 } },
+        { "text": "Rarely, preferring to lead by quiet example.", "weights": { "joseph-mary": 2, "boaz-ruth": 1 } },
+        { "text": "With kindness and a generous, honorable spirit.", "weights": { "boaz-ruth": 3 } }
+      ]
+    },
+    {
+      "text": "What do you most want people to take from your marriage?",
+      "options": [
+        { "text": "That two equals serving God together is a powerful thing.", "weights": { "priscilla-aquila": 3 } },
+        { "text": "That a couple can spend their lives raising others up.", "weights": { "aquilas-apprentices": 3 } },
+        { "text": "That obedience to God is worth any cost.", "weights": { "joseph-mary": 3 } },
+        { "text": "That faithfulness and kindness build something lasting.", "weights": { "boaz-ruth": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "priscilla-aquila": {
+      "name": "Priscilla and Aquila",
+      "emoji": "⚒️",
+      "traits": ["Equal", "Devoted", "Tireless"],
+      "description": "You're a Priscilla-and-Aquila couple, partners in the fullest sense, serving God shoulder to shoulder with no one out front. They worked the same trade, opened their home to the early church, and even risked their lives for Paul. What's striking is how the Bible mentions them as a pair almost every time, a true team. That's you. Keep building your life around shared mission, because two equals pouring themselves out together is a force the world rarely sees and badly needs.",
+      "scripture": { "text": "Greet Priscilla and Aquila, my co-workers in Christ Jesus. They risked their lives for me.", "reference": "Romans 16:3-4" }
+    },
+    "aquilas-apprentices": {
+      "name": "Aquila's Apprentices",
+      "emoji": "📖",
+      "traits": ["Teaching", "Patient", "Invested"],
+      "description": "You're the couple in the lineage of Priscilla and Aquila, the ones who take people under their wing and grow them up in the faith. When the gifted preacher Apollos had gaps in his understanding, that couple didn't shame him. They quietly invited him in and explained the way of God more fully, and he became mighty for the gospel. That's your calling too. Some couples build crowds. You build people, one apprentice at a time, and the fruit of that outlasts almost everything.",
+      "scripture": { "text": "They invited him to their home and explained to him the way of God more adequately.", "reference": "Acts 18:26" }
+    },
+    "joseph-mary": {
+      "name": "Joseph and Mary",
+      "emoji": "🌟",
+      "traits": ["Obedient", "Humble", "Brave"],
+      "description": "You're a Joseph-and-Mary couple, the kind who say yes to God even when His plan upends everything. They faced confusion, scandal, and a journey neither asked for, and they kept choosing obedience and trust through all of it. There was a quiet courage in how they followed God into the unknown together. That's the strength in your marriage. When God leads you somewhere unexpected, you don't demand the whole map first. You take the next faithful step, hand in hand, and trust Him with the rest.",
+      "scripture": { "text": "Joseph did what the angel of the Lord had commanded him and took Mary home as his wife.", "reference": "Matthew 1:24" }
+    },
+    "boaz-ruth": {
+      "name": "Boaz and Ruth",
+      "emoji": "🌾",
+      "traits": ["Faithful", "Kind", "Rooted"],
+      "description": "You're a Boaz-and-Ruth couple, built on loyalty, kindness, and steady provision. Ruth was faithful through loss, and Boaz was the honorable man who noticed her, protected her, and provided generously, no games, just integrity. Together they built a home and a legacy that ran straight into the line of David and of Jesus Himself. That's the heart of your marriage: quiet faithfulness that blesses far beyond yourselves. Keep showing up with kindness and integrity. The home you build today is shaping a story bigger than you can see.",
+      "scripture": { "text": "May the Lord repay you for what you have done. May you be richly rewarded by the Lord.", "reference": "Ruth 2:12" }
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "slug": "has-grief-shaken-or-deepened-your-faith",
+  "title": "Has Grief Shaken or Deepened Your Faith?",
+  "subtitle": "Loss does something to what we believe. Sometimes it rattles us, sometimes it roots us. This is an honest look at where yours has landed.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "hanging-by-a-thread",
+    "wrestling-like-jacob",
+    "quietly-trusting",
+    "roots-deeper"
+  ],
+  "questions": [
+    {
+      "text": "When you think about God since your loss, what comes up first?",
+      "options": [
+        { "text": "Confusion and a faith I'm barely holding onto.", "weights": { "hanging-by-a-thread": 3 } },
+        { "text": "A lot of hard questions I'm taking straight to Him.", "weights": { "wrestling-like-jacob": 3 } },
+        { "text": "A quiet trust, even though I don't understand it.", "weights": { "quietly-trusting": 3 } },
+        { "text": "A faith that's somehow grown sturdier through the pain.", "weights": { "roots-deeper": 3 } }
+      ]
+    },
+    {
+      "text": "How would you describe your prayers these days?",
+      "options": [
+        { "text": "Sparse and shaky. I'm not sure He's listening.", "weights": { "hanging-by-a-thread": 3 } },
+        { "text": "Raw and full of why. I'm arguing it out with Him.", "weights": { "wrestling-like-jacob": 3 } },
+        { "text": "Few words, but I still show up and lean on Him.", "weights": { "quietly-trusting": 3 } },
+        { "text": "Deeper and more honest than they've ever been.", "weights": { "roots-deeper": 3 } }
+      ]
+    },
+    {
+      "text": "What's your honest reaction to people saying everything happens for a reason?",
+      "options": [
+        { "text": "It makes me want to walk away from faith altogether.", "weights": { "hanging-by-a-thread": 3 } },
+        { "text": "It frustrates me. I'd rather just be honest with God.", "weights": { "wrestling-like-jacob": 3 } },
+        { "text": "I don't need the tidy answers. I just hold on to Him.", "weights": { "quietly-trusting": 3 } },
+        { "text": "I've found a deeper peace that doesn't need explanations.", "weights": { "roots-deeper": 3 } }
+      ]
+    },
+    {
+      "text": "Where is your trust in God right now?",
+      "options": [
+        { "text": "Honestly fragile. Some days I'm not sure I still believe.", "weights": { "hanging-by-a-thread": 3 } },
+        { "text": "Tangled up with doubt, but I refuse to let go of Him.", "weights": { "wrestling-like-jacob": 3 } },
+        { "text": "Quiet but steady, even in the dark.", "weights": { "quietly-trusting": 3 } },
+        { "text": "Stronger than before. Loss drove my roots down.", "weights": { "roots-deeper": 3 } }
+      ]
+    },
+    {
+      "text": "When grief hits hardest, what do you do?",
+      "options": [
+        { "text": "I pull away from God and feel pretty alone.", "weights": { "hanging-by-a-thread": 3 } },
+        { "text": "I bring Him my anger and questions, no filter.", "weights": { "wrestling-like-jacob": 3 } },
+        { "text": "I sit quietly with Him and let Him hold me.", "weights": { "quietly-trusting": 3 } },
+        { "text": "I lean in harder, and somehow He feels closer.", "weights": { "roots-deeper": 3 } }
+      ]
+    },
+    {
+      "text": "Which statement feels truest to you today?",
+      "options": [
+        { "text": "I'm not sure how much faith I have left.", "weights": { "hanging-by-a-thread": 3 } },
+        { "text": "I can believe God is good and still be furious and devastated.", "weights": { "wrestling-like-jacob": 3 } },
+        { "text": "I don't have answers, but I have Him, and that's enough.", "weights": { "quietly-trusting": 3 } },
+        { "text": "This loss showed me God is more solid than I knew.", "weights": { "roots-deeper": 3 } }
+      ]
+    },
+    {
+      "text": "How do you feel about your doubts?",
+      "options": [
+        { "text": "Like they might be swallowing my faith whole.", "weights": { "hanging-by-a-thread": 3 } },
+        { "text": "Like they're part of an honest fight worth having.", "weights": { "wrestling-like-jacob": 3 } },
+        { "text": "They're quiet. I've made peace with not knowing.", "weights": { "quietly-trusting": 2, "roots-deeper": 1 } },
+        { "text": "They've actually pushed me deeper into trust.", "weights": { "roots-deeper": 3 } }
+      ]
+    },
+    {
+      "text": "What would help you most right now?",
+      "options": [
+        { "text": "Someone to tell me my shaky faith still counts.", "weights": { "hanging-by-a-thread": 3 } },
+        { "text": "Permission to be angry at God and still belong to Him.", "weights": { "wrestling-like-jacob": 3 } },
+        { "text": "A reminder that quiet, wordless trust is enough.", "weights": { "quietly-trusting": 3 } },
+        { "text": "Space to share what loss has taught me about God.", "weights": { "roots-deeper": 3 } }
+      ]
+    },
+    {
+      "text": "Looking back, what has grief done to your faith?",
+      "options": [
+        { "text": "Cracked it, and I'm trying to keep the pieces together.", "weights": { "hanging-by-a-thread": 3 } },
+        { "text": "Turned it into a wrestling match I haven't quit.", "weights": { "wrestling-like-jacob": 3 } },
+        { "text": "Stripped it down to a simple, stubborn trust.", "weights": { "quietly-trusting": 3 } },
+        { "text": "Deepened it in ways I never would have chosen but wouldn't trade.", "weights": { "roots-deeper": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "hanging-by-a-thread": {
+      "name": "Faith Hanging by a Thread",
+      "description": "Your loss has shaken your faith to its foundations, and right now you're holding on by a thread. Please hear this clearly: that thread still counts. Doubt isn't the opposite of faith, and it doesn't disqualify you. Even the disciples doubted while standing right in front of the risen Jesus, and He didn't push them away. Your shaky, barely-there faith is still faith, and God is not nervous about it. He's holding the other end of that thread, and He won't let go even on the days you can barely hold on at all.",
+      "scripture": { "text": "I do believe; help me overcome my unbelief!", "reference": "Mark 9:24" }
+    },
+    "wrestling-like-jacob": {
+      "name": "Wrestling Honestly Like Jacob",
+      "description": "You're in a real fight with God right now, bringing Him your anger, your questions, your devastation, and refusing to let go in the process. That's not a lack of faith. That's Jacob, who wrestled God all night and walked away limping but blessed. You can believe God is good and still be furious and broken at the same time, and He can absolutely handle both. The fact that you keep showing up to wrestle is proof the relationship is still alive. Hold on through the night. People who wrestle honestly with God tend to come away changed, and held.",
+      "scripture": { "text": "I will not let you go unless you bless me.", "reference": "Genesis 32:26" }
+    },
+    "quietly-trusting": {
+      "name": "Quietly Trusting in the Dark",
+      "description": "You don't have the answers, and you've stopped demanding them. What you have instead is a quiet, stubborn trust that holds on to God even in the dark. That's a rare and beautiful kind of faith, the kind that doesn't need everything explained to keep leaning on Him. You've learned to be still and let Him be God when nothing makes sense. Keep resting there. This wordless trust, the kind that simply stays close without understanding why, is often the deepest faith of all, and God meets it tenderly.",
+      "scripture": { "text": "Be still, and know that I am God.", "reference": "Psalm 46:10" }
+    },
+    "roots-deeper": {
+      "name": "Roots Driven Deeper by Loss",
+      "description": "Grief didn't topple your faith. It drove your roots down. Through a loss you never would have chosen, you've come to know God as more solid, more present, and more real than before. That doesn't mean it didn't hurt. It means the pain became soil. You're like a tree planted by water, the kind that stays green even in drought because its roots ran for the deep places. Hold this gift gently and share it when you can. The faith you've found in the valley is exactly what someone still hanging by a thread needs to see.",
+      "scripture": { "text": "They will be like a tree planted by the water that sends out its roots by the stream.", "reference": "Jeremiah 17:8" }
+    }
+  }
+}

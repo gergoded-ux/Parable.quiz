@@ -1,0 +1,120 @@
+{
+  "slug": "are-you-grieving-a-loss-nobody-acknowledges",
+  "title": "Are You Grieving a Loss Nobody Acknowledges?",
+  "subtitle": "Some losses don't come with casseroles or cards. They're real, they're heavy, and they're often grieved alone. This is a gentle place to name yours.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "pregnancy-or-infant-loss",
+    "living-loss",
+    "dream-that-died",
+    "grief-you-cant-voice"
+  ],
+  "questions": [
+    {
+      "text": "When you think about what you've lost, what rises up first?",
+      "options": [
+        { "text": "A child I carried, or barely got to hold.", "weights": { "pregnancy-or-infant-loss": 3 } },
+        { "text": "A person who's still alive but gone from my life.", "weights": { "living-loss": 3 } },
+        { "text": "A future I was so sure I'd get to live.", "weights": { "dream-that-died": 3 } },
+        { "text": "Something I can't quite explain to anyone.", "weights": { "grief-you-cant-voice": 3 } }
+      ]
+    },
+    {
+      "text": "Why does this grief feel so lonely?",
+      "options": [
+        { "text": "People act like it wasn't a real loss because I never brought the baby home.", "weights": { "pregnancy-or-infant-loss": 3 } },
+        { "text": "There's no funeral for someone who simply walked away.", "weights": { "living-loss": 3 } },
+        { "text": "You can't hold a memorial for a dream that died.", "weights": { "dream-that-died": 3 } },
+        { "text": "I don't even have words for what I'm mourning.", "weights": { "grief-you-cant-voice": 3 } }
+      ]
+    },
+    {
+      "text": "What's the hardest part of carrying this?",
+      "options": [
+        { "text": "Grieving a tiny life the world barely counted.", "weights": { "pregnancy-or-infant-loss": 3 } },
+        { "text": "Missing someone who's out there choosing not to be here.", "weights": { "living-loss": 3 } },
+        { "text": "Watching others get the very thing I longed for.", "weights": { "dream-that-died": 3 } },
+        { "text": "Feeling like I'm not even allowed to call it grief.", "weights": { "grief-you-cant-voice": 3 } }
+      ]
+    },
+    {
+      "text": "When people ask how you're doing, what do you usually say?",
+      "options": [
+        { "text": "I keep it short. Most don't know I lost a baby.", "weights": { "pregnancy-or-infant-loss": 3 } },
+        { "text": "I gloss over it. The estrangement is too complicated.", "weights": { "living-loss": 3 } },
+        { "text": "Fine, while quietly mourning a life that won't happen.", "weights": { "dream-that-died": 3 } },
+        { "text": "Nothing real. I doubt anyone would understand.", "weights": { "grief-you-cant-voice": 3 } }
+      ]
+    },
+    {
+      "text": "What do you wish people understood?",
+      "options": [
+        { "text": "That my baby was real, and so is this loss.", "weights": { "pregnancy-or-infant-loss": 3 } },
+        { "text": "That losing someone who's still living can hurt just as much.", "weights": { "living-loss": 3 } },
+        { "text": "That a dream dying is a real death to grieve.", "weights": { "dream-that-died": 3 } },
+        { "text": "That my unspoken grief deserves to be seen too.", "weights": { "grief-you-cant-voice": 3 } }
+      ]
+    },
+    {
+      "text": "What stirs the ache back up unexpectedly?",
+      "options": [
+        { "text": "Due dates, baby announcements, the month it happened.", "weights": { "pregnancy-or-infant-loss": 3 } },
+        { "text": "Holidays, family photos, an empty seat at the table.", "weights": { "living-loss": 3 } },
+        { "text": "Seeing others step into the life I wanted.", "weights": { "dream-that-died": 3 } },
+        { "text": "Quiet moments when the feeling has no name.", "weights": { "grief-you-cant-voice": 3 } }
+      ]
+    },
+    {
+      "text": "How do you tend to handle this grief?",
+      "options": [
+        { "text": "I carry it privately and mark the dates alone.", "weights": { "pregnancy-or-infant-loss": 3 } },
+        { "text": "I push it down because explaining it feels impossible.", "weights": { "living-loss": 2, "grief-you-cant-voice": 1 } },
+        { "text": "I stay busy so I don't dwell on what's gone.", "weights": { "dream-that-died": 3 } },
+        { "text": "I keep it inside, unsure I'm even allowed to feel it.", "weights": { "grief-you-cant-voice": 3 } }
+      ]
+    },
+    {
+      "text": "What would actually comfort you right now?",
+      "options": [
+        { "text": "Someone saying my baby mattered and won't be forgotten.", "weights": { "pregnancy-or-infant-loss": 3 } },
+        { "text": "Permission to grieve a person who's still alive.", "weights": { "living-loss": 3 } },
+        { "text": "Someone honoring the dream I had to lay down.", "weights": { "dream-that-died": 3 } },
+        { "text": "Just being told this grief is real and allowed.", "weights": { "grief-you-cant-voice": 3 } }
+      ]
+    },
+    {
+      "text": "Deep down, what does your heart most need to hear?",
+      "options": [
+        { "text": "Your child is known and held by God.", "weights": { "pregnancy-or-infant-loss": 3 } },
+        { "text": "This loss is real, even without a goodbye.", "weights": { "living-loss": 3 } },
+        { "text": "It's okay to mourn the life you didn't get.", "weights": { "dream-that-died": 3 } },
+        { "text": "God sees the grief no one else can.", "weights": { "grief-you-cant-voice": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "pregnancy-or-infant-loss": {
+      "name": "Pregnancy or Infant Loss",
+      "description": "You're grieving a child, one you carried, hoped for, maybe barely got to hold, and the world has a cruel way of acting like that loss doesn't fully count. It does. Your baby was real, your love was real, and so is this grief. You're not overreacting, and you're not alone in it, even when it feels like no one remembers. God knew your child completely, knit that little life together Himself, and holds them now with a tenderness you can trust. Your baby is not forgotten. Neither are you. You're allowed to grieve, and to grieve as long as you need.",
+      "scripture": { "text": "You created my inmost being; you knit me together in my mother's womb.", "reference": "Psalm 139:13" }
+    },
+    "living-loss": {
+      "name": "A Living Loss (Estrangement)",
+      "description": "You're grieving someone who's still alive, and that's one of the loneliest losses there is. There's no funeral, no casserole, no card, just an empty chair where a relationship used to be and a sorrow people don't quite know how to honor. But losing someone who chose to walk away can ache as deeply as any death, sometimes more, because the door never fully closes. Your grief is valid. God sees the relationship you've lost and the love you still carry, and He's close to you in this strange, ongoing ache. You don't have to pretend you're fine.",
+      "scripture": { "text": "The Lord is close to the brokenhearted and saves those who are crushed in spirit.", "reference": "Psalm 34:18" }
+    },
+    "dream-that-died": {
+      "name": "A Dream That Died",
+      "description": "You're mourning a future you were sure you'd live, the marriage, the child, the calling, the life you pictured so clearly it felt promised. There's no memorial for a dream that dies, so this grief often goes unseen. But it's real, and laying down a dream is its own kind of death that deserves to be honored. You're allowed to feel the weight of it. God isn't dismissive of your shattered hopes. He gathers them, He stays near, and in time He has a way of bringing unexpected life out of buried dreams. For now, you can simply grieve. That's not a lack of faith. It's honesty.",
+      "scripture": { "text": "He heals the brokenhearted and binds up their wounds.", "reference": "Psalm 147:3" }
+    },
+    "grief-you-cant-voice": {
+      "name": "Grief You Feel You Can't Voice",
+      "description": "You're carrying a sorrow you can't quite name or explain, the kind that feels too small, too strange, or too complicated to say out loud, so you keep it locked inside and wonder if you're even allowed to feel it. You are. Grief doesn't need anyone else's permission to be real. The beautiful thing is that God understands the prayers you can't put into words. When you don't even know what to say, His Spirit carries the ache for you with groans too deep for language. Your unspoken grief is fully seen by the One who matters most. You are not alone in it.",
+      "scripture": { "text": "The Spirit helps us in our weakness... through wordless groans.", "reference": "Romans 8:26" }
+    }
+  }
+}

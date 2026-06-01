@@ -1,0 +1,136 @@
+{
+  "slug": "which-anxious-bible-prayer-sounds-like-you",
+  "title": "Which Anxious Bible Prayer Sounds Like You?",
+  "subtitle": "You're allowed to pray scared. Scripture is full of people who did. Here's whose cry sounds like yours.",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 5,
+  "mode": "archetype",
+  "questions": [
+    {
+      "text": "When fear takes over, what do your prayers actually sound like?",
+      "options": [
+        { "text": "Tears and a longing so deep I can barely get the words out.", "weights": { "hannah": 3 } },
+        { "text": "How long, Lord? When will this finally end?", "weights": { "david": 3 } },
+        { "text": "Please take this from me. I don't know if I can face it.", "weights": { "gethsemane": 3 } },
+        { "text": "I have no idea what to do, so my eyes are on You.", "weights": { "jehoshaphat": 3 } }
+      ]
+    },
+    {
+      "text": "What's the shape of the anxiety you're carrying right now?",
+      "options": [
+        { "text": "An ache for something I've wanted and prayed for a long time.", "weights": { "hannah": 3 } },
+        { "text": "A weariness, like the waiting itself is crushing me.", "weights": { "david": 3 } },
+        { "text": "Dread about a hard thing coming that I can't avoid.", "weights": { "gethsemane": 3 } },
+        { "text": "A problem too big for me, with no clear way through.", "weights": { "jehoshaphat": 3 } }
+      ]
+    },
+    {
+      "text": "In the middle of the fear, what's your instinct?",
+      "options": [
+        { "text": "Cry out to God and refuse to stop until He hears me.", "weights": { "hannah": 3 } },
+        { "text": "Reach for Him fast before I go under: Lord, save me.", "weights": { "peter": 3 } },
+        { "text": "Ask Him to remove it, then surrender to His will anyway.", "weights": { "gethsemane": 3 } },
+        { "text": "Admit I'm powerless and just keep my eyes on Him.", "weights": { "jehoshaphat": 3 } }
+      ]
+    },
+    {
+      "text": "What have you been asking God for, over and over?",
+      "options": [
+        { "text": "To finally grant the deep desire of my heart.", "weights": { "hannah": 3 } },
+        { "text": "To take away a thorn that won't leave no matter what.", "weights": { "paul": 3 } },
+        { "text": "To let this cup pass, to spare me what's ahead.", "weights": { "gethsemane": 3 } },
+        { "text": "To answer soon, because how long can I keep waiting?", "weights": { "david": 3 } }
+      ]
+    },
+    {
+      "text": "When you feel like you're sinking, what happens?",
+      "options": [
+        { "text": "I panic, then grab for His hand at the last second.", "weights": { "peter": 3 } },
+        { "text": "I pour it all out in tears and won't give up praying.", "weights": { "hannah": 3 } },
+        { "text": "I beg for relief but end up trusting Him with it.", "weights": { "gethsemane": 2, "paul": 1 } },
+        { "text": "I freeze, overwhelmed, and just look up for help.", "weights": { "jehoshaphat": 3 } }
+      ]
+    },
+    {
+      "text": "What answer from God are you quietly bracing yourself for?",
+      "options": [
+        { "text": "A yes that finally ends the long ache.", "weights": { "hannah": 3 } },
+        { "text": "A not yet, when I've already waited so long.", "weights": { "david": 3 } },
+        { "text": "A no, with the grace to bear what I asked Him to remove.", "weights": { "paul": 3 } },
+        { "text": "A rescue I can't engineer myself.", "weights": { "jehoshaphat": 2, "peter": 1 } }
+      ]
+    },
+    {
+      "text": "How do you handle the gap between your prayer and God's reply?",
+      "options": [
+        { "text": "Honestly, with raw lament. How long, Lord?", "weights": { "david": 3 } },
+        { "text": "By admitting my own weakness and leaning on His strength.", "weights": { "paul": 3 } },
+        { "text": "By surrendering my will to His, even when it terrifies me.", "weights": { "gethsemane": 3 } },
+        { "text": "By keeping desperate, persistent faith in front of Him.", "weights": { "hannah": 3 } }
+      ]
+    },
+    {
+      "text": "What do you most need to hear from God in your fear?",
+      "options": [
+        { "text": "I heard every prayer you thought I missed.", "weights": { "hannah": 3 } },
+        { "text": "Take heart. I've got you. Why did you doubt?", "weights": { "peter": 3 } },
+        { "text": "My grace is enough. My strength shows up in your weakness.", "weights": { "paul": 3 } },
+        { "text": "The battle is not yours, but mine.", "weights": { "jehoshaphat": 3 } }
+      ]
+    },
+    {
+      "text": "When the fear finally lifts, what do you most want to feel?",
+      "options": [
+        { "text": "Answered, after pouring out my soul for so long.", "weights": { "hannah": 3 } },
+        { "text": "Caught, lifted out of the water before I drowned.", "weights": { "peter": 3 } },
+        { "text": "Steadied, surrendered, at peace with whatever He chooses.", "weights": { "gethsemane": 3 } },
+        { "text": "Carried, because the battle was His and not mine.", "weights": { "jehoshaphat": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "hannah": {
+      "name": "Hannah's Desperate Plea",
+      "emoji": "🙏",
+      "traits": ["Aching", "Persistent", "Tender"],
+      "description": "Your prayers come from a deep, long-held ache, and you cry them out with tears that words can barely hold. Hannah prayed like that at the temple, pouring out her soul so intensely that the priest thought she was drunk, refusing to stop until God answered. Your longing is not too much for Him, and your tears are not unseen. He hears the prayer you can barely speak, and He is moved by it.",
+      "scripture": { "text": "I have poured out my soul before the Lord.", "reference": "1 Samuel 1:15" }
+    },
+    "david": {
+      "name": "David's How Long, O Lord",
+      "emoji": "⏳",
+      "traits": ["Weary", "Honest", "Faithful"],
+      "description": "Your fear sounds like exhaustion. You're not doubting that God is there, you're just worn down by how long the waiting has dragged on. David prayed exactly this way, asking how long over and over, and yet he always circled back to trust before the song was through. Honest weariness is not a lack of faith. It's faith that's tired and still talking to God. Keep asking. He never minds the question, and the waiting won't last forever.",
+      "scripture": { "text": "How long wilt thou forget me, O Lord? for ever?", "reference": "Psalm 13:1" }
+    },
+    "gethsemane": {
+      "name": "Jesus in Gethsemane",
+      "emoji": "🌿",
+      "traits": ["Anguished", "Surrendered", "Honest"],
+      "description": "You're facing something hard you can't avoid, and your prayer is split between asking for relief and surrendering to God's will anyway. That's the most sacred prayer there is. In the garden, Jesus felt the full weight of dread, asked the Father to take the cup, and still said not my will but yours. He understands your fear from the inside. You can ask Him to spare you and trust Him at the same time. That's not weak faith. It's the bravest kind.",
+      "scripture": { "text": "Father, if thou be willing, remove this cup from me: nevertheless not my will, but thine, be done.", "reference": "Luke 22:42" }
+    },
+    "jehoshaphat": {
+      "name": "Jehoshaphat's We Don't Know What to Do",
+      "emoji": "🛡️",
+      "traits": ["Overwhelmed", "Honest", "Dependent"],
+      "description": "Your prayer is the prayer of someone facing a problem far bigger than they are, with no clear plan and nowhere to turn but up. King Jehoshaphat prayed it word for word when an army he couldn't beat was closing in: we don't know what to do, but our eyes are on you. And God fought the battle for him. Admitting you're powerless isn't failure. It's the doorway to His power. The thing too big for you is not too big for Him.",
+      "scripture": { "text": "We have no might against this great company. Neither know we what to do: but our eyes are upon thee.", "reference": "2 Chronicles 20:12" }
+    },
+    "peter": {
+      "name": "Peter's Lord, Save Me",
+      "emoji": "🌊",
+      "traits": ["Impulsive", "Sinking", "Reaching"],
+      "description": "Your anxiety hits like a wave, and when you feel yourself going under, your instinct is to grab for God fast. Peter walked on water until the wind scared him, and the second he started to sink he cried three words: Lord, save me. Jesus caught him instantly. You don't need a polished prayer when you're sinking. You just need to reach. He is close enough to take your hand the moment you cry out, and He will not let you drown.",
+      "scripture": { "text": "Lord, save me. And immediately Jesus stretched forth his hand, and caught him.", "reference": "Matthew 14:30-31" }
+    },
+    "paul": {
+      "name": "Paul's Thorn Prayer",
+      "emoji": "🌹",
+      "traits": ["Burdened", "Surrendered", "Strengthened"],
+      "description": "You've been asking God to remove a specific thorn, and it hasn't left. Paul prayed three times for his to be taken away, and God's answer wasn't to remove it but to meet him in it: my grace is sufficient for you, my strength is made perfect in weakness. Sometimes the thing you keep praying about stays, but it becomes the very place His power shows up most. Your weakness isn't disqualifying you. It's where His strength gets to do its best work.",
+      "scripture": { "text": "My grace is sufficient for thee: for my strength is made perfect in weakness.", "reference": "2 Corinthians 12:9" }
+    }
+  }
+}

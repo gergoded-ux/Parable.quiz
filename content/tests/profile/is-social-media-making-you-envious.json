@@ -1,0 +1,106 @@
+{
+  "slug": "is-social-media-making-you-envious",
+  "title": "Is Social Media Making You Envious?",
+  "subtitle": "The feed shows you everyone's highlight reel. Let's see what it's doing to your heart.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": ["immune", "stung", "spiral", "joy-thief"],
+  "questions": [
+    {
+      "text": "You open your feed and see someone living the life you secretly want. What happens?",
+      "options": [
+        { "text": "I'm genuinely happy for them and scroll on without a second thought.", "weights": { "immune": 2 } },
+        { "text": "A little sting, but it passes pretty quickly.", "weights": { "stung": 2 } },
+        { "text": "My mood drops and I start comparing my whole life to theirs.", "weights": { "spiral": 2 } },
+        { "text": "It can ruin my afternoon. I feel behind and small.", "weights": { "joy-thief": 2 } }
+      ]
+    },
+    {
+      "text": "How do you usually feel after a long scroll?",
+      "options": [
+        { "text": "Fine, honestly. About the same as before I opened it.", "weights": { "immune": 2 } },
+        { "text": "Slightly off, but I shake it off by the next thing.", "weights": { "stung": 2 } },
+        { "text": "Vaguely discontent, like my own life got smaller.", "weights": { "spiral": 2 } },
+        { "text": "Drained and discouraged, sometimes for hours.", "weights": { "joy-thief": 2 } }
+      ]
+    },
+    {
+      "text": "Someone posts a big win: a new house, a trip, an engagement. Your first inner reaction is...",
+      "options": [
+        { "text": "That's wonderful. I love seeing people blessed.", "weights": { "immune": 2 } },
+        { "text": "Happy for them, with a tiny twinge of when's-it-my-turn.", "weights": { "stung": 2 } },
+        { "text": "Why not me? I start tallying everything I don't have.", "weights": { "spiral": 2 } },
+        { "text": "It stings so much I almost want to look away.", "weights": { "joy-thief": 2 } }
+      ]
+    },
+    {
+      "text": "How often do you compare your real life to what you see online?",
+      "options": [
+        { "text": "Almost never. I know it's a curated snapshot.", "weights": { "immune": 2 } },
+        { "text": "Now and then, but I catch myself.", "weights": { "stung": 2 } },
+        { "text": "More than I'd like to admit. It's a regular loop.", "weights": { "spiral": 2 } },
+        { "text": "Constantly. It colors how I feel about my whole life.", "weights": { "joy-thief": 2 } }
+      ]
+    },
+    {
+      "text": "Have you ever changed what you post to look more impressive?",
+      "options": [
+        { "text": "Not really. I post what's true and don't overthink it.", "weights": { "immune": 2 } },
+        { "text": "Occasionally I pick the flattering angle, but that's it.", "weights": { "stung": 2 } },
+        { "text": "Often. I want my life to look as good as theirs.", "weights": { "spiral": 2 } },
+        { "text": "Yes, and the gap between my real life and my posts wears on me.", "weights": { "joy-thief": 2 } }
+      ]
+    },
+    {
+      "text": "Be honest. What does the feed quietly cost you?",
+      "options": [
+        { "text": "Not much. I've made peace with it.", "weights": { "immune": 2 } },
+        { "text": "A few moments of comparison I have to brush off.", "weights": { "stung": 2 } },
+        { "text": "My contentment. I want what I have less after I scroll.", "weights": { "spiral": 2 } },
+        { "text": "My joy. It steals gratitude for the good that's already mine.", "weights": { "joy-thief": 2 } }
+      ]
+    },
+    {
+      "text": "When you put the phone down, what's left in you?",
+      "options": [
+        { "text": "Pretty much nothing. My peace stays intact.", "weights": { "immune": 2 } },
+        { "text": "A small residue that fades fast.", "weights": { "stung": 2 } },
+        { "text": "A low hum of not-enough that follows me around.", "weights": { "spiral": 2 } },
+        { "text": "A heaviness that makes my own blessings feel dull.", "weights": { "joy-thief": 2 } }
+      ]
+    },
+    {
+      "text": "What would you most want to be true about you and the feed?",
+      "options": [
+        { "text": "Nothing to change. I'm grounded and grateful as is.", "weights": { "immune": 2 } },
+        { "text": "To keep catching the comparison before it sinks in.", "weights": { "stung": 2 } },
+        { "text": "To stop measuring my life against strangers' highlights.", "weights": { "spiral": 2 } },
+        { "text": "To get my joy back from whatever the scroll keeps taking.", "weights": { "joy-thief": 2 } }
+      ]
+    }
+  ],
+  "results": {
+    "immune": {
+      "name": "Immune",
+      "description": "The feed mostly rolls off you. You can see someone's win and feel real gladness without it dimming your own life, and that's a rare and healthy place to be. You seem to know that what you scroll past is a snapshot, not the whole story. Keep guarding that contentment. It's a quiet strength, and it leaves you free to celebrate other people without losing yourself.",
+      "scripture": { "text": "I have learned, in whatsoever state I am, therewith to be content.", "reference": "Philippians 4:11" }
+    },
+    "stung": {
+      "name": "Occasionally Stung",
+      "description": "Most days you're fine, but every so often a post catches you and you feel the twinge. The good news is you usually notice it and let it pass instead of sinking in. That awareness is half the battle. When the sting comes, name it for what it is, thank God for one thing that's actually yours, and keep moving. You're handling this better than you think.",
+      "scripture": { "text": "Let us not be desirous of vain glory, provoking one another, envying one another.", "reference": "Galatians 5:26" }
+    },
+    "spiral": {
+      "name": "Comparison Spiral",
+      "description": "The scroll pulls you into a loop. One impressive post and you're suddenly tallying everything you don't have, and your own life starts to look smaller than it is. That loop is exhausting, and it's lying to you. You're comparing your behind-the-scenes to everyone else's highlight reel. Try setting limits on the feed, and practice gratitude on purpose. What you have is more than the algorithm will ever let you see.",
+      "scripture": { "text": "A sound heart is the life of the flesh: but envy the rottenness of the bones.", "reference": "Proverbs 14:30" }
+    },
+    "joy-thief": {
+      "name": "Joy Thief",
+      "description": "Right now the feed is taking more from you than it gives. It dims your gratitude, sours your mood, and makes the good things in your own life feel dull by comparison. That's not a small thing, and you don't have to keep handing your peace away to it. It may be time for a real break. Your joy was never meant to rise and fall with a stranger's post. The God who sees your actual life calls it good.",
+      "scripture": { "text": "Thou wilt shew me the path of life: in thy presence is fulness of joy.", "reference": "Psalm 16:11" }
+    }
+  }
+}

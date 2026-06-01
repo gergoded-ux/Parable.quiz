@@ -1,0 +1,128 @@
+{
+  "slug": "bible-doubters-iq",
+  "title": "Bible Doubters IQ: Who Really Said It?",
+  "subtitle": "Even the heroes of faith had their wobbly moments. How well do you know the Bible's famous doubters?",
+  "lang": "en",
+  "category": "bible-iq",
+  "estimatedMinutes": 4,
+  "mode": "knowledge",
+  "questions": [
+    {
+      "text": "Which disciple said he wouldn't believe Jesus had risen until he touched the nail marks himself?",
+      "options": [
+        { "text": "Thomas", "correct": true, "explanation": "In John 20:25, Thomas said, \"Unless I see the nail marks in his hands... I will not believe.\" It earned him the nickname Doubting Thomas." },
+        { "text": "Peter", "correct": false },
+        { "text": "Philip", "correct": false },
+        { "text": "Andrew", "correct": false }
+      ]
+    },
+    {
+      "text": "Who laughed when she overheard that she would have a son in her old age?",
+      "options": [
+        { "text": "Rebekah", "correct": false },
+        { "text": "Sarah", "correct": true, "explanation": "Genesis 18:12 says Sarah laughed to herself, thinking she was far too old. God gently asked, \"Is anything too hard for the Lord?\"" },
+        { "text": "Rachel", "correct": false },
+        { "text": "Leah", "correct": false }
+      ]
+    },
+    {
+      "text": "Who asked God for a sign with a wool fleece, not once but twice, before going to battle?",
+      "options": [
+        { "text": "Samson", "correct": false },
+        { "text": "Joshua", "correct": false },
+        { "text": "Gideon", "correct": true, "explanation": "In Judges 6, Gideon laid out a fleece and asked God to make it wet while the ground stayed dry, then reversed the test the next night to be sure." },
+        { "text": "Barak", "correct": false }
+      ]
+    },
+    {
+      "text": "Who sent messengers from prison to ask Jesus, \"Are you the one who is to come, or should we expect someone else?\"",
+      "options": [
+        { "text": "John the Baptist", "correct": true, "explanation": "Matthew 11:2-3 records John the Baptist, sitting in prison, sending this honest question to Jesus through his disciples." },
+        { "text": "Paul", "correct": false },
+        { "text": "Peter", "correct": false },
+        { "text": "Stephen", "correct": false }
+      ]
+    },
+    {
+      "text": "Who cried out to Jesus, \"I do believe; help me overcome my unbelief!\"?",
+      "options": [
+        { "text": "A blind man at Jericho", "correct": false },
+        { "text": "The father of a demon-possessed boy", "correct": true, "explanation": "In Mark 9:24, the father of a suffering boy gave this raw, honest prayer, and Jesus healed his son anyway." },
+        { "text": "A Roman centurion", "correct": false },
+        { "text": "The rich young ruler", "correct": false }
+      ]
+    },
+    {
+      "text": "Zechariah doubted the angel's news that he would have a son. What happened to him as a result?",
+      "options": [
+        { "text": "He was struck blind", "correct": false },
+        { "text": "He was unable to speak until the baby was born", "correct": true, "explanation": "In Luke 1:20, the angel Gabriel told Zechariah he would be silent and unable to speak until John was born, because he did not believe." },
+        { "text": "He had to leave the temple", "correct": false },
+        { "text": "He lost his memory", "correct": false }
+      ]
+    },
+    {
+      "text": "When Peter walked on the water toward Jesus, why did he begin to sink?",
+      "options": [
+        { "text": "He grew tired", "correct": false },
+        { "text": "He saw the wind and was afraid", "correct": true, "explanation": "Matthew 14:30 says when Peter saw the wind, he was afraid and began to sink. Jesus caught him and said, \"You of little faith, why did you doubt?\"" },
+        { "text": "A wave knocked him over", "correct": false },
+        { "text": "The other disciples called him back", "correct": false }
+      ]
+    },
+    {
+      "text": "Which prophet ran away and wanted to die after a huge victory, sure he was the only faithful one left?",
+      "options": [
+        { "text": "Jeremiah", "correct": false },
+        { "text": "Elijah", "correct": true, "explanation": "In 1 Kings 19, Elijah fled from Jezebel, sat under a broom tree, and asked to die. God answered with food, rest, and a gentle whisper." },
+        { "text": "Isaiah", "correct": false },
+        { "text": "Jonah", "correct": false }
+      ]
+    },
+    {
+      "text": "What did Jesus offer to show Thomas to settle his doubt?",
+      "options": [
+        { "text": "An empty tomb", "correct": false },
+        { "text": "His hands and his side", "correct": true, "explanation": "In John 20:27, Jesus told Thomas to put his finger where the nails had been and reach into his side. He met the doubt instead of shaming it." },
+        { "text": "A miracle of bread", "correct": false },
+        { "text": "A written scroll", "correct": false }
+      ]
+    },
+    {
+      "text": "Who sat under a vine and a withered plant, angry and discouraged, after God spared a city he didn't want spared?",
+      "options": [
+        { "text": "Jonah", "correct": true, "explanation": "In Jonah 4, Jonah sulked under a plant, angry that God showed mercy to Nineveh. God used the withered plant to teach him about compassion." },
+        { "text": "Nahum", "correct": false },
+        { "text": "Amos", "correct": false },
+        { "text": "Hosea", "correct": false }
+      ]
+    },
+    {
+      "text": "How did Jesus respond to Thomas after the doubting disciple finally believed?",
+      "options": [
+        { "text": "He sent him away", "correct": false },
+        { "text": "He blessed those who believe without seeing", "correct": true, "explanation": "In John 20:29, Jesus said, \"Because you have seen me, you have believed; blessed are those who have not seen and yet have believed.\"" },
+        { "text": "He rebuked all the disciples", "correct": false },
+        { "text": "He stayed silent", "correct": false }
+      ]
+    },
+    {
+      "text": "Abraham believed God's promise of a son, but what did he and Sarah do that showed their doubt about the timing?",
+      "options": [
+        { "text": "They moved to a new land", "correct": false },
+        { "text": "They had a child through Hagar", "correct": true, "explanation": "In Genesis 16, Sarah, doubting she would conceive, gave her servant Hagar to Abraham, and Ishmael was born before the promised son Isaac arrived." },
+        { "text": "They built an altar", "correct": false },
+        { "text": "They asked for a sign in the sky", "correct": false }
+      ]
+    }
+  ],
+  "scoring": {
+    "perfectMessage": "Flawless. You know the Bible's doubters inside and out, and you know the grace that met every one of them.",
+    "gradeBands": [
+      { "min": 0, "max": 50, "label": "Skeptic", "message": "A solid start. These doubters are worth getting to know. Every one of them wrestled, and God met them right in it." },
+      { "min": 51, "max": 80, "label": "Seeker", "message": "Nicely done. You know these stories well, and you can see how doubt and faith often live side by side." },
+      { "min": 81, "max": 99, "label": "Scholar", "message": "Impressive. You really know the Bible's honest wrestlers and the patient God who answered them." },
+      { "min": 100, "max": 100, "label": "Scholar", "message": "Flawless. You know the Bible's doubters inside and out, and you know the grace that met every one of them." }
+    ]
+  }
+}

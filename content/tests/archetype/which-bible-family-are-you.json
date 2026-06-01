@@ -1,0 +1,120 @@
+{
+  "slug": "which-bible-family-are-you",
+  "title": "Which Bible Family Are You? (Family Drama Edition)",
+  "subtitle": "Every family has its mess. The good news is that Scripture is full of them too.",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 5,
+  "mode": "archetype",
+  "questions": [
+    {
+      "text": "How would you describe your family in one honest phrase?",
+      "options": [
+        { "text": "A blended, complicated, full-of-favorites kind of chaos.", "weights": { "jacobs-blended-chaos": 3 } },
+        { "text": "We hurt each other badly, but we found our way back.", "weights": { "josephs-reconciled-brothers": 3 } },
+        { "text": "Love is real, but so are the deep cracks and old wounds.", "weights": { "davids-broken-house": 3 } },
+        { "text": "Quiet, faithful, steady, even when life got hard.", "weights": { "mary-and-josephs-faithful-home": 3 } }
+      ]
+    },
+    {
+      "text": "What does conflict usually look like in your family?",
+      "options": [
+        { "text": "Rivalry and comparison, with everyone jockeying for love.", "weights": { "jacobs-blended-chaos": 3 } },
+        { "text": "A big betrayal that we slowly worked to forgive.", "weights": { "josephs-reconciled-brothers": 3 } },
+        { "text": "Drama that runs deep and sometimes spills into real damage.", "weights": { "davids-broken-house": 3 } },
+        { "text": "We mostly keep the peace and trust God through it.", "weights": { "mary-and-josephs-faithful-home": 3 } }
+      ]
+    },
+    {
+      "text": "Has loss shaped your family story?",
+      "options": [
+        { "text": "Yes, and it left us clinging fiercely to each other.", "weights": { "naomis-loyal-loss": 3 } },
+        { "text": "Yes, and old grudges had to give way to grace.", "weights": { "josephs-reconciled-brothers": 3 } },
+        { "text": "Yes, and the grief exposed every fault line we had.", "weights": { "davids-broken-house": 3 } },
+        { "text": "Yes, and we leaned on faith to carry us through.", "weights": { "mary-and-josephs-faithful-home": 2, "naomis-loyal-loss": 1 } }
+      ]
+    },
+    {
+      "text": "Which family pattern feels closest to home?",
+      "options": [
+        { "text": "Playing favorites and the jealousy that comes with it.", "weights": { "jacobs-blended-chaos": 3 } },
+        { "text": "Years of hurt that eventually turned into reunion.", "weights": { "josephs-reconciled-brothers": 3 } },
+        { "text": "Powerful love tangled up with painful dysfunction.", "weights": { "davids-broken-house": 3 } },
+        { "text": "Fierce loyalty that holds on no matter what.", "weights": { "naomis-loyal-loss": 3 } }
+      ]
+    },
+    {
+      "text": "When a family member wrongs you, what's your instinct?",
+      "options": [
+        { "text": "Keep score and stew, because someone always got more.", "weights": { "jacobs-blended-chaos": 3 } },
+        { "text": "Wrestle toward forgiveness, even when it takes years.", "weights": { "josephs-reconciled-brothers": 3 } },
+        { "text": "Feel it cut deep, since family wounds hurt the worst.", "weights": { "davids-broken-house": 3 } },
+        { "text": "Stay loyal and refuse to walk away from them.", "weights": { "naomis-loyal-loss": 3 } }
+      ]
+    },
+    {
+      "text": "What holds your family together when things get hard?",
+      "options": [
+        { "text": "Honestly? Sheer stubbornness and shared history.", "weights": { "jacobs-blended-chaos": 3 } },
+        { "text": "A belief that no betrayal is beyond repair.", "weights": { "josephs-reconciled-brothers": 3 } },
+        { "text": "Love that survives even the worst chapters.", "weights": { "davids-broken-house": 3 } },
+        { "text": "A devotion that says, where you go, I'll go.", "weights": { "naomis-loyal-loss": 3 } }
+      ]
+    },
+    {
+      "text": "Where do you most see God in your family's story?",
+      "options": [
+        { "text": "Working through our mess despite all our scheming.", "weights": { "jacobs-blended-chaos": 3 } },
+        { "text": "Turning what was meant for harm into good.", "weights": { "josephs-reconciled-brothers": 3 } },
+        { "text": "Staying faithful even when we made a wreck of things.", "weights": { "davids-broken-house": 3 } },
+        { "text": "Quietly providing through ordinary, faithful obedience.", "weights": { "mary-and-josephs-faithful-home": 3 } }
+      ]
+    },
+    {
+      "text": "What do you most long for in your family?",
+      "options": [
+        { "text": "An end to the comparison so everyone feels equally loved.", "weights": { "jacobs-blended-chaos": 3 } },
+        { "text": "Real reconciliation after everything that happened.", "weights": { "josephs-reconciled-brothers": 3 } },
+        { "text": "Healing for the wounds that keep getting passed down.", "weights": { "davids-broken-house": 3 } },
+        { "text": "To keep walking together, loyal to the end.", "weights": { "naomis-loyal-loss": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "jacobs-blended-chaos": {
+      "name": "Jacob's Blended Chaos",
+      "emoji": "🪜",
+      "traits": ["Tangled", "Resilient", "Chosen"],
+      "description": "Your family is a swirl of favorites, rivalries, and complicated loyalties, a lot like Jacob's house full of wives, sons, and not-so-quiet competition. It was a mess, and God still wove His promise right through the middle of it. Your family's chaos doesn't put you out of reach of His plan. He has a long history of working through imperfect, complicated homes, including yours.",
+      "scripture": { "text": "I am with you and will watch over you wherever you go.", "reference": "Genesis 28:15" }
+    },
+    "josephs-reconciled-brothers": {
+      "name": "Joseph's Reconciled Brothers",
+      "emoji": "🤝",
+      "traits": ["Wounded", "Forgiving", "Restored"],
+      "description": "Your family knows what it is to hurt each other deeply and then find the long, hard road back to one another. That's Joseph and his brothers: jealousy, betrayal, years apart, and finally tears of forgiveness. What others meant for harm, God used for good. Your family proves that reconciliation is possible, and that grace can rewrite even the worst chapter.",
+      "scripture": { "text": "You intended to harm me, but God intended it for good.", "reference": "Genesis 50:20" }
+    },
+    "davids-broken-house": {
+      "name": "David's Broken House",
+      "emoji": "👑",
+      "traits": ["Loving", "Fractured", "Held"],
+      "description": "There's real love in your family, and real brokenness right alongside it, the kind of dysfunction that runs deep and gets passed down. King David's home was just like that: devotion and disaster, all under one roof. And yet God never abandoned that family or its story. He stays faithful to broken houses. The cracks in yours are not the end of what He can do.",
+      "scripture": { "text": "The Lord is close to the brokenhearted and saves those who are crushed in spirit.", "reference": "Psalm 34:18" }
+    },
+    "mary-and-josephs-faithful-home": {
+      "name": "Mary and Joseph's Faithful Home",
+      "emoji": "🌟",
+      "traits": ["Steady", "Trusting", "Faithful"],
+      "description": "Your family is marked by quiet faith and steady obedience, the kind that keeps trusting God through confusion and hard turns. That's Mary and Joseph: an ordinary couple who said yes to God and held on through every unexpected twist. Faithfulness like that isn't flashy, but it shapes generations. God meets a home like yours and provides, one trusting step at a time.",
+      "scripture": { "text": "I am the Lord's servant. May your word to me be fulfilled.", "reference": "Luke 1:38" }
+    },
+    "naomis-loyal-loss": {
+      "name": "Naomi's Loyal Loss",
+      "emoji": "🌾",
+      "traits": ["Grieving", "Loyal", "Devoted"],
+      "description": "Loss has touched your family, and instead of scattering you, it bound you closer with fierce, loyal love. That's Naomi and Ruth: heartbreak met with a vow to stay, to go where the other goes. God saw their loyalty and quietly turned their grief into a new beginning. He sees yours too. The love that refuses to let go is the very place He loves to bring redemption.",
+      "scripture": { "text": "Where you go I will go, and where you stay I will stay.", "reference": "Ruth 1:16" }
+    }
+  }
+}

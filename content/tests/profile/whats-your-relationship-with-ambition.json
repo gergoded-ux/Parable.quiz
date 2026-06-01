@@ -1,0 +1,135 @@
+{
+  "slug": "whats-your-relationship-with-ambition",
+  "title": "What's Your Relationship With Ambition?",
+  "subtitle": "Church culture both praises ambition and fears it. Let's find out whether yours is holy or hungry.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "holy-ambition",
+    "driven-and-restless",
+    "quietly-coasting",
+    "striving-for-approval",
+    "surrendered"
+  ],
+  "questions": [
+    {
+      "text": "What's the engine behind your drive?",
+      "options": [
+        { "text": "A real sense that God put this work in front of me.", "weights": { "holy-ambition": 3 } },
+        { "text": "A restlessness I can't switch off, even when I'm tired.", "weights": { "driven-and-restless": 3 } },
+        { "text": "Not much lately. I'm pretty checked out.", "weights": { "quietly-coasting": 3 } },
+        { "text": "Wanting people to be impressed with me.", "weights": { "striving-for-approval": 3 } }
+      ]
+    },
+    {
+      "text": "When you hit a goal, how do you feel afterward?",
+      "options": [
+        { "text": "Grateful, and ready for the next thing in its season.", "weights": { "holy-ambition": 3 } },
+        { "text": "Briefly satisfied, then immediately chasing more.", "weights": { "driven-and-restless": 3 } },
+        { "text": "I don't set many goals to hit anymore.", "weights": { "quietly-coasting": 3 } },
+        { "text": "I scan for who noticed before I can enjoy it.", "weights": { "striving-for-approval": 3 } }
+      ]
+    },
+    {
+      "text": "Which sentence sounds most like you?",
+      "options": [
+        { "text": "\"I want to do great work for God, and rest in Him too.\"", "weights": { "holy-ambition": 3 } },
+        { "text": "\"I can't sit still. Enough never feels like enough.\"", "weights": { "driven-and-restless": 3 } },
+        { "text": "\"I've stopped reaching for much of anything.\"", "weights": { "quietly-coasting": 3 } },
+        { "text": "\"My worth rises and falls on what people think of me.\"", "weights": { "striving-for-approval": 3 } }
+      ]
+    },
+    {
+      "text": "How do you handle rest?",
+      "options": [
+        { "text": "I take it without guilt. It fuels the work.", "weights": { "holy-ambition": 3 } },
+        { "text": "Badly. Rest feels like falling behind.", "weights": { "driven-and-restless": 3 } },
+        { "text": "Maybe too well. I've drifted into coasting.", "weights": { "quietly-coasting": 3 } },
+        { "text": "I can't rest until I've earned everyone's approval.", "weights": { "striving-for-approval": 3 } }
+      ]
+    },
+    {
+      "text": "What's the quiet fear underneath your relationship with work?",
+      "options": [
+        { "text": "Not much fear. I hold my ambitions with open hands.", "weights": { "holy-ambition": 2, "surrendered": 1 } },
+        { "text": "That if I stop pushing, I'll lose my edge.", "weights": { "driven-and-restless": 3 } },
+        { "text": "That I'm wasting gifts I've stopped using.", "weights": { "quietly-coasting": 3 } },
+        { "text": "That without the applause, I'm nobody.", "weights": { "striving-for-approval": 3 } }
+      ]
+    },
+    {
+      "text": "Where does God fit into your ambitions?",
+      "options": [
+        { "text": "He's the point. I want my work to matter to Him.", "weights": { "holy-ambition": 3 } },
+        { "text": "I mean well, but the hustle often crowds Him out.", "weights": { "driven-and-restless": 3 } },
+        { "text": "I've kind of stalled on the whole calling question.", "weights": { "quietly-coasting": 3 } },
+        { "text": "I've handed it all to Him and stopped striving.", "weights": { "surrendered": 3 } }
+      ]
+    },
+    {
+      "text": "What does success actually mean to you, honestly?",
+      "options": [
+        { "text": "Faithfully doing what I was made to do.", "weights": { "holy-ambition": 3 } },
+        { "text": "More. Bigger. The next rung on the ladder.", "weights": { "driven-and-restless": 3 } },
+        { "text": "I've stopped defining it. I'm just getting by.", "weights": { "quietly-coasting": 3 } },
+        { "text": "Being admired and validated by the right people.", "weights": { "striving-for-approval": 3 } }
+      ]
+    },
+    {
+      "text": "How do you respond when someone else gets the win you wanted?",
+      "options": [
+        { "text": "I can genuinely celebrate them. There's room for both of us.", "weights": { "holy-ambition": 2, "surrendered": 1 } },
+        { "text": "It lights a fire under me to outdo them.", "weights": { "driven-and-restless": 3 } },
+        { "text": "I shrug. I wasn't really in the race anyway.", "weights": { "quietly-coasting": 3 } },
+        { "text": "It stings, because their applause was supposed to be mine.", "weights": { "striving-for-approval": 3 } }
+      ]
+    },
+    {
+      "text": "What do you most need to hear about your drive?",
+      "options": [
+        { "text": "\"Keep building, and keep resting in Me.\"", "weights": { "holy-ambition": 3 } },
+        { "text": "\"You can slow down. Enough is allowed to be enough.\"", "weights": { "driven-and-restless": 3 } },
+        { "text": "\"Don't bury the gifts I gave you. Step back in.\"", "weights": { "quietly-coasting": 3 } },
+        { "text": "\"You already have My approval. Stop auditioning.\"", "weights": { "striving-for-approval": 3 } }
+      ]
+    },
+    {
+      "text": "If you named your relationship with ambition, it's...",
+      "options": [
+        { "text": "Holy ambition.", "weights": { "holy-ambition": 3 } },
+        { "text": "Driven and restless.", "weights": { "driven-and-restless": 3 } },
+        { "text": "Quietly coasting.", "weights": { "quietly-coasting": 3 } },
+        { "text": "Surrendered.", "weights": { "surrendered": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "holy-ambition": {
+      "name": "Holy Ambition",
+      "description": "Your drive has a healthy root. You want to do meaningful work, you give it real effort, and you do it for God rather than for your own glory. That's not something to apologize for. The Bible doesn't condemn ambition. It redirects it. Working hard as though for the Lord, building well, stewarding your gifts, all of that is good and God-honoring. The thing to watch is the slow creep from doing great work for Him into needing the great work to feel okay about yourself. Keep your hands open. Build with everything you've got, and hold it all loosely. That balance you've found is rarer than you think.",
+      "scripture": { "text": "Whatever you do, work at it with all your heart, as working for the Lord, not for human masters.", "reference": "Colossians 3:23" }
+    },
+    "driven-and-restless": {
+      "name": "Driven & Restless",
+      "description": "There's a motor in you that won't switch off. You hit a goal and immediately chase the next one, rest feels like falling behind, and enough never quite arrives. That intensity can accomplish a lot, and it can also quietly run you into the ground while crowding God out of the picture. Here's the freedom you keep skipping past: your worth was never tied to your output. You are allowed to stop, breathe, and let enough be enough. God built rest into the rhythm of a good life on purpose, and He's not impressed by exhaustion. Slow down before the hustle costs you the things the hustle was supposed to protect.",
+      "scripture": { "text": "It is in vain that you rise up early and go late to rest, eating the bread of anxious toil; for he gives to his beloved sleep.", "reference": "Psalm 127:2" }
+    },
+    "quietly-coasting": {
+      "name": "Quietly Coasting",
+      "description": "You've eased off. The drive that used to be there has gone quiet, and you're mostly getting by, not really reaching for anything. Sometimes that's a needed rest after a hard stretch, and that's fine. But if you're honest, this feels more like drifting, and there's a low ache about gifts you've stopped using. That ache is worth listening to. You were entrusted with real abilities, and the point was never to bury them somewhere safe. You don't have to leap into burnout to come back to life. Pick one small thing to step toward this week. The God who gave you those gifts would love to see you use them again.",
+      "scripture": { "text": "Each of you should use whatever gift you have received to serve others.", "reference": "1 Peter 4:10" }
+    },
+    "striving-for-approval": {
+      "name": "Striving For Approval",
+      "description": "Your drive isn't really about the work. It's about the applause. You chase achievement to feel admired, and your sense of worth rises and falls on what people think of you, which is an exhausting way to live because the crowd is never satisfied for long. Here's what breaks the cycle. You already have the only approval that lasts. God set His love on you and called you His before you accomplished a single impressive thing, and nothing you do can earn more of it. You can stop auditioning for a verdict that's already been given in your favor. Work from acceptance instead of for it. That's where the striving finally gets to rest.",
+      "scripture": { "text": "Am I now trying to win the approval of human beings, or of God? Or am I trying to please people?", "reference": "Galatians 1:10" }
+    },
+    "surrendered": {
+      "name": "Surrendered",
+      "description": "You've reached a quiet, hard-won place. You've handed your ambitions to God and stopped white-knuckling the outcomes, and there's a real peace in that, the peace of someone who's no longer striving to prove anything. That surrender is beautiful, and it's worth protecting. Just make sure surrender stays alive and not passive. Laying your plans before God isn't the same as having no plans. He still has good work for you, things to build and steward, and surrender means doing them with open hands rather than not doing them at all. Keep offering your ambitions to Him daily, then step forward into whatever He hands back. Held loosely, your drive becomes His to direct.",
+      "scripture": { "text": "Commit to the Lord whatever you do, and he will establish your plans.", "reference": "Proverbs 16:3" }
+    }
+  }
+}
