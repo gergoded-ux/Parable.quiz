@@ -59,3 +59,31 @@ export const ProfileTest = TestBase.extend({
 });
 
 export type ProfileTest = z.infer<typeof ProfileTest>;
+
+const KnowledgeQuestion = z.object({
+  text: z.string().min(1),
+  options: z.array(z.object({
+    text: z.string().min(1),
+    correct: z.boolean(),
+    explanation: z.string().optional(),
+  })).min(2),
+});
+
+export const KnowledgeTest = TestBase.extend({
+  mode: z.literal('knowledge'),
+  questions: z.array(KnowledgeQuestion).min(1),
+  scoring: z.object({
+    perfectMessage: z.string().min(1),
+    gradeBands: z.array(z.object({
+      min: z.number().int().min(0).max(100),
+      max: z.number().int().min(0).max(100),
+      label: z.string().min(1),
+      message: z.string().min(1),
+    })).min(1),
+  }),
+});
+
+export type KnowledgeTest = z.infer<typeof KnowledgeTest>;
+
+export const Test = z.discriminatedUnion('mode', [ArchetypeTest, ProfileTest, KnowledgeTest]);
+export type Test = z.infer<typeof Test>;

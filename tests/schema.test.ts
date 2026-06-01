@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { ScriptureRef, TestBase, ArchetypeTest, ProfileTest } from '@/lib/schema';
+import { ScriptureRef, TestBase, ArchetypeTest, ProfileTest, KnowledgeTest, Test } from '@/lib/schema';
 
 describe('ScriptureRef', () => {
   it('accepts non-empty string', () => {
@@ -114,5 +114,57 @@ describe('ProfileTest', () => {
   it('requires at least one dimension', () => {
     const bad = { ...validProfile, dimensions: [] };
     expect(ProfileTest.safeParse(bad).success).toBe(false);
+  });
+});
+
+describe('KnowledgeTest', () => {
+  const validKnowledge = {
+    slug: 'genesis-iq',
+    title: 'Genesis IQ',
+    lang: 'en',
+    category: 'bible-iq',
+    estimatedMinutes: 5,
+    mode: 'knowledge' as const,
+    questions: [{
+      text: 'Who tempted Eve in the Garden?',
+      options: [
+        { text: 'The serpent', correct: true,  explanation: 'Genesis 3:1' },
+        { text: 'A dragon',    correct: false },
+      ],
+    }],
+    scoring: {
+      perfectMessage: 'Eden-level scholar!',
+      gradeBands: [
+        { min: 0, max: 50,  label: 'Beginner', message: 'Time to crack open Genesis.' },
+        { min: 51, max: 100, label: 'Strong',   message: 'You know the beginning.' },
+      ],
+    },
+  };
+
+  it('accepts a valid knowledge test', () => {
+    expect(KnowledgeTest.safeParse(validKnowledge).success).toBe(true);
+  });
+  it('requires at least one question', () => {
+    const bad = { ...validKnowledge, questions: [] };
+    expect(KnowledgeTest.safeParse(bad).success).toBe(false);
+  });
+});
+
+describe('Test (discriminated union)', () => {
+  it('routes archetype mode to ArchetypeTest', () => {
+    const result = Test.safeParse({
+      slug: 's', title: 't', lang: 'en', category: 'bible-character', estimatedMinutes: 1,
+      mode: 'archetype',
+      questions: [{ text: 'q', options: [{ text: 'a', weights: { x: 1 } }, { text: 'b', weights: { y: 1 } }] }],
+      results: { x: { name: 'X', emoji: '⚓', traits: ['a'], description: 'd', scriptureRef: 'r' } },
+    });
+    expect(result.success).toBe(true);
+  });
+  it('rejects unknown mode', () => {
+    const result = Test.safeParse({
+      slug: 's', title: 't', lang: 'en', category: 'bible-iq', estimatedMinutes: 1,
+      mode: 'unknown',
+    });
+    expect(result.success).toBe(false);
   });
 });
