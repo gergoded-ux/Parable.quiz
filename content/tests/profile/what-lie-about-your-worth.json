@@ -1,0 +1,129 @@
+{
+  "slug": "what-lie-about-your-worth",
+  "title": "What Lie About Your Worth Do You Believe?",
+  "subtitle": "Name the lie running your self-talk, then hear what God actually says.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "im-too-much",
+    "im-not-enough",
+    "im-unlovable",
+    "i-have-to-earn-it"
+  ],
+  "questions": [
+    {
+      "text": "When you walk away from a conversation, the worry that lingers is...",
+      "options": [
+        { "text": "\"I was too loud, too intense, too much again.\"", "weights": { "im-too-much": 3 } },
+        { "text": "\"I didn't have anything worth saying.\"", "weights": { "im-not-enough": 3 } },
+        { "text": "\"They were just being polite. They don't actually like me.\"", "weights": { "im-unlovable": 3 } },
+        { "text": "\"I should have done more to be useful.\"", "weights": { "i-have-to-earn-it": 3 } }
+      ]
+    },
+    {
+      "text": "In relationships, your quiet pattern is to...",
+      "options": [
+        { "text": "Shrink myself so I don't overwhelm anyone.", "weights": { "im-too-much": 3 } },
+        { "text": "Assume I'll be replaced by someone better.", "weights": { "im-not-enough": 3 } },
+        { "text": "Brace for the moment they realize I'm unlovable.", "weights": { "im-unlovable": 3 } },
+        { "text": "Keep proving my value so they'll keep me around.", "weights": { "i-have-to-earn-it": 3 } }
+      ]
+    },
+    {
+      "text": "Where do you think this lie first took root?",
+      "options": [
+        { "text": "Being told to calm down, tone it down, be less.", "weights": { "im-too-much": 3 } },
+        { "text": "Never quite measuring up no matter how hard I tried.", "weights": { "im-not-enough": 3 } },
+        { "text": "Love that came and went, so I stopped trusting it.", "weights": { "im-unlovable": 3 } },
+        { "text": "Only getting praise when I performed.", "weights": { "i-have-to-earn-it": 3 } }
+      ]
+    },
+    {
+      "text": "When someone gives you a compliment, you...",
+      "options": [
+        { "text": "Worry I'm taking up too much attention.", "weights": { "im-too-much": 3 } },
+        { "text": "Wave it off because surely they're exaggerating.", "weights": { "im-not-enough": 3 } },
+        { "text": "Quietly disbelieve that they mean it.", "weights": { "im-unlovable": 3 } },
+        { "text": "Feel like I now owe them something in return.", "weights": { "i-have-to-earn-it": 3 } }
+      ]
+    },
+    {
+      "text": "The version of you that you hide is the one that's...",
+      "options": [
+        { "text": "Big, feeling, alive. The you people called \"a lot.\"", "weights": { "im-too-much": 3 } },
+        { "text": "Ordinary, average, not impressive at all.", "weights": { "im-not-enough": 3 } },
+        { "text": "Needy, the part that just wants to be wanted.", "weights": { "im-unlovable": 3 } },
+        { "text": "Tired, the part that's exhausted from striving.", "weights": { "i-have-to-earn-it": 3 } }
+      ]
+    },
+    {
+      "text": "When you imagine God looking at you, you brace for Him to...",
+      "options": [
+        { "text": "Find me overwhelming, like everyone else does.", "weights": { "im-too-much": 3 } },
+        { "text": "See how much I fall short.", "weights": { "im-not-enough": 3 } },
+        { "text": "Love me out of duty, not delight.", "weights": { "im-unlovable": 3 } },
+        { "text": "Add up whether I've done enough lately.", "weights": { "i-have-to-earn-it": 3 } }
+      ]
+    },
+    {
+      "text": "Your harshest self-talk usually sounds like...",
+      "options": [
+        { "text": "\"Rein it in. You're too much for people.\"", "weights": { "im-too-much": 3 } },
+        { "text": "\"You're just not enough, and you never will be.\"", "weights": { "im-not-enough": 3 } },
+        { "text": "\"If they really knew you, they'd leave.\"", "weights": { "im-unlovable": 2, "im-too-much": 1 } },
+        { "text": "\"You haven't earned the right to rest yet.\"", "weights": { "i-have-to-earn-it": 3 } }
+      ]
+    },
+    {
+      "text": "What would relief feel like for you?",
+      "options": [
+        { "text": "Being fully myself and finding out I'm not too much.", "weights": { "im-too-much": 3 } },
+        { "text": "Believing I'm enough without the proof.", "weights": { "im-not-enough": 3 } },
+        { "text": "Trusting a love that doesn't leave.", "weights": { "im-unlovable": 3 } },
+        { "text": "Knowing I'm loved before I do a single thing.", "weights": { "i-have-to-earn-it": 3 } }
+      ]
+    },
+    {
+      "text": "Which truth feels hardest to actually believe about yourself?",
+      "options": [
+        { "text": "\"You are not too much. You're wonderfully made.\"", "weights": { "im-too-much": 3 } },
+        { "text": "\"You are enough, because He's enough in you.\"", "weights": { "im-not-enough": 3 } },
+        { "text": "\"You are loved with a love that never quits.\"", "weights": { "im-unlovable": 3 } },
+        { "text": "\"You are accepted as a gift, not a wage.\"", "weights": { "i-have-to-earn-it": 3 } }
+      ]
+    },
+    {
+      "text": "If the lie were gone for good, the first thing you'd do is...",
+      "options": [
+        { "text": "Stop apologizing for taking up space.", "weights": { "im-too-much": 3 } },
+        { "text": "Step into something I've felt too small for.", "weights": { "im-not-enough": 3 } },
+        { "text": "Let people in without waiting for them to bail.", "weights": { "im-unlovable": 3 } },
+        { "text": "Finally rest without guilt.", "weights": { "i-have-to-earn-it": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "im-too-much": {
+      "name": "The \"I'm Too Much\" Lie",
+      "description": "Somewhere along the way you learned to apologize for your own size, to dim the parts of you that feel big. So you shrink, edit, and brace for someone to call you \"a lot.\" But God didn't make a mistake when He made you vivid. You're not too much. You were carefully, wonderfully made, and you don't have to disappear to be loved.",
+      "scripture": { "text": "I praise you because I am fearfully and wonderfully made.", "reference": "Psalm 139:14" }
+    },
+    "im-not-enough": {
+      "name": "The \"I'm Not Enough\" Lie",
+      "description": "No matter how hard you try, a voice keeps whispering that you fall short. So you over-prove, or you hold back from things you secretly want. Here's the freedom: your enough was never meant to come from you. God's grace meets you exactly where you run out, and His strength shows up best right there.",
+      "scripture": { "text": "My grace is sufficient for you, for my power is made perfect in weakness.", "reference": "2 Corinthians 12:9" }
+    },
+    "im-unlovable": {
+      "name": "The \"I'm Unlovable\" Lie",
+      "description": "Love came and went on you once, so part of you stopped trusting it. You keep waiting for people to see the real you and leave. But God's love isn't the fragile kind that bails when things get hard. He chose you, and nothing about you can talk Him out of it. You are not too much to love. You're already loved completely.",
+      "scripture": { "text": "I have loved you with an everlasting love; I have drawn you with unfailing kindness.", "reference": "Jeremiah 31:3" }
+    },
+    "i-have-to-earn-it": {
+      "name": "The \"I Have to Earn It\" Lie",
+      "description": "You learned to perform for love, so rest feels like something you haven't paid for yet. The exhausting math never ends, because there's always more you could do. But you can stop. God's acceptance isn't a paycheck you clock in for. It's a gift He already handed you, and you can finally put down the striving.",
+      "scripture": { "text": "It is by grace you have been saved, through faith, and this is not from yourselves; it is the gift of God.", "reference": "Ephesians 2:8" }
+    }
+  }
+}

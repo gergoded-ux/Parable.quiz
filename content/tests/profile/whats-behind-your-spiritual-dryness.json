@@ -1,0 +1,117 @@
+{
+  "slug": "whats-behind-your-spiritual-dryness",
+  "title": "What's Behind Your Spiritual Dryness?",
+  "subtitle": "Your quiet times went flat. Here's the real reason, plus one next step instead of more guilt.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "soul-fatigue",
+    "hidden-sin-static",
+    "dark-night",
+    "distraction-drift",
+    "unprocessed-grief"
+  ],
+  "questions": [
+    {
+      "text": "When you sit down to pray or read lately, what happens?",
+      "options": [
+        { "text": "I'm just too tired and empty to engage with anything.", "weights": { "soul-fatigue": 3 } },
+        { "text": "There's a low static, like something's quietly off between me and God.", "weights": { "hidden-sin-static": 3 } },
+        { "text": "It's dry, but underneath I sense God is doing something deeper.", "weights": { "dark-night": 3 } },
+        { "text": "My mind is everywhere except where I'm trying to put it.", "weights": { "distraction-drift": 3 } }
+      ]
+    },
+    {
+      "text": "What does the dryness feel like underneath?",
+      "options": [
+        { "text": "Depletion. There's nothing left in the tank.", "weights": { "soul-fatigue": 3 } },
+        { "text": "A nagging conviction I keep brushing aside.", "weights": { "hidden-sin-static": 3 } },
+        { "text": "A holy ache, like God is purposely drawing me deeper.", "weights": { "dark-night": 3 } },
+        { "text": "A heavy sadness I haven't really let myself feel.", "weights": { "unprocessed-grief": 3 } }
+      ]
+    },
+    {
+      "text": "Be honest. What's true about your pace right now?",
+      "options": [
+        { "text": "I'm running on fumes in every area of life.", "weights": { "soul-fatigue": 3 } },
+        { "text": "My schedule and screens have crowded God out completely.", "weights": { "distraction-drift": 3 } },
+        { "text": "I'm stretched, but the deeper issue isn't busyness.", "weights": { "dark-night": 2, "unprocessed-grief": 1 } },
+        { "text": "I stay busy partly so I don't have to sit with something.", "weights": { "unprocessed-grief": 2, "hidden-sin-static": 1 } }
+      ]
+    },
+    {
+      "text": "When you picture God right now, He feels...",
+      "options": [
+        { "text": "Far, but only because I'm too worn out to reach.", "weights": { "soul-fatigue": 3 } },
+        { "text": "A little distant, like there's a barrier I keep avoiding.", "weights": { "hidden-sin-static": 3 } },
+        { "text": "Quiet on purpose, like He's weaning me onto something deeper than feelings.", "weights": { "dark-night": 3 } },
+        { "text": "Crowded out by noise I keep choosing.", "weights": { "distraction-drift": 3 } }
+      ]
+    },
+    {
+      "text": "What's been happening in your life lately?",
+      "options": [
+        { "text": "Loss or change I haven't fully grieved.", "weights": { "unprocessed-grief": 3 } },
+        { "text": "Nonstop demands that have drained me dry.", "weights": { "soul-fatigue": 3 } },
+        { "text": "A pull toward something I know isn't good for me.", "weights": { "hidden-sin-static": 3 } },
+        { "text": "An endless stream of distractions filling every gap.", "weights": { "distraction-drift": 3 } }
+      ]
+    },
+    {
+      "text": "Which thought sounds most like yours?",
+      "options": [
+        { "text": "I'm not far from God, I'm just completely empty.", "weights": { "soul-fatigue": 3 } },
+        { "text": "There's something I keep avoiding dealing with.", "weights": { "hidden-sin-static": 3 } },
+        { "text": "Maybe this silence is God's doing, not my failure.", "weights": { "dark-night": 3 } },
+        { "text": "I never actually stop long enough to hear Him.", "weights": { "distraction-drift": 3 } }
+      ]
+    },
+    {
+      "text": "What do you most need right now?",
+      "options": [
+        { "text": "Deep rest for a soul that's worn out.", "weights": { "soul-fatigue": 3 } },
+        { "text": "To confess the thing I've been hiding and feel clean again.", "weights": { "hidden-sin-static": 3 } },
+        { "text": "To trust God in the dark without needing to feel Him.", "weights": { "dark-night": 3 } },
+        { "text": "To finally grieve what I've been pushing down.", "weights": { "unprocessed-grief": 3 } }
+      ]
+    },
+    {
+      "text": "If God whispered one sentence to you today, you'd want to hear...",
+      "options": [
+        { "text": "Come rest. You don't have to produce anything for Me.", "weights": { "soul-fatigue": 3 } },
+        { "text": "Bring it into the light. There's nothing you can't tell Me.", "weights": { "hidden-sin-static": 3 } },
+        { "text": "I haven't left. I'm closer than this silence feels.", "weights": { "dark-night": 3 } },
+        { "text": "Put down the noise. I've been here the whole time.", "weights": { "distraction-drift": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "soul-fatigue": {
+      "name": "Soul Fatigue (you're empty, not far)",
+      "description": "Your quiet times went flat because you're running on empty, not because God walked away. There's a real difference, and it changes everything. You don't need to grind harder or feel guilty. You need rest, the deep kind that refills a worn-out soul. Jesus doesn't ask the weary to perform. He invites them to come and lie down. Start there, with no shame attached.",
+      "scripture": { "text": "He makes me lie down in green pastures, he leads me beside quiet waters, he refreshes my soul.", "reference": "Psalm 23:2-3" }
+    },
+    "hidden-sin-static": {
+      "name": "Hidden Sin Static",
+      "description": "There's a quiet static between you and God, and somewhere underneath it is something you keep avoiding. This isn't God shaming you. It's the gentle nudge of the Spirit inviting you back into the open. The fix is simpler and kinder than you fear: bring it into the light, confess it honestly, and let the connection clear. He's not waiting to scold you. He's waiting to restore you.",
+      "scripture": { "text": "If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness.", "reference": "1 John 1:9" }
+    },
+    "dark-night": {
+      "name": "The Dark Night (God is weaning, not leaving)",
+      "description": "This dryness might not be a problem to fix at all. Sometimes God goes quiet on purpose, weaning you off the warm feelings so you'll learn to trust Him for who He is, not for the rush. That's not abandonment. It's a deeper invitation. Keep showing up in the dark, even when you feel nothing. Faith that holds on without the feelings is the strongest faith there is.",
+      "scripture": { "text": "When you pass through the waters, I will be with you.", "reference": "Isaiah 43:2" }
+    },
+    "distraction-drift": {
+      "name": "Distraction Drift",
+      "description": "God didn't go silent. The noise just got loud enough to drown Him out. Between the screens and the schedule and the endless input, there's no quiet left for Him to fill. The good news is this one's fixable fast. Carve out a little silence, put the phone down, and make some room. He's been there the whole time, waiting for the static to clear.",
+      "scripture": { "text": "Be still, and know that I am God.", "reference": "Psalm 46:10" }
+    },
+    "unprocessed-grief": {
+      "name": "Unprocessed Grief",
+      "description": "Your dryness might really be grief in disguise, a loss or change you haven't let yourself fully feel. When we push sadness down, it can flatten everything, including our sense of God. He isn't asking you to skip the grief to get back to Him. He meets you inside it. Let yourself mourn honestly. Bringing your tears to God is not a detour from faith. It's some of the most honest worship there is.",
+      "scripture": { "text": "You keep track of all my sorrows. You have collected all my tears in your bottle.", "reference": "Psalm 56:8" }
+    }
+  }
+}

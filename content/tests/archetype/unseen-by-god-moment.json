@@ -1,0 +1,113 @@
+{
+  "slug": "unseen-by-god-moment",
+  "title": "Which \"Unseen by God\" Moment Do You Relate To?",
+  "subtitle": "When it feels like God forgot you, one of these stories already gets it.",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 4,
+  "mode": "archetype",
+  "questions": [
+    {
+      "text": "What does your kind of lonely feel like?",
+      "options": [
+        { "text": "Cast out. Like I was sent away and left to fend for myself.", "weights": { "hagar-in-the-wilderness": 3 } },
+        { "text": "Empty after giving everything. I just want to disappear.", "weights": { "elijah-under-the-broom-tree": 3 } },
+        { "text": "Aching for something I keep begging God for and not getting.", "weights": { "hannah-at-the-temple": 3 } },
+        { "text": "Hunted and hiding, like no one's coming to find me.", "weights": { "david-in-the-caves": 3 } }
+      ]
+    },
+    {
+      "text": "Where do you find yourself when the loneliness hits hardest?",
+      "options": [
+        { "text": "Out in the middle of nowhere, far from everyone.", "weights": { "hagar-in-the-wilderness": 3 } },
+        { "text": "Collapsed somewhere, too tired to even pray.", "weights": { "elijah-under-the-broom-tree": 3 } },
+        { "text": "On my knees, crying so hard the words won't come.", "weights": { "hannah-at-the-temple": 3 } },
+        { "text": "Tucked away somewhere safe, waiting for the danger to pass.", "weights": { "david-in-the-caves": 3 } }
+      ]
+    },
+    {
+      "text": "What's the lie you're most tempted to believe?",
+      "options": [
+        { "text": "Nobody wanted me, so God must not either.", "weights": { "hagar-in-the-wilderness": 2, "david-in-the-caves": 1 } },
+        { "text": "I gave it all and there's nothing left, so what's the point.", "weights": { "elijah-under-the-broom-tree": 3 } },
+        { "text": "God hears everyone else's prayers but mine.", "weights": { "hannah-at-the-temple": 3 } },
+        { "text": "I'm completely on my own and no one's looking for me.", "weights": { "david-in-the-caves": 3 } }
+      ]
+    },
+    {
+      "text": "How did you end up feeling so unseen?",
+      "options": [
+        { "text": "Someone pushed me out of a place I thought was home.", "weights": { "hagar-in-the-wilderness": 3 } },
+        { "text": "I poured myself out for a calling until I had nothing left.", "weights": { "elijah-under-the-broom-tree": 3 } },
+        { "text": "Years of unanswered prayer over the same deep longing.", "weights": { "hannah-at-the-temple": 2, "hagar-in-the-wilderness": 1 } },
+        { "text": "People I trusted turned on me and now I'm in hiding.", "weights": { "david-in-the-caves": 3 } }
+      ]
+    },
+    {
+      "text": "What would it take for you to feel found again?",
+      "options": [
+        { "text": "Just knowing God actually sees me, by name, right here.", "weights": { "hagar-in-the-wilderness": 3 } },
+        { "text": "Rest, food, and someone telling me I'm not finished.", "weights": { "elijah-under-the-broom-tree": 3 } },
+        { "text": "One yes. One sign He heard the prayer I keep praying.", "weights": { "hannah-at-the-temple": 3 } },
+        { "text": "A safe place and the sense that I'm not facing this alone.", "weights": { "david-in-the-caves": 3 } }
+      ]
+    },
+    {
+      "text": "When you do pray, what comes out?",
+      "options": [
+        { "text": "Does anyone even see what's happening to me?", "weights": { "hagar-in-the-wilderness": 3 } },
+        { "text": "I'm done, Lord. Honestly, take it from here.", "weights": { "elijah-under-the-broom-tree": 3 } },
+        { "text": "Please remember me. Please don't forget me.", "weights": { "hannah-at-the-temple": 3 } },
+        { "text": "Be my refuge. There's no one else I can run to.", "weights": { "david-in-the-caves": 3 } }
+      ]
+    },
+    {
+      "text": "What do other people not understand about your situation?",
+      "options": [
+        { "text": "How alone it feels to be the one nobody chose.", "weights": { "hagar-in-the-wilderness": 3 } },
+        { "text": "That I look strong but I'm running on completely empty.", "weights": { "elijah-under-the-broom-tree": 3 } },
+        { "text": "The depth of a longing I can barely say out loud.", "weights": { "hannah-at-the-temple": 3 } },
+        { "text": "That I'm not hiding because I'm weak. I'm surviving.", "weights": { "david-in-the-caves": 3 } }
+      ]
+    },
+    {
+      "text": "Deep down, what do you still hope is true?",
+      "options": [
+        { "text": "That there's a God who sees me even out here.", "weights": { "hagar-in-the-wilderness": 3 } },
+        { "text": "That God meets the worn-out gently, not with a lecture.", "weights": { "elijah-under-the-broom-tree": 3 } },
+        { "text": "That He keeps track of every tear I've cried.", "weights": { "hannah-at-the-temple": 3 } },
+        { "text": "That He's a hiding place I can actually trust.", "weights": { "david-in-the-caves": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "hagar-in-the-wilderness": {
+      "name": "Hagar in the Wilderness",
+      "emoji": "🏜️",
+      "traits": ["Cast-out", "Weary", "Seen"],
+      "description": "You've been pushed out and left in the wilderness, certain no one noticed. But Hagar's story is where God gets one of His most tender names. Out in that empty place, she met the God who sees, and she said it back to Him: You are the God who sees me. That same God sees you, right here, by name. You are not invisible to Him.",
+      "scripture": { "text": "Thou God seest me.", "reference": "Genesis 16:13" }
+    },
+    "elijah-under-the-broom-tree": {
+      "name": "Elijah Under the Broom Tree",
+      "emoji": "🌳",
+      "traits": ["Spent", "Honest", "Tended"],
+      "description": "You poured yourself out and now you're under the broom tree, so empty you've prayed to just be done. Watch how God treats Elijah there. No scolding. He sends an angel with food and lets him sleep, twice, before a single word of instruction. He's not angry at your exhaustion. He's tending it. Let Him feed you first.",
+      "scripture": { "text": "Arise and eat; because the journey is too great for thee.", "reference": "1 Kings 19:7" }
+    },
+    "hannah-at-the-temple": {
+      "name": "Hannah at the Temple",
+      "emoji": "🕯️",
+      "traits": ["Aching", "Persistent", "Heard"],
+      "description": "You've carried a longing so deep that you can barely speak it, praying through tears while it feels like heaven stays quiet. Hannah prayed like that, her lips moving with no sound, and God heard every word. He remembered her. He keeps track of the prayers you can't even finish, and He has not forgotten yours.",
+      "scripture": { "text": "And the Lord remembered her.", "reference": "1 Samuel 1:19" }
+    },
+    "david-in-the-caves": {
+      "name": "David in the Caves",
+      "emoji": "🪨",
+      "traits": ["Hunted", "Hidden", "Held"],
+      "description": "You're in the cave: hidden, worn down, sure that no one is coming for you. David wrote some of his most honest words from exactly there. He told God he felt utterly alone, that no one cared for his soul, and then he chose to make God his refuge anyway. The cave isn't where God lost you. It's where He's keeping you.",
+      "scripture": { "text": "Thou art my refuge and my portion in the land of the living.", "reference": "Psalm 142:5" }
+    }
+  }
+}

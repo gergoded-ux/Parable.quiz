@@ -1,0 +1,120 @@
+{
+  "slug": "can-you-forgive-someone-who-isnt-sorry",
+  "title": "Can You Forgive Someone Who Isn't Sorry?",
+  "subtitle": "Forgiveness and reconciliation are not the same thing. Let's find where you actually are.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "ready-to-release",
+    "forgiveness-vs-reconciliation",
+    "waiting-on-apology",
+    "wound-still-aches"
+  ],
+  "questions": [
+    {
+      "text": "When their name comes up in conversation, what happens in your chest?",
+      "options": [
+        { "text": "Not much anymore. I've handed it to God and I mean it.", "weights": { "ready-to-release": 3 } },
+        { "text": "A flicker of warmth, then a stop sign. I won't let them close again.", "weights": { "forgiveness-vs-reconciliation": 3 } },
+        { "text": "A jolt of hope that maybe this is the day they finally say sorry.", "weights": { "waiting-on-apology": 3 } },
+        { "text": "A dull ache. I don't hate them, but it still hurts.", "weights": { "wound-still-aches": 3 } }
+      ]
+    },
+    {
+      "text": "What does forgiveness actually mean to you right now?",
+      "options": [
+        { "text": "Letting them off my hook and trusting God with the rest.", "weights": { "ready-to-release": 3 } },
+        { "text": "Honestly, I keep thinking it means we have to be close again.", "weights": { "forgiveness-vs-reconciliation": 3 } },
+        { "text": "Something I'll do once they admit what they did.", "weights": { "waiting-on-apology": 3 } },
+        { "text": "Something I've already chosen, even though it still stings.", "weights": { "wound-still-aches": 3 } }
+      ]
+    },
+    {
+      "text": "If they apologized tomorrow, what would you want?",
+      "options": [
+        { "text": "I'd receive it warmly. I already released them either way.", "weights": { "ready-to-release": 2, "wound-still-aches": 1 } },
+        { "text": "I'd accept the words but keep my boundaries firmly in place.", "weights": { "forgiveness-vs-reconciliation": 3 } },
+        { "text": "Relief. It's the thing I've been quietly waiting for.", "weights": { "waiting-on-apology": 3 } },
+        { "text": "It would help, but I know it won't undo what I felt.", "weights": { "wound-still-aches": 2, "waiting-on-apology": 1 } }
+      ]
+    },
+    {
+      "text": "Be honest about the boundary question. Where do you land?",
+      "options": [
+        { "text": "I can forgive fully and still choose not to reopen the door.", "weights": { "forgiveness-vs-reconciliation": 3 } },
+        { "text": "I've let it go and I'm at peace with whatever distance remains.", "weights": { "ready-to-release": 3 } },
+        { "text": "I keep the door cracked, hoping they'll walk back through it.", "weights": { "waiting-on-apology": 2, "wound-still-aches": 1 } },
+        { "text": "I've forgiven them in my heart but I'm still guarding the sore spot.", "weights": { "wound-still-aches": 3 } }
+      ]
+    },
+    {
+      "text": "How often do you replay what they did?",
+      "options": [
+        { "text": "Rarely. The loop mostly went quiet once I gave it to God.", "weights": { "ready-to-release": 3 } },
+        { "text": "When I'm tempted to let them back in, to remind myself why I won't.", "weights": { "forgiveness-vs-reconciliation": 2, "wound-still-aches": 1 } },
+        { "text": "Constantly, usually paired with imagining their apology.", "weights": { "waiting-on-apology": 3 } },
+        { "text": "Less than I used to, but the memory still catches me off guard.", "weights": { "wound-still-aches": 3 } }
+      ]
+    },
+    {
+      "text": "Which sentence sounds the most like the real you?",
+      "options": [
+        { "text": "I genuinely wish them well, even from a distance.", "weights": { "ready-to-release": 3 } },
+        { "text": "I forgive you, but I'm not going to pretend nothing happened.", "weights": { "forgiveness-vs-reconciliation": 3 } },
+        { "text": "I'll be okay the moment they own what they did to me.", "weights": { "waiting-on-apology": 3 } },
+        { "text": "I've made peace with it, but some days it still aches.", "weights": { "wound-still-aches": 3 } }
+      ]
+    },
+    {
+      "text": "What's holding the most weight in you right now?",
+      "options": [
+        { "text": "Freedom. I'm lighter than I've been in a long time.", "weights": { "ready-to-release": 3 } },
+        { "text": "Confusion about whether forgiving means I have to trust them again.", "weights": { "forgiveness-vs-reconciliation": 3 } },
+        { "text": "Waiting. My healing feels tied to words they may never say.", "weights": { "waiting-on-apology": 3 } },
+        { "text": "Tenderness. The choice is made, but the scar is still healing.", "weights": { "wound-still-aches": 3 } }
+      ]
+    },
+    {
+      "text": "When you picture moving forward, what do you see?",
+      "options": [
+        { "text": "Me, walking on, hands open, nothing left to settle.", "weights": { "ready-to-release": 3 } },
+        { "text": "Me, kind from a safe distance, with the door closed and locked.", "weights": { "forgiveness-vs-reconciliation": 3 } },
+        { "text": "Me, still glancing back, waiting for them to make it right.", "weights": { "waiting-on-apology": 3 } },
+        { "text": "Me, healing slowly, gentle with the part that still hurts.", "weights": { "wound-still-aches": 3 } }
+      ]
+    },
+    {
+      "text": "What would feel most like good news to hear today?",
+      "options": [
+        { "text": "You already did the hard thing. You let it go.", "weights": { "ready-to-release": 3 } },
+        { "text": "You can forgive and still keep yourself safe.", "weights": { "forgiveness-vs-reconciliation": 3 } },
+        { "text": "Your peace doesn't have to wait on their apology.", "weights": { "waiting-on-apology": 3 } },
+        { "text": "It's okay that it still hurts while it heals.", "weights": { "wound-still-aches": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "ready-to-release": {
+      "name": "You're Ready to Release It",
+      "description": "You've done the quiet, costly work of handing this person over to God instead of holding the debt yourself. You're not pretending it didn't hurt. You've just decided their sorry isn't the key to your freedom anymore. That's real strength, and it looks a lot like Jesus.",
+      "scripture": { "text": "Father, forgive them, for they know not what they do.", "reference": "Luke 23:34" }
+    },
+    "forgiveness-vs-reconciliation": {
+      "name": "You're Confusing Forgiveness With Reconciliation",
+      "description": "Here's the relief you've been needing: forgiving someone and trusting them again are two different things. You can let go of what they owe you and still keep the door closed for your own safety. Forgiveness is something you give freely. Reconciliation has to be rebuilt, and only when it's safe.",
+      "scripture": { "text": "If it is possible, as far as it depends on you, live at peace with everyone.", "reference": "Romans 12:18" }
+    },
+    "waiting-on-apology": {
+      "name": "You're Waiting on an Apology That May Never Come",
+      "description": "You've tied your peace to a sentence they might never say, and that leaves your healing in their hands. The hard, freeing truth is that you can let it go without them ever owning it. You don't need their confession to put this down. God sees what happened, and your release can start today.",
+      "scripture": { "text": "Cast all your anxiety on him because he cares for you.", "reference": "1 Peter 5:7" }
+    },
+    "wound-still-aches": {
+      "name": "You've Forgiven but the Wound Still Aches",
+      "description": "You already made the choice to forgive, and that choice still counts even on the days it hurts. Forgiveness is a decision. Healing is a slower thing, and the two don't always arrive together. Be patient with the tender part of you. God is close to it, and He's not rushing you.",
+      "scripture": { "text": "He heals the brokenhearted and binds up their wounds.", "reference": "Psalm 147:3" }
+    }
+  }
+}

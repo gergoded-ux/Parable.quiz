@@ -1,0 +1,120 @@
+{
+  "slug": "is-it-conviction-or-shame",
+  "title": "Is It Conviction or Is It Shame?",
+  "subtitle": "One voice draws you toward God. The other just makes you want to hide. Let's figure out which one you're hearing.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "healthy-conviction",
+    "toxic-shame",
+    "tangled-mix",
+    "old-voice"
+  ],
+  "questions": [
+    {
+      "text": "When you mess up, the voice in your head usually says...",
+      "options": [
+        { "text": "That choice wasn't like you. Here's how to make it right.", "weights": { "healthy-conviction": 3 } },
+        { "text": "Of course you did. You're a disaster.", "weights": { "toxic-shame": 3 } },
+        { "text": "Some of both, and I can't tell where one stops and the other starts.", "weights": { "tangled-mix": 3 } },
+        { "text": "It sounds exactly like a parent or pastor from years ago.", "weights": { "old-voice": 3 } }
+      ]
+    },
+    {
+      "text": "After you sit with the feeling for a while, where does it pull you?",
+      "options": [
+        { "text": "Back toward God. I actually want to talk to Him about it.", "weights": { "healthy-conviction": 3 } },
+        { "text": "Into hiding. I want to disappear and avoid Him.", "weights": { "toxic-shame": 3 } },
+        { "text": "Both at once. I want to run to Him and run away.", "weights": { "tangled-mix": 3 } },
+        { "text": "Into a familiar dread I've felt since I was young.", "weights": { "old-voice": 2 } }
+      ]
+    },
+    {
+      "text": "The feeling tends to focus on...",
+      "options": [
+        { "text": "A specific thing I did, with a clear way forward.", "weights": { "healthy-conviction": 3 } },
+        { "text": "Me as a whole. Like I'm just bad, not that I did bad.", "weights": { "toxic-shame": 3 } },
+        { "text": "Sometimes the action, sometimes my whole self.", "weights": { "tangled-mix": 3 } },
+        { "text": "Whatever the old rules said would make me unacceptable.", "weights": { "old-voice": 3 } }
+      ]
+    },
+    {
+      "text": "How does the voice tend to sound?",
+      "options": [
+        { "text": "Firm but kind. Like someone who wants good for me.", "weights": { "healthy-conviction": 3 } },
+        { "text": "Harsh and contemptuous. Like it's disgusted with me.", "weights": { "toxic-shame": 3 } },
+        { "text": "It flips between gentle and brutal.", "weights": { "tangled-mix": 2 } },
+        { "text": "Like a specific person's tone I can still hear.", "weights": { "old-voice": 3 } }
+      ]
+    },
+    {
+      "text": "When you confess something to God, afterward you feel...",
+      "options": [
+        { "text": "Lighter. Forgiven. Ready to walk it out differently.", "weights": { "healthy-conviction": 3 } },
+        { "text": "Still filthy, like the confession didn't count.", "weights": { "toxic-shame": 3 } },
+        { "text": "Relieved for a minute, then the heaviness creeps back.", "weights": { "tangled-mix": 3 } },
+        { "text": "Like I have to keep groveling to be safe.", "weights": { "old-voice": 2 } }
+      ]
+    },
+    {
+      "text": "Where did you learn to feel this way about yourself?",
+      "options": [
+        { "text": "It's newer. It only shows up when I actually do wrong.", "weights": { "healthy-conviction": 2 } },
+        { "text": "Honestly, I've felt 'not enough for God' for as long as I can remember.", "weights": { "toxic-shame": 2 } },
+        { "text": "Some is real conviction, some I think I absorbed from people.", "weights": { "tangled-mix": 3 } },
+        { "text": "A church or home that ran on fear, rules, and disapproval.", "weights": { "old-voice": 3 } }
+      ]
+    },
+    {
+      "text": "When you imagine God looking at you right now, you picture...",
+      "options": [
+        { "text": "A Father who's for me, even while He nudges me to grow.", "weights": { "healthy-conviction": 3 } },
+        { "text": "Someone shaking His head, fed up with me.", "weights": { "toxic-shame": 3 } },
+        { "text": "It changes by the day, kind one moment, cold the next.", "weights": { "tangled-mix": 3 } },
+        { "text": "The angry authority figure I grew up under.", "weights": { "old-voice": 3 } }
+      ]
+    },
+    {
+      "text": "The feeling tends to leave you...",
+      "options": [
+        { "text": "Motivated to change, with hope it's possible.", "weights": { "healthy-conviction": 3 } },
+        { "text": "Paralyzed and worthless, sure I'll never be okay.", "weights": { "toxic-shame": 3 } },
+        { "text": "Stuck somewhere between trying and giving up.", "weights": { "tangled-mix": 2 } },
+        { "text": "Performing harder to finally earn approval.", "weights": { "old-voice": 2 } }
+      ]
+    },
+    {
+      "text": "Which sentence lands closest to home?",
+      "options": [
+        { "text": "\"I did something wrong, and I can own it.\"", "weights": { "healthy-conviction": 3 } },
+        { "text": "\"There's something wrong with me.\"", "weights": { "toxic-shame": 3 } },
+        { "text": "\"I can't tell anymore whose voice this even is.\"", "weights": { "tangled-mix": 3 } },
+        { "text": "\"I still flinch like I'm about to get in trouble.\"", "weights": { "old-voice": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "healthy-conviction": {
+      "name": "Healthy Conviction From God",
+      "description": "What you're hearing is the gentle nudge of God, and it's actually good news. Conviction is specific, it points to something you can change, and it always pulls you back toward Him rather than away. It doesn't crush you. It invites you. The fact that you still feel drawn to talk to Him about it tells you this voice is trustworthy.",
+      "scripture": { "text": "For godly sorrow worketh repentance to salvation not to be repented of.", "reference": "2 Corinthians 7:10" }
+    },
+    "toxic-shame": {
+      "name": "Toxic Shame From People",
+      "description": "What you're carrying isn't God's conviction. It's shame, and it lies. Conviction says you did something wrong. Shame says you are something wrong, and it leaves you wanting to hide instead of heal. That voice probably got installed by people, not by God. He is not disgusted with you. There is no condemnation for you in Christ, and that is true even on the days you don't feel it.",
+      "scripture": { "text": "There is therefore now no condemnation to them which are in Christ Jesus.", "reference": "Romans 8:1" }
+    },
+    "tangled-mix": {
+      "name": "A Tangled Mix",
+      "description": "Right now it's hard to tell the two voices apart, because they're braided together. Some of what you feel is real conviction worth listening to, and some is old shame that needs to go. Here's a simple test you can use: God's voice moves you toward Him and toward hope, while shame just makes you want to vanish. Ask Him to help you keep what's His and let the rest fall away.",
+      "scripture": { "text": "For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.", "reference": "2 Timothy 1:7" }
+    },
+    "old-voice": {
+      "name": "An Old Voice That Isn't God's",
+      "description": "That harsh inner judge sounds religious, but it isn't the Lord. It's an echo of a person or a place that ran on fear and disapproval, and your nervous system learned to brace for it. God doesn't lead with a whip. He leads with kindness, and it's His kindness, not your fear, that actually changes a heart. You're allowed to stop flinching. That old voice doesn't get the final word over you.",
+      "scripture": { "text": "The Lord is merciful and gracious, slow to anger, and plenteous in mercy.", "reference": "Psalm 103:8" }
+    }
+  }
+}

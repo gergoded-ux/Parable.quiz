@@ -1,0 +1,135 @@
+{
+  "slug": "why-do-you-feel-stuck",
+  "title": "Why Do You Feel Stuck Right Now?",
+  "subtitle": "Feeling frozen is awful when you can't name the cause. Let's find the exact reason, and the one move that unsticks it.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "stuck-in-waiting",
+    "stuck-in-fear",
+    "stuck-in-comparison",
+    "stuck-in-burnout",
+    "stuck-in-disobedience"
+  ],
+  "questions": [
+    {
+      "text": "When you picture moving forward, what's the first thing in the way?",
+      "options": [
+        { "text": "Nothing I can do. I'm waiting on something outside my control.", "weights": { "stuck-in-waiting": 3 } },
+        { "text": "Fear. The next step scares me more than staying put.", "weights": { "stuck-in-fear": 3 } },
+        { "text": "Everyone else. I keep measuring myself against them.", "weights": { "stuck-in-comparison": 3 } },
+        { "text": "Exhaustion. I have no energy to move anywhere.", "weights": { "stuck-in-burnout": 3 } }
+      ]
+    },
+    {
+      "text": "What thought loops when you feel most frozen?",
+      "options": [
+        { "text": "\"When is this season finally going to change?\"", "weights": { "stuck-in-waiting": 3 } },
+        { "text": "\"What if I try and it all goes wrong?\"", "weights": { "stuck-in-fear": 3 } },
+        { "text": "\"Everyone's ahead of me and I'm falling behind.\"", "weights": { "stuck-in-comparison": 3 } },
+        { "text": "\"I already know what I should do, I'm just not doing it.\"", "weights": { "stuck-in-disobedience": 3 } }
+      ]
+    },
+    {
+      "text": "Be honest. What's really keeping you in place?",
+      "options": [
+        { "text": "A door that hasn't opened yet, no matter how I knock.", "weights": { "stuck-in-waiting": 3 } },
+        { "text": "I'm avoiding a step I know I'm supposed to take.", "weights": { "stuck-in-disobedience": 3 } },
+        { "text": "I'm too drained to start anything new.", "weights": { "stuck-in-burnout": 3 } },
+        { "text": "I'm paralyzed by the fear of choosing wrong.", "weights": { "stuck-in-fear": 3 } }
+      ]
+    },
+    {
+      "text": "How do you feel watching other people's lives move forward?",
+      "options": [
+        { "text": "Like I got left behind on a timeline I didn't sign up for.", "weights": { "stuck-in-comparison": 3 } },
+        { "text": "Restless. I'm still waiting for my turn.", "weights": { "stuck-in-waiting": 2, "stuck-in-comparison": 1 } },
+        { "text": "Too tired to even care most days.", "weights": { "stuck-in-burnout": 3 } },
+        { "text": "Convicted, because I'm not doing my part.", "weights": { "stuck-in-disobedience": 2, "stuck-in-fear": 1 } }
+      ]
+    },
+    {
+      "text": "What would it actually take to get unstuck?",
+      "options": [
+        { "text": "God to finally open the door I've been praying about.", "weights": { "stuck-in-waiting": 3 } },
+        { "text": "Enough courage to take the scary first step.", "weights": { "stuck-in-fear": 3 } },
+        { "text": "To stop comparing and run my own race.", "weights": { "stuck-in-comparison": 3 } },
+        { "text": "Real rest before I can move at all.", "weights": { "stuck-in-burnout": 3 } }
+      ]
+    },
+    {
+      "text": "Which one describes your energy right now?",
+      "options": [
+        { "text": "Patient on good days, restless on bad ones.", "weights": { "stuck-in-waiting": 3 } },
+        { "text": "Anxious and braced, like I'm waiting for it to go badly.", "weights": { "stuck-in-fear": 3 } },
+        { "text": "Empty. The tank is on zero.", "weights": { "stuck-in-burnout": 3 } },
+        { "text": "Uneasy, because I'm dodging something God asked of me.", "weights": { "stuck-in-disobedience": 3 } }
+      ]
+    },
+    {
+      "text": "What does your prayer about this sound like?",
+      "options": [
+        { "text": "\"How long, Lord? I'm trusting You, but I'm tired of waiting.\"", "weights": { "stuck-in-waiting": 3 } },
+        { "text": "\"Give me courage. I'm too afraid to move.\"", "weights": { "stuck-in-fear": 3 } },
+        { "text": "\"Help me stop measuring my life against everyone else's.\"", "weights": { "stuck-in-comparison": 3 } },
+        { "text": "Honestly, I've been avoiding praying about it at all.", "weights": { "stuck-in-disobedience": 2, "stuck-in-burnout": 1 } }
+      ]
+    },
+    {
+      "text": "When you imagine taking action, what stops your hand?",
+      "options": [
+        { "text": "It's not time yet. The situation isn't in my hands.", "weights": { "stuck-in-waiting": 3 } },
+        { "text": "The what-ifs. I freeze before I even begin.", "weights": { "stuck-in-fear": 3 } },
+        { "text": "I figure someone else would do it better anyway.", "weights": { "stuck-in-comparison": 2, "stuck-in-fear": 1 } },
+        { "text": "I'm just too wiped out to follow through.", "weights": { "stuck-in-burnout": 3 } }
+      ]
+    },
+    {
+      "text": "What do you most need to hear right now?",
+      "options": [
+        { "text": "That the waiting isn't wasted, and the door will open in time.", "weights": { "stuck-in-waiting": 3 } },
+        { "text": "That God goes with you into the thing you're scared of.", "weights": { "stuck-in-fear": 3 } },
+        { "text": "That your race is yours, and you're not actually behind.", "weights": { "stuck-in-comparison": 3 } },
+        { "text": "That rest is allowed, and you can't pour from empty.", "weights": { "stuck-in-burnout": 3 } }
+      ]
+    },
+    {
+      "text": "If you had to name the real root in one word, it's...",
+      "options": [
+        { "text": "Waiting.", "weights": { "stuck-in-waiting": 3 } },
+        { "text": "Fear.", "weights": { "stuck-in-fear": 3 } },
+        { "text": "Comparison.", "weights": { "stuck-in-comparison": 3 } },
+        { "text": "Avoidance. I know the step and won't take it.", "weights": { "stuck-in-disobedience": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "stuck-in-waiting": {
+      "name": "Stuck in Waiting",
+      "description": "You're not frozen by fear or laziness. You're in a holding pattern, waiting on a door only God can open, and the not-yet is wearing on you. Here's the encouragement: waiting is not the same as wasting. Some of the most important growth happens in the in-between, in the part of the story no one applauds. Keep doing the next faithful thing while you wait. Obscurity often comes right before the assignment.",
+      "scripture": { "text": "Wait for the Lord; be strong and take heart and wait for the Lord.", "reference": "Psalm 27:14" }
+    },
+    "stuck-in-fear": {
+      "name": "Stuck in Fear",
+      "description": "The reason you can't move is that the next step scares you more than staying put. Fear has you running every worst case before you've taken a single step. But staying frozen has a cost too, usually a bigger one. You don't have to feel brave to move. You just have to take the step with God beside you, and courage tends to show up on the way, not before. He goes with you into the thing you're dreading.",
+      "scripture": { "text": "Be strong and courageous. Do not be afraid; for the Lord your God will be with you wherever you go.", "reference": "Joshua 1:9" }
+    },
+    "stuck-in-comparison": {
+      "name": "Stuck in Comparison",
+      "description": "You're not actually stuck. You just feel that way because you keep checking everyone else's scoreboard. Comparison convinces you that you're behind on a timeline that was never yours. The truth is your race is yours alone, and God isn't grading you against the person you're watching. Put the measuring stick down. Run your own lane. The moment you stop comparing, you'll realize you were moving the whole time.",
+      "scripture": { "text": "Let us run with perseverance the race marked out for us.", "reference": "Hebrews 12:1" }
+    },
+    "stuck-in-burnout": {
+      "name": "Stuck in Burnout",
+      "description": "You're not lazy and you're not lost. You're empty, and you can't move forward on a tank that's reading zero. The push-harder advice won't help here, because the problem isn't effort, it's depletion. The way out of this kind of stuck is counterintuitive: rest first. Let God refill you before you ask yourself to perform again. You can't pour from nothing. Recovery is the next faithful step, not a detour from it.",
+      "scripture": { "text": "Come to me, all you who are weary and burdened, and I will give you rest.", "reference": "Matthew 11:28" }
+    },
+    "stuck-in-disobedience": {
+      "name": "Stuck in Disobedience",
+      "description": "If you're really honest, you already know the step, and you've been avoiding it. That's the kind of stuck that no new plan will fix, because the issue isn't clarity, it's the yes you haven't given yet. This isn't about shame. God isn't waiting to scold you. He's waiting to meet you in the obedience you've been dodging. The unstick here is simple, if not easy: do the thing He already showed you. Movement follows the yes.",
+      "scripture": { "text": "Do not merely listen to the word, and so deceive yourselves. Do what it says.", "reference": "James 1:22" }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "slug": "whats-fueling-your-worry",
+  "title": "What's Fueling Your Worry?",
+  "subtitle": "The spiral has a root. Find the fear underneath, and the verse that meets it.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": ["fear-of-future", "fear-of-losing-control", "fear-of-not-being-enough", "fear-of-abandonment", "fear-of-worst", "fear-of-failing-god"],
+  "questions": [
+    {
+      "text": "When the worry starts spinning, where does your mind run?",
+      "options": [
+        { "text": "To everything that could go wrong down the road.", "weights": { "fear-of-future": 3 } },
+        { "text": "To all the things I can't control right now.", "weights": { "fear-of-losing-control": 3 } },
+        { "text": "To whether I'm doing enough or am enough.", "weights": { "fear-of-not-being-enough": 3 } },
+        { "text": "To people leaving me or pulling away.", "weights": { "fear-of-abandonment": 3 } }
+      ]
+    },
+    {
+      "text": "What keeps you up at 2 a.m. most often?",
+      "options": [
+        { "text": "Replaying disaster scenarios in vivid detail.", "weights": { "fear-of-worst": 3 } },
+        { "text": "Whether I've let God down somehow.", "weights": { "fear-of-failing-god": 3 } },
+        { "text": "A future I can't see or plan for.", "weights": { "fear-of-future": 3 } },
+        { "text": "Whether I measured up to what people needed today.", "weights": { "fear-of-not-being-enough": 3 } }
+      ]
+    },
+    {
+      "text": "Which sentence lands a little too close to home?",
+      "options": [
+        { "text": "If I don't stay on top of everything, it'll fall apart.", "weights": { "fear-of-losing-control": 3 } },
+        { "text": "If I'm not careful, the worst will happen.", "weights": { "fear-of-worst": 3 } },
+        { "text": "If people really knew me, they'd leave.", "weights": { "fear-of-abandonment": 3 } },
+        { "text": "If I'm not good enough, I'll lose everything.", "weights": { "fear-of-not-being-enough": 3 } }
+      ]
+    },
+    {
+      "text": "When something good happens, your gut reaction is...",
+      "options": [
+        { "text": "Bracing for when it all goes wrong.", "weights": { "fear-of-worst": 3 } },
+        { "text": "Wondering how long until it changes on me.", "weights": { "fear-of-future": 3 } },
+        { "text": "Worried I'll mess it up because it's up to me.", "weights": { "fear-of-losing-control": 3 } },
+        { "text": "Half-expecting to be left out or forgotten anyway.", "weights": { "fear-of-abandonment": 3 } }
+      ]
+    },
+    {
+      "text": "In your faith, the quiet worry that nags you is...",
+      "options": [
+        { "text": "That I'm not praying or believing well enough.", "weights": { "fear-of-failing-god": 3 } },
+        { "text": "That God's plan for my future might hurt.", "weights": { "fear-of-future": 2, "fear-of-worst": 1 } },
+        { "text": "That I'll never be the Christian I'm supposed to be.", "weights": { "fear-of-not-being-enough": 2, "fear-of-failing-god": 1 } },
+        { "text": "That even God might grow tired of me.", "weights": { "fear-of-abandonment": 3 } }
+      ]
+    },
+    {
+      "text": "When you can't fix a problem, what do you do?",
+      "options": [
+        { "text": "Grip tighter and try to manage every angle.", "weights": { "fear-of-losing-control": 3 } },
+        { "text": "Imagine the catastrophe in full color.", "weights": { "fear-of-worst": 3 } },
+        { "text": "Assume I should have done more, sooner.", "weights": { "fear-of-not-being-enough": 3 } },
+        { "text": "Brace for what it'll cost me later.", "weights": { "fear-of-future": 3 } }
+      ]
+    },
+    {
+      "text": "What would bring your worried heart the most relief?",
+      "options": [
+        { "text": "Knowing my future is held by someone good.", "weights": { "fear-of-future": 3 } },
+        { "text": "Permission to stop carrying what isn't mine to control.", "weights": { "fear-of-losing-control": 3 } },
+        { "text": "Believing I'm loved without having to earn it.", "weights": { "fear-of-not-being-enough": 3 } },
+        { "text": "Certainty that I won't be left or abandoned.", "weights": { "fear-of-abandonment": 3 } }
+      ]
+    },
+    {
+      "text": "If you could silence one lie tonight, it would be...",
+      "options": [
+        { "text": "Tomorrow is going to be terrible.", "weights": { "fear-of-future": 3 } },
+        { "text": "The worst is coming, so stay scared.", "weights": { "fear-of-worst": 3 } },
+        { "text": "You're not doing enough for God.", "weights": { "fear-of-failing-god": 3 } },
+        { "text": "Everyone eventually leaves you.", "weights": { "fear-of-abandonment": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "fear-of-future": {
+      "name": "Fear of the Future",
+      "description": "Your worry feeds on tomorrow, on all the unknowns you can't plan or predict. The mind races ahead to a future that hasn't happened and tries to brace for it. But you were never meant to carry tomorrow today. The God who holds your future is good, and He's already there waiting in it. You can let go of the days you can't see, because the One who can see them has not let go of you.",
+      "scripture": { "text": "Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself.", "reference": "Matthew 6:34" }
+    },
+    "fear-of-losing-control": {
+      "name": "Fear of Losing Control",
+      "description": "Underneath your worry is a deep need to keep everything from falling apart, so you grip and manage and try to hold it all together. But that grip is exhausting, and it was never your job to be God. There's real rest in admitting you can't control the outcome, and trusting Someone who can. You can open your hands. He's holding what you've been afraid to let go of, and He won't drop it.",
+      "scripture": { "text": "Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.", "reference": "Philippians 4:6" }
+    },
+    "fear-of-not-being-enough": {
+      "name": "Fear of Not Being Enough",
+      "description": "Your worry whispers that you're falling short, that you have to do more and be more or you'll lose your place. That pressure is crushing, and it's a lie. Your worth was never something you had to earn. God already calls you His, fully loved before you accomplish a single thing. You can set the impossible standard down. You don't have to be enough, because His grace already is, and it covers every gap you fear.",
+      "scripture": { "text": "My grace is sufficient for thee: for my strength is made perfect in weakness.", "reference": "2 Corinthians 12:9" }
+    },
+    "fear-of-abandonment": {
+      "name": "Fear of Abandonment",
+      "description": "Your worry circles one tender place: the fear that people will leave, that you'll be forgotten, that you're too much or not enough to keep. Maybe someone left once and it taught your heart to brace. But hear this clearly: God will never leave you. Not when you fail, not when you're hard to love, not ever. His love isn't the kind that walks out. You are held by a Father who has promised to stay.",
+      "scripture": { "text": "I will never leave thee, nor forsake thee.", "reference": "Hebrews 13:5" }
+    },
+    "fear-of-worst": {
+      "name": "Fear of the Worst Happening",
+      "description": "Your mind rehearses disaster, painting the worst-case scenario in full detail like preparing for it will somehow protect you. But all that rehearsing does is make you suffer things that haven't happened. Most of what you fear never comes. And even if hard things come, you won't face them alone or unequipped. God meets you in the actual moment with the actual grace you need, not in the imagined ones. You can lay the dread down.",
+      "scripture": { "text": "What time I am afraid, I will trust in thee.", "reference": "Psalm 56:3" }
+    },
+    "fear-of-failing-god": {
+      "name": "Fear of Failing God",
+      "description": "Your worry is tangled up with God Himself: the nagging fear that you're not praying enough, believing enough, or living up to what He wants. But you've got His heart backwards. He's not a demanding boss tallying your failures. He's a Father who delights in you. Your standing with Him rests on what Jesus did, not on your performance. You can exhale. He is not disappointed in you, and His love for you was never up for review.",
+      "scripture": { "text": "There is therefore now no condemnation to them which are in Christ Jesus.", "reference": "Romans 8:1" }
+    }
+  }
+}

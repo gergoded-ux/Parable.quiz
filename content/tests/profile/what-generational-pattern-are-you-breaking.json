@@ -1,0 +1,126 @@
+{
+  "slug": "what-generational-pattern-are-you-breaking",
+  "title": "What Generational Pattern Are You Breaking?",
+  "subtitle": "You're the first to say it stops here. Let's name what you're ending.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "anger-cycle",
+    "absent-parent-cycle",
+    "addiction-cycle",
+    "poverty-fear-cycle",
+    "silence-and-shame-cycle"
+  ],
+  "questions": [
+    {
+      "text": "What did the home you grew up in feel like most of the time?",
+      "options": [
+        { "text": "Tense, like a blowup could come at any second.", "weights": { "anger-cycle": 3 } },
+        { "text": "Lonely, with the people who should have shown up missing.", "weights": { "absent-parent-cycle": 3 } },
+        { "text": "Unpredictable, built around someone's habit or substance.", "weights": { "addiction-cycle": 3 } },
+        { "text": "Heavy with money fear, like there was never enough.", "weights": { "poverty-fear-cycle": 3 } }
+      ]
+    },
+    {
+      "text": "What's the inherited reflex you're working hardest to unlearn?",
+      "options": [
+        { "text": "Exploding or going cold when I'm hurt.", "weights": { "anger-cycle": 3 } },
+        { "text": "Pulling away from people instead of staying present.", "weights": { "absent-parent-cycle": 3 } },
+        { "text": "Numbing pain instead of facing it.", "weights": { "addiction-cycle": 3 } },
+        { "text": "Hoarding and panicking over every dollar.", "weights": { "poverty-fear-cycle": 3 } }
+      ]
+    },
+    {
+      "text": "When something painful happened in your family, the rule was...",
+      "options": [
+        { "text": "Whoever was angriest won.", "weights": { "anger-cycle": 3 } },
+        { "text": "We don't talk about it. Keep it hidden.", "weights": { "silence-and-shame-cycle": 3 } },
+        { "text": "Pretend it's normal and look the other way.", "weights": { "addiction-cycle": 2, "silence-and-shame-cycle": 1 } },
+        { "text": "Worry quietly and never let anyone help.", "weights": { "poverty-fear-cycle": 3 } }
+      ]
+    },
+    {
+      "text": "Which fear visits you most as you try to do it differently?",
+      "options": [
+        { "text": "\"What if I become as angry as they were?\"", "weights": { "anger-cycle": 3 } },
+        { "text": "\"What if I abandon people the way I was abandoned?\"", "weights": { "absent-parent-cycle": 3 } },
+        { "text": "\"What if the same thing has its hooks in me too?\"", "weights": { "addiction-cycle": 3 } },
+        { "text": "\"What if we end up with nothing?\"", "weights": { "poverty-fear-cycle": 3 } }
+      ]
+    },
+    {
+      "text": "What does breaking the cycle actually look like for you day to day?",
+      "options": [
+        { "text": "Choosing gentleness when everything in me wants to erupt.", "weights": { "anger-cycle": 3 } },
+        { "text": "Showing up and staying, even when I want to run.", "weights": { "absent-parent-cycle": 3 } },
+        { "text": "Feeling the hard thing instead of escaping it.", "weights": { "addiction-cycle": 3 } },
+        { "text": "Trusting God with provision instead of bracing for lack.", "weights": { "poverty-fear-cycle": 3 } }
+      ]
+    },
+    {
+      "text": "What's the secret your family kept that you refuse to keep?",
+      "options": [
+        { "text": "How much rage really lived behind closed doors.", "weights": { "anger-cycle": 2, "silence-and-shame-cycle": 1 } },
+        { "text": "Who was hurting and got ignored.", "weights": { "absent-parent-cycle": 2, "silence-and-shame-cycle": 1 } },
+        { "text": "The thing nobody was allowed to name out loud.", "weights": { "silence-and-shame-cycle": 3 } },
+        { "text": "The shame we carried and never let into the light.", "weights": { "silence-and-shame-cycle": 3 } }
+      ]
+    },
+    {
+      "text": "When you picture the people who come after you, you most want them to...",
+      "options": [
+        { "text": "Feel safe, never scared of your temper.", "weights": { "anger-cycle": 3 } },
+        { "text": "Know without a doubt that you'll always show up.", "weights": { "absent-parent-cycle": 3 } },
+        { "text": "Grow up free of the thing that had a grip on the family.", "weights": { "addiction-cycle": 3 } },
+        { "text": "Live open and honest, with nothing they have to hide.", "weights": { "silence-and-shame-cycle": 3 } }
+      ]
+    },
+    {
+      "text": "What's the loneliest part of being the one who changes things?",
+      "options": [
+        { "text": "Doing the work nobody before me was willing to do.", "weights": { "anger-cycle": 2, "addiction-cycle": 1 } },
+        { "text": "Having no example of the parent I'm trying to be.", "weights": { "absent-parent-cycle": 3 } },
+        { "text": "Fighting a pull others in my family gave in to.", "weights": { "addiction-cycle": 3 } },
+        { "text": "Carrying a fear about money no one else takes seriously.", "weights": { "poverty-fear-cycle": 3 } }
+      ]
+    },
+    {
+      "text": "What do you most need to hear right now?",
+      "options": [
+        { "text": "\"The anger stops with you, and God is making you gentle.\"", "weights": { "anger-cycle": 3 } },
+        { "text": "\"You can be the one who stays.\"", "weights": { "absent-parent-cycle": 3 } },
+        { "text": "\"You are not doomed to repeat it. You're being set free.\"", "weights": { "addiction-cycle": 3 } },
+        { "text": "\"Your Father will provide. You can stop bracing.\"", "weights": { "poverty-fear-cycle": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "anger-cycle": {
+      "name": "The Anger Cycle",
+      "description": "You grew up bracing for the next blowup, and you carry the fear of becoming what scared you. But the fact that you flinch at your own temper means you're already fighting for something better. The anger really can stop with you. God is patient with you as He grows a gentleness in you that your home never knew, and your kids will breathe easier because of it.",
+      "scripture": { "text": "A gentle answer turns away wrath, but a harsh word stirs up anger.", "reference": "Proverbs 15:1" }
+    },
+    "absent-parent-cycle": {
+      "name": "The Absent-Parent Cycle",
+      "description": "Someone who should have shown up for you didn't, and now you're learning to stay without ever having seen it done. That's hard, and it's holy work. You don't need a perfect example, because you have a Father who never leaves and is teaching you how to be present. You get to be the one who stays.",
+      "scripture": { "text": "Though my father and mother forsake me, the Lord will receive me.", "reference": "Psalm 27:10" }
+    },
+    "addiction-cycle": {
+      "name": "The Addiction Cycle",
+      "description": "You watched something get its hooks into the people you love, and part of you fears it's coming for you too. Hear this clearly: you are not doomed to repeat the story. Facing pain instead of numbing it is exactly how the chain breaks. You're not fighting alone, and the One who sets people free is fighting with you.",
+      "scripture": { "text": "It is for freedom that Christ has set us free.", "reference": "Galatians 5:1" }
+    },
+    "poverty-fear-cycle": {
+      "name": "The Poverty-Fear Cycle",
+      "description": "The fear that there will never be enough was passed down to you, and it still tightens your chest over money. That fear was real, but it doesn't get to run your life now. You can be wise and still rest, because your provision was never only up to you. Your Father knows what you need, and He's a good provider.",
+      "scripture": { "text": "My God will meet all your needs according to the riches of his glory in Christ Jesus.", "reference": "Philippians 4:19" }
+    },
+    "silence-and-shame-cycle": {
+      "name": "The Silence-and-Shame Cycle",
+      "description": "You came from a home where the rule was \"we don't talk about it,\" where pain got buried and shame got passed down quietly. You're the one breaking the silence, and that takes real courage. Bringing things into the light is how shame loses its grip. The truth doesn't shame you. It sets you free, and it frees the ones who come after you too.",
+      "scripture": { "text": "The truth will set you free.", "reference": "John 8:32" }
+    }
+  }
+}

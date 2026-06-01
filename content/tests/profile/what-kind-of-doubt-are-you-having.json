@@ -1,0 +1,135 @@
+{
+  "slug": "what-kind-of-doubt-are-you-having",
+  "title": "What Kind of Doubt Are You Actually Having?",
+  "subtitle": "\"I think I'm losing my faith\" usually has a specific shape. Name it, and you'll know how to actually tend to it.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "intellectual",
+    "emotional",
+    "moral-volitional",
+    "relational",
+    "circumstantial"
+  ],
+  "questions": [
+    {
+      "text": "When the doubt shows up, where does it usually start?",
+      "options": [
+        { "text": "In my head, with questions I can't reason my way past.", "weights": { "intellectual": 3 } },
+        { "text": "In my chest, as a feeling that God has gone distant.", "weights": { "emotional": 3 } },
+        { "text": "Around something I want that my faith keeps getting in the way of.", "weights": { "moral-volitional": 3 } },
+        { "text": "After a person of faith hurt or disappointed me.", "weights": { "relational": 3 } }
+      ]
+    },
+    {
+      "text": "Which question keeps you up at night?",
+      "options": [
+        { "text": "\"Is any of this actually true?\"", "weights": { "intellectual": 3 } },
+        { "text": "\"Why don't I feel God like I used to?\"", "weights": { "emotional": 3 } },
+        { "text": "\"If God is good, why did He let that happen to me?\"", "weights": { "circumstantial": 3 } },
+        { "text": "\"How can it be real if His people act like that?\"", "weights": { "relational": 3 } }
+      ]
+    },
+    {
+      "text": "What would help you most right now?",
+      "options": [
+        { "text": "Honest answers and good books that take my questions seriously.", "weights": { "intellectual": 3 } },
+        { "text": "To feel close to God again, not just to know things about Him.", "weights": { "emotional": 3 } },
+        { "text": "To be honest about a part of my life I've been protecting.", "weights": { "moral-volitional": 3 } },
+        { "text": "A safe community that isn't like the one that wounded me.", "weights": { "relational": 2, "emotional": 1 } }
+      ]
+    },
+    {
+      "text": "Be honest. What's underneath the doubt?",
+      "options": [
+        { "text": "Real intellectual questions I've never gotten to ask out loud.", "weights": { "intellectual": 3 } },
+        { "text": "A dry, flat feeling where closeness with God used to be.", "weights": { "emotional": 3 } },
+        { "text": "Something I don't want to give up, so doubt gives me an exit.", "weights": { "moral-volitional": 3 } },
+        { "text": "Pain from suffering that shook everything I believed.", "weights": { "circumstantial": 3 } }
+      ]
+    },
+    {
+      "text": "How did this season of doubt begin?",
+      "options": [
+        { "text": "A class, a video, or a question I couldn't answer.", "weights": { "intellectual": 3 } },
+        { "text": "Slowly, as my prayers started feeling like they hit the ceiling.", "weights": { "emotional": 3 } },
+        { "text": "When a loss or crisis blindsided me.", "weights": { "circumstantial": 3 } },
+        { "text": "When someone I trusted in the faith let me down badly.", "weights": { "relational": 3 } }
+      ]
+    },
+    {
+      "text": "Which statement feels closest to your gut?",
+      "options": [
+        { "text": "\"I'd believe if the evidence stacked up better.\"", "weights": { "intellectual": 3 } },
+        { "text": "\"I want to believe, I just can't feel anything anymore.\"", "weights": { "emotional": 3 } },
+        { "text": "\"Part of me doesn't want it to be true.\"", "weights": { "moral-volitional": 3 } },
+        { "text": "\"I'm too hurt by church people to trust their God right now.\"", "weights": { "relational": 3 } }
+      ]
+    },
+    {
+      "text": "When you read the Bible lately, what happens?",
+      "options": [
+        { "text": "I get snagged on things that don't seem to add up.", "weights": { "intellectual": 3 } },
+        { "text": "The words feel dead. Nothing lands like it once did.", "weights": { "emotional": 3 } },
+        { "text": "I avoid the parts that confront how I'm living.", "weights": { "moral-volitional": 3 } },
+        { "text": "I see the suffering in it and think, exactly, where's the rescue?", "weights": { "circumstantial": 2, "intellectual": 1 } }
+      ]
+    },
+    {
+      "text": "What do you most want someone to understand about your doubt?",
+      "options": [
+        { "text": "That my questions are sincere, not rebellion.", "weights": { "intellectual": 3 } },
+        { "text": "That I'm not faking it, the feeling really did go quiet.", "weights": { "emotional": 3 } },
+        { "text": "That I'm wrestling with obedience, not just ideas.", "weights": { "moral-volitional": 3 } },
+        { "text": "That my faith got tangled up with people who failed me.", "weights": { "relational": 3 } }
+      ]
+    },
+    {
+      "text": "If God spoke one sentence to you tonight, you'd want it to be...",
+      "options": [
+        { "text": "\"Bring me your hardest question. I'm not afraid of it.\"", "weights": { "intellectual": 3 } },
+        { "text": "\"I'm closer than you feel. The silence isn't absence.\"", "weights": { "emotional": 3 } },
+        { "text": "\"You can stop running. Come home and be honest with me.\"", "weights": { "moral-volitional": 3 } },
+        { "text": "\"I grieved what they did to you. I am not like them.\"", "weights": { "relational": 2, "circumstantial": 1 } }
+      ]
+    },
+    {
+      "text": "What kind of doubt feels truest to your situation?",
+      "options": [
+        { "text": "Head doubt. I need it to make sense.", "weights": { "intellectual": 3 } },
+        { "text": "Heart doubt. I need to feel Him again.", "weights": { "emotional": 3 } },
+        { "text": "Will doubt. There's something I haven't surrendered.", "weights": { "moral-volitional": 3 } },
+        { "text": "Wound doubt. Suffering or people broke my trust.", "weights": { "circumstantial": 2, "relational": 1 } }
+      ]
+    }
+  ],
+  "results": {
+    "intellectual": {
+      "name": "Intellectual Doubt",
+      "description": "Your doubt is built on real questions, the kind that deserve real answers instead of a pat on the head. This is the most respected kind of doubt and also the most treatable, because honest questions have honest responses if you go looking. God is not threatened by your sharpest question. Bring it into the light, find people who'll wrestle with you, and keep reading. Faith that survives hard questions is sturdier than faith that never asked.",
+      "scripture": { "text": "Come now, let us reason together, says the Lord.", "reference": "Isaiah 1:18" }
+    },
+    "emotional": {
+      "name": "Emotional Doubt",
+      "description": "This isn't really about ideas. You want to believe, and the closeness you used to feel has gone flat and quiet. Here's something many people miss: most doubt is more emotional than intellectual. The feeling fading does not mean God left. Feelings come and go, but He doesn't run on them. Be gentle with yourself, stay near Him even when it's dry, and let the dryness do its quiet work. The closeness returns.",
+      "scripture": { "text": "The Lord is close to the brokenhearted and saves those who are crushed in spirit.", "reference": "Psalm 34:18" }
+    },
+    "moral-volitional": {
+      "name": "Moral / Volitional Doubt",
+      "description": "If you're really honest, the doubt is doing some work for you. There's something you don't want to give up, and questioning the whole thing offers a tidy exit. That's a brave thing to admit, and admitting it is the start of freedom. God isn't standing over you with arms crossed. He's inviting you to come home and be honest about what you've been protecting. Surrender, not certainty, is the door here.",
+      "scripture": { "text": "Anyone who chooses to do the will of God will find out whether my teaching comes from God.", "reference": "John 7:17" }
+    },
+    "relational": {
+      "name": "Relational Doubt (someone hurt you)",
+      "description": "Your faith got tangled up with a person who failed you, and now it's hard to tell where the wound ends and the doubt begins. That's a real and painful kind of doubt, and it isn't a sign of a weak faith. It's a sign you were hurt by someone who spoke for God. He grieved that betrayal with you. He is not like the one who wounded you. Let Him untangle His name from theirs, slowly, with safe people around you.",
+      "scripture": { "text": "The Lord is my rock, my fortress and my deliverer.", "reference": "Psalm 18:2" }
+    },
+    "circumstantial": {
+      "name": "Circumstantial Doubt (suffering shook you)",
+      "description": "Suffering blindsided you, and it cracked something you thought was settled. When pain hits hard enough, the questions follow, and they're not rebellion. They're grief looking for God in the dark. You're in good company. Job demanded answers and was never rejected for it. You don't have to resolve the suffering to keep holding on. Bring God the raw version. He can carry both your faith and your fury at the same time.",
+      "scripture": { "text": "Even though I walk through the darkest valley, I will fear no evil, for you are with me.", "reference": "Psalm 23:4" }
+    }
+  }
+}

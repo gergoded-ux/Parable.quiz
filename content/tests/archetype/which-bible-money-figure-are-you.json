@@ -1,0 +1,120 @@
+{
+  "slug": "which-bible-money-figure-are-you",
+  "title": "Which Bible Figure's Relationship With Money Are You?",
+  "subtitle": "Your wallet tells a story about your heart. Find out whose it sounds like.",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 5,
+  "mode": "archetype",
+  "questions": [
+    {
+      "text": "An unexpected check lands in your hands. First thought?",
+      "options": [
+        { "text": "Straight to savings. I sleep better with a cushion.", "weights": { "rich-young-ruler": 3 } },
+        { "text": "Who can I bless with some of this?", "weights": { "zacchaeus": 3 } },
+        { "text": "I don't have much, but I'd still give a piece away.", "weights": { "widow-two-coins": 3 } },
+        { "text": "Time to invest it wisely and make it grow.", "weights": { "solomon": 3 } }
+      ]
+    },
+    {
+      "text": "What does money mostly mean to you?",
+      "options": [
+        { "text": "Security. It's hard to imagine letting go of it.", "weights": { "rich-young-ruler": 3 } },
+        { "text": "A tool to make things right and lift people up.", "weights": { "zacchaeus": 3 } },
+        { "text": "Not much. My trust is in God, not my bank balance.", "weights": { "widow-two-coins": 2, "job": 1 } },
+        { "text": "Something I've had and lost, and learned to hold loosely.", "weights": { "job": 3 } }
+      ]
+    },
+    {
+      "text": "When you give, how does it usually feel?",
+      "options": [
+        { "text": "I want to, but a part of me grips it tighter than I'd like.", "weights": { "rich-young-ruler": 3 } },
+        { "text": "Like joy. I'd rather over-give than under-give.", "weights": { "zacchaeus": 3 } },
+        { "text": "Like worship, even when it costs me real comfort.", "weights": { "widow-two-coins": 3 } },
+        { "text": "Like wisdom. I plan my generosity carefully.", "weights": { "solomon": 3 } }
+      ]
+    },
+    {
+      "text": "Which fear about money is closest to yours?",
+      "options": [
+        { "text": "Losing what I've built and feeling unsafe.", "weights": { "rich-young-ruler": 3 } },
+        { "text": "That I once gained it the wrong way and owe people.", "weights": { "zacchaeus": 3 } },
+        { "text": "Honestly, none. I have little to lose and I'm at peace.", "weights": { "widow-two-coins": 2, "job": 1 } },
+        { "text": "That even when I have plenty, it still won't satisfy me.", "weights": { "solomon": 3 } }
+      ]
+    },
+    {
+      "text": "If you lost most of what you owned tomorrow, you'd...",
+      "options": [
+        { "text": "Be devastated. So much of my identity is tied to it.", "weights": { "rich-young-ruler": 3 } },
+        { "text": "Trust God and start giving from whatever was left.", "weights": { "zacchaeus": 2, "widow-two-coins": 1 } },
+        { "text": "Grieve hard, then still bless the name of the Lord.", "weights": { "job": 3 } },
+        { "text": "Already know, deep down, that things were never the point.", "weights": { "widow-two-coins": 2, "solomon": 1 } }
+      ]
+    },
+    {
+      "text": "What have you learned about chasing more?",
+      "options": [
+        { "text": "I keep chasing it even when I know it won't fill me.", "weights": { "rich-young-ruler": 3 } },
+        { "text": "Giving it away brought me more joy than getting ever did.", "weights": { "zacchaeus": 3 } },
+        { "text": "Little in God's hands beats a lot in mine.", "weights": { "widow-two-coins": 3 } },
+        { "text": "I had it all and found it empty without God.", "weights": { "solomon": 3 } }
+      ]
+    },
+    {
+      "text": "When you read about Jesus and money, what stirs in you?",
+      "options": [
+        { "text": "A nervous tug, like He's asking for the thing I hold tightest.", "weights": { "rich-young-ruler": 3 } },
+        { "text": "Excitement to make things right with people I owe.", "weights": { "zacchaeus": 3 } },
+        { "text": "A quiet yes. I want to give Him all of my little.", "weights": { "widow-two-coins": 3 } },
+        { "text": "A craving for wisdom to handle what I've been trusted with.", "weights": { "solomon": 3 } }
+      ]
+    },
+    {
+      "text": "What would you most want said of you about money one day?",
+      "options": [
+        { "text": "That I finally loosened my grip and followed God fully.", "weights": { "rich-young-ruler": 3 } },
+        { "text": "That I gave back more than I ever took.", "weights": { "zacchaeus": 3 } },
+        { "text": "That I gave everything I had, even when it was small.", "weights": { "widow-two-coins": 3 } },
+        { "text": "That I stayed faithful whether I had much or little.", "weights": { "job": 2, "solomon": 1 } }
+      ]
+    }
+  ],
+  "results": {
+    "rich-young-ruler": {
+      "name": "Rich Young Ruler",
+      "emoji": "💰",
+      "traits": ["Cautious", "Devout", "Holding On"],
+      "description": "You love God and you want to follow Him, but money has a quiet grip on your heart that's hard to admit. The rich young ruler felt that same tug when Jesus asked for the one thing he couldn't release. Here's the good news he missed: Jesus asked out of love, not to take from him but to free him. Whatever you're clutching, you can trust the One asking. He gives back more than He ever requests.",
+      "scripture": { "text": "One thing thou lackest: go thy way, sell whatsoever thou hast, and give to the poor, and thou shalt have treasure in heaven.", "reference": "Mark 10:21" }
+    },
+    "zacchaeus": {
+      "name": "Zacchaeus",
+      "emoji": "🌳",
+      "traits": ["Generous", "Changed", "Joyful"],
+      "description": "When grace got hold of you, your wallet changed too. Like Zacchaeus, you'd rather give back double than hold what isn't really yours. That open-handed joy is what happens when someone truly meets Jesus. You've tasted how good it feels to make things right and to bless without counting the cost. Keep going. Generosity like yours is salvation showing up where everyone can see it.",
+      "scripture": { "text": "Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore him fourfold.", "reference": "Luke 19:8" }
+    },
+    "widow-two-coins": {
+      "name": "The Widow With Two Coins",
+      "emoji": "🪙",
+      "traits": ["Trusting", "Sacrificial", "Faithful"],
+      "description": "You don't have much, but you give anyway, and that's exactly what Jesus praised. The widow put in two small coins and He said she gave more than all the rich. Why? Because she gave from her need, not her extra. Your faith isn't measured by the size of the gift but by the size of the trust behind it. Heaven sees what you offer, and in God's eyes your little is enormous.",
+      "scripture": { "text": "This poor widow hath cast more in, than all they which have cast into the treasury.", "reference": "Mark 12:43" }
+    },
+    "job": {
+      "name": "Job",
+      "emoji": "⚖️",
+      "traits": ["Steady", "Tested", "Surrendered"],
+      "description": "You've held wealth and you've known loss, and somewhere along the way you learned that neither one defines you. Job lost it all in a single day and still chose to bless God. That's the freedom you carry: money comes and goes, but your worth was never in it. Whether your hands are full or empty, your trust stays anchored in the One who gives and the One who remains.",
+      "scripture": { "text": "Naked came I out of my mother's womb, and naked shall I return thither: the Lord gave, and the Lord hath taken away.", "reference": "Job 1:21" }
+    },
+    "solomon": {
+      "name": "Solomon",
+      "emoji": "👑",
+      "traits": ["Wise", "Abundant", "Searching"],
+      "description": "You're sharp with money and you handle it well, but you've sensed the truth Solomon learned the hard way: more is never quite enough. He had everything a person could want and still called it empty without God. That ache you feel isn't a flaw. It's a compass. Let your wisdom point you past the wealth to the One who actually satisfies, and you'll have found the treasure Solomon spent a lifetime chasing.",
+      "scripture": { "text": "He that loveth silver shall not be satisfied with silver; nor he that loveth abundance with increase: this is also vanity.", "reference": "Ecclesiastes 5:10" }
+    }
+  }
+}

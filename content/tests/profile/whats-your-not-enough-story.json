@@ -1,0 +1,120 @@
+{
+  "slug": "whats-your-not-enough-story",
+  "title": "What's Your \"Not Enough\" Story?",
+  "subtitle": "We all carry a version of it. Let's find yours, then rewrite the ending.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "not-smart-enough",
+    "not-holy-enough",
+    "not-successful-enough",
+    "not-wanted-enough"
+  ],
+  "questions": [
+    {
+      "text": "When you walk into a room full of people, what's the quiet fear?",
+      "options": [
+        { "text": "That I'll say something and sound like I don't belong.", "weights": { "not-smart-enough": 3 } },
+        { "text": "That if they saw the real me, I'd look like a hypocrite.", "weights": { "not-holy-enough": 3 } },
+        { "text": "That everyone here is further along than I am.", "weights": { "not-successful-enough": 3 } },
+        { "text": "That no one would really notice if I left.", "weights": { "not-wanted-enough": 3 } }
+      ]
+    },
+    {
+      "text": "What's the criticism that still stings the most?",
+      "options": [
+        { "text": "Being made to feel slow, behind, or not bright enough.", "weights": { "not-smart-enough": 3 } },
+        { "text": "Being told I should be more spiritual than I am.", "weights": { "not-holy-enough": 3 } },
+        { "text": "Anything that hints I'm not doing enough with my life.", "weights": { "not-successful-enough": 3 } },
+        { "text": "Being overlooked or left out without explanation.", "weights": { "not-wanted-enough": 3 } }
+      ]
+    },
+    {
+      "text": "When you scroll social media, what thought creeps in?",
+      "options": [
+        { "text": "Everyone seems to know things I should already know.", "weights": { "not-smart-enough": 3 } },
+        { "text": "Their faith looks so solid. Mine feels like a mess.", "weights": { "not-holy-enough": 3 } },
+        { "text": "Look how much they've accomplished. What am I doing?", "weights": { "not-successful-enough": 3 } },
+        { "text": "Everyone has their people. Where are mine?", "weights": { "not-wanted-enough": 3 } }
+      ]
+    },
+    {
+      "text": "How do you try to make up for feeling not enough?",
+      "options": [
+        { "text": "I over-prepare so no one catches me not knowing.", "weights": { "not-smart-enough": 3 } },
+        { "text": "I perform the right Christian things and hide the rest.", "weights": { "not-holy-enough": 3 } },
+        { "text": "I push harder, achieve more, and still feel behind.", "weights": { "not-successful-enough": 3 } },
+        { "text": "I make myself useful so people have a reason to keep me.", "weights": { "not-wanted-enough": 2, "not-successful-enough": 1 } }
+      ]
+    },
+    {
+      "text": "Where did this story probably start?",
+      "options": [
+        { "text": "Being compared to a sibling or classmate who got it easier.", "weights": { "not-smart-enough": 3 } },
+        { "text": "Growing up feeling like God was mostly disappointed in me.", "weights": { "not-holy-enough": 3 } },
+        { "text": "Love that seemed tied to grades, trophies, or results.", "weights": { "not-successful-enough": 3 } },
+        { "text": "Feeling like a leftover in my own family or friend group.", "weights": { "not-wanted-enough": 3 } }
+      ]
+    },
+    {
+      "text": "What do you secretly believe you'd have to do to be loved?",
+      "options": [
+        { "text": "Finally be impressive enough to be taken seriously.", "weights": { "not-smart-enough": 2, "not-successful-enough": 1 } },
+        { "text": "Get my act together and stop failing God.", "weights": { "not-holy-enough": 3 } },
+        { "text": "Achieve something big enough to finally matter.", "weights": { "not-successful-enough": 3 } },
+        { "text": "Become the kind of person nobody would walk away from.", "weights": { "not-wanted-enough": 3 } }
+      ]
+    },
+    {
+      "text": "When you mess up, what's the voice in your head?",
+      "options": [
+        { "text": "See, you're just not sharp enough for this.", "weights": { "not-smart-enough": 3 } },
+        { "text": "A real Christian wouldn't have done that.", "weights": { "not-holy-enough": 3 } },
+        { "text": "You're falling behind everyone again.", "weights": { "not-successful-enough": 3 } },
+        { "text": "This is why people leave.", "weights": { "not-wanted-enough": 3 } }
+      ]
+    },
+    {
+      "text": "What would actually feel like relief right now?",
+      "options": [
+        { "text": "Permission to not have all the answers and still be okay.", "weights": { "not-smart-enough": 3 } },
+        { "text": "Knowing God isn't waiting for me to clean up first.", "weights": { "not-holy-enough": 3 } },
+        { "text": "Believing my worth isn't a scoreboard.", "weights": { "not-successful-enough": 3 } },
+        { "text": "Being wanted for who I am, not what I provide.", "weights": { "not-wanted-enough": 3 } }
+      ]
+    },
+    {
+      "text": "Finish this honestly: deep down I'm afraid I'm just...",
+      "options": [
+        { "text": "Not smart enough to keep up.", "weights": { "not-smart-enough": 3 } },
+        { "text": "Not holy enough for God to be pleased with me.", "weights": { "not-holy-enough": 3 } },
+        { "text": "Not successful enough to be proud of.", "weights": { "not-successful-enough": 3 } },
+        { "text": "Not wanted enough to be chosen.", "weights": { "not-wanted-enough": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "not-smart-enough": {
+      "name": "Not Smart Enough",
+      "description": "Somewhere along the way you decided you were the slow one, and now you over-prepare and stay quiet so no one finds out. Here's the truth that breaks it: God isn't impressed by clever people, and He isn't disappointed by you. He picked fishermen and tax collectors on purpose. Your worth was never riding on how sharp you are. You don't have to earn a seat you've already been given.",
+      "scripture": { "text": "God hath chosen the foolish things of the world to confound the wise.", "reference": "1 Corinthians 1:27" }
+    },
+    "not-holy-enough": {
+      "name": "Not Holy Enough",
+      "description": "You carry the sense that you're always falling short of who a Christian should be, so you perform the right things and hide the struggle. But grace was never a reward for getting clean first. Christ came for people who knew they couldn't do it on their own, which is exactly you. God is not standing back waiting for your better version. He loved you in the mess and called you His.",
+      "scripture": { "text": "While we were yet sinners, Christ died for us.", "reference": "Romans 5:8" }
+    },
+    "not-successful-enough": {
+      "name": "Not Successful Enough",
+      "description": "You measure yourself against a scoreboard that never stops moving, so no win ever feels like enough. But God never assigned your value to your output. He delights in you on your slowest, least productive day, the same as your best one. You're not a project to finish or a resume to build. You're a child He already calls His own, and that title isn't up for review.",
+      "scripture": { "text": "The Lord thy God in the midst of thee is mighty; he will rejoice over thee with joy.", "reference": "Zephaniah 3:17" }
+    },
+    "not-wanted-enough": {
+      "name": "Not Wanted Enough",
+      "description": "You've felt overlooked enough times that you started making yourself useful just to be kept. But you were never an afterthought to God. He chose you before the world was even made, on purpose, with delight. You don't have to audition for a place at His table. He wanted you first, He wants you now, and nothing about that depends on what you bring.",
+      "scripture": { "text": "He hath chosen us in him before the foundation of the world.", "reference": "Ephesians 1:4" }
+    }
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "slug": "whats-your-burnout-stage",
+  "title": "What's Your Burnout Stage?",
+  "subtitle": "Are you just busy, or genuinely running out? Let's name where you actually are, and what kind of rest you need next.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "running-on-empty",
+    "cynical-and-detached",
+    "surviving-on-fumes",
+    "stretched-but-okay",
+    "recovering",
+    "healthy-rhythm"
+  ],
+  "questions": [
+    {
+      "text": "How do you feel when you wake up most mornings?",
+      "options": [
+        { "text": "Already tired, like sleep didn't even count.", "weights": { "running-on-empty": 3 } },
+        { "text": "Flat. I get up and go through the motions on autopilot.", "weights": { "surviving-on-fumes": 3 } },
+        { "text": "Busy-brained but basically okay. A full day ahead.", "weights": { "stretched-but-okay": 3 } },
+        { "text": "Rested more often than not. Mornings feel doable.", "weights": { "healthy-rhythm": 2, "recovering": 1 } }
+      ]
+    },
+    {
+      "text": "What's your relationship with the things you used to care about?",
+      "options": [
+        { "text": "I've gone numb to them. I just don't feel much anymore.", "weights": { "cynical-and-detached": 3 } },
+        { "text": "I still care, but I'm too drained to show up for them.", "weights": { "running-on-empty": 2, "surviving-on-fumes": 1 } },
+        { "text": "I'm starting to enjoy them again after a hard stretch.", "weights": { "recovering": 3 } },
+        { "text": "They still light me up. I'm engaged with my life.", "weights": { "healthy-rhythm": 3 } }
+      ]
+    },
+    {
+      "text": "When someone asks how you're doing, what's the honest answer?",
+      "options": [
+        { "text": "\"Running on empty, but I can't stop.\"", "weights": { "running-on-empty": 3 } },
+        { "text": "\"Honestly? Done. I'm just bitter and checked out.\"", "weights": { "cynical-and-detached": 3 } },
+        { "text": "\"Surviving. Barely keeping the plates spinning.\"", "weights": { "surviving-on-fumes": 3 } },
+        { "text": "\"Busy, but I'm hanging in there fine.\"", "weights": { "stretched-but-okay": 3 } }
+      ]
+    },
+    {
+      "text": "How's your patience with people lately?",
+      "options": [
+        { "text": "Thin. I snap over things that shouldn't matter.", "weights": { "running-on-empty": 2, "cynical-and-detached": 1 } },
+        { "text": "Cold. I've stopped expecting much from anyone.", "weights": { "cynical-and-detached": 3 } },
+        { "text": "Stretched, but I'm holding it together in public.", "weights": { "stretched-but-okay": 2, "surviving-on-fumes": 1 } },
+        { "text": "Steadier than it's been in a while.", "weights": { "recovering": 2, "healthy-rhythm": 1 } }
+      ]
+    },
+    {
+      "text": "What does rest look like in your life right now?",
+      "options": [
+        { "text": "Rest? I don't remember the last real break.", "weights": { "running-on-empty": 3 } },
+        { "text": "I collapse and numb out, but I never feel restored.", "weights": { "surviving-on-fumes": 3 } },
+        { "text": "I squeeze in little pockets when I can.", "weights": { "stretched-but-okay": 3 } },
+        { "text": "I've built it back into my weeks on purpose.", "weights": { "healthy-rhythm": 3 } }
+      ]
+    },
+    {
+      "text": "Which sentence is closest to true?",
+      "options": [
+        { "text": "\"I have nothing left to give and I'm scared.\"", "weights": { "running-on-empty": 3 } },
+        { "text": "\"I don't care like I used to, and that worries me.\"", "weights": { "cynical-and-detached": 3 } },
+        { "text": "\"I'm coming back to life slowly.\"", "weights": { "recovering": 3 } },
+        { "text": "\"I'm tired sometimes, but my life feels sustainable.\"", "weights": { "healthy-rhythm": 3 } }
+      ]
+    },
+    {
+      "text": "How are you handling your responsibilities?",
+      "options": [
+        { "text": "Forcing through on willpower with nothing in the tank.", "weights": { "running-on-empty": 2, "surviving-on-fumes": 1 } },
+        { "text": "Doing the minimum and feeling resentful about all of it.", "weights": { "cynical-and-detached": 3 } },
+        { "text": "Keeping up, but the margin is razor thin.", "weights": { "stretched-but-okay": 3 } },
+        { "text": "Managing well, with energy left over.", "weights": { "healthy-rhythm": 3 } }
+      ]
+    },
+    {
+      "text": "When you think about the next few months, you feel...",
+      "options": [
+        { "text": "Dread. I can't imagine doing this much longer.", "weights": { "running-on-empty": 2, "cynical-and-detached": 1 } },
+        { "text": "Numb. I've stopped letting myself hope for change.", "weights": { "cynical-and-detached": 3 } },
+        { "text": "Cautiously hopeful. Things are slowly improving.", "weights": { "recovering": 3 } },
+        { "text": "Steady. I've got a pace I can actually keep.", "weights": { "healthy-rhythm": 3 } }
+      ]
+    },
+    {
+      "text": "What do you most need to hear from God right now?",
+      "options": [
+        { "text": "\"Come to me. You don't have to carry this alone.\"", "weights": { "running-on-empty": 3 } },
+        { "text": "\"I haven't given up on you, even if you've gone cold.\"", "weights": { "cynical-and-detached": 3 } },
+        { "text": "\"I see how hard you're holding on. Keep coming to me.\"", "weights": { "surviving-on-fumes": 3 } },
+        { "text": "\"Well done. This is what walking with me can feel like.\"", "weights": { "healthy-rhythm": 2, "recovering": 1 } }
+      ]
+    },
+    {
+      "text": "Be honest about your bandwidth this week.",
+      "options": [
+        { "text": "Empty. I'm scraping the bottom and there's nothing there.", "weights": { "running-on-empty": 3 } },
+        { "text": "Just enough fumes to fake it through the day.", "weights": { "surviving-on-fumes": 3 } },
+        { "text": "Full but functional. I'm stretched, not snapped.", "weights": { "stretched-but-okay": 3 } },
+        { "text": "Comfortable. I've got room to breathe and even give.", "weights": { "healthy-rhythm": 2, "recovering": 1 } }
+      ]
+    }
+  ],
+  "results": {
+    "running-on-empty": {
+      "name": "Running on Empty",
+      "description": "You are at the bottom of the tank, and you know it. You're still pushing forward on pure willpower, but there's genuinely nothing left, and that's frightening when you've always been the strong one. This is not a character flaw. It's a signal. Jesus invites tired people to come to Him, not to try harder. The first faithful step here is rest, not more effort.",
+      "scripture": { "text": "Come to me, all you who are weary and burdened, and I will give you rest.", "reference": "Matthew 11:28" }
+    },
+    "cynical-and-detached": {
+      "name": "Cynical and Detached",
+      "description": "Burnout has gone past tired and into numb. The things you used to care about don't move you anymore, and a quiet bitterness has set in. This stage isn't who you are. It's what exhaustion does to a heart that gave too much for too long. God hasn't pulled back from you, even in the cold. Let Him restore the feeling you think is gone. It comes back.",
+      "scripture": { "text": "He restores my soul. He guides me along the right paths.", "reference": "Psalm 23:3" }
+    },
+    "surviving-on-fumes": {
+      "name": "Surviving on Fumes",
+      "description": "You're keeping it together on the outside, but inside you're running on almost nothing. You collapse at the end of the day and still don't feel restored, because numbing isn't the same as resting. You're holding on, and that takes real strength. But you weren't meant to white-knuckle life. There's a deeper rest available, the kind that actually refills you.",
+      "scripture": { "text": "My grace is sufficient for you, for my power is made perfect in weakness.", "reference": "2 Corinthians 12:9" }
+    },
+    "stretched-but-okay": {
+      "name": "Stretched but Okay",
+      "description": "Your life is full and the margin is thin, but you're genuinely holding up. You're stretched, not snapped, and that's an important difference. This is the stage to pay attention, though, because thin margin is how the slow slide into burnout starts. Guard your rest now, on purpose, while it's still a choice and not a crisis. A little space protects a lot.",
+      "scripture": { "text": "Be still, and know that I am God.", "reference": "Psalm 46:10" }
+    },
+    "recovering": {
+      "name": "Recovering",
+      "description": "You've been through a hard stretch, and you're slowly coming back to life. The color is returning. You're feeling things again, enjoying things again, steadier with people. Recovery isn't linear, so be patient on the dips. God is the One renewing you, and He does it gently. Keep choosing the rhythms that brought you here. You're healing, and that's worth protecting.",
+      "scripture": { "text": "Those who hope in the Lord will renew their strength.", "reference": "Isaiah 40:31" }
+    },
+    "healthy-rhythm": {
+      "name": "Healthy Rhythm",
+      "description": "You've found a sustainable pace, and it shows. You've got energy for your life, patience for people, and even something left to give. This isn't an accident. It's the fruit of rest built in on purpose, of limits you actually keep. Don't apologize for it or sabotage it. This is what walking with God can feel like. Stay here, and help someone tired find their way back.",
+      "scripture": { "text": "He makes me lie down in green pastures, he leads me beside quiet waters.", "reference": "Psalm 23:2" }
+    }
+  }
+}

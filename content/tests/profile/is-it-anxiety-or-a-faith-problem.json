@@ -1,0 +1,111 @@
+{
+  "slug": "is-it-anxiety-or-a-faith-problem",
+  "title": "Is It Anxiety or Is It a Faith Problem?",
+  "subtitle": "If your anxiety makes you feel guilty before God, this one's for you.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": ["anxiety-not-faithlessness", "a-mix", "spiritual-battle", "seek-support", "too-hard-on-yourself"],
+  "questions": [
+    {
+      "text": "When anxiety hits, what's the guilt that comes with it?",
+      "options": [
+        { "text": "None, really. I know my body just does this sometimes.", "weights": { "anxiety-not-faithlessness": 3 } },
+        { "text": "Some. Part feels physical, part feels spiritual.", "weights": { "a-mix": 3 } },
+        { "text": "A lot. I sense something heavier than just nerves.", "weights": { "spiritual-battle": 3 } },
+        { "text": "Crushing. I'm convinced it means my faith is broken.", "weights": { "too-hard-on-yourself": 3 } }
+      ]
+    },
+    {
+      "text": "How long has the anxiety been hanging around?",
+      "options": [
+        { "text": "Years. It's wired into how I'm built.", "weights": { "anxiety-not-faithlessness": 2, "seek-support": 1 } },
+        { "text": "It comes and goes with seasons and stress.", "weights": { "a-mix": 3 } },
+        { "text": "It spiked when I started pressing into God more.", "weights": { "spiritual-battle": 3 } },
+        { "text": "So long and so heavy that daily life is hard.", "weights": { "seek-support": 3 } }
+      ]
+    },
+    {
+      "text": "Which thought sounds most like yours?",
+      "options": [
+        { "text": "Anxiety is something I manage, not a sin to repent of.", "weights": { "anxiety-not-faithlessness": 3 } },
+        { "text": "Some of this is my body, and some is fear I can pray through.", "weights": { "a-mix": 3 } },
+        { "text": "There's a real spiritual fight behind this fear.", "weights": { "spiritual-battle": 3 } },
+        { "text": "If I just trusted God more, I wouldn't feel this way.", "weights": { "too-hard-on-yourself": 3 } }
+      ]
+    },
+    {
+      "text": "When you pray about the anxiety, what happens?",
+      "options": [
+        { "text": "It helps my heart, even if my body stays anxious.", "weights": { "anxiety-not-faithlessness": 3 } },
+        { "text": "Some peace comes, but some of it needs more than prayer.", "weights": { "a-mix": 2, "seek-support": 1 } },
+        { "text": "I feel a battle, like something resists the peace.", "weights": { "spiritual-battle": 3 } },
+        { "text": "I end up feeling worse, sure I'm doing faith wrong.", "weights": { "too-hard-on-yourself": 3 } }
+      ]
+    },
+    {
+      "text": "How is the anxiety affecting your daily life?",
+      "options": [
+        { "text": "It's there but manageable. I function fine.", "weights": { "anxiety-not-faithlessness": 3 } },
+        { "text": "Up and down depending on what's going on.", "weights": { "a-mix": 3 } },
+        { "text": "It flares around prayer, worship, or big God-moments.", "weights": { "spiritual-battle": 3 } },
+        { "text": "It's affecting my sleep, my body, and my ability to cope.", "weights": { "seek-support": 3 } }
+      ]
+    },
+    {
+      "text": "What do you secretly fear your anxiety says about you?",
+      "options": [
+        { "text": "Nothing spiritual. It's just how my nervous system works.", "weights": { "anxiety-not-faithlessness": 3 } },
+        { "text": "That I have some real fears I still need to surrender.", "weights": { "a-mix": 3 } },
+        { "text": "That something is spiritually warring against my peace.", "weights": { "spiritual-battle": 3 } },
+        { "text": "That I'm a bad Christian who doesn't really trust God.", "weights": { "too-hard-on-yourself": 3 } }
+      ]
+    },
+    {
+      "text": "What kind of help feels most right for where you are?",
+      "options": [
+        { "text": "Grace to stop feeling guilty about a health thing.", "weights": { "anxiety-not-faithlessness": 3 } },
+        { "text": "Wisdom to tell apart what's body and what's heart.", "weights": { "a-mix": 3 } },
+        { "text": "Prayer, scripture, and standing firm against the fear.", "weights": { "spiritual-battle": 3 } },
+        { "text": "A doctor or counselor, plus people walking with me.", "weights": { "seek-support": 3 } }
+      ]
+    },
+    {
+      "text": "What does your heart most need to hear right now?",
+      "options": [
+        { "text": "Your anxiety is not a sin. Stop carrying that guilt.", "weights": { "anxiety-not-faithlessness": 3 } },
+        { "text": "You can hand God the fear and still get real help.", "weights": { "a-mix": 2, "seek-support": 1 } },
+        { "text": "You're not powerless. God fights for your peace.", "weights": { "spiritual-battle": 3 } },
+        { "text": "God isn't disappointed in you. Be gentle with yourself.", "weights": { "too-hard-on-yourself": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "anxiety-not-faithlessness": {
+      "name": "It's Anxiety, Not Faithlessness",
+      "description": "Let this land: your anxiety is not a sign that you don't trust God. It's something your body and brain do, the way some people get migraines or high blood pressure. You can love God deeply and still feel anxious, and one does not cancel the other. Lay the guilt down. He's not asking you to white-knuckle your way to calm. He's inviting you to bring your fear to Him as a Father, not a judge, and to be kind to yourself in the meantime.",
+      "scripture": { "text": "Casting all your care upon him; for he careth for you.", "reference": "1 Peter 5:7" }
+    },
+    "a-mix": {
+      "name": "A Mix You Can Untangle",
+      "description": "What you're carrying is part physical and part spiritual, and that's actually really common. Some of it is your body's wiring, and some of it is fear you can hand over to God in prayer. The good news is you don't have to pick one explanation. You can pray through the fear and tend to the physical side too. Ask God for wisdom to tell the threads apart, and give yourself permission to address both without shame.",
+      "scripture": { "text": "If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not.", "reference": "James 1:5" }
+    },
+    "spiritual-battle": {
+      "name": "Mostly Spiritual Battle",
+      "description": "For you, there's a real spiritual edge to this fear. It flares around the very things that draw you closer to God, and that's worth paying attention to. You are not powerless here. The peace of God is something you can actively stand in, armed with His Word and His presence. Don't ignore your body, but don't underestimate the spiritual fight either. God hands you weapons for this, and the peace He gives is meant to guard your heart and mind.",
+      "scripture": { "text": "And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.", "reference": "Philippians 4:7" }
+    },
+    "seek-support": {
+      "name": "Time to Seek Support",
+      "description": "Your anxiety has gotten heavy enough that it's touching your sleep, your body, and your ability to get through the day, and that's a signal worth honoring. Reaching for help is not a failure of faith. It's wisdom. God works through doctors, counselors, and the people around you, and there is no shame in needing them. You don't have to carry this alone or muscle through it. Let people in, get the support you need, and trust that God is in that step too.",
+      "scripture": { "text": "Bear ye one another's burdens, and so fulfil the law of Christ.", "reference": "Galatians 6:2" }
+    },
+    "too-hard-on-yourself": {
+      "name": "You're Being Too Hard on Yourself",
+      "description": "You've turned your anxiety into evidence against yourself, convinced it proves your faith is weak or that God is disappointed in you. But that's the guilt talking, and it isn't from Him. Some of the most faithful people in the Bible felt overwhelmed and afraid. Feeling anxious doesn't make you a bad Christian. God is so much gentler with you than you are with yourself. Set the harsh verdict down and let Him be tender with you, the way He actually is.",
+      "scripture": { "text": "Like as a father pitieth his children, so the Lord pitieth them that fear him.", "reference": "Psalm 103:13" }
+    }
+  }
+}

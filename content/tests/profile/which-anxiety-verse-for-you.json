@@ -1,0 +1,129 @@
+{
+  "slug": "which-anxiety-verse-for-you",
+  "title": "Which Anxiety Bible Verse Is for You Right Now?",
+  "subtitle": "Out of all the verses for fear, here's the one that fits your exact moment.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "philippians-4",
+    "matthew-6",
+    "first-peter-5",
+    "isaiah-41",
+    "psalm-94",
+    "john-14",
+    "psalm-56"
+  ],
+  "questions": [
+    {
+      "text": "What does your anxiety feel like at this exact moment?",
+      "options": [
+        { "text": "Like everything is pressing on me at once.", "weights": { "philippians-4": 3 } },
+        { "text": "Like dread about what tomorrow might bring.", "weights": { "matthew-6": 3 } },
+        { "text": "Like I'm hauling a weight that's too heavy to keep carrying.", "weights": { "first-peter-5": 3 } },
+        { "text": "Like I'm scared and completely on my own.", "weights": { "isaiah-41": 3 } }
+      ]
+    },
+    {
+      "text": "Where does your mind keep running?",
+      "options": [
+        { "text": "Round and round in thoughts I can't seem to stop.", "weights": { "psalm-94": 3 } },
+        { "text": "Straight to tomorrow and everything that could go wrong.", "weights": { "matthew-6": 3 } },
+        { "text": "Searching for a peace I just can't find right now.", "weights": { "john-14": 3 } },
+        { "text": "Stuck on a fear that's gripping me this very minute.", "weights": { "psalm-56": 3 } }
+      ]
+    },
+    {
+      "text": "If you could ask God for one thing right now, it would be...",
+      "options": [
+        { "text": "Take this whole overwhelming pile off my shoulders.", "weights": { "first-peter-5": 3 } },
+        { "text": "Help me stop borrowing trouble from tomorrow.", "weights": { "matthew-6": 3 } },
+        { "text": "Be near me. I feel so alone in this.", "weights": { "isaiah-41": 3 } },
+        { "text": "Quiet the storm of thoughts in my head.", "weights": { "psalm-94": 3 } }
+      ]
+    },
+    {
+      "text": "Which sentence is closest to your heart today?",
+      "options": [
+        { "text": "I'm anxious about basically everything.", "weights": { "philippians-4": 3 } },
+        { "text": "I can't stop fearing what's coming.", "weights": { "matthew-6": 3 } },
+        { "text": "I'm just so afraid right now.", "weights": { "psalm-56": 3 } },
+        { "text": "I can't find any peace.", "weights": { "john-14": 3 } }
+      ]
+    },
+    {
+      "text": "What's the texture of the fear?",
+      "options": [
+        { "text": "A wide, scattered worry that touches everything.", "weights": { "philippians-4": 3 } },
+        { "text": "A heavy load I keep trying to carry alone.", "weights": { "first-peter-5": 3 } },
+        { "text": "A loneliness that makes the fear feel bigger.", "weights": { "isaiah-41": 3 } },
+        { "text": "A spiral of thoughts feeding on each other.", "weights": { "psalm-94": 3 } }
+      ]
+    },
+    {
+      "text": "When the anxiety peaks, what do you most need to hear?",
+      "options": [
+        { "text": "Don't be anxious. Bring it all to God and let His peace guard you.", "weights": { "philippians-4": 3 } },
+        { "text": "Don't worry about tomorrow. Today has enough.", "weights": { "matthew-6": 3 } },
+        { "text": "Hand it over. He cares about every bit of it.", "weights": { "first-peter-5": 3 } },
+        { "text": "Don't be afraid. I am with you.", "weights": { "isaiah-41": 3 } }
+      ]
+    },
+    {
+      "text": "What's been hardest about this season of worry?",
+      "options": [
+        { "text": "My racing thoughts won't quiet down, day or night.", "weights": { "psalm-94": 3 } },
+        { "text": "I've lost the calm I used to be able to find.", "weights": { "john-14": 3 } },
+        { "text": "The fear hits hardest right now, in this moment.", "weights": { "psalm-56": 3 } },
+        { "text": "I feel like I'm facing it without anyone beside me.", "weights": { "isaiah-41": 3 } }
+      ]
+    },
+    {
+      "text": "What would bring the most relief right now?",
+      "options": [
+        { "text": "A deep breath and a peace that doesn't even make sense.", "weights": { "philippians-4": 3 } },
+        { "text": "Permission to let tomorrow's worries wait.", "weights": { "matthew-6": 3 } },
+        { "text": "Setting down the weight I've been carrying.", "weights": { "first-peter-5": 3 } },
+        { "text": "A calm in my chest that settles the fear.", "weights": { "psalm-56": 2, "john-14": 1 } }
+      ]
+    }
+  ],
+  "results": {
+    "philippians-4": {
+      "name": "Philippians 4:6-7 (Anxious About Everything)",
+      "description": "Your worry is wide and scattered, touching nearly everything, and you need a place to set it all down. This is the verse for you. The invitation isn't to white-knuckle your way to calm. It's to hand every single anxious thing to God in prayer, with thanks, and let a peace you can't fully explain stand guard over your heart. Save this one and pray it tonight.",
+      "scripture": { "text": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.", "reference": "Philippians 4:6-7" }
+    },
+    "matthew-6": {
+      "name": "Matthew 6:34 (Worried About Tomorrow)",
+      "description": "Your fear lives in the future, in all the what-ifs of tomorrow that haven't even arrived. Jesus speaks straight to that. He says today has enough to handle on its own, so you don't have to carry tomorrow's weight on top of it. You're allowed to put down the worries that belong to a day that isn't here yet. Let this verse be your reminder to live in today.",
+      "scripture": { "text": "Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.", "reference": "Matthew 6:34" }
+    },
+    "first-peter-5": {
+      "name": "1 Peter 5:7 (Carrying Too Much)",
+      "description": "You've been hauling a load that's far too heavy, trying to manage it all on your own. This verse is your permission to stop. You can throw the whole weight of it onto God, not because He's obligated, but because He genuinely cares about you. He wants the burden you keep insisting on carrying alone. Hand it over today, piece by piece.",
+      "scripture": { "text": "Cast all your anxiety on him because he cares for you.", "reference": "1 Peter 5:7" }
+    },
+    "isaiah-41": {
+      "name": "Isaiah 41:10 (Scared and Alone)",
+      "description": "The hardest part of your fear is the loneliness, the sense that you're facing it with no one beside you. This verse answers that directly. You are not alone, and you are not being held up by your own strength. God promises to be with you, to steady you, and to hold you up Himself. Read it slowly. He means it for you, right where you are.",
+      "scripture": { "text": "So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand.", "reference": "Isaiah 41:10" }
+    },
+    "psalm-94": {
+      "name": "Psalm 94:19 (Spiraling Thoughts)",
+      "description": "Your mind won't stop spinning, and the anxious thoughts keep multiplying and feeding on each other. This verse was written for exactly that. It doesn't pretend the spiral isn't real. It names the great anxiety within and then points to the One who brings consolation and even joy right into the middle of it. Let Him interrupt the loop tonight.",
+      "scripture": { "text": "When anxiety was great within me, your consolation brought me joy.", "reference": "Psalm 94:19" }
+    },
+    "john-14": {
+      "name": "John 14:27 (Can't Find Peace)",
+      "description": "You've lost the calm you used to be able to reach, and the peace just won't come. Hold on to this verse. Jesus gives a peace that isn't like the world's flimsy version. It doesn't depend on everything going right. He hands it to you on purpose and then tells your troubled, fearful heart that it doesn't have to stay troubled. The peace is a gift. Receive it.",
+      "scripture": { "text": "Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid.", "reference": "John 14:27" }
+    },
+    "psalm-56": {
+      "name": "Psalm 56:3 (Afraid Right Now)",
+      "description": "The fear is right here, right now, gripping you in this very moment. This short verse is the one to hold. It doesn't ask you to stop being afraid first. It gives you something to do with the fear while it's still happening: turn it into trust, one breath at a time. When the afraid hits, you put your trust in Him. Say it out loud until it steadies you.",
+      "scripture": { "text": "When I am afraid, I put my trust in you.", "reference": "Psalm 56:3" }
+    }
+  }
+}

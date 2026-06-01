@@ -1,0 +1,136 @@
+{
+  "slug": "which-burned-out-bible-hero-are-you",
+  "title": "Which Burned-Out Bible Hero Are You?",
+  "subtitle": "Even the giants of faith hit the wall. Here's the one who hit it like you.",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 5,
+  "mode": "archetype",
+  "questions": [
+    {
+      "text": "What does your burnout actually feel like from the inside?",
+      "options": [
+        { "text": "I crashed hard right after a huge win and now I just want to disappear.", "weights": { "elijah": 3 } },
+        { "text": "I'm carrying everyone, and there's no one carrying me.", "weights": { "moses": 3 } },
+        { "text": "I'm busy and quietly resentful that I'm doing it all alone.", "weights": { "martha": 3 } },
+        { "text": "I'm just done. Done and a little bitter, if I'm honest.", "weights": { "jonah": 3 } }
+      ]
+    },
+    {
+      "text": "What pushed you to the edge?",
+      "options": [
+        { "text": "I gave everything for one big moment, and the high left me empty.", "weights": { "elijah": 3 } },
+        { "text": "Too many people, too many needs, all landing on me.", "weights": { "moses": 3 } },
+        { "text": "Doing the work no one notices while others sit and rest.", "weights": { "martha": 3 } },
+        { "text": "Years of pouring out with so little to show for it.", "weights": { "jeremiah": 3 } }
+      ]
+    },
+    {
+      "text": "When you finally hit the wall, what came out of your mouth?",
+      "options": [
+        { "text": "I've had enough, Lord. I can't do this.", "weights": { "elijah": 3 } },
+        { "text": "Why have you laid this whole burden on me?", "weights": { "moses": 3 } },
+        { "text": "Don't you care that I'm doing this by myself?", "weights": { "martha": 3 } },
+        { "text": "Just take it. Anything is better than this.", "weights": { "jonah": 2, "elijah": 1 } }
+      ]
+    },
+    {
+      "text": "What does your heart sound like lately?",
+      "options": [
+        { "text": "Empty. Whatever I had, I poured it out and it's gone.", "weights": { "naomi": 3 } },
+        { "text": "Cynical. I'm tired of the work and tired of people.", "weights": { "jonah": 3 } },
+        { "text": "Weary. I've cried over this calling more than I'll admit.", "weights": { "jeremiah": 3 } },
+        { "text": "Frazzled. My mind never stops running the list.", "weights": { "martha": 3 } }
+      ]
+    },
+    {
+      "text": "What do you secretly wish someone would do for you?",
+      "options": [
+        { "text": "Feed me, let me sleep, and not ask anything of me for a while.", "weights": { "elijah": 3 } },
+        { "text": "Step in and share the load so it's not all on my shoulders.", "weights": { "moses": 3 } },
+        { "text": "Notice how much I'm carrying and actually help.", "weights": { "martha": 3 } },
+        { "text": "Sit with me in the grief without trying to fix it.", "weights": { "naomi": 3 } }
+      ]
+    },
+    {
+      "text": "How do you handle people right now?",
+      "options": [
+        { "text": "I'd rather be alone under a tree than face one more person.", "weights": { "elijah": 3 } },
+        { "text": "I keep helping them, but the resentment is building.", "weights": { "martha": 2, "moses": 1 } },
+        { "text": "I'm short and bitter, even with people I love.", "weights": { "jonah": 3 } },
+        { "text": "I've pulled back. Loss made me want to be left alone.", "weights": { "naomi": 3 } }
+      ]
+    },
+    {
+      "text": "What would actually help you recover?",
+      "options": [
+        { "text": "Real rest, real food, and a gentle word from God.", "weights": { "elijah": 3 } },
+        { "text": "People to delegate to so I stop carrying it all.", "weights": { "moses": 3 } },
+        { "text": "Permission to stop performing and just be present.", "weights": { "martha": 3 } },
+        { "text": "Honesty. I need to say out loud how empty I feel.", "weights": { "naomi": 2, "jeremiah": 1 } }
+      ]
+    },
+    {
+      "text": "Which complaint feels most like yours?",
+      "options": [
+        { "text": "I'm the only one left and I can't keep going.", "weights": { "elijah": 3 } },
+        { "text": "Why did you send me into this? It's crushing me.", "weights": { "jeremiah": 3 } },
+        { "text": "I went out full and came back empty.", "weights": { "naomi": 3 } },
+        { "text": "I'd rather be done than keep feeling this.", "weights": { "jonah": 3 } }
+      ]
+    },
+    {
+      "text": "Deep down, what are you most afraid of in this season?",
+      "options": [
+        { "text": "That I've already given my best and there's nothing left in me.", "weights": { "elijah": 2, "naomi": 1 } },
+        { "text": "That I'll collapse if I keep holding everyone up.", "weights": { "moses": 3 } },
+        { "text": "That all my hard work doesn't even matter to anyone.", "weights": { "martha": 3 } },
+        { "text": "That the bitterness has changed who I am.", "weights": { "jonah": 2, "naomi": 1 } }
+      ]
+    }
+  ],
+  "results": {
+    "elijah": {
+      "name": "Elijah (collapsed after the high)",
+      "emoji": "🔥",
+      "traits": ["Spent", "Brave", "Tender"],
+      "description": "You just did something huge, and instead of celebrating, you crashed and wanted to vanish. That's not weakness. Elijah, fresh off the greatest victory of his life, sat under a tree and asked God to take it. And God's answer wasn't a lecture. It was a nap, a meal, and a whisper. He'll meet you the same gentle way.",
+      "scripture": { "text": "I have had enough, Lord. Take my life.", "reference": "1 Kings 19:4" }
+    },
+    "moses": {
+      "name": "Moses (carrying everyone alone)",
+      "emoji": "⛰️",
+      "traits": ["Faithful", "Overloaded", "Devoted"],
+      "description": "You're holding up more people than any one person should, and it's flattening you. Moses felt it too, and God's solution wasn't for him to try harder. It was to share the weight with others. You were never meant to carry all of this by yourself. Letting people in isn't failing. It's how you last.",
+      "scripture": { "text": "I cannot carry all these people by myself; the burden is too heavy for me.", "reference": "Numbers 11:14" }
+    },
+    "martha": {
+      "name": "Martha (busy and resentful)",
+      "emoji": "🍽️",
+      "traits": ["Diligent", "Loyal", "Weary"],
+      "description": "You're the one keeping everything running, and quietly you're starting to resent it. Jesus didn't scold Martha for serving. He gently named the worry underneath the work and invited her to stop, sit, and choose the better thing. He's inviting you to put the tray down for a minute and just be with Him.",
+      "scripture": { "text": "Martha, Martha, you are worried and upset about many things, but few things are needed.", "reference": "Luke 10:41" }
+    },
+    "jonah": {
+      "name": "Jonah (done and bitter)",
+      "emoji": "🌊",
+      "traits": ["Honest", "Worn", "Stubborn"],
+      "description": "You're past tired. You're at the point where you'd rather quit than feel one more thing. Jonah got there too, sulking and angry and ready to be done. And God didn't write him off. He asked him a question, gave him shade, and stayed near in the bitterness. He's not done with you, even on the days you're done with everything.",
+      "scripture": { "text": "Now, Lord, take away my life, for it is better for me to die than to live.", "reference": "Jonah 4:3" }
+    },
+    "jeremiah": {
+      "name": "Jeremiah (weary of the work)",
+      "emoji": "💧",
+      "traits": ["Sensitive", "Persistent", "Drained"],
+      "description": "You've poured years into something hard, and the weariness has soaked all the way through. Jeremiah wept over his calling and wanted to walk away, yet he couldn't shake the fire still burning in him. That ache you feel is the cost of caring deeply. God hasn't missed a single tear, and the work is not as fruitless as it feels.",
+      "scripture": { "text": "His word is in my heart like a fire, a fire shut up in my bones.", "reference": "Jeremiah 20:9" }
+    },
+    "naomi": {
+      "name": "Naomi (empty and grieving)",
+      "emoji": "🌾",
+      "traits": ["Grieving", "Real", "Resilient"],
+      "description": "You went out full and came back empty, and the loss left you feeling like a different person. Naomi even asked to be called Bitter. But her story didn't end in that empty place. God quietly wove restoration back in through unexpected love. Your emptiness is not the final chapter, even if today it feels like it.",
+      "scripture": { "text": "I went away full, and the Lord has brought me back empty.", "reference": "Ruth 1:21" }
+    }
+  }
+}

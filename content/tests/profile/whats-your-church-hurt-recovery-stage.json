@@ -1,0 +1,117 @@
+{
+  "slug": "whats-your-church-hurt-recovery-stage",
+  "title": "What's Your Church-Hurt Recovery Stage?",
+  "subtitle": "Healing from church hurt has stages. Knowing yours gives the chaos a name and a next step.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "still-in-the-fog",
+    "naming-what-happened",
+    "setting-boundaries",
+    "grieving-the-loss",
+    "rebuilding-trust"
+  ],
+  "questions": [
+    {
+      "text": "When you think about what happened at church, what's your first response?",
+      "options": [
+        { "text": "Confusion. I still can't fully explain what went wrong.", "weights": { "still-in-the-fog": 3 } },
+        { "text": "Clarity, finally. I can put words to it now.", "weights": { "naming-what-happened": 3 } },
+        { "text": "A firm line. I know what I will and won't allow anymore.", "weights": { "setting-boundaries": 3 } },
+        { "text": "A deep sadness for everything I lost.", "weights": { "grieving-the-loss": 3 } }
+      ]
+    },
+    {
+      "text": "How would you describe where you are right now?",
+      "options": [
+        { "text": "Numb and disoriented, like I'm moving through a haze.", "weights": { "still-in-the-fog": 3 } },
+        { "text": "Starting to call it what it actually was.", "weights": { "naming-what-happened": 3 } },
+        { "text": "Protecting myself with new limits.", "weights": { "setting-boundaries": 3 } },
+        { "text": "Cautiously curious about faith again.", "weights": { "rebuilding-trust": 3 } }
+      ]
+    },
+    {
+      "text": "What do you find yourself doing with the memories?",
+      "options": [
+        { "text": "Avoiding them. It's all too tangled to look at directly.", "weights": { "still-in-the-fog": 3 } },
+        { "text": "Sorting through them, naming what was wrong and what wasn't.", "weights": { "naming-what-happened": 3 } },
+        { "text": "Using them to decide what I'll never tolerate again.", "weights": { "setting-boundaries": 3 } },
+        { "text": "Mourning the community and the version of faith I had.", "weights": { "grieving-the-loss": 3 } }
+      ]
+    },
+    {
+      "text": "How do you feel about church buildings or services now?",
+      "options": [
+        { "text": "Confused. I don't even know what I think anymore.", "weights": { "still-in-the-fog": 3 } },
+        { "text": "Wary, but I'm learning to spot the red flags clearly.", "weights": { "setting-boundaries": 2, "naming-what-happened": 1 } },
+        { "text": "Heavy with grief for what I used to have there.", "weights": { "grieving-the-loss": 3 } },
+        { "text": "Tentatively open to trying again, slowly and on my terms.", "weights": { "rebuilding-trust": 3 } }
+      ]
+    },
+    {
+      "text": "What's the dominant emotion when this comes up?",
+      "options": [
+        { "text": "A fog I can't see through.", "weights": { "still-in-the-fog": 3 } },
+        { "text": "Validation as the pieces finally click into place.", "weights": { "naming-what-happened": 3 } },
+        { "text": "Resolve to keep myself safe from here on.", "weights": { "setting-boundaries": 3 } },
+        { "text": "Grief for what I trusted and lost.", "weights": { "grieving-the-loss": 3 } }
+      ]
+    },
+    {
+      "text": "What feels most true about your faith in God right now?",
+      "options": [
+        { "text": "It's hazy. I can't tell where God ends and the hurt begins.", "weights": { "still-in-the-fog": 3 } },
+        { "text": "I'm separating God from the people who wounded me.", "weights": { "naming-what-happened": 2, "rebuilding-trust": 1 } },
+        { "text": "I'm guarding it carefully so no one can harm it again.", "weights": { "setting-boundaries": 3 } },
+        { "text": "It's slowly coming back to life, one small step at a time.", "weights": { "rebuilding-trust": 3 } }
+      ]
+    },
+    {
+      "text": "What do you most need from the people around you?",
+      "options": [
+        { "text": "Patience while I figure out what I'm even feeling.", "weights": { "still-in-the-fog": 3 } },
+        { "text": "Someone to say yes, that really was wrong.", "weights": { "naming-what-happened": 3 } },
+        { "text": "Respect for the lines I've finally drawn.", "weights": { "setting-boundaries": 3 } },
+        { "text": "Room to grieve without being rushed to move on.", "weights": { "grieving-the-loss": 3 } }
+      ]
+    },
+    {
+      "text": "When you picture a year from now, what do you hope for?",
+      "options": [
+        { "text": "Just to feel less foggy and more like myself.", "weights": { "still-in-the-fog": 3 } },
+        { "text": "To fully understand my story and stop second-guessing it.", "weights": { "naming-what-happened": 3 } },
+        { "text": "To feel safe and steady inside my own boundaries.", "weights": { "setting-boundaries": 3 } },
+        { "text": "To trust a community again without bracing for pain.", "weights": { "rebuilding-trust": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "still-in-the-fog": {
+      "name": "Still in the Fog",
+      "description": "Right now everything feels tangled, and you can't quite name what happened or what you feel about it. That fog is normal, and it's not a sign you're failing at healing. It's your heart protecting you while it catches up. You don't have to figure it all out today. Just stay gentle with yourself, and trust that clarity comes in time. God is near to you even in the haze.",
+      "scripture": { "text": "The Lord is close to the brokenhearted and saves those who are crushed in spirit.", "reference": "Psalm 34:18" }
+    },
+    "naming-what-happened": {
+      "name": "Naming What Happened",
+      "description": "You've reached the stage where the pieces are clicking into place, and you can finally say out loud what was wrong. That naming is brave and it's powerful. Putting honest words to your experience is how the fog lifts and the healing gets traction. You're not exaggerating, and you're not making it up. Telling the truth about it is a real and necessary step forward.",
+      "scripture": { "text": "Then you will know the truth, and the truth will set you free.", "reference": "John 8:32" }
+    },
+    "setting-boundaries": {
+      "name": "Setting Boundaries",
+      "description": "You've drawn lines around what you will and won't allow, and that's not bitterness. It's wisdom. Boundaries aren't a wall against God. They're how you protect a tender, healing heart so it can actually mend. Even Jesus withdrew from people and places when He needed to. The limits you're setting are good, and you're allowed to keep them.",
+      "scripture": { "text": "Above all else, guard your heart, for everything you do flows from it.", "reference": "Proverbs 4:23" }
+    },
+    "grieving-the-loss": {
+      "name": "Grieving the Loss",
+      "description": "You're mourning something real: a community, a sense of belonging, maybe a version of faith you can't get back. That grief deserves to be felt, not rushed. Loss like this is worth tears, and God isn't asking you to skip past the sadness to get to the healing. He sits with you in it. Grieving honestly is part of how you heal, not a detour from it.",
+      "scripture": { "text": "Blessed are those who mourn, for they will be comforted.", "reference": "Matthew 5:4" }
+    },
+    "rebuilding-trust": {
+      "name": "Cautiously Rebuilding Trust",
+      "description": "You're taking slow, careful steps back toward faith and maybe even community, and you're doing it on your own terms. That cautiousness is healthy. Trust that was broken gets rebuilt brick by brick, with evidence, not pressure. You don't have to rush or prove anything. The fact that you're willing to try again, gently, is a quiet sign that God has been at work in your healing all along.",
+      "scripture": { "text": "He who began a good work in you will carry it on to completion.", "reference": "Philippians 1:6" }
+    }
+  }
+}

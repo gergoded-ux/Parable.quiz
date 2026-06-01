@@ -1,0 +1,126 @@
+{
+  "slug": "how-anxious-is-your-attachment-to-god",
+  "title": "How Anxious Is Your Attachment to God?",
+  "subtitle": "Do you rest in God's love, or quietly audition for it? Here's an honest look at how you relate to Him.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "anxiously-attached",
+    "avoidant",
+    "earning-it",
+    "growing-secure",
+    "securely-attached"
+  ],
+  "questions": [
+    {
+      "text": "When you can't 'feel' God for a few days, your gut reaction is...",
+      "options": [
+        { "text": "Panic. I start begging for a sign that He's still there.", "weights": { "anxiously-attached": 3 } },
+        { "text": "I shrug and quietly pull back into my own world.", "weights": { "avoidant": 3 } },
+        { "text": "I wonder what I did to make Him go quiet.", "weights": { "earning-it": 2, "anxiously-attached": 1 } },
+        { "text": "I trust He's near even when the feeling fades.", "weights": { "securely-attached": 3 } }
+      ]
+    },
+    {
+      "text": "After a good stretch of prayer or church, you tend to feel...",
+      "options": [
+        { "text": "Relieved, like I finally earned a little favor.", "weights": { "earning-it": 3 } },
+        { "text": "Close to Him, and free to just rest in it.", "weights": { "securely-attached": 3 } },
+        { "text": "Good, but already worried about keeping the streak alive.", "weights": { "anxiously-attached": 3 } },
+        { "text": "Fine, though I keep Him at a comfortable distance anyway.", "weights": { "avoidant": 2 } }
+      ]
+    },
+    {
+      "text": "When you sin, your first instinct toward God is to...",
+      "options": [
+        { "text": "Spiral, apologize over and over, and need lots of reassurance.", "weights": { "anxiously-attached": 3 } },
+        { "text": "Avoid Him for a while until I feel less awkward.", "weights": { "avoidant": 3 } },
+        { "text": "Work hard to make up for it before I come back.", "weights": { "earning-it": 3 } },
+        { "text": "Come back quickly, because I know He's not done with me.", "weights": { "securely-attached": 2, "growing-secure": 1 } }
+      ]
+    },
+    {
+      "text": "Deep down, why do you think God loves you?",
+      "options": [
+        { "text": "I'm honestly not sure He does, so I keep checking.", "weights": { "anxiously-attached": 3 } },
+        { "text": "I don't think about it much. Feelings aren't my thing.", "weights": { "avoidant": 3 } },
+        { "text": "Because I try to be good enough for Him to.", "weights": { "earning-it": 3 } },
+        { "text": "Because that's who He is. It's not about my performance.", "weights": { "securely-attached": 3 } }
+      ]
+    },
+    {
+      "text": "How comfortable are you bringing God your raw, messy emotions?",
+      "options": [
+        { "text": "I flood Him with them and need an answer fast.", "weights": { "anxiously-attached": 3 } },
+        { "text": "Not very. I'd rather handle my feelings alone.", "weights": { "avoidant": 3 } },
+        { "text": "I tidy them up first so I look like I'm doing okay.", "weights": { "earning-it": 2 } },
+        { "text": "I'm learning to just tell Him the truth as it is.", "weights": { "growing-secure": 3 } }
+      ]
+    },
+    {
+      "text": "When good things happen, you...",
+      "options": [
+        { "text": "Wonder when the other shoe will drop and He'll pull back.", "weights": { "anxiously-attached": 3 } },
+        { "text": "Enjoy it but don't really credit Him with it.", "weights": { "avoidant": 2 } },
+        { "text": "Feel like I'd better stay good so it keeps coming.", "weights": { "earning-it": 3 } },
+        { "text": "Receive it as a gift from a Father who likes giving them.", "weights": { "securely-attached": 3 } }
+      ]
+    },
+    {
+      "text": "Which fear sounds most like yours?",
+      "options": [
+        { "text": "That I'm not good enough for God to really love me.", "weights": { "anxiously-attached": 2, "earning-it": 1 } },
+        { "text": "That if I get too close, I'll get let down.", "weights": { "avoidant": 3 } },
+        { "text": "That if I stop performing, His love will dry up.", "weights": { "earning-it": 3 } },
+        { "text": "Honestly, that old fear is starting to lose its grip.", "weights": { "growing-secure": 3 } }
+      ]
+    },
+    {
+      "text": "When someone says 'God delights in you,' you...",
+      "options": [
+        { "text": "Want to believe it but need to hear it again and again.", "weights": { "anxiously-attached": 3 } },
+        { "text": "Feel a little uncomfortable and change the subject.", "weights": { "avoidant": 3 } },
+        { "text": "Think, 'maybe, on my better days.'", "weights": { "earning-it": 3 } },
+        { "text": "Am starting to let it land instead of brushing it off.", "weights": { "growing-secure": 3 } }
+      ]
+    },
+    {
+      "text": "Over the last year, your relationship with God has felt...",
+      "options": [
+        { "text": "Like a roller coaster of reassurance and worry.", "weights": { "anxiously-attached": 3 } },
+        { "text": "Distant by my own choice. I keep some walls up.", "weights": { "avoidant": 3 } },
+        { "text": "Like a performance review I'm always trying to pass.", "weights": { "earning-it": 3 } },
+        { "text": "Steadier than before. I'm slowly trusting His love more.", "weights": { "growing-secure": 2, "securely-attached": 1 } }
+      ]
+    }
+  ],
+  "results": {
+    "anxiously-attached": {
+      "name": "Anxiously Attached",
+      "description": "You love God, but you live a little on edge with Him, scanning for proof that He's still pleased and still there. When the feelings fade, you panic. Here's what your heart needs to hear on repeat until it sinks in: His love for you doesn't flicker. He has loved you with an everlasting love, and nothing you do, or fail to do, makes Him hold you tighter or looser. You can exhale.",
+      "scripture": { "text": "Yea, I have loved thee with an everlasting love: therefore with lovingkindness have I drawn thee.", "reference": "Jeremiah 31:3" }
+    },
+    "avoidant": {
+      "name": "Avoidant",
+      "description": "You keep God at a manageable arm's length. Closeness feels risky, so you handle your inner world solo and don't lean in too far. But the wall that protects you also keeps out the very love you were made for. God isn't going to crowd you or let you down the way people have. You can come a step closer than feels comfortable. He's safe, and He's patient.",
+      "scripture": { "text": "Draw nigh to God, and he will draw nigh to you.", "reference": "James 4:8" }
+    },
+    "earning-it": {
+      "name": "Earning-It",
+      "description": "Somewhere you started believing God's love runs on your performance, so you keep hustling to stay in His good graces. It's exhausting, and it isn't the gospel. His love came to you as a free gift while you had nothing to offer. You can't earn what's already yours, and you can't lose it by having a bad week. Grace means you get to stop auditioning.",
+      "scripture": { "text": "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God.", "reference": "Ephesians 2:8" }
+    },
+    "growing-secure": {
+      "name": "Growing Secure",
+      "description": "You're in a really hopeful place. The old fear still shows up, but it doesn't run the show like it used to, and you're learning to take God at His word about His love for you. Keep going. Every time you choose to trust His heart over your feelings, that root grows a little deeper. You're being rooted and grounded in love, and it's working.",
+      "scripture": { "text": "That ye, being rooted and grounded in love, may be able to comprehend the breadth, and length, and depth, and height.", "reference": "Ephesians 3:17-18" }
+    },
+    "securely-attached": {
+      "name": "Securely Attached",
+      "description": "You rest in God's love rather than chasing it, and that's a beautiful, hard-won place to be. You can come close when you've blown it, bring Him the messy stuff, and trust that He's near even when you can't feel a thing. That security isn't pride. It's the fruit of knowing who He is. Stay rooted there, and let it spill over to people still learning to trust His love.",
+      "scripture": { "text": "And we have known and believed the love that God hath to us. God is love.", "reference": "1 John 4:16" }
+    }
+  }
+}

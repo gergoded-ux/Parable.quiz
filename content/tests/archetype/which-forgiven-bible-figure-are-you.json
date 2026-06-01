@@ -1,0 +1,129 @@
+{
+  "slug": "which-forgiven-bible-figure-are-you",
+  "title": "Which Forgiven Bible Figure Are You?",
+  "subtitle": "If God restored them, He can restore you. Which story is closest to yours?",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 4,
+  "mode": "archetype",
+  "questions": [
+    {
+      "text": "What does the guilt you carry sound like inside?",
+      "options": [
+        { "text": "I failed the people who counted on me when it mattered.", "weights": { "peter": 2 } },
+        { "text": "I hurt others badly before I knew any better.", "weights": { "paul": 2 } },
+        { "text": "I walked away from everything good on purpose.", "weights": { "prodigal": 2 } },
+        { "text": "I am sure everyone knows my worst moment.", "weights": { "woman-caught-in-adultery": 2 } }
+      ]
+    },
+    {
+      "text": "When you think about your lowest point, you feel...",
+      "options": [
+        { "text": "Shame that I caved under pressure when I swore I would not.", "weights": { "peter": 2 } },
+        { "text": "Regret over the damage I caused with full confidence.", "weights": { "paul": 2 } },
+        { "text": "The ache of having thrown away what I had.", "weights": { "prodigal": 2 } },
+        { "text": "Exposed, like my sin was put on display.", "weights": { "woman-caught-in-adultery": 2 } }
+      ]
+    },
+    {
+      "text": "What is hardest for you to believe about forgiveness?",
+      "options": [
+        { "text": "That I could be trusted with a calling again after failing.", "weights": { "peter": 2 } },
+        { "text": "That someone with my history could be truly useful to God.", "weights": { "paul": 2 } },
+        { "text": "That I would be welcomed home instead of turned away.", "weights": { "prodigal": 2 } },
+        { "text": "That I could walk free with no condemnation hanging over me.", "weights": { "woman-caught-in-adultery": 2 } }
+      ]
+    },
+    {
+      "text": "Which line lands deepest for you?",
+      "options": [
+        { "text": "Simon, lovest thou me? Feed my sheep.", "weights": { "peter": 2 } },
+        { "text": "I obtained mercy, though I was the chief of sinners.", "weights": { "paul": 2 } },
+        { "text": "This my son was lost, and is found.", "weights": { "prodigal": 2 } },
+        { "text": "Neither do I condemn thee: go, and sin no more.", "weights": { "woman-caught-in-adultery": 2 } }
+      ]
+    },
+    {
+      "text": "What kind of restoration do you most long for?",
+      "options": [
+        { "text": "To be reinstated, to know my failure did not end my purpose.", "weights": { "peter": 2 } },
+        { "text": "To have my past redeemed into something that helps people.", "weights": { "paul": 2 } },
+        { "text": "To feel the embrace of being fully welcomed back.", "weights": { "prodigal": 2 } },
+        { "text": "To finally feel clean and free of the shame.", "weights": { "woman-caught-in-adultery": 2 } }
+      ]
+    },
+    {
+      "text": "How did you mess up, if you are honest?",
+      "options": [
+        { "text": "I denied what I believed when it got costly.", "weights": { "peter": 2 } },
+        { "text": "I was zealous and certain, and I caused real harm.", "weights": { "paul": 2 } },
+        { "text": "I chose my own way over the people who loved me.", "weights": { "prodigal": 2 } },
+        { "text": "I fell, and then I had to face everyone knowing.", "weights": { "woman-caught-in-adultery": 2 } }
+      ]
+    },
+    {
+      "text": "What do you fear your past has cost you?",
+      "options": [
+        { "text": "My credibility, and the right to lead or serve.", "weights": { "peter": 2 } },
+        { "text": "Any chance of being seen as one of the good ones.", "weights": { "paul": 2 } },
+        { "text": "My place in the family I walked out on.", "weights": { "prodigal": 2 } },
+        { "text": "My reputation, maybe permanently.", "weights": { "woman-caught-in-adultery": 2 } }
+      ]
+    },
+    {
+      "text": "After a serious fall, what would you most need from God?",
+      "options": [
+        { "text": "A second commission, proof He still wants to use me.", "weights": { "peter": 2 } },
+        { "text": "To know my worst chapter is not the final word.", "weights": { "paul": 2 } },
+        { "text": "A father running toward me before I can explain.", "weights": { "prodigal": 2 } },
+        { "text": "Grace that does not flinch at what I did.", "weights": { "woman-caught-in-adultery": 2, "david": 1 } }
+      ]
+    },
+    {
+      "text": "Which describes the sin you are still living with?",
+      "options": [
+        { "text": "A moment of weakness I keep replaying.", "weights": { "peter": 2 } },
+        { "text": "A whole season of doing harm I cannot undo.", "weights": { "paul": 2 } },
+        { "text": "A choice to chase what I wanted over what was right.", "weights": { "prodigal": 2 } },
+        { "text": "A failure that had real consequences I had to own.", "weights": { "david": 2 } }
+      ]
+    }
+  ],
+  "results": {
+    "peter": {
+      "name": "Peter (Denied, Restored)",
+      "emoji": "🔥",
+      "traits": ["Bold", "Broken", "Recommissioned"],
+      "description": "You swore you would never fail, and then you did, in the moment it counted most. But Peter's story does not end at the fire where he denied Jesus. It ends on a beach, with Jesus gently asking three times if he loved Him and handing him his calling back. Your failure is not the final word. He is restoring you for what is ahead.",
+      "scripture": { "text": "He saith unto him the third time, Simon, son of Jonas, lovest thou me?", "reference": "John 21:17" }
+    },
+    "paul": {
+      "name": "Paul (Former Enemy)",
+      "emoji": "⛓️",
+      "traits": ["Zealous", "Changed", "Redeemed"],
+      "description": "You carry harm you caused when you were certain you were right. Paul once hunted the very people he later gave his life to serve. God did not just forgive him. He took the worst of his story and made it the proof of how far grace reaches. If He can use Paul, your past does not disqualify you either.",
+      "scripture": { "text": "This is a faithful saying, that Christ Jesus came into the world to save sinners; of whom I am chief.", "reference": "1 Timothy 1:15" }
+    },
+    "prodigal": {
+      "name": "The Prodigal (Came Home)",
+      "emoji": "🏡",
+      "traits": ["Wandering", "Repentant", "Welcomed"],
+      "description": "You walked away from what was good, chasing your own way, and now you wonder if there is a road back. There is. The father in the story was watching the horizon and ran the moment he saw his son coming. That is how God waits for you. Come home. The welcome is far bigger than the failure.",
+      "scripture": { "text": "When he was yet a great way off, his father saw him, and had compassion, and ran.", "reference": "Luke 15:20" }
+    },
+    "woman-caught-in-adultery": {
+      "name": "The Woman Caught in Adultery (No Condemnation)",
+      "emoji": "🕊️",
+      "traits": ["Exposed", "Spared", "Free"],
+      "description": "Your worst moment felt like it was put on display, with everyone ready to define you by it. But when the accusers dropped their stones, Jesus did not. He refused to condemn you and sent you out free. The shame you have been dragging around is not yours to carry anymore. Walk forward clean. He has already let you go.",
+      "scripture": { "text": "Neither do I condemn thee: go, and sin no more.", "reference": "John 8:11" }
+    },
+    "david": {
+      "name": "David (After the Fall)",
+      "emoji": "👑",
+      "traits": ["Fallen", "Honest", "Restored"],
+      "description": "You fell hard, and there were real consequences you had to face. David knew that weight too. But instead of hiding, he ran straight to God with raw honesty and asked for a clean heart. God did not throw him away. He called him a man after His own heart even after the failure. The same mercy is yours.",
+      "scripture": { "text": "Create in me a clean heart, O God; and renew a right spirit within me.", "reference": "Psalm 51:10" }
+    }
+  }
+}

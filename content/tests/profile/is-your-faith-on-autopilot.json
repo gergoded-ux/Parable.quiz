@@ -1,0 +1,126 @@
+{
+  "slug": "is-your-faith-on-autopilot",
+  "title": "Is Your Faith on Autopilot?",
+  "subtitle": "You show up, you say the words, you do the things. But is anyone home? An honest gut-check, with grace.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "running-on-fumes",
+    "performance-mode",
+    "comfortable-coasting",
+    "numb-but-showing-up",
+    "genuinely-resting"
+  ],
+  "questions": [
+    {
+      "text": "Which best describes your faith lately?",
+      "options": [
+        { "text": "I'm pouring out for everyone and I've got nothing left.", "weights": { "running-on-fumes": 3 } },
+        { "text": "I look spiritual on the outside and feel hollow inside.", "weights": { "performance-mode": 3 } },
+        { "text": "It's fine. Comfortable. Maybe too comfortable.", "weights": { "comfortable-coasting": 3 } },
+        { "text": "I feel nothing, but I keep showing up anyway.", "weights": { "numb-but-showing-up": 3 } }
+      ]
+    },
+    {
+      "text": "When you walk into church, what's happening inside?",
+      "options": [
+        { "text": "I'm exhausted before it even starts. I gave at the office.", "weights": { "running-on-fumes": 3 } },
+        { "text": "I'm performing the part I think people expect.", "weights": { "performance-mode": 3 } },
+        { "text": "I'm on cruise control. Same seat, same routine, no spark.", "weights": { "comfortable-coasting": 3 } },
+        { "text": "I'm present in body, miles away in spirit.", "weights": { "numb-but-showing-up": 3 } }
+      ]
+    },
+    {
+      "text": "How's your prayer life right now, honestly?",
+      "options": [
+        { "text": "Reduced to desperate, tired one-liners between tasks.", "weights": { "running-on-fumes": 3 } },
+        { "text": "Polished when others can hear, empty when alone.", "weights": { "performance-mode": 3 } },
+        { "text": "Predictable and a little stale, but I'm not worried.", "weights": { "comfortable-coasting": 3 } },
+        { "text": "I go through the motions and feel nothing back.", "weights": { "numb-but-showing-up": 3 } }
+      ]
+    },
+    {
+      "text": "What's the real reason you keep doing the Christian things?",
+      "options": [
+        { "text": "Because everyone's depending on me and I can't stop.", "weights": { "running-on-fumes": 3 } },
+        { "text": "Because it's my role, and people would notice if I quit.", "weights": { "performance-mode": 3 } },
+        { "text": "Honestly? Habit. It's just what I've always done.", "weights": { "comfortable-coasting": 3 } },
+        { "text": "Because I'm hoping the feeling will eventually come back.", "weights": { "numb-but-showing-up": 2, "genuinely-resting": 1 } }
+      ]
+    },
+    {
+      "text": "When you read the Bible these days, it feels like...",
+      "options": [
+        { "text": "One more task on a list I'm too tired to finish.", "weights": { "running-on-fumes": 3 } },
+        { "text": "Material for looking spiritual, not food for my soul.", "weights": { "performance-mode": 3 } },
+        { "text": "Familiar wallpaper. I skim and forget it by lunch.", "weights": { "comfortable-coasting": 3 } },
+        { "text": "Words on a page that don't land anywhere right now.", "weights": { "numb-but-showing-up": 3 } }
+      ]
+    },
+    {
+      "text": "If you skipped all of it for a month, what would you feel?",
+      "options": [
+        { "text": "Relief, then guilt, because I'm so worn out.", "weights": { "running-on-fumes": 3 } },
+        { "text": "Anxious about what people would think of me.", "weights": { "performance-mode": 3 } },
+        { "text": "Probably not much. That's what worries me a little.", "weights": { "comfortable-coasting": 3 } },
+        { "text": "The same numbness I already feel, just quieter.", "weights": { "numb-but-showing-up": 2 } }
+      ]
+    },
+    {
+      "text": "Which line cuts closest to the bone?",
+      "options": [
+        { "text": "\"I'm running on fumes and faking that I'm okay.\"", "weights": { "running-on-fumes": 3 } },
+        { "text": "\"I've turned my faith into a performance.\"", "weights": { "performance-mode": 3 } },
+        { "text": "\"I've been coasting and calling it stability.\"", "weights": { "comfortable-coasting": 3 } },
+        { "text": "\"I feel nothing, but I haven't walked away.\"", "weights": { "numb-but-showing-up": 3 } }
+      ]
+    },
+    {
+      "text": "When was the last time God felt real and close to you?",
+      "options": [
+        { "text": "Before life buried me. I miss it but can't find the time.", "weights": { "running-on-fumes": 3 } },
+        { "text": "I'm not sure I let it get that real anymore.", "weights": { "performance-mode": 2, "numb-but-showing-up": 1 } },
+        { "text": "A while ago. I've just been comfortable since.", "weights": { "comfortable-coasting": 3 } },
+        { "text": "Actually, more often than I admit. I'm in a quiet season.", "weights": { "genuinely-resting": 3 } }
+      ]
+    },
+    {
+      "text": "What do you most need to hear right now?",
+      "options": [
+        { "text": "You're allowed to stop and let Me carry the weight.", "weights": { "running-on-fumes": 3 } },
+        { "text": "You can drop the act. I already know the real you.", "weights": { "performance-mode": 3 } },
+        { "text": "There's so much more for you than this comfortable rut.", "weights": { "comfortable-coasting": 3 } },
+        { "text": "Keep showing up. The feeling will follow the faithfulness.", "weights": { "numb-but-showing-up": 2, "genuinely-resting": 1 } }
+      ]
+    }
+  ],
+  "results": {
+    "running-on-fumes": {
+      "name": "Running on Fumes",
+      "description": "Your faith isn't fake, it's just flat-out exhausted. You've been pouring out for everyone else until there's nothing left for your own soul, and now even time with God feels like one more thing you owe. This isn't a discipline problem. It's a depletion problem. Jesus isn't asking for more from you right now. He's offering you rest. Let Him refill the well before you try to keep drawing from it.",
+      "scripture": { "text": "Take my yoke upon you, and learn of me... and ye shall find rest unto your souls.", "reference": "Matthew 11:29" }
+    },
+    "performance-mode": {
+      "name": "Performance Mode",
+      "description": "Somewhere along the way your faith became a role you play, polished on the outside and empty underneath. The exhausting part is that you're performing for an audience that was never the point. God isn't impressed by the act, and He isn't fooled by it either. He wants the real you, doubts and all. You can put the mask down. The relationship He's after starts the moment you stop pretending.",
+      "scripture": { "text": "This people draweth nigh unto me with their mouth... but their heart is far from me.", "reference": "Matthew 15:8" }
+    },
+    "comfortable-coasting": {
+      "name": "Comfortable Coasting",
+      "description": "Nothing's wrong, exactly, and that's kind of the issue. Your faith has settled into a comfortable groove where everything is familiar and nothing is alive. Coasting feels like stability, but it's actually drift, and you can sense it. The good news is the spark isn't gone, it's just buried under routine. God has so much more for you than this holding pattern. It might be time to ask Him to wake you back up.",
+      "scripture": { "text": "Nevertheless I have somewhat against thee, because thou hast left thy first love.", "reference": "Revelation 2:4" }
+    },
+    "numb-but-showing-up": {
+      "name": "Numb but Showing Up",
+      "description": "You feel nothing, and yet here you still are, keeping the lights on when the warmth has gone out. Don't underestimate that. Faith that keeps showing up in the numbness is not lesser faith. It might be the most stubborn, real kind there is. Feelings come and go, but you're choosing Him without the payoff, and He sees it. Keep walking. The dryness is a season, not a verdict, and He hasn't moved.",
+      "scripture": { "text": "Though he slay me, yet will I trust in him.", "reference": "Job 13:15" }
+    },
+    "genuinely-resting": {
+      "name": "Genuinely Resting (It's Okay)",
+      "description": "Not every quiet season is autopilot, and yours might just be rest. The fireworks have settled, but God still feels near, and you're learning to trust Him in the calm instead of needing constant intensity. That's maturity, not decline. You don't have to manufacture a high to prove your faith is real. Sometimes the deepest trust looks like simply abiding, steady and unhurried, right where He has you.",
+      "scripture": { "text": "Abide in me, and I in you. As the branch cannot bear fruit of itself, except it abide in the vine.", "reference": "John 15:4" }
+    }
+  }
+}

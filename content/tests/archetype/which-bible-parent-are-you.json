@@ -1,0 +1,127 @@
+{
+  "slug": "which-bible-parent-are-you",
+  "title": "Which Bible Parent Are You?",
+  "subtitle": "Every parent in Scripture got something right and something hard. Find yours.",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 4,
+  "mode": "archetype",
+  "questions": [
+    {
+      "text": "What's the prayer you pray most over your kids?",
+      "options": [
+        { "text": "That I'd give them fully back to God, no matter what.", "weights": { "hannah": 3 } },
+        { "text": "That He'd protect them when I can't.", "weights": { "jochebed": 3 } },
+        { "text": "That my own mistakes wouldn't cost them too much.", "weights": { "david": 2, "eli": 1 } },
+        { "text": "That the faith I pass down would actually take root.", "weights": { "eunice-and-lois": 3 } }
+      ]
+    },
+    {
+      "text": "How do you handle it when your child does something wrong?",
+      "options": [
+        { "text": "I correct, but my heart breaks for them in it.", "weights": { "david": 3 } },
+        { "text": "I tend to let it slide more than I probably should.", "weights": { "eli": 3 } },
+        { "text": "I sit them down and walk them through what's right.", "weights": { "eunice-and-lois": 3 } },
+        { "text": "I hand it to God and trust Him with the outcome.", "weights": { "hannah": 2, "jochebed": 1 } }
+      ]
+    },
+    {
+      "text": "What's your biggest fear as a parent?",
+      "options": [
+        { "text": "Holding on so tight that I don't let them become who God made them.", "weights": { "hannah": 3 } },
+        { "text": "Not being able to keep them safe from the dangers out there.", "weights": { "jochebed": 3 } },
+        { "text": "That my failures will leave a mark on them.", "weights": { "david": 3 } },
+        { "text": "Being too soft and watching them go off the rails.", "weights": { "eli": 3 } }
+      ]
+    },
+    {
+      "text": "Which moment sounds the most like you?",
+      "options": [
+        { "text": "Dedicating my child to God and meaning every word.", "weights": { "hannah": 3 } },
+        { "text": "Doing something risky and faith-filled to protect them.", "weights": { "jochebed": 3 } },
+        { "text": "Weeping over a grown child who broke my heart.", "weights": { "david": 3 } },
+        { "text": "Teaching the Scriptures at the kitchen table.", "weights": { "eunice-and-lois": 3 } }
+      ]
+    },
+    {
+      "text": "What do you most want your kids to remember about you?",
+      "options": [
+        { "text": "That I trusted God with them more than I clung to them.", "weights": { "hannah": 3 } },
+        { "text": "That I'd do anything to keep them safe.", "weights": { "jochebed": 3 } },
+        { "text": "That I loved them fiercely, even through my own flaws.", "weights": { "david": 3 } },
+        { "text": "That I treasured every moment with them.", "weights": { "mary": 3 } }
+      ]
+    },
+    {
+      "text": "When your child is going through something big, what do you do?",
+      "options": [
+        { "text": "Watch quietly and keep it all in my heart.", "weights": { "mary": 3 } },
+        { "text": "Pray hard and release them to God's hands again.", "weights": { "hannah": 2, "jochebed": 1 } },
+        { "text": "Step in to teach and guide them through it.", "weights": { "eunice-and-lois": 3 } },
+        { "text": "Probably overprotect, if I'm honest.", "weights": { "jochebed": 2, "david": 1 } }
+      ]
+    },
+    {
+      "text": "Where do you tend to struggle most?",
+      "options": [
+        { "text": "Letting go when it's time for them to step into their calling.", "weights": { "hannah": 3 } },
+        { "text": "Trusting God instead of trying to control every outcome.", "weights": { "jochebed": 3 } },
+        { "text": "Being consistent. I avoid the hard conversations.", "weights": { "eli": 3 } },
+        { "text": "Carrying everything silently instead of sharing the weight.", "weights": { "mary": 3 } }
+      ]
+    },
+    {
+      "text": "What's your quiet hope for their future?",
+      "options": [
+        { "text": "That they'll live wholly surrendered to God.", "weights": { "hannah": 3 } },
+        { "text": "That God will use them for something far bigger than I can see.", "weights": { "jochebed": 2, "mary": 1 } },
+        { "text": "That they'll know grace covers the places I fell short.", "weights": { "david": 3 } },
+        { "text": "That the faith I handed them will outlive me in them.", "weights": { "eunice-and-lois": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "hannah": {
+      "name": "Hannah",
+      "emoji": "🙏",
+      "traits": ["Surrendered", "Prayerful", "Trusting"],
+      "description": "You hold your children with open hands. Like Hannah, who prayed her son into being and then gave him right back to God, you'd rather see them fully His than fully yours. That kind of release takes enormous faith. Keep praying them forward, and trust that the God you handed them to loves them even more than you do.",
+      "scripture": { "text": "For this child I prayed; and the Lord hath given me my petition.", "reference": "1 Samuel 1:27" }
+    },
+    "jochebed": {
+      "name": "Jochebed",
+      "emoji": "🧺",
+      "traits": ["Protective", "Brave", "Faithful"],
+      "description": "You'd do anything to keep your kids safe, and you've got the faith to take real risks for them. Jochebed hid her baby, then trusted God enough to place him in a basket on the river. Your fierce protection is a gift. The growth edge is learning, like she did, to open your hands and trust God with the part you can't control.",
+      "scripture": { "text": "By faith Moses, when he was born, was hid three months of his parents.", "reference": "Hebrews 11:23" }
+    },
+    "david": {
+      "name": "David",
+      "emoji": "💔",
+      "traits": ["Loving", "Tender", "Imperfect"],
+      "description": "You love your children with your whole heart, and you also know what it's like to carry regret as a parent. David wept openly over his kids and his own failures. Here's your comfort: your mistakes don't get the final say. Grace covers the gaps, and a parent who keeps loving and keeps turning back to God is exactly the parent your kids need.",
+      "scripture": { "text": "Like as a father pitieth his children, so the Lord pitieth them that fear him.", "reference": "Psalm 103:13" }
+    },
+    "eli": {
+      "name": "Eli",
+      "emoji": "🕊️",
+      "traits": ["Gentle", "Devoted", "Learning"],
+      "description": "Your heart is tender and you love peace in your home, which means the hard conversations are the ones you avoid. Eli was a good and godly man whose great struggle was following through on correction. Take it not as condemnation but as a nudge. Loving your kids well sometimes means the loving no, the firm boundary, the truth said kindly but said.",
+      "scripture": { "text": "Train up a child in the way he should go: and when he is old, he will not depart from it.", "reference": "Proverbs 22:6" }
+    },
+    "mary": {
+      "name": "Mary",
+      "emoji": "🌟",
+      "traits": ["Thoughtful", "Devoted", "Present"],
+      "description": "You feel everything deeply and you hold it close. Like Mary, you treasure the small moments and ponder them quietly in your heart, watching your child grow into who God made them. That tender attentiveness is beautiful. Just remember you don't have to carry it all in silence. Some of the weight is meant to be shared, with people and with God.",
+      "scripture": { "text": "But Mary kept all these things, and pondered them in her heart.", "reference": "Luke 2:19" }
+    },
+    "eunice-and-lois": {
+      "name": "Eunice and Lois",
+      "emoji": "📖",
+      "traits": ["Faithful", "Teaching", "Steady"],
+      "description": "You pass faith down on purpose. Like Timothy's mother and grandmother, you weave Scripture and sincere belief into everyday life, and it's shaping a faith in your kids that can stand on its own. That quiet, consistent discipleship is one of the most powerful things a parent can do. Keep planting. What you're sowing will outlive you in them.",
+      "scripture": { "text": "The unfeigned faith that is in thee, which dwelt first in thy grandmother Lois, and thy mother Eunice.", "reference": "2 Timothy 1:5" }
+    }
+  }
+}

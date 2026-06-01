@@ -1,0 +1,120 @@
+{
+  "slug": "what-is-god-preparing-you-for",
+  "title": "What Is God Preparing You For?",
+  "subtitle": "This in-between season is not punishment. It might be preparation.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": ["leadership-assignment", "season-of-rest", "hidden-influence", "hard-but-holy-calling", "cant-see-yet"],
+  "questions": [
+    {
+      "text": "What is the main thing this waiting season keeps surfacing in you?",
+      "options": [
+        { "text": "A pull to take responsibility, even when no one handed it to me.", "weights": { "leadership-assignment": 2 } },
+        { "text": "A bone-deep need to slow down and actually breathe.", "weights": { "season-of-rest": 2 } },
+        { "text": "A quiet care for the people right around me, behind the scenes.", "weights": { "hidden-influence": 2 } },
+        { "text": "A sense that something costly is coming, and I am being readied.", "weights": { "hard-but-holy-calling": 2 } }
+      ]
+    },
+    {
+      "text": "When you picture the next chapter, what do you feel?",
+      "options": [
+        { "text": "Responsibility I will need to carry well.", "weights": { "leadership-assignment": 2 } },
+        { "text": "Relief, like permission to finally exhale.", "weights": { "season-of-rest": 2 } },
+        { "text": "Honestly, a blank. I cannot picture it at all.", "weights": { "cant-see-yet": 2 } },
+        { "text": "A mix of dread and purpose I cannot quite explain.", "weights": { "hard-but-holy-calling": 2 } }
+      ]
+    },
+    {
+      "text": "What keeps growing in you lately, almost without your effort?",
+      "options": [
+        { "text": "Vision. I keep seeing how things could be done better.", "weights": { "leadership-assignment": 2 } },
+        { "text": "A craving for stillness and less noise.", "weights": { "season-of-rest": 2 } },
+        { "text": "Patience with people most folks overlook.", "weights": { "hidden-influence": 2 } },
+        { "text": "Endurance. I keep getting stronger by getting stretched.", "weights": { "hard-but-holy-calling": 2 } }
+      ]
+    },
+    {
+      "text": "What does your gut say God is up to in the silence?",
+      "options": [
+        { "text": "Training me to lead before He trusts me with more.", "weights": { "leadership-assignment": 2 } },
+        { "text": "Forcing me to rest because I would never choose it myself.", "weights": { "season-of-rest": 2 } },
+        { "text": "Planting me somewhere quiet to bless people up close.", "weights": { "hidden-influence": 2 } },
+        { "text": "Honestly, I have no idea. I am just trying to trust Him.", "weights": { "cant-see-yet": 2 } }
+      ]
+    },
+    {
+      "text": "Which Bible story do you keep coming back to right now?",
+      "options": [
+        { "text": "David, anointed young, waiting years before the throne.", "weights": { "leadership-assignment": 2 } },
+        { "text": "Jesus pulling away to lonely places to be with the Father.", "weights": { "season-of-rest": 2 } },
+        { "text": "Esther, placed quietly in a palace for such a time as this.", "weights": { "hidden-influence": 2, "leadership-assignment": 1 } },
+        { "text": "Moses in the desert for forty years before the burning bush.", "weights": { "hard-but-holy-calling": 2 } }
+      ]
+    },
+    {
+      "text": "What is the hardest part of this season for you?",
+      "options": [
+        { "text": "Watching needs go unmet while I wait for my moment.", "weights": { "leadership-assignment": 2 } },
+        { "text": "Letting go of my worth being tied to how much I produce.", "weights": { "season-of-rest": 2 } },
+        { "text": "Feeling unseen while I quietly pour into others.", "weights": { "hidden-influence": 2 } },
+        { "text": "Sensing a cost ahead and not feeling ready for it.", "weights": { "hard-but-holy-calling": 2, "cant-see-yet": 1 } }
+      ]
+    },
+    {
+      "text": "If a wise friend watched your life this year, they would say...",
+      "options": [
+        { "text": "You are being shaped to carry something bigger.", "weights": { "leadership-assignment": 2 } },
+        { "text": "You finally need to stop and let yourself recover.", "weights": { "season-of-rest": 2 } },
+        { "text": "Your quiet faithfulness is changing people you barely notice.", "weights": { "hidden-influence": 2 } },
+        { "text": "Even you cannot see where this is going yet, and that is okay.", "weights": { "cant-see-yet": 2 } }
+      ]
+    },
+    {
+      "text": "What prayer keeps coming out of you these days?",
+      "options": [
+        { "text": "Make me ready for what you are calling me to.", "weights": { "leadership-assignment": 2 } },
+        { "text": "Teach me how to rest in you and stop striving.", "weights": { "season-of-rest": 2 } },
+        { "text": "Help me bless the people right in front of me well.", "weights": { "hidden-influence": 2 } },
+        { "text": "Give me strength for the hard thing I sense is coming.", "weights": { "hard-but-holy-calling": 2 } }
+      ]
+    },
+    {
+      "text": "When you think about the long game, what do you trust?",
+      "options": [
+        { "text": "That God grows leaders slowly, on purpose.", "weights": { "leadership-assignment": 2 } },
+        { "text": "That rest is not wasted time with Him.", "weights": { "season-of-rest": 2 } },
+        { "text": "That small, hidden faithfulness matters to God.", "weights": { "hidden-influence": 2 } },
+        { "text": "That He sees a picture I simply cannot make out yet.", "weights": { "cant-see-yet": 2 } }
+      ]
+    }
+  ],
+  "results": {
+    "leadership-assignment": {
+      "name": "A Leadership Assignment",
+      "description": "God seems to be building something in you that He plans to entrust with weight. The waiting is not idle. It is the part where character catches up to calling. Stay faithful in the small things now, because He is making you ready to be trusted with more.",
+      "scripture": { "text": "Thou hast been faithful over a few things, I will make thee ruler over many things.", "reference": "Matthew 25:21" }
+    },
+    "season-of-rest": {
+      "name": "A Season of Rest",
+      "description": "You are wired to keep going, and that is exactly why God may be slowing you down. This is not laziness and it is not falling behind. It is recovery He is handing you on purpose. Let yourself receive it. Rest with Him is preparation too.",
+      "scripture": { "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.", "reference": "Matthew 11:28" }
+    },
+    "hidden-influence": {
+      "name": "A Hidden Influence",
+      "description": "Not every calling comes with a stage, and yours may be quieter than the world rewards. You are being placed near people who need exactly what you carry. The impact is real even when no one claps. Keep showing up faithfully where He has put you.",
+      "scripture": { "text": "Who knoweth whether thou art come to the kingdom for such a time as this?", "reference": "Esther 4:14" }
+    },
+    "hard-but-holy-calling": {
+      "name": "A Hard but Holy Calling",
+      "description": "There is a cost on the horizon, and somewhere inside you already know it. God is not preparing you for ease. He is strengthening you for something that will ask a lot and matter deeply. You will not face it alone, and the One who calls you will carry you through it.",
+      "scripture": { "text": "I can do all things through Christ which strengtheneth me.", "reference": "Philippians 4:13" }
+    },
+    "cant-see-yet": {
+      "name": "Something You Can't See Yet",
+      "description": "The picture is still hidden from you, and that is one of the hardest places to wait. You do not need to force clarity that has not come. God is working in the part you cannot watch. Trust the process even when the outcome stays out of view, and keep taking the next small step.",
+      "scripture": { "text": "We walk by faith, not by sight.", "reference": "2 Corinthians 5:7" }
+    }
+  }
+}

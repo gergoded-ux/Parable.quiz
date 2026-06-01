@@ -1,0 +1,126 @@
+{
+  "slug": "why-cant-you-hear-gods-voice",
+  "title": "Why Can't You Hear God's Voice?",
+  "subtitle": "You keep asking God to speak and hearing nothing. Maybe He is speaking, just not the way you're listening for.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "missing-the-whisper",
+    "too-much-noise",
+    "not-in-the-word",
+    "wanting-new-not-confirming",
+    "season-of-silence"
+  ],
+  "questions": [
+    {
+      "text": "When you ask God to speak, what are you actually expecting?",
+      "options": [
+        { "text": "Something dramatic, an audible voice or a clear sign.", "weights": { "missing-the-whisper": 3 } },
+        { "text": "Honestly, I'm too distracted to expect much of anything.", "weights": { "too-much-noise": 3 } },
+        { "text": "A word from Him, but I rarely open the Bible to find it.", "weights": { "not-in-the-word": 3 } },
+        { "text": "A fresh answer, even though I'm ignoring the last one He gave.", "weights": { "wanting-new-not-confirming": 3 } }
+      ]
+    },
+    {
+      "text": "Describe the soundtrack of your average day.",
+      "options": [
+        { "text": "Quiet enough, but I'm waiting for a big booming voice.", "weights": { "missing-the-whisper": 3 } },
+        { "text": "Nonstop. Podcasts, scrolling, noise from the second I wake.", "weights": { "too-much-noise": 3 } },
+        { "text": "Busy, and Scripture rarely makes it into the mix.", "weights": { "not-in-the-word": 3 } },
+        { "text": "Full of me asking the same question over and over.", "weights": { "wanting-new-not-confirming": 2 } }
+      ]
+    },
+    {
+      "text": "How much silence do you actually build into your life?",
+      "options": [
+        { "text": "Some, but I dismiss the gentle nudges as just my thoughts.", "weights": { "missing-the-whisper": 3 } },
+        { "text": "Almost none. I fill every gap with sound.", "weights": { "too-much-noise": 3 } },
+        { "text": "A little, but I don't pair it with reading His Word.", "weights": { "not-in-the-word": 2 } },
+        { "text": "Plenty lately, and it's been quiet no matter what I do.", "weights": { "season-of-silence": 3 } }
+      ]
+    },
+    {
+      "text": "When you do sense a nudge from God, what's your reaction?",
+      "options": [
+        { "text": "I second-guess it because it wasn't loud or obvious enough.", "weights": { "missing-the-whisper": 3 } },
+        { "text": "I miss it. My mind's already on the next thing.", "weights": { "too-much-noise": 3 } },
+        { "text": "I'm not sure how to test it against Scripture.", "weights": { "not-in-the-word": 3 } },
+        { "text": "If it confirms what He already said, I want something newer.", "weights": { "wanting-new-not-confirming": 3 } }
+      ]
+    },
+    {
+      "text": "What's your relationship with the Bible right now?",
+      "options": [
+        { "text": "I read it, but I'm waiting for a sign apart from it.", "weights": { "missing-the-whisper": 2 } },
+        { "text": "I rarely get to it. There's always something louder.", "weights": { "too-much-noise": 2, "not-in-the-word": 1 } },
+        { "text": "Thin. I want to hear God but I'm not in His Word much.", "weights": { "not-in-the-word": 3 } },
+        { "text": "I read it but skip past the parts that already answered me.", "weights": { "wanting-new-not-confirming": 2 } }
+      ]
+    },
+    {
+      "text": "Has God already spoken to something you're still asking about?",
+      "options": [
+        { "text": "Maybe in a quiet way I keep brushing off as nothing.", "weights": { "missing-the-whisper": 3 } },
+        { "text": "I honestly can't hear past all my own noise to know.", "weights": { "too-much-noise": 2 } },
+        { "text": "Probably in Scripture, but I haven't gone looking there.", "weights": { "not-in-the-word": 3 } },
+        { "text": "Yes, clearly, and I keep asking hoping for a different answer.", "weights": { "wanting-new-not-confirming": 3 } }
+      ]
+    },
+    {
+      "text": "Which statement feels most uncomfortably accurate?",
+      "options": [
+        { "text": "\"I keep waiting for thunder and missing the whisper.\"", "weights": { "missing-the-whisper": 3 } },
+        { "text": "\"I've crowded Him out with constant noise.\"", "weights": { "too-much-noise": 3 } },
+        { "text": "\"I want to hear God but I'm barely in His Word.\"", "weights": { "not-in-the-word": 3 } },
+        { "text": "\"He confirmed it, but I want a new answer.\"", "weights": { "wanting-new-not-confirming": 3 } }
+      ]
+    },
+    {
+      "text": "How long has the silence lasted, and how have you been living?",
+      "options": [
+        { "text": "A while, and I suspect I'm tuning out the small stuff.", "weights": { "missing-the-whisper": 2 } },
+        { "text": "Since life got loud and I stopped making quiet space.", "weights": { "too-much-noise": 3 } },
+        { "text": "Since I drifted from regular time in the Bible.", "weights": { "not-in-the-word": 3 } },
+        { "text": "I've been faithful and present, and it's still quiet.", "weights": { "season-of-silence": 3 } }
+      ]
+    },
+    {
+      "text": "What do you sense is the real next step for you?",
+      "options": [
+        { "text": "Stop waiting for the spectacular and tune in to the gentle.", "weights": { "missing-the-whisper": 3 } },
+        { "text": "Turn the volume down and make room for Him.", "weights": { "too-much-noise": 3 } },
+        { "text": "Get back in the Word, where He most reliably speaks.", "weights": { "not-in-the-word": 3 } },
+        { "text": "Keep trusting through the quiet without forcing an answer.", "weights": { "season-of-silence": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "missing-the-whisper": {
+      "name": "Expecting Audible, Missing the Whisper",
+      "description": "You've been straining for thunder, a sign so big it can't be missed, and meanwhile God keeps speaking in a whisper you've been writing off as 'just your thoughts.' When Elijah waited for God, He wasn't in the wind or the earthquake or the fire. He came in a still, small voice. Start trusting those quiet nudges and gentle impressions. The God you're listening for usually speaks softly, and He's been speaking to you all along.",
+      "scripture": { "text": "And after the fire a still small voice.", "reference": "1 Kings 19:12" }
+    },
+    "too-much-noise": {
+      "name": "Too Much Noise",
+      "description": "It's not that God went quiet. It's that your life got loud. Between the scrolling, the podcasts, and the constant background hum, there's almost no silence left for His voice to land in. The fix is simpler than you fear, though it's not easy: build in some real quiet. Turn off the input, sit still, and give Him room. You can't hear a whisper in a crowded room, and your soul has been starving for the kind of stillness where He speaks.",
+      "scripture": { "text": "Be still, and know that I am God.", "reference": "Psalm 46:10" }
+    },
+    "not-in-the-word": {
+      "name": "Not in the Word Enough",
+      "description": "You're aching to hear God, but you've been looking everywhere except the place He speaks most clearly and reliably: the Bible. Feelings and signs come and go, but His Word is steady, and it's where His voice is surest. You don't have to chase some mystical experience. Open the Scriptures and let Him talk to you there. The more you fill up on His Word, the more you'll recognize His voice everywhere else.",
+      "scripture": { "text": "Thy word is a lamp unto my feet, and a light unto my path.", "reference": "Psalm 119:105" }
+    },
+    "wanting-new-not-confirming": {
+      "name": "He's Confirming, You Want New",
+      "description": "Here's a gentle truth: God may not be silent at all. He's just confirming something He already told you, and you're asking again because you were hoping for a different answer. That's not a hearing problem, it's an obedience one, and that's actually good news, because it means you already know. You don't need a new word. You need to trust and act on the one He gave. Step toward what He's already made clear, and watch Him meet you there.",
+      "scripture": { "text": "But be ye doers of the word, and not hearers only, deceiving your own selves.", "reference": "James 1:22" }
+    },
+    "season-of-silence": {
+      "name": "A Season of Silence on Purpose",
+      "description": "You've been faithful, you've made space, you're in the Word, and it's still quiet. This may be a season of silence God has chosen, not a punishment, but a deepening. Sometimes He goes quiet to grow a trust in you that doesn't depend on constant reassurance. You're not being ignored. You're being matured. Keep walking by faith, not by feeling. The silence has a purpose, and the God who feels far away has not actually moved an inch.",
+      "scripture": { "text": "For we walk by faith, not by sight.", "reference": "2 Corinthians 5:7" }
+    }
+  }
+}

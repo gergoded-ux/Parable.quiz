@@ -1,0 +1,120 @@
+{
+  "slug": "are-you-a-cycle-breaker",
+  "title": "Are You a Generational Cycle Breaker?",
+  "subtitle": "Being the first to do family differently is lonely. Let's name where you are.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "born-cycle-breaker",
+    "reluctant-cycle-breaker",
+    "healing-but-tired",
+    "still-in-the-cycle"
+  ],
+  "questions": [
+    {
+      "text": "When you think about the patterns in your family, how do you feel?",
+      "options": [
+        { "text": "Fired up. I've always known I was meant to end this.", "weights": { "born-cycle-breaker": 3 } },
+        { "text": "Reluctant. I never asked to be the one who deals with it.", "weights": { "reluctant-cycle-breaker": 3 } },
+        { "text": "Worn out. I've been fighting it so long I'm running low.", "weights": { "healing-but-tired": 3 } },
+        { "text": "Stuck. I see the pattern but I keep repeating it anyway.", "weights": { "still-in-the-cycle": 3 } }
+      ]
+    },
+    {
+      "text": "How far along are you in changing things?",
+      "options": [
+        { "text": "I've made real changes and I'm not looking back.", "weights": { "born-cycle-breaker": 3 } },
+        { "text": "I've started, even though part of me wanted to look away.", "weights": { "reluctant-cycle-breaker": 3 } },
+        { "text": "I've done a ton of work, but the progress is costing me.", "weights": { "healing-but-tired": 3 } },
+        { "text": "Mostly thinking about it. The actual changing hasn't happened.", "weights": { "still-in-the-cycle": 3 } }
+      ]
+    },
+    {
+      "text": "What's the hardest part of doing family differently?",
+      "options": [
+        { "text": "Holding the line when relatives push back hard.", "weights": { "born-cycle-breaker": 2, "reluctant-cycle-breaker": 1 } },
+        { "text": "Wishing someone else would have carried this, not me.", "weights": { "reluctant-cycle-breaker": 3 } },
+        { "text": "The sheer exhaustion of healing what I didn't break.", "weights": { "healing-but-tired": 3 } },
+        { "text": "Catching myself becoming exactly what I swore I wouldn't.", "weights": { "still-in-the-cycle": 3 } }
+      ]
+    },
+    {
+      "text": "When old patterns flare up in you, what happens?",
+      "options": [
+        { "text": "I catch it fast and choose differently on purpose.", "weights": { "born-cycle-breaker": 3 } },
+        { "text": "I notice, sigh, and do the harder right thing anyway.", "weights": { "reluctant-cycle-breaker": 2, "healing-but-tired": 1 } },
+        { "text": "I push through, but it drains something out of me.", "weights": { "healing-but-tired": 3 } },
+        { "text": "I usually don't catch it until the damage is done.", "weights": { "still-in-the-cycle": 3 } }
+      ]
+    },
+    {
+      "text": "Who's walking with you in this?",
+      "options": [
+        { "text": "I've built a circle of people who get it and cheer me on.", "weights": { "born-cycle-breaker": 3 } },
+        { "text": "A few people, though I still feel like I'm doing it solo.", "weights": { "reluctant-cycle-breaker": 2, "healing-but-tired": 1 } },
+        { "text": "Some support, but I'm carrying more than they realize.", "weights": { "healing-but-tired": 3 } },
+        { "text": "Honestly, no one. I haven't really started reaching out.", "weights": { "still-in-the-cycle": 3 } }
+      ]
+    },
+    {
+      "text": "What drives you to keep going?",
+      "options": [
+        { "text": "The kids and family that come after me deserve better.", "weights": { "born-cycle-breaker": 3 } },
+        { "text": "Stubbornness, mostly. Someone has to, so it's me.", "weights": { "reluctant-cycle-breaker": 3 } },
+        { "text": "The progress I've already made. I can't waste it now.", "weights": { "healing-but-tired": 3 } },
+        { "text": "A hope that I could change, even if I haven't yet.", "weights": { "still-in-the-cycle": 3 } }
+      ]
+    },
+    {
+      "text": "What do you most need to hear right now?",
+      "options": [
+        { "text": "You're doing it. Keep going, you're not crazy.", "weights": { "born-cycle-breaker": 3 } },
+        { "text": "It's okay that this feels unfair. You still showed up.", "weights": { "reluctant-cycle-breaker": 3 } },
+        { "text": "Rest is allowed. You don't have to heal it all today.", "weights": { "healing-but-tired": 3 } },
+        { "text": "It's not too late. One small step counts as a start.", "weights": { "still-in-the-cycle": 3 } }
+      ]
+    },
+    {
+      "text": "When you picture your family ten years from now, what do you see?",
+      "options": [
+        { "text": "A new normal that started with the choices I'm making.", "weights": { "born-cycle-breaker": 3 } },
+        { "text": "Something healthier, even if I dragged my feet to build it.", "weights": { "reluctant-cycle-breaker": 3 } },
+        { "text": "Freedom, if I can recover enough to finish the work.", "weights": { "healing-but-tired": 3 } },
+        { "text": "I want it to be different, but I can't see how yet.", "weights": { "still-in-the-cycle": 3 } }
+      ]
+    },
+    {
+      "text": "Finish the sentence: when it comes to my family's patterns, I am...",
+      "options": [
+        { "text": "The one who's ending this for good.", "weights": { "born-cycle-breaker": 3 } },
+        { "text": "The reluctant one who's doing it anyway.", "weights": { "reluctant-cycle-breaker": 3 } },
+        { "text": "Healing, but honestly running on fumes.", "weights": { "healing-but-tired": 3 } },
+        { "text": "Still tangled in it and ready for that to change.", "weights": { "still-in-the-cycle": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "born-cycle-breaker": {
+      "name": "Born Cycle Breaker",
+      "description": "You've known for a long time that the buck stops with you, and you've already made the hard, lonely choices to prove it. That conviction is a gift, and the people coming after you will live in the freedom you fought for. Just don't let the strength turn into isolation. Even the bravest cycle breaker needs people and needs God carrying part of the weight. You're building something that will outlast you.",
+      "scripture": { "text": "Old things are passed away; behold, all things are become new.", "reference": "2 Corinthians 5:17" }
+    },
+    "reluctant-cycle-breaker": {
+      "name": "Reluctant Cycle Breaker",
+      "description": "You never volunteered for this. Somebody had to be the one to break the pattern, and it landed on you, and some days you resent that it wasn't someone else. That honesty is okay. What matters is that you keep showing up anyway, doing the right hard thing even when it feels unfair. God has a long history of using reluctant people for the most important work. You're more equipped than you feel.",
+      "scripture": { "text": "My grace is sufficient for thee: for my strength is made perfect in weakness.", "reference": "2 Corinthians 12:9" }
+    },
+    "healing-but-tired": {
+      "name": "Healing-but-Tired",
+      "description": "You've done so much work, and it shows, but healing what you didn't break is exhausting and you're running low. Please hear this: you don't have to fix every generation by Friday. Rest isn't quitting. It's part of how the work gets finished. Let God restore the part of you that's been pouring out for everyone else. You're allowed to be both healing and weary at the same time.",
+      "scripture": { "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.", "reference": "Matthew 11:28" }
+    },
+    "still-in-the-cycle": {
+      "name": "Still-in-the-Cycle",
+      "description": "You can see the pattern clearly, and you keep finding yourself repeating it, and that gap between knowing and changing is painful. But seeing it is the first real step, and you're already standing on it. You don't have to overhaul everything at once. Pick one small thing, find one safe person, and ask God for the strength you don't have yet. It is genuinely not too late to be the one who turns this around.",
+      "scripture": { "text": "I can do all things through Christ which strengtheneth me.", "reference": "Philippians 4:13" }
+    }
+  }
+}

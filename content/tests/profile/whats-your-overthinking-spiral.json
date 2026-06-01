@@ -1,0 +1,141 @@
+{
+  "slug": "whats-your-overthinking-spiral",
+  "title": "What Does Your Overthinking Spiral Look Like?",
+  "subtitle": "Every overthinker has a signature loop. Find yours, and find the one verse that breaks it.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "replayer",
+    "what-if-machine",
+    "decision-freezer",
+    "comparer",
+    "mind-reader",
+    "rehearser"
+  ],
+  "questions": [
+    {
+      "text": "It's late and your brain won't shut off. What's it doing?",
+      "options": [
+        { "text": "Replaying something I said earlier, wincing at every word.", "weights": { "replayer": 3 } },
+        { "text": "Running through everything that could go wrong tomorrow.", "weights": { "what-if-machine": 3 } },
+        { "text": "Stuck on a decision I still can't make.", "weights": { "decision-freezer": 3 } },
+        { "text": "Scrolling and quietly measuring my life against everyone's.", "weights": { "comparer": 3 } }
+      ]
+    },
+    {
+      "text": "Someone takes a few hours to text you back. Your first instinct?",
+      "options": [
+        { "text": "I assume they're annoyed with me about something.", "weights": { "mind-reader": 3 } },
+        { "text": "I reread my last message looking for what I did wrong.", "weights": { "replayer": 2, "mind-reader": 1 } },
+        { "text": "I start drafting three versions of what to say next.", "weights": { "rehearser": 3 } },
+        { "text": "I spiral into what their silence might mean for us.", "weights": { "what-if-machine": 2, "mind-reader": 1 } }
+      ]
+    },
+    {
+      "text": "Before a hard conversation, what do you do?",
+      "options": [
+        { "text": "Script the whole thing out, both sides, several times.", "weights": { "rehearser": 3 } },
+        { "text": "Imagine every way it could blow up in my face.", "weights": { "what-if-machine": 3 } },
+        { "text": "Try to guess exactly what they're thinking about me.", "weights": { "mind-reader": 3 } },
+        { "text": "Put it off because I can't decide how to even start.", "weights": { "decision-freezer": 2, "rehearser": 1 } }
+      ]
+    },
+    {
+      "text": "Which phrase lives in your head rent-free?",
+      "options": [
+        { "text": "\"Why did I say that?\"", "weights": { "replayer": 3 } },
+        { "text": "\"But what if...?\"", "weights": { "what-if-machine": 3 } },
+        { "text": "\"What if I pick wrong?\"", "weights": { "decision-freezer": 3 } },
+        { "text": "\"Everyone else has it more together than me.\"", "weights": { "comparer": 3 } }
+      ]
+    },
+    {
+      "text": "A simple choice like where to eat or what to buy. How does it go?",
+      "options": [
+        { "text": "I freeze. Too many options, too much pressure.", "weights": { "decision-freezer": 3 } },
+        { "text": "I research it to death so I don't regret it later.", "weights": { "decision-freezer": 2, "what-if-machine": 1 } },
+        { "text": "I pick fast but replay it afterward, sure I chose wrong.", "weights": { "replayer": 2, "decision-freezer": 1 } },
+        { "text": "I check what other people chose first.", "weights": { "comparer": 2, "mind-reader": 1 } }
+      ]
+    },
+    {
+      "text": "When you walk away from a group hangout, what's the mental tab still open?",
+      "options": [
+        { "text": "That one awkward thing I said, on a loop.", "weights": { "replayer": 3 } },
+        { "text": "Whether everyone secretly found me annoying.", "weights": { "mind-reader": 3 } },
+        { "text": "How much cooler and more put-together everyone seemed.", "weights": { "comparer": 3 } },
+        { "text": "Nothing yet, but I'm pre-worrying about the next one.", "weights": { "what-if-machine": 2, "rehearser": 1 } }
+      ]
+    },
+    {
+      "text": "Your overthinking is mostly aimed at which direction in time?",
+      "options": [
+        { "text": "The past. I keep auditing things already done.", "weights": { "replayer": 3 } },
+        { "text": "The future. I'm always bracing for what's next.", "weights": { "what-if-machine": 3 } },
+        { "text": "Right now. I can't move because I can't decide.", "weights": { "decision-freezer": 3 } },
+        { "text": "Other people. I live in their imagined opinions of me.", "weights": { "mind-reader": 2, "comparer": 1 } }
+      ]
+    },
+    {
+      "text": "What does the spiral cost you most?",
+      "options": [
+        { "text": "Peace about my past. I can't seem to let things rest.", "weights": { "replayer": 3 } },
+        { "text": "Enjoying today, because I'm guarding against tomorrow.", "weights": { "what-if-machine": 3 } },
+        { "text": "Momentum. I get stuck and nothing moves forward.", "weights": { "decision-freezer": 3 } },
+        { "text": "Contentment. There's always someone ahead of me.", "weights": { "comparer": 3 } }
+      ]
+    },
+    {
+      "text": "If you could hand one thing to God tonight, it'd be...",
+      "options": [
+        { "text": "The replays. I want to stop re-living my mistakes.", "weights": { "replayer": 2, "comparer": 1 } },
+        { "text": "The what-ifs. I want to trust Him with tomorrow.", "weights": { "what-if-machine": 3 } },
+        { "text": "The pressure to choose perfectly every time.", "weights": { "decision-freezer": 3 } },
+        { "text": "The scripts. I'm tired of rehearsing my whole life.", "weights": { "rehearser": 3 } }
+      ]
+    },
+    {
+      "text": "Deep down, what is the overthinking really trying to do?",
+      "options": [
+        { "text": "Make sure I never embarrass myself again.", "weights": { "replayer": 2, "mind-reader": 1 } },
+        { "text": "Protect me from a future I can't control.", "weights": { "what-if-machine": 3 } },
+        { "text": "Keep me from making an irreversible mistake.", "weights": { "decision-freezer": 3 } },
+        { "text": "Prepare me so I'm never caught off guard or unprepared.", "weights": { "rehearser": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "replayer": {
+      "name": "The Replayer",
+      "description": "Your spiral lives in the rearview mirror. You replay conversations, decisions, and small embarrassments long after everyone else has forgotten them. This is rumination, and it's exhausting because the past can't be edited, only re-felt. Here's the gentle truth: God is not keeping the replay running. He's offered to close those files. You're allowed to leave the moment where it happened.",
+      "scripture": { "text": "Forgetting what is behind and straining toward what is ahead, I press on.", "reference": "Philippians 3:13-14" }
+    },
+    "what-if-machine": {
+      "name": "The What-If Machine",
+      "description": "You future-trip. Your mind runs ahead and builds disasters that haven't happened, rehearsing pain in advance as if bracing for it will soften the blow. It rarely does. Jesus pointed right at this loop and said tomorrow has enough of its own to carry. You don't have to live in a future you can't see. He's already there, and He's good.",
+      "scripture": { "text": "Do not worry about tomorrow, for tomorrow will worry about itself.", "reference": "Matthew 6:34" }
+    },
+    "decision-freezer": {
+      "name": "The Decision-Freezer",
+      "description": "When choices pile up, you lock. The fear of picking wrong feels bigger than any single option, so you stall, research, and circle until the moment passes. But waiting is also a choice, and usually a heavier one. God promises to guide a heart that's willing to move. You don't need a perfect map. You need the next single step, and He'll meet you in it.",
+      "scripture": { "text": "Trust in the Lord with all your heart and lean not on your own understanding.", "reference": "Proverbs 3:5" }
+    },
+    "comparer": {
+      "name": "The Comparer",
+      "description": "Your overthinking runs through other people. You measure your insides against everyone's highlight reel and somehow always come up short. Comparison is a thief, and it'll rob you of joy you actually have. God didn't make you to be a better someone else. He made you on purpose, with a portion that's yours alone. Stop scoring the game and look up.",
+      "scripture": { "text": "I praise you because I am fearfully and wonderfully made.", "reference": "Psalm 139:14" }
+    },
+    "mind-reader": {
+      "name": "The Mind-Reader",
+      "description": "You assume you know what everyone is thinking about you, and it's usually something critical. The problem is you're guessing, then reacting to the guess as if it's fact. That imagined courtroom in your head has no real verdict in it. There's only One whose opinion is settled, and He already calls you loved. Let His voice be louder than the ones you invented.",
+      "scripture": { "text": "The Lord does not look at the things people look at. The Lord looks at the heart.", "reference": "1 Samuel 16:7" }
+    },
+    "rehearser": {
+      "name": "The Rehearser",
+      "description": "You script your life in advance. Conversations, comebacks, worst cases, all drafted and redrafted before they ever happen. It feels like preparation, but it's really anxiety wearing a productive costume. You can trade the script for trust. God promises to give you what to say when the moment comes. You don't have to over-prepare for a future He's already holding.",
+      "scripture": { "text": "Cast all your anxiety on him because he cares for you.", "reference": "1 Peter 5:7" }
+    }
+  }
+}

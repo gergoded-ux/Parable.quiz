@@ -1,0 +1,136 @@
+{
+  "slug": "which-doubting-bible-figure-are-you",
+  "title": "Which Doubting Bible Figure Are You?",
+  "subtitle": "Doubt isn't the opposite of faith. You're in better company than you think.",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 5,
+  "mode": "archetype",
+  "questions": [
+    {
+      "text": "When doubt shows up, what does it usually sound like?",
+      "options": [
+        { "text": "I won't believe it until I can see it for myself.", "weights": { "thomas": 3 } },
+        { "text": "Are you really who I thought you were? Because this isn't what I expected.", "weights": { "john-the-baptist": 3 } },
+        { "text": "If this is really You, prove it to me one more time.", "weights": { "gideon": 3 } },
+        { "text": "I believe. I think. Help me with the part of me that doesn't.", "weights": { "mark-9-father": 3 } }
+      ]
+    },
+    {
+      "text": "What stirred up your doubt in the first place?",
+      "options": [
+        { "text": "Everyone else saw something I didn't, and I'm not taking their word for it.", "weights": { "thomas": 3 } },
+        { "text": "My circumstances fell apart and stopped matching what I believed.", "weights": { "john-the-baptist": 3 } },
+        { "text": "I'm scared, and I keep needing reassurance before I move.", "weights": { "gideon": 3 } },
+        { "text": "Suffering hit hard and I want answers more than comfort.", "weights": { "job": 3 } }
+      ]
+    },
+    {
+      "text": "How do you handle a promise that seems impossible?",
+      "options": [
+        { "text": "I laugh a little. It's too good and too late to be real.", "weights": { "sarah": 3 } },
+        { "text": "I ask for a sign so I can be sure before I trust it.", "weights": { "gideon": 3 } },
+        { "text": "I need hard evidence in my hands first.", "weights": { "thomas": 3 } },
+        { "text": "I want to believe, and I'm honest that I'm struggling to.", "weights": { "mark-9-father": 3 } }
+      ]
+    },
+    {
+      "text": "Which prayer feels most like yours?",
+      "options": [
+        { "text": "Show me. I need to see it to trust it.", "weights": { "thomas": 3 } },
+        { "text": "Are you the one, or should I be looking elsewhere?", "weights": { "john-the-baptist": 3 } },
+        { "text": "How long, Lord? I need You to answer me.", "weights": { "job": 3 } },
+        { "text": "I do believe. Help my unbelief.", "weights": { "mark-9-father": 3 } }
+      ]
+    },
+    {
+      "text": "What do you do with your questions about God?",
+      "options": [
+        { "text": "I say them out loud. I won't fake a certainty I don't feel.", "weights": { "thomas": 2, "job": 1 } },
+        { "text": "I send them up honestly, even from a dark and stuck place.", "weights": { "john-the-baptist": 3 } },
+        { "text": "I test things carefully before I commit.", "weights": { "gideon": 3 } },
+        { "text": "I bring them straight to Jesus and ask Him to meet me.", "weights": { "mark-9-father": 3 } }
+      ]
+    },
+    {
+      "text": "Someone tells you God is going to do the unthinkable. Your gut reaction?",
+      "options": [
+        { "text": "A quiet, disbelieving laugh. I've waited too long to get my hopes up.", "weights": { "sarah": 3 } },
+        { "text": "Okay, but let me set out a test to be certain.", "weights": { "gideon": 3 } },
+        { "text": "I'll believe it when there's proof I can touch.", "weights": { "thomas": 3 } },
+        { "text": "I want it to be true so badly that the wanting almost hurts.", "weights": { "john-the-baptist": 2, "mark-9-father": 1 } }
+      ]
+    },
+    {
+      "text": "When God feels distant, what rises in you?",
+      "options": [
+        { "text": "A demand for answers. I want to make my case to Him directly.", "weights": { "job": 3 } },
+        { "text": "Disappointment that reality didn't match the promise.", "weights": { "john-the-baptist": 3 } },
+        { "text": "A need for confirmation before I take another step.", "weights": { "gideon": 3 } },
+        { "text": "Skepticism, but I stick around hoping to be proven wrong.", "weights": { "thomas": 3 } }
+      ]
+    },
+    {
+      "text": "How do you cope when the waiting drags on?",
+      "options": [
+        { "text": "I start to assume it's never coming and brace for disappointment.", "weights": { "sarah": 3 } },
+        { "text": "I wrestle with God out loud and refuse to pretend I'm fine.", "weights": { "job": 3 } },
+        { "text": "I keep asking for one more sign that I'm on the right path.", "weights": { "gideon": 3 } },
+        { "text": "I hold on to belief and honesty at the same time.", "weights": { "mark-9-father": 3 } }
+      ]
+    },
+    {
+      "text": "What would actually help your doubt right now?",
+      "options": [
+        { "text": "An encounter. If He showed up, I'd fall to my knees.", "weights": { "thomas": 3 } },
+        { "text": "A word from Him that reframes what I'm seeing.", "weights": { "john-the-baptist": 3 } },
+        { "text": "God meeting my fear gently instead of scolding it.", "weights": { "gideon": 3 } },
+        { "text": "Him answering me at last, even out of the storm.", "weights": { "job": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "thomas": {
+      "name": "Thomas (needs proof)",
+      "emoji": "🖐️",
+      "traits": ["Honest", "Skeptical", "Devoted"],
+      "description": "You won't fake a faith you don't feel, and you'd rather ask the hard question than pretend. Thomas gets a bad rap, but notice what Jesus did: He didn't shame the doubt, He showed up and offered His hands. Your honesty isn't a barrier to faith. It's often the doorway Jesus walks through to meet you.",
+      "scripture": { "text": "Stop doubting and believe.", "reference": "John 20:27" }
+    },
+    "john-the-baptist": {
+      "name": "John the Baptist in prison (are you the one?)",
+      "emoji": "⛓️",
+      "traits": ["Faithful", "Honest", "Searching"],
+      "description": "You believed boldly, and then life fell apart and didn't match the promise, so now you're quietly asking if you got it all wrong. John, the very one who pointed everyone to Jesus, sent that exact question from a prison cell. And Jesus didn't rebuke him. He sent back proof and kindness. Your honest question from a hard place is safe with Him.",
+      "scripture": { "text": "Are you the one who is to come, or should we expect someone else?", "reference": "Matthew 11:3" }
+    },
+    "gideon": {
+      "name": "Gideon (lays out a fleece)",
+      "emoji": "🐑",
+      "traits": ["Cautious", "Sincere", "Brave"],
+      "description": "You're not arrogant in your doubt. You're scared, and you keep asking God to confirm it one more time before you move. Gideon did the very same thing, twice, and God patiently answered both times without a hint of frustration. He's gentle with a fearful heart that's genuinely trying to obey. He won't get tired of reassuring you.",
+      "scripture": { "text": "The Lord is with you, mighty warrior.", "reference": "Judges 6:12" }
+    },
+    "mark-9-father": {
+      "name": "The father of Mark 9 (help my unbelief)",
+      "emoji": "🙏",
+      "traits": ["Honest", "Hopeful", "Tender"],
+      "description": "You hold belief and doubt in the same breath, and you're brave enough to admit both. That desperate dad's prayer might be the most honest one in the whole Bible: I do believe, help my unbelief. And Jesus answered it. You don't need perfect faith to come to Him. You just need to bring the cracked faith you actually have.",
+      "scripture": { "text": "I do believe; help me overcome my unbelief!", "reference": "Mark 9:24" }
+    },
+    "job": {
+      "name": "Job (demands an answer)",
+      "emoji": "🌪️",
+      "traits": ["Raw", "Persistent", "Faithful"],
+      "description": "Suffering blindsided you, and you're not interested in tidy answers. You want God Himself to respond. Job demanded that, loudly, for chapters. And here's the surprising part: God called Job's raw honesty right, over his friends' polished theology. Your wrestling isn't rebellion. It's a kind of faith that refuses to let go until God speaks.",
+      "scripture": { "text": "Though he slay me, yet will I hope in him.", "reference": "Job 13:15" }
+    },
+    "sarah": {
+      "name": "Sarah (laughs in disbelief)",
+      "emoji": "😅",
+      "traits": ["Weary", "Real", "Surprised"],
+      "description": "You've waited so long that hope started to feel like a setup for disappointment, so when the promise comes, you laugh. Sarah did too. But God gently asked, is anything too hard for Me? And then He did the impossible thing anyway, and her laugh of doubt turned into a laugh of joy. He can still surprise you, even now.",
+      "scripture": { "text": "Is anything too hard for the Lord?", "reference": "Genesis 18:14" }
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "are-you-a-leah-or-a-rachel",
+  "title": "Are You a Leah or a Rachel?",
+  "subtitle": "Two sisters, two kinds of ache. Which one is yours?",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 4,
+  "mode": "archetype",
+  "questions": [
+    {
+      "text": "When you scroll past someone else's good news, what rises first?",
+      "options": [
+        { "text": "A quiet sting that I am still the one no one notices.", "weights": { "leah": 2 } },
+        { "text": "A pressure to prove I am keeping up, that I am winning too.", "weights": { "rachel": 2 } }
+      ]
+    },
+    {
+      "text": "Which fear sits closer to your heart?",
+      "options": [
+        { "text": "That I will never be truly seen or chosen.", "weights": { "leah": 2 } },
+        { "text": "That what I have is never going to be enough.", "weights": { "rachel": 2 } }
+      ]
+    },
+    {
+      "text": "In a room full of people, you tend to...",
+      "options": [
+        { "text": "Wonder if anyone would notice if I slipped out.", "weights": { "leah": 2 } },
+        { "text": "Measure myself against the person everyone is drawn to.", "weights": { "rachel": 2 } }
+      ]
+    },
+    {
+      "text": "How do you usually try to earn love?",
+      "options": [
+        { "text": "By giving more, hoping someone finally turns toward me.", "weights": { "leah": 2 } },
+        { "text": "By achieving more, staying ahead, never looking like I lack.", "weights": { "rachel": 2 } }
+      ]
+    },
+    {
+      "text": "Which sentence sounds more like your inner voice?",
+      "options": [
+        { "text": "Maybe if I were different, they would pick me.", "weights": { "leah": 2 } },
+        { "text": "I should be further along than I am by now.", "weights": { "rachel": 2 } }
+      ]
+    },
+    {
+      "text": "When God feels far, what do you secretly assume?",
+      "options": [
+        { "text": "That He, too, sees me last.", "weights": { "leah": 2 } },
+        { "text": "That He is waiting for me to earn my way back.", "weights": { "rachel": 2 } }
+      ]
+    },
+    {
+      "text": "What would heal you most to finally hear?",
+      "options": [
+        { "text": "I see you. I have always seen you.", "weights": { "leah": 2 } },
+        { "text": "You can stop striving. You already have what matters.", "weights": { "rachel": 2 } }
+      ]
+    },
+    {
+      "text": "Comparison usually leaves you feeling...",
+      "options": [
+        { "text": "Overlooked, like the world keeps passing me by.", "weights": { "leah": 2 } },
+        { "text": "Restless, like I have to grab more before it runs out.", "weights": { "rachel": 2 } }
+      ]
+    }
+  ],
+  "results": {
+    "leah": {
+      "name": "Leah (overlooked but chosen)",
+      "emoji": "🌾",
+      "traits": ["Tender", "Faithful", "Seen"],
+      "description": "You know what it is to feel like the one nobody picks first. But here is what Leah's story holds: God saw her exactly when she felt unseen, and He wove her into the line that led to Jesus. You are not overlooked by the One who matters most. He has already chosen you, and He is not looking past you.",
+      "scripture": { "text": "And when the Lord saw that Leah was hated, he opened her womb.", "reference": "Genesis 29:31" }
+    },
+    "rachel": {
+      "name": "Rachel (loved but striving)",
+      "emoji": "🪞",
+      "traits": ["Driven", "Longing", "Loved"],
+      "description": "You can be deeply loved and still feel like it is never enough, always reaching for the next thing to prove your worth. Rachel had the love and still ached for more. The invitation for you is to stop striving long enough to receive what is already yours. You do not have to earn the love you already have.",
+      "scripture": { "text": "Be content with such things as ye have: for he hath said, I will never leave thee.", "reference": "Hebrews 13:5" }
+    }
+  }
+}

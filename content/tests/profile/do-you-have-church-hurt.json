@@ -1,0 +1,129 @@
+{
+  "slug": "do-you-have-church-hurt",
+  "title": "Do You Have Church Hurt? (The Honest Test)",
+  "subtitle": "No shame here. Just an honest look at what happened to you.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "carrying-real-church-hurt",
+    "spirit-of-offense",
+    "survived-spiritual-abuse",
+    "mostly-healed"
+  ],
+  "questions": [
+    {
+      "text": "When you think about your last church, what's the first feeling that comes up?",
+      "options": [
+        { "text": "A real ache. Something there genuinely wounded me.", "weights": { "carrying-real-church-hurt": 3 } },
+        { "text": "Irritation that I keep rehearsing more than actual damage.", "weights": { "spirit-of-offense": 3 } },
+        { "text": "A knot in my stomach. It was deeper and darker than \"hurt.\"", "weights": { "survived-spiritual-abuse": 3 } },
+        { "text": "Mostly peace now, with the odd tender spot.", "weights": { "mostly-healed": 3 } }
+      ]
+    },
+    {
+      "text": "What actually happened, if you're honest about it?",
+      "options": [
+        { "text": "Someone I trusted let me down in a way that really stung.", "weights": { "carrying-real-church-hurt": 3 } },
+        { "text": "I got overlooked or slighted and I've held onto it.", "weights": { "spirit-of-offense": 3 } },
+        { "text": "There was control, manipulation, or fear used against me.", "weights": { "survived-spiritual-abuse": 3 } },
+        { "text": "Some bumps along the way, but nothing that defines me now.", "weights": { "mostly-healed": 3 } }
+      ]
+    },
+    {
+      "text": "How does your body react when you walk into a church now?",
+      "options": [
+        { "text": "I tense up and stay guarded, even in a good place.", "weights": { "carrying-real-church-hurt": 3 } },
+        { "text": "I'm fine, I just keep a running list of what's wrong with it.", "weights": { "spirit-of-offense": 3 } },
+        { "text": "My chest tightens. Sometimes I can't make myself go in.", "weights": { "survived-spiritual-abuse": 3 } },
+        { "text": "Pretty relaxed. The odd song or phrase still catches me.", "weights": { "mostly-healed": 3 } }
+      ]
+    },
+    {
+      "text": "Which sentence sounds the most like you lately?",
+      "options": [
+        { "text": "\"I still love God. I'm just wary of His people.\"", "weights": { "carrying-real-church-hurt": 3 } },
+        { "text": "\"Nobody there does anything right.\"", "weights": { "spirit-of-offense": 3 } },
+        { "text": "\"I'm not even sure what was real and what was control.\"", "weights": { "survived-spiritual-abuse": 3 } },
+        { "text": "\"That season hurt, but I've made real peace with it.\"", "weights": { "mostly-healed": 3 } }
+      ]
+    },
+    {
+      "text": "When you replay the situation, what are you usually doing?",
+      "options": [
+        { "text": "Grieving a relationship or community I really lost.", "weights": { "carrying-real-church-hurt": 3 } },
+        { "text": "Building my case for why I'm right and they're wrong.", "weights": { "spirit-of-offense": 3 } },
+        { "text": "Trying to figure out if I was being spiritually manipulated.", "weights": { "survived-spiritual-abuse": 3 } },
+        { "text": "I don't replay it much anymore.", "weights": { "mostly-healed": 3 } }
+      ]
+    },
+    {
+      "text": "How has this affected your relationship with God Himself?",
+      "options": [
+        { "text": "He feels a little harder to trust because of how His people acted.", "weights": { "carrying-real-church-hurt": 3 } },
+        { "text": "Honestly fine. My frustration is with the people, not Him.", "weights": { "spirit-of-offense": 2, "mostly-healed": 1 } },
+        { "text": "Tangled. Their voice and His voice got blurred together.", "weights": { "survived-spiritual-abuse": 3 } },
+        { "text": "Closer, actually. He's carried me through it.", "weights": { "mostly-healed": 3 } }
+      ]
+    },
+    {
+      "text": "What did the people involved tend to do when you raised a concern?",
+      "options": [
+        { "text": "They handled it badly and never really made it right.", "weights": { "carrying-real-church-hurt": 3 } },
+        { "text": "Honestly, I never raised it. I just stewed on it.", "weights": { "spirit-of-offense": 3 } },
+        { "text": "They used Scripture or my standing to silence me.", "weights": { "survived-spiritual-abuse": 3 } },
+        { "text": "Some listened, some didn't, but I've worked through it.", "weights": { "mostly-healed": 3 } }
+      ]
+    },
+    {
+      "text": "Be honest: is there any chance you're holding onto an offense?",
+      "options": [
+        { "text": "There's real injury here, not just wounded pride.", "weights": { "carrying-real-church-hurt": 3 } },
+        { "text": "Yeah, probably. I think I've nursed this longer than it deserved.", "weights": { "spirit-of-offense": 3 } },
+        { "text": "This was bigger than an offense. It was a system that harmed me.", "weights": { "survived-spiritual-abuse": 3 } },
+        { "text": "I've let most of it go already.", "weights": { "mostly-healed": 3 } }
+      ]
+    },
+    {
+      "text": "Where are you with trusting a faith community again?",
+      "options": [
+        { "text": "I want to, but the wall is still up and I can't force it down.", "weights": { "carrying-real-church-hurt": 3 } },
+        { "text": "I could go back tomorrow if I'd just lay down my list of grievances.", "weights": { "spirit-of-offense": 3 } },
+        { "text": "The thought of trusting leaders again genuinely frightens me.", "weights": { "survived-spiritual-abuse": 3 } },
+        { "text": "I've already found, or could find, a healthy place again.", "weights": { "mostly-healed": 3 } }
+      ]
+    },
+    {
+      "text": "What do you most need right now?",
+      "options": [
+        { "text": "Someone to acknowledge that what happened to me was real.", "weights": { "carrying-real-church-hurt": 3 } },
+        { "text": "The honesty and grace to set down a grudge I've outgrown.", "weights": { "spirit-of-offense": 3 } },
+        { "text": "A safe place, and maybe help, to untangle what was done to me.", "weights": { "survived-spiritual-abuse": 3 } },
+        { "text": "Just to keep growing in the freedom I've already found.", "weights": { "mostly-healed": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "carrying-real-church-hurt": {
+      "name": "Carrying Real Church Hurt",
+      "description": "What happened to you was real, and you're not dramatic for still feeling it. Trusted people let you down, and the wall you put up makes sense. God isn't asking you to pretend it didn't sting. He's the one who draws near when His own people have wounded you, and He wants to help you heal at a pace that's gentle.",
+      "scripture": { "text": "The Lord is close to the brokenhearted and saves those who are crushed in spirit.", "reference": "Psalm 34:18" }
+    },
+    "spirit-of-offense": {
+      "name": "A Spirit of Offense, Not Abuse",
+      "description": "Here's a gentle word, offered with respect: this looks more like an offense you've been rehearsing than abuse you survived. That's actually good news, because it means freedom is closer than you think. You don't have to win the case. You get to set it down and walk out lighter.",
+      "scripture": { "text": "A person's wisdom yields patience; it is to one's glory to overlook an offense.", "reference": "Proverbs 19:11" }
+    },
+    "survived-spiritual-abuse": {
+      "name": "Survived Spiritual Abuse",
+      "description": "This was deeper than disappointment. When power, fear, or Scripture itself gets used to control someone, that's abuse, and it's not your shame to carry. The blurring of their voice and God's voice is one of the cruelest parts. He is not them. Please consider finding a safe person or counselor to help you untangle it. You deserve that care.",
+      "scripture": { "text": "He tends his flock like a shepherd: He gathers the lambs in his arms and carries them close to his heart.", "reference": "Isaiah 40:11" }
+    },
+    "mostly-healed": {
+      "name": "Mostly Healed, a Few Triggers Left",
+      "description": "You've come a long way. The season that hurt you doesn't run the show anymore, even if a certain song or phrase can still catch you off guard. That's normal, and it's not backsliding. Keep walking in the freedom you've found, and be patient with the tender spots that remain.",
+      "scripture": { "text": "He heals the brokenhearted and binds up their wounds.", "reference": "Psalm 147:3" }
+    }
+  }
+}

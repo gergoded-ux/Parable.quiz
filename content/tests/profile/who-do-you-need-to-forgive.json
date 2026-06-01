@@ -1,0 +1,141 @@
+{
+  "slug": "who-do-you-need-to-forgive",
+  "title": "Who Do You Need to Forgive?",
+  "subtitle": "There's probably a name your heart already whispered. Let's find the first gentle step toward setting it down.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "parent",
+    "former-friend",
+    "church-or-pastor",
+    "ex",
+    "yourself",
+    "god"
+  ],
+  "questions": [
+    {
+      "text": "When you imagine an apology that would actually mean something, whose voice are you hoping to hear?",
+      "options": [
+        { "text": "The one who raised me. I'm still waiting for them to see what they did.", "weights": { "parent": 3 } },
+        { "text": "Someone I used to share everything with, before it all fell apart.", "weights": { "former-friend": 3 } },
+        { "text": "A pastor or a church that let me down when I trusted them.", "weights": { "church-or-pastor": 2, "former-friend": 1 } },
+        { "text": "Honestly, I'd settle for my own voice telling me it's okay to stop punishing myself.", "weights": { "yourself": 2, "god": 1 } }
+      ]
+    },
+    {
+      "text": "Which old memory still tightens your chest when it sneaks up on you?",
+      "options": [
+        { "text": "A moment from childhood I never got to talk about.", "weights": { "parent": 3 } },
+        { "text": "The breakup or the goodbye I didn't choose.", "weights": { "ex": 3 } },
+        { "text": "The day a friendship turned cold and I never understood why.", "weights": { "former-friend": 2, "ex": 1 } },
+        { "text": "A prayer I begged for that never came, and the silence after.", "weights": { "god": 3 } }
+      ]
+    },
+    {
+      "text": "When something good happens, who do you secretly wish could see you now?",
+      "options": [
+        { "text": "My parent. Part of me still wants their approval.", "weights": { "parent": 3 } },
+        { "text": "The person I dated. I want them to know I turned out fine.", "weights": { "ex": 3 } },
+        { "text": "Nobody. I'm too busy doubting I deserve good things at all.", "weights": { "yourself": 3 } },
+        { "text": "The friend who walked away. I wish they could see I'm still standing.", "weights": { "former-friend": 2, "yourself": 1 } }
+      ]
+    },
+    {
+      "text": "Where does the resentment leak out when you're not watching it?",
+      "options": [
+        { "text": "Around family. Old patterns flare up fast.", "weights": { "parent": 3 } },
+        { "text": "Whenever church comes up. I get guarded or sharp.", "weights": { "church-or-pastor": 3 } },
+        { "text": "In how I love now. I keep one foot out the door.", "weights": { "ex": 2, "former-friend": 1 } },
+        { "text": "Toward myself. I'm my own harshest critic.", "weights": { "yourself": 3 } }
+      ]
+    },
+    {
+      "text": "Finish this honestly: \"I keep waiting for them to admit...\"",
+      "options": [
+        { "text": "That the way they treated me wasn't normal or okay.", "weights": { "parent": 2, "church-or-pastor": 1 } },
+        { "text": "That they used their position to hurt people like me.", "weights": { "church-or-pastor": 3 } },
+        { "text": "That what we had was real before they threw it away.", "weights": { "ex": 2, "former-friend": 1 } },
+        { "text": "There's no them. The voice I argue with is my own.", "weights": { "yourself": 3 } }
+      ]
+    },
+    {
+      "text": "When you pray about it, what usually rises up first?",
+      "options": [
+        { "text": "A wall. I'd rather not bring this one to God yet.", "weights": { "god": 2, "parent": 1 } },
+        { "text": "Anger I'm a little scared to say out loud to Him.", "weights": { "god": 3 } },
+        { "text": "Guilt, like I'm the problem I keep praying about.", "weights": { "yourself": 3 } },
+        { "text": "A specific face. The same one every time.", "weights": { "ex": 2, "former-friend": 1 } }
+      ]
+    },
+    {
+      "text": "Which sentence sounds the most like the story you tell yourself?",
+      "options": [
+        { "text": "\"They were supposed to protect me, and they didn't.\"", "weights": { "parent": 3 } },
+        { "text": "\"I gave that place everything, and it cost me.\"", "weights": { "church-or-pastor": 3 } },
+        { "text": "\"I should have known better than to let them in.\"", "weights": { "ex": 2, "yourself": 1 } },
+        { "text": "\"If God loved me, this wouldn't have happened.\"", "weights": { "god": 3 } }
+      ]
+    },
+    {
+      "text": "What do you most need to hear right now?",
+      "options": [
+        { "text": "That a hard childhood doesn't get to define your future.", "weights": { "parent": 3 } },
+        { "text": "That God grieved that betrayal with you and never blessed it.", "weights": { "church-or-pastor": 2, "god": 1 } },
+        { "text": "That you can grieve a relationship and still let it go.", "weights": { "ex": 2, "former-friend": 1 } },
+        { "text": "That grace is for you too, not just for everyone else.", "weights": { "yourself": 3 } }
+      ]
+    },
+    {
+      "text": "If you set this weight down today, who walks out lighter?",
+      "options": [
+        { "text": "The kid I used to be, still carrying my parent's voice.", "weights": { "parent": 3 } },
+        { "text": "Me. I've been carrying my own failures like a sentence.", "weights": { "yourself": 3 } },
+        { "text": "The version of me that's afraid to trust a church again.", "weights": { "church-or-pastor": 3 } },
+        { "text": "The part of me still arguing with God in the dark.", "weights": { "god": 3 } }
+      ]
+    },
+    {
+      "text": "Be honest about the cost: what is the unforgiveness taking from you?",
+      "options": [
+        { "text": "My peace at family gatherings and holidays.", "weights": { "parent": 2, "former-friend": 1 } },
+        { "text": "My ability to love someone new without flinching.", "weights": { "ex": 3 } },
+        { "text": "My trust in spiritual community altogether.", "weights": { "church-or-pastor": 3 } },
+        { "text": "My closeness to God. There's a distance I put there.", "weights": { "god": 2, "yourself": 1 } }
+      ]
+    }
+  ],
+  "results": {
+    "parent": {
+      "name": "A Parent",
+      "description": "The person your heart keeps returning to is the one who raised you. That's one of the heaviest names to forgive, because they shaped how you see yourself before you got a say. Forgiving them doesn't mean what happened was fine. It means you stop letting their old voice narrate your today. You can honor a parent and still hand God the wound they left.",
+      "scripture": { "text": "Though my father and mother forsake me, the Lord will receive me.", "reference": "Psalm 27:10" }
+    },
+    "former-friend": {
+      "name": "A Former Friend",
+      "description": "Somewhere there's a friendship that ended without closure, and you've been quietly carrying the ache of it. Losing a friend can hurt as much as any breakup, and almost nobody talks about it. You don't have to rebuild what broke to release it. Let God hold the part of you that still wonders what happened, and let the bitterness go before it hardens.",
+      "scripture": { "text": "A friend loves at all times, and a brother is born for a time of adversity.", "reference": "Proverbs 17:17" }
+    },
+    "church-or-pastor": {
+      "name": "A Church or Pastor",
+      "description": "The wound you're carrying came from a place that was supposed to be safe, and that's a particular kind of pain. When trust is broken by people who spoke for God, it can feel like God broke it too. He didn't. He grieved it with you. Forgiving them is not the same as going back or pretending it didn't matter. It's refusing to let their failure keep you from the One they misrepresented.",
+      "scripture": { "text": "The Lord is close to the brokenhearted and saves those who are crushed in spirit.", "reference": "Psalm 34:18" }
+    },
+    "ex": {
+      "name": "An Ex",
+      "description": "There's a person you used to love, and the unfinished business with them is still shaping how you guard your heart. You can grieve what you hoped for and still choose to release them. Forgiveness here isn't reopening the door. It's closing it gently enough that you stop bleeding every time you pass it. Let God give you back the trust that ending tried to steal.",
+      "scripture": { "text": "He heals the brokenhearted and binds up their wounds.", "reference": "Psalm 147:3" }
+    },
+    "yourself": {
+      "name": "Yourself",
+      "description": "The hardest person at your table to forgive is you. You've been re-paying a debt that Jesus already covered, treating your own grace like it ran out. Here's the truth your guilt keeps hiding: if God isn't holding it against you, you don't get to either. Receiving forgiveness is not letting yourself off the hook. It's finally believing the cross was enough, even for you.",
+      "scripture": { "text": "There is now no condemnation for those who are in Christ Jesus.", "reference": "Romans 8:1" }
+    },
+    "god": {
+      "name": "God (Honestly)",
+      "description": "This is the brave one most people won't admit. Somewhere a prayer went unanswered, or a loss landed wrong, and a quiet anger toward God settled in. He can handle that. The Psalms are full of people who shouted at heaven and stayed. You don't have to fake peace you don't feel. Bring Him the honest version. Wrestling with God in the dark is still holding on to Him.",
+      "scripture": { "text": "Cast all your anxiety on him because he cares for you.", "reference": "1 Peter 5:7" }
+    }
+  }
+}

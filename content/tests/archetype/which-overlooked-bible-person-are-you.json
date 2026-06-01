@@ -1,0 +1,113 @@
+{
+  "slug": "which-overlooked-bible-person-are-you",
+  "title": "Which Overlooked Bible Person Are You?",
+  "subtitle": "Four people the world walked past, and God walked toward.",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 4,
+  "mode": "archetype",
+  "questions": [
+    {
+      "text": "Which kind of invisible do you know best?",
+      "options": [
+        { "text": "Being right there and still feeling unseen.", "weights": { "leah": 3 } },
+        { "text": "Being pushed out when you stopped being useful.", "weights": { "hagar": 3 } },
+        { "text": "Being forgotten in a corner everyone moved on from.", "weights": { "mephibosheth": 3 } },
+        { "text": "Being the outsider nobody expected anything good from.", "weights": { "zacchaeus": 3 } }
+      ]
+    },
+    {
+      "text": "What's the quiet ache you carry?",
+      "options": [
+        { "text": "\"Why am I never the one who gets chosen?\"", "weights": { "leah": 3 } },
+        { "text": "\"Does anyone even know where I went?\"", "weights": { "hagar": 3 } },
+        { "text": "\"There's no place at the table for someone like me.\"", "weights": { "mephibosheth": 3 } },
+        { "text": "\"People decided who I am before they knew me.\"", "weights": { "zacchaeus": 3 } }
+      ]
+    },
+    {
+      "text": "When life pushed you to the edges, what did you do?",
+      "options": [
+        { "text": "Kept showing up and hoping to finally be noticed.", "weights": { "leah": 3 } },
+        { "text": "Ran into the wilderness with nowhere left to go.", "weights": { "hagar": 3 } },
+        { "text": "Stayed hidden and assumed I'd been written off.", "weights": { "mephibosheth": 3 } },
+        { "text": "Climbed up high just to catch a glimpse of something more.", "weights": { "zacchaeus": 3 } }
+      ]
+    },
+    {
+      "text": "How do you usually handle being undervalued?",
+      "options": [
+        { "text": "I try harder to earn the love that keeps slipping past me.", "weights": { "leah": 3 } },
+        { "text": "I brace for being abandoned again.", "weights": { "hagar": 3 } },
+        { "text": "I shrink so nobody has to be burdened with me.", "weights": { "mephibosheth": 3 } },
+        { "text": "I put up a front and let people think what they want.", "weights": { "zacchaeus": 3 } }
+      ]
+    },
+    {
+      "text": "What would mean the most to you right now?",
+      "options": [
+        { "text": "To be wanted for myself, not as second choice.", "weights": { "leah": 3 } },
+        { "text": "To know I'm seen even out here where no one looks.", "weights": { "hagar": 3 } },
+        { "text": "To be invited in and told I belong.", "weights": { "mephibosheth": 3 } },
+        { "text": "To be met by name instead of by my reputation.", "weights": { "zacchaeus": 3 } }
+      ]
+    },
+    {
+      "text": "Pick the moment that makes your throat tighten:",
+      "options": [
+        { "text": "Naming a child \"now I'll finally be loved.\"", "weights": { "leah": 3 } },
+        { "text": "Hearing a voice in the desert call you by name.", "weights": { "hagar": 3 } },
+        { "text": "Being carried to a king's table to eat as family.", "weights": { "mephibosheth": 3 } },
+        { "text": "Hearing someone say, \"I'm coming to your house today.\"", "weights": { "zacchaeus": 3 } }
+      ]
+    },
+    {
+      "text": "Deep down, what do you suspect about God?",
+      "options": [
+        { "text": "That even He might prefer someone more lovable than me.", "weights": { "leah": 2, "mephibosheth": 1 } },
+        { "text": "That He sees me when literally no one else does.", "weights": { "hagar": 3 } },
+        { "text": "That He hasn't forgotten me, even if everyone else has.", "weights": { "mephibosheth": 3 } },
+        { "text": "That He's not embarrassed to be associated with me.", "weights": { "zacchaeus": 3 } }
+      ]
+    },
+    {
+      "text": "If God leaned in and spoke to you, you'd most want to hear...",
+      "options": [
+        { "text": "\"I have seen you, and I love you.\"", "weights": { "leah": 3 } },
+        { "text": "\"I am the God who sees. You are not alone.\"", "weights": { "hagar": 3 } },
+        { "text": "\"There's a permanent seat here with your name on it.\"", "weights": { "mephibosheth": 3 } },
+        { "text": "\"Today, I chose you on purpose.\"", "weights": { "zacchaeus": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "leah": {
+      "name": "Leah (the unseen one)",
+      "emoji": "👁️",
+      "traits": ["Faithful", "Tender", "Enduring"],
+      "description": "You know what it is to be present and still feel passed over, to keep loving someone whose eyes are always somewhere else. But God saw exactly what no one else valued. He opened your story on purpose, and from the unloved one He brought a whole line of promise. You are not the runner-up to Him.",
+      "scripture": { "text": "When the Lord saw that Leah was not loved, he enabled her to conceive.", "reference": "Genesis 29:31" }
+    },
+    "hagar": {
+      "name": "Hagar (the cast-out one)",
+      "emoji": "🏜️",
+      "traits": ["Resilient", "Honest", "Brave"],
+      "description": "You've been used and then sent away, left in a wilderness with nothing but your fear. And right there, where you were sure no one was looking, God found you and called you by name. You became the first person in Scripture to give Him a name: the God who sees. He saw you then. He sees you now.",
+      "scripture": { "text": "She gave this name to the Lord who spoke to her: \"You are the God who sees me.\"", "reference": "Genesis 16:13" }
+    },
+    "mephibosheth": {
+      "name": "Mephibosheth (the forgotten one)",
+      "emoji": "🪑",
+      "traits": ["Humble", "Hopeful", "Loyal"],
+      "description": "You've spent so long assuming you were written off that you learned to make yourself small. But a King went looking for you, not to settle a score, but to show you kindness for someone else's sake. He carried you to His own table and called you family. There's a seat there that no one can take from you.",
+      "scripture": { "text": "You will always eat at my table.", "reference": "2 Samuel 9:7" }
+    },
+    "zacchaeus": {
+      "name": "Zacchaeus (the outsider)",
+      "emoji": "🌳",
+      "traits": ["Curious", "Bold", "Changed"],
+      "description": "People labeled you before they knew you, and you learned to live behind the reputation. But Jesus walked through the crowd that wrote you off, looked up, and used your name like it mattered. He invited Himself in before you changed a thing. Being chosen on purpose is what set you free.",
+      "scripture": { "text": "Zacchaeus, come down immediately. I must stay at your house today.", "reference": "Luke 19:5" }
+    }
+  }
+}

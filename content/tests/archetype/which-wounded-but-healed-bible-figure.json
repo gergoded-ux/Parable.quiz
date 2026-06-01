@@ -1,0 +1,136 @@
+{
+  "slug": "which-wounded-but-healed-bible-figure",
+  "title": "Which Wounded-but-Healed Bible Figure Are You?",
+  "subtitle": "Six people who limped out the other side, and what got them there.",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 4,
+  "mode": "archetype",
+  "questions": [
+    {
+      "text": "What kind of wound shaped your story most?",
+      "options": [
+        { "text": "People I trusted turned on me.", "weights": { "joseph": 3 } },
+        { "text": "Loss after loss left me bitter and empty.", "weights": { "naomi": 3 } },
+        { "text": "A long, draining suffering nobody could fix.", "weights": { "bleeding-woman": 3 } },
+        { "text": "Something happened to me as a child that I never chose.", "weights": { "mephibosheth": 3 } }
+      ]
+    },
+    {
+      "text": "When you were at your lowest, what did it sound like inside?",
+      "options": [
+        { "text": "\"Even the people who should love me threw me away.\"", "weights": { "joseph": 3 } },
+        { "text": "\"Don't even call me by my name anymore. Call me bitter.\"", "weights": { "naomi": 3 } },
+        { "text": "\"I've tried everything and nothing's changed.\"", "weights": { "bleeding-woman": 3 } },
+        { "text": "\"There's no place at the table for someone like me.\"", "weights": { "mephibosheth": 3 } }
+      ]
+    },
+    {
+      "text": "Be honest about a harder part of your past:",
+      "options": [
+        { "text": "I was on the wrong side of things and caused real harm.", "weights": { "paul": 3 } },
+        { "text": "I got used and then cast out when I was no longer wanted.", "weights": { "hagar": 3 } },
+        { "text": "I was betrayed by family and left for dead, basically.", "weights": { "joseph": 3 } },
+        { "text": "I bled out years on a problem that just kept taking.", "weights": { "bleeding-woman": 3 } }
+      ]
+    },
+    {
+      "text": "How did your healing actually start?",
+      "options": [
+        { "text": "By choosing to forgive the people who hurt me.", "weights": { "joseph": 3 } },
+        { "text": "By letting God rename a season I thought was only loss.", "weights": { "naomi": 3 } },
+        { "text": "By reaching out in desperation for one more chance.", "weights": { "bleeding-woman": 3 } },
+        { "text": "By being met in the desert when I had nothing left.", "weights": { "hagar": 3 } }
+      ]
+    },
+    {
+      "text": "What do you now believe about your worst chapter?",
+      "options": [
+        { "text": "What others meant for evil, God meant for good.", "weights": { "joseph": 3 } },
+        { "text": "The empty season wasn't the end of my story.", "weights": { "naomi": 3 } },
+        { "text": "My faith reached Him, and He didn't pull away.", "weights": { "bleeding-woman": 3 } },
+        { "text": "If grace can reach me, it can reach anyone.", "weights": { "paul": 3 } }
+      ]
+    },
+    {
+      "text": "Where do you see God most clearly now?",
+      "options": [
+        { "text": "Turning betrayal into the very thing that saved people.", "weights": { "joseph": 3 } },
+        { "text": "Filling back what loss had emptied.", "weights": { "naomi": 3 } },
+        { "text": "Calling me \"daughter\" when I expected to be scolded.", "weights": { "bleeding-woman": 3 } },
+        { "text": "Carrying me to a table and seating me as family.", "weights": { "mephibosheth": 3 } }
+      ]
+    },
+    {
+      "text": "What's the gift your wound left behind?",
+      "options": [
+        { "text": "I can hold power without using it to get even.", "weights": { "joseph": 3 } },
+        { "text": "I'm tender now with other people in their grief.", "weights": { "naomi": 3 } },
+        { "text": "I'll keep reaching for Jesus no matter how it looks.", "weights": { "bleeding-woman": 3 } },
+        { "text": "I tell everyone what mercy did for me.", "weights": { "paul": 3 } }
+      ]
+    },
+    {
+      "text": "Which line makes your eyes sting?",
+      "options": [
+        { "text": "\"You meant evil against me, but God meant it for good.\"", "weights": { "joseph": 3 } },
+        { "text": "\"The God who sees me found me in the wilderness.\"", "weights": { "hagar": 3 } },
+        { "text": "\"Daughter, your faith has healed you. Go in peace.\"", "weights": { "bleeding-woman": 3 } },
+        { "text": "\"You will always have a seat at my table.\"", "weights": { "mephibosheth": 3 } }
+      ]
+    },
+    {
+      "text": "What's the hope you'd hand to someone still bleeding?",
+      "options": [
+        { "text": "\"The pit isn't the end. There's a purpose ahead.\"", "weights": { "joseph": 3 } },
+        { "text": "\"Bitter isn't your final name.\"", "weights": { "naomi": 3 } },
+        { "text": "\"He's not too holy to be touched by your mess.\"", "weights": { "bleeding-woman": 2, "paul": 1 } },
+        { "text": "\"You were seen the whole time, even out there alone.\"", "weights": { "hagar": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "joseph": {
+      "name": "Joseph (Betrayed, Then Restored)",
+      "emoji": "🌈",
+      "traits": ["Forgiving", "Resilient", "Faithful"],
+      "description": "You know what it is to be betrayed by the people who were supposed to protect you. And somehow you came out the other side without becoming bitter. You can hold influence now without using it to settle old scores. What others meant for harm, God has been quietly weaving into rescue. That's a rare kind of healing.",
+      "scripture": { "text": "You intended to harm me, but God intended it for good.", "reference": "Genesis 50:20" }
+    },
+    "naomi": {
+      "name": "Naomi (Bitter, Then Renamed)",
+      "emoji": "🌅",
+      "traits": ["Honest", "Tender", "Renewed"],
+      "description": "You've known loss heavy enough that you once would have told people to call you by a different name, a bitter one. But the empty season wasn't your ending. God has a way of filling back what grief hollowed out, and your tenderness toward other hurting people is proof the bitterness didn't win.",
+      "scripture": { "text": "Praise be to the Lord, who this day has not left you without a guardian-redeemer.", "reference": "Ruth 4:14" }
+    },
+    "bleeding-woman": {
+      "name": "The Bleeding Woman (Suffering, Then Touched)",
+      "emoji": "🩸",
+      "traits": ["Desperate", "Believing", "Brave"],
+      "description": "You've spent years on a suffering that drained everything and changed nothing. But you kept reaching. When you finally touched the edge of His cloak, He didn't recoil or scold you. He called you daughter and sent you off in peace. Your healing was always more than physical, and so is His tenderness toward you.",
+      "scripture": { "text": "Daughter, your faith has healed you. Go in peace.", "reference": "Mark 5:34" }
+    },
+    "mephibosheth": {
+      "name": "Mephibosheth (Crippled, Then Seated at the Table)",
+      "emoji": "🪑",
+      "traits": ["Humble", "Hopeful", "Restored"],
+      "description": "Something happened to you that you never chose, and it left you sure you'd been written off. Then a King sought you out, not to punish you, but to show you kindness. He gave you a permanent seat at His own table and called you family. Where you were wounded, you've been welcomed home.",
+      "scripture": { "text": "Don't be afraid, for I will surely show you kindness.", "reference": "2 Samuel 9:7" }
+    },
+    "paul": {
+      "name": "Paul (The Persecutor Made Apostle)",
+      "emoji": "⚡",
+      "traits": ["Transformed", "Bold", "Grateful"],
+      "description": "You carry a past you're not proud of, a chapter where you caused real harm. But grace reached all the way down and turned you completely around. Now your story is the loudest argument you have that no one is too far gone. You don't hide the before. You let it show how big the mercy was.",
+      "scripture": { "text": "Christ Jesus came into the world to save sinners, of whom I am the worst.", "reference": "1 Timothy 1:15" }
+    },
+    "hagar": {
+      "name": "Hagar (Cast Out, Seen by God)",
+      "emoji": "🏜️",
+      "traits": ["Resilient", "Seen", "Brave"],
+      "description": "You've been used and then sent away, left in a wilderness with no map and no people. But out there, where you were certain no one was watching, God met you and called you by name. You learned the truth that carries you still: He is the God who sees. You were never as alone as it felt.",
+      "scripture": { "text": "You are the God who sees me.", "reference": "Genesis 16:13" }
+    }
+  }
+}

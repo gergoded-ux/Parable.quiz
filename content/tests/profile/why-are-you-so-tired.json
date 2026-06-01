@@ -1,0 +1,116 @@
+{
+  "slug": "why-are-you-so-tired",
+  "title": "Why Are You So Tired?",
+  "subtitle": "Not all tired is the same. Find out what's actually draining you.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": ["soul-tired", "people-pleasing-drain", "hustle-burnout", "carrying-others-weight", "decision-fatigue", "physically-run-down"],
+  "questions": [
+    {
+      "text": "You sleep a full night and still wake up tired. Why do you think that is?",
+      "options": [
+        { "text": "Because the tiredness is in my soul, not my body.", "weights": { "soul-tired": 3 } },
+        { "text": "Because I'm running on caffeine and willpower.", "weights": { "hustle-burnout": 3 } },
+        { "text": "Because my body is genuinely run-down and depleted.", "weights": { "physically-run-down": 3 } },
+        { "text": "Because my mind never actually shuts off.", "weights": { "decision-fatigue": 2, "soul-tired": 1 } }
+      ]
+    },
+    {
+      "text": "What drains you the fastest in a normal week?",
+      "options": [
+        { "text": "Saying yes to things I didn't want to do.", "weights": { "people-pleasing-drain": 3 } },
+        { "text": "The endless grind of always being productive.", "weights": { "hustle-burnout": 3 } },
+        { "text": "Holding everyone else's problems and emotions.", "weights": { "carrying-others-weight": 3 } },
+        { "text": "Making a hundred small decisions all day long.", "weights": { "decision-fatigue": 3 } }
+      ]
+    },
+    {
+      "text": "When you finally get a quiet moment, you feel...",
+      "options": [
+        { "text": "Empty, like something deeper than rest is missing.", "weights": { "soul-tired": 3 } },
+        { "text": "Guilty for not being productive.", "weights": { "hustle-burnout": 3 } },
+        { "text": "Relieved no one needs anything from me for a second.", "weights": { "carrying-others-weight": 3 } },
+        { "text": "Too wiped out to even decide what to do with it.", "weights": { "decision-fatigue": 3 } }
+      ]
+    },
+    {
+      "text": "Which sentence fits you best right now?",
+      "options": [
+        { "text": "My quiet times feel flat and God feels far.", "weights": { "soul-tired": 3 } },
+        { "text": "I can't say no, so I'm stretched paper-thin.", "weights": { "people-pleasing-drain": 3 } },
+        { "text": "My worth feels tied to how much I get done.", "weights": { "hustle-burnout": 3 } },
+        { "text": "I'm the one everyone leans on, and it's heavy.", "weights": { "carrying-others-weight": 3 } }
+      ]
+    },
+    {
+      "text": "What's the first thing to go when you're exhausted?",
+      "options": [
+        { "text": "My connection with God. I just go through the motions.", "weights": { "soul-tired": 3 } },
+        { "text": "My boundaries. I keep overcommitting.", "weights": { "people-pleasing-drain": 3 } },
+        { "text": "My rest. I push through instead of stopping.", "weights": { "hustle-burnout": 3 } },
+        { "text": "My patience. Even small choices feel impossible.", "weights": { "decision-fatigue": 3 } }
+      ]
+    },
+    {
+      "text": "Why do you keep going even when you're depleted?",
+      "options": [
+        { "text": "I'm afraid people will be disappointed in me.", "weights": { "people-pleasing-drain": 3 } },
+        { "text": "Slowing down feels like falling behind.", "weights": { "hustle-burnout": 3 } },
+        { "text": "If I stop carrying them, who will?", "weights": { "carrying-others-weight": 3 } },
+        { "text": "Honestly, my body is just barely keeping up.", "weights": { "physically-run-down": 3 } }
+      ]
+    },
+    {
+      "text": "What kind of rest do you think you actually need?",
+      "options": [
+        { "text": "The kind that fills my soul back up, not just my body.", "weights": { "soul-tired": 3 } },
+        { "text": "Permission to say no without feeling guilty.", "weights": { "people-pleasing-drain": 3 } },
+        { "text": "To stop earning my worth and just be.", "weights": { "hustle-burnout": 3 } },
+        { "text": "Someone to carry me for once.", "weights": { "carrying-others-weight": 3 } }
+      ]
+    },
+    {
+      "text": "If you could hand God one sentence tonight, it'd be...",
+      "options": [
+        { "text": "I'm running on empty. Fill me back up.", "weights": { "soul-tired": 3 } },
+        { "text": "Help me stop performing for everyone's approval.", "weights": { "people-pleasing-drain": 3 } },
+        { "text": "Teach me that my value isn't my output.", "weights": { "hustle-burnout": 3 } },
+        { "text": "I'm worn out in my body. Give me real rest.", "weights": { "physically-run-down": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "soul-tired": {
+      "name": "Soul Tired",
+      "description": "This isn't the kind of tired sleep can fix. Your soul is running on empty, and even your time with God feels flat and far away. That deep depletion is real, and it needs more than a nap. It needs the One who restores. Come to Jesus not to perform but just to be refilled. He restores weary souls, slowly and gently, and the dryness you feel right now is not the end of the story.",
+      "scripture": { "text": "He restoreth my soul: he leadeth me in the paths of righteousness for his name's sake.", "reference": "Psalm 23:3" }
+    },
+    "people-pleasing-drain": {
+      "name": "People-Pleasing Drain",
+      "description": "You're exhausted because you keep saying yes when you mean no, stretching yourself thin to keep everyone happy. The fear of disappointing people is running you into the ground. But you were not made to be everyone's everything, and you don't have to earn your worth by overextending. God already approves of you, fully. You're allowed to set a boundary, to say no, to rest. Living for His approval, not theirs, is where the freedom starts.",
+      "scripture": { "text": "For do I now persuade men, or God? or do I seek to please men? for if I yet pleased men, I should not be the servant of Christ.", "reference": "Galatians 1:10" }
+    },
+    "hustle-burnout": {
+      "name": "Hustle Burnout",
+      "description": "You've tied your worth to your output, and the grind never lets up because there's always more to do. Slowing down feels like failing. But here's the lie under the exhaustion: you are not valuable because of what you produce. You're valuable because you're His. Rest isn't laziness. God Himself rested, and He built rest into the rhythm of how we're meant to live. You can stop earning and start receiving. Your worth was never on the line.",
+      "scripture": { "text": "It is vain for you to rise up early, to sit up late, to eat the bread of sorrows: for so he giveth his beloved sleep.", "reference": "Psalm 127:2" }
+    },
+    "carrying-others-weight": {
+      "name": "Carrying Others' Weight",
+      "description": "You're the strong one, the one everyone leans on, and it's wearing you down to hold everybody's burdens at once. Caring for people is a gift, but you were never meant to be their savior. There's a difference between loving people and carrying what only God can hold. Let some of it go to Him. Cast your own cares on the One who actually cares for you, and let yourself be held for a change instead of always doing the holding.",
+      "scripture": { "text": "Casting all your care upon him; for he careth for you.", "reference": "1 Peter 5:7" }
+    },
+    "decision-fatigue": {
+      "name": "Decision Fatigue",
+      "description": "Your tiredness comes from the sheer number of choices you make all day, until even tiny decisions feel like too much. Your mind is overloaded, and that's a real and draining kind of exhaustion. You don't have to figure everything out on your own steam. God offers to direct your steps and lighten the mental load. Hand Him the decisions, one at a time, and let Him be the wisdom you keep running out of. He gives clarity to the overwhelmed.",
+      "scripture": { "text": "Trust in the Lord with all thine heart; and lean not unto thine own understanding. In all thy ways acknowledge him, and he shall direct thy paths.", "reference": "Proverbs 3:5-6" }
+    },
+    "physically-run-down": {
+      "name": "Just Physically Run-Down",
+      "description": "Sometimes tired is simply tired. Your body is depleted, and what you need most right now is real, ordinary rest: sleep, food, water, a slower pace. That's not a spiritual failure. God made your body with limits on purpose, and honoring them is part of trusting Him. Even Jesus slept, ate, and withdrew to rest. Give your body what it's asking for without guilt. Caring for the body He gave you is a quiet act of faith.",
+      "scripture": { "text": "Come ye yourselves apart into a desert place, and rest a while.", "reference": "Mark 6:31" }
+    }
+  }
+}

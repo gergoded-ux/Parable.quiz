@@ -1,0 +1,126 @@
+{
+  "slug": "do-you-have-high-functioning-anxiety",
+  "title": "Do You Have High-Functioning Anxiety?",
+  "subtitle": "You look completely fine on the outside. Let's talk about the part no one sees.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "hidden-high-functioning",
+    "quiet-overwhelm",
+    "productive-panic",
+    "capable-mask",
+    "mostly-at-peace"
+  ],
+  "questions": [
+    {
+      "text": "It's late and the house is finally quiet. What's your mind doing?",
+      "options": [
+        { "text": "Running tomorrow's worst-case scenarios on a loop while my body lies still.", "weights": { "hidden-high-functioning": 3 } },
+        { "text": "Feeling a heavy, hard-to-name pressure I can't quite shake.", "weights": { "quiet-overwhelm": 3 } },
+        { "text": "Already rehearsing my to-do list so I can outrun the dread.", "weights": { "productive-panic": 3 } },
+        { "text": "Winding down. The day's noise actually settles.", "weights": { "mostly-at-peace": 3 } }
+      ]
+    },
+    {
+      "text": "When someone asks how you're doing, what comes out?",
+      "options": [
+        { "text": "Good, busy, you know how it is. Smile, deflect, move on.", "weights": { "capable-mask": 3 } },
+        { "text": "Fine, while a storm I'd never mention runs underneath.", "weights": { "hidden-high-functioning": 3 } },
+        { "text": "Honestly a little stretched, but I'm getting it all done.", "weights": { "productive-panic": 2, "quiet-overwhelm": 1 } },
+        { "text": "Pretty good, and I mean it most days.", "weights": { "mostly-at-peace": 3 } }
+      ]
+    },
+    {
+      "text": "How do the people around you tend to see you?",
+      "options": [
+        { "text": "As the dependable one who has it all handled.", "weights": { "capable-mask": 3 } },
+        { "text": "As calm and capable, with no idea what's churning inside.", "weights": { "hidden-high-functioning": 3 } },
+        { "text": "As a machine who never stops producing.", "weights": { "productive-panic": 3 } },
+        { "text": "As someone who's genuinely doing okay.", "weights": { "mostly-at-peace": 3 } }
+      ]
+    },
+    {
+      "text": "What does rest feel like for you?",
+      "options": [
+        { "text": "Guilty. Sitting still makes the anxiety louder, so I stay busy.", "weights": { "productive-panic": 3 } },
+        { "text": "Hard to reach. Even off, my mind keeps scanning for threats.", "weights": { "hidden-high-functioning": 3 } },
+        { "text": "Like a weight I carry into it. I rest but never feel restored.", "weights": { "quiet-overwhelm": 3 } },
+        { "text": "Real. I can actually unplug and refill.", "weights": { "mostly-at-peace": 3 } }
+      ]
+    },
+    {
+      "text": "Pick the line that lands a little too close to home:",
+      "options": [
+        { "text": "If I stop performing, everyone will see I'm barely holding it together.", "weights": { "capable-mask": 3 } },
+        { "text": "I look the most put-together when I'm secretly the most afraid.", "weights": { "hidden-high-functioning": 3 } },
+        { "text": "I keep moving because slowing down lets the panic catch up.", "weights": { "productive-panic": 3 } },
+        { "text": "I'm tired in a way that sleep doesn't seem to fix.", "weights": { "quiet-overwhelm": 3 } }
+      ]
+    },
+    {
+      "text": "Where does the stress show up in your body?",
+      "options": [
+        { "text": "A clenched jaw, a racing heart, all hidden behind a steady face.", "weights": { "hidden-high-functioning": 3 } },
+        { "text": "A constant low hum of tension I've stopped even noticing.", "weights": { "quiet-overwhelm": 3 } },
+        { "text": "Restless energy. I literally can't sit down for long.", "weights": { "productive-panic": 3 } },
+        { "text": "Not much lately. My body feels mostly at ease.", "weights": { "mostly-at-peace": 3 } }
+      ]
+    },
+    {
+      "text": "Your inbox has a problem in it. First reaction?",
+      "options": [
+        { "text": "Instant adrenaline, and I attack it before anyone notices I'm rattled.", "weights": { "productive-panic": 2, "hidden-high-functioning": 1 } },
+        { "text": "Calm face, spinning insides. No one would guess.", "weights": { "capable-mask": 3 } },
+        { "text": "It piles onto an already heavy load and I feel myself sink.", "weights": { "quiet-overwhelm": 3 } },
+        { "text": "I handle it and let it go. It's just a task.", "weights": { "mostly-at-peace": 3 } }
+      ]
+    },
+    {
+      "text": "What's your relationship with control?",
+      "options": [
+        { "text": "I over-prepare for everything so the fear never gets to surprise me.", "weights": { "hidden-high-functioning": 3 } },
+        { "text": "I stay in motion. Productivity is how I keep the panic at bay.", "weights": { "productive-panic": 3 } },
+        { "text": "I hold it all so tightly that I'm quietly exhausted.", "weights": { "quiet-overwhelm": 2, "capable-mask": 1 } },
+        { "text": "I've learned to hold things loosely and trust God with the rest.", "weights": { "mostly-at-peace": 3 } }
+      ]
+    },
+    {
+      "text": "Deep down, what do you most want someone to know?",
+      "options": [
+        { "text": "I'm not as fine as I look.", "weights": { "hidden-high-functioning": 3 } },
+        { "text": "I'm so tired of carrying this invisible weight.", "weights": { "quiet-overwhelm": 3 } },
+        { "text": "I don't actually know how to stop.", "weights": { "productive-panic": 3 } },
+        { "text": "Behind the competent version of me is someone who's scared.", "weights": { "capable-mask": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "hidden-high-functioning": {
+      "name": "Hidden High-Functioning Anxiety",
+      "description": "From the outside you look like you have it together, and that's exactly the problem. Underneath the calm, you're running worst-case scenarios and bracing for things that haven't happened. You don't have to keep this hidden. The God who sees you isn't impressed by the polished version. He just wants the real one, and He can carry what you've been carrying alone.",
+      "scripture": { "text": "When anxiety was great within me, your consolation brought me joy.", "reference": "Psalm 94:19" }
+    },
+    "quiet-overwhelm": {
+      "name": "Quiet Overwhelm",
+      "description": "You're not in a loud crisis. You're in a slow, heavy one that you've gotten very good at hiding. The tiredness sleep won't fix, the weight you can't name: that's a soul asking for rest, not just a body. Jesus invites the weary and burdened to come to Him, and that invitation has your name on it today.",
+      "scripture": { "text": "Come to me, all you who are weary and burdened, and I will give you rest.", "reference": "Matthew 11:28" }
+    },
+    "productive-panic": {
+      "name": "Productive Panic",
+      "description": "You keep moving because stopping lets the fear catch up, so you've turned anxiety into output. The world calls you driven. Your nervous system calls it survival. You don't have to earn your way to peace by doing more. There's a kind of rest God gives that isn't a reward for productivity. It's a gift, and you're allowed to receive it.",
+      "scripture": { "text": "It is in vain that you rise up early and go late to rest, eating the bread of anxious toil; for he gives to his beloved sleep.", "reference": "Psalm 127:2" }
+    },
+    "capable-mask": {
+      "name": "The Capable Mask",
+      "description": "Everyone leans on you as the one who's got it handled, and somewhere along the way you forgot you were allowed to need help too. The mask is heavy, and you don't have to wear it with God. He already sees behind it, and He loves who's back there. You can set it down without losing anything that actually matters.",
+      "scripture": { "text": "Cast your cares on the Lord and he will sustain you.", "reference": "Psalm 55:22" }
+    },
+    "mostly-at-peace": {
+      "name": "Mostly At Peace",
+      "description": "Anxiety isn't running the show for you right now, and that's worth pausing to be grateful for. You can feel the stress and still hand it over instead of letting it drive. Keep that rhythm of bringing things to God before they pile up. And keep an eye out for the people around you wearing the calm mask. You might be exactly the safe person they need.",
+      "scripture": { "text": "You will keep in perfect peace those whose minds are steadfast, because they trust in you.", "reference": "Isaiah 26:3" }
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "slug": "whats-your-marriage-conflict-style",
+  "title": "What's Your Marriage Conflict Style?",
+  "subtitle": "Take it together. You might recognize the fight you keep having.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": ["stonewaller", "pursuer", "peacemaker", "score-keeper", "avoider"],
+  "questions": [
+    {
+      "text": "The tension is rising. What do you do?",
+      "options": [
+        { "text": "I shut down and go quiet. I cannot talk when I am flooded.", "weights": { "stonewaller": 2 } },
+        { "text": "I press in hard. I need us to resolve this right now.", "weights": { "pursuer": 2 } },
+        { "text": "I try to calm things down and find the middle ground fast.", "weights": { "peacemaker": 2 } },
+        { "text": "I bring up the last three times this happened.", "weights": { "score-keeper": 2 } }
+      ]
+    },
+    {
+      "text": "When your spouse is upset with you, your gut reaction is...",
+      "options": [
+        { "text": "To pull back and put up a wall until it blows over.", "weights": { "stonewaller": 2 } },
+        { "text": "To chase them down. I cannot stand the disconnection.", "weights": { "pursuer": 2 } },
+        { "text": "To smooth it over so the peace comes back quickly.", "weights": { "peacemaker": 2 } },
+        { "text": "To change the subject and pretend nothing happened.", "weights": { "avoider": 2 } }
+      ]
+    },
+    {
+      "text": "What does your spouse most often accuse you of in a fight?",
+      "options": [
+        { "text": "Going cold and refusing to engage.", "weights": { "stonewaller": 2 } },
+        { "text": "Pushing too hard and not letting it rest.", "weights": { "pursuer": 2 } },
+        { "text": "Caving too fast just to stop the conflict.", "weights": { "peacemaker": 2 } },
+        { "text": "Keeping a running list of everything they have done wrong.", "weights": { "score-keeper": 2 } }
+      ]
+    },
+    {
+      "text": "After a hard argument, what is your move?",
+      "options": [
+        { "text": "I need space and silence before I can come back.", "weights": { "stonewaller": 2 } },
+        { "text": "I want to keep talking until we are fully okay again.", "weights": { "pursuer": 2 } },
+        { "text": "I apologize quickly, even if I am not sure I was wrong.", "weights": { "peacemaker": 2 } },
+        { "text": "I act fine on the surface but quietly stay annoyed.", "weights": { "avoider": 2 } }
+      ]
+    },
+    {
+      "text": "Which thought sounds most like you mid-conflict?",
+      "options": [
+        { "text": "If I say anything right now it will only get worse, so I will not.", "weights": { "stonewaller": 2 } },
+        { "text": "We are not leaving this room until we figure it out.", "weights": { "pursuer": 2 } },
+        { "text": "Let's just keep the peace. It is not worth the fight.", "weights": { "peacemaker": 2 } },
+        { "text": "This is exactly what they did last month, and the month before.", "weights": { "score-keeper": 2 } }
+      ]
+    },
+    {
+      "text": "What is your honest pattern with hard conversations?",
+      "options": [
+        { "text": "I withdraw and hope it sorts itself out.", "weights": { "stonewaller": 2, "avoider": 1 } },
+        { "text": "I bring them up immediately, sometimes too intensely.", "weights": { "pursuer": 2 } },
+        { "text": "I water them down so no one gets too upset.", "weights": { "peacemaker": 2 } },
+        { "text": "I dodge them entirely until they pile up.", "weights": { "avoider": 2 } }
+      ]
+    },
+    {
+      "text": "What do you resent most about how you two fight?",
+      "options": [
+        { "text": "That I freeze and cannot get my words out.", "weights": { "stonewaller": 2 } },
+        { "text": "That I always seem to be the one chasing.", "weights": { "pursuer": 2 } },
+        { "text": "That I give in so much I lose track of what I actually need.", "weights": { "peacemaker": 2 } },
+        { "text": "That nothing ever really gets dealt with.", "weights": { "avoider": 2 } }
+      ]
+    },
+    {
+      "text": "When you imagine handling conflict in a healthier way, you...",
+      "options": [
+        { "text": "Stay present instead of shutting the door.", "weights": { "stonewaller": 2 } },
+        { "text": "Soften my approach and give them room to breathe.", "weights": { "pursuer": 2 } },
+        { "text": "Speak up for my own needs, not just keep the peace.", "weights": { "peacemaker": 2 } },
+        { "text": "Let go of the scorecard and forgive for real.", "weights": { "score-keeper": 2 } }
+      ]
+    },
+    {
+      "text": "What do you most want for your marriage on the other side of conflict?",
+      "options": [
+        { "text": "To stay connected even when it is hard, instead of disappearing.", "weights": { "stonewaller": 2 } },
+        { "text": "To trust that one fight will not break us, so I can ease off.", "weights": { "pursuer": 2 } },
+        { "text": "Real resolution, not just surface calm.", "weights": { "peacemaker": 2, "avoider": 1 } },
+        { "text": "A clean slate, where old offenses stop coming back up.", "weights": { "score-keeper": 2 } }
+      ]
+    }
+  ],
+  "results": {
+    "stonewaller": {
+      "name": "The Stonewaller",
+      "description": "When the heat rises, you go quiet and pull behind a wall. It is usually self-protection, not coldness, but your spouse often reads it as rejection. The goal is not to fake calm. It is to stay in the room. Try naming that you need a short break, then actually come back. Connection survives conflict when you do not disappear.",
+      "scripture": { "text": "Let every man be swift to hear, slow to speak, slow to wrath.", "reference": "James 1:19" }
+    },
+    "pursuer": {
+      "name": "The Pursuer",
+      "description": "Disconnection feels unbearable to you, so you press in to fix it now. Your heart is for closeness, which is good, but the intensity can flood your spouse and push them further away. Give them a little room to breathe. You can want resolution and still let it wait an hour. Pursuing softly will get you further than pursuing hard.",
+      "scripture": { "text": "A soft answer turneth away wrath: but grievous words stir up anger.", "reference": "Proverbs 15:1" }
+    },
+    "peacemaker": {
+      "name": "The Peacemaker",
+      "description": "You hate tension and you are quick to smooth things over, sometimes before anything is truly resolved. Keeping peace is a gift, but caving too fast buries needs that will resurface later. Real peace is not the absence of conflict. It is honesty handled with love. Let yourself speak up, even when it makes the moment harder.",
+      "scripture": { "text": "Speaking the truth in love, may grow up into him in all things.", "reference": "Ephesians 4:15" }
+    },
+    "score-keeper": {
+      "name": "The Score-Keeper",
+      "description": "You remember the offenses, and in a fight the old list comes out. The hurt behind it is real, but the running tally keeps you stuck and keeps your spouse defensive. Love does not file evidence. Forgiveness means letting the past stop voting in today's argument. Deal with one thing at a time, and let the rest go.",
+      "scripture": { "text": "Charity suffereth long, and is kind; charity envieth not; thinketh no evil.", "reference": "1 Corinthians 13:4-5" }
+    },
+    "avoider": {
+      "name": "The Avoider",
+      "description": "You sidestep the hard talks, hoping problems will quietly fade. They rarely do. They just pile up underground until they erupt. Avoiding conflict feels safer in the moment but slowly creates distance. One honest conversation now beats a stack of unspoken ones later. You can do hard things with the person you love.",
+      "scripture": { "text": "Let not the sun go down upon your wrath.", "reference": "Ephesians 4:26" }
+    }
+  }
+}

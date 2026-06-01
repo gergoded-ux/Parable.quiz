@@ -1,0 +1,126 @@
+{
+  "slug": "are-you-in-a-dark-night-of-the-soul",
+  "title": "Are You in a Dark Night of the Soul?",
+  "subtitle": "A holy dark night, plain burnout, and something a doctor should see can all feel the same. Let's tell them apart.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "classic-dark-night",
+    "spiritual-burnout",
+    "depression-mask",
+    "dry-season",
+    "conviction-avoiding"
+  ],
+  "questions": [
+    {
+      "text": "How would you describe what's happening with God right now?",
+      "options": [
+        { "text": "He feels hidden, yet I still ache for Him underneath it all.", "weights": { "classic-dark-night": 3 } },
+        { "text": "I gave and gave in ministry until my tank hit zero.", "weights": { "spiritual-burnout": 3 } },
+        { "text": "It's not just God. Everything feels gray and heavy.", "weights": { "depression-mask": 3 } },
+        { "text": "Just a quiet stretch. Normal ebb and flow, I think.", "weights": { "dry-season": 3 } }
+      ]
+    },
+    {
+      "text": "What does your desire for God look like these days?",
+      "options": [
+        { "text": "Stronger, actually, even though I can't feel His presence.", "weights": { "classic-dark-night": 3 } },
+        { "text": "Buried under exhaustion. I'm too fried to want anything.", "weights": { "spiritual-burnout": 3 } },
+        { "text": "Flat, like my ability to want anything got switched off.", "weights": { "depression-mask": 3 } },
+        { "text": "Still there, just simmering on low for a season.", "weights": { "dry-season": 3 } }
+      ]
+    },
+    {
+      "text": "Be honest about your inner life. What's true?",
+      "options": [
+        { "text": "I'm being drawn deeper, even though it hurts and confuses me.", "weights": { "classic-dark-night": 3 } },
+        { "text": "I'm running on empty from doing too much for too long.", "weights": { "spiritual-burnout": 3 } },
+        { "text": "There's something I'm dodging that I don't want to face.", "weights": { "conviction-avoiding": 3 } },
+        { "text": "Nothing dramatic. Just a low, persistent quiet.", "weights": { "dry-season": 2 } }
+      ]
+    },
+    {
+      "text": "Beyond your faith, how's the rest of life feeling?",
+      "options": [
+        { "text": "Mostly okay. The dryness is specifically about God.", "weights": { "classic-dark-night": 2 } },
+        { "text": "I'm cynical and depleted, especially about church work.", "weights": { "spiritual-burnout": 3 } },
+        { "text": "Sleep, appetite, energy, and joy all feel off.", "weights": { "depression-mask": 3 } },
+        { "text": "Pretty normal, honestly. This is just a slow patch.", "weights": { "dry-season": 3 } }
+      ]
+    },
+    {
+      "text": "When you try to pray or read Scripture, what happens?",
+      "options": [
+        { "text": "It's dry, but I keep at it because I want Him, not a feeling.", "weights": { "classic-dark-night": 3 } },
+        { "text": "I can't. The thought of it just adds to my exhaustion.", "weights": { "spiritual-burnout": 3 } },
+        { "text": "I can't concentrate or feel anything at all.", "weights": { "depression-mask": 3 } },
+        { "text": "I avoid it, because deep down I know why I'm distant.", "weights": { "conviction-avoiding": 3 } }
+      ]
+    },
+    {
+      "text": "What pulled you into this season, as best you can tell?",
+      "options": [
+        { "text": "Nothing obvious. It came over me like a slow eclipse.", "weights": { "classic-dark-night": 3 } },
+        { "text": "Years of overextending myself in service to others.", "weights": { "spiritual-burnout": 3 } },
+        { "text": "Hard to say. The heaviness predates anything spiritual.", "weights": { "depression-mask": 3 } },
+        { "text": "A choice I keep making that I won't quite let go of.", "weights": { "conviction-avoiding": 3 } }
+      ]
+    },
+    {
+      "text": "Which statement rings truest for you?",
+      "options": [
+        { "text": "\"God feels far, but I've never wanted Him more.\"", "weights": { "classic-dark-night": 3 } },
+        { "text": "\"I'm not far from God, I'm just completely worn out.\"", "weights": { "spiritual-burnout": 3 } },
+        { "text": "\"This feels bigger than a spiritual problem.\"", "weights": { "depression-mask": 3 } },
+        { "text": "\"There's a door I keep closing on Him.\"", "weights": { "conviction-avoiding": 3 } }
+      ]
+    },
+    {
+      "text": "How long has this been going on, and how steady is it?",
+      "options": [
+        { "text": "A long, quiet stretch that's slowly purifying something in me.", "weights": { "classic-dark-night": 3 } },
+        { "text": "Since I overcommitted. It lifts a bit when I finally rest.", "weights": { "spiritual-burnout": 3 } },
+        { "text": "Persistent and crushing, most days, for a long time.", "weights": { "depression-mask": 3 } },
+        { "text": "Comes and goes. It's never felt alarming.", "weights": { "dry-season": 3 } }
+      ]
+    },
+    {
+      "text": "What feels like the right next step for you?",
+      "options": [
+        { "text": "Keep showing up in the dark and trust He's still working.", "weights": { "classic-dark-night": 3 } },
+        { "text": "Actually rest, set limits, and let myself recover.", "weights": { "spiritual-burnout": 3 } },
+        { "text": "Talk to a doctor or counselor. This needs real care.", "weights": { "depression-mask": 3 } },
+        { "text": "Stop avoiding the thing and bring it honestly to God.", "weights": { "conviction-avoiding": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "classic-dark-night": {
+      "name": "Yes, the Classic Dark Night",
+      "description": "This has the marks of a true dark night of the soul. God feels absent, the old warmth is gone, and yet your hunger for Him has only grown. That's the telling sign. He hasn't left you. He's weaning you off the feelings so you'll cling to Him for who He is, not for the spiritual high. This is painful, holy work, and it doesn't mean you've failed. Keep walking toward Him in the dark. He is closer than He feels.",
+      "scripture": { "text": "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me.", "reference": "Psalm 23:4" }
+    },
+    "spiritual-burnout": {
+      "name": "Spiritual Burnout (Not the Same)",
+      "description": "What you're feeling reads less like a dark night and more like burnout, and that's an important difference. You're not far from God. You're just completely spent from pouring out without refilling. Even Elijah, fresh off a mountaintop victory, collapsed and asked to die, and God's first response wasn't a rebuke. It was food, sleep, and gentleness. Treat yourself the same way. Rest is not a detour from faithfulness here. It's the path back.",
+      "scripture": { "text": "And as he lay and slept under a juniper tree, behold, then an angel touched him, and said unto him, Arise and eat.", "reference": "1 Kings 19:5" }
+    },
+    "depression-mask": {
+      "name": "Depression Wearing a Spiritual Mask",
+      "description": "Be gentle with yourself here, because this may be more than a spiritual season. When the heaviness reaches your sleep, your appetite, your energy, and your ability to feel anything at all, that often points to depression, and depression is not a sin or a lack of faith. It's something that deserves real care. Please talk to a doctor or counselor. Reaching for help is a faithful, brave act, and God meets you in the valley while you do.",
+      "scripture": { "text": "The Lord is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.", "reference": "Psalm 34:18" }
+    },
+    "dry-season": {
+      "name": "A Dry Season (Normal)",
+      "description": "Good news: this looks like a normal dry stretch, not a crisis. Faith has seasons, just like everything else, and the quiet patches are part of the rhythm, not a sign something is broken. Your desire for God is still alive, just simmering low. Keep doing the simple, faithful things even when they feel flat, and don't read too much into the lull. The morning comes. Dry seasons end, and roots grow deeper while you wait.",
+      "scripture": { "text": "Weeping may endure for a night, but joy cometh in the morning.", "reference": "Psalm 30:5" }
+    },
+    "conviction-avoiding": {
+      "name": "Conviction You're Avoiding",
+      "description": "If you're honest, the distance you feel isn't really mysterious. There's something you keep closing the door on, and the static between you and God is connected to it. This isn't said to shame you. It's actually hopeful, because it means the fix is within reach. God isn't waiting to punish you. He's waiting to welcome you back the second you stop running. Bring Him the thing you've been avoiding. His mercy is right there on the other side of honesty.",
+      "scripture": { "text": "If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness.", "reference": "1 John 1:9" }
+    }
+  }
+}

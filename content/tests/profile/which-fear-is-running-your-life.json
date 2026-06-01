@@ -1,0 +1,138 @@
+{
+  "slug": "which-fear-is-running-your-life",
+  "title": "Which Fear Is Secretly Running Your Life?",
+  "subtitle": "You can feel something steering your choices from the back seat. Let's find out which fear it is.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "fear-of-failure",
+    "fear-of-rejection",
+    "fear-of-the-unknown",
+    "fear-of-losing-someone",
+    "fear-of-not-mattering",
+    "fear-of-death",
+    "fear-of-disappointing-god"
+  ],
+  "questions": [
+    {
+      "text": "When you lie awake at night, the worry that surfaces most is...",
+      "options": [
+        { "text": "That I'll try something big and fall flat.", "weights": { "fear-of-failure": 3 } },
+        { "text": "That people will pull away if they see the real me.", "weights": { "fear-of-rejection": 3 } },
+        { "text": "That I have no idea what's coming and can't control it.", "weights": { "fear-of-the-unknown": 3 } },
+        { "text": "That I'll lose someone I can't imagine living without.", "weights": { "fear-of-losing-someone": 3 } }
+      ]
+    },
+    {
+      "text": "What quietly drives a lot of your daily choices?",
+      "options": [
+        { "text": "Proving I'm capable so no one sees me struggle.", "weights": { "fear-of-failure": 3 } },
+        { "text": "Keeping people happy so they don't leave.", "weights": { "fear-of-rejection": 3 } },
+        { "text": "Making sure my life actually counts for something.", "weights": { "fear-of-not-mattering": 3 } },
+        { "text": "Staying on God's good side so He's not let down.", "weights": { "fear-of-disappointing-god": 3 } }
+      ]
+    },
+    {
+      "text": "Which scenario makes your stomach drop the fastest?",
+      "options": [
+        { "text": "Big public mistake everyone witnesses.", "weights": { "fear-of-failure": 3 } },
+        { "text": "Being left out, dropped, or replaced.", "weights": { "fear-of-rejection": 3 } },
+        { "text": "A sudden change that flips my whole life over.", "weights": { "fear-of-the-unknown": 3 } },
+        { "text": "A phone call with terrible news about someone I love.", "weights": { "fear-of-losing-someone": 3 } }
+      ]
+    },
+    {
+      "text": "When you picture the end of your life, the worst thought is...",
+      "options": [
+        { "text": "That I never really did anything that mattered.", "weights": { "fear-of-not-mattering": 3 } },
+        { "text": "The actual fact of dying, and what's on the other side.", "weights": { "fear-of-death": 3 } },
+        { "text": "That I let God down with how I spent it.", "weights": { "fear-of-disappointing-god": 3 } },
+        { "text": "That I'll have wasted my chances by playing it too safe.", "weights": { "fear-of-failure": 2 } }
+      ]
+    },
+    {
+      "text": "How do you usually handle a big decision?",
+      "options": [
+        { "text": "Overplan it to death so nothing can go wrong.", "weights": { "fear-of-failure": 2, "fear-of-the-unknown": 1 } },
+        { "text": "Run it past everyone, terrified of upsetting people.", "weights": { "fear-of-rejection": 3 } },
+        { "text": "Freeze, because I can't predict how it'll turn out.", "weights": { "fear-of-the-unknown": 3 } },
+        { "text": "Agonize over whether it's what God wants from me.", "weights": { "fear-of-disappointing-god": 2 } }
+      ]
+    },
+    {
+      "text": "Which compliment would actually reach you the deepest?",
+      "options": [
+        { "text": "\"You did that so well.\"", "weights": { "fear-of-failure": 3 } },
+        { "text": "\"I'm so glad you're in my life.\"", "weights": { "fear-of-rejection": 3 } },
+        { "text": "\"Your life has made a real difference.\"", "weights": { "fear-of-not-mattering": 3 } },
+        { "text": "\"God is so pleased with you.\"", "weights": { "fear-of-disappointing-god": 3 } }
+      ]
+    },
+    {
+      "text": "When life feels uncertain, your body's response is to...",
+      "options": [
+        { "text": "Grip tighter and try to manage every variable.", "weights": { "fear-of-the-unknown": 3 } },
+        { "text": "Hold my people closer, afraid of losing them.", "weights": { "fear-of-losing-someone": 3 } },
+        { "text": "Spiral into thoughts about mortality and what's next.", "weights": { "fear-of-death": 3 } },
+        { "text": "Do more, achieve more, prove I'm not falling behind.", "weights": { "fear-of-not-mattering": 2 } }
+      ]
+    },
+    {
+      "text": "Be honest. The fear you'd least want to admit out loud is...",
+      "options": [
+        { "text": "That I'm a fraud who's going to be exposed.", "weights": { "fear-of-failure": 2, "fear-of-rejection": 1 } },
+        { "text": "That deep down, nobody would really miss me.", "weights": { "fear-of-not-mattering": 3 } },
+        { "text": "That I'm genuinely scared of dying.", "weights": { "fear-of-death": 3 } },
+        { "text": "That I'm not the Christian God hoped I'd be.", "weights": { "fear-of-disappointing-god": 3 } }
+      ]
+    },
+    {
+      "text": "If that fear suddenly lifted, the first thing you'd feel free to do is...",
+      "options": [
+        { "text": "Finally attempt the thing I've been too scared to fail at.", "weights": { "fear-of-failure": 3 } },
+        { "text": "Be fully myself without managing everyone's opinion.", "weights": { "fear-of-rejection": 3 } },
+        { "text": "Step into the unknown without needing the whole map.", "weights": { "fear-of-the-unknown": 3 } },
+        { "text": "Love my people freely instead of bracing to lose them.", "weights": { "fear-of-losing-someone": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "fear-of-failure": {
+      "name": "Fear of Failure",
+      "description": "A quiet terror of getting it wrong is steering more of your life than you'd like. It makes you overplan, over-prepare, and sometimes not try at all. Here's the freeing part: your worth was never riding on your performance, and God doesn't grade you the way you grade yourself. Even when you fall, His strength is what carries you, and a stumble is not the end of your story.",
+      "scripture": { "text": "For a just man falleth seven times, and riseth up again.", "reference": "Proverbs 24:16" }
+    },
+    "fear-of-rejection": {
+      "name": "Fear of Rejection",
+      "description": "Underneath a lot of your choices is a fear of being left, dropped, or found unwanted, so you manage how people see you. But you don't have to earn your place. The God who made you has already accepted you completely, and His acceptance doesn't waver with anyone's opinion of you. Even if everyone else walked away, He would still receive you and hold you close.",
+      "scripture": { "text": "When my father and my mother forsake me, then the Lord will take me up.", "reference": "Psalm 27:10" }
+    },
+    "fear-of-the-unknown": {
+      "name": "Fear of the Unknown",
+      "description": "Not being able to see what's ahead makes you grip the wheel hard, planning and bracing for every outcome. The truth is you were never actually in control. The good news is that Someone trustworthy is. God already stands in your future, and He has plans for you that are full of hope. You don't need the whole map. You just need to trust the One who's already there.",
+      "scripture": { "text": "For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil, to give you an expected end.", "reference": "Jeremiah 29:11" }
+    },
+    "fear-of-losing-someone": {
+      "name": "Fear of Losing Someone",
+      "description": "Your love runs deep, and so does the dread of one day losing the people who hold your heart. That fear is the shadow side of how much you care. You can't guarantee anyone will stay forever, but you can hold them with open hands instead of a clenched fist. God is near to you in every loss, and not even death can separate you from His love or undo what is His.",
+      "scripture": { "text": "For I am persuaded, that neither death, nor life... shall be able to separate us from the love of God.", "reference": "Romans 8:38-39" }
+    },
+    "fear-of-not-mattering": {
+      "name": "Fear of Not Mattering",
+      "description": "A part of you is quietly afraid that your life won't count, that you could vanish and barely leave a mark. So you strive to prove you're significant. But you don't have to manufacture meaning. You already matter immensely to God, who knows you by name and numbered the very hairs on your head. Your worth was settled before you ever achieved a thing.",
+      "scripture": { "text": "But the very hairs of your head are all numbered. Fear ye not therefore, ye are of more value than many sparrows.", "reference": "Matthew 10:30-31" }
+    },
+    "fear-of-death": {
+      "name": "Fear of Death",
+      "description": "The reality of dying, and the question of what comes after, sits closer to the surface for you than for most. It's a heavy thing to carry. Hear this: Jesus walked straight into death and came out the other side, and He holds the keys to it now. For those who are His, death is not a dead end. He has promised that the grave doesn't get the last word over you.",
+      "scripture": { "text": "I am he that liveth, and was dead; and, behold, I am alive for evermore... and have the keys of hell and of death.", "reference": "Revelation 1:18" }
+    },
+    "fear-of-disappointing-god": {
+      "name": "Fear of Disappointing God",
+      "description": "You carry a constant low-grade worry that you're letting God down, that He's a little frustrated with you. So you perform for a love you already have. But God is not a disappointed parent waiting for you to slip. He delights in you, sings over you, and your standing with Him rests on Christ, not on your flawless record. You can serve Him from love instead of fear.",
+      "scripture": { "text": "The Lord thy God in the midst of thee is mighty... he will rejoice over thee with joy.", "reference": "Zephaniah 3:17" }
+    }
+  }
+}

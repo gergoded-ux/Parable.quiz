@@ -1,0 +1,111 @@
+{
+  "slug": "whats-your-comparison-trap",
+  "title": "What's Your Comparison Trap?",
+  "subtitle": "Comparison steals joy in different ways. Let's name how it gets you.",
+  "lang": "en",
+  "category": "spiritual-profile",
+  "estimatedMinutes": 5,
+  "mode": "profile",
+  "dimensions": [
+    "highlight-reel-scroller",
+    "silent-scorekeeper",
+    "never-measures-up",
+    "secret-competitor"
+  ],
+  "questions": [
+    {
+      "text": "You open your phone, see someone's good news, and instantly...",
+      "options": [
+        { "text": "Feel my own life shrink next to their highlight reel.", "weights": { "highlight-reel-scroller": 3 } },
+        { "text": "Start a quiet tally of who's ahead and who's behind.", "weights": { "silent-scorekeeper": 3 } },
+        { "text": "Conclude, again, that I'm just not measuring up.", "weights": { "never-measures-up": 3 } },
+        { "text": "Feel the urge to one-up it somehow.", "weights": { "secret-competitor": 3 } }
+      ]
+    },
+    {
+      "text": "What's the story comparison tells you most often?",
+      "options": [
+        { "text": "Everyone's life is shinier than mine.", "weights": { "highlight-reel-scroller": 3 } },
+        { "text": "I'm keeping track, and right now I'm losing.", "weights": { "silent-scorekeeper": 3 } },
+        { "text": "I'll never be enough no matter what I do.", "weights": { "never-measures-up": 3 } },
+        { "text": "If they can do it, I have to do it better.", "weights": { "secret-competitor": 3 } }
+      ]
+    },
+    {
+      "text": "When a friend wins big, your honest first reaction is...",
+      "options": [
+        { "text": "Happy for them, then quietly deflated about myself.", "weights": { "highlight-reel-scroller": 2, "never-measures-up": 1 } },
+        { "text": "I update the mental scoreboard. They just pulled ahead.", "weights": { "silent-scorekeeper": 3 } },
+        { "text": "A wave of not-good-enough washes over me.", "weights": { "never-measures-up": 3 } },
+        { "text": "A spark of rivalry. I want to match or beat it.", "weights": { "secret-competitor": 3 } }
+      ]
+    },
+    {
+      "text": "Where does comparison hit you the hardest?",
+      "options": [
+        { "text": "On social media, scrolling other people's best moments.", "weights": { "highlight-reel-scroller": 3 } },
+        { "text": "In my head, ranking myself against everyone I know.", "weights": { "silent-scorekeeper": 3 } },
+        { "text": "In the mirror and the quiet, where I feel I fall short.", "weights": { "never-measures-up": 3 } },
+        { "text": "In any room where I sense I'm being outdone.", "weights": { "secret-competitor": 3 } }
+      ]
+    },
+    {
+      "text": "Comparison leaves you feeling mostly...",
+      "options": [
+        { "text": "Like my real life can't compete with everyone's edited one.", "weights": { "highlight-reel-scroller": 3 } },
+        { "text": "Either smug or inferior, depending on who I'm measuring against.", "weights": { "silent-scorekeeper": 3 } },
+        { "text": "Small. Like there's something fundamentally lacking in me.", "weights": { "never-measures-up": 3 } },
+        { "text": "Restless, like I always have to prove I'm the best.", "weights": { "secret-competitor": 3 } }
+      ]
+    },
+    {
+      "text": "Which thought sneaks up on you most?",
+      "options": [
+        { "text": "Why does everyone else seem to have it so together?", "weights": { "highlight-reel-scroller": 3 } },
+        { "text": "Am I doing better or worse than her right now?", "weights": { "silent-scorekeeper": 3 } },
+        { "text": "What's wrong with me that I can't keep up?", "weights": { "never-measures-up": 3 } },
+        { "text": "I can't let them get ahead of me.", "weights": { "secret-competitor": 3 } }
+      ]
+    },
+    {
+      "text": "What do you do after a comparison spiral?",
+      "options": [
+        { "text": "Keep scrolling, which somehow makes it worse.", "weights": { "highlight-reel-scroller": 3 } },
+        { "text": "Recalculate where I rank and feel briefly better or much worse.", "weights": { "silent-scorekeeper": 3 } },
+        { "text": "Sink into a familiar sense of inadequacy.", "weights": { "never-measures-up": 3 } },
+        { "text": "Channel it into hustle, determined to come out on top.", "weights": { "secret-competitor": 3 } }
+      ]
+    },
+    {
+      "text": "Deep down, what is comparison really costing you?",
+      "options": [
+        { "text": "My gratitude. I can't enjoy my own life while envying everyone's feed.", "weights": { "highlight-reel-scroller": 3 } },
+        { "text": "My peace. I never stop measuring and never feel settled.", "weights": { "silent-scorekeeper": 3 } },
+        { "text": "My worth. I keep believing I'm less than.", "weights": { "never-measures-up": 3 } },
+        { "text": "My contentment. Winning never feels like enough.", "weights": { "secret-competitor": 3 } }
+      ]
+    }
+  ],
+  "results": {
+    "highlight-reel-scroller": {
+      "name": "The Highlight-Reel Scroller",
+      "description": "You compare your behind-the-scenes to everyone else's best moments, and your real life never wins that fight. But you're measuring your full, messy, ordinary truth against a carefully edited highlight reel. That's not a fair comparison, and it was never meant to be. Your unfiltered life, the one God actually gave you, is the one worth being present for.",
+      "scripture": { "text": "Each one should test their own actions. Then they can take pride in themselves alone, without comparing themselves to someone else.", "reference": "Galatians 6:4" }
+    },
+    "silent-scorekeeper": {
+      "name": "The Silent Scorekeeper",
+      "description": "You run a quiet, constant scoreboard, ranking yourself against everyone around you. The problem is the game never ends, and you swing between smug and inferior depending on the day. God isn't keeping that tally. He doesn't grade you on a curve against anyone else. You can put the scorecard down and finally rest in being fully known and fully loved.",
+      "scripture": { "text": "Let us not become conceited, provoking and envying each other.", "reference": "Galatians 5:26" }
+    },
+    "never-measures-up": {
+      "name": "The Never-Measures-Up",
+      "description": "Comparison has convinced you that you're always falling short, that something in you is just lacking. But that voice is a liar. You were made on purpose, knit together with care, and your worth was settled long before you ever achieved anything. You don't have to measure up to anyone. You're already seen and valued exactly as you are.",
+      "scripture": { "text": "I praise you because I am fearfully and wonderfully made.", "reference": "Psalm 139:14" }
+    },
+    "secret-competitor": {
+      "name": "The Secret Competitor",
+      "description": "You turn other people's wins into a race, and you feel a quiet pull to come out on top. The drive isn't all bad, but when everything becomes a competition, even your victories leave you restless and wanting more. There's freedom in cheering others on instead of racing them. When you stop competing, you finally get to enjoy the life right in front of you.",
+      "scripture": { "text": "Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves.", "reference": "Philippians 2:3" }
+    }
+  }
+}
