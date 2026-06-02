@@ -52,10 +52,12 @@ export async function GET(req: Request, { params }: { params: Promise<{ slug: st
         <div style={{ position: 'absolute', left: PANEL.left, right: PANEL.right, top: PANEL.top, bottom: PANEL.bottom,
           background: CARD.panel.bg, border: `3px solid ${CARD.panel.border}`, borderRadius: 34,
           display: 'flex', flexDirection: 'column', alignItems: 'center', padding: '34px 40px 30px 70px' }}>
-          {/* star rail */}
-          <div style={{ position: 'absolute', left: 18, top: 120, display: 'flex', flexDirection: 'column', gap: 10 }}>
+          {/* star rail (SVG paths — Satori-safe, no font glyph needed) */}
+          <div style={{ position: 'absolute', left: 16, top: 120, display: 'flex', flexDirection: 'column', gap: 10 }}>
             {Array.from({ length: 5 }, (_, i) => (
-              <div key={i} style={{ fontSize: 34, color: starColor(i < d.rarity.stars), display: 'flex' }}>★</div>
+              <svg key={i} width={38} height={38} viewBox="0 0 24 24" style={{ display: 'flex' }}>
+                <path fill={starColor(i < d.rarity.stars)} d="M12 2l2.9 6.1 6.6.9-4.8 4.6 1.2 6.6L12 18.9 5.9 20.8l1.2-6.6L2.3 9l6.6-.9z" />
+              </svg>
             ))}
           </div>
           <div style={{ fontFamily: 'Cinzel', fontWeight: 700, fontSize: 30, letterSpacing: 6, color: CARD.ink.wm, display: 'flex' }}>PARABLE</div>
@@ -65,8 +67,13 @@ export async function GET(req: Request, { params }: { params: Promise<{ slug: st
               ? <img width={560} height={360} src={artSrc} style={{ objectFit: 'cover' }} />
               : <div style={{ width: 560, height: 360, display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: 180, background: 'linear-gradient(160deg,#fff8ed,#f0dcc4)' }}>{d.emoji}</div>}
           </div>
-          <div style={{ fontFamily: 'Inter', fontWeight: 800, fontSize: 26, letterSpacing: 6, marginTop: 18, color: d.rarity.accent, display: 'flex' }}>
-            {d.rarity.tier === 'legendary' ? '✦ ' : ''}{d.rarity.label.toUpperCase()}
+          <div style={{ display: 'flex', alignItems: 'center', gap: 10, marginTop: 18 }}>
+            {d.rarity.tier === 'legendary' && (
+              <svg width={24} height={24} viewBox="0 0 24 24" style={{ display: 'flex' }}>
+                <path fill={d.rarity.accent} d="M12 2l2.9 6.1 6.6.9-4.8 4.6 1.2 6.6L12 18.9 5.9 20.8l1.2-6.6L2.3 9l6.6-.9z" />
+              </svg>
+            )}
+            <div style={{ fontFamily: 'Inter', fontWeight: 800, fontSize: 26, letterSpacing: 6, color: d.rarity.accent, display: 'flex' }}>{d.rarity.label.toUpperCase()}</div>
           </div>
           <div style={{ fontFamily: 'Cinzel', fontWeight: 900, fontSize: nameSize, color: CARD.ink.strong, marginTop: 6, textAlign: 'center', display: 'flex' }}>{name}</div>
           {d.epithet && <div style={{ fontFamily: 'EB Garamond', fontStyle: 'italic', fontSize: 34, color: CARD.ink.soft, marginTop: 4, display: 'flex' }}>{d.epithet}</div>}
