@@ -28,8 +28,11 @@ const Card = React.forwardRef<HTMLDivElement, CardProps>(
       ref={ref}
       className={cn(cardVariants({ className }))}
       {...props}
+      initial={{ opacity: 0, y: 16 }}
+      whileInView={{ opacity: 1, y: 0 }}
+      viewport={{ once: true, margin: "-40px" }}
       whileHover={{ y: -5, boxShadow: "0px 10px 20px rgba(80, 50, 20, 0.18)" }}
-      transition={{ duration: 0.2, ease: "easeInOut" }}
+      transition={{ duration: 0.25, ease: "easeOut" }}
     />
   )
 );
