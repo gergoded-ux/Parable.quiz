@@ -98,9 +98,15 @@ export default async function ResultPage({ params, searchParams }: { params: Pro
   return (
     <>
       <HomeNav />
-      <main className="py-8">
-        <ShareableCard data={cardData} shareUrl={shareUrl} shareText={shareText} ogImage={ogImageAbs} />
-        <ResultCard {...cardProps} />
+      <main className="px-4 py-8">
+        <div className="mx-auto flex max-w-5xl flex-col items-center gap-8 lg:flex-row lg:items-start lg:justify-center lg:gap-10">
+          <div className="w-full max-w-sm shrink-0">
+            <ShareableCard data={cardData} shareUrl={shareUrl} shareText={shareText} ogImage={ogImageAbs} />
+          </div>
+          <div className="w-full max-w-xl lg:pt-1">
+            <ResultCard {...cardProps} />
+          </div>
+        </div>
         <AdSlot slot="post-share" />
         <RelatedQuizzes slug={test.slug} />
       </main>
