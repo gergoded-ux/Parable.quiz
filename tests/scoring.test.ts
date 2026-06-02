@@ -139,3 +139,23 @@ describe('scoreKnowledge', () => {
     expect(r.band.label).toBe('Strong');
   });
 });
+
+import { scoreArchetypeDetailed } from '@/lib/scoring';
+
+describe('scoreArchetypeDetailed', () => {
+  it('returns winner, matchPct and ordered affinity', () => {
+    // reuse apostleTest from earlier in this file: q1->0 (peter2,james1), q2->1 (james3)
+    // totals: peter=2, james=4, john=0; total=6 -> james 67%, peter 33%, john 0%
+    const r = scoreArchetypeDetailed(apostleTest, [0, 1]);
+    expect(r.winner).toBe('james');
+    expect(r.matchPct).toBe(67);
+    expect(r.affinity[0]).toEqual({ key: 'james', name: 'James', pct: 67 });
+    expect(r.affinity[1]).toEqual({ key: 'peter', name: 'Peter', pct: 33 });
+    expect(r.affinity.find(a => a.key === 'john')?.pct).toBe(0);
+  });
+  it('matchPct is 100 when one result takes all weight', () => {
+    const r = scoreArchetypeDetailed(apostleTest, [0, 0]); // peter3, james1 -> total 4, peter 75
+    expect(r.winner).toBe('peter');
+    expect(r.matchPct).toBe(75);
+  });
+});
