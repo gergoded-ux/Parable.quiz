@@ -4,7 +4,7 @@ import { useState, useMemo, useEffect } from 'react';
 import { useRouter } from 'next/navigation';
 import { track } from '@vercel/analytics';
 import type { Test } from '@/lib/schema';
-import { scoreArchetype, scoreProfile, scoreKnowledge } from '@/lib/scoring';
+import { scoreArchetypeDetailed, scoreProfileDetailed, scoreKnowledge } from '@/lib/scoring';
 import { ProgressBar } from './ProgressBar';
 import { QuestionCard } from './QuestionCard';
 import { Wordmark } from './Wordmark';
@@ -32,19 +32,16 @@ export function TestRunner({ test }: { test: Test }) {
   function goNext() {
     if (currentAnswer === null) return;
     if (!isLast) { setStep(step + 1); return; }
-    let resultKey: string;
+    let resultKey: string; let m = 0;
     if (test.mode === 'archetype') {
-      resultKey = scoreArchetype(test, answers);
+      const d = scoreArchetypeDetailed(test, answers); resultKey = d.winner; m = d.matchPct;
     } else if (test.mode === 'profile') {
-      const r = scoreProfile(test, answers);
-      const top = Object.entries(r).sort((a, b) => b[1] - a[1])[0];
-      resultKey = top[0];
+      const d = scoreProfileDetailed(test, answers); resultKey = d.top; m = d.matchPct;
     } else {
-      const r = scoreKnowledge(test, answers);
-      resultKey = String(r.percent);
+      const r = scoreKnowledge(test, answers); resultKey = String(r.percent); m = r.percent;
     }
     track('quiz_complete', { slug: test.slug, mode: test.mode, result: resultKey });
-    router.push(`/q/${test.slug}/r/${resultKey}`);
+    router.push(`/q/${test.slug}/r/${resultKey}?m=${m}`);
   }
 
   function goBack() {
