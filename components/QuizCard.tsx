@@ -1,6 +1,7 @@
-// components/QuizCard.tsx
+"use client";
 import Link from 'next/link';
 import type { Test } from '@/lib/schema';
+import { Card, CardContent } from '@/components/ui/card-2';
 
 function pickEmoji(t: Test): string {
   if (t.mode === 'archetype') {
@@ -19,13 +20,14 @@ function describeMeta(t: Test): string {
 
 export function QuizCard({ test }: { test: Test }) {
   return (
-    <Link
-      href={`/q/${test.slug}`}
-      className="block bg-white border border-rose/60 rounded-card p-5 card-hover shadow-card"
-    >
-      <div className="text-3xl mb-2">{pickEmoji(test)}</div>
-      <div className="text-base font-bold text-brown leading-tight">{test.title}</div>
-      <div className="text-xs text-ink-mute mt-1">{describeMeta(test)}</div>
+    <Link href={`/q/${test.slug}`} className="block h-full">
+      <Card className="h-full">
+        <CardContent className="p-5">
+          <div className="text-3xl mb-2">{pickEmoji(test)}</div>
+          <div className="text-base font-bold text-brown leading-tight">{test.title}</div>
+          <div className="text-xs text-ink-mute mt-1">{describeMeta(test)}</div>
+        </CardContent>
+      </Card>
     </Link>
   );
 }
