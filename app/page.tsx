@@ -2,6 +2,7 @@
 import { loadAllTests } from '@/lib/test-loader';
 import { QuizCard } from '@/components/QuizCard';
 import { HomeNav } from '@/components/HomeNav';
+import { HomeBackground } from '@/components/HomeBackground';
 import { AdSlot } from '@/components/AdSlot';
 
 export default function Home() {
@@ -12,6 +13,7 @@ export default function Home() {
 
   return (
     <>
+      <HomeBackground />
       <HomeNav />
       <header className="text-center py-16 px-8">
         <h1 className="text-4xl md:text-5xl font-extrabold text-brown-dark -tracking-wide mb-3">
