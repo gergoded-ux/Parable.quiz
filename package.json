@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build:art": "tsx scripts/build-art-manifest.ts",
+    "build": "pnpm build:art && next build",
     "start": "next start",
     "test": "vitest run",
     "test:watch": "vitest",
