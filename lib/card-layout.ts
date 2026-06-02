@@ -1,0 +1,16 @@
+// lib/card-layout.ts
+// Single source of truth for card colors/fonts so the live DOM card and the
+// server next/og card render identically.
+export const CARD = {
+  width: 1080,
+  height: 1350,
+  fonts: { display: 'Cinzel', body: 'Inter', serifItalic: 'EB Garamond' },
+  panel: { bg: 'rgba(253,250,238,0.95)', border: 'rgba(212,175,55,0.6)' },
+  ink: { strong: '#3a2410', body: '#4a2f15', soft: '#7a5a2a', mute: '#a9762e', wm: '#6b4423' },
+  star: {
+    green:    { from: '#bff0a0', to: '#3d9b4a' },
+    sapphire: { from: '#a6d6f2', to: '#2f7fc0' },
+    purple:   { from: '#dcb6f7', to: '#7c3aa0' },
+    gold:     { from: '#f6d97a', to: '#c8961f' },
+  },
+} as const;
