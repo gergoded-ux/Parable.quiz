@@ -4,7 +4,7 @@ import { readFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { loadTestBySlug } from '@/lib/test-loader';
 import { cardDataFromResult } from '@/lib/card-data';
-import { CARD, PANEL, nameFontSize } from '@/lib/card-layout';
+import { CARD, PANEL, nameFontSizeOg, STAR_PATH } from '@/lib/card-layout';
 import { artUrl } from '@/lib/card-art';
 
 // nodejs runtime so we can readFileSync fonts/frames; NOT force-static (we read ?m=).
@@ -12,12 +12,27 @@ export const runtime = 'nodejs';
 
 const FONT_DIR = join(process.cwd(), 'public', 'cards', 'fonts');
 const FRAME_DIR = join(process.cwd(), 'public', 'cards', 'frames');
+
+// Read each font once at module load instead of on every request.
 function font(f: string) {
   return readFileSync(join(FONT_DIR, f));
 }
+const FONTS = {
+  cinzelBold: font('Cinzel-Bold.ttf'),
+  cinzelBlack: font('Cinzel-Black.ttf'),
+  interBold: font('Inter-Bold.ttf'),
+  interExtraBold: font('Inter-ExtraBold.ttf'),
+  ebGaramondItalic: font('EBGaramond-Italic.ttf'),
+} as const;
+
+// Memoize frame data URIs; each frame PNG is base64-encoded once, then reused.
+const frameCache: Record<string, string> = {};
 function frameDataUri(file: string) {
-  const b = readFileSync(join(FRAME_DIR, file));
-  return `data:image/png;base64,${b.toString('base64')}`;
+  if (!frameCache[file]) {
+    const b = readFileSync(join(FRAME_DIR, file));
+    frameCache[file] = `data:image/png;base64,${b.toString('base64')}`;
+  }
+  return frameCache[file];
 }
 
 export async function GET(req: Request, { params }: { params: Promise<{ slug: string; key: string }> }) {
@@ -39,7 +54,7 @@ export async function GET(req: Request, { params }: { params: Promise<{ slug: st
   }
 
   const name = d.baseName;
-  const nameSize = nameFontSize(name) * 2.8; // live tokens are ~330px-wide; OG is 1080px
+  const nameSize = nameFontSizeOg(name); // OG-tuned; node wraps inside the panel
 
   const a = artUrl(slug, key);
   const artSrc = a.startsWith('http') ? a : url.origin + a;
@@ -56,7 +71,7 @@ export async function GET(req: Request, { params }: { params: Promise<{ slug: st
           <div style={{ position: 'absolute', left: 16, top: 120, display: 'flex', flexDirection: 'column', gap: 10 }}>
             {Array.from({ length: 5 }, (_, i) => (
               <svg key={i} width={38} height={38} viewBox="0 0 24 24" style={{ display: 'flex' }}>
-                <path fill={starColor(i < d.rarity.stars)} d="M12 2l2.9 6.1 6.6.9-4.8 4.6 1.2 6.6L12 18.9 5.9 20.8l1.2-6.6L2.3 9l6.6-.9z" />
+                <path fill={starColor(i < d.rarity.stars)} d={STAR_PATH} />
               </svg>
             ))}
           </div>
@@ -70,12 +85,14 @@ export async function GET(req: Request, { params }: { params: Promise<{ slug: st
           <div style={{ display: 'flex', alignItems: 'center', gap: 10, marginTop: 18 }}>
             {d.rarity.tier === 'legendary' && (
               <svg width={24} height={24} viewBox="0 0 24 24" style={{ display: 'flex' }}>
-                <path fill={d.rarity.accent} d="M12 2l2.9 6.1 6.6.9-4.8 4.6 1.2 6.6L12 18.9 5.9 20.8l1.2-6.6L2.3 9l6.6-.9z" />
+                <path fill={d.rarity.accent} d={STAR_PATH} />
               </svg>
             )}
             <div style={{ fontFamily: 'Inter', fontWeight: 800, fontSize: 26, letterSpacing: 6, color: d.rarity.accent, display: 'flex' }}>{d.rarity.label.toUpperCase()}</div>
           </div>
-          <div style={{ fontFamily: 'Cinzel', fontWeight: 900, fontSize: nameSize, color: CARD.ink.strong, marginTop: 6, textAlign: 'center', display: 'flex' }}>{name}</div>
+          <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', maxWidth: 600, marginTop: 6 }}>
+            <div style={{ fontFamily: 'Cinzel', fontWeight: 900, fontSize: nameSize, color: CARD.ink.strong, textAlign: 'center', lineHeight: 1.05 }}>{name}</div>
+          </div>
           {d.epithet && <div style={{ fontFamily: 'EB Garamond', fontStyle: 'italic', fontSize: 34, color: CARD.ink.soft, marginTop: 4, display: 'flex' }}>{d.epithet}</div>}
           {d.traits.length > 0 && <div style={{ fontFamily: 'Inter', fontWeight: 700, fontSize: 20, letterSpacing: 2, color: CARD.ink.body, marginTop: 12, textAlign: 'center', display: 'flex' }}>{d.traits.join(' · ').toUpperCase()}</div>}
           {d.verse.text && <div style={{ fontFamily: 'EB Garamond', fontStyle: 'italic', fontSize: 26, color: CARD.ink.body, marginTop: 22, textAlign: 'center', display: 'flex' }}>&ldquo;{d.verse.text}&rdquo; — {d.verse.reference}{d.verse.translation ? ` (${d.verse.translation})` : ''}</div>}
@@ -86,12 +103,11 @@ export async function GET(req: Request, { params }: { params: Promise<{ slug: st
     {
       width: W, height: H,
       fonts: [
-        { name: 'Cinzel', data: font('Cinzel-Bold.ttf'), weight: 700, style: 'normal' },
-        { name: 'Cinzel', data: font('Cinzel-Black.ttf'), weight: 900, style: 'normal' },
-        { name: 'Inter', data: font('Inter-Regular.ttf'), weight: 400, style: 'normal' },
-        { name: 'Inter', data: font('Inter-Bold.ttf'), weight: 700, style: 'normal' },
-        { name: 'Inter', data: font('Inter-ExtraBold.ttf'), weight: 800, style: 'normal' },
-        { name: 'EB Garamond', data: font('EBGaramond-Italic.ttf'), weight: 400, style: 'italic' },
+        { name: 'Cinzel', data: FONTS.cinzelBold, weight: 700, style: 'normal' },
+        { name: 'Cinzel', data: FONTS.cinzelBlack, weight: 900, style: 'normal' },
+        { name: 'Inter', data: FONTS.interBold, weight: 700, style: 'normal' },
+        { name: 'Inter', data: FONTS.interExtraBold, weight: 800, style: 'normal' },
+        { name: 'EB Garamond', data: FONTS.ebGaramondItalic, weight: 400, style: 'italic' },
       ],
     },
   );

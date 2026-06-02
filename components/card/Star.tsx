@@ -1,5 +1,5 @@
 // components/card/Star.tsx
-import { CARD } from '@/lib/card-layout';
+import { CARD, STAR_PATH } from '@/lib/card-layout';
 import type { RarityMaterial } from '@/lib/rarity';
 
 export function Star({ filled, material, size = 16 }: { filled: boolean; material: RarityMaterial; size?: number }) {
@@ -13,8 +13,7 @@ export function Star({ filled, material, size = 16 }: { filled: boolean; materia
           <stop offset="1" stopColor={filled ? to : '#c2b394'} />
         </linearGradient>
       </defs>
-      <path fill={filled ? `url(#${id})` : 'rgba(107,68,35,0.20)'}
-        d="M12 2l2.9 6.1 6.6.9-4.8 4.6 1.2 6.6L12 18.9 5.9 20.8l1.2-6.6L2.3 9l6.6-.9z" />
+      <path fill={filled ? `url(#${id})` : 'rgba(107,68,35,0.20)'} d={STAR_PATH} />
     </svg>
   );
 }

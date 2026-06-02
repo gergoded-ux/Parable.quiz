@@ -2,7 +2,7 @@
 'use client';
 import { useState } from 'react';
 import { track } from '@vercel/analytics';
-import { toPng } from 'html-to-image';
+import { toBlob } from 'html-to-image';
 
 export function ShareBar({ url, text, image, cardEl, showCardShare }: { url: string; text: string; image?: string; cardEl?: HTMLElement | null; showCardShare?: boolean }) {
   const [copied, setCopied] = useState(false);
@@ -25,16 +25,25 @@ export function ShareBar({ url, text, image, cardEl, showCardShare }: { url: str
   async function shareCard() {
     if (!cardEl) return;
     track('share_click', { platform: 'card' });
-    const dataUrl = await toPng(cardEl, { pixelRatio: 3, cacheBust: true });
-    const blob = await (await fetch(dataUrl)).blob();
-    const file = new File([blob], 'parable-card.png', { type: 'image/png' });
-    if (navigator.canShare?.({ files: [file] })) {
-      await navigator.share({ files: [file], text });
-    } else {
-      const a = document.createElement('a');
-      a.href = dataUrl;
-      a.download = 'parable-card.png';
-      a.click();
+    try {
+      const blob = await toBlob(cardEl, { pixelRatio: 3, cacheBust: true });
+      if (!blob) throw new Error('snapshot failed');
+      const file = new File([blob], 'parable-card.png', { type: 'image/png' });
+      if (navigator.canShare?.({ files: [file] })) {
+        await navigator.share({ files: [file], text });
+      } else {
+        const href = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = href;
+        a.download = 'parable-card.png';
+        a.click();
+        URL.revokeObjectURL(href);
+      }
+    } catch (err) {
+      console.error('shareCard failed', err);
+      // Fall back to the static OG card image (works even when the live
+      // snapshot fails, e.g. tainted canvas from a CDN-served art image).
+      if (image) window.open(image, '_blank');
     }
   }
 
