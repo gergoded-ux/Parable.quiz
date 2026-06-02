@@ -159,3 +159,16 @@ describe('scoreArchetypeDetailed', () => {
     expect(r.matchPct).toBe(75);
   });
 });
+
+import { scoreProfileDetailed } from '@/lib/scoring';
+
+describe('scoreProfileDetailed', () => {
+  it('returns the top dimension, its matchPct, and full scores', () => {
+    // reuse profileTest: answers [0,0] -> teaching 67, mercy 100, leadership 0
+    const r = scoreProfileDetailed(profileTest, [0, 0]);
+    expect(r.top).toBe('mercy');
+    expect(r.matchPct).toBe(100);
+    expect(r.scores.teaching).toBe(67);
+    expect(r.scores.leadership).toBe(0);
+  });
+});

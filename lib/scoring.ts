@@ -101,3 +101,12 @@ export function scoreArchetypeDetailed(test: ArchetypeTest, answers: number[]): 
   const matchPct = affinity.find(a => a.key === winner)?.pct ?? 0;
   return { winner, matchPct, affinity };
 }
+
+export interface ProfileDetail { top: string; matchPct: number; scores: Record<string, number> }
+
+export function scoreProfileDetailed(test: ProfileTest, answers: number[]): ProfileDetail {
+  const scores = scoreProfile(test, answers); // 0-100 normalized per dimension
+  let top = Object.keys(scores)[0] ?? '';
+  for (const [k, v] of Object.entries(scores)) if (v > (scores[top] ?? -1)) top = k;
+  return { top, matchPct: scores[top] ?? 0, scores };
+}
