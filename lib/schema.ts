@@ -40,6 +40,7 @@ const ArchetypeResult = z.object({
   description: z.string().min(1),
   scriptureRef: ScriptureRef.optional(),
   scripture: InlineScripture.optional(),
+  cardVerse: InlineScripture.optional(),
 });
 
 export const ArchetypeTest = TestBase.extend({
@@ -63,6 +64,7 @@ const ProfileResult = z.object({
   description: z.string().min(1),
   scriptureRef: ScriptureRef.optional(),
   scripture: InlineScripture.optional(),
+  cardVerse: InlineScripture.optional(),
 });
 
 export const ProfileTest = TestBase.extend({

@@ -199,3 +199,18 @@ describe('Inline scripture', () => {
     expect(r.success).toBe(true);
   });
 });
+
+describe('cardVerse', () => {
+  it('accepts an archetype result with an optional cardVerse', () => {
+    const r = ArchetypeTest.safeParse({
+      slug: 's', title: 't', lang: 'en', category: 'bible-character', estimatedMinutes: 1,
+      mode: 'archetype',
+      questions: [{ text: 'q', options: [{ text: 'a', weights: { x: 1 } }, { text: 'b', weights: { y: 1 } }] }],
+      results: { x: { name: 'X', emoji: '⚓', traits: ['a'], description: 'd',
+        scripture: { text: 'long verse', reference: 'Gen 1:1' },
+        cardVerse: { text: 'short', reference: 'Gen 1:1', translation: 'ASV' } } },
+    });
+    expect(r.success).toBe(true);
+    if (r.success) expect(r.data.results.x.cardVerse?.text).toBe('short');
+  });
+});
