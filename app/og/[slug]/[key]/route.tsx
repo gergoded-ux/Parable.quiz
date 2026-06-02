@@ -64,7 +64,7 @@ export async function GET(req: Request, { params }: { params: Promise<{ slug: st
   return new ImageResponse(
     (
       <div style={{ width: '100%', height: '100%', display: 'flex',
-        backgroundImage: `url(${frameDataUri(d.rarity.frame)})`, backgroundSize: '1080px 1350px' }}>
+        backgroundImage: `url(${frameDataUri(d.rarity.frame)})`, backgroundSize: 'cover', backgroundPosition: 'center', backgroundRepeat: 'no-repeat' }}>
         <div style={{ position: 'absolute', left: PANEL.left, right: PANEL.right, top: PANEL.top, bottom: PANEL.bottom,
           background: CARD.panel.bg, border: `3px solid ${CARD.panel.border}`, borderRadius: 34,
           display: 'flex', flexDirection: 'column', alignItems: 'center', padding: '34px 40px 30px 70px' }}>
@@ -78,10 +78,10 @@ export async function GET(req: Request, { params }: { params: Promise<{ slug: st
           </div>
           <div style={{ fontFamily: 'Cinzel', fontWeight: 700, fontSize: 30, letterSpacing: 6, color: CARD.ink.wm, display: 'flex' }}>PARABLE</div>
           {/* image window */}
-          <div style={{ width: 560, height: 360, marginTop: 14, borderRadius: 24, overflow: 'hidden', border: '4px solid rgba(212,175,55,.7)', display: 'flex' }}>
+          <div style={{ width: 470, height: 470, marginTop: 14, borderRadius: 24, overflow: 'hidden', border: '4px solid rgba(212,175,55,.7)', display: 'flex' }}>
             {d.hasArt
-              ? <img width={560} height={360} src={artSrc} style={{ objectFit: 'cover', objectPosition: 'center top' }} />
-              : <div style={{ width: 560, height: 360, display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: 180, background: 'linear-gradient(160deg,#fff8ed,#f0dcc4)' }}>{d.emoji}</div>}
+              ? <img width={470} height={470} src={artSrc} style={{ objectFit: 'cover', objectPosition: 'center 20%' }} />
+              : <div style={{ width: 470, height: 470, display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: 180, background: 'linear-gradient(160deg,#fff8ed,#f0dcc4)' }}>{d.emoji}</div>}
           </div>
           <div style={{ display: 'flex', alignItems: 'center', gap: 10, marginTop: 18 }}>
             {d.rarity.tier === 'legendary' && (
