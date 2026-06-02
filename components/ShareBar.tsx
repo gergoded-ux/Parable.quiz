@@ -4,7 +4,7 @@ import { useState } from 'react';
 import { track } from '@vercel/analytics';
 import { toPng } from 'html-to-image';
 
-export function ShareBar({ url, text, image, cardEl }: { url: string; text: string; image?: string; cardEl?: HTMLElement | null }) {
+export function ShareBar({ url, text, image, cardEl, showCardShare }: { url: string; text: string; image?: string; cardEl?: HTMLElement | null; showCardShare?: boolean }) {
   const [copied, setCopied] = useState(false);
 
   const encUrl = encodeURIComponent(url);
@@ -40,7 +40,7 @@ export function ShareBar({ url, text, image, cardEl }: { url: string; text: stri
 
   return (
     <div className="flex justify-center gap-3 my-6 max-w-xl mx-auto flex-wrap">
-      {cardEl && (
+      {showCardShare && (
         <button onClick={shareCard} className="bg-brown text-white px-5 py-3 rounded-full text-sm font-semibold">
           ✦ Share my card
         </button>

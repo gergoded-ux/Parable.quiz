@@ -12,7 +12,7 @@ export function ShareableCard({ data, shareUrl, shareText, ogImage }: { data: Ca
   return (
     <>
       <ResultCardLive data={data} cardRef={ref} />
-      <ShareBar url={shareUrl} text={shareText} image={ogImage} cardEl={el} />
+      <ShareBar url={shareUrl} text={shareText} image={ogImage} cardEl={el} showCardShare />
     </>
   );
 }
