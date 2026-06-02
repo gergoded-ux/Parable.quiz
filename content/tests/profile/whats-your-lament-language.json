@@ -16,91 +16,292 @@
     {
       "text": "When the pain hits hardest, how does it come out of you?",
       "options": [
-        { "text": "I tell God exactly how unfair and wrong this is.", "weights": { "honest-complaint": 3 } },
-        { "text": "I beg. Please, God, do something, anything.", "weights": { "desperate-appeal": 3 } },
-        { "text": "I hold on to what I know is true even while it hurts.", "weights": { "stubborn-trust": 3 } },
-        { "text": "Nothing comes out. Just an ache I can't put into words.", "weights": { "wordless-groan": 3 } }
+        {
+          "text": "I tell God exactly how unfair and wrong this is.",
+          "weights": {
+            "honest-complaint": 3
+          }
+        },
+        {
+          "text": "I beg. Please, God, do something, anything.",
+          "weights": {
+            "desperate-appeal": 3
+          }
+        },
+        {
+          "text": "I hold on to what I know is true even while it hurts.",
+          "weights": {
+            "stubborn-trust": 3
+          }
+        },
+        {
+          "text": "Nothing comes out. Just an ache I can't put into words.",
+          "weights": {
+            "wordless-groan": 3
+          }
+        }
       ]
     },
     {
       "text": "Which Psalm line feels most like your own voice?",
       "options": [
-        { "text": "\"How long, Lord? Will you forget me forever?\"", "weights": { "honest-complaint": 3 } },
-        { "text": "\"Out of the depths I cry to you, Lord. Hear my voice.\"", "weights": { "desperate-appeal": 3 } },
-        { "text": "\"But I trust in your unfailing love.\"", "weights": { "stubborn-trust": 3 } },
-        { "text": "\"My groaning is not hidden from you.\"", "weights": { "wordless-groan": 3 } }
+        {
+          "text": "\"How long, Lord? Will you forget me forever?\"",
+          "weights": {
+            "honest-complaint": 3
+          }
+        },
+        {
+          "text": "\"Out of the depths I cry to you, Lord. Hear my voice.\"",
+          "weights": {
+            "desperate-appeal": 3
+          }
+        },
+        {
+          "text": "\"But I trust in your unfailing love.\"",
+          "weights": {
+            "stubborn-trust": 3
+          }
+        },
+        {
+          "text": "\"My groaning is not hidden from you.\"",
+          "weights": {
+            "wordless-groan": 3
+          }
+        }
       ]
     },
     {
       "text": "What's your honest posture toward God in grief?",
       "options": [
-        { "text": "Confrontational. I bring my questions straight to Him.", "weights": { "honest-complaint": 3 } },
-        { "text": "Pleading. I keep asking and won't stop.", "weights": { "desperate-appeal": 3 } },
-        { "text": "Holding fast. I refuse to let go of Him.", "weights": { "stubborn-trust": 3 } },
-        { "text": "Speechless. I just sit there, undone.", "weights": { "wordless-groan": 3 } }
+        {
+          "text": "Confrontational. I bring my questions straight to Him.",
+          "weights": {
+            "honest-complaint": 3
+          }
+        },
+        {
+          "text": "Pleading. I keep asking and won't stop.",
+          "weights": {
+            "desperate-appeal": 3
+          }
+        },
+        {
+          "text": "Holding fast. I refuse to let go of Him.",
+          "weights": {
+            "stubborn-trust": 3
+          }
+        },
+        {
+          "text": "Speechless. I just sit there, undone.",
+          "weights": {
+            "wordless-groan": 3
+          }
+        }
       ]
     },
     {
       "text": "When someone asks how you're really doing, you...",
       "options": [
-        { "text": "Tell them plainly that I'm angry and it's not okay.", "weights": { "honest-complaint": 3 } },
-        { "text": "Say I'm desperate and just need things to change.", "weights": { "desperate-appeal": 3 } },
-        { "text": "Admit it's hard, then say God's still good anyway.", "weights": { "stubborn-trust": 3 } },
-        { "text": "Go quiet. I don't have the words for it.", "weights": { "wordless-groan": 3 } }
+        {
+          "text": "Tell them plainly that I'm angry and it's not okay.",
+          "weights": {
+            "honest-complaint": 3
+          }
+        },
+        {
+          "text": "Say I'm desperate and just need things to change.",
+          "weights": {
+            "desperate-appeal": 3
+          }
+        },
+        {
+          "text": "Admit it's hard, then say God's still good anyway.",
+          "weights": {
+            "stubborn-trust": 3
+          }
+        },
+        {
+          "text": "Go quiet. I don't have the words for it.",
+          "weights": {
+            "wordless-groan": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you wish people understood about your grief?",
       "options": [
-        { "text": "That my hard questions are part of my faith, not against it.", "weights": { "honest-complaint": 3 } },
-        { "text": "How urgently I need relief, not platitudes.", "weights": { "desperate-appeal": 3 } },
-        { "text": "That I can hurt deeply and still believe.", "weights": { "stubborn-trust": 3 } },
-        { "text": "That silence is sometimes the only language I have.", "weights": { "wordless-groan": 3 } }
+        {
+          "text": "That my hard questions are part of my faith, not against it.",
+          "weights": {
+            "honest-complaint": 3
+          }
+        },
+        {
+          "text": "How urgently I need relief, not platitudes.",
+          "weights": {
+            "desperate-appeal": 3
+          }
+        },
+        {
+          "text": "That I can hurt deeply and still believe.",
+          "weights": {
+            "stubborn-trust": 3
+          }
+        },
+        {
+          "text": "That silence is sometimes the only language I have.",
+          "weights": {
+            "wordless-groan": 3
+          }
+        }
       ]
     },
     {
       "text": "Which feels truest about prayer in your dark seasons?",
       "options": [
-        { "text": "God can handle my complaints. I bring the raw stuff.", "weights": { "honest-complaint": 3 } },
-        { "text": "I throw my whole need at Him and keep throwing it.", "weights": { "desperate-appeal": 3 } },
-        { "text": "I keep showing up to Him even when I feel nothing.", "weights": { "stubborn-trust": 3 } },
-        { "text": "I can't form prayers. I just groan and hope He hears.", "weights": { "wordless-groan": 3 } }
+        {
+          "text": "God can handle my complaints. I bring the raw stuff.",
+          "weights": {
+            "honest-complaint": 3
+          }
+        },
+        {
+          "text": "I throw my whole need at Him and keep throwing it.",
+          "weights": {
+            "desperate-appeal": 3
+          }
+        },
+        {
+          "text": "I keep showing up to Him even when I feel nothing.",
+          "weights": {
+            "stubborn-trust": 3
+          }
+        },
+        {
+          "text": "I can't form prayers. I just groan and hope He hears.",
+          "weights": {
+            "wordless-groan": 3
+          }
+        }
       ]
     },
     {
       "text": "What scares you a little about your way of grieving?",
       "options": [
-        { "text": "That my honesty with God might cross a line.", "weights": { "honest-complaint": 2, "stubborn-trust": 1 } },
-        { "text": "That I'll wear out from begging and hear nothing back.", "weights": { "desperate-appeal": 3 } },
-        { "text": "That my trust is more clenched teeth than real peace.", "weights": { "stubborn-trust": 3 } },
-        { "text": "That my silence means my faith is slipping away.", "weights": { "wordless-groan": 3 } }
+        {
+          "text": "That my honesty with God might cross a line.",
+          "weights": {
+            "honest-complaint": 2,
+            "stubborn-trust": 1
+          }
+        },
+        {
+          "text": "That I'll wear out from begging and hear nothing back.",
+          "weights": {
+            "desperate-appeal": 3
+          }
+        },
+        {
+          "text": "That my trust is more clenched teeth than real peace.",
+          "weights": {
+            "stubborn-trust": 3
+          }
+        },
+        {
+          "text": "That my silence means my faith is slipping away.",
+          "weights": {
+            "wordless-groan": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you most need to know about lament?",
       "options": [
-        { "text": "That God invites the complaint, not just the praise.", "weights": { "honest-complaint": 3 } },
-        { "text": "That He hears the desperate cry and leans in.", "weights": { "desperate-appeal": 3 } },
-        { "text": "That holding on in the dark is its own kind of faith.", "weights": { "stubborn-trust": 3 } },
-        { "text": "That the Spirit prays for me when I have no words.", "weights": { "wordless-groan": 3 } }
+        {
+          "text": "That God invites the complaint, not just the praise.",
+          "weights": {
+            "honest-complaint": 3
+          }
+        },
+        {
+          "text": "That He hears the desperate cry and leans in.",
+          "weights": {
+            "desperate-appeal": 3
+          }
+        },
+        {
+          "text": "That holding on in the dark is its own kind of faith.",
+          "weights": {
+            "stubborn-trust": 3
+          }
+        },
+        {
+          "text": "That the Spirit prays for me when I have no words.",
+          "weights": {
+            "wordless-groan": 3
+          }
+        }
       ]
     },
     {
       "text": "If your grief had a sound, it would be...",
       "options": [
-        { "text": "A raised voice asking why.", "weights": { "honest-complaint": 3 } },
-        { "text": "A cry for help that won't quit.", "weights": { "desperate-appeal": 3 } },
-        { "text": "A quiet, steady \"yet I will trust.\"", "weights": { "stubborn-trust": 3 } },
-        { "text": "A groan too deep for words.", "weights": { "wordless-groan": 3 } }
+        {
+          "text": "A raised voice asking why.",
+          "weights": {
+            "honest-complaint": 3
+          }
+        },
+        {
+          "text": "A cry for help that won't quit.",
+          "weights": {
+            "desperate-appeal": 3
+          }
+        },
+        {
+          "text": "A quiet, steady \"yet I will trust.\"",
+          "weights": {
+            "stubborn-trust": 3
+          }
+        },
+        {
+          "text": "A groan too deep for words.",
+          "weights": {
+            "wordless-groan": 3
+          }
+        }
       ]
     },
     {
       "text": "Name your lament language in a phrase.",
       "options": [
-        { "text": "The honest complaint.", "weights": { "honest-complaint": 3 } },
-        { "text": "The desperate appeal.", "weights": { "desperate-appeal": 3 } },
-        { "text": "The stubborn trust.", "weights": { "stubborn-trust": 3 } },
-        { "text": "The wordless groan.", "weights": { "wordless-groan": 3 } }
+        {
+          "text": "The honest complaint.",
+          "weights": {
+            "honest-complaint": 3
+          }
+        },
+        {
+          "text": "The desperate appeal.",
+          "weights": {
+            "desperate-appeal": 3
+          }
+        },
+        {
+          "text": "The stubborn trust.",
+          "weights": {
+            "stubborn-trust": 3
+          }
+        },
+        {
+          "text": "The wordless groan.",
+          "weights": {
+            "wordless-groan": 3
+          }
+        }
       ]
     }
   ],
@@ -108,22 +309,38 @@
     "honest-complaint": {
       "name": "The Honest Complaint",
       "description": "When you hurt, you don't dress it up. You bring God the raw truth: this is unfair, this is too much, where are You in this. And here's what might surprise you. That's not a failure of faith. That's lament, and the Bible is full of it. David asked how long. Habakkuk demanded answers. Jesus Himself cried out on the cross. God is not fragile, and He never flinched at an honest complaint from someone who kept talking to Him. Your questions aren't pushing Him away. They're keeping you in the conversation, which is exactly where He wants you. Keep being real with Him.",
-      "scripture": { "text": "How long, Lord? Will you forget me forever? How long will you hide your face from me?", "reference": "Psalm 13:1" }
+      "scripture": {
+        "text": "How long, O Jehovah? wilt thou forget me for ever? How long wilt thou hide thy face from me?",
+        "reference": "Psalm 13:1",
+        "translation": "ASV"
+      }
     },
     "desperate-appeal": {
       "name": "The Desperate Appeal",
       "description": "Your lament is a cry for help that won't quit. From the depths you call out, you beg God to act, and you keep asking even when the silence stretches long. That persistence is not weakness or a lack of trust. It's the prayer of someone who knows exactly where to run when everything is falling apart. God is not annoyed by the cry of the desperate. Scripture says He bends down to listen, that He's near to the brokenhearted. Keep calling out. The God you're crying to has promised to hear, and a desperate prayer is still a prayer of faith.",
-      "scripture": { "text": "Out of the depths I cry to you, Lord; Lord, hear my voice.", "reference": "Psalm 130:1-2" }
+      "scripture": {
+        "text": "Out of the depths have I cried unto thee, O Jehovah. Lord, hear my voice: Let thine ears be attentive To the voice of my supplications.",
+        "reference": "Psalm 130:1-2",
+        "translation": "ASV"
+      }
     },
     "stubborn-trust": {
       "name": "The Stubborn Trust",
       "description": "You grieve with your jaw set. The pain is real, you don't pretend it away, and yet you keep choosing to hold on to what you know about God even when you feel nothing. That \"yet I will trust\" is one of the bravest prayers there is. It's the language of someone who has walked through the valley before and decided God is worth clinging to in the dark. Don't mistake the clenched-teeth part for fake faith. Trusting before you feel like it is the truest kind. Keep holding on. The God you're holding is holding you far more tightly than you're holding Him.",
-      "scripture": { "text": "But I trust in your unfailing love; my heart rejoices in your salvation.", "reference": "Psalm 13:5" }
+      "scripture": {
+        "text": "But I have trusted in thy lovingkindness; My heart shall rejoice in thy salvation.",
+        "reference": "Psalm 13:5",
+        "translation": "ASV"
+      }
     },
     "wordless-groan": {
       "name": "The Wordless Groan",
       "description": "Sometimes the grief is so heavy that no words will come. You sit there undone, with nothing to offer but an ache, and you worry the silence means your faith is failing. It isn't. There's a stunning promise for exactly this. When you don't know what to pray, when all you can do is groan, the Spirit Himself steps in and prays for you with groans words can't capture. Your speechlessness is not a dead end. It's still heard. God reads the prayer underneath the silence, and He is not waiting on you to find the right words. He already knows.",
-      "scripture": { "text": "The Spirit himself intercedes for us through wordless groans.", "reference": "Romans 8:26" }
+      "scripture": {
+        "text": "And in like manner the Spirit also helpeth our infirmity: for we know not how to pray as we ought; but the Spirit himself maketh intercession for us with groanings which cannot be uttered;",
+        "reference": "Romans 8:26",
+        "translation": "ASV"
+      }
     }
   }
 }

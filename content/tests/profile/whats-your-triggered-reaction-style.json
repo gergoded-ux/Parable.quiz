@@ -6,87 +6,277 @@
   "category": "spiritual-profile",
   "estimatedMinutes": 5,
   "mode": "profile",
-  "dimensions": ["shutdown", "snap", "vanish", "people-please", "spiral"],
+  "dimensions": [
+    "shutdown",
+    "snap",
+    "vanish",
+    "people-please",
+    "spiral"
+  ],
   "questions": [
     {
       "text": "Someone criticizes you out of nowhere. What happens in your body?",
       "options": [
-        { "text": "I freeze. My words just stop and I go blank.", "weights": { "shutdown": 3 } },
-        { "text": "Heat rises fast and I fire back before I think.", "weights": { "snap": 3 } },
-        { "text": "I find a reason to leave the room.", "weights": { "vanish": 3 } },
-        { "text": "I rush to smooth it over and apologize, even if it wasn't me.", "weights": { "people-please": 3 } }
+        {
+          "text": "I freeze. My words just stop and I go blank.",
+          "weights": {
+            "shutdown": 3
+          }
+        },
+        {
+          "text": "Heat rises fast and I fire back before I think.",
+          "weights": {
+            "snap": 3
+          }
+        },
+        {
+          "text": "I find a reason to leave the room.",
+          "weights": {
+            "vanish": 3
+          }
+        },
+        {
+          "text": "I rush to smooth it over and apologize, even if it wasn't me.",
+          "weights": {
+            "people-please": 3
+          }
+        }
       ]
     },
     {
       "text": "Conflict starts brewing with someone you love. You tend to...",
       "options": [
-        { "text": "Go quiet and shut down inside.", "weights": { "shutdown": 3 } },
-        { "text": "Get sharp and defensive quick.", "weights": { "snap": 3 } },
-        { "text": "Pull away and avoid them for a while.", "weights": { "vanish": 3 } },
-        { "text": "Replay it for hours, picking apart every word I said.", "weights": { "spiral": 3 } }
+        {
+          "text": "Go quiet and shut down inside.",
+          "weights": {
+            "shutdown": 3
+          }
+        },
+        {
+          "text": "Get sharp and defensive quick.",
+          "weights": {
+            "snap": 3
+          }
+        },
+        {
+          "text": "Pull away and avoid them for a while.",
+          "weights": {
+            "vanish": 3
+          }
+        },
+        {
+          "text": "Replay it for hours, picking apart every word I said.",
+          "weights": {
+            "spiral": 3
+          }
+        }
       ]
     },
     {
       "text": "When you feel suddenly unsafe or exposed, your instinct is to...",
       "options": [
-        { "text": "Numb out and disconnect from the whole thing.", "weights": { "shutdown": 3 } },
-        { "text": "Get loud or controlling to take the power back.", "weights": { "snap": 3 } },
-        { "text": "Bolt, change the subject, or check out mentally.", "weights": { "vanish": 2, "shutdown": 1 } },
-        { "text": "Make myself small and agreeable so no one's upset.", "weights": { "people-please": 3 } }
+        {
+          "text": "Numb out and disconnect from the whole thing.",
+          "weights": {
+            "shutdown": 3
+          }
+        },
+        {
+          "text": "Get loud or controlling to take the power back.",
+          "weights": {
+            "snap": 3
+          }
+        },
+        {
+          "text": "Bolt, change the subject, or check out mentally.",
+          "weights": {
+            "vanish": 2,
+            "shutdown": 1
+          }
+        },
+        {
+          "text": "Make myself small and agreeable so no one's upset.",
+          "weights": {
+            "people-please": 3
+          }
+        }
       ]
     },
     {
       "text": "After a hard interaction, what do you usually do?",
       "options": [
-        { "text": "Feel foggy and drained, like I left my own body.", "weights": { "shutdown": 3 } },
-        { "text": "Stew in the anger and rehearse what I should've said harder.", "weights": { "snap": 2, "spiral": 1 } },
-        { "text": "Avoid the person and hope it just blows over.", "weights": { "vanish": 3 } },
-        { "text": "Overthink whether they're mad at me for days.", "weights": { "spiral": 3 } }
+        {
+          "text": "Feel foggy and drained, like I left my own body.",
+          "weights": {
+            "shutdown": 3
+          }
+        },
+        {
+          "text": "Stew in the anger and rehearse what I should've said harder.",
+          "weights": {
+            "snap": 2,
+            "spiral": 1
+          }
+        },
+        {
+          "text": "Avoid the person and hope it just blows over.",
+          "weights": {
+            "vanish": 3
+          }
+        },
+        {
+          "text": "Overthink whether they're mad at me for days.",
+          "weights": {
+            "spiral": 3
+          }
+        }
       ]
     },
     {
       "text": "Which sentence sounds most like your inner alarm?",
       "options": [
-        { "text": "If I don't feel it, it can't hurt me.", "weights": { "shutdown": 3 } },
-        { "text": "I'll strike first before they get to me.", "weights": { "snap": 3 } },
-        { "text": "If I disappear, the danger goes away.", "weights": { "vanish": 3 } },
-        { "text": "If I keep everyone happy, I'll be safe.", "weights": { "people-please": 3 } }
+        {
+          "text": "If I don't feel it, it can't hurt me.",
+          "weights": {
+            "shutdown": 3
+          }
+        },
+        {
+          "text": "I'll strike first before they get to me.",
+          "weights": {
+            "snap": 3
+          }
+        },
+        {
+          "text": "If I disappear, the danger goes away.",
+          "weights": {
+            "vanish": 3
+          }
+        },
+        {
+          "text": "If I keep everyone happy, I'll be safe.",
+          "weights": {
+            "people-please": 3
+          }
+        }
       ]
     },
     {
       "text": "Where do you think this reaction first came from?",
       "options": [
-        { "text": "Learning to go invisible when things got tense at home.", "weights": { "shutdown": 2, "vanish": 1 } },
-        { "text": "Having to fight to be heard or to protect myself.", "weights": { "snap": 3 } },
-        { "text": "Escaping was the only way to feel safe back then.", "weights": { "vanish": 3 } },
-        { "text": "Keeping the peace was my job long before it should've been.", "weights": { "people-please": 3 } }
+        {
+          "text": "Learning to go invisible when things got tense at home.",
+          "weights": {
+            "shutdown": 2,
+            "vanish": 1
+          }
+        },
+        {
+          "text": "Having to fight to be heard or to protect myself.",
+          "weights": {
+            "snap": 3
+          }
+        },
+        {
+          "text": "Escaping was the only way to feel safe back then.",
+          "weights": {
+            "vanish": 3
+          }
+        },
+        {
+          "text": "Keeping the peace was my job long before it should've been.",
+          "weights": {
+            "people-please": 3
+          }
+        }
       ]
     },
     {
       "text": "Be honest. What does the reaction cost you most?",
       "options": [
-        { "text": "I miss moments because I check out when it matters.", "weights": { "shutdown": 3 } },
-        { "text": "I hurt people I love before I can stop myself.", "weights": { "snap": 3 } },
-        { "text": "I leave things unresolved and lonely.", "weights": { "vanish": 3 } },
-        { "text": "I lose myself trying to keep everyone else okay.", "weights": { "people-please": 3 } }
+        {
+          "text": "I miss moments because I check out when it matters.",
+          "weights": {
+            "shutdown": 3
+          }
+        },
+        {
+          "text": "I hurt people I love before I can stop myself.",
+          "weights": {
+            "snap": 3
+          }
+        },
+        {
+          "text": "I leave things unresolved and lonely.",
+          "weights": {
+            "vanish": 3
+          }
+        },
+        {
+          "text": "I lose myself trying to keep everyone else okay.",
+          "weights": {
+            "people-please": 3
+          }
+        }
       ]
     },
     {
       "text": "In the heat of a trigger, what would actually help you most?",
       "options": [
-        { "text": "Something to gently pull me back into the present.", "weights": { "shutdown": 3 } },
-        { "text": "A pause long enough to cool before I speak.", "weights": { "snap": 3 } },
-        { "text": "Permission to stay instead of running.", "weights": { "vanish": 3 } },
-        { "text": "Reassurance that I'm allowed to have a need too.", "weights": { "people-please": 2, "spiral": 1 } }
+        {
+          "text": "Something to gently pull me back into the present.",
+          "weights": {
+            "shutdown": 3
+          }
+        },
+        {
+          "text": "A pause long enough to cool before I speak.",
+          "weights": {
+            "snap": 3
+          }
+        },
+        {
+          "text": "Permission to stay instead of running.",
+          "weights": {
+            "vanish": 3
+          }
+        },
+        {
+          "text": "Reassurance that I'm allowed to have a need too.",
+          "weights": {
+            "people-please": 2,
+            "spiral": 1
+          }
+        }
       ]
     },
     {
       "text": "When the wave passes, the quiet hope underneath is...",
       "options": [
-        { "text": "That I could stay present and feel safe doing it.", "weights": { "shutdown": 3 } },
-        { "text": "That I could be calm without armoring up.", "weights": { "snap": 3 } },
-        { "text": "That I could face hard things without fleeing.", "weights": { "vanish": 3 } },
-        { "text": "That I could quiet my mind and stop the endless loop.", "weights": { "spiral": 3 } }
+        {
+          "text": "That I could stay present and feel safe doing it.",
+          "weights": {
+            "shutdown": 3
+          }
+        },
+        {
+          "text": "That I could be calm without armoring up.",
+          "weights": {
+            "snap": 3
+          }
+        },
+        {
+          "text": "That I could face hard things without fleeing.",
+          "weights": {
+            "vanish": 3
+          }
+        },
+        {
+          "text": "That I could quiet my mind and stop the endless loop.",
+          "weights": {
+            "spiral": 3
+          }
+        }
       ]
     }
   ],
@@ -94,27 +284,47 @@
     "shutdown": {
       "name": "The Shutdown (Freeze)",
       "description": "When something pokes an old wound, you go still inside. The words stop, the feelings flatten, and you check out to stay safe. Your nervous system learned this long ago, and it was trying to protect you. But you don't have to disappear anymore. God is near to you even in the numb, foggy moments, and He can gently bring you back to the present. You are safe to feel again, slowly, with Him right beside you.",
-      "scripture": { "text": "The Lord is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.", "reference": "Psalm 34:18" }
+      "scripture": {
+        "text": "Jehovah is nigh unto them that are of a broken heart, And saveth such as are of a contrite spirit.",
+        "reference": "Psalm 34:18",
+        "translation": "ASV"
+      }
     },
     "snap": {
       "name": "The Snap (Fight)",
       "description": "When you feel threatened, the heat comes fast and the sharp words fly before you can catch them. Underneath that fire is usually an old fear that you won't be safe or heard. The anger is protecting something tender. You can learn to feel the spark and still pause before it spreads. God offers you a calm that doesn't require armor, and He's patient with you while you practice the pause.",
-      "scripture": { "text": "Let every man be swift to hear, slow to speak, slow to wrath.", "reference": "James 1:19" }
+      "scripture": {
+        "text": "Ye knowthis, my beloved brethren. But let every man be swift to hear, slow to speak, slow to wrath:",
+        "reference": "James 1:19",
+        "translation": "ASV"
+      }
     },
     "vanish": {
       "name": "The Vanish (Flight)",
       "description": "The second things get tense, your instinct is to get out, whether that means leaving the room or just leaving in your head. Running once kept you safe, and that makes sense. But the things you flee tend to follow you. You don't have to bolt anymore. God doesn't run from you in your hardest moments, and He'll give you the courage to stay, to stay present, to face what's in front of you without fleeing.",
-      "scripture": { "text": "Be strong and of a good courage, fear not, nor be afraid of them: for the Lord thy God, he it is that doth go with thee.", "reference": "Deuteronomy 31:6" }
+      "scripture": {
+        "text": "Be strong and of good courage, fear not, nor be affrighted at them: for Jehovah thy God, he it is that doth go with thee; he will not fail thee, nor forsake thee.",
+        "reference": "Deuteronomy 31:6",
+        "translation": "ASV"
+      }
     },
     "people-please": {
       "name": "The People-Please (Fawn)",
       "description": "When tension rises, you rush to smooth it over, apologize, and keep everyone happy, even at your own expense. You learned early that peace was your responsibility. But here's the truth: you are allowed to have needs, and you don't have to earn your safety by disappearing into everyone else. God already accepts you fully, no performance required. You can please Him and still be honest about what you feel.",
-      "scripture": { "text": "For do I now persuade men, or God? or do I seek to please men? for if I yet pleased men, I should not be the servant of Christ.", "reference": "Galatians 1:10" }
+      "scripture": {
+        "text": "For am I now seeking the favor of men, or of God? or am I striving to please men? if I were still pleasing men, I should not be a servant of Christ.",
+        "reference": "Galatians 1:10",
+        "translation": "ASV"
+      }
     },
     "spiral": {
       "name": "The Spiral (Overthink)",
       "description": "When you get triggered, your mind takes off, replaying the moment, predicting disaster, and looping for hours. The overthinking feels like control, but it just keeps the wound raw. Your thoughts don't have to run the show. You can hand the loop to God, one thought at a time, and let His peace settle the noise. He guards the minds of those who lean on Him, and your spinning heart can finally rest.",
-      "scripture": { "text": "Thou wilt keep him in perfect peace, whose mind is stayed on thee: because he trusteth in thee.", "reference": "Isaiah 26:3" }
+      "scripture": {
+        "text": "Thou wilt keep him in perfect peace, whose mind is stayed on thee; because he trusteth in thee.",
+        "reference": "Isaiah 26:3",
+        "translation": "ASV"
+      }
     }
   }
 }

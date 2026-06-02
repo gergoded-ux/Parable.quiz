@@ -8,6 +8,7 @@ export const ScriptureRef = z.string().min(1);
 export const InlineScripture = z.object({
   text: z.string().min(1),
   reference: z.string().min(1),
+  translation: z.string().optional(),
 });
 export type InlineScripture = z.infer<typeof InlineScripture>;
 

@@ -54,7 +54,7 @@ export function ResultCard(props: Props) {
         </div>
         {verse && (
           <div className="border-t border-brown/15 pt-3 italic text-sm text-ink-soft">
-            &ldquo;{verse.text}&rdquo; — {verse.reference}
+            &ldquo;{verse.text}&rdquo; — {verse.reference}{verse.translation ? ` (${verse.translation})` : ''}
           </div>
         )}
       </div>
@@ -82,7 +82,7 @@ export function ResultCard(props: Props) {
         </div>
         {verse && (
           <div className="border-t border-brown/15 pt-3 mt-4 italic text-sm text-ink-soft">
-            &ldquo;{verse.text}&rdquo; — {verse.reference}
+            &ldquo;{verse.text}&rdquo; — {verse.reference}{verse.translation ? ` (${verse.translation})` : ''}
           </div>
         )}
       </div>

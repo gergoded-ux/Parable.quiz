@@ -10,82 +10,263 @@
     {
       "text": "What does your relationship feel like at its best?",
       "options": [
-        { "text": "Safe and steady. One of us quietly covers the other.", "weights": { "ruth-and-boaz": 3 } },
-        { "text": "Like a team on a mission, building something together.", "weights": { "priscilla-and-aquila": 3 } },
-        { "text": "Tested, but bound by a love that keeps choosing to stay.", "weights": { "hosea-and-gomer": 3 } },
-        { "text": "Passionate and intense, the kind of love worth waiting for.", "weights": { "jacob-and-rachel": 3 } }
+        {
+          "text": "Safe and steady. One of us quietly covers the other.",
+          "weights": {
+            "ruth-and-boaz": 3
+          }
+        },
+        {
+          "text": "Like a team on a mission, building something together.",
+          "weights": {
+            "priscilla-and-aquila": 3
+          }
+        },
+        {
+          "text": "Tested, but bound by a love that keeps choosing to stay.",
+          "weights": {
+            "hosea-and-gomer": 3
+          }
+        },
+        {
+          "text": "Passionate and intense, the kind of love worth waiting for.",
+          "weights": {
+            "jacob-and-rachel": 3
+          }
+        }
       ]
     },
     {
       "text": "How did you two come together?",
       "options": [
-        { "text": "Quietly and with honor. No games, just real care.", "weights": { "ruth-and-boaz": 3 } },
-        { "text": "Around a shared purpose bigger than the two of us.", "weights": { "priscilla-and-aquila": 3 } },
-        { "text": "Through a lot of mess, grace, and second chances.", "weights": { "hosea-and-gomer": 3 } },
-        { "text": "I knew fast, and I was willing to work for it.", "weights": { "jacob-and-rachel": 3 } }
+        {
+          "text": "Quietly and with honor. No games, just real care.",
+          "weights": {
+            "ruth-and-boaz": 3
+          }
+        },
+        {
+          "text": "Around a shared purpose bigger than the two of us.",
+          "weights": {
+            "priscilla-and-aquila": 3
+          }
+        },
+        {
+          "text": "Through a lot of mess, grace, and second chances.",
+          "weights": {
+            "hosea-and-gomer": 3
+          }
+        },
+        {
+          "text": "I knew fast, and I was willing to work for it.",
+          "weights": {
+            "jacob-and-rachel": 3
+          }
+        }
       ]
     },
     {
       "text": "When conflict hits, what's your pattern?",
       "options": [
-        { "text": "We stay gentle and protect each other's dignity.", "weights": { "ruth-and-boaz": 3 } },
-        { "text": "We talk it through like partners solving a problem.", "weights": { "priscilla-and-aquila": 3 } },
-        { "text": "It gets painful, but somebody always comes back to love.", "weights": { "hosea-and-gomer": 3 } },
-        { "text": "One of us is the calm, wise voice that defuses it.", "weights": { "abigail-and-nabal": 3 } }
+        {
+          "text": "We stay gentle and protect each other's dignity.",
+          "weights": {
+            "ruth-and-boaz": 3
+          }
+        },
+        {
+          "text": "We talk it through like partners solving a problem.",
+          "weights": {
+            "priscilla-and-aquila": 3
+          }
+        },
+        {
+          "text": "It gets painful, but somebody always comes back to love.",
+          "weights": {
+            "hosea-and-gomer": 3
+          }
+        },
+        {
+          "text": "One of us is the calm, wise voice that defuses it.",
+          "weights": {
+            "abigail-and-nabal": 3
+          }
+        }
       ]
     },
     {
       "text": "Be honest about the harder side of your story:",
       "options": [
-        { "text": "We've waited a long, long time for a promise to come.", "weights": { "abraham-and-sarah": 3 } },
-        { "text": "One of us has been more difficult, and the other holds it together.", "weights": { "abigail-and-nabal": 3 } },
-        { "text": "There's been betrayal we're learning to forgive.", "weights": { "hosea-and-gomer": 3 } },
-        { "text": "There's some favoritism or comparison we have to watch.", "weights": { "jacob-and-rachel": 3 } }
+        {
+          "text": "We've waited a long, long time for a promise to come.",
+          "weights": {
+            "abraham-and-sarah": 3
+          }
+        },
+        {
+          "text": "One of us has been more difficult, and the other holds it together.",
+          "weights": {
+            "abigail-and-nabal": 3
+          }
+        },
+        {
+          "text": "There's been betrayal we're learning to forgive.",
+          "weights": {
+            "hosea-and-gomer": 3
+          }
+        },
+        {
+          "text": "There's some favoritism or comparison we have to watch.",
+          "weights": {
+            "jacob-and-rachel": 3
+          }
+        }
       ]
     },
     {
       "text": "What do other people notice about you two?",
       "options": [
-        { "text": "How kind and protective you are with each other.", "weights": { "ruth-and-boaz": 3 } },
-        { "text": "How much you accomplish as a pair.", "weights": { "priscilla-and-aquila": 3 } },
-        { "text": "That one of you carries a quiet wisdom that steadies the home.", "weights": { "abigail-and-nabal": 3 } },
-        { "text": "That you've stuck it out through things that break most people.", "weights": { "hosea-and-gomer": 2, "abraham-and-sarah": 1 } }
+        {
+          "text": "How kind and protective you are with each other.",
+          "weights": {
+            "ruth-and-boaz": 3
+          }
+        },
+        {
+          "text": "How much you accomplish as a pair.",
+          "weights": {
+            "priscilla-and-aquila": 3
+          }
+        },
+        {
+          "text": "That one of you carries a quiet wisdom that steadies the home.",
+          "weights": {
+            "abigail-and-nabal": 3
+          }
+        },
+        {
+          "text": "That you've stuck it out through things that break most people.",
+          "weights": {
+            "hosea-and-gomer": 2,
+            "abraham-and-sarah": 1
+          }
+        }
       ]
     },
     {
       "text": "How do faith and God fit into your relationship?",
       "options": [
-        { "text": "We serve and teach others side by side.", "weights": { "priscilla-and-aquila": 3 } },
-        { "text": "We're holding onto a promise that hasn't arrived yet.", "weights": { "abraham-and-sarah": 3 } },
-        { "text": "Grace is the whole reason we're still together.", "weights": { "hosea-and-gomer": 3 } },
-        { "text": "Honor and integrity guide how we treat each other.", "weights": { "ruth-and-boaz": 3 } }
+        {
+          "text": "We serve and teach others side by side.",
+          "weights": {
+            "priscilla-and-aquila": 3
+          }
+        },
+        {
+          "text": "We're holding onto a promise that hasn't arrived yet.",
+          "weights": {
+            "abraham-and-sarah": 3
+          }
+        },
+        {
+          "text": "Grace is the whole reason we're still together.",
+          "weights": {
+            "hosea-and-gomer": 3
+          }
+        },
+        {
+          "text": "Honor and integrity guide how we treat each other.",
+          "weights": {
+            "ruth-and-boaz": 3
+          }
+        }
       ]
     },
     {
       "text": "Pick the season that fits you right now:",
       "options": [
-        { "text": "Waiting on God past the point it seems possible.", "weights": { "abraham-and-sarah": 3 } },
-        { "text": "Rebuilding trust after a deep wound.", "weights": { "hosea-and-gomer": 3 } },
-        { "text": "One of us stepping in to protect the family from a bad call.", "weights": { "abigail-and-nabal": 3 } },
-        { "text": "Building a ministry or a mission together.", "weights": { "priscilla-and-aquila": 3 } }
+        {
+          "text": "Waiting on God past the point it seems possible.",
+          "weights": {
+            "abraham-and-sarah": 3
+          }
+        },
+        {
+          "text": "Rebuilding trust after a deep wound.",
+          "weights": {
+            "hosea-and-gomer": 3
+          }
+        },
+        {
+          "text": "One of us stepping in to protect the family from a bad call.",
+          "weights": {
+            "abigail-and-nabal": 3
+          }
+        },
+        {
+          "text": "Building a ministry or a mission together.",
+          "weights": {
+            "priscilla-and-aquila": 3
+          }
+        }
       ]
     },
     {
       "text": "What's the love story you most relate to?",
       "options": [
-        { "text": "A redeemer who covers someone and gives them a future.", "weights": { "ruth-and-boaz": 3 } },
-        { "text": "A love so strong the years of waiting felt like days.", "weights": { "jacob-and-rachel": 3 } },
-        { "text": "A spouse who keeps pursuing even when it isn't deserved.", "weights": { "hosea-and-gomer": 3 } },
-        { "text": "Laughing in disbelief, then watching God do it anyway.", "weights": { "abraham-and-sarah": 3 } }
+        {
+          "text": "A redeemer who covers someone and gives them a future.",
+          "weights": {
+            "ruth-and-boaz": 3
+          }
+        },
+        {
+          "text": "A love so strong the years of waiting felt like days.",
+          "weights": {
+            "jacob-and-rachel": 3
+          }
+        },
+        {
+          "text": "A spouse who keeps pursuing even when it isn't deserved.",
+          "weights": {
+            "hosea-and-gomer": 3
+          }
+        },
+        {
+          "text": "Laughing in disbelief, then watching God do it anyway.",
+          "weights": {
+            "abraham-and-sarah": 3
+          }
+        }
       ]
     },
     {
       "text": "If your relationship had a one-line tagline, it would be...",
       "options": [
-        { "text": "\"You're covered and you're safe with me.\"", "weights": { "ruth-and-boaz": 3 } },
-        { "text": "\"Better together, on purpose.\"", "weights": { "priscilla-and-aquila": 3 } },
-        { "text": "\"Loved all the way back home.\"", "weights": { "hosea-and-gomer": 3 } },
-        { "text": "\"One steady heart holding it all together.\"", "weights": { "abigail-and-nabal": 3 } }
+        {
+          "text": "\"You're covered and you're safe with me.\"",
+          "weights": {
+            "ruth-and-boaz": 3
+          }
+        },
+        {
+          "text": "\"Better together, on purpose.\"",
+          "weights": {
+            "priscilla-and-aquila": 3
+          }
+        },
+        {
+          "text": "\"Loved all the way back home.\"",
+          "weights": {
+            "hosea-and-gomer": 3
+          }
+        },
+        {
+          "text": "\"One steady heart holding it all together.\"",
+          "weights": {
+            "abigail-and-nabal": 3
+          }
+        }
       ]
     }
   ],
@@ -93,44 +274,92 @@
     "ruth-and-boaz": {
       "name": "Ruth and Boaz",
       "emoji": "🌾",
-      "traits": ["Honorable", "Protective", "Faithful"],
+      "traits": [
+        "Honorable",
+        "Protective",
+        "Faithful"
+      ],
       "description": "Yours is a love built on integrity. One of you steps in to cover and protect, and neither of you plays games with the other's heart. It's the kind of steady, redeeming love that gives a person a future they couldn't have written for themselves. Keep treating each other with that quiet honor.",
-      "scripture": { "text": "The Lord bless you, my daughter. This kindness is greater than that which you showed earlier.", "reference": "Ruth 3:10" }
+      "scripture": {
+        "text": "And he said, Blessed be thou of Jehovah, my daughter: thou hast showed more kindness in the latter end than at the beginning, inasmuch as thou followedst not young men, whether poor or rich.",
+        "reference": "Ruth 3:10",
+        "translation": "ASV"
+      }
     },
     "priscilla-and-aquila": {
       "name": "Priscilla and Aquila",
       "emoji": "⚒️",
-      "traits": ["Devoted", "Capable", "United"],
+      "traits": [
+        "Devoted",
+        "Capable",
+        "United"
+      ],
       "description": "You two are a team with a mission. You build, you serve, you disciple people side by side, and you're stronger because you're pointed the same direction. The world needs couples who work like partners and love like friends. That's you.",
-      "scripture": { "text": "Greet Priscilla and Aquila, my co-workers in Christ Jesus.", "reference": "Romans 16:3" }
+      "scripture": {
+        "text": "Salute Prisca and Aquila my fellow-workers in Christ Jesus,",
+        "reference": "Romans 16:3",
+        "translation": "ASV"
+      }
     },
     "hosea-and-gomer": {
       "name": "Hosea and Gomer",
       "emoji": "💞",
-      "traits": ["Forgiving", "Loyal", "Redemptive"],
+      "traits": [
+        "Forgiving",
+        "Loyal",
+        "Redemptive"
+      ],
       "description": "Your story has known real pain, and real grace. Somebody here keeps choosing love even when it would be easier to walk. That kind of pursuing, forgiving love is the closest thing on earth to how God loves us. It's hard and holy. Don't lose heart.",
-      "scripture": { "text": "I will betroth you to me forever; I will betroth you in righteousness and justice, in love and compassion.", "reference": "Hosea 2:19" }
+      "scripture": {
+        "text": "And I will betroth thee unto me for ever; yea, I will betroth thee unto me in righteousness, and in justice, and in lovingkindness, and in mercies.",
+        "reference": "Hosea 2:19",
+        "translation": "ASV"
+      }
     },
     "jacob-and-rachel": {
       "name": "Jacob and Rachel",
       "emoji": "🔥",
-      "traits": ["Passionate", "Devoted", "Patient"],
+      "traits": [
+        "Passionate",
+        "Devoted",
+        "Patient"
+      ],
       "description": "Yours is a love worth working and waiting for. The feeling runs deep, and you'd go the distance for each other. Just keep an eye on comparison and favoritism, the things that strained their home. Tend the passion, but guard the fairness too.",
-      "scripture": { "text": "Jacob served seven years to get Rachel, but they seemed like only a few days to him because of his love for her.", "reference": "Genesis 29:20" }
+      "scripture": {
+        "text": "And Jacob served seven years for Rachel; and they seemed unto him but a few days, for the love he had to her.",
+        "reference": "Genesis 29:20",
+        "translation": "ASV"
+      }
     },
     "abigail-and-nabal": {
       "name": "Abigail and Nabal",
       "emoji": "🛡️",
-      "traits": ["Wise", "Steady", "Discerning"],
+      "traits": [
+        "Wise",
+        "Steady",
+        "Discerning"
+      ],
       "description": "In your relationship, one of you carries a quiet wisdom that keeps the whole house from disaster. You step in, smooth things over, and protect what matters when the other reacts badly. That steadiness is a real gift. Just make sure you're being honored, not only relied on.",
-      "scripture": { "text": "May you be blessed for your good judgment and for keeping me from bloodshed this day.", "reference": "1 Samuel 25:33" }
+      "scripture": {
+        "text": "and blessed be thy discretion, and blessed be thou, that hast kept me this day from bloodguiltiness, and from avenging myself with mine own hand.",
+        "reference": "1 Samuel 25:33",
+        "translation": "ASV"
+      }
     },
     "abraham-and-sarah": {
       "name": "Abraham and Sarah",
       "emoji": "⭐",
-      "traits": ["Enduring", "Hopeful", "Trusting"],
+      "traits": [
+        "Enduring",
+        "Hopeful",
+        "Trusting"
+      ],
       "description": "You two are people of the long wait. You've held onto a promise well past the point it seemed reasonable, and you've probably laughed in disbelief at least once. Keep holding on together. God has a habit of showing up right at the edge of impossible.",
-      "scripture": { "text": "Is anything too hard for the Lord?", "reference": "Genesis 18:14" }
+      "scripture": {
+        "text": "Is anything too hard for Jehovah? At the set time I will return unto thee, when the season cometh round, and Sarah shall have a son.",
+        "reference": "Genesis 18:14",
+        "translation": "ASV"
+      }
     }
   }
 }

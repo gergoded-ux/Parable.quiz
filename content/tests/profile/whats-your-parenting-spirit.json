@@ -6,87 +6,280 @@
   "category": "spiritual-profile",
   "estimatedMinutes": 5,
   "mode": "profile",
-  "dimensions": ["gentle-shepherd", "firm-anchor", "grace-first", "anxious-perfectionist", "recovering-strict"],
+  "dimensions": [
+    "gentle-shepherd",
+    "firm-anchor",
+    "grace-first",
+    "anxious-perfectionist",
+    "recovering-strict"
+  ],
   "questions": [
     {
       "text": "Your child melts down in public. What rises up in you first?",
       "options": [
-        { "text": "I kneel down, soften my voice, and try to reach their heart.", "weights": { "gentle-shepherd": 3 } },
-        { "text": "I hold the line calmly. They need to know the boundary holds.", "weights": { "firm-anchor": 3 } },
-        { "text": "I remember they're little and lead with mercy first.", "weights": { "grace-first": 3 } },
-        { "text": "I panic about what everyone watching must think of me.", "weights": { "anxious-perfectionist": 3 } }
+        {
+          "text": "I kneel down, soften my voice, and try to reach their heart.",
+          "weights": {
+            "gentle-shepherd": 3
+          }
+        },
+        {
+          "text": "I hold the line calmly. They need to know the boundary holds.",
+          "weights": {
+            "firm-anchor": 3
+          }
+        },
+        {
+          "text": "I remember they're little and lead with mercy first.",
+          "weights": {
+            "grace-first": 3
+          }
+        },
+        {
+          "text": "I panic about what everyone watching must think of me.",
+          "weights": {
+            "anxious-perfectionist": 3
+          }
+        }
       ]
     },
     {
       "text": "When you think about how you were raised, you...",
       "options": [
-        { "text": "Are deliberately doing the gentleness I never got.", "weights": { "recovering-strict": 2, "gentle-shepherd": 1 } },
-        { "text": "Keep the good structure I had and drop the harshness.", "weights": { "firm-anchor": 2, "recovering-strict": 1 } },
-        { "text": "Lead with grace because rules without love wounded me.", "weights": { "grace-first": 3 } },
-        { "text": "Worry I'll repeat the strictness I swore I'd never copy.", "weights": { "recovering-strict": 3 } }
+        {
+          "text": "Are deliberately doing the gentleness I never got.",
+          "weights": {
+            "recovering-strict": 2,
+            "gentle-shepherd": 1
+          }
+        },
+        {
+          "text": "Keep the good structure I had and drop the harshness.",
+          "weights": {
+            "firm-anchor": 2,
+            "recovering-strict": 1
+          }
+        },
+        {
+          "text": "Lead with grace because rules without love wounded me.",
+          "weights": {
+            "grace-first": 3
+          }
+        },
+        {
+          "text": "Worry I'll repeat the strictness I swore I'd never copy.",
+          "weights": {
+            "recovering-strict": 3
+          }
+        }
       ]
     },
     {
       "text": "What keeps you up at night about your parenting?",
       "options": [
-        { "text": "Whether my kids feel truly safe and heard with me.", "weights": { "gentle-shepherd": 3 } },
-        { "text": "Whether I'm giving them enough backbone for the real world.", "weights": { "firm-anchor": 3 } },
-        { "text": "Whether they know nothing they do could lose my love.", "weights": { "grace-first": 3 } },
-        { "text": "Whether I'm doing any of it right at all.", "weights": { "anxious-perfectionist": 3 } }
+        {
+          "text": "Whether my kids feel truly safe and heard with me.",
+          "weights": {
+            "gentle-shepherd": 3
+          }
+        },
+        {
+          "text": "Whether I'm giving them enough backbone for the real world.",
+          "weights": {
+            "firm-anchor": 3
+          }
+        },
+        {
+          "text": "Whether they know nothing they do could lose my love.",
+          "weights": {
+            "grace-first": 3
+          }
+        },
+        {
+          "text": "Whether I'm doing any of it right at all.",
+          "weights": {
+            "anxious-perfectionist": 3
+          }
+        }
       ]
     },
     {
       "text": "Your kid breaks a real rule. Your instinct is to...",
       "options": [
-        { "text": "Ask what was going on inside them first.", "weights": { "gentle-shepherd": 3 } },
-        { "text": "Give the consequence I already told them was coming.", "weights": { "firm-anchor": 3 } },
-        { "text": "Lead with the talk, not the punishment.", "weights": { "grace-first": 3 } },
-        { "text": "React harder than I meant to, then feel awful after.", "weights": { "recovering-strict": 2, "anxious-perfectionist": 1 } }
+        {
+          "text": "Ask what was going on inside them first.",
+          "weights": {
+            "gentle-shepherd": 3
+          }
+        },
+        {
+          "text": "Give the consequence I already told them was coming.",
+          "weights": {
+            "firm-anchor": 3
+          }
+        },
+        {
+          "text": "Lead with the talk, not the punishment.",
+          "weights": {
+            "grace-first": 3
+          }
+        },
+        {
+          "text": "React harder than I meant to, then feel awful after.",
+          "weights": {
+            "recovering-strict": 2,
+            "anxious-perfectionist": 1
+          }
+        }
       ]
     },
     {
       "text": "Which parenting line do you wrestle with the most?",
       "options": [
-        { "text": "Am I being gentle, or am I just avoiding hard moments?", "weights": { "gentle-shepherd": 2, "grace-first": 1 } },
-        { "text": "Am I being firm, or am I being too rigid?", "weights": { "firm-anchor": 3 } },
-        { "text": "Am I showing grace, or letting things slide too far?", "weights": { "grace-first": 3 } },
-        { "text": "Why can't I just relax and trust that they'll be okay?", "weights": { "anxious-perfectionist": 3 } }
+        {
+          "text": "Am I being gentle, or am I just avoiding hard moments?",
+          "weights": {
+            "gentle-shepherd": 2,
+            "grace-first": 1
+          }
+        },
+        {
+          "text": "Am I being firm, or am I being too rigid?",
+          "weights": {
+            "firm-anchor": 3
+          }
+        },
+        {
+          "text": "Am I showing grace, or letting things slide too far?",
+          "weights": {
+            "grace-first": 3
+          }
+        },
+        {
+          "text": "Why can't I just relax and trust that they'll be okay?",
+          "weights": {
+            "anxious-perfectionist": 3
+          }
+        }
       ]
     },
     {
       "text": "Bedtime is finally here. What does it usually look like?",
       "options": [
-        { "text": "Snuggles, quiet talk, and a soft landing to the day.", "weights": { "gentle-shepherd": 3 } },
-        { "text": "A steady routine they can count on every single night.", "weights": { "firm-anchor": 3 } },
-        { "text": "Whatever they need tonight, even if it bends the plan.", "weights": { "grace-first": 3 } },
-        { "text": "Me replaying every mistake I made with them today.", "weights": { "anxious-perfectionist": 3 } }
+        {
+          "text": "Snuggles, quiet talk, and a soft landing to the day.",
+          "weights": {
+            "gentle-shepherd": 3
+          }
+        },
+        {
+          "text": "A steady routine they can count on every single night.",
+          "weights": {
+            "firm-anchor": 3
+          }
+        },
+        {
+          "text": "Whatever they need tonight, even if it bends the plan.",
+          "weights": {
+            "grace-first": 3
+          }
+        },
+        {
+          "text": "Me replaying every mistake I made with them today.",
+          "weights": {
+            "anxious-perfectionist": 3
+          }
+        }
       ]
     },
     {
       "text": "When another mom parents differently than you, you feel...",
       "options": [
-        { "text": "Curious. Maybe there's something gentle I can learn.", "weights": { "gentle-shepherd": 2, "grace-first": 1 } },
-        { "text": "Settled. I know what my home needs.", "weights": { "firm-anchor": 3 } },
-        { "text": "Compassion. We're all just trying to love them well.", "weights": { "grace-first": 3 } },
-        { "text": "Insecure, like maybe she's getting it right and I'm not.", "weights": { "anxious-perfectionist": 3 } }
+        {
+          "text": "Curious. Maybe there's something gentle I can learn.",
+          "weights": {
+            "gentle-shepherd": 2,
+            "grace-first": 1
+          }
+        },
+        {
+          "text": "Settled. I know what my home needs.",
+          "weights": {
+            "firm-anchor": 3
+          }
+        },
+        {
+          "text": "Compassion. We're all just trying to love them well.",
+          "weights": {
+            "grace-first": 3
+          }
+        },
+        {
+          "text": "Insecure, like maybe she's getting it right and I'm not.",
+          "weights": {
+            "anxious-perfectionist": 3
+          }
+        }
       ]
     },
     {
       "text": "What's your biggest hope for your kids one day?",
       "options": [
-        { "text": "That they feel deeply known and tender toward others.", "weights": { "gentle-shepherd": 3 } },
-        { "text": "That they stand on solid values when life gets hard.", "weights": { "firm-anchor": 3 } },
-        { "text": "That they live free, knowing grace before they earn anything.", "weights": { "grace-first": 3 } },
-        { "text": "That they break the harsh patterns I was handed.", "weights": { "recovering-strict": 3 } }
+        {
+          "text": "That they feel deeply known and tender toward others.",
+          "weights": {
+            "gentle-shepherd": 3
+          }
+        },
+        {
+          "text": "That they stand on solid values when life gets hard.",
+          "weights": {
+            "firm-anchor": 3
+          }
+        },
+        {
+          "text": "That they live free, knowing grace before they earn anything.",
+          "weights": {
+            "grace-first": 3
+          }
+        },
+        {
+          "text": "That they break the harsh patterns I was handed.",
+          "weights": {
+            "recovering-strict": 3
+          }
+        }
       ]
     },
     {
       "text": "On a hard day, the quiet lie you believe about yourself is...",
       "options": [
-        { "text": "If I'm not perfect, I'm failing them.", "weights": { "anxious-perfectionist": 3 } },
-        { "text": "I'm too soft and I'm setting them up to struggle.", "weights": { "gentle-shepherd": 2, "grace-first": 1 } },
-        { "text": "I'm too strict and I'll push them away.", "weights": { "recovering-strict": 3 } },
-        { "text": "I'm too easy and they'll never learn.", "weights": { "grace-first": 2, "firm-anchor": 1 } }
+        {
+          "text": "If I'm not perfect, I'm failing them.",
+          "weights": {
+            "anxious-perfectionist": 3
+          }
+        },
+        {
+          "text": "I'm too soft and I'm setting them up to struggle.",
+          "weights": {
+            "gentle-shepherd": 2,
+            "grace-first": 1
+          }
+        },
+        {
+          "text": "I'm too strict and I'll push them away.",
+          "weights": {
+            "recovering-strict": 3
+          }
+        },
+        {
+          "text": "I'm too easy and they'll never learn.",
+          "weights": {
+            "grace-first": 2,
+            "firm-anchor": 1
+          }
+        }
       ]
     }
   ],
@@ -94,27 +287,47 @@
     "gentle-shepherd": {
       "name": "The Gentle Shepherd",
       "description": "You parent the way a shepherd leads, close, patient, watching for the heart behind the behavior. Your kids feel safe with you, and that safety is a gift not every child gets. Just remember that gentleness and firmness aren't enemies. The same Shepherd who carries the lambs also guides them with a staff, and your kids can hold both from you.",
-      "scripture": { "text": "He shall feed his flock like a shepherd: he shall gather the lambs with his arm, and carry them in his bosom.", "reference": "Isaiah 40:11" }
+      "scripture": {
+        "text": "He will feed his flock like a shepherd, he will gather the lambs in his arm, and carry them in his bosom, and will gently lead those that have their young.",
+        "reference": "Isaiah 40:11",
+        "translation": "ASV"
+      }
     },
     "firm-anchor": {
       "name": "The Firm Anchor",
       "description": "You're the steady one. Your kids know where the lines are, and there's deep security in that. A home with a reliable anchor doesn't drift. Keep letting tenderness ride alongside that strength, because the goal was never just obedience. It's children who feel held even while they're being guided, and you give them both.",
-      "scripture": { "text": "And, ye fathers, provoke not your children to wrath: but bring them up in the nurture and admonition of the Lord.", "reference": "Ephesians 6:4" }
+      "scripture": {
+        "text": "And, ye fathers, provoke not your children to wrath: but nurture them in the chastening and admonition of the Lord.",
+        "reference": "Ephesians 6:4",
+        "translation": "ASV"
+      }
     },
     "grace-first": {
       "name": "The Grace-First Parent",
       "description": "You lead with mercy, and your kids are growing up knowing they're loved before they ever earn it. That's the heart of the gospel lived out at your own kitchen table. Grace and boundaries aren't opposites, though. The same love that forgives also guides, and your children can flourish inside both when you hold them together.",
-      "scripture": { "text": "Like as a father pitieth his children, so the Lord pitieth them that fear him.", "reference": "Psalm 103:13" }
+      "scripture": {
+        "text": "Like as a father pitieth his children, So Jehovah pitieth them that fear him.",
+        "reference": "Psalm 103:13",
+        "translation": "ASV"
+      }
     },
     "anxious-perfectionist": {
       "name": "The Anxious Perfectionist",
       "description": "You care so much that every misstep feels like proof you're failing. But here's the truth your tired heart needs: your kids don't need a perfect parent. They need a present one, and you are showing up every single day. God isn't grading you. He's holding you. Lay the impossible standard down and let His grace cover the gaps you can't.",
-      "scripture": { "text": "My grace is sufficient for thee: for my strength is made perfect in weakness.", "reference": "2 Corinthians 12:9" }
+      "scripture": {
+        "text": "And he hath said unto me, My grace is sufficient for thee: for my power is made perfect in weakness. Most gladly therefore will I rather glory in my weaknesses, that the power of Christ may rest upon me.",
+        "reference": "2 Corinthians 12:9",
+        "translation": "ASV"
+      }
     },
     "recovering-strict": {
       "name": "The Recovering Strict Parent",
       "description": "You're rewriting the script you were raised in, and that takes real courage. Some days the old harshness slips out and you grieve it. That grief is actually a sign of how much you've grown. You won't do it flawlessly, but you are breaking a chain your kids will never have to carry. God meets you in every restart, and there's no limit on fresh beginnings with Him.",
-      "scripture": { "text": "It is of the Lord's mercies that we are not consumed, because his compassions fail not. They are new every morning.", "reference": "Lamentations 3:22-23" }
+      "scripture": {
+        "text": "It is of Jehovah’s lovingkindnesses that we are not consumed, because his compassions fail not. They are new every morning; great is thy faithfulness.",
+        "reference": "Lamentations 3:22-23",
+        "translation": "ASV"
+      }
     }
   }
 }

@@ -16,82 +16,262 @@
     {
       "text": "When did the purposeless feeling really set in?",
       "options": [
-        { "text": "After a big role or season of mine ended.", "weights": { "outgrown-identity": 3 } },
-        { "text": "The more time I spend scrolling other people's lives.", "weights": { "comparison-trap": 3 } },
-        { "text": "In this quiet stretch where nothing visible is happening.", "weights": { "hidden-season": 3 } },
-        { "text": "When I lost touch with why I was doing any of it.", "weights": { "disconnected-from-why": 3 } }
+        {
+          "text": "After a big role or season of mine ended.",
+          "weights": {
+            "outgrown-identity": 3
+          }
+        },
+        {
+          "text": "The more time I spend scrolling other people's lives.",
+          "weights": {
+            "comparison-trap": 3
+          }
+        },
+        {
+          "text": "In this quiet stretch where nothing visible is happening.",
+          "weights": {
+            "hidden-season": 3
+          }
+        },
+        {
+          "text": "When I lost touch with why I was doing any of it.",
+          "weights": {
+            "disconnected-from-why": 3
+          }
+        }
       ]
     },
     {
       "text": "What's the loudest thought when the emptiness hits?",
       "options": [
-        { "text": "Who even am I now that that's over?", "weights": { "outgrown-identity": 3 } },
-        { "text": "Everyone else is so far ahead of me.", "weights": { "comparison-trap": 3 } },
-        { "text": "Is anything I do even mattering right now?", "weights": { "hidden-season": 3 } },
-        { "text": "What's the point of all this, really?", "weights": { "disconnected-from-why": 3 } }
+        {
+          "text": "Who even am I now that that's over?",
+          "weights": {
+            "outgrown-identity": 3
+          }
+        },
+        {
+          "text": "Everyone else is so far ahead of me.",
+          "weights": {
+            "comparison-trap": 3
+          }
+        },
+        {
+          "text": "Is anything I do even mattering right now?",
+          "weights": {
+            "hidden-season": 3
+          }
+        },
+        {
+          "text": "What's the point of all this, really?",
+          "weights": {
+            "disconnected-from-why": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you find yourself missing most?",
       "options": [
-        { "text": "The version of me that had a clear role and place.", "weights": { "outgrown-identity": 3 } },
-        { "text": "Feeling content before I started measuring myself against others.", "weights": { "comparison-trap": 3 } },
-        { "text": "Visible progress I can actually point to.", "weights": { "hidden-season": 3 } },
-        { "text": "The fire I used to have for what I'm doing.", "weights": { "disconnected-from-why": 3 } }
+        {
+          "text": "The version of me that had a clear role and place.",
+          "weights": {
+            "outgrown-identity": 3
+          }
+        },
+        {
+          "text": "Feeling content before I started measuring myself against others.",
+          "weights": {
+            "comparison-trap": 3
+          }
+        },
+        {
+          "text": "Visible progress I can actually point to.",
+          "weights": {
+            "hidden-season": 3
+          }
+        },
+        {
+          "text": "The fire I used to have for what I'm doing.",
+          "weights": {
+            "disconnected-from-why": 3
+          }
+        }
       ]
     },
     {
       "text": "Where does your mind go when you compare your life to where you 'should' be?",
       "options": [
-        { "text": "I keep grieving an identity that no longer fits.", "weights": { "outgrown-identity": 3 } },
-        { "text": "Straight to everyone who seems to have it figured out.", "weights": { "comparison-trap": 3 } },
-        { "text": "I feel stuck in a waiting room with no clear exit.", "weights": { "hidden-season": 3 } },
-        { "text": "I realize I'm going through motions I no longer believe in.", "weights": { "disconnected-from-why": 3 } }
+        {
+          "text": "I keep grieving an identity that no longer fits.",
+          "weights": {
+            "outgrown-identity": 3
+          }
+        },
+        {
+          "text": "Straight to everyone who seems to have it figured out.",
+          "weights": {
+            "comparison-trap": 3
+          }
+        },
+        {
+          "text": "I feel stuck in a waiting room with no clear exit.",
+          "weights": {
+            "hidden-season": 3
+          }
+        },
+        {
+          "text": "I realize I'm going through motions I no longer believe in.",
+          "weights": {
+            "disconnected-from-why": 3
+          }
+        }
       ]
     },
     {
       "text": "What feels true about your days lately?",
       "options": [
-        { "text": "They don't fit who I used to be, and I haven't found the new me.", "weights": { "outgrown-identity": 3 } },
-        { "text": "They feel small next to the highlight reels I keep watching.", "weights": { "comparison-trap": 3 } },
-        { "text": "They're quiet and hidden, like no one's even watching.", "weights": { "hidden-season": 3 } },
-        { "text": "They're busy but hollow, disconnected from anything that matters.", "weights": { "disconnected-from-why": 3 } }
+        {
+          "text": "They don't fit who I used to be, and I haven't found the new me.",
+          "weights": {
+            "outgrown-identity": 3
+          }
+        },
+        {
+          "text": "They feel small next to the highlight reels I keep watching.",
+          "weights": {
+            "comparison-trap": 3
+          }
+        },
+        {
+          "text": "They're quiet and hidden, like no one's even watching.",
+          "weights": {
+            "hidden-season": 3
+          }
+        },
+        {
+          "text": "They're busy but hollow, disconnected from anything that matters.",
+          "weights": {
+            "disconnected-from-why": 3
+          }
+        }
       ]
     },
     {
       "text": "Which sentence stings the most?",
       "options": [
-        { "text": "\"You're grieving a self you outgrew but haven't replaced.\"", "weights": { "outgrown-identity": 3 } },
-        { "text": "\"You're comparing your behind-the-scenes to their highlight reel.\"", "weights": { "comparison-trap": 3 } },
-        { "text": "\"You're in a hidden season, and the silence feels like nothing.\"", "weights": { "hidden-season": 3 } },
-        { "text": "\"You're so busy you forgot why you started.\"", "weights": { "disconnected-from-why": 3 } }
+        {
+          "text": "\"You're grieving a self you outgrew but haven't replaced.\"",
+          "weights": {
+            "outgrown-identity": 3
+          }
+        },
+        {
+          "text": "\"You're comparing your behind-the-scenes to their highlight reel.\"",
+          "weights": {
+            "comparison-trap": 3
+          }
+        },
+        {
+          "text": "\"You're in a hidden season, and the silence feels like nothing.\"",
+          "weights": {
+            "hidden-season": 3
+          }
+        },
+        {
+          "text": "\"You're so busy you forgot why you started.\"",
+          "weights": {
+            "disconnected-from-why": 3
+          }
+        }
       ]
     },
     {
       "text": "What would actually help right now?",
       "options": [
-        { "text": "Help discovering who I'm becoming, not just who I was.", "weights": { "outgrown-identity": 3 } },
-        { "text": "Putting down the phone and stopping the constant comparing.", "weights": { "comparison-trap": 3 } },
-        { "text": "Trusting that hidden seasons still count for something.", "weights": { "hidden-season": 3 } },
-        { "text": "Reconnecting to a reason bigger than my to-do list.", "weights": { "disconnected-from-why": 3 } }
+        {
+          "text": "Help discovering who I'm becoming, not just who I was.",
+          "weights": {
+            "outgrown-identity": 3
+          }
+        },
+        {
+          "text": "Putting down the phone and stopping the constant comparing.",
+          "weights": {
+            "comparison-trap": 3
+          }
+        },
+        {
+          "text": "Trusting that hidden seasons still count for something.",
+          "weights": {
+            "hidden-season": 3
+          }
+        },
+        {
+          "text": "Reconnecting to a reason bigger than my to-do list.",
+          "weights": {
+            "disconnected-from-why": 3
+          }
+        }
       ]
     },
     {
       "text": "When you imagine God looking at your life right now, what do you assume He sees?",
       "options": [
-        { "text": "Someone in between who they were and who they'll be.", "weights": { "outgrown-identity": 3 } },
-        { "text": "Someone too busy watching others to see their own gifts.", "weights": { "comparison-trap": 3 } },
-        { "text": "Someone in a hidden place He hasn't forgotten.", "weights": { "hidden-season": 3 } },
-        { "text": "Someone who lost the thread of why they're here.", "weights": { "disconnected-from-why": 3 } }
+        {
+          "text": "Someone in between who they were and who they'll be.",
+          "weights": {
+            "outgrown-identity": 3
+          }
+        },
+        {
+          "text": "Someone too busy watching others to see their own gifts.",
+          "weights": {
+            "comparison-trap": 3
+          }
+        },
+        {
+          "text": "Someone in a hidden place He hasn't forgotten.",
+          "weights": {
+            "hidden-season": 3
+          }
+        },
+        {
+          "text": "Someone who lost the thread of why they're here.",
+          "weights": {
+            "disconnected-from-why": 3
+          }
+        }
       ]
     },
     {
       "text": "Deep down, what do you most need to hear?",
       "options": [
-        { "text": "Your worth was never tied to that old role.", "weights": { "outgrown-identity": 3 } },
-        { "text": "Your story is yours, and you're not behind.", "weights": { "comparison-trap": 3 } },
-        { "text": "The hidden season is where God does His deepest work.", "weights": { "hidden-season": 3 } },
-        { "text": "You were made on purpose, for a purpose, by Someone who knows it.", "weights": { "disconnected-from-why": 3 } }
+        {
+          "text": "Your worth was never tied to that old role.",
+          "weights": {
+            "outgrown-identity": 3
+          }
+        },
+        {
+          "text": "Your story is yours, and you're not behind.",
+          "weights": {
+            "comparison-trap": 3
+          }
+        },
+        {
+          "text": "The hidden season is where God does His deepest work.",
+          "weights": {
+            "hidden-season": 3
+          }
+        },
+        {
+          "text": "You were made on purpose, for a purpose, by Someone who knows it.",
+          "weights": {
+            "disconnected-from-why": 3
+          }
+        }
       ]
     }
   ],
@@ -99,22 +279,38 @@
     "outgrown-identity": {
       "name": "You've Outgrown an Old Identity",
       "description": "A role you built your whole sense of self around ended, and now you're standing in the gap between who you were and who you're becoming. That hollow feeling makes sense. You're grieving a version of you that doesn't fit anymore. But here's the steady ground: your worth was never actually in the title, the season, or the role. It's in being God's, and that doesn't expire when a chapter closes. You're not lost. You're between. Let Him show you who you are when the old label is gone.",
-      "scripture": { "text": "You are God's handiwork, created in Christ Jesus to do good works.", "reference": "Ephesians 2:10" }
+      "scripture": {
+        "text": "For we are his workmanship, created in Christ Jesus for good works, which God afore prepared that we should walk in them.",
+        "reference": "Ephesians 2:10",
+        "translation": "ASV"
+      }
     },
     "comparison-trap": {
       "name": "You're Comparing Your Insides to Their Outsides",
       "description": "You're holding your messy, behind-the-scenes reality up against everyone else's highlight reel, and of course your life feels small by comparison. But you're comparing two things that were never meant to be measured against each other. Their polished outsides tell you nothing about their actual insides. The purposelessness you feel isn't proof you're behind. It's the fog comparison always leaves. Put the phone down, lift your eyes, and remember that God wrote your story on purpose. You're not running their race.",
-      "scripture": { "text": "Each one should test their own actions. Then they can take pride in themselves alone, without comparing themselves to someone else.", "reference": "Galatians 6:4" }
+      "scripture": {
+        "text": "But let each man prove his own work, and then shall he have his glorying in regard of himself alone, and not of his neighbor.",
+        "reference": "Galatians 6:4",
+        "translation": "ASV"
+      }
     },
     "hidden-season": {
       "name": "You're in a Hidden Season",
       "description": "Nothing visible is happening, no applause, no progress you can point to, and the quiet has you wondering if you matter at all. But hidden seasons are not empty seasons. Some of the most important work God does happens underground, in the dark, where no one sees, long before anything shows above the surface. David tended sheep before he was king. You're not being overlooked. You're being formed. Trust the hidden work. What's growing in the quiet now will bear fruit in the light later.",
-      "scripture": { "text": "Your Father, who sees what is done in secret, will reward you.", "reference": "Matthew 6:4" }
+      "scripture": {
+        "text": "that thine alms may be in secret: and thy Father who seeth in secret shall recompense thee.",
+        "reference": "Matthew 6:4",
+        "translation": "ASV"
+      }
     },
     "disconnected-from-why": {
       "name": "You're Disconnected From Your Why",
       "description": "You're busy, maybe busier than ever, but somewhere along the way you lost the thread of why any of it matters. The motions are still there. The meaning leaked out. That hollow feeling is your soul asking to be reconnected to something bigger than your task list. You were made on purpose, by a God who knows exactly why you're here, even when you've forgotten. Come back to Him and ask. Purpose isn't something you generate alone. It's something He restores when you draw near.",
-      "scripture": { "text": "For I know the plans I have for you, declares the Lord, plans to give you hope and a future.", "reference": "Jeremiah 29:11" }
+      "scripture": {
+        "text": "For I know the thoughts that I think toward you, saith Jehovah, thoughts of peace, and not of evil, to give you hope in your latter end.",
+        "reference": "Jeremiah 29:11",
+        "translation": "ASV"
+      }
     }
   }
 }

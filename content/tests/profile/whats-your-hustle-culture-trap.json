@@ -18,82 +18,265 @@
     {
       "text": "What makes you feel good about yourself at the end of a day?",
       "options": [
-        { "text": "How much I got done. A long list means I'm worth something.", "weights": { "worth-output": 3 } },
-        { "text": "That I didn't let anyone down or say no.", "weights": { "cant-say-no": 3 } },
-        { "text": "That I answered everything and stayed on top of it all.", "weights": { "always-available": 3 } },
-        { "text": "That I kept up with the people I'm secretly racing.", "weights": { "comparison-grind": 3 } }
+        {
+          "text": "How much I got done. A long list means I'm worth something.",
+          "weights": {
+            "worth-output": 3
+          }
+        },
+        {
+          "text": "That I didn't let anyone down or say no.",
+          "weights": {
+            "cant-say-no": 3
+          }
+        },
+        {
+          "text": "That I answered everything and stayed on top of it all.",
+          "weights": {
+            "always-available": 3
+          }
+        },
+        {
+          "text": "That I kept up with the people I'm secretly racing.",
+          "weights": {
+            "comparison-grind": 3
+          }
+        }
       ]
     },
     {
       "text": "What happens in you when you try to rest?",
       "options": [
-        { "text": "Guilt. I feel lazy and like I'm wasting time.", "weights": { "rest-feels-lazy": 3 } },
-        { "text": "Restlessness. There's always one more thing I should do.", "weights": { "worth-output": 2, "rest-feels-lazy": 1 } },
-        { "text": "Anxiety about all the messages piling up.", "weights": { "always-available": 3 } },
-        { "text": "Worry that everyone else is getting ahead of me.", "weights": { "comparison-grind": 3 } }
+        {
+          "text": "Guilt. I feel lazy and like I'm wasting time.",
+          "weights": {
+            "rest-feels-lazy": 3
+          }
+        },
+        {
+          "text": "Restlessness. There's always one more thing I should do.",
+          "weights": {
+            "worth-output": 2,
+            "rest-feels-lazy": 1
+          }
+        },
+        {
+          "text": "Anxiety about all the messages piling up.",
+          "weights": {
+            "always-available": 3
+          }
+        },
+        {
+          "text": "Worry that everyone else is getting ahead of me.",
+          "weights": {
+            "comparison-grind": 3
+          }
+        }
       ]
     },
     {
       "text": "When someone asks you for help or a favor, you usually...",
       "options": [
-        { "text": "Say yes before I even think about it.", "weights": { "cant-say-no": 3 } },
-        { "text": "Drop what I'm doing because they might need me.", "weights": { "always-available": 3 } },
-        { "text": "Feel responsible for fixing the whole situation.", "weights": { "saving-everyone": 3 } },
-        { "text": "Add it to my pile and push through on less sleep.", "weights": { "worth-output": 2, "cant-say-no": 1 } }
+        {
+          "text": "Say yes before I even think about it.",
+          "weights": {
+            "cant-say-no": 3
+          }
+        },
+        {
+          "text": "Drop what I'm doing because they might need me.",
+          "weights": {
+            "always-available": 3
+          }
+        },
+        {
+          "text": "Feel responsible for fixing the whole situation.",
+          "weights": {
+            "saving-everyone": 3
+          }
+        },
+        {
+          "text": "Add it to my pile and push through on less sleep.",
+          "weights": {
+            "worth-output": 2,
+            "cant-say-no": 1
+          }
+        }
       ]
     },
     {
       "text": "Which thought sounds most like the voice in your head?",
       "options": [
-        { "text": "If I stop producing, I stop mattering.", "weights": { "worth-output": 3 } },
-        { "text": "If I say no, they'll be disappointed in me.", "weights": { "cant-say-no": 3 } },
-        { "text": "If I don't reply right away, I'm letting people down.", "weights": { "always-available": 3 } },
-        { "text": "If I rest, I'm being lazy and falling behind.", "weights": { "rest-feels-lazy": 3 } }
+        {
+          "text": "If I stop producing, I stop mattering.",
+          "weights": {
+            "worth-output": 3
+          }
+        },
+        {
+          "text": "If I say no, they'll be disappointed in me.",
+          "weights": {
+            "cant-say-no": 3
+          }
+        },
+        {
+          "text": "If I don't reply right away, I'm letting people down.",
+          "weights": {
+            "always-available": 3
+          }
+        },
+        {
+          "text": "If I rest, I'm being lazy and falling behind.",
+          "weights": {
+            "rest-feels-lazy": 3
+          }
+        }
       ]
     },
     {
       "text": "What does your phone feel like to you?",
       "options": [
-        { "text": "A leash. I'm always reachable, day or night.", "weights": { "always-available": 3 } },
-        { "text": "A scoreboard. I check how I measure up to everyone.", "weights": { "comparison-grind": 3 } },
-        { "text": "A to-do list that never stops growing.", "weights": { "worth-output": 3 } },
-        { "text": "A constant stream of people who need something from me.", "weights": { "saving-everyone": 2, "cant-say-no": 1 } }
+        {
+          "text": "A leash. I'm always reachable, day or night.",
+          "weights": {
+            "always-available": 3
+          }
+        },
+        {
+          "text": "A scoreboard. I check how I measure up to everyone.",
+          "weights": {
+            "comparison-grind": 3
+          }
+        },
+        {
+          "text": "A to-do list that never stops growing.",
+          "weights": {
+            "worth-output": 3
+          }
+        },
+        {
+          "text": "A constant stream of people who need something from me.",
+          "weights": {
+            "saving-everyone": 2,
+            "cant-say-no": 1
+          }
+        }
       ]
     },
     {
       "text": "Why do you really keep pushing so hard?",
       "options": [
-        { "text": "Because slowing down feels like I'm failing.", "weights": { "worth-output": 3 } },
-        { "text": "Because I can't stand to disappoint anyone.", "weights": { "cant-say-no": 3 } },
-        { "text": "Because if I'm not available, I feel replaceable.", "weights": { "always-available": 3 } },
-        { "text": "Because everyone seems to be doing more than me.", "weights": { "comparison-grind": 3 } }
+        {
+          "text": "Because slowing down feels like I'm failing.",
+          "weights": {
+            "worth-output": 3
+          }
+        },
+        {
+          "text": "Because I can't stand to disappoint anyone.",
+          "weights": {
+            "cant-say-no": 3
+          }
+        },
+        {
+          "text": "Because if I'm not available, I feel replaceable.",
+          "weights": {
+            "always-available": 3
+          }
+        },
+        {
+          "text": "Because everyone seems to be doing more than me.",
+          "weights": {
+            "comparison-grind": 3
+          }
+        }
       ]
     },
     {
       "text": "When you picture actually slowing down, what comes up?",
       "options": [
-        { "text": "Panic that I'll lose my edge and my value.", "weights": { "worth-output": 3 } },
-        { "text": "Fear that things will fall apart without me holding them.", "weights": { "saving-everyone": 3 } },
-        { "text": "Guilt, plain and simple. Rest feels indulgent.", "weights": { "rest-feels-lazy": 3 } },
-        { "text": "Dread of being left behind by people moving faster.", "weights": { "comparison-grind": 3 } }
+        {
+          "text": "Panic that I'll lose my edge and my value.",
+          "weights": {
+            "worth-output": 3
+          }
+        },
+        {
+          "text": "Fear that things will fall apart without me holding them.",
+          "weights": {
+            "saving-everyone": 3
+          }
+        },
+        {
+          "text": "Guilt, plain and simple. Rest feels indulgent.",
+          "weights": {
+            "rest-feels-lazy": 3
+          }
+        },
+        {
+          "text": "Dread of being left behind by people moving faster.",
+          "weights": {
+            "comparison-grind": 3
+          }
+        }
       ]
     },
     {
       "text": "Who are you when you've got nothing left to give?",
       "options": [
-        { "text": "Lost, honestly. I don't know who I am without producing.", "weights": { "worth-output": 3 } },
-        { "text": "Resentful, because I said yes to everyone but me.", "weights": { "cant-say-no": 3 } },
-        { "text": "Frayed, because I never actually clocked out.", "weights": { "always-available": 3 } },
-        { "text": "Depleted, because I carried problems that weren't mine.", "weights": { "saving-everyone": 3 } }
+        {
+          "text": "Lost, honestly. I don't know who I am without producing.",
+          "weights": {
+            "worth-output": 3
+          }
+        },
+        {
+          "text": "Resentful, because I said yes to everyone but me.",
+          "weights": {
+            "cant-say-no": 3
+          }
+        },
+        {
+          "text": "Frayed, because I never actually clocked out.",
+          "weights": {
+            "always-available": 3
+          }
+        },
+        {
+          "text": "Depleted, because I carried problems that weren't mine.",
+          "weights": {
+            "saving-everyone": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you secretly long for underneath all the doing?",
       "options": [
-        { "text": "To know I'm enough even when I produce nothing.", "weights": { "worth-output": 3 } },
-        { "text": "Permission to say no without the guilt.", "weights": { "cant-say-no": 3 } },
-        { "text": "Real rest that feels allowed, not stolen.", "weights": { "rest-feels-lazy": 3 } },
-        { "text": "To stop carrying everyone and let God hold them.", "weights": { "saving-everyone": 3 } }
+        {
+          "text": "To know I'm enough even when I produce nothing.",
+          "weights": {
+            "worth-output": 3
+          }
+        },
+        {
+          "text": "Permission to say no without the guilt.",
+          "weights": {
+            "cant-say-no": 3
+          }
+        },
+        {
+          "text": "Real rest that feels allowed, not stolen.",
+          "weights": {
+            "rest-feels-lazy": 3
+          }
+        },
+        {
+          "text": "To stop carrying everyone and let God hold them.",
+          "weights": {
+            "saving-everyone": 3
+          }
+        }
       ]
     }
   ],
@@ -101,32 +284,56 @@
     "worth-output": {
       "name": "Worth = Output",
       "description": "Somewhere along the way you started measuring your value by your productivity, so when you're not producing, you feel like you're not worth much. That's the lie at the center of hustle culture, and it's exhausting because the bar never stops moving. Here's the truth it can't touch: you were loved and valuable before you ever accomplished a single thing. God's affection for you isn't tied to your output. You can stop earning what you already have.",
-      "scripture": { "text": "For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.", "reference": "Ephesians 2:10" }
+      "scripture": {
+        "text": "For we are his workmanship, created in Christ Jesus for good works, which God afore prepared that we should walk in them.",
+        "reference": "Ephesians 2:10",
+        "translation": "ASV"
+      }
     },
     "cant-say-no": {
       "name": "Can't Say No",
       "description": "You say yes to almost everything, often before you've even thought it through, because disappointing people feels unbearable. The problem is that a yes to everyone usually means a no to your own health, and resentment quietly builds underneath all that pleasing. Even Jesus said no. He withdrew from crowds that wanted more of Him. A holy no isn't selfish. It's how you protect the yes that actually matters.",
-      "scripture": { "text": "All you need to say is simply 'Yes' or 'No'; anything beyond this comes from the evil one.", "reference": "Matthew 5:37" }
+      "scripture": {
+        "text": "But let your speech be, Yea, yea; Nay, nay: and whatsoever is more than these is of the evil one.",
+        "reference": "Matthew 5:37",
+        "translation": "ASV"
+      }
     },
     "always-available": {
       "name": "Always Available",
       "description": "You're reachable around the clock, and somewhere inside, being constantly available has gotten tangled up with being needed and valuable. So you never really clock out, and the leash never comes off. But you are not God, and you were never meant to be omnipresent. He is. Letting yourself be unreachable for a while isn't neglect. It's trusting that the world keeps turning, held by Someone who actually never sleeps.",
-      "scripture": { "text": "He will not let your foot slip. He who watches over you will not slumber.", "reference": "Psalm 121:3" }
+      "scripture": {
+        "text": "He will not suffer thy foot to be moved: He that keepeth thee will not slumber.",
+        "reference": "Psalm 121:3",
+        "translation": "ASV"
+      }
     },
     "rest-feels-lazy": {
       "name": "Rest Feels Lazy",
       "description": "You've absorbed the idea that rest is laziness, so even when you stop, guilt follows you onto the couch. But rest isn't a reward you earn after enough productivity. It's a gift God built into the very rhythm of creation, and He modeled it Himself by resting on the seventh day. Sabbath isn't slacking off. It's an act of trust that says the world doesn't actually depend on you. You're allowed to stop.",
-      "scripture": { "text": "By the seventh day God had finished the work he had been doing; so on the seventh day he rested from all his work.", "reference": "Genesis 2:2" }
+      "scripture": {
+        "text": "And on the seventh day God finished his work which he had made; and he rested on the seventh day from all his work which he had made.",
+        "reference": "Genesis 2:2",
+        "translation": "ASV"
+      }
     },
     "comparison-grind": {
       "name": "Comparison-Driven Grind",
       "description": "Your hustle is fueled by everyone else, by the sense that they're getting ahead while you fall behind, so you grind to keep pace in a race no one actually called you to run. Comparison is a thief, and it will never let you arrive, because there's always someone further along. God didn't give you someone else's lane. He gave you yours, with its own timing and its own assignment. You can run your race and let them run theirs.",
-      "scripture": { "text": "Each one should test their own actions. Then they can take pride in themselves alone, without comparing themselves to someone else.", "reference": "Galatians 6:4" }
+      "scripture": {
+        "text": "But let each man prove his own work, and then shall he have his glorying in regard of himself alone, and not of his neighbor.",
+        "reference": "Galatians 6:4",
+        "translation": "ASV"
+      }
     },
     "saving-everyone": {
       "name": "Saving Everyone",
       "description": "You carry everyone's problems like they're yours to fix, and the weight of being everybody's rescuer is wearing you down. It comes from a good heart, but here's the gentle reality: you were never meant to be the savior. That job is already taken, and He's far stronger than you. You can love people deeply and still hand them back to God, because He can hold them in a way you simply can't. Let Him carry what isn't yours.",
-      "scripture": { "text": "Cast your cares on the Lord and he will sustain you; he will never let the righteous be shaken.", "reference": "Psalm 55:22" }
+      "scripture": {
+        "text": "Cast thy burden upon Jehovah, and he will sustain thee: He will never suffer the righteous to be moved.",
+        "reference": "Psalm 55:22",
+        "translation": "ASV"
+      }
     }
   }
 }

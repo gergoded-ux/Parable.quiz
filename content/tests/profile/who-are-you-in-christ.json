@@ -16,91 +16,296 @@
     {
       "text": "When you think about why God would want you, what rises first?",
       "options": [
-        { "text": "He picked me on purpose. That still surprises me.", "weights": { "chosen": 3 } },
-        { "text": "He actually likes being near me, mess and all.", "weights": { "beloved": 3 } },
-        { "text": "He paid for me when I was at my worst.", "weights": { "redeemed": 3 } },
-        { "text": "Whatever happens, He's not letting go of me.", "weights": { "sealed-and-secure": 3 } }
+        {
+          "text": "He picked me on purpose. That still surprises me.",
+          "weights": {
+            "chosen": 3
+          }
+        },
+        {
+          "text": "He actually likes being near me, mess and all.",
+          "weights": {
+            "beloved": 3
+          }
+        },
+        {
+          "text": "He paid for me when I was at my worst.",
+          "weights": {
+            "redeemed": 3
+          }
+        },
+        {
+          "text": "Whatever happens, He's not letting go of me.",
+          "weights": {
+            "sealed-and-secure": 3
+          }
+        }
       ]
     },
     {
       "text": "Which old wound do you most want God to speak to?",
       "options": [
-        { "text": "Being the last one picked, the one nobody fought for.", "weights": { "chosen": 3 } },
-        { "text": "Feeling unlovable up close, once people really know me.", "weights": { "beloved": 3 } },
-        { "text": "A past I'm ashamed of that still whispers at me.", "weights": { "redeemed": 3 } },
-        { "text": "The fear that I'll wander off and lose it all.", "weights": { "sealed-and-secure": 3 } }
+        {
+          "text": "Being the last one picked, the one nobody fought for.",
+          "weights": {
+            "chosen": 3
+          }
+        },
+        {
+          "text": "Feeling unlovable up close, once people really know me.",
+          "weights": {
+            "beloved": 3
+          }
+        },
+        {
+          "text": "A past I'm ashamed of that still whispers at me.",
+          "weights": {
+            "redeemed": 3
+          }
+        },
+        {
+          "text": "The fear that I'll wander off and lose it all.",
+          "weights": {
+            "sealed-and-secure": 3
+          }
+        }
       ]
     },
     {
       "text": "On a hard day, the lie that gets loudest is...",
       "options": [
-        { "text": "\"You're an afterthought. Nobody chose you.\"", "weights": { "chosen": 3 } },
-        { "text": "\"If they saw the real you, they'd back away.\"", "weights": { "beloved": 2, "redeemed": 1 } },
-        { "text": "\"You've gone too far this time to be clean.\"", "weights": { "redeemed": 3 } },
-        { "text": "\"One more failure and God's finally done with you.\"", "weights": { "sealed-and-secure": 3 } }
+        {
+          "text": "\"You're an afterthought. Nobody chose you.\"",
+          "weights": {
+            "chosen": 3
+          }
+        },
+        {
+          "text": "\"If they saw the real you, they'd back away.\"",
+          "weights": {
+            "beloved": 2,
+            "redeemed": 1
+          }
+        },
+        {
+          "text": "\"You've gone too far this time to be clean.\"",
+          "weights": {
+            "redeemed": 3
+          }
+        },
+        {
+          "text": "\"One more failure and God's finally done with you.\"",
+          "weights": {
+            "sealed-and-secure": 3
+          }
+        }
       ]
     },
     {
       "text": "Pick the truth your heart most needs to hear today:",
       "options": [
-        { "text": "Before the world began, He had you in mind.", "weights": { "chosen": 3 } },
-        { "text": "He delights in you. He sings over you.", "weights": { "beloved": 3 } },
-        { "text": "The blood already covered it. You're free.", "weights": { "redeemed": 3 } },
-        { "text": "Nothing can pull you out of His hand.", "weights": { "sealed-and-secure": 3 } }
+        {
+          "text": "Before the world began, He had you in mind.",
+          "weights": {
+            "chosen": 3
+          }
+        },
+        {
+          "text": "He delights in you. He sings over you.",
+          "weights": {
+            "beloved": 3
+          }
+        },
+        {
+          "text": "The blood already covered it. You're free.",
+          "weights": {
+            "redeemed": 3
+          }
+        },
+        {
+          "text": "Nothing can pull you out of His hand.",
+          "weights": {
+            "sealed-and-secure": 3
+          }
+        }
       ]
     },
     {
       "text": "When you mess up, what do you tend to assume about God?",
       "options": [
-        { "text": "That He's reconsidering whether I'm really His.", "weights": { "chosen": 2, "sealed-and-secure": 1 } },
-        { "text": "That He's disappointed and a little colder now.", "weights": { "beloved": 3 } },
-        { "text": "That I have to earn my way back into the room.", "weights": { "redeemed": 3 } },
-        { "text": "That maybe this is the one that finally disqualifies me.", "weights": { "sealed-and-secure": 3 } }
+        {
+          "text": "That He's reconsidering whether I'm really His.",
+          "weights": {
+            "chosen": 2,
+            "sealed-and-secure": 1
+          }
+        },
+        {
+          "text": "That He's disappointed and a little colder now.",
+          "weights": {
+            "beloved": 3
+          }
+        },
+        {
+          "text": "That I have to earn my way back into the room.",
+          "weights": {
+            "redeemed": 3
+          }
+        },
+        {
+          "text": "That maybe this is the one that finally disqualifies me.",
+          "weights": {
+            "sealed-and-secure": 3
+          }
+        }
       ]
     },
     {
       "text": "Where do you most often go looking for your worth?",
       "options": [
-        { "text": "In being wanted, in finally being someone's first choice.", "weights": { "chosen": 3 } },
-        { "text": "In affection and closeness, in feeling truly liked.", "weights": { "beloved": 3 } },
-        { "text": "In proving I've changed, in cleaning up my record.", "weights": { "redeemed": 3 } },
-        { "text": "In control, in keeping things stable so nothing falls apart.", "weights": { "sealed-and-secure": 3 } }
+        {
+          "text": "In being wanted, in finally being someone's first choice.",
+          "weights": {
+            "chosen": 3
+          }
+        },
+        {
+          "text": "In affection and closeness, in feeling truly liked.",
+          "weights": {
+            "beloved": 3
+          }
+        },
+        {
+          "text": "In proving I've changed, in cleaning up my record.",
+          "weights": {
+            "redeemed": 3
+          }
+        },
+        {
+          "text": "In control, in keeping things stable so nothing falls apart.",
+          "weights": {
+            "sealed-and-secure": 3
+          }
+        }
       ]
     },
     {
       "text": "Which word lands heaviest when you imagine God saying it to you?",
       "options": [
-        { "text": "\"Chosen.\"", "weights": { "chosen": 3 } },
-        { "text": "\"Beloved.\"", "weights": { "beloved": 3 } },
-        { "text": "\"Forgiven.\"", "weights": { "redeemed": 3 } },
-        { "text": "\"Kept.\"", "weights": { "sealed-and-secure": 3 } }
+        {
+          "text": "\"Chosen.\"",
+          "weights": {
+            "chosen": 3
+          }
+        },
+        {
+          "text": "\"Beloved.\"",
+          "weights": {
+            "beloved": 3
+          }
+        },
+        {
+          "text": "\"Forgiven.\"",
+          "weights": {
+            "redeemed": 3
+          }
+        },
+        {
+          "text": "\"Kept.\"",
+          "weights": {
+            "sealed-and-secure": 3
+          }
+        }
       ]
     },
     {
       "text": "What would change most if you fully believed who you already are?",
       "options": [
-        { "text": "I'd stop auditioning for a place at the table.", "weights": { "chosen": 3 } },
-        { "text": "I'd let myself be loved instead of guarding the door.", "weights": { "beloved": 3 } },
-        { "text": "I'd quit dragging my old story around like proof against me.", "weights": { "redeemed": 3 } },
-        { "text": "I'd finally breathe, because my standing wouldn't depend on me.", "weights": { "sealed-and-secure": 3 } }
+        {
+          "text": "I'd stop auditioning for a place at the table.",
+          "weights": {
+            "chosen": 3
+          }
+        },
+        {
+          "text": "I'd let myself be loved instead of guarding the door.",
+          "weights": {
+            "beloved": 3
+          }
+        },
+        {
+          "text": "I'd quit dragging my old story around like proof against me.",
+          "weights": {
+            "redeemed": 3
+          }
+        },
+        {
+          "text": "I'd finally breathe, because my standing wouldn't depend on me.",
+          "weights": {
+            "sealed-and-secure": 3
+          }
+        }
       ]
     },
     {
       "text": "When someone asks who you are, your gut answer is usually about...",
       "options": [
-        { "text": "What I do and how well I'm doing it.", "weights": { "redeemed": 2, "sealed-and-secure": 1 } },
-        { "text": "Who I belong to and who's in my corner.", "weights": { "beloved": 2, "chosen": 1 } },
-        { "text": "What I've overcome to get here.", "weights": { "redeemed": 3 } },
-        { "text": "Honestly, I'm still figuring that out.", "weights": { "chosen": 2, "sealed-and-secure": 1 } }
+        {
+          "text": "What I do and how well I'm doing it.",
+          "weights": {
+            "redeemed": 2,
+            "sealed-and-secure": 1
+          }
+        },
+        {
+          "text": "Who I belong to and who's in my corner.",
+          "weights": {
+            "beloved": 2,
+            "chosen": 1
+          }
+        },
+        {
+          "text": "What I've overcome to get here.",
+          "weights": {
+            "redeemed": 3
+          }
+        },
+        {
+          "text": "Honestly, I'm still figuring that out.",
+          "weights": {
+            "chosen": 2,
+            "sealed-and-secure": 1
+          }
+        }
       ]
     },
     {
       "text": "Finish the sentence that feels most freeing: \"Because of Jesus, I am...\"",
       "options": [
-        { "text": "wanted, hand-picked, never an accident.", "weights": { "chosen": 3 } },
-        { "text": "deeply, tenderly loved exactly as I am.", "weights": { "beloved": 3 } },
-        { "text": "bought back and made brand new.", "weights": { "redeemed": 3 } },
-        { "text": "held so tightly I cannot be lost.", "weights": { "sealed-and-secure": 3 } }
+        {
+          "text": "wanted, hand-picked, never an accident.",
+          "weights": {
+            "chosen": 3
+          }
+        },
+        {
+          "text": "deeply, tenderly loved exactly as I am.",
+          "weights": {
+            "beloved": 3
+          }
+        },
+        {
+          "text": "bought back and made brand new.",
+          "weights": {
+            "redeemed": 3
+          }
+        },
+        {
+          "text": "held so tightly I cannot be lost.",
+          "weights": {
+            "sealed-and-secure": 3
+          }
+        }
       ]
     }
   ],
@@ -108,22 +313,38 @@
     "chosen": {
       "name": "Chosen",
       "description": "You've spent a long time feeling like the leftover, the one nobody fought to keep. Hear this: God didn't settle for you. He picked you on purpose, before you'd done a single thing to earn it. You were wanted first.",
-      "scripture": { "text": "You did not choose me, but I chose you.", "reference": "John 15:16" }
+      "scripture": {
+        "text": "Ye did not choose me, but I chose you, and appointed you, that ye should go and bear fruit, and that your fruit should abide: that whatsoever ye shall ask of the Father in my name, he may give it you.",
+        "reference": "John 15:16",
+        "translation": "ASV"
+      }
     },
     "beloved": {
       "name": "Beloved",
       "description": "Your deep fear is that closeness ruins everything, that if God really saw you up close He'd cool off. He won't. He actually delights in you. Let yourself be loved instead of standing guard at the door.",
-      "scripture": { "text": "The Lord your God is with you. He will take great delight in you.", "reference": "Zephaniah 3:17" }
+      "scripture": {
+        "text": "Jehovah thy God is in the midst of thee, a mighty one who will save; he will rejoice over thee with joy; he will rest in his love; he will joy over thee with singing.",
+        "reference": "Zephaniah 3:17",
+        "translation": "ASV"
+      }
     },
     "redeemed": {
       "name": "Redeemed",
       "description": "You keep dragging your old story around like evidence against yourself. But the price for all of it is already paid. You're not on probation, and you don't have to clean up before you come close. You're free.",
-      "scripture": { "text": "In him we have redemption through his blood, the forgiveness of sins.", "reference": "Ephesians 1:7" }
+      "scripture": {
+        "text": "in whom we have our redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace,",
+        "reference": "Ephesians 1:7",
+        "translation": "ASV"
+      }
     },
     "sealed-and-secure": {
       "name": "Sealed and Secure",
       "description": "Somewhere in you is the fear that one more failure ends it all. It doesn't. You belong to God and He marked you as His own. You can stop white-knuckling your salvation. He's the one holding on, and He doesn't let go.",
-      "scripture": { "text": "No one will snatch them out of my hand.", "reference": "John 10:28" }
+      "scripture": {
+        "text": "and I give unto them eternal life; and they shall never perish, and no one shall snatch them out of my hand.",
+        "reference": "John 10:28",
+        "translation": "ASV"
+      }
     }
   }
 }

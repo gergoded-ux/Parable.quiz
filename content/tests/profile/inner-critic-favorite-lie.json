@@ -16,91 +16,292 @@
     {
       "text": "When you make a mistake, what does the voice say first?",
       "options": [
-        { "text": "\"You blew it again. You always do.\"", "weights": { "youre-a-failure": 3 } },
-        { "text": "\"This is why people pull away from you.\"", "weights": { "youre-unlovable": 3 } },
-        { "text": "\"See? You don't really fit here.\"", "weights": { "you-dont-belong": 3 } },
-        { "text": "\"You'll never get past this. This is just you.\"", "weights": { "youre-stuck-forever": 3 } }
+        {
+          "text": "\"You blew it again. You always do.\"",
+          "weights": {
+            "youre-a-failure": 3
+          }
+        },
+        {
+          "text": "\"This is why people pull away from you.\"",
+          "weights": {
+            "youre-unlovable": 3
+          }
+        },
+        {
+          "text": "\"See? You don't really fit here.\"",
+          "weights": {
+            "you-dont-belong": 3
+          }
+        },
+        {
+          "text": "\"You'll never get past this. This is just you.\"",
+          "weights": {
+            "youre-stuck-forever": 3
+          }
+        }
       ]
     },
     {
       "text": "Late at night, the thought that loops the loudest is...",
       "options": [
-        { "text": "Everything I haven't gotten right.", "weights": { "youre-a-failure": 3 } },
-        { "text": "Whether anyone would really miss me.", "weights": { "youre-unlovable": 3 } },
-        { "text": "How out of place I feel almost everywhere.", "weights": { "you-dont-belong": 3 } },
-        { "text": "That nothing about my life is ever going to change.", "weights": { "youre-stuck-forever": 3 } }
+        {
+          "text": "Everything I haven't gotten right.",
+          "weights": {
+            "youre-a-failure": 3
+          }
+        },
+        {
+          "text": "Whether anyone would really miss me.",
+          "weights": {
+            "youre-unlovable": 3
+          }
+        },
+        {
+          "text": "How out of place I feel almost everywhere.",
+          "weights": {
+            "you-dont-belong": 3
+          }
+        },
+        {
+          "text": "That nothing about my life is ever going to change.",
+          "weights": {
+            "youre-stuck-forever": 3
+          }
+        }
       ]
     },
     {
       "text": "Which compliment is hardest for you to actually accept?",
       "options": [
-        { "text": "\"You're really good at what you do.\"", "weights": { "youre-a-failure": 3 } },
-        { "text": "\"I love you.\"", "weights": { "youre-unlovable": 3 } },
-        { "text": "\"We're so glad you're here.\"", "weights": { "you-dont-belong": 3 } },
-        { "text": "\"You've come so far.\"", "weights": { "youre-stuck-forever": 3 } }
+        {
+          "text": "\"You're really good at what you do.\"",
+          "weights": {
+            "youre-a-failure": 3
+          }
+        },
+        {
+          "text": "\"I love you.\"",
+          "weights": {
+            "youre-unlovable": 3
+          }
+        },
+        {
+          "text": "\"We're so glad you're here.\"",
+          "weights": {
+            "you-dont-belong": 3
+          }
+        },
+        {
+          "text": "\"You've come so far.\"",
+          "weights": {
+            "youre-stuck-forever": 3
+          }
+        }
       ]
     },
     {
       "text": "When you walk into a room full of people, the worry is...",
       "options": [
-        { "text": "That they'll find out I'm not as capable as they think.", "weights": { "youre-a-failure": 3 } },
-        { "text": "That nobody is actually glad I came.", "weights": { "youre-unlovable": 3 } },
-        { "text": "That I'm the odd one out who doesn't quite belong.", "weights": { "you-dont-belong": 3 } },
-        { "text": "That I'm the same stuck person I've always been.", "weights": { "youre-stuck-forever": 3 } }
+        {
+          "text": "That they'll find out I'm not as capable as they think.",
+          "weights": {
+            "youre-a-failure": 3
+          }
+        },
+        {
+          "text": "That nobody is actually glad I came.",
+          "weights": {
+            "youre-unlovable": 3
+          }
+        },
+        {
+          "text": "That I'm the odd one out who doesn't quite belong.",
+          "weights": {
+            "you-dont-belong": 3
+          }
+        },
+        {
+          "text": "That I'm the same stuck person I've always been.",
+          "weights": {
+            "youre-stuck-forever": 3
+          }
+        }
       ]
     },
     {
       "text": "What does your inner critic use against you most?",
       "options": [
-        { "text": "My track record of things gone wrong.", "weights": { "youre-a-failure": 3 } },
-        { "text": "Every time someone left or grew distant.", "weights": { "youre-unlovable": 3 } },
-        { "text": "All the places I've felt like an outsider.", "weights": { "you-dont-belong": 3 } },
-        { "text": "How long I've been trying to change without much luck.", "weights": { "youre-stuck-forever": 3 } }
+        {
+          "text": "My track record of things gone wrong.",
+          "weights": {
+            "youre-a-failure": 3
+          }
+        },
+        {
+          "text": "Every time someone left or grew distant.",
+          "weights": {
+            "youre-unlovable": 3
+          }
+        },
+        {
+          "text": "All the places I've felt like an outsider.",
+          "weights": {
+            "you-dont-belong": 3
+          }
+        },
+        {
+          "text": "How long I've been trying to change without much luck.",
+          "weights": {
+            "youre-stuck-forever": 3
+          }
+        }
       ]
     },
     {
       "text": "When something good happens to you, the voice whispers...",
       "options": [
-        { "text": "\"Don't get comfortable. You'll mess it up.\"", "weights": { "youre-a-failure": 3 } },
-        { "text": "\"They'll like you until they really know you.\"", "weights": { "youre-unlovable": 2, "you-dont-belong": 1 } },
-        { "text": "\"You don't deserve to be in the room for this.\"", "weights": { "you-dont-belong": 3 } },
-        { "text": "\"It won't last. Nothing good ever sticks for you.\"", "weights": { "youre-stuck-forever": 3 } }
+        {
+          "text": "\"Don't get comfortable. You'll mess it up.\"",
+          "weights": {
+            "youre-a-failure": 3
+          }
+        },
+        {
+          "text": "\"They'll like you until they really know you.\"",
+          "weights": {
+            "youre-unlovable": 2,
+            "you-dont-belong": 1
+          }
+        },
+        {
+          "text": "\"You don't deserve to be in the room for this.\"",
+          "weights": {
+            "you-dont-belong": 3
+          }
+        },
+        {
+          "text": "\"It won't last. Nothing good ever sticks for you.\"",
+          "weights": {
+            "youre-stuck-forever": 3
+          }
+        }
       ]
     },
     {
       "text": "Which fear sits closest to your heart?",
       "options": [
-        { "text": "That I'm fundamentally not good enough.", "weights": { "youre-a-failure": 3 } },
-        { "text": "That I'm fundamentally unlovable.", "weights": { "youre-unlovable": 3 } },
-        { "text": "That I'll never find the place I actually fit.", "weights": { "you-dont-belong": 3 } },
-        { "text": "That I'm trapped in a story that won't ever shift.", "weights": { "youre-stuck-forever": 3 } }
+        {
+          "text": "That I'm fundamentally not good enough.",
+          "weights": {
+            "youre-a-failure": 3
+          }
+        },
+        {
+          "text": "That I'm fundamentally unlovable.",
+          "weights": {
+            "youre-unlovable": 3
+          }
+        },
+        {
+          "text": "That I'll never find the place I actually fit.",
+          "weights": {
+            "you-dont-belong": 3
+          }
+        },
+        {
+          "text": "That I'm trapped in a story that won't ever shift.",
+          "weights": {
+            "youre-stuck-forever": 3
+          }
+        }
       ]
     },
     {
       "text": "How does the lie usually try to keep you small?",
       "options": [
-        { "text": "It talks me out of trying before I even start.", "weights": { "youre-a-failure": 3 } },
-        { "text": "It keeps me from letting people get close.", "weights": { "youre-unlovable": 3 } },
-        { "text": "It tells me to stay quiet so nobody notices I'm out of place.", "weights": { "you-dont-belong": 3 } },
-        { "text": "It convinces me there's no point in hoping for different.", "weights": { "youre-stuck-forever": 3 } }
+        {
+          "text": "It talks me out of trying before I even start.",
+          "weights": {
+            "youre-a-failure": 3
+          }
+        },
+        {
+          "text": "It keeps me from letting people get close.",
+          "weights": {
+            "youre-unlovable": 3
+          }
+        },
+        {
+          "text": "It tells me to stay quiet so nobody notices I'm out of place.",
+          "weights": {
+            "you-dont-belong": 3
+          }
+        },
+        {
+          "text": "It convinces me there's no point in hoping for different.",
+          "weights": {
+            "youre-stuck-forever": 3
+          }
+        }
       ]
     },
     {
       "text": "What would you most love to finally believe?",
       "options": [
-        { "text": "That my worth isn't riding on my performance.", "weights": { "youre-a-failure": 3 } },
-        { "text": "That I am loved, deeply, just as I am.", "weights": { "youre-unlovable": 3 } },
-        { "text": "That I have a real place that's truly mine.", "weights": { "you-dont-belong": 3 } },
-        { "text": "That change is possible, even for me.", "weights": { "youre-stuck-forever": 3 } }
+        {
+          "text": "That my worth isn't riding on my performance.",
+          "weights": {
+            "youre-a-failure": 3
+          }
+        },
+        {
+          "text": "That I am loved, deeply, just as I am.",
+          "weights": {
+            "youre-unlovable": 3
+          }
+        },
+        {
+          "text": "That I have a real place that's truly mine.",
+          "weights": {
+            "you-dont-belong": 3
+          }
+        },
+        {
+          "text": "That change is possible, even for me.",
+          "weights": {
+            "youre-stuck-forever": 3
+          }
+        }
       ]
     },
     {
       "text": "Which truth would silence the voice if it really sank in?",
       "options": [
-        { "text": "You are not a failure. You're loved by a God who finishes what He starts.", "weights": { "youre-a-failure": 3 } },
-        { "text": "You are not unlovable. You're loved with a love that never quits.", "weights": { "youre-unlovable": 3 } },
-        { "text": "You are not an outsider. You belong to God Himself.", "weights": { "you-dont-belong": 3 } },
-        { "text": "You are not stuck. He's making something new in you right now.", "weights": { "youre-stuck-forever": 3 } }
+        {
+          "text": "You are not a failure. You're loved by a God who finishes what He starts.",
+          "weights": {
+            "youre-a-failure": 3
+          }
+        },
+        {
+          "text": "You are not unlovable. You're loved with a love that never quits.",
+          "weights": {
+            "youre-unlovable": 3
+          }
+        },
+        {
+          "text": "You are not an outsider. You belong to God Himself.",
+          "weights": {
+            "you-dont-belong": 3
+          }
+        },
+        {
+          "text": "You are not stuck. He's making something new in you right now.",
+          "weights": {
+            "youre-stuck-forever": 3
+          }
+        }
       ]
     }
   ],
@@ -108,22 +309,38 @@
     "youre-a-failure": {
       "name": "\"You're a Failure\"",
       "description": "Your inner critic keeps a running list of everything you've gotten wrong and reads it back to you on repeat. So you brace for the next mistake and let it define the whole of you. But one failed attempt was never the verdict on your worth. God doesn't abandon the work He's begun in you, and He isn't keeping the scorecard your critic insists He is. You are not your worst day.",
-      "scripture": { "text": "Being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus.", "reference": "Philippians 1:6" }
+      "scripture": {
+        "text": "being confident of this very thing, that he who began a good work in you will perfect it until the day of Jesus Christ:",
+        "reference": "Philippians 1:6",
+        "translation": "ASV"
+      }
     },
     "youre-unlovable": {
       "name": "\"You're Unlovable\"",
       "description": "The voice points to every person who left and tells you it was because of something broken in you. So you keep love at arm's length, sure that closeness will only end in another goodbye. But God's love isn't the kind that walks out when it sees the real you. He already sees all of it, and He stays. You are not too much, and you are not unlovable. You are deeply, permanently loved.",
-      "scripture": { "text": "I have loved you with an everlasting love; I have drawn you with unfailing kindness.", "reference": "Jeremiah 31:3" }
+      "scripture": {
+        "text": "Jehovah appeared of old unto me, saying, Yea, I have loved thee with an everlasting love: therefore with lovingkindness have I drawn thee.",
+        "reference": "Jeremiah 31:3",
+        "translation": "ASV"
+      }
     },
     "you-dont-belong": {
       "name": "\"You Don't Belong\"",
       "description": "Everywhere you go, the voice whispers that you're the outsider, the one who slipped in by accident. So you hover at the edges, quiet, waiting to be found out. But you are not a stranger in God's family. He didn't tolerate you in. He adopted you, gave you a name, and called you His own. You have a place that no one can revoke, because the God of the universe made room for you on purpose.",
-      "scripture": { "text": "Consequently, you are no longer foreigners and strangers, but fellow citizens with God's people and also members of his household.", "reference": "Ephesians 2:19" }
+      "scripture": {
+        "text": "So then ye are no more strangers and sojourners, but ye are fellow-citizens with the saints, and of the household of God,",
+        "reference": "Ephesians 2:19",
+        "translation": "ASV"
+      }
     },
     "youre-stuck-forever": {
       "name": "\"You're Stuck Forever\"",
       "description": "Your critic loves to point at how long you've struggled and call it proof that nothing will ever change. So hope starts to feel naive, and you brace to stay exactly where you are. But God is not finished with your story, and He specializes in the kind of change that looks impossible. You are not stuck. He is making something new in you, even on the days you can't see it yet.",
-      "scripture": { "text": "See, I am doing a new thing! Now it springs up; do you not perceive it?", "reference": "Isaiah 43:19" }
+      "scripture": {
+        "text": "Behold, I will do a new thing; now shall it spring forth; shall ye not know it? I will even make a way in the wilderness, and rivers in the desert.",
+        "reference": "Isaiah 43:19",
+        "translation": "ASV"
+      }
     }
   }
 }

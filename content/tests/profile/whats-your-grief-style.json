@@ -6,78 +6,243 @@
   "category": "spiritual-profile",
   "estimatedMinutes": 5,
   "mode": "profile",
-  "dimensions": ["tearful-lamenter", "quiet-carrier", "busy-doer", "hidden-griever"],
+  "dimensions": [
+    "tearful-lamenter",
+    "quiet-carrier",
+    "busy-doer",
+    "hidden-griever"
+  ],
   "questions": [
     {
       "text": "When grief hits hardest, what does it look like from the outside?",
       "options": [
-        { "text": "Tears, and lots of them. I feel it loudly and openly.", "weights": { "tearful-lamenter": 2 } },
-        { "text": "Stillness. I go quiet and turn it all inward.", "weights": { "quiet-carrier": 2 } },
-        { "text": "Motion. I throw myself into tasks and keep my hands busy.", "weights": { "busy-doer": 2 } },
-        { "text": "Nothing visible. I tuck it away and carry on like normal.", "weights": { "hidden-griever": 2 } }
+        {
+          "text": "Tears, and lots of them. I feel it loudly and openly.",
+          "weights": {
+            "tearful-lamenter": 2
+          }
+        },
+        {
+          "text": "Stillness. I go quiet and turn it all inward.",
+          "weights": {
+            "quiet-carrier": 2
+          }
+        },
+        {
+          "text": "Motion. I throw myself into tasks and keep my hands busy.",
+          "weights": {
+            "busy-doer": 2
+          }
+        },
+        {
+          "text": "Nothing visible. I tuck it away and carry on like normal.",
+          "weights": {
+            "hidden-griever": 2
+          }
+        }
       ]
     },
     {
       "text": "How do you most naturally process a loss?",
       "options": [
-        { "text": "By feeling it fully and letting the emotion move through me.", "weights": { "tearful-lamenter": 2 } },
-        { "text": "By sitting with it alone, slowly, in my own head.", "weights": { "quiet-carrier": 2 } },
-        { "text": "By doing something useful, planning, fixing, organizing.", "weights": { "busy-doer": 2 } },
-        { "text": "By pushing it down so it does not spill onto anyone else.", "weights": { "hidden-griever": 2 } }
+        {
+          "text": "By feeling it fully and letting the emotion move through me.",
+          "weights": {
+            "tearful-lamenter": 2
+          }
+        },
+        {
+          "text": "By sitting with it alone, slowly, in my own head.",
+          "weights": {
+            "quiet-carrier": 2
+          }
+        },
+        {
+          "text": "By doing something useful, planning, fixing, organizing.",
+          "weights": {
+            "busy-doer": 2
+          }
+        },
+        {
+          "text": "By pushing it down so it does not spill onto anyone else.",
+          "weights": {
+            "hidden-griever": 2
+          }
+        }
       ]
     },
     {
       "text": "What helps you most when you are grieving?",
       "options": [
-        { "text": "Someone who lets me cry without trying to fix it.", "weights": { "tearful-lamenter": 2 } },
-        { "text": "Quiet space and time to think it through privately.", "weights": { "quiet-carrier": 2 } },
-        { "text": "A clear task that gives me something to channel it into.", "weights": { "busy-doer": 2 } },
-        { "text": "Being left alone so no one sees how much I am hurting.", "weights": { "hidden-griever": 2 } }
+        {
+          "text": "Someone who lets me cry without trying to fix it.",
+          "weights": {
+            "tearful-lamenter": 2
+          }
+        },
+        {
+          "text": "Quiet space and time to think it through privately.",
+          "weights": {
+            "quiet-carrier": 2
+          }
+        },
+        {
+          "text": "A clear task that gives me something to channel it into.",
+          "weights": {
+            "busy-doer": 2
+          }
+        },
+        {
+          "text": "Being left alone so no one sees how much I am hurting.",
+          "weights": {
+            "hidden-griever": 2
+          }
+        }
       ]
     },
     {
       "text": "Have you ever worried you are grieving wrong?",
       "options": [
-        { "text": "Yes, that I am too emotional or falling apart too openly.", "weights": { "tearful-lamenter": 2 } },
-        { "text": "Yes, that I seem too quiet or detached to others.", "weights": { "quiet-carrier": 2 } },
-        { "text": "Yes, that staying busy means I am avoiding the pain.", "weights": { "busy-doer": 2 } },
-        { "text": "Yes, that hiding it means I am not really dealing with it.", "weights": { "hidden-griever": 2 } }
+        {
+          "text": "Yes, that I am too emotional or falling apart too openly.",
+          "weights": {
+            "tearful-lamenter": 2
+          }
+        },
+        {
+          "text": "Yes, that I seem too quiet or detached to others.",
+          "weights": {
+            "quiet-carrier": 2
+          }
+        },
+        {
+          "text": "Yes, that staying busy means I am avoiding the pain.",
+          "weights": {
+            "busy-doer": 2
+          }
+        },
+        {
+          "text": "Yes, that hiding it means I am not really dealing with it.",
+          "weights": {
+            "hidden-griever": 2
+          }
+        }
       ]
     },
     {
       "text": "When others are grieving the same loss, you tend to...",
       "options": [
-        { "text": "Cry right alongside them. Shared tears feel like comfort.", "weights": { "tearful-lamenter": 2 } },
-        { "text": "Hold space quietly and listen more than I speak.", "weights": { "quiet-carrier": 2 } },
-        { "text": "Take care of the practical things so they do not have to.", "weights": { "busy-doer": 2 } },
-        { "text": "Stay composed so I can be steady for everyone else.", "weights": { "hidden-griever": 2 } }
+        {
+          "text": "Cry right alongside them. Shared tears feel like comfort.",
+          "weights": {
+            "tearful-lamenter": 2
+          }
+        },
+        {
+          "text": "Hold space quietly and listen more than I speak.",
+          "weights": {
+            "quiet-carrier": 2
+          }
+        },
+        {
+          "text": "Take care of the practical things so they do not have to.",
+          "weights": {
+            "busy-doer": 2
+          }
+        },
+        {
+          "text": "Stay composed so I can be steady for everyone else.",
+          "weights": {
+            "hidden-griever": 2
+          }
+        }
       ]
     },
     {
       "text": "Which feels truest about your grief over time?",
       "options": [
-        { "text": "It comes in waves I let myself ride when they hit.", "weights": { "tearful-lamenter": 2 } },
-        { "text": "It lives quietly under the surface, always a little present.", "weights": { "quiet-carrier": 2 } },
-        { "text": "It shows up in how hard I work and how little I slow down.", "weights": { "busy-doer": 2 } },
-        { "text": "It is something I rarely let anyone see, even people close to me.", "weights": { "hidden-griever": 2 } }
+        {
+          "text": "It comes in waves I let myself ride when they hit.",
+          "weights": {
+            "tearful-lamenter": 2
+          }
+        },
+        {
+          "text": "It lives quietly under the surface, always a little present.",
+          "weights": {
+            "quiet-carrier": 2
+          }
+        },
+        {
+          "text": "It shows up in how hard I work and how little I slow down.",
+          "weights": {
+            "busy-doer": 2
+          }
+        },
+        {
+          "text": "It is something I rarely let anyone see, even people close to me.",
+          "weights": {
+            "hidden-griever": 2
+          }
+        }
       ]
     },
     {
       "text": "What do you most need permission to do?",
       "options": [
-        { "text": "Keep feeling it deeply without apologizing for the tears.", "weights": { "tearful-lamenter": 2 } },
-        { "text": "Let someone into the quiet I usually carry alone.", "weights": { "quiet-carrier": 2 } },
-        { "text": "Stop, sit still, and actually feel it instead of staying busy.", "weights": { "busy-doer": 2 } },
-        { "text": "Take off the brave face and admit how much it hurts.", "weights": { "hidden-griever": 2 } }
+        {
+          "text": "Keep feeling it deeply without apologizing for the tears.",
+          "weights": {
+            "tearful-lamenter": 2
+          }
+        },
+        {
+          "text": "Let someone into the quiet I usually carry alone.",
+          "weights": {
+            "quiet-carrier": 2
+          }
+        },
+        {
+          "text": "Stop, sit still, and actually feel it instead of staying busy.",
+          "weights": {
+            "busy-doer": 2
+          }
+        },
+        {
+          "text": "Take off the brave face and admit how much it hurts.",
+          "weights": {
+            "hidden-griever": 2
+          }
+        }
       ]
     },
     {
       "text": "When you bring your grief to God, it sounds like...",
       "options": [
-        { "text": "Raw, honest weeping. I hold nothing back.", "weights": { "tearful-lamenter": 2 } },
-        { "text": "Long, quiet sitting in His presence with few words.", "weights": { "quiet-carrier": 2 } },
-        { "text": "Prayers squeezed in between everything I am doing.", "weights": { "busy-doer": 2 } },
-        { "text": "Honestly, not much yet. I have kept it to myself.", "weights": { "hidden-griever": 2 } }
+        {
+          "text": "Raw, honest weeping. I hold nothing back.",
+          "weights": {
+            "tearful-lamenter": 2
+          }
+        },
+        {
+          "text": "Long, quiet sitting in His presence with few words.",
+          "weights": {
+            "quiet-carrier": 2
+          }
+        },
+        {
+          "text": "Prayers squeezed in between everything I am doing.",
+          "weights": {
+            "busy-doer": 2
+          }
+        },
+        {
+          "text": "Honestly, not much yet. I have kept it to myself.",
+          "weights": {
+            "hidden-griever": 2
+          }
+        }
       ]
     }
   ],
@@ -85,22 +250,38 @@
     "tearful-lamenter": {
       "name": "Tearful Lamenter",
       "description": "You grieve out loud, and your tears are not weakness. They are love with nowhere else to go. You feel the loss fully and let it move through you, which is one of the healthiest things a heart can do. God collects every tear you cry. Keep letting yourself feel it, and let safe people sit with you in it.",
-      "scripture": { "text": "Thou tellest my wanderings: put thou my tears into thy bottle.", "reference": "Psalm 56:8" }
+      "scripture": {
+        "text": "Thou numberest my wanderings: Put thou my tears into thy bottle; Are they not in thy book?",
+        "reference": "Psalm 56:8",
+        "translation": "ASV"
+      }
     },
     "quiet-carrier": {
       "name": "Quiet Carrier",
       "description": "Your grief is real even though it is quiet. You turn it inward and process slowly, on your own, in your own time. That is a valid way to mourn, not a sign you are detached. Just do not carry it entirely alone. Let one trusted person into the silence. God is near to you in it, even when you have no words.",
-      "scripture": { "text": "The Lord is nigh unto them that are of a broken heart.", "reference": "Psalm 34:18" }
+      "scripture": {
+        "text": "Jehovah is nigh unto them that are of a broken heart, And saveth such as are of a contrite spirit.",
+        "reference": "Psalm 34:18",
+        "translation": "ASV"
+      }
     },
     "busy-doer": {
       "name": "Busy Doer",
       "description": "You grieve by doing. You handle the arrangements, fix what you can, and keep your hands moving because stillness feels unbearable. There is real strength in that, and others lean on you for it. But the grief will need its turn eventually. Let yourself stop long enough to feel it. Rest is not the same as falling apart.",
-      "scripture": { "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.", "reference": "Matthew 11:28" }
+      "scripture": {
+        "text": "Come unto me, all ye that labor and are heavy laden, and I will give you rest.",
+        "reference": "Matthew 11:28",
+        "translation": "ASV"
+      }
     },
     "hidden-griever": {
       "name": "Hidden Griever",
       "description": "You carry your sorrow where no one can see it, often staying strong so others do not worry. That takes a quiet kind of courage, but grief kept fully hidden gets heavy fast. You do not have to hold it alone. Letting one safe person see your pain is not weakness. It is how the weight finally starts to lift.",
-      "scripture": { "text": "Cast thy burden upon the Lord, and he shall sustain thee.", "reference": "Psalm 55:22" }
+      "scripture": {
+        "text": "Cast thy burden upon Jehovah, and he will sustain thee: He will never suffer the righteous to be moved.",
+        "reference": "Psalm 55:22",
+        "translation": "ASV"
+      }
     }
   }
 }

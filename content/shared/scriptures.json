@@ -1,75 +1,367 @@
 {
-  "matt-16-18": { "text": "And on this rock I will build my church.", "reference": "Matthew 16:18" },
-  "john-13-23": { "text": "Now there was leaning on Jesus' bosom one of his disciples, whom Jesus loved.", "reference": "John 13:23" },
-  "mark-3-17": { "text": "James and John, to whom he gave the name Boanerges, that is, sons of thunder.", "reference": "Mark 3:17" },
-  "john-1-41": { "text": "He first findeth his own brother Simon, and saith unto him, We have found the Messiah.", "reference": "John 1:41" },
-  "john-20-25": { "text": "Except I shall see in his hands the print of the nails... I will not believe.", "reference": "John 20:25" },
-  "matt-9-9": { "text": "And as Jesus passed forth from thence, he saw a man, named Matthew, sitting at the receipt of custom: and he saith unto him, Follow me.", "reference": "Matthew 9:9" },
-  "john-6-7": { "text": "Two hundred pennyworth of bread is not sufficient for them.", "reference": "John 6:7" },
-  "john-1-45": { "text": "Philip findeth Nathanael, and saith unto him, We have found him.", "reference": "John 1:45" },
-  "1-sam-16-7": { "text": "But the LORD said unto Samuel, Look not on his countenance, or on the height of his stature; because I have refused him: for the LORD seeth not as man seeth; for man looketh on the outward appearance, but the LORD looketh on the heart.", "reference": "1 Samuel 16:7" },
-  "exod-3-11": { "text": "And Moses said unto God, Who am I, that I should go unto Pharaoh, and that I should bring forth the children of Israel out of Egypt?", "reference": "Exodus 3:11" },
-  "esth-4-14": { "text": "For if thou altogether holdest thy peace at this time, then shall there enlargement and deliverance arise to the Jews from another place; but thou and thy father's house shall be destroyed: and who knoweth whether thou art come to the kingdom for such a time as this?", "reference": "Esther 4:14" },
-  "ruth-1-16": { "text": "And Ruth said, Intreat me not to leave thee, or to return from following after thee: for whither thou goest, I will go; and where thou lodgest, I will lodge: thy people shall be my people, and thy God my God.", "reference": "Ruth 1:16" },
-  "dan-6-10": { "text": "Now when Daniel knew that the writing was signed, he went into his house; and his windows being open in his chamber toward Jerusalem, he kneeled upon his knees three times a day, and prayed, and gave thanks before his God, as he did aforetime.", "reference": "Daniel 6:10" },
-  "gen-50-20": { "text": "But as for you, ye thought evil against me; but God meant it unto good, to bring to pass, as it is this day, to save much people alive.", "reference": "Genesis 50:20" },
-  "phil-3-14": { "text": "I press toward the mark for the prize of the high calling of God in Christ Jesus.", "reference": "Philippians 3:14" },
-  "luke-1-38": { "text": "And Mary said, Behold the handmaid of the Lord; be it unto me according to thy word. And the angel departed from her.", "reference": "Luke 1:38" },
-  "gal-5-22-23": { "text": "But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith, meekness, temperance: against such there is no law.", "reference": "Galatians 5:22-23" },
-  "luke-10-42": { "text": "But one thing is needful: and Mary hath chosen that good part, which shall not be taken away from her.", "reference": "Luke 10:42" },
-  "luke-10-41": { "text": "And Jesus answered and said unto her, Martha, Martha, thou art careful and troubled about many things.", "reference": "Luke 10:41" },
-  "judg-4-9": { "text": "And she said, I will surely go with thee: notwithstanding the journey that thou takest shall not be for thine honour; for the LORD shall sell Sisera into the hand of a woman.", "reference": "Judges 4:9" },
-  "1-sam-1-15": { "text": "And Hannah answered and said, No, my lord, I am a woman of a sorrowful spirit: I have drunk neither wine nor strong drink, but have poured out my soul before the LORD.", "reference": "1 Samuel 1:15" },
-  "josh-2-11": { "text": "And as soon as we had heard these things, our hearts did melt, neither did there remain any more courage in any man, because of you: for the LORD your God, he is God in heaven above, and in earth beneath.", "reference": "Joshua 2:11" },
-  "acts-18-26": { "text": "And he began to speak boldly in the synagogue: whom when Aquila and Priscilla had heard, they took him unto them, and expounded unto him the way of God more perfectly.", "reference": "Acts 18:26" },
-  "ps-23-1": { "text": "The LORD is my shepherd; I shall not want.", "reference": "Psalm 23:1" },
-  "ps-51-1": { "text": "Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions.", "reference": "Psalm 51:1" },
-  "ps-91-1": { "text": "He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty.", "reference": "Psalm 91:1" },
-  "ps-139-1": { "text": "O LORD, thou hast searched me, and known me.", "reference": "Psalm 139:1" },
-  "ps-119-105": { "text": "Thy word is a lamp unto my feet, and a light unto my path.", "reference": "Psalm 119:105" },
-  "ps-121-1": { "text": "I will lift up mine eyes unto the hills, from whence cometh my help.", "reference": "Psalm 121:1" },
-  "ps-27-1": { "text": "The LORD is my light and my salvation; whom shall I fear? the LORD is the strength of my life; of whom shall I be afraid?", "reference": "Psalm 27:1" },
-  "ps-46-10": { "text": "Be still, and know that I am God: I will be exalted among the heathen, I will be exalted in the earth.", "reference": "Psalm 46:10" },
-  "isa-6-8": { "text": "Also I heard the voice of the Lord, saying, Whom shall I send, and who will go for us? Then said I, Here am I; send me.", "reference": "Isaiah 6:8" },
-  "jer-20-9": { "text": "Then I said, I will not make mention of him, nor speak any more in his name. But his word was in mine heart as a burning fire shut up in my bones, and I was weary with forbearing, and I could not stay.", "reference": "Jeremiah 20:9" },
-  "ezek-37-5": { "text": "Thus saith the Lord GOD unto these bones; Behold, I will cause breath to enter into you, and ye shall live.", "reference": "Ezekiel 37:5" },
-  "hos-6-6": { "text": "For I desired mercy, and not sacrifice; and the knowledge of God more than burnt offerings.", "reference": "Hosea 6:6" },
-  "jonah-4-2": { "text": "And he prayed unto the LORD, and said, I pray thee, O LORD, was not this my saying, when I was yet in my country? Therefore I fled before unto Tarshish: for I knew that thou art a gracious God, and merciful, slow to anger, and of great kindness, and repentest thee of the evil.", "reference": "Jonah 4:2" },
-  "1-kgs-19-12": { "text": "And after the earthquake a fire; but the LORD was not in the fire: and after the fire a still small voice.", "reference": "1 Kings 19:12" },
-  "luke-15-20": { "text": "And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him.", "reference": "Luke 15:20" },
-  "luke-10-33": { "text": "But a certain Samaritan, as he journeyed, came where he was: and when he saw him, he had compassion on him.", "reference": "Luke 10:33" },
-  "matt-13-23": { "text": "But he that received seed into the good ground is he that heareth the word, and understandeth it; which also beareth fruit, and bringeth forth, some an hundredfold, some sixty, some thirty.", "reference": "Matthew 13:23" },
-  "matt-13-32": { "text": "Which indeed is the least of all seeds: but when it is grown, it is the greatest among herbs, and becometh a tree, so that the birds of the air come and lodge in the branches thereof.", "reference": "Matthew 13:32" },
-  "luke-15-5": { "text": "And when he hath found it, he layeth it on his shoulders, rejoicing.", "reference": "Luke 15:5" },
-  "matt-25-21": { "text": "His lord said unto him, Well done, thou good and faithful servant: thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord.", "reference": "Matthew 25:21" },
-  "luke-18-13": { "text": "And the publican, standing afar off, would not lift up so much as his eyes unto heaven, but smote upon his breast, saying, God be merciful to me a sinner.", "reference": "Luke 18:13" },
-  "matt-5-3": { "text": "Blessed are the poor in spirit: for theirs is the kingdom of heaven.", "reference": "Matthew 5:3" },
-  "matt-5-4": { "text": "Blessed are they that mourn: for they shall be comforted.", "reference": "Matthew 5:4" },
-  "matt-5-5": { "text": "Blessed are the meek: for they shall inherit the earth.", "reference": "Matthew 5:5" },
-  "matt-5-6": { "text": "Blessed are they which do hunger and thirst after righteousness: for they shall be filled.", "reference": "Matthew 5:6" },
-  "matt-5-7": { "text": "Blessed are the merciful: for they shall obtain mercy.", "reference": "Matthew 5:7" },
-  "matt-5-8": { "text": "Blessed are the pure in heart: for they shall see God.", "reference": "Matthew 5:8" },
-  "matt-5-9": { "text": "Blessed are the peacemakers: for they shall be called the children of God.", "reference": "Matthew 5:9" },
-  "matt-5-10": { "text": "Blessed are they which are persecuted for righteousness' sake: for theirs is the kingdom of heaven.", "reference": "Matthew 5:10" },
-  "rev-5-5": { "text": "And one of the elders saith unto me, Weep not: behold, the Lion of the tribe of Juda, the Root of David, hath prevailed to open the book, and to loose the seven seals thereof.", "reference": "Revelation 5:5" },
-  "john-1-29": { "text": "The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world.", "reference": "John 1:29" },
-  "isa-40-31": { "text": "But they that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint.", "reference": "Isaiah 40:31" },
-  "matt-3-16": { "text": "And Jesus, when he was baptized, went up straightway out of the water: and, lo, the heavens were opened unto him, and he saw the Spirit of God descending like a dove, and lighting upon him.", "reference": "Matthew 3:16" },
-  "john-10-27": { "text": "My sheep hear my voice, and I know them, and they follow me.", "reference": "John 10:27" },
-  "num-22-28": { "text": "And the LORD opened the mouth of the ass, and she said unto Balaam, What have I done unto thee, that thou hast smitten me these three times?", "reference": "Numbers 22:28" },
-  "matt-10-16": { "text": "Behold, I send you forth as sheep in the midst of wolves: be ye therefore wise as serpents, and harmless as doves.", "reference": "Matthew 10:16" },
-  "exod-14-14": { "text": "The LORD shall fight for you, and ye shall hold your peace.", "reference": "Exodus 14:14" },
-  "deut-8-2": { "text": "And thou shalt remember all the way which the LORD thy God led thee these forty years in the wilderness, to humble thee, and to prove thee, to know what was in thine heart, whether thou wouldest keep his commandments, or no.", "reference": "Deuteronomy 8:2" },
-  "dan-6-22": { "text": "My God hath sent his angel, and hath shut the lions' mouths, that they have not hurt me: forasmuch as before him innocency was found in me; and also before thee, O king, have I done no hurt.", "reference": "Daniel 6:22" },
-  "john-11-25": { "text": "Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live.", "reference": "John 11:25" },
-  "exod-3-5": { "text": "And he said, Draw not nigh hither: put off thy shoes from off thy feet, for the place whereon thou standest is holy ground.", "reference": "Exodus 3:5" },
-  "acts-2-4": { "text": "And they were all filled with the Holy Ghost, and began to speak with other tongues, as the Spirit gave them utterance.", "reference": "Acts 2:4" },
-  "mark-4-39": { "text": "And he arose, and rebuked the wind, and said unto the sea, Peace, be still. And the wind ceased, and there was a great calm.", "reference": "Mark 4:39" },
-  "matt-1-24": { "text": "Then Joseph being raised from sleep did as the angel of the Lord had bidden him, and took unto him his wife.", "reference": "Matthew 1:24" },
-  "matt-2-11": { "text": "And when they were come into the house, they saw the young child with Mary his mother, and fell down, and worshipped him: and when they had opened their treasures, they presented unto him gifts; gold, and frankincense, and myrrh.", "reference": "Matthew 2:11" },
-  "luke-2-15": { "text": "And it came to pass, as the angels were gone away from them into heaven, the shepherds said one to another, Let us now go even unto Bethlehem, and see this thing which is come to pass, which the Lord hath made known unto us.", "reference": "Luke 2:15" },
-  "luke-2-7": { "text": "And she brought forth her firstborn son, and wrapped him in swaddling clothes, and laid him in a manger; because there was no room for them in the inn.", "reference": "Luke 2:7" },
-  "luke-2-10": { "text": "And the angel said unto them, Fear not: for, behold, I bring you good tidings of great joy, which shall be to all people.", "reference": "Luke 2:10" },
-  "1-cor-12-7": { "text": "But the manifestation of the Spirit is given to every man to profit withal.", "reference": "1 Corinthians 12:7" },
-  "rom-12-6": { "text": "Having then gifts differing according to the grace that is given to us, whether prophecy, let us prophesy according to the proportion of faith.", "reference": "Romans 12:6" }
+  "matt-16-18": {
+    "text": "And I also say unto thee, that thou art Peter, and upon this rock I will build my church; and the gates of Hades shall not prevail against it.",
+    "reference": "Matthew 16:18",
+    "translation": "ASV"
+  },
+  "john-13-23": {
+    "text": "There was at the table reclining in Jesus’ bosom one of his disciples, whom Jesus loved.",
+    "reference": "John 13:23",
+    "translation": "ASV"
+  },
+  "mark-3-17": {
+    "text": "and James the son of Zebedee, and John the brother of James; and them he surnamed Boanerges, which is, Sons of thunder:",
+    "reference": "Mark 3:17",
+    "translation": "ASV"
+  },
+  "john-1-41": {
+    "text": "He findeth first his own brother Simon, and saith unto him, We have found the Messiah (which is, being interpreted, Christ).",
+    "reference": "John 1:41",
+    "translation": "ASV"
+  },
+  "john-20-25": {
+    "text": "The other disciples therefore said unto him, We have seen the Lord. But he said unto them, Except I shall see in his hands the print of the nails, and put my finger into the print of the nails, and put my hand into his side, I will not believe.",
+    "reference": "John 20:25",
+    "translation": "ASV"
+  },
+  "matt-9-9": {
+    "text": "And as Jesus passed by from thence, he saw a man, called Matthew, sitting at the place of toll: and he saith unto him, Follow me. And he arose, and followed him.",
+    "reference": "Matthew 9:9",
+    "translation": "ASV"
+  },
+  "john-6-7": {
+    "text": "Philip answered him, Two hundred shillings’ worth of bread is not sufficient for them, that every one may take a little.",
+    "reference": "John 6:7",
+    "translation": "ASV"
+  },
+  "john-1-45": {
+    "text": "Philip findeth Nathanael, and saith unto him, We have found him, of whom Moses in the law, and the prophets, wrote, Jesus of Nazareth, the son of Joseph.",
+    "reference": "John 1:45",
+    "translation": "ASV"
+  },
+  "1-sam-16-7": {
+    "text": "But Jehovah said unto Samuel, Look not on his countenance, or on the height of his stature; because I have rejected him: for Jehovah seeth not as man seeth; for man looketh on the outward appearance, but Jehovah looketh on the heart.",
+    "reference": "1 Samuel 16:7",
+    "translation": "ASV"
+  },
+  "exod-3-11": {
+    "text": "And Moses said unto God, Who am I, that I should go unto Pharaoh, and that I should bring forth the children of Israel out of Egypt?",
+    "reference": "Exodus 3:11",
+    "translation": "ASV"
+  },
+  "esth-4-14": {
+    "text": "For if thou altogether holdest thy peace at this time, then will relief and deliverance arise to the Jews from another place, but thou and thy father’s house will perish: and who knoweth whether thou art not come to the kingdom for such a time as this?",
+    "reference": "Esther 4:14",
+    "translation": "ASV"
+  },
+  "ruth-1-16": {
+    "text": "And Ruth said, Entreat me not to leave thee, and to return from following after thee, for whither thou goest, I will go; and where thou lodgest, I will lodge; thy people shall be my people, and thy God my God;",
+    "reference": "Ruth 1:16",
+    "translation": "ASV"
+  },
+  "dan-6-10": {
+    "text": "And when Daniel knew that the writing was signed, he went into his house (now his windows were open in his chamber toward Jerusalem); and he kneeled upon his knees three times a day, and prayed, and gave thanks before his God, as he did aforetime.",
+    "reference": "Daniel 6:10",
+    "translation": "ASV"
+  },
+  "gen-50-20": {
+    "text": "And as for you, ye meant evil against me; but God meant it for good, to bring to pass, as it is this day, to save much people alive.",
+    "reference": "Genesis 50:20",
+    "translation": "ASV"
+  },
+  "phil-3-14": {
+    "text": "I press on toward the goal unto the prize of the high calling of God in Christ Jesus.",
+    "reference": "Philippians 3:14",
+    "translation": "ASV"
+  },
+  "luke-1-38": {
+    "text": "And Mary said, Behold, the handmaid of the Lord; be it unto me according to thy word. And the angel departed from her.",
+    "reference": "Luke 1:38",
+    "translation": "ASV"
+  },
+  "gal-5-22-23": {
+    "text": "But the fruit of the Spirit is love, joy, peace, longsuffering, kindness, goodness, faithfulness, meekness, self-control; against such there is no law.",
+    "reference": "Galatians 5:22-23",
+    "translation": "ASV"
+  },
+  "luke-10-42": {
+    "text": "but one thing is needful: for Mary hath chosen the good part, which shall not be taken away from her.",
+    "reference": "Luke 10:42",
+    "translation": "ASV"
+  },
+  "luke-10-41": {
+    "text": "But the Lord answered and said unto her, Martha, Martha, thou art anxious and troubled about many things:",
+    "reference": "Luke 10:41",
+    "translation": "ASV"
+  },
+  "judg-4-9": {
+    "text": "And she said, I will surely go with thee: notwithstanding, the journey that thou takest shall not be for thine honor; for Jehovah will sell Sisera into the hand of a woman. And Deborah arose, and went with Barak to Kedesh.",
+    "reference": "Judges 4:9",
+    "translation": "ASV"
+  },
+  "1-sam-1-15": {
+    "text": "And Hannah answered and said, No, my lord, I am a woman of a sorrowful spirit: I have drunk neither wine nor strong drink, but I poured out my soul before Jehovah.",
+    "reference": "1 Samuel 1:15",
+    "translation": "ASV"
+  },
+  "josh-2-11": {
+    "text": "And as soon as we had heard it, our hearts did melt, neither did there remain any more spirit in any man, because of you: for Jehovah your God, he is God in heaven above, and on earth beneath.",
+    "reference": "Joshua 2:11",
+    "translation": "ASV"
+  },
+  "acts-18-26": {
+    "text": "and he began to speak boldly in the synagogue. But when Priscilla and Aquila heard him, they took him unto them, and expounded unto him the way of God more accurately.",
+    "reference": "Acts 18:26",
+    "translation": "ASV"
+  },
+  "ps-23-1": {
+    "text": "Jehovah is my shepherd; I shall not want.",
+    "reference": "Psalm 23:1",
+    "translation": "ASV"
+  },
+  "ps-51-1": {
+    "text": "Have mercy upon me, O God, according to thy lovingkindness: According to the multitude of thy tender mercies blot out my transgressions.",
+    "reference": "Psalm 51:1",
+    "translation": "ASV"
+  },
+  "ps-91-1": {
+    "text": "He that dwelleth in the secret place of the Most High Shall abide under the shadow of the Almighty.",
+    "reference": "Psalm 91:1",
+    "translation": "ASV"
+  },
+  "ps-139-1": {
+    "text": "O Jehovah, thou hast searched me, and knownme.",
+    "reference": "Psalm 139:1",
+    "translation": "ASV"
+  },
+  "ps-119-105": {
+    "text": "Thy word is a lamp unto my feet, And light unto my path.",
+    "reference": "Psalm 119:105",
+    "translation": "ASV"
+  },
+  "ps-121-1": {
+    "text": "I will lift up mine eyes unto the mountains: From whence shall my help come?",
+    "reference": "Psalm 121:1",
+    "translation": "ASV"
+  },
+  "ps-27-1": {
+    "text": "Jehovah is my light and my salvation; Whom shall I fear? Jehovah is the strength of my life; Of whom shall I be afraid?",
+    "reference": "Psalm 27:1",
+    "translation": "ASV"
+  },
+  "ps-46-10": {
+    "text": "Be still, and know that I am God: I will be exalted among the nations, I will be exalted in the earth.",
+    "reference": "Psalm 46:10",
+    "translation": "ASV"
+  },
+  "isa-6-8": {
+    "text": "And I heard the voice of the Lord, saying, Whom shall I send, and who will go for us? Then I said, Here am I; send me.",
+    "reference": "Isaiah 6:8",
+    "translation": "ASV"
+  },
+  "jer-20-9": {
+    "text": "And if I say, I will not make mention of him, nor speak any more in his name, then there is in my heart as it were a burning fire shut up in my bones, and I am weary with forbearing, and I cannot contain.",
+    "reference": "Jeremiah 20:9",
+    "translation": "ASV"
+  },
+  "ezek-37-5": {
+    "text": "Thus saith the Lord Jehovah unto these bones: Behold, I will cause breath to enter into you, and ye shall live.",
+    "reference": "Ezekiel 37:5",
+    "translation": "ASV"
+  },
+  "hos-6-6": {
+    "text": "For I desire goodness, and not sacrifice; and the knowledge of God more than burnt-offerings.",
+    "reference": "Hosea 6:6",
+    "translation": "ASV"
+  },
+  "jonah-4-2": {
+    "text": "And he prayed unto Jehovah, and said, I pray thee, O Jehovah, was not this my saying, when I was yet in my country? Therefore I hasted to flee unto Tarshish; for I knew that thou art a gracious God, and merciful, slow to anger, and abundant in lovingkindness, and repentest thee of the evil.",
+    "reference": "Jonah 4:2",
+    "translation": "ASV"
+  },
+  "1-kgs-19-12": {
+    "text": "and after the earthquake a fire; but Jehovah was not in the fire: and after the fire a still small voice.",
+    "reference": "1 Kings 19:12",
+    "translation": "ASV"
+  },
+  "luke-15-20": {
+    "text": "And he arose, and came to his father. But while he was yet afar off, his father saw him, and was moved with compassion, and ran, and fell on his neck, and kissed him.",
+    "reference": "Luke 15:20",
+    "translation": "ASV"
+  },
+  "luke-10-33": {
+    "text": "But a certain Samaritan, as he journeyed, came where he was: and when he saw him, he was moved with compassion,",
+    "reference": "Luke 10:33",
+    "translation": "ASV"
+  },
+  "matt-13-23": {
+    "text": "And he that was sown upon the good ground, this is he that heareth the word, and understandeth it; who verily beareth fruit, and bringeth forth, some a hundredfold, some sixty, some thirty.",
+    "reference": "Matthew 13:23",
+    "translation": "ASV"
+  },
+  "matt-13-32": {
+    "text": "which indeed is less than all seeds; but when it is grown, it is greater than the herbs, and becometh a tree, so that the birds of the heaven come and lodge in the branches thereof.",
+    "reference": "Matthew 13:32",
+    "translation": "ASV"
+  },
+  "luke-15-5": {
+    "text": "And when he hath found it, he layeth it on his shoulders, rejoicing.",
+    "reference": "Luke 15:5",
+    "translation": "ASV"
+  },
+  "matt-25-21": {
+    "text": "His lord said unto him, Well done, good and faithful servant: thou hast been faithful over a few things, I will set thee over many things; enter thou into the joy of thy lord.",
+    "reference": "Matthew 25:21",
+    "translation": "ASV"
+  },
+  "luke-18-13": {
+    "text": "But the publican, standing afar off, would not lift up so much as his eyes unto heaven, but smote his breast, saying, God, be thou merciful to me a sinner.",
+    "reference": "Luke 18:13",
+    "translation": "ASV"
+  },
+  "matt-5-3": {
+    "text": "Blessed are the poor in spirit: for theirs is the kingdom of heaven.",
+    "reference": "Matthew 5:3",
+    "translation": "ASV"
+  },
+  "matt-5-4": {
+    "text": "Blessed are they that mourn: for they shall be comforted.",
+    "reference": "Matthew 5:4",
+    "translation": "ASV"
+  },
+  "matt-5-5": {
+    "text": "Blessed are the meek: for they shall inherit the earth.",
+    "reference": "Matthew 5:5",
+    "translation": "ASV"
+  },
+  "matt-5-6": {
+    "text": "Blessed are they that hunger and thirst after righteousness: for they shall be filled.",
+    "reference": "Matthew 5:6",
+    "translation": "ASV"
+  },
+  "matt-5-7": {
+    "text": "Blessed are the merciful: for they shall obtain mercy.",
+    "reference": "Matthew 5:7",
+    "translation": "ASV"
+  },
+  "matt-5-8": {
+    "text": "Blessed are the pure in heart: for they shall see God.",
+    "reference": "Matthew 5:8",
+    "translation": "ASV"
+  },
+  "matt-5-9": {
+    "text": "Blessed are the peacemakers: for they shall be called sons of God.",
+    "reference": "Matthew 5:9",
+    "translation": "ASV"
+  },
+  "matt-5-10": {
+    "text": "Blessed are they that have been persecuted for righteousness’ sake: for theirs is the kingdom of heaven.",
+    "reference": "Matthew 5:10",
+    "translation": "ASV"
+  },
+  "rev-5-5": {
+    "text": "and one of the elders saith unto me, Weep not; behold, the Lion that is of the tribe of Judah, the Root of David, hath overcome to open the book and the seven seals thereof.",
+    "reference": "Revelation 5:5",
+    "translation": "ASV"
+  },
+  "john-1-29": {
+    "text": "On the morrow he seeth Jesus coming unto him, and saith, Behold, the Lamb of God, that taketh away the sin of the world!",
+    "reference": "John 1:29",
+    "translation": "ASV"
+  },
+  "isa-40-31": {
+    "text": "but they that wait for Jehovah shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; they shall walk, and not faint.",
+    "reference": "Isaiah 40:31",
+    "translation": "ASV"
+  },
+  "matt-3-16": {
+    "text": "And Jesus, when he was baptized, went up straightway from the water: and lo, the heavens were opened unto him, and he saw the Spirit of God descending as a dove, and coming upon him;",
+    "reference": "Matthew 3:16",
+    "translation": "ASV"
+  },
+  "john-10-27": {
+    "text": "My sheep hear my voice, and I know them, and they follow me:",
+    "reference": "John 10:27",
+    "translation": "ASV"
+  },
+  "num-22-28": {
+    "text": "And Jehovah opened the mouth of the ass, and she said unto Balaam, What have I done unto thee, that thou hast smitten me these three times?",
+    "reference": "Numbers 22:28",
+    "translation": "ASV"
+  },
+  "matt-10-16": {
+    "text": "Behold, I send you forth as sheep in the midst of wolves: be ye therefore wise as serpents, and harmless as doves.",
+    "reference": "Matthew 10:16",
+    "translation": "ASV"
+  },
+  "exod-14-14": {
+    "text": "Jehovah will fight for you, and ye shall hold your peace.",
+    "reference": "Exodus 14:14",
+    "translation": "ASV"
+  },
+  "deut-8-2": {
+    "text": "And thou shalt remember all the way which Jehovah thy God hath led thee these forty years in the wilderness, that he might humble thee, to prove thee, to know what was in thy heart, whether thou wouldest keep his commandments, or not.",
+    "reference": "Deuteronomy 8:2",
+    "translation": "ASV"
+  },
+  "dan-6-22": {
+    "text": "My God hath sent his angel, and hath shut the lions’ mouths, and they have not hurt me; forasmuch as before him innocency was found in me; and also before thee, O king, have I done no hurt.",
+    "reference": "Daniel 6:22",
+    "translation": "ASV"
+  },
+  "john-11-25": {
+    "text": "Jesus said unto her, I am the resurrection, and the life: he that believeth on me, though he die, yet shall he live;",
+    "reference": "John 11:25",
+    "translation": "ASV"
+  },
+  "exod-3-5": {
+    "text": "And he said, Draw not nigh hither: put off thy shoes from off thy feet, for the place whereon thou standest is holy ground.",
+    "reference": "Exodus 3:5",
+    "translation": "ASV"
+  },
+  "acts-2-4": {
+    "text": "And they were all filled with the Holy Spirit, and began to speak with other tongues, as the Spirit gave them utterance.",
+    "reference": "Acts 2:4",
+    "translation": "ASV"
+  },
+  "mark-4-39": {
+    "text": "And he awoke, and rebuked the wind, and said unto the sea, Peace, be still. And the wind ceased, and there was a great calm.",
+    "reference": "Mark 4:39",
+    "translation": "ASV"
+  },
+  "matt-1-24": {
+    "text": "And Joseph arose from his sleep, and did as the angel of the Lord commanded him, and took unto him his wife;",
+    "reference": "Matthew 1:24",
+    "translation": "ASV"
+  },
+  "matt-2-11": {
+    "text": "And they came into the house and saw the young child with Mary his mother; and they fell down and worshipped him; and opening their treasures they offered unto him gifts, gold and frankincense and myrrh.",
+    "reference": "Matthew 2:11",
+    "translation": "ASV"
+  },
+  "luke-2-15": {
+    "text": "And it came to pass, when the angels went away from them into heaven, the shepherds said one to another, Let us now go even unto Bethlehem, and see this thing that is come to pass, which the Lord hath made known unto us.",
+    "reference": "Luke 2:15",
+    "translation": "ASV"
+  },
+  "luke-2-7": {
+    "text": "And she brought forth her firstborn son; and she wrapped him in swaddling clothes, and laid him in a manger, because there was no room for them in the inn.",
+    "reference": "Luke 2:7",
+    "translation": "ASV"
+  },
+  "luke-2-10": {
+    "text": "And the angel said unto them, Be not afraid; for behold, I bring you good tidings of great joy which shall be to all the people:",
+    "reference": "Luke 2:10",
+    "translation": "ASV"
+  },
+  "1-cor-12-7": {
+    "text": "But to each one is given the manifestation of the Spirit to profit withal.",
+    "reference": "1 Corinthians 12:7",
+    "translation": "ASV"
+  },
+  "rom-12-6": {
+    "text": "And having gifts differing according to the grace that was given to us, whether prophecy, let us prophesy according to the proportion of our faith;",
+    "reference": "Romans 12:6",
+    "translation": "ASV"
+  }
 }

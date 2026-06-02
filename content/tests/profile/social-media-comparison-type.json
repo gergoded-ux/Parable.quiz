@@ -6,87 +6,277 @@
   "category": "spiritual-profile",
   "estimatedMinutes": 5,
   "mode": "profile",
-  "dimensions": ["doom-scroller", "curator", "lurker-comparer", "fomo-feeler"],
+  "dimensions": [
+    "doom-scroller",
+    "curator",
+    "lurker-comparer",
+    "fomo-feeler"
+  ],
   "questions": [
     {
       "text": "You open the app to check one thing. What usually happens next?",
       "options": [
-        { "text": "An hour vanishes and I feel worse than when I started.", "weights": { "doom-scroller": 3 } },
-        { "text": "I get pulled into perfecting whatever I'm about to post.", "weights": { "curator": 3 } },
-        { "text": "I quietly study other people's lives and never comment.", "weights": { "lurker-comparer": 3 } },
-        { "text": "I see what everyone's doing and feel left out of all of it.", "weights": { "fomo-feeler": 3 } }
+        {
+          "text": "An hour vanishes and I feel worse than when I started.",
+          "weights": {
+            "doom-scroller": 3
+          }
+        },
+        {
+          "text": "I get pulled into perfecting whatever I'm about to post.",
+          "weights": {
+            "curator": 3
+          }
+        },
+        {
+          "text": "I quietly study other people's lives and never comment.",
+          "weights": {
+            "lurker-comparer": 3
+          }
+        },
+        {
+          "text": "I see what everyone's doing and feel left out of all of it.",
+          "weights": {
+            "fomo-feeler": 3
+          }
+        }
       ]
     },
     {
       "text": "Before you hit post, what's going through your head?",
       "options": [
-        { "text": "Is this the right photo, the right caption, the right light?", "weights": { "curator": 3 } },
-        { "text": "I rarely post. I'd rather watch than be watched.", "weights": { "lurker-comparer": 2, "doom-scroller": 1 } },
-        { "text": "Will people think my life is exciting enough?", "weights": { "fomo-feeler": 2, "curator": 1 } },
-        { "text": "Honestly I just keep scrolling instead of posting at all.", "weights": { "doom-scroller": 3 } }
+        {
+          "text": "Is this the right photo, the right caption, the right light?",
+          "weights": {
+            "curator": 3
+          }
+        },
+        {
+          "text": "I rarely post. I'd rather watch than be watched.",
+          "weights": {
+            "lurker-comparer": 2,
+            "doom-scroller": 1
+          }
+        },
+        {
+          "text": "Will people think my life is exciting enough?",
+          "weights": {
+            "fomo-feeler": 2,
+            "curator": 1
+          }
+        },
+        {
+          "text": "Honestly I just keep scrolling instead of posting at all.",
+          "weights": {
+            "doom-scroller": 3
+          }
+        }
       ]
     },
     {
       "text": "Which moment stings the most?",
       "options": [
-        { "text": "Seeing bad news stack up until I feel hollow and anxious.", "weights": { "doom-scroller": 3 } },
-        { "text": "A photo of mine getting fewer likes than I hoped.", "weights": { "curator": 3 } },
-        { "text": "Realizing someone has the exact life I quietly want.", "weights": { "lurker-comparer": 3 } },
-        { "text": "Spotting a group hangout I wasn't invited to.", "weights": { "fomo-feeler": 3 } }
+        {
+          "text": "Seeing bad news stack up until I feel hollow and anxious.",
+          "weights": {
+            "doom-scroller": 3
+          }
+        },
+        {
+          "text": "A photo of mine getting fewer likes than I hoped.",
+          "weights": {
+            "curator": 3
+          }
+        },
+        {
+          "text": "Realizing someone has the exact life I quietly want.",
+          "weights": {
+            "lurker-comparer": 3
+          }
+        },
+        {
+          "text": "Spotting a group hangout I wasn't invited to.",
+          "weights": {
+            "fomo-feeler": 3
+          }
+        }
       ]
     },
     {
       "text": "Be honest. How often do you check who looked at your stuff?",
       "options": [
-        { "text": "Constantly. The numbers tell me how I'm doing.", "weights": { "curator": 3 } },
-        { "text": "Almost never. I'm too busy looking at everyone else.", "weights": { "lurker-comparer": 3 } },
-        { "text": "I check, then spiral about who's hanging out without me.", "weights": { "fomo-feeler": 2, "lurker-comparer": 1 } },
-        { "text": "I forget to, because I'm three hours deep into the feed.", "weights": { "doom-scroller": 3 } }
+        {
+          "text": "Constantly. The numbers tell me how I'm doing.",
+          "weights": {
+            "curator": 3
+          }
+        },
+        {
+          "text": "Almost never. I'm too busy looking at everyone else.",
+          "weights": {
+            "lurker-comparer": 3
+          }
+        },
+        {
+          "text": "I check, then spiral about who's hanging out without me.",
+          "weights": {
+            "fomo-feeler": 2,
+            "lurker-comparer": 1
+          }
+        },
+        {
+          "text": "I forget to, because I'm three hours deep into the feed.",
+          "weights": {
+            "doom-scroller": 3
+          }
+        }
       ]
     },
     {
       "text": "When you finally put the phone down, how do you feel?",
       "options": [
-        { "text": "Drained and a little numb, like I lost time I can't get back.", "weights": { "doom-scroller": 3 } },
-        { "text": "Still thinking about whether my last post landed.", "weights": { "curator": 3 } },
-        { "text": "Quietly measuring my life against the ones I just watched.", "weights": { "lurker-comparer": 3 } },
-        { "text": "Restless, like everyone's living more than I am.", "weights": { "fomo-feeler": 3 } }
+        {
+          "text": "Drained and a little numb, like I lost time I can't get back.",
+          "weights": {
+            "doom-scroller": 3
+          }
+        },
+        {
+          "text": "Still thinking about whether my last post landed.",
+          "weights": {
+            "curator": 3
+          }
+        },
+        {
+          "text": "Quietly measuring my life against the ones I just watched.",
+          "weights": {
+            "lurker-comparer": 3
+          }
+        },
+        {
+          "text": "Restless, like everyone's living more than I am.",
+          "weights": {
+            "fomo-feeler": 3
+          }
+        }
       ]
     },
     {
       "text": "A friend posts a huge win. Your first gut reaction?",
       "options": [
-        { "text": "Happy for them, then a wave of where-is-mine.", "weights": { "lurker-comparer": 3 } },
-        { "text": "I wonder if I should post something to keep up.", "weights": { "curator": 2, "fomo-feeler": 1 } },
-        { "text": "I feel suddenly behind and start replaying my whole life.", "weights": { "fomo-feeler": 3 } },
-        { "text": "I keep scrolling past it into a pile of other people's wins.", "weights": { "doom-scroller": 3 } }
+        {
+          "text": "Happy for them, then a wave of where-is-mine.",
+          "weights": {
+            "lurker-comparer": 3
+          }
+        },
+        {
+          "text": "I wonder if I should post something to keep up.",
+          "weights": {
+            "curator": 2,
+            "fomo-feeler": 1
+          }
+        },
+        {
+          "text": "I feel suddenly behind and start replaying my whole life.",
+          "weights": {
+            "fomo-feeler": 3
+          }
+        },
+        {
+          "text": "I keep scrolling past it into a pile of other people's wins.",
+          "weights": {
+            "doom-scroller": 3
+          }
+        }
       ]
     },
     {
       "text": "What pulls you back to the app when you're trying to rest?",
       "options": [
-        { "text": "The fear I'm missing something everyone else is in on.", "weights": { "fomo-feeler": 3 } },
-        { "text": "The itch to refresh and watch the numbers move.", "weights": { "curator": 3 } },
-        { "text": "Just the habit of endless scrolling. I barely decide to.", "weights": { "doom-scroller": 3 } },
-        { "text": "Wanting one more peek at what certain people are up to.", "weights": { "lurker-comparer": 3 } }
+        {
+          "text": "The fear I'm missing something everyone else is in on.",
+          "weights": {
+            "fomo-feeler": 3
+          }
+        },
+        {
+          "text": "The itch to refresh and watch the numbers move.",
+          "weights": {
+            "curator": 3
+          }
+        },
+        {
+          "text": "Just the habit of endless scrolling. I barely decide to.",
+          "weights": {
+            "doom-scroller": 3
+          }
+        },
+        {
+          "text": "Wanting one more peek at what certain people are up to.",
+          "weights": {
+            "lurker-comparer": 3
+          }
+        }
       ]
     },
     {
       "text": "If the app disappeared tomorrow, what would you miss?",
       "options": [
-        { "text": "Nothing, honestly. I'd just get my hours back.", "weights": { "doom-scroller": 2, "lurker-comparer": 1 } },
-        { "text": "The way I get to shape how my life looks to others.", "weights": { "curator": 3 } },
-        { "text": "Knowing what's going on with everyone, even from a distance.", "weights": { "lurker-comparer": 3 } },
-        { "text": "Feeling in the loop on every plan and party.", "weights": { "fomo-feeler": 3 } }
+        {
+          "text": "Nothing, honestly. I'd just get my hours back.",
+          "weights": {
+            "doom-scroller": 2,
+            "lurker-comparer": 1
+          }
+        },
+        {
+          "text": "The way I get to shape how my life looks to others.",
+          "weights": {
+            "curator": 3
+          }
+        },
+        {
+          "text": "Knowing what's going on with everyone, even from a distance.",
+          "weights": {
+            "lurker-comparer": 3
+          }
+        },
+        {
+          "text": "Feeling in the loop on every plan and party.",
+          "weights": {
+            "fomo-feeler": 3
+          }
+        }
       ]
     },
     {
       "text": "Which sentence sounds most like the lie you keep believing?",
       "options": [
-        { "text": "If I keep watching, maybe I'll feel less empty.", "weights": { "doom-scroller": 3 } },
-        { "text": "I'm only worth what the highlight reel says I am.", "weights": { "curator": 3 } },
-        { "text": "Everyone has a better life than I do.", "weights": { "lurker-comparer": 3 } },
-        { "text": "If I'm not invited, I don't matter.", "weights": { "fomo-feeler": 3 } }
+        {
+          "text": "If I keep watching, maybe I'll feel less empty.",
+          "weights": {
+            "doom-scroller": 3
+          }
+        },
+        {
+          "text": "I'm only worth what the highlight reel says I am.",
+          "weights": {
+            "curator": 3
+          }
+        },
+        {
+          "text": "Everyone has a better life than I do.",
+          "weights": {
+            "lurker-comparer": 3
+          }
+        },
+        {
+          "text": "If I'm not invited, I don't matter.",
+          "weights": {
+            "fomo-feeler": 3
+          }
+        }
       ]
     }
   ],
@@ -94,22 +284,38 @@
     "doom-scroller": {
       "name": "The Doom-Scroller",
       "description": "You don't really choose to scroll. You just look up and an hour is gone, and you feel emptier than before. The feed promises company and hands you exhaustion instead. Your soul wasn't built to carry the whole world's noise at once. Set the phone down and let the quiet feed you for a change.",
-      "scripture": { "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.", "reference": "Matthew 11:28" }
+      "scripture": {
+        "text": "Come unto me, all ye that labor and are heavy laden, and I will give you rest.",
+        "reference": "Matthew 11:28",
+        "translation": "ASV"
+      }
     },
     "curator": {
       "name": "The Curator",
       "description": "You put real care into how your life looks online, and there's nothing wrong with sharing what's good. The trap is when the likes start telling you what you're worth. You were known and loved long before anyone ever tapped a heart on your photo. That approval is already yours, and no app can take it away.",
-      "scripture": { "text": "For am I now seeking the favor of man, or of God?", "reference": "Galatians 1:10" }
+      "scripture": {
+        "text": "For am I now seeking the favor of men, or of God? or am I striving to please men? if I were still pleasing men, I should not be a servant of Christ.",
+        "reference": "Galatians 1:10",
+        "translation": "ASV"
+      }
     },
     "lurker-comparer": {
       "name": "The Lurker-Comparer",
       "description": "You watch from the edges, quietly stacking your life against everyone else's, and you almost always come up short. But you're comparing your full messy story to their best ten seconds. God isn't measuring you against them. He made you on purpose, with your own pace and your own portion, and what He gave you is good.",
-      "scripture": { "text": "I will praise thee; for I am fearfully and wonderfully made.", "reference": "Psalm 139:14" }
+      "scripture": {
+        "text": "I will give thanks unto thee; for I am fearfully and wonderfully made: Wonderful are thy works; And that my soul knoweth right well.",
+        "reference": "Psalm 139:14",
+        "translation": "ASV"
+      }
     },
     "fomo-feeler": {
       "name": "The FOMO Feeler",
       "description": "Every missed hangout feels like proof you don't belong, and the feed keeps showing you rooms you weren't in. That ache is real, but it's lying to you about your value. You aren't on the outside of God's love, ever. He set you exactly where you are, and the life in front of you is not a leftover. It's yours.",
-      "scripture": { "text": "I will never leave thee, nor forsake thee.", "reference": "Hebrews 13:5" }
+      "scripture": {
+        "text": "Be ye free from the love of money; content with such things as ye have: for himself hath said, I will in no wise fail thee, neither will I in any wise forsake thee.",
+        "reference": "Hebrews 13:5",
+        "translation": "ASV"
+      }
     }
   }
 }

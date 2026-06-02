@@ -10,82 +10,264 @@
     {
       "text": "How does your waiting feel most days?",
       "options": [
-        { "text": "Like I've been forgotten somewhere dark and unfair.", "weights": { "dungeon": 3 } },
-        { "text": "Like a long, dry stretch with no end in sight.", "weights": { "wilderness": 3 } },
-        { "text": "Like I'm hiding out, hunted, waiting for safety.", "weights": { "cave": 3 } },
-        { "text": "Like I'm standing at a threshold, almost but not yet.", "weights": { "doorway": 3 } }
+        {
+          "text": "Like I've been forgotten somewhere dark and unfair.",
+          "weights": {
+            "dungeon": 3
+          }
+        },
+        {
+          "text": "Like a long, dry stretch with no end in sight.",
+          "weights": {
+            "wilderness": 3
+          }
+        },
+        {
+          "text": "Like I'm hiding out, hunted, waiting for safety.",
+          "weights": {
+            "cave": 3
+          }
+        },
+        {
+          "text": "Like I'm standing at a threshold, almost but not yet.",
+          "weights": {
+            "doorway": 3
+          }
+        }
       ]
     },
     {
       "text": "What brought you into this season of waiting?",
       "options": [
-        { "text": "Something unjust I didn't deserve.", "weights": { "dungeon": 3 } },
-        { "text": "A detour that's stretched on far longer than I expected.", "weights": { "wilderness": 3 } },
-        { "text": "Danger or conflict drove me into hiding.", "weights": { "cave": 3 } },
-        { "text": "I followed God somewhere uncertain and now I'm watching.", "weights": { "shoreline": 2, "doorway": 1 } }
+        {
+          "text": "Something unjust I didn't deserve.",
+          "weights": {
+            "dungeon": 3
+          }
+        },
+        {
+          "text": "A detour that's stretched on far longer than I expected.",
+          "weights": {
+            "wilderness": 3
+          }
+        },
+        {
+          "text": "Danger or conflict drove me into hiding.",
+          "weights": {
+            "cave": 3
+          }
+        },
+        {
+          "text": "I followed God somewhere uncertain and now I'm watching.",
+          "weights": {
+            "shoreline": 2,
+            "doorway": 1
+          }
+        }
       ]
     },
     {
       "text": "What's the hardest part of the wait for you?",
       "options": [
-        { "text": "Feeling overlooked by everyone, including God.", "weights": { "dungeon": 3 } },
-        { "text": "The sheer length of it, the not-knowing-when.", "weights": { "wilderness": 3 } },
-        { "text": "The fear and the loneliness while I lie low.", "weights": { "cave": 3 } },
-        { "text": "An ache for something I've prayed for and don't have yet.", "weights": { "empty-womb": 3 } }
+        {
+          "text": "Feeling overlooked by everyone, including God.",
+          "weights": {
+            "dungeon": 3
+          }
+        },
+        {
+          "text": "The sheer length of it, the not-knowing-when.",
+          "weights": {
+            "wilderness": 3
+          }
+        },
+        {
+          "text": "The fear and the loneliness while I lie low.",
+          "weights": {
+            "cave": 3
+          }
+        },
+        {
+          "text": "An ache for something I've prayed for and don't have yet.",
+          "weights": {
+            "empty-womb": 3
+          }
+        }
       ]
     },
     {
       "text": "Where do you sense God in all of it?",
       "options": [
-        { "text": "Present even in the prison, prospering me quietly.", "weights": { "dungeon": 3 } },
-        { "text": "Forming something in me out here in the empty places.", "weights": { "wilderness": 3 } },
-        { "text": "A refuge I keep running to when I'm afraid.", "weights": { "cave": 3 } },
-        { "text": "Asking me to keep watching the water and wait.", "weights": { "shoreline": 3 } }
+        {
+          "text": "Present even in the prison, prospering me quietly.",
+          "weights": {
+            "dungeon": 3
+          }
+        },
+        {
+          "text": "Forming something in me out here in the empty places.",
+          "weights": {
+            "wilderness": 3
+          }
+        },
+        {
+          "text": "A refuge I keep running to when I'm afraid.",
+          "weights": {
+            "cave": 3
+          }
+        },
+        {
+          "text": "Asking me to keep watching the water and wait.",
+          "weights": {
+            "shoreline": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you keep telling yourself to get through?",
       "options": [
-        { "text": "This isn't the end. God hasn't forgotten me.", "weights": { "dungeon": 3 } },
-        { "text": "He makes people in the desert. This is preparation.", "weights": { "wilderness": 3 } },
-        { "text": "He's my shelter even when everything feels unsafe.", "weights": { "cave": 3 } },
-        { "text": "He provides at just the right time, not a moment late.", "weights": { "doorway": 3 } }
+        {
+          "text": "This isn't the end. God hasn't forgotten me.",
+          "weights": {
+            "dungeon": 3
+          }
+        },
+        {
+          "text": "He makes people in the desert. This is preparation.",
+          "weights": {
+            "wilderness": 3
+          }
+        },
+        {
+          "text": "He's my shelter even when everything feels unsafe.",
+          "weights": {
+            "cave": 3
+          }
+        },
+        {
+          "text": "He provides at just the right time, not a moment late.",
+          "weights": {
+            "doorway": 3
+          }
+        }
       ]
     },
     {
       "text": "What does your prayer sound like in the waiting?",
       "options": [
-        { "text": "Remember me, Lord. Don't leave me down here.", "weights": { "dungeon": 3 } },
-        { "text": "How much longer in this wilderness?", "weights": { "wilderness": 3 } },
-        { "text": "Be my hiding place. Keep me safe.", "weights": { "cave": 3 } },
-        { "text": "I've cried for this for so long. Please answer.", "weights": { "empty-womb": 3 } }
+        {
+          "text": "Remember me, Lord. Don't leave me down here.",
+          "weights": {
+            "dungeon": 3
+          }
+        },
+        {
+          "text": "How much longer in this wilderness?",
+          "weights": {
+            "wilderness": 3
+          }
+        },
+        {
+          "text": "Be my hiding place. Keep me safe.",
+          "weights": {
+            "cave": 3
+          }
+        },
+        {
+          "text": "I've cried for this for so long. Please answer.",
+          "weights": {
+            "empty-womb": 3
+          }
+        }
       ]
     },
     {
       "text": "What kind of person is this season making you?",
       "options": [
-        { "text": "Faithful in small things while I wait to be remembered.", "weights": { "dungeon": 3 } },
-        { "text": "Humbled and slowly readied for what's next.", "weights": { "wilderness": 3 } },
-        { "text": "Someone who's learning to trust God under pressure.", "weights": { "cave": 3 } },
-        { "text": "Someone watching expectantly for a promise to land.", "weights": { "shoreline": 3 } }
+        {
+          "text": "Faithful in small things while I wait to be remembered.",
+          "weights": {
+            "dungeon": 3
+          }
+        },
+        {
+          "text": "Humbled and slowly readied for what's next.",
+          "weights": {
+            "wilderness": 3
+          }
+        },
+        {
+          "text": "Someone who's learning to trust God under pressure.",
+          "weights": {
+            "cave": 3
+          }
+        },
+        {
+          "text": "Someone watching expectantly for a promise to land.",
+          "weights": {
+            "shoreline": 3
+          }
+        }
       ]
     },
     {
       "text": "What would the breakthrough look like for you?",
       "options": [
-        { "text": "Being lifted out and finally vindicated.", "weights": { "dungeon": 3 } },
-        { "text": "Stepping out of the desert into the calling.", "weights": { "wilderness": 3 } },
-        { "text": "Coming out of hiding into the role I was promised.", "weights": { "cave": 3 } },
-        { "text": "A door swinging open that only God could open.", "weights": { "doorway": 3 } }
+        {
+          "text": "Being lifted out and finally vindicated.",
+          "weights": {
+            "dungeon": 3
+          }
+        },
+        {
+          "text": "Stepping out of the desert into the calling.",
+          "weights": {
+            "wilderness": 3
+          }
+        },
+        {
+          "text": "Coming out of hiding into the role I was promised.",
+          "weights": {
+            "cave": 3
+          }
+        },
+        {
+          "text": "A door swinging open that only God could open.",
+          "weights": {
+            "doorway": 3
+          }
+        }
       ]
     },
     {
       "text": "When the wait feels endless, what do you most long to hear?",
       "options": [
-        { "text": "I never left you, even in the dark.", "weights": { "dungeon": 2, "cave": 1 } },
-        { "text": "I was preparing you the whole time.", "weights": { "wilderness": 3 } },
-        { "text": "Watch the horizon. Provision is coming.", "weights": { "shoreline": 3 } },
-        { "text": "I have not forgotten the desire of your heart.", "weights": { "empty-womb": 3 } }
+        {
+          "text": "I never left you, even in the dark.",
+          "weights": {
+            "dungeon": 2,
+            "cave": 1
+          }
+        },
+        {
+          "text": "I was preparing you the whole time.",
+          "weights": {
+            "wilderness": 3
+          }
+        },
+        {
+          "text": "Watch the horizon. Provision is coming.",
+          "weights": {
+            "shoreline": 3
+          }
+        },
+        {
+          "text": "I have not forgotten the desire of your heart.",
+          "weights": {
+            "empty-womb": 3
+          }
+        }
       ]
     }
   ],
@@ -93,44 +275,92 @@
     "dungeon": {
       "name": "The Dungeon (Joseph)",
       "emoji": "⛓️",
-      "traits": ["Wronged", "Faithful", "Steady"],
+      "traits": [
+        "Wronged",
+        "Faithful",
+        "Steady"
+      ],
       "description": "You're waiting in a place that feels unfair, hidden away after something you didn't deserve, wondering if you've been forgotten. Joseph sat in a prison for years on a false charge, and yet Scripture keeps repeating that the Lord was with him there. God hadn't forgotten him, and He hasn't forgotten you. Your dungeon isn't the end of your story. Stay faithful in the small things. The same God who lifted Joseph from the prison to the palace is still writing yours.",
-      "scripture": { "text": "But while Joseph was there in the prison, the Lord was with him; he showed him kindness.", "reference": "Genesis 39:20-21" }
+      "scripture": {
+        "text": "And Joseph’s master took him, and put him into the prison, the place where the king’s prisoners were bound: and he was there in the prison. But Jehovah was with Joseph, and showed kindness unto him, and gave him favor in the sight of the keeper of the prison.",
+        "reference": "Genesis 39:20-21",
+        "translation": "ASV"
+      }
     },
     "wilderness": {
       "name": "The Wilderness (Moses)",
       "emoji": "🏜️",
-      "traits": ["Humbled", "Patient", "Forming"],
+      "traits": [
+        "Humbled",
+        "Patient",
+        "Forming"
+      ],
       "description": "Your waiting feels like a long, dry detour with no clear end, far from where you thought you'd be by now. Moses spent forty years in the wilderness tending sheep before God called him from the burning bush. Those quiet years weren't wasted. They were shaping him into the leader he'd become. Your desert isn't punishment or a dead end. It's preparation. God makes people out here, in the empty stretches, and He's forming something in you that only grows in this kind of soil.",
-      "scripture": { "text": "There the angel of the Lord appeared to him in flames of fire from within a bush.", "reference": "Exodus 3:2" }
+      "scripture": {
+        "text": "And the angel of Jehovah appeared unto him in a flame of fire out of the midst of a bush: and he looked, and, behold, the bush burned with fire, and the bush was not consumed.",
+        "reference": "Exodus 3:2",
+        "translation": "ASV"
+      }
     },
     "cave": {
       "name": "The Cave (David)",
       "emoji": "🪨",
-      "traits": ["Hidden", "Trusting", "Resilient"],
+      "traits": [
+        "Hidden",
+        "Trusting",
+        "Resilient"
+      ],
       "description": "You're waiting in hiding, watching your back, longing for safety while a promise over your life sits unfulfilled. David was anointed king but spent years hiding in caves from a man who wanted him dead. In that very place, he wrote some of his most honest, trusting prayers, calling God his refuge. Your cave can be the place your faith grows deepest. You're safe in His shelter even now, and the role you're waiting for hasn't been canceled. Hold on.",
-      "scripture": { "text": "I cry aloud to the Lord; I lift up my voice to the Lord for mercy. I pour out before him my complaint; before him I tell my trouble.", "reference": "Psalm 142:1-2" }
+      "scripture": {
+        "text": "I cry with my voice unto Jehovah; With my voice unto Jehovah do I make supplication. I pour out my complaint before him; I show before him my trouble.",
+        "reference": "Psalm 142:1-2",
+        "translation": "ASV"
+      }
     },
     "doorway": {
       "name": "The Doorway (Ruth)",
       "emoji": "🚪",
-      "traits": ["Hopeful", "Loyal", "Expectant"],
+      "traits": [
+        "Hopeful",
+        "Loyal",
+        "Expectant"
+      ],
       "description": "You're standing at a threshold, so close to something new you can almost touch it, waiting to see if the door will open. Ruth left everything familiar and waited at the edge of an uncertain future, and God provided a redeemer right on time through Boaz. Your almost-but-not-yet is not a closed door. It's a held breath before provision. Keep showing up faithfully where you are. The God who provided for Ruth is arranging the very thing you're waiting at the door for.",
-      "scripture": { "text": "May you be richly rewarded by the Lord, the God of Israel, under whose wings you have come to take refuge.", "reference": "Ruth 2:12" }
+      "scripture": {
+        "text": "Jehovah recompense thy work, and a full reward be given thee of Jehovah, the God of Israel, under whose wings thou art come to take refuge.",
+        "reference": "Ruth 2:12",
+        "translation": "ASV"
+      }
     },
     "shoreline": {
       "name": "The Shoreline (the Disciples)",
       "emoji": "🌊",
-      "traits": ["Watching", "Hopeful", "Trusting"],
+      "traits": [
+        "Watching",
+        "Hopeful",
+        "Trusting"
+      ],
       "description": "You're waiting at the edge of the water, watching the horizon, having followed God somewhere uncertain and now wondering when He'll show up. The disciples fished all night and caught nothing, until Jesus appeared on the shore at dawn and filled their nets. Your long, empty night isn't the whole story. Morning comes, and He often shows up right where you've been straining and waiting. Keep your eyes on the water. The One you're waiting for is closer to the shoreline than you think.",
-      "scripture": { "text": "Early in the morning, Jesus stood on the shore, but the disciples did not realize that it was Jesus.", "reference": "John 21:4" }
+      "scripture": {
+        "text": "But when day was now breaking, Jesus stood on the beach: yet the disciples knew not that it was Jesus.",
+        "reference": "John 21:4",
+        "translation": "ASV"
+      }
     },
     "empty-womb": {
       "name": "The Empty Womb (Hannah)",
       "emoji": "🕊️",
-      "traits": ["Aching", "Praying", "Persevering"],
+      "traits": [
+        "Aching",
+        "Praying",
+        "Persevering"
+      ],
       "description": "Your waiting carries a deep, specific ache, a longing you've prayed over for so long that the hope feels worn thin. Hannah wept year after year for a child, pouring out her soul before the Lord until He remembered her. Your tears are not unseen, and your longing is not foolish for refusing to die. Keep bringing it to God, honestly, the way Hannah did. He has not forgotten the desire of your heart, and He answers at just the right time.",
-      "scripture": { "text": "In her deep anguish Hannah prayed to the Lord, weeping bitterly.", "reference": "1 Samuel 1:10" }
+      "scripture": {
+        "text": "And she was in bitterness of soul, and prayed unto Jehovah, and wept sore.",
+        "reference": "1 Samuel 1:10",
+        "translation": "ASV"
+      }
     }
   }
 }

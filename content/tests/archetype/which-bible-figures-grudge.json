@@ -10,73 +10,236 @@
     {
       "text": "What lit the fire of your grudge in the first place?",
       "options": [
-        { "text": "Someone I think deserves judgment got mercy instead.", "weights": { "jonah": 3 } },
-        { "text": "I did everything right, and someone else got the grace.", "weights": { "older-brother": 3 } },
-        { "text": "They got the favor and praise I wanted, and it ate at me.", "weights": { "cain": 3 } },
-        { "text": "Something that was mine was taken right out from under me.", "weights": { "esau": 3 } }
+        {
+          "text": "Someone I think deserves judgment got mercy instead.",
+          "weights": {
+            "jonah": 3
+          }
+        },
+        {
+          "text": "I did everything right, and someone else got the grace.",
+          "weights": {
+            "older-brother": 3
+          }
+        },
+        {
+          "text": "They got the favor and praise I wanted, and it ate at me.",
+          "weights": {
+            "cain": 3
+          }
+        },
+        {
+          "text": "Something that was mine was taken right out from under me.",
+          "weights": {
+            "esau": 3
+          }
+        }
       ]
     },
     {
       "text": "When you think about the person you resent, what's the loudest feeling?",
       "options": [
-        { "text": "It isn't fair that they're off the hook.", "weights": { "jonah": 3 } },
-        { "text": "After all I've given, this is what I get?", "weights": { "older-brother": 3 } },
-        { "text": "A hot, low-burning jealousy I don't say out loud.", "weights": { "cain": 3 } },
-        { "text": "I want what's owed to me, and maybe a little payback.", "weights": { "esau": 2, "saul": 1 } }
+        {
+          "text": "It isn't fair that they're off the hook.",
+          "weights": {
+            "jonah": 3
+          }
+        },
+        {
+          "text": "After all I've given, this is what I get?",
+          "weights": {
+            "older-brother": 3
+          }
+        },
+        {
+          "text": "A hot, low-burning jealousy I don't say out loud.",
+          "weights": {
+            "cain": 3
+          }
+        },
+        {
+          "text": "I want what's owed to me, and maybe a little payback.",
+          "weights": {
+            "esau": 2,
+            "saul": 1
+          }
+        }
       ]
     },
     {
       "text": "How does your grudge usually show itself?",
       "options": [
-        { "text": "I'd rather run the other way than face the situation.", "weights": { "jonah": 3 } },
-        { "text": "I keep score and quietly stew about who owes whom.", "weights": { "older-brother": 3 } },
-        { "text": "It festers inside until I can barely look at them.", "weights": { "cain": 3 } },
-        { "text": "I feel threatened by them, like I have to win.", "weights": { "saul": 3 } }
+        {
+          "text": "I'd rather run the other way than face the situation.",
+          "weights": {
+            "jonah": 3
+          }
+        },
+        {
+          "text": "I keep score and quietly stew about who owes whom.",
+          "weights": {
+            "older-brother": 3
+          }
+        },
+        {
+          "text": "It festers inside until I can barely look at them.",
+          "weights": {
+            "cain": 3
+          }
+        },
+        {
+          "text": "I feel threatened by them, like I have to win.",
+          "weights": {
+            "saul": 3
+          }
+        }
       ]
     },
     {
       "text": "What thought sneaks up on you in the quiet moments?",
       "options": [
-        { "text": "Why should they get a second chance?", "weights": { "jonah": 3 } },
-        { "text": "Nobody notices everything I do around here.", "weights": { "older-brother": 3 } },
-        { "text": "Why them and not me?", "weights": { "cain": 3 } },
-        { "text": "One day I'll get back what they took.", "weights": { "esau": 3 } }
+        {
+          "text": "Why should they get a second chance?",
+          "weights": {
+            "jonah": 3
+          }
+        },
+        {
+          "text": "Nobody notices everything I do around here.",
+          "weights": {
+            "older-brother": 3
+          }
+        },
+        {
+          "text": "Why them and not me?",
+          "weights": {
+            "cain": 3
+          }
+        },
+        {
+          "text": "One day I'll get back what they took.",
+          "weights": {
+            "esau": 3
+          }
+        }
       ]
     },
     {
       "text": "When good things happen to the person you resent, you...",
       "options": [
-        { "text": "Feel almost angry that they're being blessed.", "weights": { "jonah": 3 } },
-        { "text": "Compare it to my own life and feel cheated.", "weights": { "older-brother": 2, "cain": 1 } },
-        { "text": "Burn quietly and pull further away.", "weights": { "cain": 3 } },
-        { "text": "Wonder when it'll be my turn to come out on top.", "weights": { "saul": 3 } }
+        {
+          "text": "Feel almost angry that they're being blessed.",
+          "weights": {
+            "jonah": 3
+          }
+        },
+        {
+          "text": "Compare it to my own life and feel cheated.",
+          "weights": {
+            "older-brother": 2,
+            "cain": 1
+          }
+        },
+        {
+          "text": "Burn quietly and pull further away.",
+          "weights": {
+            "cain": 3
+          }
+        },
+        {
+          "text": "Wonder when it'll be my turn to come out on top.",
+          "weights": {
+            "saul": 3
+          }
+        }
       ]
     },
     {
       "text": "Where does the grudge tend to take root?",
       "options": [
-        { "text": "In my sense of right and wrong. They don't deserve grace.", "weights": { "jonah": 3 } },
-        { "text": "In feeling overlooked while someone else gets celebrated.", "weights": { "older-brother": 3 } },
-        { "text": "In comparison that turns into resentment fast.", "weights": { "cain": 3 } },
-        { "text": "In a loss I never agreed to, that still aches.", "weights": { "esau": 3 } }
+        {
+          "text": "In my sense of right and wrong. They don't deserve grace.",
+          "weights": {
+            "jonah": 3
+          }
+        },
+        {
+          "text": "In feeling overlooked while someone else gets celebrated.",
+          "weights": {
+            "older-brother": 3
+          }
+        },
+        {
+          "text": "In comparison that turns into resentment fast.",
+          "weights": {
+            "cain": 3
+          }
+        },
+        {
+          "text": "In a loss I never agreed to, that still aches.",
+          "weights": {
+            "esau": 3
+          }
+        }
       ]
     },
     {
       "text": "Deep down, what would it take for you to let it go?",
       "options": [
-        { "text": "Admitting I'm angry at God for being so merciful.", "weights": { "jonah": 3 } },
-        { "text": "Believing the Father's love for me was never in question.", "weights": { "older-brother": 3 } },
-        { "text": "Letting go of the comparison that's poisoning me.", "weights": { "cain": 3 } },
-        { "text": "Choosing reconciliation over revenge, like at a real reunion.", "weights": { "esau": 3 } }
+        {
+          "text": "Admitting I'm angry at God for being so merciful.",
+          "weights": {
+            "jonah": 3
+          }
+        },
+        {
+          "text": "Believing the Father's love for me was never in question.",
+          "weights": {
+            "older-brother": 3
+          }
+        },
+        {
+          "text": "Letting go of the comparison that's poisoning me.",
+          "weights": {
+            "cain": 3
+          }
+        },
+        {
+          "text": "Choosing reconciliation over revenge, like at a real reunion.",
+          "weights": {
+            "esau": 3
+          }
+        }
       ]
     },
     {
       "text": "If God gently confronted your grudge, you'd most need to hear...",
       "options": [
-        { "text": "My mercy is wide enough for them and for you.", "weights": { "jonah": 3 } },
-        { "text": "Everything I have is already yours.", "weights": { "older-brother": 3 } },
-        { "text": "Sin is crouching at your door, but you can master it.", "weights": { "cain": 3 } },
-        { "text": "Let it go, and watch how I can restore what was broken.", "weights": { "esau": 2, "saul": 1 } }
+        {
+          "text": "My mercy is wide enough for them and for you.",
+          "weights": {
+            "jonah": 3
+          }
+        },
+        {
+          "text": "Everything I have is already yours.",
+          "weights": {
+            "older-brother": 3
+          }
+        },
+        {
+          "text": "Sin is crouching at your door, but you can master it.",
+          "weights": {
+            "cain": 3
+          }
+        },
+        {
+          "text": "Let it go, and watch how I can restore what was broken.",
+          "weights": {
+            "esau": 2,
+            "saul": 1
+          }
+        }
       ]
     }
   ],
@@ -84,37 +247,77 @@
     "jonah": {
       "name": "Jonah (Resentful That Mercy Was Given)",
       "emoji": "🐋",
-      "traits": ["Principled", "Stubborn", "Honest"],
+      "traits": [
+        "Principled",
+        "Stubborn",
+        "Honest"
+      ],
       "description": "Your grudge isn't really about being wronged. It's about watching someone you think deserves judgment receive mercy instead. Jonah felt it so deeply he sat outside Nineveh sulking, angry that God would forgive his enemies. The thing is, God's mercy that bothered you is the same mercy that holds you. The way out is to let His grace be as wide for them as it has been for you.",
-      "scripture": { "text": "I knew that you are a gracious and compassionate God, slow to anger and abounding in love, a God who relents from sending calamity.", "reference": "Jonah 4:2" }
+      "scripture": {
+        "text": "And he prayed unto Jehovah, and said, I pray thee, O Jehovah, was not this my saying, when I was yet in my country? Therefore I hasted to flee unto Tarshish; for I knew that thou art a gracious God, and merciful, slow to anger, and abundant in lovingkindness, and repentest thee of the evil.",
+        "reference": "Jonah 4:2",
+        "translation": "ASV"
+      }
     },
     "older-brother": {
       "name": "The Older Brother (Bitter at the Father's Grace)",
       "emoji": "🏡",
-      "traits": ["Faithful", "Overlooked", "Hurting"],
+      "traits": [
+        "Faithful",
+        "Overlooked",
+        "Hurting"
+      ],
       "description": "You've done the right thing, stayed close, carried your share, and somewhere along the way bitterness crept in when grace got handed to someone who didn't earn it. The older brother stood outside the party feeling exactly that. But the father came out to him too and said everything he had was already his. You were never competing for love. It's been yours the whole time. Come inside and let the celebration include you.",
-      "scripture": { "text": "My son, the father said, you are always with me, and everything I have is yours.", "reference": "Luke 15:31" }
+      "scripture": {
+        "text": "And he said unto him, Son, thou art ever with me, and all that is mine is thine.",
+        "reference": "Luke 15:31",
+        "translation": "ASV"
+      }
     },
     "cain": {
       "name": "Cain (Festering Jealousy)",
       "emoji": "🌾",
-      "traits": ["Wounded", "Comparing", "Guarded"],
+      "traits": [
+        "Wounded",
+        "Comparing",
+        "Guarded"
+      ],
       "description": "Your grudge grew out of comparison. Someone got the favor, the praise, the blessing you wanted, and the jealousy started to fester. Cain let that exact feeling harden until it ruined him. But God didn't abandon him in it. He warned him with love that sin was crouching at the door, and that he could still master it. You can too. Bring the comparison into the light before it gets the last word.",
-      "scripture": { "text": "If you do what is right, will you not be accepted? But if you do not do what is right, sin is crouching at your door; it desires to have you, but you must rule over it.", "reference": "Genesis 4:7" }
+      "scripture": {
+        "text": "If thou doest well, shall it not be lifted up? and if thou doest not well, sin coucheth at the door; and unto thee shall be its desire; but do thou rule over it.",
+        "reference": "Genesis 4:7",
+        "translation": "ASV"
+      }
     },
     "esau": {
       "name": "Esau (Robbed and Out for Revenge)",
       "emoji": "🏹",
-      "traits": ["Cheated", "Fierce", "Reconcilable"],
+      "traits": [
+        "Cheated",
+        "Fierce",
+        "Reconcilable"
+      ],
       "description": "Something that was yours got taken, and the wound left a vow of payback simmering underneath. Esau felt robbed of his blessing and swore revenge on his brother. But years later, when they finally met again, he ran to Jacob and wept and embraced him. The grudge didn't have to win. Yours doesn't either. What feels stolen can still become the place where God writes an unexpected reconciliation.",
-      "scripture": { "text": "But Esau ran to meet Jacob and embraced him; he threw his arms around his neck and kissed him. And they wept.", "reference": "Genesis 33:4" }
+      "scripture": {
+        "text": "And Esau ran to meet him, and embraced him, and fell on his neck, and kissed him: and they wept.",
+        "reference": "Genesis 33:4",
+        "translation": "ASV"
+      }
     },
     "saul": {
       "name": "Saul (Threatened, Hunting the Innocent)",
       "emoji": "👑",
-      "traits": ["Threatened", "Jealous", "Restless"],
+      "traits": [
+        "Threatened",
+        "Jealous",
+        "Restless"
+      ],
       "description": "Your grudge runs on a sense of threat. Someone's gifts or favor made you feel like you had to compete, and resentment turned into something that hunts. Saul felt that toward David and chased him for years, even though David never harmed him. That kind of grudge steals your own peace first. The way back is to stop seeing the other person as a rival and to trust that God can hold your place without you having to defend it.",
-      "scripture": { "text": "Saul has slain his thousands, and David his tens of thousands. Saul was very angry; this refrain displeased him greatly.", "reference": "1 Samuel 18:7-8" }
+      "scripture": {
+        "text": "And the women sang one to another as they played, and said, Saul hath slain his thousands, And David his ten thousands. And Saul was very wroth, and this saying displeased him; and he said, They have ascribed unto David ten thousands, and to me they have ascribed but thousands: and what can he have more but the kingdom?",
+        "reference": "1 Samuel 18:7-8",
+        "translation": "ASV"
+      }
     }
   }
 }

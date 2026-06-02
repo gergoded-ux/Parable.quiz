@@ -17,82 +17,264 @@
     {
       "text": "When you think about God lately, what's your posture?",
       "options": [
-        { "text": "Still reaching for Him, just with a lot of questions.", "weights": { "honest-doubt": 3 } },
-        { "text": "Gripping and grappling, like Jacob refusing to let go.", "weights": { "wrestling-faith": 3 } },
-        { "text": "Pulling away, and my heart's getting harder about it.", "weights": { "hardening-unbelief": 3 } },
-        { "text": "Mostly indifferent. I just don't think about Him much.", "weights": { "apathy-creep": 3 } }
+        {
+          "text": "Still reaching for Him, just with a lot of questions.",
+          "weights": {
+            "honest-doubt": 3
+          }
+        },
+        {
+          "text": "Gripping and grappling, like Jacob refusing to let go.",
+          "weights": {
+            "wrestling-faith": 3
+          }
+        },
+        {
+          "text": "Pulling away, and my heart's getting harder about it.",
+          "weights": {
+            "hardening-unbelief": 3
+          }
+        },
+        {
+          "text": "Mostly indifferent. I just don't think about Him much.",
+          "weights": {
+            "apathy-creep": 3
+          }
+        }
       ]
     },
     {
       "text": "What do your doubts actually want?",
       "options": [
-        { "text": "They want to believe. They're searching for solid ground.", "weights": { "honest-doubt": 3 } },
-        { "text": "They want to fight it out with God until I get an answer.", "weights": { "wrestling-faith": 3 } },
-        { "text": "Honestly, they want a reason to walk away for good.", "weights": { "hardening-unbelief": 3 } },
-        { "text": "They don't want much. I've stopped caring enough to ask.", "weights": { "apathy-creep": 3 } }
+        {
+          "text": "They want to believe. They're searching for solid ground.",
+          "weights": {
+            "honest-doubt": 3
+          }
+        },
+        {
+          "text": "They want to fight it out with God until I get an answer.",
+          "weights": {
+            "wrestling-faith": 3
+          }
+        },
+        {
+          "text": "Honestly, they want a reason to walk away for good.",
+          "weights": {
+            "hardening-unbelief": 3
+          }
+        },
+        {
+          "text": "They don't want much. I've stopped caring enough to ask.",
+          "weights": {
+            "apathy-creep": 3
+          }
+        }
       ]
     },
     {
       "text": "How do you feel after wrestling with a hard question?",
       "options": [
-        { "text": "Unsettled but still hungry to find what's true.", "weights": { "honest-doubt": 3 } },
-        { "text": "Exhausted, but I won't let go until He blesses me.", "weights": { "wrestling-faith": 3 } },
-        { "text": "More closed off, like another brick went up.", "weights": { "hardening-unbelief": 3 } },
-        { "text": "Flat. I shrug and move on to something else.", "weights": { "apathy-creep": 3 } }
+        {
+          "text": "Unsettled but still hungry to find what's true.",
+          "weights": {
+            "honest-doubt": 3
+          }
+        },
+        {
+          "text": "Exhausted, but I won't let go until He blesses me.",
+          "weights": {
+            "wrestling-faith": 3
+          }
+        },
+        {
+          "text": "More closed off, like another brick went up.",
+          "weights": {
+            "hardening-unbelief": 3
+          }
+        },
+        {
+          "text": "Flat. I shrug and move on to something else.",
+          "weights": {
+            "apathy-creep": 3
+          }
+        }
       ]
     },
     {
       "text": "Where are you in your relationship with God?",
       "options": [
-        { "text": "Asking honest questions because I want Him to be real.", "weights": { "honest-doubt": 3 } },
-        { "text": "Rebuilding from the ground up after things fell apart.", "weights": { "faith-under-construction": 3 } },
-        { "text": "Slowly deciding I'm done, and meaning it more each day.", "weights": { "hardening-unbelief": 3 } },
-        { "text": "Drifting so quietly I barely noticed I left.", "weights": { "apathy-creep": 3 } }
+        {
+          "text": "Asking honest questions because I want Him to be real.",
+          "weights": {
+            "honest-doubt": 3
+          }
+        },
+        {
+          "text": "Rebuilding from the ground up after things fell apart.",
+          "weights": {
+            "faith-under-construction": 3
+          }
+        },
+        {
+          "text": "Slowly deciding I'm done, and meaning it more each day.",
+          "weights": {
+            "hardening-unbelief": 3
+          }
+        },
+        {
+          "text": "Drifting so quietly I barely noticed I left.",
+          "weights": {
+            "apathy-creep": 3
+          }
+        }
       ]
     },
     {
       "text": "What's your honest cry right now?",
       "options": [
-        { "text": "I believe. Help me with my unbelief.", "weights": { "honest-doubt": 2, "wrestling-faith": 1 } },
-        { "text": "I won't let You go until You answer me.", "weights": { "wrestling-faith": 3 } },
-        { "text": "I'm not sure I believe any of this anymore.", "weights": { "hardening-unbelief": 3 } },
-        { "text": "I don't really have a cry. I just feel numb to it.", "weights": { "apathy-creep": 3 } }
+        {
+          "text": "I believe. Help me with my unbelief.",
+          "weights": {
+            "honest-doubt": 2,
+            "wrestling-faith": 1
+          }
+        },
+        {
+          "text": "I won't let You go until You answer me.",
+          "weights": {
+            "wrestling-faith": 3
+          }
+        },
+        {
+          "text": "I'm not sure I believe any of this anymore.",
+          "weights": {
+            "hardening-unbelief": 3
+          }
+        },
+        {
+          "text": "I don't really have a cry. I just feel numb to it.",
+          "weights": {
+            "apathy-creep": 3
+          }
+        }
       ]
     },
     {
       "text": "What does your faith feel like it's doing?",
       "options": [
-        { "text": "Bending under hard questions, but not breaking.", "weights": { "honest-doubt": 3 } },
-        { "text": "Being rebuilt, piece by piece, on firmer footing.", "weights": { "faith-under-construction": 3 } },
-        { "text": "Calcifying into a quiet, settled no.", "weights": { "hardening-unbelief": 3 } },
-        { "text": "Quietly fading from neglect more than rejection.", "weights": { "apathy-creep": 3 } }
+        {
+          "text": "Bending under hard questions, but not breaking.",
+          "weights": {
+            "honest-doubt": 3
+          }
+        },
+        {
+          "text": "Being rebuilt, piece by piece, on firmer footing.",
+          "weights": {
+            "faith-under-construction": 3
+          }
+        },
+        {
+          "text": "Calcifying into a quiet, settled no.",
+          "weights": {
+            "hardening-unbelief": 3
+          }
+        },
+        {
+          "text": "Quietly fading from neglect more than rejection.",
+          "weights": {
+            "apathy-creep": 3
+          }
+        }
       ]
     },
     {
       "text": "Which sentence describes you best?",
       "options": [
-        { "text": "\"You doubt because you still desperately want it to be true.\"", "weights": { "honest-doubt": 3 } },
-        { "text": "\"You're in a holy fight, and you refuse to walk away.\"", "weights": { "wrestling-faith": 3 } },
-        { "text": "\"Your heart is hardening, and a part of you knows it.\"", "weights": { "hardening-unbelief": 3 } },
-        { "text": "\"You didn't reject God. You just stopped showing up.\"", "weights": { "apathy-creep": 3 } }
+        {
+          "text": "\"You doubt because you still desperately want it to be true.\"",
+          "weights": {
+            "honest-doubt": 3
+          }
+        },
+        {
+          "text": "\"You're in a holy fight, and you refuse to walk away.\"",
+          "weights": {
+            "wrestling-faith": 3
+          }
+        },
+        {
+          "text": "\"Your heart is hardening, and a part of you knows it.\"",
+          "weights": {
+            "hardening-unbelief": 3
+          }
+        },
+        {
+          "text": "\"You didn't reject God. You just stopped showing up.\"",
+          "weights": {
+            "apathy-creep": 3
+          }
+        }
       ]
     },
     {
       "text": "What scares you most about where you are?",
       "options": [
-        { "text": "That my questions might pull me away from a faith I love.", "weights": { "honest-doubt": 3 } },
-        { "text": "That I'll wrestle forever and never get my answer.", "weights": { "wrestling-faith": 3 } },
-        { "text": "That I'm getting too far gone to ever come back.", "weights": { "hardening-unbelief": 3 } },
-        { "text": "That I don't even feel scared anymore, and that's the scary part.", "weights": { "apathy-creep": 3 } }
+        {
+          "text": "That my questions might pull me away from a faith I love.",
+          "weights": {
+            "honest-doubt": 3
+          }
+        },
+        {
+          "text": "That I'll wrestle forever and never get my answer.",
+          "weights": {
+            "wrestling-faith": 3
+          }
+        },
+        {
+          "text": "That I'm getting too far gone to ever come back.",
+          "weights": {
+            "hardening-unbelief": 3
+          }
+        },
+        {
+          "text": "That I don't even feel scared anymore, and that's the scary part.",
+          "weights": {
+            "apathy-creep": 3
+          }
+        }
       ]
     },
     {
       "text": "Deep down, what do you most want?",
       "options": [
-        { "text": "To find solid ground for the faith I haven't let go of.", "weights": { "honest-doubt": 3 } },
-        { "text": "To come out of this fight with a real encounter with God.", "weights": { "wrestling-faith": 2, "faith-under-construction": 1 } },
-        { "text": "To soften again, even though I keep hardening.", "weights": { "hardening-unbelief": 3 } },
-        { "text": "To care again, to feel something for Him like I used to.", "weights": { "apathy-creep": 3 } }
+        {
+          "text": "To find solid ground for the faith I haven't let go of.",
+          "weights": {
+            "honest-doubt": 3
+          }
+        },
+        {
+          "text": "To come out of this fight with a real encounter with God.",
+          "weights": {
+            "wrestling-faith": 2,
+            "faith-under-construction": 1
+          }
+        },
+        {
+          "text": "To soften again, even though I keep hardening.",
+          "weights": {
+            "hardening-unbelief": 3
+          }
+        },
+        {
+          "text": "To care again, to feel something for Him like I used to.",
+          "weights": {
+            "apathy-creep": 3
+          }
+        }
       ]
     }
   ],
@@ -100,27 +282,47 @@
     "honest-doubt": {
       "name": "Honest Doubt (faith seeking)",
       "description": "What you're carrying is not unbelief. It's faith asking honest questions, and that's a very different thing. You doubt precisely because you still want it to be true, and that hunger is itself a kind of belief. The father in the gospel cried out the most honest prayer there is, and Jesus didn't reject him. Bring your doubts straight to God instead of running from Him with them. Honest seekers don't lose their faith. They find a deeper one, and you're closer to it than you feel.",
-      "scripture": { "text": "I do believe; help me overcome my unbelief!", "reference": "Mark 9:24" }
+      "scripture": {
+        "text": "Straightway the father of the child cried out, and said, I believe; help thou mine unbelief.",
+        "reference": "Mark 9:24",
+        "translation": "ASV"
+      }
     },
     "wrestling-faith": {
       "name": "Wrestling Faith",
       "description": "You're in a holy struggle, gripping God and refusing to let go until you get something real from Him. That's not faithlessness. That's Jacob by the river, wrestling all night and walking away limping but blessed. God is not offended by your fight. He honors it. The very fact that you won't quit shows how much you still believe He's worth wrestling with. Stay in it. People who wrestle with God like this tend to walk away with a new name and a real encounter.",
-      "scripture": { "text": "I will not let you go unless you bless me.", "reference": "Genesis 32:26" }
+      "scripture": {
+        "text": "And he said, Let me go, for the day breaketh. And he said, I will not let thee go, except thou bless me.",
+        "reference": "Genesis 32:26",
+        "translation": "ASV"
+      }
     },
     "hardening-unbelief": {
       "name": "Hardening Unbelief",
       "description": "If you're honest, this is further than doubt. Your heart is slowly hardening, and a quiet part of you can feel it happening. This isn't said to scare you. It's said because you can still feel it, and that means it isn't too late. A hardening heart is not a heart of stone yet. God has promised to give a new heart to anyone who turns back, even from far down this road. You're still able to soften. Tell Him the truth about where you are, and ask Him to do what you can't do on your own.",
-      "scripture": { "text": "I will give you a new heart and put a new spirit in you.", "reference": "Ezekiel 36:26" }
+      "scripture": {
+        "text": "A new heart also will I give you, and a new spirit will I put within you; and I will take away the stony heart out of your flesh, and I will give you a heart of flesh.",
+        "reference": "Ezekiel 36:26",
+        "translation": "ASV"
+      }
     },
     "apathy-creep": {
       "name": "Apathy Creep",
       "description": "You didn't decide to walk away from God. You just slowly stopped showing up, and the drift was so quiet you barely noticed it happening. Apathy is sneakier than doubt. It doesn't argue. It just lets the fire die down to embers. But the fact that you're here, taking this, means the embers aren't out. God knows exactly how to fan a fading flame back to life. Take one small step back toward Him today. You don't have to feel it first. The feeling often follows the turning.",
-      "scripture": { "text": "Remember the height from which you have fallen! Repent and do the things you did at first.", "reference": "Revelation 2:5" }
+      "scripture": {
+        "text": "Remember therefore whence thou art fallen, and repent and do the first works; or else I come to thee, and will move thy candlestick out of its place, except thou repent.",
+        "reference": "Revelation 2:5",
+        "translation": "ASV"
+      }
     },
     "faith-under-construction": {
       "name": "Faith Under Construction",
       "description": "Something in your old faith came down, and now you're rebuilding, piece by careful piece, on ground you trust more. This isn't loss. It's renovation. The shaky parts had to go so something sturdier could take their place. Don't rush it, and don't panic at the scaffolding and the mess. God is a patient builder, and a faith reconstructed on honest foundations tends to stand far longer than the one that fell. Keep building with Him. What's coming is more solid than what you had before.",
-      "scripture": { "text": "Unless the Lord builds the house, the builders labor in vain.", "reference": "Psalm 127:1" }
+      "scripture": {
+        "text": "Except Jehovah build the house, They labor in vain that build it: Except Jehovah keep the city, The watchman waketh but in vain.",
+        "reference": "Psalm 127:1",
+        "translation": "ASV"
+      }
     }
   }
 }

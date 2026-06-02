@@ -17,82 +17,264 @@
     {
       "text": "When a close relationship gets shaky, what's your first fear?",
       "options": [
-        { "text": "\"They're going to leave me.\"", "weights": { "abandonment-wound": 3 } },
-        { "text": "\"They don't really want me here.\"", "weights": { "rejection-wound": 3 } },
-        { "text": "\"They're going to turn on me when it counts.\"", "weights": { "betrayal-wound": 3 } },
-        { "text": "\"I'm not enough to make them stay.\"", "weights": { "not-enough-wound": 3 } }
+        {
+          "text": "\"They're going to leave me.\"",
+          "weights": {
+            "abandonment-wound": 3
+          }
+        },
+        {
+          "text": "\"They don't really want me here.\"",
+          "weights": {
+            "rejection-wound": 3
+          }
+        },
+        {
+          "text": "\"They're going to turn on me when it counts.\"",
+          "weights": {
+            "betrayal-wound": 3
+          }
+        },
+        {
+          "text": "\"I'm not enough to make them stay.\"",
+          "weights": {
+            "not-enough-wound": 3
+          }
+        }
       ]
     },
     {
       "text": "Which reaction tends to hijack you when you're triggered?",
       "options": [
-        { "text": "Panic that I'm about to be left.", "weights": { "abandonment-wound": 3 } },
-        { "text": "Withdrawing before they can push me away first.", "weights": { "rejection-wound": 3 } },
-        { "text": "A wall slamming up so no one can hurt me again.", "weights": { "betrayal-wound": 3 } },
-        { "text": "A burning sense that this isn't fair.", "weights": { "injustice-wound": 3 } }
+        {
+          "text": "Panic that I'm about to be left.",
+          "weights": {
+            "abandonment-wound": 3
+          }
+        },
+        {
+          "text": "Withdrawing before they can push me away first.",
+          "weights": {
+            "rejection-wound": 3
+          }
+        },
+        {
+          "text": "A wall slamming up so no one can hurt me again.",
+          "weights": {
+            "betrayal-wound": 3
+          }
+        },
+        {
+          "text": "A burning sense that this isn't fair.",
+          "weights": {
+            "injustice-wound": 3
+          }
+        }
       ]
     },
     {
       "text": "Where do you sense this wound came from?",
       "options": [
-        { "text": "Someone important left, physically or emotionally.", "weights": { "abandonment-wound": 3 } },
-        { "text": "Being the one not picked, not included, not wanted.", "weights": { "rejection-wound": 3 } },
-        { "text": "Someone I trusted completely broke that trust.", "weights": { "betrayal-wound": 3 } },
-        { "text": "Being treated unfairly while no one made it right.", "weights": { "injustice-wound": 3 } }
+        {
+          "text": "Someone important left, physically or emotionally.",
+          "weights": {
+            "abandonment-wound": 3
+          }
+        },
+        {
+          "text": "Being the one not picked, not included, not wanted.",
+          "weights": {
+            "rejection-wound": 3
+          }
+        },
+        {
+          "text": "Someone I trusted completely broke that trust.",
+          "weights": {
+            "betrayal-wound": 3
+          }
+        },
+        {
+          "text": "Being treated unfairly while no one made it right.",
+          "weights": {
+            "injustice-wound": 3
+          }
+        }
       ]
     },
     {
       "text": "The thought that quietly runs under a lot of your decisions is...",
       "options": [
-        { "text": "\"Don't get too attached. People go.\"", "weights": { "abandonment-wound": 3 } },
-        { "text": "\"Don't risk it. They'll just say no.\"", "weights": { "rejection-wound": 3 } },
-        { "text": "\"Don't trust too fast. You know how that ends.\"", "weights": { "betrayal-wound": 3 } },
-        { "text": "\"Do more. You're not enough as you are.\"", "weights": { "not-enough-wound": 3 } }
+        {
+          "text": "\"Don't get too attached. People go.\"",
+          "weights": {
+            "abandonment-wound": 3
+          }
+        },
+        {
+          "text": "\"Don't risk it. They'll just say no.\"",
+          "weights": {
+            "rejection-wound": 3
+          }
+        },
+        {
+          "text": "\"Don't trust too fast. You know how that ends.\"",
+          "weights": {
+            "betrayal-wound": 3
+          }
+        },
+        {
+          "text": "\"Do more. You're not enough as you are.\"",
+          "weights": {
+            "not-enough-wound": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you secretly long to hear from someone?",
       "options": [
-        { "text": "\"I'm not going anywhere.\"", "weights": { "abandonment-wound": 3 } },
-        { "text": "\"I choose you. I want you here.\"", "weights": { "rejection-wound": 3 } },
-        { "text": "\"You can trust me. I've got you.\"", "weights": { "betrayal-wound": 3 } },
-        { "text": "\"You are enough, exactly as you are.\"", "weights": { "not-enough-wound": 3 } }
+        {
+          "text": "\"I'm not going anywhere.\"",
+          "weights": {
+            "abandonment-wound": 3
+          }
+        },
+        {
+          "text": "\"I choose you. I want you here.\"",
+          "weights": {
+            "rejection-wound": 3
+          }
+        },
+        {
+          "text": "\"You can trust me. I've got you.\"",
+          "weights": {
+            "betrayal-wound": 3
+          }
+        },
+        {
+          "text": "\"You are enough, exactly as you are.\"",
+          "weights": {
+            "not-enough-wound": 3
+          }
+        }
       ]
     },
     {
       "text": "Which situation stings far more than it logically should?",
       "options": [
-        { "text": "Someone canceling, going quiet, or pulling back.", "weights": { "abandonment-wound": 3 } },
-        { "text": "Being left off the list or out of the group.", "weights": { "rejection-wound": 3 } },
-        { "text": "Finding out something happened behind my back.", "weights": { "betrayal-wound": 3 } },
-        { "text": "Watching someone get away with doing me wrong.", "weights": { "injustice-wound": 3 } }
+        {
+          "text": "Someone canceling, going quiet, or pulling back.",
+          "weights": {
+            "abandonment-wound": 3
+          }
+        },
+        {
+          "text": "Being left off the list or out of the group.",
+          "weights": {
+            "rejection-wound": 3
+          }
+        },
+        {
+          "text": "Finding out something happened behind my back.",
+          "weights": {
+            "betrayal-wound": 3
+          }
+        },
+        {
+          "text": "Watching someone get away with doing me wrong.",
+          "weights": {
+            "injustice-wound": 3
+          }
+        }
       ]
     },
     {
       "text": "How does the wound shape the way you love people?",
       "options": [
-        { "text": "I cling, or I leave first to beat the pain.", "weights": { "abandonment-wound": 3 } },
-        { "text": "I keep a part of myself hidden so it's safe.", "weights": { "rejection-wound": 2, "not-enough-wound": 1 } },
-        { "text": "I test people to see if they'll really stay loyal.", "weights": { "betrayal-wound": 3 } },
-        { "text": "I overgive, trying to finally be worth keeping.", "weights": { "not-enough-wound": 3 } }
+        {
+          "text": "I cling, or I leave first to beat the pain.",
+          "weights": {
+            "abandonment-wound": 3
+          }
+        },
+        {
+          "text": "I keep a part of myself hidden so it's safe.",
+          "weights": {
+            "rejection-wound": 2,
+            "not-enough-wound": 1
+          }
+        },
+        {
+          "text": "I test people to see if they'll really stay loyal.",
+          "weights": {
+            "betrayal-wound": 3
+          }
+        },
+        {
+          "text": "I overgive, trying to finally be worth keeping.",
+          "weights": {
+            "not-enough-wound": 3
+          }
+        }
       ]
     },
     {
       "text": "When you bring this ache to God, what's the honest struggle?",
       "options": [
-        { "text": "Fearing even He might walk away from me.", "weights": { "abandonment-wound": 3 } },
-        { "text": "Wondering if He really wants me, or just tolerates me.", "weights": { "rejection-wound": 3 } },
-        { "text": "Finding it hard to fully trust Him after being burned.", "weights": { "betrayal-wound": 3 } },
-        { "text": "Believing He's still keeping score of what I lack.", "weights": { "not-enough-wound": 3 } }
+        {
+          "text": "Fearing even He might walk away from me.",
+          "weights": {
+            "abandonment-wound": 3
+          }
+        },
+        {
+          "text": "Wondering if He really wants me, or just tolerates me.",
+          "weights": {
+            "rejection-wound": 3
+          }
+        },
+        {
+          "text": "Finding it hard to fully trust Him after being burned.",
+          "weights": {
+            "betrayal-wound": 3
+          }
+        },
+        {
+          "text": "Believing He's still keeping score of what I lack.",
+          "weights": {
+            "not-enough-wound": 3
+          }
+        }
       ]
     },
     {
       "text": "What would healing make possible for you?",
       "options": [
-        { "text": "Loving people without bracing for them to vanish.", "weights": { "abandonment-wound": 3 } },
-        { "text": "Showing up fully without fear of being turned away.", "weights": { "rejection-wound": 3 } },
-        { "text": "Trusting again without testing every person first.", "weights": { "betrayal-wound": 3 } },
-        { "text": "Resting in being enough, and trusting God to make wrongs right.", "weights": { "not-enough-wound": 2, "injustice-wound": 1 } }
+        {
+          "text": "Loving people without bracing for them to vanish.",
+          "weights": {
+            "abandonment-wound": 3
+          }
+        },
+        {
+          "text": "Showing up fully without fear of being turned away.",
+          "weights": {
+            "rejection-wound": 3
+          }
+        },
+        {
+          "text": "Trusting again without testing every person first.",
+          "weights": {
+            "betrayal-wound": 3
+          }
+        },
+        {
+          "text": "Resting in being enough, and trusting God to make wrongs right.",
+          "weights": {
+            "not-enough-wound": 2,
+            "injustice-wound": 1
+          }
+        }
       ]
     }
   ],
@@ -100,27 +282,47 @@
     "abandonment-wound": {
       "name": "The Abandonment Wound",
       "description": "Someone who mattered left, and a part of you has been bracing for it to happen again ever since. So you cling, or you walk away first to soften the blow. But there's One who has promised, with everything He is, that He will never leave. You can let that sink in slowly. He stays.",
-      "scripture": { "text": "Never will I leave you; never will I forsake you.", "reference": "Hebrews 13:5" }
+      "scripture": {
+        "text": "Be ye free from the love of money; content with such things as ye have: for himself hath said, I will in no wise fail thee, neither will I in any wise forsake thee.",
+        "reference": "Hebrews 13:5",
+        "translation": "ASV"
+      }
     },
     "rejection-wound": {
       "name": "The Rejection Wound",
       "description": "You've been the one not picked, not included, left on the outside, and you learned to hide a part of yourself so it couldn't be turned away again. Here's the truth that heals it: before you did anything to earn it, God chose you on purpose. You're not tolerated. You're wanted.",
-      "scripture": { "text": "He chose us in him before the creation of the world.", "reference": "Ephesians 1:4" }
+      "scripture": {
+        "text": "even as he chose us in him before the foundation of the world, that we should be holy and without blemish before him in love:",
+        "reference": "Ephesians 1:4",
+        "translation": "ASV"
+      }
     },
     "betrayal-wound": {
       "name": "The Betrayal Wound",
       "description": "Someone you trusted completely broke that trust, and now a wall goes up fast to keep it from happening again. That instinct makes sense. Just don't let it lock God out too. He is the one friend who will never turn on you, and He can be trusted to slowly teach your heart that it's safe to open again.",
-      "scripture": { "text": "The Lord is faithful, and he will strengthen you and protect you from the evil one.", "reference": "2 Thessalonians 3:3" }
+      "scripture": {
+        "text": "But the Lord is faithful, who shall establish you, and guard you from the evil one.",
+        "reference": "2 Thessalonians 3:3",
+        "translation": "ASV"
+      }
     },
     "not-enough-wound": {
       "name": "The Not-Enough Wound",
       "description": "You carry a quiet sense that you have to do more to be worth keeping, so you overgive and never quite feel like it counts. But your worth was settled long before your performance. God doesn't measure you and find you short. He calls you His own, fully and gladly, exactly as you are.",
-      "scripture": { "text": "See what great love the Father has lavished on us, that we should be called children of God.", "reference": "1 John 3:1" }
+      "scripture": {
+        "text": "Behold what manner of love the Father hath bestowed upon us, that we should be called children of God; and such we are. For this cause the world knoweth us not, because it knew him not.",
+        "reference": "1 John 3:1",
+        "translation": "ASV"
+      }
     },
     "injustice-wound": {
       "name": "The Injustice Wound",
       "description": "You were wronged, and no one made it right, so a fire goes off in you whenever something feels unfair. That ache for justice isn't bad. It's a reflection of God's own heart. You can hand Him the case you've been carrying. He sees every wrong, He keeps perfect record, and He will set it right.",
-      "scripture": { "text": "Do not take revenge, my friends, but leave room for God's wrath, for it is written: \"It is mine to avenge; I will repay,\" says the Lord.", "reference": "Romans 12:19" }
+      "scripture": {
+        "text": "Avenge not yourselves, beloved, but give place unto the wrath of God: for it is written, Vengeance belongeth unto me; I will recompense, saith the Lord.",
+        "reference": "Romans 12:19",
+        "translation": "ASV"
+      }
     }
   }
 }

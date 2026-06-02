@@ -10,73 +10,235 @@
     {
       "text": "There's a major decision in front of you. What's your honest first reaction?",
       "options": [
-        { "text": "I'm ready to leave the familiar and step into the unknown.", "weights": { "ruth": 3 } },
-        { "text": "I sense this moment matters, even though it scares me.", "weights": { "esther": 3 } },
-        { "text": "I want to obey, but I need God to confirm it first.", "weights": { "gideon": 3 } },
-        { "text": "I'd rather run the other way, if I'm being real.", "weights": { "jonah": 3 } }
+        {
+          "text": "I'm ready to leave the familiar and step into the unknown.",
+          "weights": {
+            "ruth": 3
+          }
+        },
+        {
+          "text": "I sense this moment matters, even though it scares me.",
+          "weights": {
+            "esther": 3
+          }
+        },
+        {
+          "text": "I want to obey, but I need God to confirm it first.",
+          "weights": {
+            "gideon": 3
+          }
+        },
+        {
+          "text": "I'd rather run the other way, if I'm being real.",
+          "weights": {
+            "jonah": 3
+          }
+        }
       ]
     },
     {
       "text": "What's the hardest part of deciding for you?",
       "options": [
-        { "text": "Letting go of the life and people I'd leave behind.", "weights": { "ruth": 3 } },
-        { "text": "The risk. Doing the right thing could cost me everything.", "weights": { "esther": 3 } },
-        { "text": "Not being sure it's really God and not just me.", "weights": { "gideon": 3 } },
-        { "text": "Saying yes to something hard or uncomfortable.", "weights": { "jonah": 2, "mary": 1 } }
+        {
+          "text": "Letting go of the life and people I'd leave behind.",
+          "weights": {
+            "ruth": 3
+          }
+        },
+        {
+          "text": "The risk. Doing the right thing could cost me everything.",
+          "weights": {
+            "esther": 3
+          }
+        },
+        {
+          "text": "Not being sure it's really God and not just me.",
+          "weights": {
+            "gideon": 3
+          }
+        },
+        {
+          "text": "Saying yes to something hard or uncomfortable.",
+          "weights": {
+            "jonah": 2,
+            "mary": 1
+          }
+        }
       ]
     },
     {
       "text": "When you sense God might be asking something of you, you tend to...",
       "options": [
-        { "text": "Commit fully, even at great personal cost.", "weights": { "ruth": 3 } },
-        { "text": "Wonder if this is exactly why I'm here right now.", "weights": { "esther": 3 } },
-        { "text": "Ask for a clear sign before I move.", "weights": { "gideon": 3 } },
-        { "text": "Surrender and say yes, even when I don't understand.", "weights": { "mary": 3 } }
+        {
+          "text": "Commit fully, even at great personal cost.",
+          "weights": {
+            "ruth": 3
+          }
+        },
+        {
+          "text": "Wonder if this is exactly why I'm here right now.",
+          "weights": {
+            "esther": 3
+          }
+        },
+        {
+          "text": "Ask for a clear sign before I move.",
+          "weights": {
+            "gideon": 3
+          }
+        },
+        {
+          "text": "Surrender and say yes, even when I don't understand.",
+          "weights": {
+            "mary": 3
+          }
+        }
       ]
     },
     {
       "text": "Which fear is loudest when you face the choice?",
       "options": [
-        { "text": "Walking away from everything I've ever known.", "weights": { "ruth": 3 } },
-        { "text": "Speaking up at the worst possible moment.", "weights": { "esther": 3 } },
-        { "text": "Stepping out and finding I misheard God.", "weights": { "gideon": 3 } },
-        { "text": "That obeying will hurt, so I'd rather avoid it.", "weights": { "jonah": 3 } }
+        {
+          "text": "Walking away from everything I've ever known.",
+          "weights": {
+            "ruth": 3
+          }
+        },
+        {
+          "text": "Speaking up at the worst possible moment.",
+          "weights": {
+            "esther": 3
+          }
+        },
+        {
+          "text": "Stepping out and finding I misheard God.",
+          "weights": {
+            "gideon": 3
+          }
+        },
+        {
+          "text": "That obeying will hurt, so I'd rather avoid it.",
+          "weights": {
+            "jonah": 3
+          }
+        }
       ]
     },
     {
       "text": "How do you usually move forward once you've decided?",
       "options": [
-        { "text": "All in, with fierce loyalty and no looking back.", "weights": { "ruth": 3 } },
-        { "text": "With courage, accepting whatever it costs.", "weights": { "esther": 3 } },
-        { "text": "Carefully, only after I feel sure of God's leading.", "weights": { "gideon": 3 } },
-        { "text": "Humbly, trusting God even when the plan is bigger than me.", "weights": { "mary": 3 } }
+        {
+          "text": "All in, with fierce loyalty and no looking back.",
+          "weights": {
+            "ruth": 3
+          }
+        },
+        {
+          "text": "With courage, accepting whatever it costs.",
+          "weights": {
+            "esther": 3
+          }
+        },
+        {
+          "text": "Carefully, only after I feel sure of God's leading.",
+          "weights": {
+            "gideon": 3
+          }
+        },
+        {
+          "text": "Humbly, trusting God even when the plan is bigger than me.",
+          "weights": {
+            "mary": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you most need from God in a crossroads season?",
       "options": [
-        { "text": "Courage to leave and start something new.", "weights": { "ruth": 3 } },
-        { "text": "Boldness to act when it really counts.", "weights": { "esther": 3 } },
-        { "text": "Reassurance that I'm hearing Him right.", "weights": { "gideon": 3 } },
-        { "text": "A willing heart to say yes to the hard thing.", "weights": { "mary": 2, "jonah": 1 } }
+        {
+          "text": "Courage to leave and start something new.",
+          "weights": {
+            "ruth": 3
+          }
+        },
+        {
+          "text": "Boldness to act when it really counts.",
+          "weights": {
+            "esther": 3
+          }
+        },
+        {
+          "text": "Reassurance that I'm hearing Him right.",
+          "weights": {
+            "gideon": 3
+          }
+        },
+        {
+          "text": "A willing heart to say yes to the hard thing.",
+          "weights": {
+            "mary": 2,
+            "jonah": 1
+          }
+        }
       ]
     },
     {
       "text": "Be honest. Have you ever tried to dodge what you knew you should do?",
       "options": [
-        { "text": "Not really. When I know, I leap.", "weights": { "ruth": 3 } },
-        { "text": "I've hesitated, then found the nerve to step up.", "weights": { "esther": 3 } },
-        { "text": "I stall by asking for more confirmation.", "weights": { "gideon": 3 } },
-        { "text": "Yes. I've run from a call before.", "weights": { "jonah": 3 } }
+        {
+          "text": "Not really. When I know, I leap.",
+          "weights": {
+            "ruth": 3
+          }
+        },
+        {
+          "text": "I've hesitated, then found the nerve to step up.",
+          "weights": {
+            "esther": 3
+          }
+        },
+        {
+          "text": "I stall by asking for more confirmation.",
+          "weights": {
+            "gideon": 3
+          }
+        },
+        {
+          "text": "Yes. I've run from a call before.",
+          "weights": {
+            "jonah": 3
+          }
+        }
       ]
     },
     {
       "text": "Which sentence sounds most like you at a turning point?",
       "options": [
-        { "text": "\"Where you go, I'll go. I'm not turning back.\"", "weights": { "ruth": 3 } },
-        { "text": "\"Maybe I was made for a moment exactly like this.\"", "weights": { "esther": 3 } },
-        { "text": "\"God, just show me clearly and I'll do it.\"", "weights": { "gideon": 3 } },
-        { "text": "\"Here I am. Let it be done as You've said.\"", "weights": { "mary": 3 } }
+        {
+          "text": "\"Where you go, I'll go. I'm not turning back.\"",
+          "weights": {
+            "ruth": 3
+          }
+        },
+        {
+          "text": "\"Maybe I was made for a moment exactly like this.\"",
+          "weights": {
+            "esther": 3
+          }
+        },
+        {
+          "text": "\"God, just show me clearly and I'll do it.\"",
+          "weights": {
+            "gideon": 3
+          }
+        },
+        {
+          "text": "\"Here I am. Let it be done as You've said.\"",
+          "weights": {
+            "mary": 3
+          }
+        }
       ]
     }
   ],
@@ -84,37 +246,77 @@
     "ruth": {
       "name": "Ruth Choosing a New Path",
       "emoji": "🌾",
-      "traits": ["Loyal", "Brave", "All-In"],
+      "traits": [
+        "Loyal",
+        "Brave",
+        "All-In"
+      ],
       "description": "When you decide, you commit, and you don't look back. Like Ruth, you're willing to leave the familiar behind and walk into an unknown future on the strength of love and faith. That kind of loyalty is rare and costly, and God honors it. Ruth left everything and ended up woven into the very line of Jesus. Your bold yes may feel like loss right now, but God is the kind of redeemer who turns a faithful leap into a story far bigger than you could have planned. Keep going.",
-      "scripture": { "text": "Where you go I will go, and where you stay I will stay. Your people will be my people and your God my God.", "reference": "Ruth 1:16" }
+      "scripture": {
+        "text": "And Ruth said, Entreat me not to leave thee, and to return from following after thee, for whither thou goest, I will go; and where thou lodgest, I will lodge; thy people shall be my people, and thy God my God;",
+        "reference": "Ruth 1:16",
+        "translation": "ASV"
+      }
     },
     "esther": {
       "name": "Esther For Such a Time",
       "emoji": "👑",
-      "traits": ["Courageous", "Aware", "Sacrificial"],
+      "traits": [
+        "Courageous",
+        "Aware",
+        "Sacrificial"
+      ],
       "description": "You sense that some moments matter more than others, and that maybe you've been placed right where you are for a reason. Like Esther, you feel the weight of doing the right thing when it carries real risk. That awareness is a gift, but courage is the part that counts. Esther fasted, gathered her nerve, and walked into the throne room ready to lose everything, and God used her to save a nation. When your moment comes, you won't have to be fearless, just faithful. Step into it.",
-      "scripture": { "text": "And who knows but that you have come to your royal position for such a time as this?", "reference": "Esther 4:14" }
+      "scripture": {
+        "text": "For if thou altogether holdest thy peace at this time, then will relief and deliverance arise to the Jews from another place, but thou and thy father’s house will perish: and who knoweth whether thou art not come to the kingdom for such a time as this?",
+        "reference": "Esther 4:14",
+        "translation": "ASV"
+      }
     },
     "gideon": {
       "name": "Gideon Asking for a Sign",
       "emoji": "🐑",
-      "traits": ["Cautious", "Sincere", "Seeking"],
+      "traits": [
+        "Cautious",
+        "Sincere",
+        "Seeking"
+      ],
       "description": "You want to obey God, but you ache to be sure it's really Him and not just your own idea, so you ask for confirmation before you move. Like Gideon and his fleece, you'd rather double-check than charge ahead and get it wrong. There's humility in that, and the good news is God was patient with Gideon's questions. He met them gently. He can handle yours too. Keep seeking clarity, but don't let the asking become a way to stall forever. Once He confirms it, be the brave warrior He already sees in you.",
-      "scripture": { "text": "The Lord turned to him and said, Go in the strength you have and save Israel. Am I not sending you?", "reference": "Judges 6:14" }
+      "scripture": {
+        "text": "And Jehovah looked upon him, and said, Go in this thy might, and save Israel from the hand of Midian: have not I sent thee?",
+        "reference": "Judges 6:14",
+        "translation": "ASV"
+      }
     },
     "mary": {
       "name": "Mary Saying Yes",
       "emoji": "🕊️",
-      "traits": ["Surrendered", "Humble", "Trusting"],
+      "traits": [
+        "Surrendered",
+        "Humble",
+        "Trusting"
+      ],
       "description": "When God asks, your instinct is to say yes, even when the plan is far bigger than you and makes no sense yet. Like Mary, you're willing to surrender your own ideas and trust Him with the cost. That kind of humble obedience is beautiful, and it changes history. Mary couldn't see how it would all work, but she trusted the One who asked, and God did the impossible through her open heart. Keep your yes ready. The Lord delights in a heart that says, let it be as You've said, before all the answers come in.",
-      "scripture": { "text": "I am the Lord's servant. May your word to me be fulfilled.", "reference": "Luke 1:38" }
+      "scripture": {
+        "text": "And Mary said, Behold, the handmaid of the Lord; be it unto me according to thy word. And the angel departed from her.",
+        "reference": "Luke 1:38",
+        "translation": "ASV"
+      }
     },
     "jonah": {
       "name": "Jonah Refusing the Call",
       "emoji": "🐋",
-      "traits": ["Reluctant", "Honest", "Running"],
+      "traits": [
+        "Reluctant",
+        "Honest",
+        "Running"
+      ],
       "description": "If you're honest, your instinct at a hard call is to run the other way. Like Jonah, you've felt God ask for something uncomfortable and looked for the nearest exit. Don't be too hard on yourself, because here's the tender part of Jonah's story: God didn't give up on him. He pursued him through the storm and gave him a second chance. Whatever you're avoiding, God is still inviting, not condemning. You can stop running. His call comes with His help, and the thing you're dreading may be exactly where you find Him.",
-      "scripture": { "text": "Then the word of the Lord came to Jonah a second time.", "reference": "Jonah 3:1" }
+      "scripture": {
+        "text": "And the word of Jehovah came unto Jonah the second time, saying,",
+        "reference": "Jonah 3:1",
+        "translation": "ASV"
+      }
     }
   }
 }

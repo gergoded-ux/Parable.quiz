@@ -16,82 +16,263 @@
     {
       "text": "When you think about the thing you did, what happens inside?",
       "options": [
-        { "text": "I feel like I still owe a debt I keep trying to pay off.", "weights": { "guilt-you-keep-re-paying": 3 } },
-        { "text": "I want to hide, like the real me would horrify people.", "weights": { "shame-you-hide": 3 } },
-        { "text": "I think, surely this one is too far gone for grace.", "weights": { "sin-too-big": 3 } },
-        { "text": "I know I'm forgiven on paper, but I just don't feel it.", "weights": { "not-feeling-forgiven": 3 } }
+        {
+          "text": "I feel like I still owe a debt I keep trying to pay off.",
+          "weights": {
+            "guilt-you-keep-re-paying": 3
+          }
+        },
+        {
+          "text": "I want to hide, like the real me would horrify people.",
+          "weights": {
+            "shame-you-hide": 3
+          }
+        },
+        {
+          "text": "I think, surely this one is too far gone for grace.",
+          "weights": {
+            "sin-too-big": 3
+          }
+        },
+        {
+          "text": "I know I'm forgiven on paper, but I just don't feel it.",
+          "weights": {
+            "not-feeling-forgiven": 3
+          }
+        }
       ]
     },
     {
       "text": "Which thought loops in your head most often?",
       "options": [
-        { "text": "\"I have to make up for what I did.\"", "weights": { "guilt-you-keep-re-paying": 3 } },
-        { "text": "\"If they knew the truth about me, they'd be gone.\"", "weights": { "shame-you-hide": 3 } },
-        { "text": "\"God forgives a lot, but not this.\"", "weights": { "sin-too-big": 3 } },
-        { "text": "\"Why doesn't forgiveness ever feel real to me?\"", "weights": { "not-feeling-forgiven": 3 } }
+        {
+          "text": "\"I have to make up for what I did.\"",
+          "weights": {
+            "guilt-you-keep-re-paying": 3
+          }
+        },
+        {
+          "text": "\"If they knew the truth about me, they'd be gone.\"",
+          "weights": {
+            "shame-you-hide": 3
+          }
+        },
+        {
+          "text": "\"God forgives a lot, but not this.\"",
+          "weights": {
+            "sin-too-big": 3
+          }
+        },
+        {
+          "text": "\"Why doesn't forgiveness ever feel real to me?\"",
+          "weights": {
+            "not-feeling-forgiven": 3
+          }
+        }
       ]
     },
     {
       "text": "How do you usually try to deal with the guilt?",
       "options": [
-        { "text": "I try to earn my way back by being extra good.", "weights": { "guilt-you-keep-re-paying": 3 } },
-        { "text": "I bury it and hope no one ever finds out.", "weights": { "shame-you-hide": 3 } },
-        { "text": "I just assume some things can't be undone.", "weights": { "sin-too-big": 3 } },
-        { "text": "I keep confessing the same thing over and over.", "weights": { "not-feeling-forgiven": 3 } }
+        {
+          "text": "I try to earn my way back by being extra good.",
+          "weights": {
+            "guilt-you-keep-re-paying": 3
+          }
+        },
+        {
+          "text": "I bury it and hope no one ever finds out.",
+          "weights": {
+            "shame-you-hide": 3
+          }
+        },
+        {
+          "text": "I just assume some things can't be undone.",
+          "weights": {
+            "sin-too-big": 3
+          }
+        },
+        {
+          "text": "I keep confessing the same thing over and over.",
+          "weights": {
+            "not-feeling-forgiven": 3
+          }
+        }
       ]
     },
     {
       "text": "What's the difference you feel between guilt and shame?",
       "options": [
-        { "text": "Guilt says I did something bad and must repay it.", "weights": { "guilt-you-keep-re-paying": 3 } },
-        { "text": "Shame says I am bad, all the way down.", "weights": { "shame-you-hide": 3 } },
-        { "text": "Both, plus the sense that mine is beyond fixing.", "weights": { "sin-too-big": 2, "shame-you-hide": 1 } },
-        { "text": "I can't tell anymore. It all just blurs together.", "weights": { "not-feeling-forgiven": 3 } }
+        {
+          "text": "Guilt says I did something bad and must repay it.",
+          "weights": {
+            "guilt-you-keep-re-paying": 3
+          }
+        },
+        {
+          "text": "Shame says I am bad, all the way down.",
+          "weights": {
+            "shame-you-hide": 3
+          }
+        },
+        {
+          "text": "Both, plus the sense that mine is beyond fixing.",
+          "weights": {
+            "sin-too-big": 2,
+            "shame-you-hide": 1
+          }
+        },
+        {
+          "text": "I can't tell anymore. It all just blurs together.",
+          "weights": {
+            "not-feeling-forgiven": 3
+          }
+        }
       ]
     },
     {
       "text": "When someone says \"God already forgave you,\" you...",
       "options": [
-        { "text": "Think, sure, but I still have to earn it back.", "weights": { "guilt-you-keep-re-paying": 3 } },
-        { "text": "Wonder if they'd say that knowing the whole truth.", "weights": { "shame-you-hide": 3 } },
-        { "text": "Quietly believe my case is the exception.", "weights": { "sin-too-big": 3 } },
-        { "text": "Want to believe it, but it never quite sinks in.", "weights": { "not-feeling-forgiven": 3 } }
+        {
+          "text": "Think, sure, but I still have to earn it back.",
+          "weights": {
+            "guilt-you-keep-re-paying": 3
+          }
+        },
+        {
+          "text": "Wonder if they'd say that knowing the whole truth.",
+          "weights": {
+            "shame-you-hide": 3
+          }
+        },
+        {
+          "text": "Quietly believe my case is the exception.",
+          "weights": {
+            "sin-too-big": 3
+          }
+        },
+        {
+          "text": "Want to believe it, but it never quite sinks in.",
+          "weights": {
+            "not-feeling-forgiven": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you carry that you've never fully told anyone?",
       "options": [
-        { "text": "A debt I feel I have to keep working off.", "weights": { "guilt-you-keep-re-paying": 3 } },
-        { "text": "A version of me I'm terrified to let anyone see.", "weights": { "shame-you-hide": 3 } },
-        { "text": "One specific thing I think is unforgivable.", "weights": { "sin-too-big": 3 } },
-        { "text": "A numbness where peace and relief should be.", "weights": { "not-feeling-forgiven": 3 } }
+        {
+          "text": "A debt I feel I have to keep working off.",
+          "weights": {
+            "guilt-you-keep-re-paying": 3
+          }
+        },
+        {
+          "text": "A version of me I'm terrified to let anyone see.",
+          "weights": {
+            "shame-you-hide": 3
+          }
+        },
+        {
+          "text": "One specific thing I think is unforgivable.",
+          "weights": {
+            "sin-too-big": 3
+          }
+        },
+        {
+          "text": "A numbness where peace and relief should be.",
+          "weights": {
+            "not-feeling-forgiven": 3
+          }
+        }
       ]
     },
     {
       "text": "Which person in Scripture do you most relate to?",
       "options": [
-        { "text": "Someone trying to repay a debt already canceled.", "weights": { "guilt-you-keep-re-paying": 3 } },
-        { "text": "Adam and Eve, hiding in the garden in shame.", "weights": { "shame-you-hide": 3 } },
-        { "text": "Paul, who called himself the worst of sinners.", "weights": { "sin-too-big": 3 } },
-        { "text": "Thomas, needing to feel it before he could trust it.", "weights": { "not-feeling-forgiven": 3 } }
+        {
+          "text": "Someone trying to repay a debt already canceled.",
+          "weights": {
+            "guilt-you-keep-re-paying": 3
+          }
+        },
+        {
+          "text": "Adam and Eve, hiding in the garden in shame.",
+          "weights": {
+            "shame-you-hide": 3
+          }
+        },
+        {
+          "text": "Paul, who called himself the worst of sinners.",
+          "weights": {
+            "sin-too-big": 3
+          }
+        },
+        {
+          "text": "Thomas, needing to feel it before he could trust it.",
+          "weights": {
+            "not-feeling-forgiven": 3
+          }
+        }
       ]
     },
     {
       "text": "What would it take for forgiveness to finally land?",
       "options": [
-        { "text": "Believing the debt is truly paid, not by me.", "weights": { "guilt-you-keep-re-paying": 3 } },
-        { "text": "Knowing I'm loved even with my worst exposed.", "weights": { "shame-you-hide": 3 } },
-        { "text": "Trusting that no sin outsizes God's mercy.", "weights": { "sin-too-big": 3 } },
-        { "text": "Resting in the truth even when the feeling lags.", "weights": { "not-feeling-forgiven": 3 } }
+        {
+          "text": "Believing the debt is truly paid, not by me.",
+          "weights": {
+            "guilt-you-keep-re-paying": 3
+          }
+        },
+        {
+          "text": "Knowing I'm loved even with my worst exposed.",
+          "weights": {
+            "shame-you-hide": 3
+          }
+        },
+        {
+          "text": "Trusting that no sin outsizes God's mercy.",
+          "weights": {
+            "sin-too-big": 3
+          }
+        },
+        {
+          "text": "Resting in the truth even when the feeling lags.",
+          "weights": {
+            "not-feeling-forgiven": 3
+          }
+        }
       ]
     },
     {
       "text": "Deep down, the hardest person to forgive is...",
       "options": [
-        { "text": "Myself, because I can't stop tallying the cost.", "weights": { "guilt-you-keep-re-paying": 3 } },
-        { "text": "Myself, because I'm ashamed of who I was.", "weights": { "shame-you-hide": 3 } },
-        { "text": "Myself, because what I did feels too big.", "weights": { "sin-too-big": 3 } },
-        { "text": "Myself, even though I know God already did.", "weights": { "not-feeling-forgiven": 3 } }
+        {
+          "text": "Myself, because I can't stop tallying the cost.",
+          "weights": {
+            "guilt-you-keep-re-paying": 3
+          }
+        },
+        {
+          "text": "Myself, because I'm ashamed of who I was.",
+          "weights": {
+            "shame-you-hide": 3
+          }
+        },
+        {
+          "text": "Myself, because what I did feels too big.",
+          "weights": {
+            "sin-too-big": 3
+          }
+        },
+        {
+          "text": "Myself, even though I know God already did.",
+          "weights": {
+            "not-feeling-forgiven": 3
+          }
+        }
       ]
     }
   ],
@@ -99,22 +280,38 @@
     "guilt-you-keep-re-paying": {
       "name": "Guilt You Keep Re-Paying",
       "description": "You keep trying to settle a bill that's already been paid in full. Somewhere you decided forgiveness has to be earned back through being good enough, and so you never stop working. But grace isn't a loan. The debt was canceled at the cross, completely, and there's nothing left for you to repay. Receiving forgiveness isn't a weakness. It's the whole point. Set down the ledger you've been carrying. What Jesus finished, you don't have to keep paying for.",
-      "scripture": { "text": "It is finished.", "reference": "John 19:30" }
+      "scripture": {
+        "text": "When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up his spirit.",
+        "reference": "John 19:30",
+        "translation": "ASV"
+      }
     },
     "shame-you-hide": {
       "name": "Shame You Hide",
       "description": "Guilt says you did something bad. Shame says you are bad, and that's the lie keeping you hidden. So you bury the real you, certain that if people saw it all, they'd leave. But God already sees every part, the very part you're hiding, and His verdict over you is loved, not disgusting. There is no condemnation for you in Christ. Shame whispers that you're beyond belonging. The cross says you belong precisely as you are. Step out of hiding. You're safer in the light than the shadows ever made you feel.",
-      "scripture": { "text": "Therefore, there is now no condemnation for those who are in Christ Jesus.", "reference": "Romans 8:1" }
+      "scripture": {
+        "text": "There is therefore now no condemnation to them that are in Christ Jesus.",
+        "reference": "Romans 8:1",
+        "translation": "ASV"
+      }
     },
     "sin-too-big": {
       "name": "A Sin You Think Is Too Big",
       "description": "You've quietly decided your sin is the exception, the one even God's mercy can't quite reach. But look at who He's already forgiven. Paul hunted and killed Christians and called himself the worst of sinners, and God made him an apostle. There is no sin so large it outsizes the cross. Your guilt feels enormous, but His grace is bigger, and it was poured out for exactly the thing you think is unforgivable. Bring Him the one you've been hiding. Nothing you've done has worn out His willingness to forgive.",
-      "scripture": { "text": "Christ Jesus came into the world to save sinners, of whom I am the worst.", "reference": "1 Timothy 1:15" }
+      "scripture": {
+        "text": "Faithful is the saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief:",
+        "reference": "1 Timothy 1:15",
+        "translation": "ASV"
+      }
     },
     "not-feeling-forgiven": {
       "name": "Not Feeling Forgiven",
       "description": "You believe the truth in your head, but it never reaches your heart, so you keep confessing the same thing, waiting to feel clean. Here's the freeing part: forgiveness isn't a feeling, it's a fact, and facts don't depend on your mood to be true. God's promise stands whether or not you feel it on a given day. Let the truth lead and trust the feelings to catch up later. You are forgiven right now, fully, even on the days it doesn't register. Rest there.",
-      "scripture": { "text": "If we confess our sins, he is faithful and just and will forgive us our sins.", "reference": "1 John 1:9" }
+      "scripture": {
+        "text": "If we confess our sins, he is faithful and righteous to forgive us our sins, and to cleanse us from all unrighteousness.",
+        "reference": "1 John 1:9",
+        "translation": "ASV"
+      }
     }
   }
 }

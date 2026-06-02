@@ -6,78 +6,244 @@
   "category": "spiritual-profile",
   "estimatedMinutes": 5,
   "mode": "profile",
-  "dimensions": ["polite-prayer", "avoider", "stuffed-down-lament", "angry-but-silent", "brutally-honest"],
+  "dimensions": [
+    "polite-prayer",
+    "avoider",
+    "stuffed-down-lament",
+    "angry-but-silent",
+    "brutally-honest"
+  ],
   "questions": [
     {
       "text": "When you pray, how close is it to what you actually feel?",
       "options": [
-        { "text": "I keep it polite and tidy, even when I'm a mess inside.", "weights": { "polite-prayer": 2 } },
-        { "text": "I mostly avoid the hard stuff by not really praying about it.", "weights": { "avoider": 2 } },
-        { "text": "I have real grief in me, but I swallow it and pray something safer.", "weights": { "stuffed-down-lament": 2 } },
-        { "text": "Pretty close. I tell Him exactly how it is.", "weights": { "brutally-honest": 2 } }
+        {
+          "text": "I keep it polite and tidy, even when I'm a mess inside.",
+          "weights": {
+            "polite-prayer": 2
+          }
+        },
+        {
+          "text": "I mostly avoid the hard stuff by not really praying about it.",
+          "weights": {
+            "avoider": 2
+          }
+        },
+        {
+          "text": "I have real grief in me, but I swallow it and pray something safer.",
+          "weights": {
+            "stuffed-down-lament": 2
+          }
+        },
+        {
+          "text": "Pretty close. I tell Him exactly how it is.",
+          "weights": {
+            "brutally-honest": 2
+          }
+        }
       ]
     },
     {
       "text": "There's a hard thing between you and God right now. What do you do with it?",
       "options": [
-        { "text": "Pray around it. I keep things pleasant and surface-level.", "weights": { "polite-prayer": 2 } },
-        { "text": "Avoid prayer altogether so I don't have to face it.", "weights": { "avoider": 2 } },
-        { "text": "Feel it deeply but never say it out loud to Him.", "weights": { "stuffed-down-lament": 2 } },
-        { "text": "I'm quietly furious about it but won't admit that to God.", "weights": { "angry-but-silent": 2 } }
+        {
+          "text": "Pray around it. I keep things pleasant and surface-level.",
+          "weights": {
+            "polite-prayer": 2
+          }
+        },
+        {
+          "text": "Avoid prayer altogether so I don't have to face it.",
+          "weights": {
+            "avoider": 2
+          }
+        },
+        {
+          "text": "Feel it deeply but never say it out loud to Him.",
+          "weights": {
+            "stuffed-down-lament": 2
+          }
+        },
+        {
+          "text": "I'm quietly furious about it but won't admit that to God.",
+          "weights": {
+            "angry-but-silent": 2
+          }
+        }
       ]
     },
     {
       "text": "How do you feel about bringing anger or doubt into prayer?",
       "options": [
-        { "text": "Uncomfortable. It feels disrespectful, so I stay polite.", "weights": { "polite-prayer": 2 } },
-        { "text": "I'd rather just not pray than go there.", "weights": { "avoider": 2 } },
-        { "text": "I have it, but I bury it and put on a brave face.", "weights": { "stuffed-down-lament": 2 } },
-        { "text": "Totally fine. The Psalms gave me permission long ago.", "weights": { "brutally-honest": 2 } }
+        {
+          "text": "Uncomfortable. It feels disrespectful, so I stay polite.",
+          "weights": {
+            "polite-prayer": 2
+          }
+        },
+        {
+          "text": "I'd rather just not pray than go there.",
+          "weights": {
+            "avoider": 2
+          }
+        },
+        {
+          "text": "I have it, but I bury it and put on a brave face.",
+          "weights": {
+            "stuffed-down-lament": 2
+          }
+        },
+        {
+          "text": "Totally fine. The Psalms gave me permission long ago.",
+          "weights": {
+            "brutally-honest": 2
+          }
+        }
       ]
     },
     {
       "text": "What does your prayer life look like when you're hurting?",
       "options": [
-        { "text": "Same polished words as always, hurt tucked out of sight.", "weights": { "polite-prayer": 2 } },
-        { "text": "It mostly goes quiet. I pull away instead of leaning in.", "weights": { "avoider": 2 } },
-        { "text": "I cry on my own but pray something calmer to God.", "weights": { "stuffed-down-lament": 2 } },
-        { "text": "Cold and clipped. I'm angry and I shut the conversation down.", "weights": { "angry-but-silent": 2 } }
+        {
+          "text": "Same polished words as always, hurt tucked out of sight.",
+          "weights": {
+            "polite-prayer": 2
+          }
+        },
+        {
+          "text": "It mostly goes quiet. I pull away instead of leaning in.",
+          "weights": {
+            "avoider": 2
+          }
+        },
+        {
+          "text": "I cry on my own but pray something calmer to God.",
+          "weights": {
+            "stuffed-down-lament": 2
+          }
+        },
+        {
+          "text": "Cold and clipped. I'm angry and I shut the conversation down.",
+          "weights": {
+            "angry-but-silent": 2
+          }
+        }
       ]
     },
     {
       "text": "Which sentence sounds most like you?",
       "options": [
-        { "text": "I don't want to bother God with the ugly stuff.", "weights": { "polite-prayer": 2 } },
-        { "text": "If I start praying honestly, I'll have to feel it all.", "weights": { "avoider": 2 } },
-        { "text": "I'm fine, I'm fine, even when I'm clearly not.", "weights": { "stuffed-down-lament": 2 } },
-        { "text": "I'm mad at Him, but I'd never say it.", "weights": { "angry-but-silent": 2 } }
+        {
+          "text": "I don't want to bother God with the ugly stuff.",
+          "weights": {
+            "polite-prayer": 2
+          }
+        },
+        {
+          "text": "If I start praying honestly, I'll have to feel it all.",
+          "weights": {
+            "avoider": 2
+          }
+        },
+        {
+          "text": "I'm fine, I'm fine, even when I'm clearly not.",
+          "weights": {
+            "stuffed-down-lament": 2
+          }
+        },
+        {
+          "text": "I'm mad at Him, but I'd never say it.",
+          "weights": {
+            "angry-but-silent": 2
+          }
+        }
       ]
     },
     {
       "text": "Be honest. What's the gap between your spoken prayers and your real heart?",
       "options": [
-        { "text": "Wide. My words are neat, my insides are not.", "weights": { "polite-prayer": 2 } },
-        { "text": "Huge, because I avoid praying the real things at all.", "weights": { "avoider": 2 } },
-        { "text": "I feel the grief fully but never let it reach my prayers.", "weights": { "stuffed-down-lament": 2 } },
-        { "text": "Almost none. I bring the unfiltered truth to God.", "weights": { "brutally-honest": 2 } }
+        {
+          "text": "Wide. My words are neat, my insides are not.",
+          "weights": {
+            "polite-prayer": 2
+          }
+        },
+        {
+          "text": "Huge, because I avoid praying the real things at all.",
+          "weights": {
+            "avoider": 2
+          }
+        },
+        {
+          "text": "I feel the grief fully but never let it reach my prayers.",
+          "weights": {
+            "stuffed-down-lament": 2
+          }
+        },
+        {
+          "text": "Almost none. I bring the unfiltered truth to God.",
+          "weights": {
+            "brutally-honest": 2
+          }
+        }
       ]
     },
     {
       "text": "What do you secretly fear would happen if you got completely honest with God?",
       "options": [
-        { "text": "That it would be irreverent, so I keep it polite.", "weights": { "polite-prayer": 2 } },
-        { "text": "That I'd fall apart, so I avoid the conversation.", "weights": { "avoider": 2 } },
-        { "text": "That the grief would overwhelm me, so I stuff it down.", "weights": { "stuffed-down-lament": 2 } },
-        { "text": "That my anger would push Him away, so I go silent.", "weights": { "angry-but-silent": 2 } }
+        {
+          "text": "That it would be irreverent, so I keep it polite.",
+          "weights": {
+            "polite-prayer": 2
+          }
+        },
+        {
+          "text": "That I'd fall apart, so I avoid the conversation.",
+          "weights": {
+            "avoider": 2
+          }
+        },
+        {
+          "text": "That the grief would overwhelm me, so I stuff it down.",
+          "weights": {
+            "stuffed-down-lament": 2
+          }
+        },
+        {
+          "text": "That my anger would push Him away, so I go silent.",
+          "weights": {
+            "angry-but-silent": 2
+          }
+        }
       ]
     },
     {
       "text": "What do you most want your prayers to become?",
       "options": [
-        { "text": "Real, not just respectable.", "weights": { "polite-prayer": 2 } },
-        { "text": "A place I run to instead of run from.", "weights": { "avoider": 2 } },
-        { "text": "Honest enough to finally say the grief out loud.", "weights": { "stuffed-down-lament": 2 } },
-        { "text": "Brave enough to bring the anger and not lose Him in it.", "weights": { "angry-but-silent": 2 } }
+        {
+          "text": "Real, not just respectable.",
+          "weights": {
+            "polite-prayer": 2
+          }
+        },
+        {
+          "text": "A place I run to instead of run from.",
+          "weights": {
+            "avoider": 2
+          }
+        },
+        {
+          "text": "Honest enough to finally say the grief out loud.",
+          "weights": {
+            "stuffed-down-lament": 2
+          }
+        },
+        {
+          "text": "Brave enough to bring the anger and not lose Him in it.",
+          "weights": {
+            "angry-but-silent": 2
+          }
+        }
       ]
     }
   ],
@@ -85,27 +251,47 @@
     "polite-prayer": {
       "name": "The Polite Pray-er",
       "description": "Your prayers are neat and respectful, even when your insides are anything but. You keep things tidy, almost like you're afraid mess would offend God. But He already sees what's underneath the polished words, and He'd rather have the real you than the presentable version. The Psalms are full of raw, unedited honesty, and God never flinched. You can drop the formality. He can handle your whole heart, not just the parts you've cleaned up.",
-      "scripture": { "text": "Pour out your heart before him: God is a refuge for us.", "reference": "Psalm 62:8" }
+      "scripture": {
+        "text": "Trust in him at all times, ye people; Pour out your heart before him: God is a refuge for us. [Selah",
+        "reference": "Psalm 62:8",
+        "translation": "ASV"
+      }
     },
     "avoider": {
       "name": "The Avoider",
       "description": "When things get hard, you don't pray honestly, you just stop praying. Distance feels safer than facing the thing head-on with God. But avoidance never actually protects you. It just leaves you alone with the very weight you were trying to dodge. God isn't waiting to scold you for what you'd say. He's waiting for you to come back. Start small. Even a one-line, half-honest prayer reopens a door you don't have to keep closed.",
-      "scripture": { "text": "Draw nigh to God, and he will draw nigh to you.", "reference": "James 4:8" }
+      "scripture": {
+        "text": "Draw nigh to God, and he will draw nigh to you. Cleanse your hands, ye sinners; and purify your hearts, ye doubleminded.",
+        "reference": "James 4:8",
+        "translation": "ASV"
+      }
     },
     "stuffed-down-lament": {
       "name": "The Stuffed-Down Lament",
       "description": "There's real grief in you, but you keep it sealed off, crying privately and then praying something calmer and braver to God. You feel it fully but never let it reach Him. Yet lament is a language God speaks. A huge portion of the Psalms is grief spoken plainly, and Jesus Himself wept and cried out in anguish. Your sorrow doesn't need to be cleaned up before you bring it. Let it out where He can actually meet you in it.",
-      "scripture": { "text": "Jesus wept.", "reference": "John 11:35" }
+      "scripture": {
+        "text": "Jesus wept.",
+        "reference": "John 11:35",
+        "translation": "ASV"
+      }
     },
     "angry-but-silent": {
       "name": "The Angry-but-Silent",
       "description": "You're angry with God, but you'd never say it, so you go cold and clipped instead, shutting the conversation down. The fear is that your anger would push Him away. But the opposite is true. Honest anger brought to God is still relationship, while silence is the real distance. Job argued, the Psalmists demanded answers, and God didn't reject them for it. You can be furious and faithful at the same time. Say the hard thing. He's not going anywhere.",
-      "scripture": { "text": "How long wilt thou forget me, O Lord? for ever?", "reference": "Psalm 13:1" }
+      "scripture": {
+        "text": "How long, O Jehovah? wilt thou forget me for ever? How long wilt thou hide thy face from me?",
+        "reference": "Psalm 13:1",
+        "translation": "ASV"
+      }
     },
     "brutally-honest": {
       "name": "The Brutally Honest",
       "description": "You tell God the truth, all of it, the anger and the doubt and the ache included. That's not irreverence. It's intimacy, and it's exactly the kind of prayer that fills the Psalms. You've understood something a lot of people miss: a relationship that can hold your worst is a real one. Keep coming as you are. Just stay long enough in the conversation to hear His answer too, because the honesty goes both ways, and He has things to say back.",
-      "scripture": { "text": "Search me, O God, and know my heart: try me, and know my thoughts.", "reference": "Psalm 139:23" }
+      "scripture": {
+        "text": "Search me, O God, and know my heart: Try me, and know my thoughts;",
+        "reference": "Psalm 139:23",
+        "translation": "ASV"
+      }
     }
   }
 }

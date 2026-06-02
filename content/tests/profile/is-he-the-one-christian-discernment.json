@@ -16,91 +16,294 @@
     {
       "text": "When you picture a hard season five years in, how does he show up?",
       "options": [
-        { "text": "Steady. He's already shown me he stays when things get heavy.", "weights": { "green-light-pursue": 3 } },
-        { "text": "I think he'd stay, but I haven't really seen it tested yet.", "weights": { "yellow-pray-and-watch": 3 } },
-        { "text": "Honestly, he checks out the second things get uncomfortable.", "weights": { "red-walk-away": 3 } },
-        { "text": "I can't picture it clearly because we're both still so unformed.", "weights": { "not-yet-keep-growing": 3 } }
+        {
+          "text": "Steady. He's already shown me he stays when things get heavy.",
+          "weights": {
+            "green-light-pursue": 3
+          }
+        },
+        {
+          "text": "I think he'd stay, but I haven't really seen it tested yet.",
+          "weights": {
+            "yellow-pray-and-watch": 3
+          }
+        },
+        {
+          "text": "Honestly, he checks out the second things get uncomfortable.",
+          "weights": {
+            "red-walk-away": 3
+          }
+        },
+        {
+          "text": "I can't picture it clearly because we're both still so unformed.",
+          "weights": {
+            "not-yet-keep-growing": 3
+          }
+        }
       ]
     },
     {
       "text": "How does his faith actually look on a normal Tuesday?",
       "options": [
-        { "text": "Real and his own. It shapes how he treats people, not just Sundays.", "weights": { "green-light-pursue": 3 } },
-        { "text": "Sincere but young. He's growing, and I'm watching the direction.", "weights": { "yellow-pray-and-watch": 2, "not-yet-keep-growing": 1 } },
-        { "text": "He talks the language but the fruit isn't there.", "weights": { "red-walk-away": 3 } },
-        { "text": "We're both kind of rebuilding our faith from scratch right now.", "weights": { "not-yet-keep-growing": 3 } }
+        {
+          "text": "Real and his own. It shapes how he treats people, not just Sundays.",
+          "weights": {
+            "green-light-pursue": 3
+          }
+        },
+        {
+          "text": "Sincere but young. He's growing, and I'm watching the direction.",
+          "weights": {
+            "yellow-pray-and-watch": 2,
+            "not-yet-keep-growing": 1
+          }
+        },
+        {
+          "text": "He talks the language but the fruit isn't there.",
+          "weights": {
+            "red-walk-away": 3
+          }
+        },
+        {
+          "text": "We're both kind of rebuilding our faith from scratch right now.",
+          "weights": {
+            "not-yet-keep-growing": 3
+          }
+        }
       ]
     },
     {
       "text": "When you bring up a concern, what happens?",
       "options": [
-        { "text": "He listens, owns his part, and we come out closer.", "weights": { "green-light-pursue": 3 } },
-        { "text": "It's hit or miss. Sometimes great, sometimes he gets defensive.", "weights": { "yellow-pray-and-watch": 3 } },
-        { "text": "It gets turned around on me until I'm the one apologizing.", "weights": { "red-walk-away": 3 } },
-        { "text": "We both shut down. Neither of us has learned to do conflict well yet.", "weights": { "not-yet-keep-growing": 3 } }
+        {
+          "text": "He listens, owns his part, and we come out closer.",
+          "weights": {
+            "green-light-pursue": 3
+          }
+        },
+        {
+          "text": "It's hit or miss. Sometimes great, sometimes he gets defensive.",
+          "weights": {
+            "yellow-pray-and-watch": 3
+          }
+        },
+        {
+          "text": "It gets turned around on me until I'm the one apologizing.",
+          "weights": {
+            "red-walk-away": 3
+          }
+        },
+        {
+          "text": "We both shut down. Neither of us has learned to do conflict well yet.",
+          "weights": {
+            "not-yet-keep-growing": 3
+          }
+        }
       ]
     },
     {
       "text": "What do the wise people in your life say when they see you two?",
       "options": [
-        { "text": "They light up. They've told me unprompted that he's good for me.", "weights": { "green-light-pursue": 3 } },
-        { "text": "They're cautiously hopeful and keep saying \"give it time.\"", "weights": { "yellow-pray-and-watch": 3 } },
-        { "text": "The people who love me most are quietly worried.", "weights": { "red-walk-away": 3 } },
-        { "text": "They mostly say we're both a bit too unsettled to know yet.", "weights": { "not-yet-keep-growing": 2, "yellow-pray-and-watch": 1 } }
+        {
+          "text": "They light up. They've told me unprompted that he's good for me.",
+          "weights": {
+            "green-light-pursue": 3
+          }
+        },
+        {
+          "text": "They're cautiously hopeful and keep saying \"give it time.\"",
+          "weights": {
+            "yellow-pray-and-watch": 3
+          }
+        },
+        {
+          "text": "The people who love me most are quietly worried.",
+          "weights": {
+            "red-walk-away": 3
+          }
+        },
+        {
+          "text": "They mostly say we're both a bit too unsettled to know yet.",
+          "weights": {
+            "not-yet-keep-growing": 2,
+            "yellow-pray-and-watch": 1
+          }
+        }
       ]
     },
     {
       "text": "How safe do you feel being fully yourself around him?",
       "options": [
-        { "text": "Completely. I'm more me with him, not less.", "weights": { "green-light-pursue": 3 } },
-        { "text": "Mostly, though I still hold a few things back to keep the peace.", "weights": { "yellow-pray-and-watch": 3 } },
-        { "text": "I shrink. I've started editing myself to avoid his reactions.", "weights": { "red-walk-away": 3 } },
-        { "text": "I'm honestly still figuring out who \"fully myself\" even is.", "weights": { "not-yet-keep-growing": 3 } }
+        {
+          "text": "Completely. I'm more me with him, not less.",
+          "weights": {
+            "green-light-pursue": 3
+          }
+        },
+        {
+          "text": "Mostly, though I still hold a few things back to keep the peace.",
+          "weights": {
+            "yellow-pray-and-watch": 3
+          }
+        },
+        {
+          "text": "I shrink. I've started editing myself to avoid his reactions.",
+          "weights": {
+            "red-walk-away": 3
+          }
+        },
+        {
+          "text": "I'm honestly still figuring out who \"fully myself\" even is.",
+          "weights": {
+            "not-yet-keep-growing": 3
+          }
+        }
       ]
     },
     {
       "text": "Be honest about why you're asking if he's the one:",
       "options": [
-        { "text": "Because everything good in me wants to build a life with him.", "weights": { "green-light-pursue": 3 } },
-        { "text": "Because it's mostly good and I want to make sure before I go all in.", "weights": { "yellow-pray-and-watch": 3 } },
-        { "text": "Because I'm trying to talk myself into staying.", "weights": { "red-walk-away": 3 } },
-        { "text": "Because I want this to work eventually, but the timing feels off.", "weights": { "not-yet-keep-growing": 3 } }
+        {
+          "text": "Because everything good in me wants to build a life with him.",
+          "weights": {
+            "green-light-pursue": 3
+          }
+        },
+        {
+          "text": "Because it's mostly good and I want to make sure before I go all in.",
+          "weights": {
+            "yellow-pray-and-watch": 3
+          }
+        },
+        {
+          "text": "Because I'm trying to talk myself into staying.",
+          "weights": {
+            "red-walk-away": 3
+          }
+        },
+        {
+          "text": "Because I want this to work eventually, but the timing feels off.",
+          "weights": {
+            "not-yet-keep-growing": 3
+          }
+        }
       ]
     },
     {
       "text": "Is there anything in the relationship that scares you?",
       "options": [
-        { "text": "Only the normal fear that comes with loving someone this much.", "weights": { "green-light-pursue": 2, "yellow-pray-and-watch": 1 } },
-        { "text": "A couple of patterns I want to watch a little longer.", "weights": { "yellow-pray-and-watch": 3 } },
-        { "text": "Yes. There's a fear I keep explaining away, and I shouldn't.", "weights": { "red-walk-away": 3 } },
-        { "text": "Mostly I'm scared we're both not ready, not that he's wrong.", "weights": { "not-yet-keep-growing": 3 } }
+        {
+          "text": "Only the normal fear that comes with loving someone this much.",
+          "weights": {
+            "green-light-pursue": 2,
+            "yellow-pray-and-watch": 1
+          }
+        },
+        {
+          "text": "A couple of patterns I want to watch a little longer.",
+          "weights": {
+            "yellow-pray-and-watch": 3
+          }
+        },
+        {
+          "text": "Yes. There's a fear I keep explaining away, and I shouldn't.",
+          "weights": {
+            "red-walk-away": 3
+          }
+        },
+        {
+          "text": "Mostly I'm scared we're both not ready, not that he's wrong.",
+          "weights": {
+            "not-yet-keep-growing": 3
+          }
+        }
       ]
     },
     {
       "text": "When you pray about him, what's the honest sense you keep getting?",
       "options": [
-        { "text": "Peace. A settled yes I can't shake.", "weights": { "green-light-pursue": 3 } },
-        { "text": "\"Keep going, but stay awake.\"", "weights": { "yellow-pray-and-watch": 3 } },
-        { "text": "A pull in my gut I keep arguing with.", "weights": { "red-walk-away": 3 } },
-        { "text": "\"Not now. Grow first.\"", "weights": { "not-yet-keep-growing": 3 } }
+        {
+          "text": "Peace. A settled yes I can't shake.",
+          "weights": {
+            "green-light-pursue": 3
+          }
+        },
+        {
+          "text": "\"Keep going, but stay awake.\"",
+          "weights": {
+            "yellow-pray-and-watch": 3
+          }
+        },
+        {
+          "text": "A pull in my gut I keep arguing with.",
+          "weights": {
+            "red-walk-away": 3
+          }
+        },
+        {
+          "text": "\"Not now. Grow first.\"",
+          "weights": {
+            "not-yet-keep-growing": 3
+          }
+        }
       ]
     },
     {
       "text": "How does he treat the people who can do nothing for him?",
       "options": [
-        { "text": "With real kindness. It's the same whether anyone's watching or not.", "weights": { "green-light-pursue": 3 } },
-        { "text": "Usually well, though I've seen a couple of moments that gave me pause.", "weights": { "yellow-pray-and-watch": 3 } },
-        { "text": "Differently than he treats me, and it worries me.", "weights": { "red-walk-away": 3 } },
-        { "text": "He's still maturing in that, same as I am.", "weights": { "not-yet-keep-growing": 3 } }
+        {
+          "text": "With real kindness. It's the same whether anyone's watching or not.",
+          "weights": {
+            "green-light-pursue": 3
+          }
+        },
+        {
+          "text": "Usually well, though I've seen a couple of moments that gave me pause.",
+          "weights": {
+            "yellow-pray-and-watch": 3
+          }
+        },
+        {
+          "text": "Differently than he treats me, and it worries me.",
+          "weights": {
+            "red-walk-away": 3
+          }
+        },
+        {
+          "text": "He's still maturing in that, same as I am.",
+          "weights": {
+            "not-yet-keep-growing": 3
+          }
+        }
       ]
     },
     {
       "text": "If a friend described your exact situation to you, you'd tell her...",
       "options": [
-        { "text": "\"Don't overthink a good thing. This one's worth it.\"", "weights": { "green-light-pursue": 3 } },
-        { "text": "\"Take your time and keep your eyes open.\"", "weights": { "yellow-pray-and-watch": 3 } },
-        { "text": "\"Friend, you already know. It's time to walk away.\"", "weights": { "red-walk-away": 3 } },
-        { "text": "\"You two aren't ready yet, and that's okay. Keep growing.\"", "weights": { "not-yet-keep-growing": 3 } }
+        {
+          "text": "\"Don't overthink a good thing. This one's worth it.\"",
+          "weights": {
+            "green-light-pursue": 3
+          }
+        },
+        {
+          "text": "\"Take your time and keep your eyes open.\"",
+          "weights": {
+            "yellow-pray-and-watch": 3
+          }
+        },
+        {
+          "text": "\"Friend, you already know. It's time to walk away.\"",
+          "weights": {
+            "red-walk-away": 3
+          }
+        },
+        {
+          "text": "\"You two aren't ready yet, and that's okay. Keep growing.\"",
+          "weights": {
+            "not-yet-keep-growing": 3
+          }
+        }
       ]
     }
   ],
@@ -108,22 +311,38 @@
     "green-light-pursue": {
       "name": "Green Light: Pursue",
       "description": "The evidence keeps pointing the same direction. He's steady, his faith is real, and you're more yourself around him, not less. There's no such thing as a perfect person, so don't wait for one. Pursue this with open eyes and a grateful heart.",
-      "scripture": { "text": "He who finds a wife finds what is good and receives favor from the Lord.", "reference": "Proverbs 18:22" }
+      "scripture": {
+        "text": "Whoso findeth a wife findeth a good thing, And obtaineth favor of Jehovah.",
+        "reference": "Proverbs 18:22",
+        "translation": "ASV"
+      }
     },
     "yellow-pray-and-watch": {
       "name": "Yellow: Pray and Watch",
       "description": "There's a lot of good here, and a few things you genuinely need to see play out. That's not a no. It's a slow yes that hasn't earned your whole heart yet. Keep praying, keep your eyes open, and give time the chance to show you what words can't.",
-      "scripture": { "text": "The simple believe anything, but the prudent give thought to their steps.", "reference": "Proverbs 14:15" }
+      "scripture": {
+        "text": "The simple believeth every word; But the prudent man looketh well to his going.",
+        "reference": "Proverbs 14:15",
+        "translation": "ASV"
+      }
     },
     "red-walk-away": {
       "name": "Red: Walk Away",
       "description": "You keep explaining away something your gut already flagged. The fact that you're working this hard to stay is the answer. Walking away from the wrong thing isn't a failure of faith. It's how you stay available for the right one. You're allowed to choose peace.",
-      "scripture": { "text": "Above all else, guard your heart, for everything you do flows from it.", "reference": "Proverbs 4:23" }
+      "scripture": {
+        "text": "Keep thy heart with all diligence; For out of it are the issues of life.",
+        "reference": "Proverbs 4:23",
+        "translation": "ASV"
+      }
     },
     "not-yet-keep-growing": {
       "name": "Not Yet: Keep Growing",
       "description": "The problem here probably isn't him. It's the timing. You're both still becoming who you'll be, and a healthy thing planted in unready soil can struggle for no good reason. Keep growing your own roots. If it's right, it can wait for you to be ready.",
-      "scripture": { "text": "There is a time for everything, and a season for every activity under the heavens.", "reference": "Ecclesiastes 3:1" }
+      "scripture": {
+        "text": "For everything there is a season, and a time for every purpose under heaven:",
+        "reference": "Ecclesiastes 3:1",
+        "translation": "ASV"
+      }
     }
   }
 }

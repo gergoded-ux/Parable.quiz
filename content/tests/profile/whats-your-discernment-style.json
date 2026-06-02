@@ -17,82 +17,267 @@
     {
       "text": "You've got a big decision in front of you. What's your first move?",
       "options": [
-        { "text": "Call the wise people in my life and talk it through.", "weights": { "counsel-seeker": 3 } },
-        { "text": "Sit with it and wait to feel settled one way or the other.", "weights": { "peace-waiter": 3 } },
-        { "text": "Start moving and watch which doors open or close.", "weights": { "open-door-walker": 3 } },
-        { "text": "Open my Bible and look for what God's already said.", "weights": { "scripture-first": 3 } }
+        {
+          "text": "Call the wise people in my life and talk it through.",
+          "weights": {
+            "counsel-seeker": 3
+          }
+        },
+        {
+          "text": "Sit with it and wait to feel settled one way or the other.",
+          "weights": {
+            "peace-waiter": 3
+          }
+        },
+        {
+          "text": "Start moving and watch which doors open or close.",
+          "weights": {
+            "open-door-walker": 3
+          }
+        },
+        {
+          "text": "Open my Bible and look for what God's already said.",
+          "weights": {
+            "scripture-first": 3
+          }
+        }
       ]
     },
     {
       "text": "How do you usually know you're on the right track?",
       "options": [
-        { "text": "The people I trust all confirm the same thing.", "weights": { "counsel-seeker": 3 } },
-        { "text": "There's a deep peace, even if it makes no logical sense.", "weights": { "peace-waiter": 3 } },
-        { "text": "The path just keeps clearing in front of me.", "weights": { "open-door-walker": 3 } },
-        { "text": "It lines up with Scripture. That settles it for me.", "weights": { "scripture-first": 2, "bold-mover": 1 } }
+        {
+          "text": "The people I trust all confirm the same thing.",
+          "weights": {
+            "counsel-seeker": 3
+          }
+        },
+        {
+          "text": "There's a deep peace, even if it makes no logical sense.",
+          "weights": {
+            "peace-waiter": 3
+          }
+        },
+        {
+          "text": "The path just keeps clearing in front of me.",
+          "weights": {
+            "open-door-walker": 3
+          }
+        },
+        {
+          "text": "It lines up with Scripture. That settles it for me.",
+          "weights": {
+            "scripture-first": 2,
+            "bold-mover": 1
+          }
+        }
       ]
     },
     {
       "text": "What makes you hesitate the most?",
       "options": [
-        { "text": "Not having enough input from people I respect yet.", "weights": { "counsel-seeker": 3 } },
-        { "text": "A feeling that won't settle. I can't shake the unease.", "weights": { "peace-waiter": 3 } },
-        { "text": "A door that won't budge no matter how I push.", "weights": { "open-door-walker": 3 } },
-        { "text": "Honestly, not much. If it's not wrong, I'll go for it.", "weights": { "bold-mover": 3 } }
+        {
+          "text": "Not having enough input from people I respect yet.",
+          "weights": {
+            "counsel-seeker": 3
+          }
+        },
+        {
+          "text": "A feeling that won't settle. I can't shake the unease.",
+          "weights": {
+            "peace-waiter": 3
+          }
+        },
+        {
+          "text": "A door that won't budge no matter how I push.",
+          "weights": {
+            "open-door-walker": 3
+          }
+        },
+        {
+          "text": "Honestly, not much. If it's not wrong, I'll go for it.",
+          "weights": {
+            "bold-mover": 3
+          }
+        }
       ]
     },
     {
       "text": "A friend asks how you make decisions. What do you actually say?",
       "options": [
-        { "text": "I never decide alone. Wise counsel keeps me from blind spots.", "weights": { "counsel-seeker": 3 } },
-        { "text": "I wait for the peace of God to guard my heart on it.", "weights": { "peace-waiter": 3 } },
-        { "text": "I trust God to direct my steps as I take them.", "weights": { "open-door-walker": 3 } },
-        { "text": "If God already calls it good or off-limits, that's my answer.", "weights": { "scripture-first": 3 } }
+        {
+          "text": "I never decide alone. Wise counsel keeps me from blind spots.",
+          "weights": {
+            "counsel-seeker": 3
+          }
+        },
+        {
+          "text": "I wait for the peace of God to guard my heart on it.",
+          "weights": {
+            "peace-waiter": 3
+          }
+        },
+        {
+          "text": "I trust God to direct my steps as I take them.",
+          "weights": {
+            "open-door-walker": 3
+          }
+        },
+        {
+          "text": "If God already calls it good or off-limits, that's my answer.",
+          "weights": {
+            "scripture-first": 3
+          }
+        }
       ]
     },
     {
       "text": "When you look back at a great decision you made, what got you there?",
       "options": [
-        { "text": "A conversation with someone who saw what I couldn't.", "weights": { "counsel-seeker": 3 } },
-        { "text": "That quiet, unexplainable certainty I finally trusted.", "weights": { "peace-waiter": 3 } },
-        { "text": "I said yes to the open door and it led somewhere good.", "weights": { "open-door-walker": 2, "bold-mover": 1 } },
-        { "text": "A verse that hit me at exactly the right moment.", "weights": { "scripture-first": 3 } }
+        {
+          "text": "A conversation with someone who saw what I couldn't.",
+          "weights": {
+            "counsel-seeker": 3
+          }
+        },
+        {
+          "text": "That quiet, unexplainable certainty I finally trusted.",
+          "weights": {
+            "peace-waiter": 3
+          }
+        },
+        {
+          "text": "I said yes to the open door and it led somewhere good.",
+          "weights": {
+            "open-door-walker": 2,
+            "bold-mover": 1
+          }
+        },
+        {
+          "text": "A verse that hit me at exactly the right moment.",
+          "weights": {
+            "scripture-first": 3
+          }
+        }
       ]
     },
     {
       "text": "God feels quiet about a choice. What do you do?",
       "options": [
-        { "text": "Gather more counsel until the picture gets clearer.", "weights": { "counsel-seeker": 3 } },
-        { "text": "Keep waiting. I won't force a move without peace.", "weights": { "peace-waiter": 3 } },
-        { "text": "Take a small step and see what He does with it.", "weights": { "open-door-walker": 2, "bold-mover": 1 } },
-        { "text": "Go deeper in the Word until something lines up.", "weights": { "scripture-first": 3 } }
+        {
+          "text": "Gather more counsel until the picture gets clearer.",
+          "weights": {
+            "counsel-seeker": 3
+          }
+        },
+        {
+          "text": "Keep waiting. I won't force a move without peace.",
+          "weights": {
+            "peace-waiter": 3
+          }
+        },
+        {
+          "text": "Take a small step and see what He does with it.",
+          "weights": {
+            "open-door-walker": 2,
+            "bold-mover": 1
+          }
+        },
+        {
+          "text": "Go deeper in the Word until something lines up.",
+          "weights": {
+            "scripture-first": 3
+          }
+        }
       ]
     },
     {
       "text": "Which fear feels closest to home?",
       "options": [
-        { "text": "Making a move no one wise has blessed.", "weights": { "counsel-seeker": 3 } },
-        { "text": "Acting while my gut is still screaming no.", "weights": { "peace-waiter": 3 } },
-        { "text": "Sitting still so long that the opportunity passes me by.", "weights": { "bold-mover": 2, "open-door-walker": 1 } },
-        { "text": "Doing something the Bible would clearly warn me against.", "weights": { "scripture-first": 3 } }
+        {
+          "text": "Making a move no one wise has blessed.",
+          "weights": {
+            "counsel-seeker": 3
+          }
+        },
+        {
+          "text": "Acting while my gut is still screaming no.",
+          "weights": {
+            "peace-waiter": 3
+          }
+        },
+        {
+          "text": "Sitting still so long that the opportunity passes me by.",
+          "weights": {
+            "bold-mover": 2,
+            "open-door-walker": 1
+          }
+        },
+        {
+          "text": "Doing something the Bible would clearly warn me against.",
+          "weights": {
+            "scripture-first": 3
+          }
+        }
       ]
     },
     {
       "text": "How do you feel about just taking a leap of faith?",
       "options": [
-        { "text": "Only after my circle and I are aligned on it.", "weights": { "counsel-seeker": 3 } },
-        { "text": "Only when there's peace under my feet first.", "weights": { "peace-waiter": 3 } },
-        { "text": "I'll leap and trust the door was open for a reason.", "weights": { "open-door-walker": 2, "bold-mover": 1 } },
-        { "text": "Love it. If God said go, I'm not waiting for perfect conditions.", "weights": { "bold-mover": 3 } }
+        {
+          "text": "Only after my circle and I are aligned on it.",
+          "weights": {
+            "counsel-seeker": 3
+          }
+        },
+        {
+          "text": "Only when there's peace under my feet first.",
+          "weights": {
+            "peace-waiter": 3
+          }
+        },
+        {
+          "text": "I'll leap and trust the door was open for a reason.",
+          "weights": {
+            "open-door-walker": 2,
+            "bold-mover": 1
+          }
+        },
+        {
+          "text": "Love it. If God said go, I'm not waiting for perfect conditions.",
+          "weights": {
+            "bold-mover": 3
+          }
+        }
       ]
     },
     {
       "text": "Which sentence sounds the most like you?",
       "options": [
-        { "text": "In the multitude of counselors there is safety.", "weights": { "counsel-seeker": 3 } },
-        { "text": "If I don't have peace about it, the answer is no.", "weights": { "peace-waiter": 3 } },
-        { "text": "I'll keep walking and let God shut what needs shutting.", "weights": { "open-door-walker": 3 } },
-        { "text": "Faith without action isn't faith. I'd rather move and trust.", "weights": { "bold-mover": 3 } }
+        {
+          "text": "In the multitude of counselors there is safety.",
+          "weights": {
+            "counsel-seeker": 3
+          }
+        },
+        {
+          "text": "If I don't have peace about it, the answer is no.",
+          "weights": {
+            "peace-waiter": 3
+          }
+        },
+        {
+          "text": "I'll keep walking and let God shut what needs shutting.",
+          "weights": {
+            "open-door-walker": 3
+          }
+        },
+        {
+          "text": "Faith without action isn't faith. I'd rather move and trust.",
+          "weights": {
+            "bold-mover": 3
+          }
+        }
       ]
     }
   ],
@@ -100,27 +285,47 @@
     "counsel-seeker": {
       "name": "The Counsel-Seeker",
       "description": "You don't trust your own read alone, and that's actually wisdom. You bring big choices to people who love God and love you, and their input keeps you out of ditches you'd never see coming. Your blind spot: sometimes you wait for so many opinions that you drown out the still small voice. Gather counsel, then go quiet and let God get the final word.",
-      "scripture": { "text": "In the multitude of counsellors there is safety.", "reference": "Proverbs 11:14" }
+      "scripture": {
+        "text": "Where no wise guidance is, the people falleth; But in the multitude of counsellors there is safety.",
+        "reference": "Proverbs 11:14",
+        "translation": "ASV"
+      }
     },
     "peace-waiter": {
       "name": "The Peace-Waiter",
       "description": "You read God through the settledness in your spirit, and you won't move without it. That sensitivity has saved you from a lot of bad yeses. Your blind spot: peace and comfort aren't the same thing, and sometimes the right step feels scary at first. Don't mistake nerves for a no. Test the peace against His Word, not just your mood.",
-      "scripture": { "text": "And let the peace of God rule in your hearts.", "reference": "Colossians 3:15" }
+      "scripture": {
+        "text": "And let the peace of Christ rule in your hearts, to the which also ye were called in one body; and be ye thankful.",
+        "reference": "Colossians 3:15",
+        "translation": "ASV"
+      }
     },
     "open-door-walker": {
       "name": "The Open-Door Walker",
       "description": "You discern by moving. You take a step, watch what opens and what closes, and trust God to steer you mid-stride. There's real faith in that. Your blind spot: not every open door is from God, and not every closed one is a no. Pair your willingness to move with prayer and the Word, so you're following Him and not just momentum.",
-      "scripture": { "text": "A man's heart deviseth his way: but the Lord directeth his steps.", "reference": "Proverbs 16:9" }
+      "scripture": {
+        "text": "A man’s heart deviseth his way; But Jehovah directeth his steps.",
+        "reference": "Proverbs 16:9",
+        "translation": "ASV"
+      }
     },
     "scripture-first": {
       "name": "The Scripture-First",
       "description": "You go straight to the source. Before feelings or opinions, you want to know what God has already said, and that anchors you when everything else is shifting. Your blind spot: the Bible won't name which job or which city, and you can get stuck waiting for a verse to answer something it was never meant to. Let Scripture set the guardrails, then trust the Spirit and wisdom for the rest.",
-      "scripture": { "text": "Thy word is a lamp unto my feet, and a light unto my path.", "reference": "Psalm 119:105" }
+      "scripture": {
+        "text": "Thy word is a lamp unto my feet, And light unto my path.",
+        "reference": "Psalm 119:105",
+        "translation": "ASV"
+      }
     },
     "bold-mover": {
       "name": "The Bold Mover",
       "description": "You'd rather act and adjust than freeze. When you sense God in something, you go, and your courage opens doors the cautious never reach. Your blind spot: speed can outrun discernment, and not every gut feeling is the Holy Spirit. Keep the boldness, but slow down just enough to check it against counsel and Scripture before you leap.",
-      "scripture": { "text": "Be strong and of a good courage; be not afraid.", "reference": "Joshua 1:9" }
+      "scripture": {
+        "text": "Have not I commanded thee? Be strong and of good courage; be not affrighted, neither be thou dismayed: for Jehovah thy God is with thee whithersoever thou goest.",
+        "reference": "Joshua 1:9",
+        "translation": "ASV"
+      }
     }
   }
 }

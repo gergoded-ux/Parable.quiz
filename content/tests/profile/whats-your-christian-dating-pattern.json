@@ -17,73 +17,235 @@
     {
       "text": "How do your relationships usually end?",
       "options": [
-        { "text": "Right before they get serious. It's always almost.", "weights": { "serial-almost": 3 } },
-        { "text": "I pull back before anyone gets too close.", "weights": { "guarded-heart": 3 } },
-        { "text": "I burn out trying to fix or save the other person.", "weights": { "fixer": 3 } },
-        { "text": "They don't, really. I'm mostly waiting, not dating.", "weights": { "faithful-waiter": 3 } }
+        {
+          "text": "Right before they get serious. It's always almost.",
+          "weights": {
+            "serial-almost": 3
+          }
+        },
+        {
+          "text": "I pull back before anyone gets too close.",
+          "weights": {
+            "guarded-heart": 3
+          }
+        },
+        {
+          "text": "I burn out trying to fix or save the other person.",
+          "weights": {
+            "fixer": 3
+          }
+        },
+        {
+          "text": "They don't, really. I'm mostly waiting, not dating.",
+          "weights": {
+            "faithful-waiter": 3
+          }
+        }
       ]
     },
     {
       "text": "What's your honest pattern when someone shows real interest?",
       "options": [
-        { "text": "I enjoy it until it gets close, then I find a reason to stall.", "weights": { "serial-almost": 3 } },
-        { "text": "I keep one foot out the door to protect myself.", "weights": { "guarded-heart": 3 } },
-        { "text": "I size up their potential and start mentally renovating them.", "weights": { "fixer": 3 } },
-        { "text": "I move fast, picturing the wedding by date three.", "weights": { "rush-to-the-altar": 3 } }
+        {
+          "text": "I enjoy it until it gets close, then I find a reason to stall.",
+          "weights": {
+            "serial-almost": 3
+          }
+        },
+        {
+          "text": "I keep one foot out the door to protect myself.",
+          "weights": {
+            "guarded-heart": 3
+          }
+        },
+        {
+          "text": "I size up their potential and start mentally renovating them.",
+          "weights": {
+            "fixer": 3
+          }
+        },
+        {
+          "text": "I move fast, picturing the wedding by date three.",
+          "weights": {
+            "rush-to-the-altar": 3
+          }
+        }
       ]
     },
     {
       "text": "Which fear is closest to the surface in dating?",
       "options": [
-        { "text": "That if I commit, I'll miss out on someone better.", "weights": { "serial-almost": 3 } },
-        { "text": "That if I open up, I'll get hurt again.", "weights": { "guarded-heart": 3 } },
-        { "text": "That I'm only lovable if I'm needed and useful.", "weights": { "fixer": 3 } },
-        { "text": "That I'll be single forever if I don't lock it down now.", "weights": { "rush-to-the-altar": 3 } }
+        {
+          "text": "That if I commit, I'll miss out on someone better.",
+          "weights": {
+            "serial-almost": 3
+          }
+        },
+        {
+          "text": "That if I open up, I'll get hurt again.",
+          "weights": {
+            "guarded-heart": 3
+          }
+        },
+        {
+          "text": "That I'm only lovable if I'm needed and useful.",
+          "weights": {
+            "fixer": 3
+          }
+        },
+        {
+          "text": "That I'll be single forever if I don't lock it down now.",
+          "weights": {
+            "rush-to-the-altar": 3
+          }
+        }
       ]
     },
     {
       "text": "What do friends tend to say about your love life?",
       "options": [
-        { "text": "Why do you always bail right when it's getting good?", "weights": { "serial-almost": 3 } },
-        { "text": "You never really let anyone in.", "weights": { "guarded-heart": 3 } },
-        { "text": "You keep dating projects, not partners.", "weights": { "fixer": 3 } },
-        { "text": "You're so patient, maybe too patient.", "weights": { "faithful-waiter": 3 } }
+        {
+          "text": "Why do you always bail right when it's getting good?",
+          "weights": {
+            "serial-almost": 3
+          }
+        },
+        {
+          "text": "You never really let anyone in.",
+          "weights": {
+            "guarded-heart": 3
+          }
+        },
+        {
+          "text": "You keep dating projects, not partners.",
+          "weights": {
+            "fixer": 3
+          }
+        },
+        {
+          "text": "You're so patient, maybe too patient.",
+          "weights": {
+            "faithful-waiter": 3
+          }
+        }
       ]
     },
     {
       "text": "What's your relationship with commitment?",
       "options": [
-        { "text": "I want it, but I freeze the second it's actually on the table.", "weights": { "serial-almost": 3 } },
-        { "text": "I keep my heart at arm's length to stay safe.", "weights": { "guarded-heart": 3 } },
-        { "text": "I commit fast and hard to people I think I can rescue.", "weights": { "fixer": 2, "rush-to-the-altar": 1 } },
-        { "text": "I'd commit tomorrow. I just refuse to settle to get there.", "weights": { "faithful-waiter": 3 } }
+        {
+          "text": "I want it, but I freeze the second it's actually on the table.",
+          "weights": {
+            "serial-almost": 3
+          }
+        },
+        {
+          "text": "I keep my heart at arm's length to stay safe.",
+          "weights": {
+            "guarded-heart": 3
+          }
+        },
+        {
+          "text": "I commit fast and hard to people I think I can rescue.",
+          "weights": {
+            "fixer": 2,
+            "rush-to-the-altar": 1
+          }
+        },
+        {
+          "text": "I'd commit tomorrow. I just refuse to settle to get there.",
+          "weights": {
+            "faithful-waiter": 3
+          }
+        }
       ]
     },
     {
       "text": "When you imagine the right relationship, what stands out?",
       "options": [
-        { "text": "Finally feeling sure enough to actually stay.", "weights": { "serial-almost": 3 } },
-        { "text": "Feeling safe enough to take my walls down.", "weights": { "guarded-heart": 3 } },
-        { "text": "Being loved for me, not for what I do for them.", "weights": { "fixer": 3 } },
-        { "text": "The wait finally being over.", "weights": { "faithful-waiter": 2, "rush-to-the-altar": 1 } }
+        {
+          "text": "Finally feeling sure enough to actually stay.",
+          "weights": {
+            "serial-almost": 3
+          }
+        },
+        {
+          "text": "Feeling safe enough to take my walls down.",
+          "weights": {
+            "guarded-heart": 3
+          }
+        },
+        {
+          "text": "Being loved for me, not for what I do for them.",
+          "weights": {
+            "fixer": 3
+          }
+        },
+        {
+          "text": "The wait finally being over.",
+          "weights": {
+            "faithful-waiter": 2,
+            "rush-to-the-altar": 1
+          }
+        }
       ]
     },
     {
       "text": "What role does God play in your dating right now?",
       "options": [
-        { "text": "I keep asking if each one is the one, then second-guessing.", "weights": { "serial-almost": 3 } },
-        { "text": "I trust Him with my heart in theory, but I still guard it hard.", "weights": { "guarded-heart": 3 } },
-        { "text": "I think my job is to rescue people for Him.", "weights": { "fixer": 3 } },
-        { "text": "I'm holding out for His best instead of grabbing good enough.", "weights": { "faithful-waiter": 3 } }
+        {
+          "text": "I keep asking if each one is the one, then second-guessing.",
+          "weights": {
+            "serial-almost": 3
+          }
+        },
+        {
+          "text": "I trust Him with my heart in theory, but I still guard it hard.",
+          "weights": {
+            "guarded-heart": 3
+          }
+        },
+        {
+          "text": "I think my job is to rescue people for Him.",
+          "weights": {
+            "fixer": 3
+          }
+        },
+        {
+          "text": "I'm holding out for His best instead of grabbing good enough.",
+          "weights": {
+            "faithful-waiter": 3
+          }
+        }
       ]
     },
     {
       "text": "What's the loop you most want to break?",
       "options": [
-        { "text": "Always stalling at the edge of something real.", "weights": { "serial-almost": 3 } },
-        { "text": "Never letting anyone past the wall.", "weights": { "guarded-heart": 3 } },
-        { "text": "Dating people I'm trying to fix instead of love.", "weights": { "fixer": 3 } },
-        { "text": "Rushing in so fast I skip the discernment.", "weights": { "rush-to-the-altar": 3 } }
+        {
+          "text": "Always stalling at the edge of something real.",
+          "weights": {
+            "serial-almost": 3
+          }
+        },
+        {
+          "text": "Never letting anyone past the wall.",
+          "weights": {
+            "guarded-heart": 3
+          }
+        },
+        {
+          "text": "Dating people I'm trying to fix instead of love.",
+          "weights": {
+            "fixer": 3
+          }
+        },
+        {
+          "text": "Rushing in so fast I skip the discernment.",
+          "weights": {
+            "rush-to-the-altar": 3
+          }
+        }
       ]
     }
   ],
@@ -91,27 +253,47 @@
     "serial-almost": {
       "name": "The Serial Almost",
       "description": "You keep getting right to the edge of something real, and then you stall. Usually it's a quiet fear that committing means closing the door on someone better. But the grass you keep eyeing isn't greener. It's just the next almost. Real love asks you to actually stay and find out. Ask God for the courage to stop running at the exact moment things get good.",
-      "scripture": { "text": "Trust in the Lord with all your heart and lean not on your own understanding.", "reference": "Proverbs 3:5" }
+      "scripture": {
+        "text": "Trust in Jehovah with all thy heart, And lean not upon thine own understanding:",
+        "reference": "Proverbs 3:5",
+        "translation": "ASV"
+      }
     },
     "guarded-heart": {
       "name": "The Guarded Heart",
       "description": "You've been hurt before, so you keep one foot out the door and your real self behind a wall. That instinct to protect yourself makes sense, but the same wall that blocks pain blocks love too. Guarding your heart was never meant to mean sealing it shut. Let God heal the old wound so you can risk being known. The right person is worth lowering the drawbridge for.",
-      "scripture": { "text": "He heals the brokenhearted and binds up their wounds.", "reference": "Psalm 147:3" }
+      "scripture": {
+        "text": "He healeth the broken in heart, And bindeth up their wounds.",
+        "reference": "Psalm 147:3",
+        "translation": "ASV"
+      }
     },
     "fixer": {
       "name": "The Fixer",
       "description": "You fall for potential and then pour yourself out trying to rescue, repair, or rescue again. Somewhere along the way you learned you're only lovable when you're needed. But you are not a renovation project manager, and your worth was never tied to fixing someone. You deserve a partner, not a patient. Let God be the rescuer, and let yourself be simply loved.",
-      "scripture": { "text": "I have loved you with an everlasting love.", "reference": "Jeremiah 31:3" }
+      "scripture": {
+        "text": "Jehovah appeared of old unto me, saying, Yea, I have loved thee with an everlasting love: therefore with lovingkindness have I drawn thee.",
+        "reference": "Jeremiah 31:3",
+        "translation": "ASV"
+      }
     },
     "faithful-waiter": {
       "name": "The Faithful Waiter",
       "description": "You refuse to settle, and you're holding out for God's best instead of grabbing whatever's convenient. That patience is genuinely beautiful, and it's wisdom, not weakness. Just keep an honest eye on the line between holy waiting and quiet fear or impossible standards. Keep your heart open while you wait. Trust His timing, and trust that the wait is doing something good in you.",
-      "scripture": { "text": "Wait for the Lord; be strong and take heart and wait for the Lord.", "reference": "Psalm 27:14" }
+      "scripture": {
+        "text": "Wait for Jehovah: Be strong, and let thy heart take courage; Yea, wait thou for Jehovah.",
+        "reference": "Psalm 27:14",
+        "translation": "ASV"
+      }
     },
     "rush-to-the-altar": {
       "name": "The Rush-to-the-Altar",
       "description": "You fall fast and you're picturing the wedding before you really know the person, often driven by a fear of being alone. There's nothing wrong with wanting marriage. But love that lasts is built on discernment, not speed, and rushing can skip the very steps that protect you. Slow down enough to actually see who they are. God isn't in a hurry, and the right relationship can handle the pace of wisdom.",
-      "scripture": { "text": "Whoever believes will not act in haste.", "reference": "Isaiah 28:16" }
+      "scripture": {
+        "text": "therefore thus saith the Lord Jehovah, Behold, I lay in Zion for a foundation a stone, a tried stone, a precious corner-stone of sure foundation: he that believeth shall not be in haste.",
+        "reference": "Isaiah 28:16",
+        "translation": "ASV"
+      }
     }
   }
 }

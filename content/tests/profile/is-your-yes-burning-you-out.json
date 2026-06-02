@@ -17,73 +17,234 @@
     {
       "text": "Someone asks you for a favor you really don't have room for. What comes out of your mouth?",
       "options": [
-        { "text": "\"Yes, of course,\" before I've even checked if I can.", "weights": { "chronic-yes": 3 } },
-        { "text": "\"Sure,\" because saying no would make me feel terrible.", "weights": { "guilt-driven-yes": 3 } },
-        { "text": "\"Whatever you need,\" I don't really know how to decline.", "weights": { "boundary-less": 3 } },
-        { "text": "\"Let me check and get back to you.\" I'm practicing the pause.", "weights": { "learning-to-say-no": 3 } }
+        {
+          "text": "\"Yes, of course,\" before I've even checked if I can.",
+          "weights": {
+            "chronic-yes": 3
+          }
+        },
+        {
+          "text": "\"Sure,\" because saying no would make me feel terrible.",
+          "weights": {
+            "guilt-driven-yes": 3
+          }
+        },
+        {
+          "text": "\"Whatever you need,\" I don't really know how to decline.",
+          "weights": {
+            "boundary-less": 3
+          }
+        },
+        {
+          "text": "\"Let me check and get back to you.\" I'm practicing the pause.",
+          "weights": {
+            "learning-to-say-no": 3
+          }
+        }
       ]
     },
     {
       "text": "How's your resentment level these days?",
       "options": [
-        { "text": "High. I'm quietly furious at people I keep showing up for.", "weights": { "chronic-yes": 3 } },
-        { "text": "Bubbling. I feel used, then guilty for feeling used.", "weights": { "guilt-driven-yes": 3 } },
-        { "text": "Constant low-grade bitterness I can't quite trace.", "weights": { "boundary-less": 3 } },
-        { "text": "Dropping, actually, the more I let myself say no.", "weights": { "learning-to-say-no": 2, "healthy-boundaries": 1 } }
+        {
+          "text": "High. I'm quietly furious at people I keep showing up for.",
+          "weights": {
+            "chronic-yes": 3
+          }
+        },
+        {
+          "text": "Bubbling. I feel used, then guilty for feeling used.",
+          "weights": {
+            "guilt-driven-yes": 3
+          }
+        },
+        {
+          "text": "Constant low-grade bitterness I can't quite trace.",
+          "weights": {
+            "boundary-less": 3
+          }
+        },
+        {
+          "text": "Dropping, actually, the more I let myself say no.",
+          "weights": {
+            "learning-to-say-no": 2,
+            "healthy-boundaries": 1
+          }
+        }
       ]
     },
     {
       "text": "What usually drives your yes?",
       "options": [
-        { "text": "Habit. I say it on autopilot and pay for it later.", "weights": { "chronic-yes": 3 } },
-        { "text": "Guilt. If I say no, I'll feel like a bad person.", "weights": { "guilt-driven-yes": 3 } },
-        { "text": "I genuinely don't know where I end and others begin.", "weights": { "boundary-less": 3 } },
-        { "text": "These days, a real choice, not just reflex.", "weights": { "healthy-boundaries": 3 } }
+        {
+          "text": "Habit. I say it on autopilot and pay for it later.",
+          "weights": {
+            "chronic-yes": 3
+          }
+        },
+        {
+          "text": "Guilt. If I say no, I'll feel like a bad person.",
+          "weights": {
+            "guilt-driven-yes": 3
+          }
+        },
+        {
+          "text": "I genuinely don't know where I end and others begin.",
+          "weights": {
+            "boundary-less": 3
+          }
+        },
+        {
+          "text": "These days, a real choice, not just reflex.",
+          "weights": {
+            "healthy-boundaries": 3
+          }
+        }
       ]
     },
     {
       "text": "When you picture turning someone down, what do you feel?",
       "options": [
-        { "text": "Panic. I'd rather burn out than disappoint anyone.", "weights": { "chronic-yes": 3 } },
-        { "text": "Crushing guilt, like I've failed them.", "weights": { "guilt-driven-yes": 3 } },
-        { "text": "Total blankness. I don't even know how to start.", "weights": { "boundary-less": 3 } },
-        { "text": "A little nervous, but I can do it now if I need to.", "weights": { "learning-to-say-no": 3 } }
+        {
+          "text": "Panic. I'd rather burn out than disappoint anyone.",
+          "weights": {
+            "chronic-yes": 3
+          }
+        },
+        {
+          "text": "Crushing guilt, like I've failed them.",
+          "weights": {
+            "guilt-driven-yes": 3
+          }
+        },
+        {
+          "text": "Total blankness. I don't even know how to start.",
+          "weights": {
+            "boundary-less": 3
+          }
+        },
+        {
+          "text": "A little nervous, but I can do it now if I need to.",
+          "weights": {
+            "learning-to-say-no": 3
+          }
+        }
       ]
     },
     {
       "text": "How full is your plate right now?",
       "options": [
-        { "text": "Overflowing, and I keep adding to it anyway.", "weights": { "chronic-yes": 3 } },
-        { "text": "Crammed with things I agreed to so no one would be upset.", "weights": { "guilt-driven-yes": 3 } },
-        { "text": "I genuinely couldn't tell you. There's no line anywhere.", "weights": { "boundary-less": 3 } },
-        { "text": "Manageable, because I've started protecting my limits.", "weights": { "healthy-boundaries": 3 } }
+        {
+          "text": "Overflowing, and I keep adding to it anyway.",
+          "weights": {
+            "chronic-yes": 3
+          }
+        },
+        {
+          "text": "Crammed with things I agreed to so no one would be upset.",
+          "weights": {
+            "guilt-driven-yes": 3
+          }
+        },
+        {
+          "text": "I genuinely couldn't tell you. There's no line anywhere.",
+          "weights": {
+            "boundary-less": 3
+          }
+        },
+        {
+          "text": "Manageable, because I've started protecting my limits.",
+          "weights": {
+            "healthy-boundaries": 3
+          }
+        }
       ]
     },
     {
       "text": "Who tends to come last in your life?",
       "options": [
-        { "text": "Me, always. Everyone else gets the best of me.", "weights": { "chronic-yes": 3 } },
-        { "text": "Me, but I tell myself that's what a good Christian does.", "weights": { "guilt-driven-yes": 3 } },
-        { "text": "Me, and honestly I forget I'm even on the list.", "weights": { "boundary-less": 3 } },
-        { "text": "Not me, not anymore. I'm learning I count too.", "weights": { "learning-to-say-no": 3 } }
+        {
+          "text": "Me, always. Everyone else gets the best of me.",
+          "weights": {
+            "chronic-yes": 3
+          }
+        },
+        {
+          "text": "Me, but I tell myself that's what a good Christian does.",
+          "weights": {
+            "guilt-driven-yes": 3
+          }
+        },
+        {
+          "text": "Me, and honestly I forget I'm even on the list.",
+          "weights": {
+            "boundary-less": 3
+          }
+        },
+        {
+          "text": "Not me, not anymore. I'm learning I count too.",
+          "weights": {
+            "learning-to-say-no": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you believe about rest and limits?",
       "options": [
-        { "text": "That stopping means letting people down.", "weights": { "chronic-yes": 3 } },
-        { "text": "That needing a break makes me selfish.", "weights": { "guilt-driven-yes": 3 } },
-        { "text": "Limits? I'm not sure I've ever really had one.", "weights": { "boundary-less": 3 } },
-        { "text": "That even Jesus pulled away from the crowd. So can I.", "weights": { "healthy-boundaries": 3 } }
+        {
+          "text": "That stopping means letting people down.",
+          "weights": {
+            "chronic-yes": 3
+          }
+        },
+        {
+          "text": "That needing a break makes me selfish.",
+          "weights": {
+            "guilt-driven-yes": 3
+          }
+        },
+        {
+          "text": "Limits? I'm not sure I've ever really had one.",
+          "weights": {
+            "boundary-less": 3
+          }
+        },
+        {
+          "text": "That even Jesus pulled away from the crowd. So can I.",
+          "weights": {
+            "healthy-boundaries": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you most need to hear right now?",
       "options": [
-        { "text": "You're heading for a wall, and you're allowed to slow down before you hit it.", "weights": { "chronic-yes": 3 } },
-        { "text": "No is not a sin. You can disappoint someone and still be good.", "weights": { "guilt-driven-yes": 3 } },
-        { "text": "It's safe to have a limit. You are not endless, and that's okay.", "weights": { "boundary-less": 3 } },
-        { "text": "Keep going. Every no you practice is making room for the right yes.", "weights": { "learning-to-say-no": 3 } }
+        {
+          "text": "You're heading for a wall, and you're allowed to slow down before you hit it.",
+          "weights": {
+            "chronic-yes": 3
+          }
+        },
+        {
+          "text": "No is not a sin. You can disappoint someone and still be good.",
+          "weights": {
+            "guilt-driven-yes": 3
+          }
+        },
+        {
+          "text": "It's safe to have a limit. You are not endless, and that's okay.",
+          "weights": {
+            "boundary-less": 3
+          }
+        },
+        {
+          "text": "Keep going. Every no you practice is making room for the right yes.",
+          "weights": {
+            "learning-to-say-no": 3
+          }
+        }
       ]
     }
   ],
@@ -91,27 +252,47 @@
     "chronic-yes": {
       "name": "Chronic Yes (heading for collapse)",
       "description": "You say yes on autopilot, and you're quietly running toward a wall. The resentment is the warning light: you can't pour out forever without something cracking. Here's what you need to hear. Slowing down isn't letting people down. It's keeping yourself whole enough to actually love them. Even Jesus didn't meet every need or heal every person in town. He withdrew. You're allowed to do the same, and the sooner the better. One honest no this week could save you from a collapse later.",
-      "scripture": { "text": "But Jesus often withdrew to lonely places and prayed.", "reference": "Luke 5:16" }
+      "scripture": {
+        "text": "But he withdrew himself in the deserts, and prayed.",
+        "reference": "Luke 5:16",
+        "translation": "ASV"
+      }
     },
     "guilt-driven-yes": {
       "name": "Guilt-Driven Yes",
       "description": "Your yes is powered by guilt, not love. You agree to things because saying no makes you feel like a bad person, and then you feel used, and then you feel guilty for feeling used. It's an exhausting loop. But notice the lie underneath it: that a good Christian never disappoints anyone. That isn't in the Bible. You can let someone down and still be faithful. No is a complete sentence, and it is not a sin. Let your yes mean yes because you chose it, not because guilt forced your hand.",
-      "scripture": { "text": "Let your yes be yes, and your no be no.", "reference": "Matthew 5:37" }
+      "scripture": {
+        "text": "But let your speech be, Yea, yea; Nay, nay: and whatsoever is more than these is of the evil one.",
+        "reference": "Matthew 5:37",
+        "translation": "ASV"
+      }
     },
     "boundary-less": {
       "name": "Boundary-Less",
       "description": "You genuinely don't know where you end and other people begin. There's no line anywhere, so everything flows in, and you've been carrying a low bitterness you can't even trace to a source. The trace is simple: it's the cost of having no limits. Here's the freeing truth. You are not endless, and you were never meant to be. Having a boundary isn't unloving. It's how you keep something left to give. Start small. Notice one thing that drains you, and give yourself permission to say no to it.",
-      "scripture": { "text": "Above all else, guard your heart, for everything you do flows from it.", "reference": "Proverbs 4:23" }
+      "scripture": {
+        "text": "Keep thy heart with all diligence; For out of it are the issues of life.",
+        "reference": "Proverbs 4:23",
+        "translation": "ASV"
+      }
     },
     "learning-to-say-no": {
       "name": "Learning to Say No",
       "description": "You're in the middle of something brave. You're practicing the pause, getting back to people instead of blurting yes, and letting yourself decline even when it's uncomfortable. It still makes you nervous, and that's normal. But notice the resentment dropping. That's proof this is working. Every no you practice is clearing space for the yes that actually matters. Keep going gently. You're not becoming selfish. You're becoming someone who can give from a full cup instead of an empty one.",
-      "scripture": { "text": "There is a time for everything, a time to embrace and a time to refrain.", "reference": "Ecclesiastes 3:1,5" }
+      "scripture": {
+        "text": "For everything there is a season, and a time for every purpose under heaven:",
+        "reference": "Ecclesiastes 3:1",
+        "translation": "ASV"
+      }
     },
     "healthy-boundaries": {
       "name": "Healthy Boundaries",
       "description": "You've figured out something a lot of people never do. Your yes is a real choice now, not a reflex, and your no comes without a mountain of guilt. You protect your limits the way Jesus pulled away from the crowds, and because of it you actually have something left to give. This is what sustainable looks like. Keep tending it, and don't let anyone shame you back into endless availability. The peace you've built is worth guarding, and your example might just free someone else to do the same.",
-      "scripture": { "text": "Each of you should carry your own load.", "reference": "Galatians 6:5" }
+      "scripture": {
+        "text": "For each man shall bear his own burden.",
+        "reference": "Galatians 6:5",
+        "translation": "ASV"
+      }
     }
   }
 }

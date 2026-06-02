@@ -17,82 +17,272 @@
     {
       "text": "When a hard question about your faith hits you, what does it feel like?",
       "options": [
-        { "text": "Curiosity. I actually want to dig in and find out.", "weights": { "healthy-questioning": 3 } },
-        { "text": "Like I'm pulling a brick out to see if the wall holds.", "weights": { "deconstruction-toward-rebuilding": 3 } },
-        { "text": "Like the whole thing might be a story I outgrew.", "weights": { "deconstruction-toward-exit": 2, "stuck-in-the-rubble": 1 } },
-        { "text": "A punch to the gut. It's tied to something that hurt.", "weights": { "faith-crisis": 3 } }
+        {
+          "text": "Curiosity. I actually want to dig in and find out.",
+          "weights": {
+            "healthy-questioning": 3
+          }
+        },
+        {
+          "text": "Like I'm pulling a brick out to see if the wall holds.",
+          "weights": {
+            "deconstruction-toward-rebuilding": 3
+          }
+        },
+        {
+          "text": "Like the whole thing might be a story I outgrew.",
+          "weights": {
+            "deconstruction-toward-exit": 2,
+            "stuck-in-the-rubble": 1
+          }
+        },
+        {
+          "text": "A punch to the gut. It's tied to something that hurt.",
+          "weights": {
+            "faith-crisis": 3
+          }
+        }
       ]
     },
     {
       "text": "Be honest. What started all this?",
       "options": [
-        { "text": "Nothing dramatic. I just got curious and wanted depth.", "weights": { "healthy-questioning": 3 } },
-        { "text": "I realized I'd never actually examined what I was handed.", "weights": { "deconstruction-toward-rebuilding": 2, "healthy-questioning": 1 } },
-        { "text": "I kept seeing things that didn't add up, and I got tired.", "weights": { "deconstruction-toward-exit": 3 } },
-        { "text": "Something broke me. A loss, a betrayal, a prayer God didn't answer.", "weights": { "faith-crisis": 3 } }
+        {
+          "text": "Nothing dramatic. I just got curious and wanted depth.",
+          "weights": {
+            "healthy-questioning": 3
+          }
+        },
+        {
+          "text": "I realized I'd never actually examined what I was handed.",
+          "weights": {
+            "deconstruction-toward-rebuilding": 2,
+            "healthy-questioning": 1
+          }
+        },
+        {
+          "text": "I kept seeing things that didn't add up, and I got tired.",
+          "weights": {
+            "deconstruction-toward-exit": 3
+          }
+        },
+        {
+          "text": "Something broke me. A loss, a betrayal, a prayer God didn't answer.",
+          "weights": {
+            "faith-crisis": 3
+          }
+        }
       ]
     },
     {
       "text": "How do you feel about God in all of this?",
       "options": [
-        { "text": "Close, honestly. The questions feel safe to ask Him.", "weights": { "healthy-questioning": 3 } },
-        { "text": "Still here. I'm sorting beliefs, not walking away from Him.", "weights": { "deconstruction-toward-rebuilding": 3 } },
-        { "text": "Distant. I'm not sure He's who I was told He was.", "weights": { "deconstruction-toward-exit": 2, "stuck-in-the-rubble": 1 } },
-        { "text": "Angry and confused. I want Him and I'm furious at Him.", "weights": { "faith-crisis": 3 } }
+        {
+          "text": "Close, honestly. The questions feel safe to ask Him.",
+          "weights": {
+            "healthy-questioning": 3
+          }
+        },
+        {
+          "text": "Still here. I'm sorting beliefs, not walking away from Him.",
+          "weights": {
+            "deconstruction-toward-rebuilding": 3
+          }
+        },
+        {
+          "text": "Distant. I'm not sure He's who I was told He was.",
+          "weights": {
+            "deconstruction-toward-exit": 2,
+            "stuck-in-the-rubble": 1
+          }
+        },
+        {
+          "text": "Angry and confused. I want Him and I'm furious at Him.",
+          "weights": {
+            "faith-crisis": 3
+          }
+        }
       ]
     },
     {
       "text": "When you picture the end of all this questioning, what's there?",
       "options": [
-        { "text": "A faith that's deeper and more mine than before.", "weights": { "healthy-questioning": 2, "deconstruction-toward-rebuilding": 1 } },
-        { "text": "Something rebuilt. Same foundation, honest new walls.", "weights": { "deconstruction-toward-rebuilding": 3 } },
-        { "text": "Life outside of it. I'm not sure I'm coming back.", "weights": { "deconstruction-toward-exit": 3 } },
-        { "text": "I genuinely can't picture an end. That's the scary part.", "weights": { "stuck-in-the-rubble": 3 } }
+        {
+          "text": "A faith that's deeper and more mine than before.",
+          "weights": {
+            "healthy-questioning": 2,
+            "deconstruction-toward-rebuilding": 1
+          }
+        },
+        {
+          "text": "Something rebuilt. Same foundation, honest new walls.",
+          "weights": {
+            "deconstruction-toward-rebuilding": 3
+          }
+        },
+        {
+          "text": "Life outside of it. I'm not sure I'm coming back.",
+          "weights": {
+            "deconstruction-toward-exit": 3
+          }
+        },
+        {
+          "text": "I genuinely can't picture an end. That's the scary part.",
+          "weights": {
+            "stuck-in-the-rubble": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you do with the parts of your old faith you've set down?",
       "options": [
-        { "text": "I haven't set much down. I'm adding, not subtracting.", "weights": { "healthy-questioning": 3 } },
-        { "text": "I'm keeping what's true and gently releasing what was control.", "weights": { "deconstruction-toward-rebuilding": 3 } },
-        { "text": "I've packed most of it in a box and moved on.", "weights": { "deconstruction-toward-exit": 3 } },
-        { "text": "They're in a pile on the floor and I can't deal with them yet.", "weights": { "stuck-in-the-rubble": 2, "faith-crisis": 1 } }
+        {
+          "text": "I haven't set much down. I'm adding, not subtracting.",
+          "weights": {
+            "healthy-questioning": 3
+          }
+        },
+        {
+          "text": "I'm keeping what's true and gently releasing what was control.",
+          "weights": {
+            "deconstruction-toward-rebuilding": 3
+          }
+        },
+        {
+          "text": "I've packed most of it in a box and moved on.",
+          "weights": {
+            "deconstruction-toward-exit": 3
+          }
+        },
+        {
+          "text": "They're in a pile on the floor and I can't deal with them yet.",
+          "weights": {
+            "stuck-in-the-rubble": 2,
+            "faith-crisis": 1
+          }
+        }
       ]
     },
     {
       "text": "Who knows what you're going through right now?",
       "options": [
-        { "text": "My pastor or a mentor. I'm asking out loud, in the open.", "weights": { "healthy-questioning": 3 } },
-        { "text": "A few safe people who let me wrestle without panicking.", "weights": { "deconstruction-toward-rebuilding": 3 } },
-        { "text": "Mostly people who've also left. They get it.", "weights": { "deconstruction-toward-exit": 3 } },
-        { "text": "Almost no one. I'm doing this alone and it's heavy.", "weights": { "stuck-in-the-rubble": 2, "faith-crisis": 1 } }
+        {
+          "text": "My pastor or a mentor. I'm asking out loud, in the open.",
+          "weights": {
+            "healthy-questioning": 3
+          }
+        },
+        {
+          "text": "A few safe people who let me wrestle without panicking.",
+          "weights": {
+            "deconstruction-toward-rebuilding": 3
+          }
+        },
+        {
+          "text": "Mostly people who've also left. They get it.",
+          "weights": {
+            "deconstruction-toward-exit": 3
+          }
+        },
+        {
+          "text": "Almost no one. I'm doing this alone and it's heavy.",
+          "weights": {
+            "stuck-in-the-rubble": 2,
+            "faith-crisis": 1
+          }
+        }
       ]
     },
     {
       "text": "Which sentence sounds the most like you lately?",
       "options": [
-        { "text": "I love God and I have a lot of questions. Both are fine.", "weights": { "healthy-questioning": 3 } },
-        { "text": "I'm tearing down to build something that can actually hold.", "weights": { "deconstruction-toward-rebuilding": 3 } },
-        { "text": "I think I'm done, and saying it out loud is a relief.", "weights": { "deconstruction-toward-exit": 3 } },
-        { "text": "I don't know what I believe anymore and it terrifies me.", "weights": { "faith-crisis": 2, "stuck-in-the-rubble": 1 } }
+        {
+          "text": "I love God and I have a lot of questions. Both are fine.",
+          "weights": {
+            "healthy-questioning": 3
+          }
+        },
+        {
+          "text": "I'm tearing down to build something that can actually hold.",
+          "weights": {
+            "deconstruction-toward-rebuilding": 3
+          }
+        },
+        {
+          "text": "I think I'm done, and saying it out loud is a relief.",
+          "weights": {
+            "deconstruction-toward-exit": 3
+          }
+        },
+        {
+          "text": "I don't know what I believe anymore and it terrifies me.",
+          "weights": {
+            "faith-crisis": 2,
+            "stuck-in-the-rubble": 1
+          }
+        }
       ]
     },
     {
       "text": "What happens in your body when you walk into a church?",
       "options": [
-        { "text": "Nothing bad. I might even ask the harder questions there.", "weights": { "healthy-questioning": 3 } },
-        { "text": "Some tension, but I want a healthier version of this.", "weights": { "deconstruction-toward-rebuilding": 3 } },
-        { "text": "I tense up. I'd rather not go back at all.", "weights": { "deconstruction-toward-exit": 2, "faith-crisis": 1 } },
-        { "text": "A wave of grief I can't explain. So I avoid it.", "weights": { "faith-crisis": 2, "stuck-in-the-rubble": 1 } }
+        {
+          "text": "Nothing bad. I might even ask the harder questions there.",
+          "weights": {
+            "healthy-questioning": 3
+          }
+        },
+        {
+          "text": "Some tension, but I want a healthier version of this.",
+          "weights": {
+            "deconstruction-toward-rebuilding": 3
+          }
+        },
+        {
+          "text": "I tense up. I'd rather not go back at all.",
+          "weights": {
+            "deconstruction-toward-exit": 2,
+            "faith-crisis": 1
+          }
+        },
+        {
+          "text": "A wave of grief I can't explain. So I avoid it.",
+          "weights": {
+            "faith-crisis": 2,
+            "stuck-in-the-rubble": 1
+          }
+        }
       ]
     },
     {
       "text": "Deep down, what are you actually hoping for?",
       "options": [
-        { "text": "To understand more, not less. Faith with its eyes open.", "weights": { "healthy-questioning": 3 } },
-        { "text": "To find the real thing under all the human mess.", "weights": { "deconstruction-toward-rebuilding": 3 } },
-        { "text": "To stop forcing something that hasn't fit me in years.", "weights": { "deconstruction-toward-exit": 3 } },
-        { "text": "For the pain to stop and for solid ground to come back.", "weights": { "faith-crisis": 2, "stuck-in-the-rubble": 1 } }
+        {
+          "text": "To understand more, not less. Faith with its eyes open.",
+          "weights": {
+            "healthy-questioning": 3
+          }
+        },
+        {
+          "text": "To find the real thing under all the human mess.",
+          "weights": {
+            "deconstruction-toward-rebuilding": 3
+          }
+        },
+        {
+          "text": "To stop forcing something that hasn't fit me in years.",
+          "weights": {
+            "deconstruction-toward-exit": 3
+          }
+        },
+        {
+          "text": "For the pain to stop and for solid ground to come back.",
+          "weights": {
+            "faith-crisis": 2,
+            "stuck-in-the-rubble": 1
+          }
+        }
       ]
     }
   ],
@@ -100,27 +290,47 @@
     "healthy-questioning": {
       "name": "Healthy Questioning (faith-building)",
       "description": "What you're doing isn't dangerous. It's how a real faith grows up. You're not pulling the foundation out, you're inspecting it, and that's allowed. Keep asking out loud. The God you're questioning is not nervous about your questions, and the honest ones tend to lead you closer in.",
-      "scripture": { "text": "Ask, and it shall be given you; seek, and ye shall find.", "reference": "Matthew 7:7" }
+      "scripture": {
+        "text": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you:",
+        "reference": "Matthew 7:7",
+        "translation": "ASV"
+      }
     },
     "deconstruction-toward-rebuilding": {
       "name": "Deconstruction Toward Rebuilding",
       "description": "You're taking the whole thing apart, but not to throw it away. You're sorting what's actually God from what was just culture, fear, or control. That's holy work, even when it's messy. Keep what's true, set down what was never His, and let Him rebuild something that can finally hold your weight.",
-      "scripture": { "text": "For other foundation can no man lay than that is laid, which is Jesus Christ.", "reference": "1 Corinthians 3:11" }
+      "scripture": {
+        "text": "For other foundation can no man lay than that which is laid, which is Jesus Christ.",
+        "reference": "1 Corinthians 3:11",
+        "translation": "ASV"
+      }
     },
     "deconstruction-toward-exit": {
       "name": "Deconstruction Toward Exit",
       "description": "You're near the door, and you've got reasons. A lot of what you're walking away from probably deserved to be walked away from. Before you go all the way, give yourself one honest question: are you done with God, or done with what people made of Him? Those are very different doors. He won't chase you with shame, but He is still here.",
-      "scripture": { "text": "Lord, to whom shall we go? thou hast the words of eternal life.", "reference": "John 6:68" }
+      "scripture": {
+        "text": "Simon Peter answered him, Lord, to whom shall we go? thou hast the words of eternal life.",
+        "reference": "John 6:68",
+        "translation": "ASV"
+      }
     },
     "faith-crisis": {
       "name": "Faith Crisis (pain-driven)",
       "description": "This isn't really about doctrine for you. Something hurt you, and your faith got caught in the blast. That's not a sin, and it's not weakness. It's grief. You're allowed to be angry at God and still be holding on to Him. Some of the Bible's most honest prayers came from people in exactly your spot.",
-      "scripture": { "text": "My God, my God, why hast thou forsaken me?", "reference": "Psalm 22:1" }
+      "scripture": {
+        "text": "My God, my God, why hast thou forsaken me? Why art thou sofar from helping me, and from the words of my groaning?",
+        "reference": "Psalm 22:1",
+        "translation": "ASV"
+      }
     },
     "stuck-in-the-rubble": {
       "name": "Stuck in the Rubble",
       "description": "Everything got taken apart and now you're just sitting in the pieces, not sure how to move. That frozen feeling is real, and you don't have to climb out today. But please don't do this alone. One safe person who won't flinch at your honesty can change everything. You're not lost. You're in between, and God meets people right there.",
-      "scripture": { "text": "The Lord is nigh unto them that are of a broken heart.", "reference": "Psalm 34:18" }
+      "scripture": {
+        "text": "Jehovah is nigh unto them that are of a broken heart, And saveth such as are of a contrite spirit.",
+        "reference": "Psalm 34:18",
+        "translation": "ASV"
+      }
     }
   }
 }

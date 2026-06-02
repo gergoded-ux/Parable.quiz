@@ -16,82 +16,264 @@
     {
       "text": "Which quiet fear sits closest to your heart?",
       "options": [
-        { "text": "That if people really knew me, they'd see I'm a fraud.", "weights": { "being-found-out": 3 } },
-        { "text": "That I could vanish and no one would really notice.", "weights": { "not-mattering": 3 } },
-        { "text": "That if I show the real me, people will pull away.", "weights": { "rejection": 3 } },
-        { "text": "That everyone is moving ahead while I stay stuck.", "weights": { "falling-behind": 3 } }
+        {
+          "text": "That if people really knew me, they'd see I'm a fraud.",
+          "weights": {
+            "being-found-out": 3
+          }
+        },
+        {
+          "text": "That I could vanish and no one would really notice.",
+          "weights": {
+            "not-mattering": 3
+          }
+        },
+        {
+          "text": "That if I show the real me, people will pull away.",
+          "weights": {
+            "rejection": 3
+          }
+        },
+        {
+          "text": "That everyone is moving ahead while I stay stuck.",
+          "weights": {
+            "falling-behind": 3
+          }
+        }
       ]
     },
     {
       "text": "When you walk into a room full of people, your gut says...",
       "options": [
-        { "text": "\"Don't let them see how unqualified I really am.\"", "weights": { "being-found-out": 3 } },
-        { "text": "\"Would anyone even care that I'm here?\"", "weights": { "not-mattering": 3 } },
-        { "text": "\"I hope they like me. I hope I'm not too much.\"", "weights": { "rejection": 3 } },
-        { "text": "\"Everyone here seems further along than me.\"", "weights": { "falling-behind": 3 } }
+        {
+          "text": "\"Don't let them see how unqualified I really am.\"",
+          "weights": {
+            "being-found-out": 3
+          }
+        },
+        {
+          "text": "\"Would anyone even care that I'm here?\"",
+          "weights": {
+            "not-mattering": 3
+          }
+        },
+        {
+          "text": "\"I hope they like me. I hope I'm not too much.\"",
+          "weights": {
+            "rejection": 3
+          }
+        },
+        {
+          "text": "\"Everyone here seems further along than me.\"",
+          "weights": {
+            "falling-behind": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you work hardest to hide from people?",
       "options": [
-        { "text": "How much I'm secretly winging it.", "weights": { "being-found-out": 3 } },
-        { "text": "How invisible and small I often feel.", "weights": { "not-mattering": 3 } },
-        { "text": "The parts of me I'm sure would scare people off.", "weights": { "rejection": 3 } },
-        { "text": "How behind I feel compared to my peers.", "weights": { "falling-behind": 3 } }
+        {
+          "text": "How much I'm secretly winging it.",
+          "weights": {
+            "being-found-out": 3
+          }
+        },
+        {
+          "text": "How invisible and small I often feel.",
+          "weights": {
+            "not-mattering": 3
+          }
+        },
+        {
+          "text": "The parts of me I'm sure would scare people off.",
+          "weights": {
+            "rejection": 3
+          }
+        },
+        {
+          "text": "How behind I feel compared to my peers.",
+          "weights": {
+            "falling-behind": 3
+          }
+        }
       ]
     },
     {
       "text": "Which compliment is hardest for you to actually believe?",
       "options": [
-        { "text": "\"You're so good at what you do.\"", "weights": { "being-found-out": 3 } },
-        { "text": "\"You make such a difference.\"", "weights": { "not-mattering": 3 } },
-        { "text": "\"I love being around you.\"", "weights": { "rejection": 3 } },
-        { "text": "\"You're exactly where you need to be.\"", "weights": { "falling-behind": 3 } }
+        {
+          "text": "\"You're so good at what you do.\"",
+          "weights": {
+            "being-found-out": 3
+          }
+        },
+        {
+          "text": "\"You make such a difference.\"",
+          "weights": {
+            "not-mattering": 3
+          }
+        },
+        {
+          "text": "\"I love being around you.\"",
+          "weights": {
+            "rejection": 3
+          }
+        },
+        {
+          "text": "\"You're exactly where you need to be.\"",
+          "weights": {
+            "falling-behind": 3
+          }
+        }
       ]
     },
     {
       "text": "What story does your insecurity replay most?",
       "options": [
-        { "text": "A time I felt exposed as not good enough.", "weights": { "being-found-out": 3 } },
-        { "text": "A time I was overlooked like I wasn't there.", "weights": { "not-mattering": 3 } },
-        { "text": "A time someone I trusted turned away from me.", "weights": { "rejection": 3 } },
-        { "text": "A time I realized everyone had passed me by.", "weights": { "falling-behind": 3 } }
+        {
+          "text": "A time I felt exposed as not good enough.",
+          "weights": {
+            "being-found-out": 3
+          }
+        },
+        {
+          "text": "A time I was overlooked like I wasn't there.",
+          "weights": {
+            "not-mattering": 3
+          }
+        },
+        {
+          "text": "A time someone I trusted turned away from me.",
+          "weights": {
+            "rejection": 3
+          }
+        },
+        {
+          "text": "A time I realized everyone had passed me by.",
+          "weights": {
+            "falling-behind": 3
+          }
+        }
       ]
     },
     {
       "text": "When you scroll through other people's lives, what stings?",
       "options": [
-        { "text": "They seem so capable, and I feel like a pretender.", "weights": { "being-found-out": 3 } },
-        { "text": "Everyone seems to matter to someone but me.", "weights": { "not-mattering": 2, "rejection": 1 } },
-        { "text": "The fear that I'd never fit into their circle.", "weights": { "rejection": 3 } },
-        { "text": "Engaged, promoted, settled, and here I am, behind.", "weights": { "falling-behind": 3 } }
+        {
+          "text": "They seem so capable, and I feel like a pretender.",
+          "weights": {
+            "being-found-out": 3
+          }
+        },
+        {
+          "text": "Everyone seems to matter to someone but me.",
+          "weights": {
+            "not-mattering": 2,
+            "rejection": 1
+          }
+        },
+        {
+          "text": "The fear that I'd never fit into their circle.",
+          "weights": {
+            "rejection": 3
+          }
+        },
+        {
+          "text": "Engaged, promoted, settled, and here I am, behind.",
+          "weights": {
+            "falling-behind": 3
+          }
+        }
       ]
     },
     {
       "text": "How does this insecurity quietly steer your choices?",
       "options": [
-        { "text": "I overprepare so no one can call me out.", "weights": { "being-found-out": 3 } },
-        { "text": "I overdo things hoping to finally be seen.", "weights": { "not-mattering": 3 } },
-        { "text": "I shrink myself so no one has a reason to leave.", "weights": { "rejection": 3 } },
-        { "text": "I push and hustle, terrified of being left behind.", "weights": { "falling-behind": 3 } }
+        {
+          "text": "I overprepare so no one can call me out.",
+          "weights": {
+            "being-found-out": 3
+          }
+        },
+        {
+          "text": "I overdo things hoping to finally be seen.",
+          "weights": {
+            "not-mattering": 3
+          }
+        },
+        {
+          "text": "I shrink myself so no one has a reason to leave.",
+          "weights": {
+            "rejection": 3
+          }
+        },
+        {
+          "text": "I push and hustle, terrified of being left behind.",
+          "weights": {
+            "falling-behind": 3
+          }
+        }
       ]
     },
     {
       "text": "Late at night, the lie you almost believe is...",
       "options": [
-        { "text": "\"You're a fraud, and it's only a matter of time.\"", "weights": { "being-found-out": 3 } },
-        { "text": "\"You don't really matter to anyone.\"", "weights": { "not-mattering": 3 } },
-        { "text": "\"The real you is too much, and people will leave.\"", "weights": { "rejection": 3 } },
-        { "text": "\"You're falling behind and you'll never catch up.\"", "weights": { "falling-behind": 3 } }
+        {
+          "text": "\"You're a fraud, and it's only a matter of time.\"",
+          "weights": {
+            "being-found-out": 3
+          }
+        },
+        {
+          "text": "\"You don't really matter to anyone.\"",
+          "weights": {
+            "not-mattering": 3
+          }
+        },
+        {
+          "text": "\"The real you is too much, and people will leave.\"",
+          "weights": {
+            "rejection": 3
+          }
+        },
+        {
+          "text": "\"You're falling behind and you'll never catch up.\"",
+          "weights": {
+            "falling-behind": 3
+          }
+        }
       ]
     },
     {
       "text": "What would actually quiet this fear for you?",
       "options": [
-        { "text": "Knowing I'm fully known and still accepted.", "weights": { "being-found-out": 2, "rejection": 1 } },
-        { "text": "Knowing my life genuinely counts for something.", "weights": { "not-mattering": 3 } },
-        { "text": "Knowing there's a love I can't be cast out of.", "weights": { "rejection": 3 } },
-        { "text": "Trusting I'm right on time, on God's clock.", "weights": { "falling-behind": 3 } }
+        {
+          "text": "Knowing I'm fully known and still accepted.",
+          "weights": {
+            "being-found-out": 2,
+            "rejection": 1
+          }
+        },
+        {
+          "text": "Knowing my life genuinely counts for something.",
+          "weights": {
+            "not-mattering": 3
+          }
+        },
+        {
+          "text": "Knowing there's a love I can't be cast out of.",
+          "weights": {
+            "rejection": 3
+          }
+        },
+        {
+          "text": "Trusting I'm right on time, on God's clock.",
+          "weights": {
+            "falling-behind": 3
+          }
+        }
       ]
     }
   ],
@@ -99,22 +281,38 @@
     "being-found-out": {
       "name": "Fear of Being Found Out",
       "description": "Underneath the competence is a quiet dread that one day people will see you're just winging it. You overprepare, you brace for exposure, and you rarely feel like you've earned the praise. Here's what the fear forgets: you're already fully known by God, down to the parts you hide, and He hasn't walked away. You don't have to keep auditioning for acceptance you already have. Being known and still loved is the very thing you've been afraid to risk, and with Him it's already true.",
-      "scripture": { "text": "You have searched me, Lord, and you know me.", "reference": "Psalm 139:1" }
+      "scripture": {
+        "text": "O Jehovah, thou hast searched me, and knownme.",
+        "reference": "Psalm 139:1",
+        "translation": "ASV"
+      }
     },
     "not-mattering": {
       "name": "Fear of Not Mattering",
       "description": "Somewhere you picked up the fear that you could disappear and no one would notice. So you overextend, hoping to finally be seen. But your worth was never measured by who's watching. God knows the number of hairs on your head and calls you His own. You matter to the One whose opinion outweighs every room you've ever felt invisible in. Let that be the voice you believe, louder than the silence that made you doubt.",
-      "scripture": { "text": "Even the very hairs of your head are all numbered.", "reference": "Luke 12:7" }
+      "scripture": {
+        "text": "But the very hairs of your head are all numbered. Fear not: ye are of more value than many sparrows.",
+        "reference": "Luke 12:7",
+        "translation": "ASV"
+      }
     },
     "rejection": {
       "name": "Fear of Rejection",
       "description": "You keep the real you tucked away, sure that if people saw all of it, they'd leave. So you shrink, you manage how you come across, you stay a little hidden. But there's one love you cannot be rejected from. God chose you with full knowledge of everything you're hiding, and nothing about you can separate you from it. You're already accepted at the deepest level. Let that security loosen the grip of the fear that someone will walk away.",
-      "scripture": { "text": "Nothing will be able to separate us from the love of God.", "reference": "Romans 8:39" }
+      "scripture": {
+        "text": "nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord.",
+        "reference": "Romans 8:39",
+        "translation": "ASV"
+      }
     },
     "falling-behind": {
       "name": "Fear of Falling Behind",
       "description": "Everyone seems to be ahead, and you carry a low hum of panic that you'll never catch up. But you're comparing your pace to a race God never entered you in. Your life isn't late just because it doesn't match someone else's timeline. He has a season for everything, including yours, and He's not rushing you or forgetting you. Lift your eyes off the scoreboard. You're not behind. You're exactly where His grace is meeting you right now.",
-      "scripture": { "text": "He has made everything beautiful in its time.", "reference": "Ecclesiastes 3:11" }
+      "scripture": {
+        "text": "He hath made everything beautiful in its time: also he hath set eternity in their heart, yet so that man cannot find out the work that God hath done from the beginning even to the end.",
+        "reference": "Ecclesiastes 3:11",
+        "translation": "ASV"
+      }
     }
   }
 }

@@ -6,78 +6,247 @@
   "category": "spiritual-profile",
   "estimatedMinutes": 5,
   "mode": "profile",
-  "dimensions": ["honest-lament", "safe-community", "rediscovering-jesus", "therapy-and-time", "finding-the-door"],
+  "dimensions": [
+    "honest-lament",
+    "safe-community",
+    "rediscovering-jesus",
+    "therapy-and-time",
+    "finding-the-door"
+  ],
   "questions": [
     {
       "text": "When you think about God now, what comes up first?",
       "options": [
-        { "text": "A lot of unspoken anger I haven't let myself say out loud.", "weights": { "honest-lament": 3 } },
-        { "text": "Longing for real people who'd be safe with my faith.", "weights": { "safe-community": 3 } },
-        { "text": "A quiet wish to know Jesus without all the church baggage.", "weights": { "rediscovering-jesus": 3 } },
-        { "text": "Honestly, I'm not sure I'm ready to think about Him yet.", "weights": { "finding-the-door": 3 } }
+        {
+          "text": "A lot of unspoken anger I haven't let myself say out loud.",
+          "weights": {
+            "honest-lament": 3
+          }
+        },
+        {
+          "text": "Longing for real people who'd be safe with my faith.",
+          "weights": {
+            "safe-community": 3
+          }
+        },
+        {
+          "text": "A quiet wish to know Jesus without all the church baggage.",
+          "weights": {
+            "rediscovering-jesus": 3
+          }
+        },
+        {
+          "text": "Honestly, I'm not sure I'm ready to think about Him yet.",
+          "weights": {
+            "finding-the-door": 3
+          }
+        }
       ]
     },
     {
       "text": "What got tangled up the most when you were hurt?",
       "options": [
-        { "text": "My ability to be honest with God without fear.", "weights": { "honest-lament": 3 } },
-        { "text": "My trust in being part of any faith group again.", "weights": { "safe-community": 3 } },
-        { "text": "My picture of who Jesus actually is.", "weights": { "rediscovering-jesus": 3 } },
-        { "text": "My whole sense of self. I'm still untangling it in therapy.", "weights": { "therapy-and-time": 3 } }
+        {
+          "text": "My ability to be honest with God without fear.",
+          "weights": {
+            "honest-lament": 3
+          }
+        },
+        {
+          "text": "My trust in being part of any faith group again.",
+          "weights": {
+            "safe-community": 3
+          }
+        },
+        {
+          "text": "My picture of who Jesus actually is.",
+          "weights": {
+            "rediscovering-jesus": 3
+          }
+        },
+        {
+          "text": "My whole sense of self. I'm still untangling it in therapy.",
+          "weights": {
+            "therapy-and-time": 3
+          }
+        }
       ]
     },
     {
       "text": "Which sentence feels truest right now?",
       "options": [
-        { "text": "I need to tell God how much it hurt before I can move.", "weights": { "honest-lament": 3 } },
-        { "text": "I need a few safe people more than I need a building.", "weights": { "safe-community": 3 } },
-        { "text": "I need to meet Jesus again, outside the rules I was given.", "weights": { "rediscovering-jesus": 3 } },
-        { "text": "I need time, and probably some real help, to heal.", "weights": { "therapy-and-time": 3 } }
+        {
+          "text": "I need to tell God how much it hurt before I can move.",
+          "weights": {
+            "honest-lament": 3
+          }
+        },
+        {
+          "text": "I need a few safe people more than I need a building.",
+          "weights": {
+            "safe-community": 3
+          }
+        },
+        {
+          "text": "I need to meet Jesus again, outside the rules I was given.",
+          "weights": {
+            "rediscovering-jesus": 3
+          }
+        },
+        {
+          "text": "I need time, and probably some real help, to heal.",
+          "weights": {
+            "therapy-and-time": 3
+          }
+        }
       ]
     },
     {
       "text": "When you imagine reconnecting with faith, what feels possible?",
       "options": [
-        { "text": "Pouring out the raw stuff and trusting He can take it.", "weights": { "honest-lament": 3 } },
-        { "text": "A small circle of people who actually get it.", "weights": { "safe-community": 3 } },
-        { "text": "Reading the Gospels fresh, like I'm meeting Him for the first time.", "weights": { "rediscovering-jesus": 3 } },
-        { "text": "Slow steps, with a counselor walking it with me.", "weights": { "therapy-and-time": 3 } }
+        {
+          "text": "Pouring out the raw stuff and trusting He can take it.",
+          "weights": {
+            "honest-lament": 3
+          }
+        },
+        {
+          "text": "A small circle of people who actually get it.",
+          "weights": {
+            "safe-community": 3
+          }
+        },
+        {
+          "text": "Reading the Gospels fresh, like I'm meeting Him for the first time.",
+          "weights": {
+            "rediscovering-jesus": 3
+          }
+        },
+        {
+          "text": "Slow steps, with a counselor walking it with me.",
+          "weights": {
+            "therapy-and-time": 3
+          }
+        }
       ]
     },
     {
       "text": "What still makes you flinch a little?",
       "options": [
-        { "text": "Pretending I'm fine when I'm clearly not.", "weights": { "honest-lament": 3 } },
-        { "text": "Big crowds and polished services.", "weights": { "safe-community": 2, "finding-the-door": 1 } },
-        { "text": "Rules and performance dressed up as faith.", "weights": { "rediscovering-jesus": 3 } },
-        { "text": "Anything that rushes me before I'm ready.", "weights": { "therapy-and-time": 2, "finding-the-door": 1 } }
+        {
+          "text": "Pretending I'm fine when I'm clearly not.",
+          "weights": {
+            "honest-lament": 3
+          }
+        },
+        {
+          "text": "Big crowds and polished services.",
+          "weights": {
+            "safe-community": 2,
+            "finding-the-door": 1
+          }
+        },
+        {
+          "text": "Rules and performance dressed up as faith.",
+          "weights": {
+            "rediscovering-jesus": 3
+          }
+        },
+        {
+          "text": "Anything that rushes me before I'm ready.",
+          "weights": {
+            "therapy-and-time": 2,
+            "finding-the-door": 1
+          }
+        }
       ]
     },
     {
       "text": "What does a tiny step toward God look like for you?",
       "options": [
-        { "text": "Writing Him an honest, unfiltered letter.", "weights": { "honest-lament": 3 } },
-        { "text": "Coffee with one trustworthy believer.", "weights": { "safe-community": 3 } },
-        { "text": "Reading one story about Jesus with fresh eyes.", "weights": { "rediscovering-jesus": 3 } },
-        { "text": "Booking the appointment I keep putting off.", "weights": { "therapy-and-time": 3 } }
+        {
+          "text": "Writing Him an honest, unfiltered letter.",
+          "weights": {
+            "honest-lament": 3
+          }
+        },
+        {
+          "text": "Coffee with one trustworthy believer.",
+          "weights": {
+            "safe-community": 3
+          }
+        },
+        {
+          "text": "Reading one story about Jesus with fresh eyes.",
+          "weights": {
+            "rediscovering-jesus": 3
+          }
+        },
+        {
+          "text": "Booking the appointment I keep putting off.",
+          "weights": {
+            "therapy-and-time": 3
+          }
+        }
       ]
     },
     {
       "text": "Deep down, what do you most need to hear?",
       "options": [
-        { "text": "Your anger doesn't scare me. Tell me everything.", "weights": { "honest-lament": 3 } },
-        { "text": "You belong with people who'll handle your heart gently.", "weights": { "safe-community": 3 } },
-        { "text": "I'm not like the ones who hurt you.", "weights": { "rediscovering-jesus": 3 } },
-        { "text": "There's no clock on your healing.", "weights": { "therapy-and-time": 2, "finding-the-door": 1 } }
+        {
+          "text": "Your anger doesn't scare me. Tell me everything.",
+          "weights": {
+            "honest-lament": 3
+          }
+        },
+        {
+          "text": "You belong with people who'll handle your heart gently.",
+          "weights": {
+            "safe-community": 3
+          }
+        },
+        {
+          "text": "I'm not like the ones who hurt you.",
+          "weights": {
+            "rediscovering-jesus": 3
+          }
+        },
+        {
+          "text": "There's no clock on your healing.",
+          "weights": {
+            "therapy-and-time": 2,
+            "finding-the-door": 1
+          }
+        }
       ]
     },
     {
       "text": "Where would you honestly place yourself today?",
       "options": [
-        { "text": "Mid-lament. I'm finally letting it out.", "weights": { "honest-lament": 3 } },
-        { "text": "Cautiously looking for my people.", "weights": { "safe-community": 3 } },
-        { "text": "Quietly falling back in love with Jesus Himself.", "weights": { "rediscovering-jesus": 3 } },
-        { "text": "Still standing outside, not sure how to walk back in.", "weights": { "finding-the-door": 3 } }
+        {
+          "text": "Mid-lament. I'm finally letting it out.",
+          "weights": {
+            "honest-lament": 3
+          }
+        },
+        {
+          "text": "Cautiously looking for my people.",
+          "weights": {
+            "safe-community": 3
+          }
+        },
+        {
+          "text": "Quietly falling back in love with Jesus Himself.",
+          "weights": {
+            "rediscovering-jesus": 3
+          }
+        },
+        {
+          "text": "Still standing outside, not sure how to walk back in.",
+          "weights": {
+            "finding-the-door": 3
+          }
+        }
       ]
     }
   ],
@@ -85,27 +254,47 @@
     "honest-lament": {
       "name": "Through Honest Lament",
       "description": "Your way back runs straight through the truth of what happened. You don't need to tidy your feelings before you bring them to God. He can hold your anger, your grief, your why. A huge chunk of the Psalms is exactly this: people crying out, complaining, even accusing, and still being met. Lament doesn't offend God. It's one of the most honest forms of faith there is, and it's the door He's holding open for you.",
-      "scripture": { "text": "How long wilt thou forget me, O Lord? for ever? how long wilt thou hide thy face from me?", "reference": "Psalm 13:1" }
+      "scripture": {
+        "text": "How long, O Jehovah? wilt thou forget me for ever? How long wilt thou hide thy face from me?",
+        "reference": "Psalm 13:1",
+        "translation": "ASV"
+      }
     },
     "safe-community": {
       "name": "Through a Safe Small Community",
       "description": "You're not looking for a stage or a crowd. You're looking for a few people who feel safe, and that instinct is wise. God often heals church hurt through the church done right: a small, honest circle where you can be seen without performing. Start tiny. One trustworthy person is enough to begin. The same God who let people wound you also has people ready to handle your heart with care.",
-      "scripture": { "text": "Two are better than one; because they have a good reward for their labour. For if they fall, the one will lift up his fellow.", "reference": "Ecclesiastes 4:9-10" }
+      "scripture": {
+        "text": "Two are better than one, because they have a good reward for their labor. For if they fall, the one will lift up his fellow; but woe to him that is alone when he falleth, and hath not another to lift him up.",
+        "reference": "Ecclesiastes 4:9-10",
+        "translation": "ASV"
+      }
     },
     "rediscovering-jesus": {
       "name": "Through Rediscovering Jesus Apart From Religion",
       "description": "Somewhere along the way, the rules and the people got mixed up with God Himself. Your path back is meeting Jesus again, clean, outside the systems that hurt you. And when you do, you'll find He was the one flipping tables over religious abuse, the one gentle with the wounded and fierce toward those who crushed them. He is not like the ones who hurt you. Go read the Gospels like you've never met Him. You'll be surprised who you find.",
-      "scripture": { "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.", "reference": "Matthew 11:28" }
+      "scripture": {
+        "text": "Come unto me, all ye that labor and are heavy laden, and I will give you rest.",
+        "reference": "Matthew 11:28",
+        "translation": "ASV"
+      }
     },
     "therapy-and-time": {
       "name": "Through Therapy and Time",
       "description": "Your healing is going to take both help and patience, and choosing that is brave, not weak. Some wounds need a skilled, safe person to walk you through them, and there's no shame in that. God works through good counselors and through slow seasons. He isn't tapping His foot waiting for you to hurry. Take the steps you can, get the support you need, and trust that He's in the unhurried work of putting you back together.",
-      "scripture": { "text": "He healeth the broken in heart, and bindeth up their wounds.", "reference": "Psalm 147:3" }
+      "scripture": {
+        "text": "He healeth the broken in heart, And bindeth up their wounds.",
+        "reference": "Psalm 147:3",
+        "translation": "ASV"
+      }
     },
     "finding-the-door": {
       "name": "Still Finding the Door",
       "description": "You're not back yet, and you're being honest about that instead of faking it. That honesty matters more than you know. You don't have to have it figured out, and you don't have to rush. Even standing at the edge, unsure, you are not far from God. He's been waiting at the door this whole time, in no hurry, ready whenever you are. The wanting to find the way back is itself the beginning of the way back.",
-      "scripture": { "text": "And ye shall seek me, and find me, when ye shall search for me with all your heart.", "reference": "Jeremiah 29:13" }
+      "scripture": {
+        "text": "And ye shall seek me, and find me, when ye shall search for me with all your heart.",
+        "reference": "Jeremiah 29:13",
+        "translation": "ASV"
+      }
     }
   }
 }

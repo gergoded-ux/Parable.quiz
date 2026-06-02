@@ -17,82 +17,263 @@
     {
       "text": "When you think about God lately, what's the pull you feel?",
       "options": [
-        { "text": "Honestly, He's slowly fading into the background.", "weights": { "drifting-out": 3 } },
-        { "text": "Stuck. I've hit a wall I can't seem to get past.", "weights": { "stuck-at-wall": 3 } },
-        { "text": "A quiet tug back toward Him I'm just starting to follow.", "weights": { "quietly-returning": 3 } },
-        { "text": "A real desire to build something deeper than before.", "weights": { "rebuilding-stronger": 3 } }
+        {
+          "text": "Honestly, He's slowly fading into the background.",
+          "weights": {
+            "drifting-out": 3
+          }
+        },
+        {
+          "text": "Stuck. I've hit a wall I can't seem to get past.",
+          "weights": {
+            "stuck-at-wall": 3
+          }
+        },
+        {
+          "text": "A quiet tug back toward Him I'm just starting to follow.",
+          "weights": {
+            "quietly-returning": 3
+          }
+        },
+        {
+          "text": "A real desire to build something deeper than before.",
+          "weights": {
+            "rebuilding-stronger": 3
+          }
+        }
       ]
     },
     {
       "text": "What's your prayer life look like right now?",
       "options": [
-        { "text": "Mostly gone. I rarely think to pray anymore.", "weights": { "drifting-out": 3 } },
-        { "text": "Stalled. I want to but the words won't come.", "weights": { "stuck-at-wall": 3 } },
-        { "text": "Tentative. I've started whispering to Him again.", "weights": { "quietly-returning": 3 } },
-        { "text": "Honest and hungry. I'm hitting a turning point.", "weights": { "prodigal-turning-point": 3 } }
+        {
+          "text": "Mostly gone. I rarely think to pray anymore.",
+          "weights": {
+            "drifting-out": 3
+          }
+        },
+        {
+          "text": "Stalled. I want to but the words won't come.",
+          "weights": {
+            "stuck-at-wall": 3
+          }
+        },
+        {
+          "text": "Tentative. I've started whispering to Him again.",
+          "weights": {
+            "quietly-returning": 3
+          }
+        },
+        {
+          "text": "Honest and hungry. I'm hitting a turning point.",
+          "weights": {
+            "prodigal-turning-point": 3
+          }
+        }
       ]
     },
     {
       "text": "How do you feel when faith comes up in conversation?",
       "options": [
-        { "text": "Distant, like it's someone else's thing now.", "weights": { "drifting-out": 3 } },
-        { "text": "Conflicted, full of questions I can't resolve.", "weights": { "stuck-at-wall": 3 } },
-        { "text": "A soft ache that makes me want to lean back in.", "weights": { "quietly-returning": 3 } },
-        { "text": "Energized, like I'm finding it again on firmer ground.", "weights": { "rebuilding-stronger": 3 } }
+        {
+          "text": "Distant, like it's someone else's thing now.",
+          "weights": {
+            "drifting-out": 3
+          }
+        },
+        {
+          "text": "Conflicted, full of questions I can't resolve.",
+          "weights": {
+            "stuck-at-wall": 3
+          }
+        },
+        {
+          "text": "A soft ache that makes me want to lean back in.",
+          "weights": {
+            "quietly-returning": 3
+          }
+        },
+        {
+          "text": "Energized, like I'm finding it again on firmer ground.",
+          "weights": {
+            "rebuilding-stronger": 3
+          }
+        }
       ]
     },
     {
       "text": "What's the honest reason you've pulled back, if you have?",
       "options": [
-        { "text": "Life got busy and faith just quietly slipped away.", "weights": { "drifting-out": 3 } },
-        { "text": "Deep questions or pain that nobody could answer.", "weights": { "stuck-at-wall": 3 } },
-        { "text": "I wandered, and now I miss what I left.", "weights": { "prodigal-turning-point": 3 } },
-        { "text": "I needed to tear down a faith that wasn't really mine.", "weights": { "rebuilding-stronger": 2, "stuck-at-wall": 1 } }
+        {
+          "text": "Life got busy and faith just quietly slipped away.",
+          "weights": {
+            "drifting-out": 3
+          }
+        },
+        {
+          "text": "Deep questions or pain that nobody could answer.",
+          "weights": {
+            "stuck-at-wall": 3
+          }
+        },
+        {
+          "text": "I wandered, and now I miss what I left.",
+          "weights": {
+            "prodigal-turning-point": 3
+          }
+        },
+        {
+          "text": "I needed to tear down a faith that wasn't really mine.",
+          "weights": {
+            "rebuilding-stronger": 2,
+            "stuck-at-wall": 1
+          }
+        }
       ]
     },
     {
       "text": "When you picture coming back to God, what comes up?",
       "options": [
-        { "text": "Not much. I'm not sure I even want to.", "weights": { "drifting-out": 3 } },
-        { "text": "I want to, but I don't know how to get unstuck.", "weights": { "stuck-at-wall": 3 } },
-        { "text": "A little hope, and a little fear about how He'll receive me.", "weights": { "quietly-returning": 3 } },
-        { "text": "Relief, like I'm finally ready to turn around.", "weights": { "prodigal-turning-point": 3 } }
+        {
+          "text": "Not much. I'm not sure I even want to.",
+          "weights": {
+            "drifting-out": 3
+          }
+        },
+        {
+          "text": "I want to, but I don't know how to get unstuck.",
+          "weights": {
+            "stuck-at-wall": 3
+          }
+        },
+        {
+          "text": "A little hope, and a little fear about how He'll receive me.",
+          "weights": {
+            "quietly-returning": 3
+          }
+        },
+        {
+          "text": "Relief, like I'm finally ready to turn around.",
+          "weights": {
+            "prodigal-turning-point": 3
+          }
+        }
       ]
     },
     {
       "text": "Which direction does your heart actually seem to be moving?",
       "options": [
-        { "text": "Away, a little more each month.", "weights": { "drifting-out": 3 } },
-        { "text": "Nowhere. I'm just frozen in place.", "weights": { "stuck-at-wall": 3 } },
-        { "text": "Slowly back toward Him, step by step.", "weights": { "quietly-returning": 3 } },
-        { "text": "Forward into something stronger than I had.", "weights": { "rebuilding-stronger": 3 } }
+        {
+          "text": "Away, a little more each month.",
+          "weights": {
+            "drifting-out": 3
+          }
+        },
+        {
+          "text": "Nowhere. I'm just frozen in place.",
+          "weights": {
+            "stuck-at-wall": 3
+          }
+        },
+        {
+          "text": "Slowly back toward Him, step by step.",
+          "weights": {
+            "quietly-returning": 3
+          }
+        },
+        {
+          "text": "Forward into something stronger than I had.",
+          "weights": {
+            "rebuilding-stronger": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you do with your doubts and questions?",
       "options": [
-        { "text": "I've stopped engaging them. I'm just drifting.", "weights": { "drifting-out": 3 } },
-        { "text": "They keep me pinned. I can't move past them.", "weights": { "stuck-at-wall": 3 } },
-        { "text": "I'm starting to bring them honestly back to God.", "weights": { "quietly-returning": 3 } },
-        { "text": "I've worked through a lot and come out steadier.", "weights": { "rebuilding-stronger": 3 } }
+        {
+          "text": "I've stopped engaging them. I'm just drifting.",
+          "weights": {
+            "drifting-out": 3
+          }
+        },
+        {
+          "text": "They keep me pinned. I can't move past them.",
+          "weights": {
+            "stuck-at-wall": 3
+          }
+        },
+        {
+          "text": "I'm starting to bring them honestly back to God.",
+          "weights": {
+            "quietly-returning": 3
+          }
+        },
+        {
+          "text": "I've worked through a lot and come out steadier.",
+          "weights": {
+            "rebuilding-stronger": 3
+          }
+        }
       ]
     },
     {
       "text": "What would you say you most need right now?",
       "options": [
-        { "text": "Something to wake me up before I drift too far.", "weights": { "drifting-out": 3 } },
-        { "text": "A way through the wall that's been blocking me.", "weights": { "stuck-at-wall": 3 } },
-        { "text": "Courage to take the next small step home.", "weights": { "quietly-returning": 3 } },
-        { "text": "To run toward Him now that my mind's made up.", "weights": { "prodigal-turning-point": 3 } }
+        {
+          "text": "Something to wake me up before I drift too far.",
+          "weights": {
+            "drifting-out": 3
+          }
+        },
+        {
+          "text": "A way through the wall that's been blocking me.",
+          "weights": {
+            "stuck-at-wall": 3
+          }
+        },
+        {
+          "text": "Courage to take the next small step home.",
+          "weights": {
+            "quietly-returning": 3
+          }
+        },
+        {
+          "text": "To run toward Him now that my mind's made up.",
+          "weights": {
+            "prodigal-turning-point": 3
+          }
+        }
       ]
     },
     {
       "text": "Which sentence is closest to where you are?",
       "options": [
-        { "text": "I'm quietly slipping away and barely notice.", "weights": { "drifting-out": 3 } },
-        { "text": "I'm stuck at a wall and can't see the other side.", "weights": { "stuck-at-wall": 3 } },
-        { "text": "I'm finding my way back, one step at a time.", "weights": { "quietly-returning": 3 } },
-        { "text": "I've turned around, and I'm heading home.", "weights": { "prodigal-turning-point": 3 } }
+        {
+          "text": "I'm quietly slipping away and barely notice.",
+          "weights": {
+            "drifting-out": 3
+          }
+        },
+        {
+          "text": "I'm stuck at a wall and can't see the other side.",
+          "weights": {
+            "stuck-at-wall": 3
+          }
+        },
+        {
+          "text": "I'm finding my way back, one step at a time.",
+          "weights": {
+            "quietly-returning": 3
+          }
+        },
+        {
+          "text": "I've turned around, and I'm heading home.",
+          "weights": {
+            "prodigal-turning-point": 3
+          }
+        }
       ]
     }
   ],
@@ -100,27 +281,47 @@
     "drifting-out": {
       "name": "Drifting Out",
       "description": "Right now the current is carrying you away, not by some big dramatic decision, but by a slow quiet drift you barely notice from day to day. That's actually the most common way faith fades, and the fact that you took this quiz says a part of you doesn't want to keep drifting. Here's the hope: drifting is reversible, and you don't have to swim all the way back today. One honest prayer, one verse, one turn of your attention. God isn't far from a heart that's still even a little bit looking for Him.",
-      "scripture": { "text": "We must pay the most careful attention, therefore, to what we have heard, so that we do not drift away.", "reference": "Hebrews 2:1" }
+      "scripture": {
+        "text": "Therefore we ought to give the more earnest heed to the things that were heard, lest haply we drift away from them.",
+        "reference": "Hebrews 2:1",
+        "translation": "ASV"
+      }
     },
     "stuck-at-wall": {
       "name": "Stuck at the Wall",
       "description": "You're not walking away and you're not moving forward. You're stuck at a wall, pinned by questions or pain that nobody's been able to answer. This place is exhausting, but it's also where a lot of deep faith gets forged. The wall isn't a dead end, and being stuck here doesn't mean you've failed. Sometimes the way through is simply staying honest with God right where you are, and asking Him to meet you in it. He's patient with people at the wall. He doesn't rush them past it.",
-      "scripture": { "text": "He reached down from on high and took hold of me; he drew me out of deep waters.", "reference": "Psalm 18:16" }
+      "scripture": {
+        "text": "He sent from on high, he took me; He drew me out of many waters.",
+        "reference": "Psalm 18:16",
+        "translation": "ASV"
+      }
     },
     "quietly-returning": {
       "name": "Quietly Returning",
       "description": "Something is drawing you back, and you're starting to follow it, even if it's tentative and a little scary. That soft tug you feel isn't your imagination. It's grace, gently pulling you home. You might be unsure how God will receive you after the distance, so let this settle in: He's not standing back with crossed arms. He's the kind of Father who runs. Take the next small step. You'll find Him already moving toward you faster than you're moving toward Him.",
-      "scripture": { "text": "Return to me, and I will return to you, says the Lord Almighty.", "reference": "Malachi 3:7" }
+      "scripture": {
+        "text": "From the days of your fathers ye have turned aside from mine ordinances, and have not kept them. Return unto me, and I will return unto you, saith Jehovah of hosts. But ye say, Wherein shall we return?",
+        "reference": "Malachi 3:7",
+        "translation": "ASV"
+      }
     },
     "rebuilding-stronger": {
       "name": "Rebuilding Stronger",
       "description": "You're not just coming back, you're building something sturdier than what you had before. You've worked through hard questions and come out the other side with a faith that's more honest and more yours. That's a beautiful place to be. The faith that gets tested and rebuilt tends to hold weight the inherited version never could. Keep laying those bricks, stay tender toward people still stuck or drifting, and trust that the One who started this good work in you is faithful to finish it.",
-      "scripture": { "text": "Being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus.", "reference": "Philippians 1:6" }
+      "scripture": {
+        "text": "being confident of this very thing, that he who began a good work in you will perfect it until the day of Jesus Christ:",
+        "reference": "Philippians 1:6",
+        "translation": "ASV"
+      }
     },
     "prodigal-turning-point": {
       "name": "The Prodigal Turning Point",
       "description": "You've reached the moment in the story where the heart turns around. The wandering has run its course, and something in you has decided it's time to head home. This is the prodigal's exact turning point, the one where he came to his senses and got up to go back. And you already know how that story ends. The father didn't wait at the door with a list of conditions. He saw his son far off and ran. That welcome is waiting for you too. Don't slow down. Run.",
-      "scripture": { "text": "But while he was still a long way off, his father saw him and was filled with compassion for him; he ran to his son, threw his arms around him and kissed him.", "reference": "Luke 15:20" }
+      "scripture": {
+        "text": "And he arose, and came to his father. But while he was yet afar off, his father saw him, and was moved with compassion, and ran, and fell on his neck, and kissed him.",
+        "reference": "Luke 15:20",
+        "translation": "ASV"
+      }
     }
   }
 }

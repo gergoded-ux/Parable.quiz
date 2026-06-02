@@ -19,82 +19,264 @@
     {
       "text": "What does your anxiety circle around most?",
       "options": [
-        { "text": "Losing someone or something I can't bear to lose.", "weights": { "psalm-23": 3 } },
-        { "text": "Everything feeling chaotic and out of control.", "weights": { "psalm-46": 3 } },
-        { "text": "Something bad happening to me or the people I love.", "weights": { "psalm-91": 3 } },
-        { "text": "Feeling invisible, like no one really sees me.", "weights": { "psalm-139": 3 } }
+        {
+          "text": "Losing someone or something I can't bear to lose.",
+          "weights": {
+            "psalm-23": 3
+          }
+        },
+        {
+          "text": "Everything feeling chaotic and out of control.",
+          "weights": {
+            "psalm-46": 3
+          }
+        },
+        {
+          "text": "Something bad happening to me or the people I love.",
+          "weights": {
+            "psalm-91": 3
+          }
+        },
+        {
+          "text": "Feeling invisible, like no one really sees me.",
+          "weights": {
+            "psalm-139": 3
+          }
+        }
       ]
     },
     {
       "text": "If you had to name the feeling in one breath, it's...",
       "options": [
-        { "text": "Plain afraid, right here, right now.", "weights": { "psalm-56": 3 } },
-        { "text": "Dread about what's coming down the road.", "weights": { "psalm-121": 3 } },
-        { "text": "Drowning. The worries just keep piling up.", "weights": { "psalm-34": 3 } },
-        { "text": "Shaken, like the ground under me won't hold.", "weights": { "psalm-46": 3 } }
+        {
+          "text": "Plain afraid, right here, right now.",
+          "weights": {
+            "psalm-56": 3
+          }
+        },
+        {
+          "text": "Dread about what's coming down the road.",
+          "weights": {
+            "psalm-121": 3
+          }
+        },
+        {
+          "text": "Drowning. The worries just keep piling up.",
+          "weights": {
+            "psalm-34": 3
+          }
+        },
+        {
+          "text": "Shaken, like the ground under me won't hold.",
+          "weights": {
+            "psalm-46": 3
+          }
+        }
       ]
     },
     {
       "text": "When you can't sleep, where does your mind go?",
       "options": [
-        { "text": "To grief, and the fear of walking through dark valleys.", "weights": { "psalm-23": 3 } },
-        { "text": "To worst-case scenarios about safety and harm.", "weights": { "psalm-91": 3 } },
-        { "text": "To whether anyone would even notice if I unraveled.", "weights": { "psalm-139": 3 } },
-        { "text": "To tomorrow, and everything that could go wrong.", "weights": { "psalm-121": 3 } }
+        {
+          "text": "To grief, and the fear of walking through dark valleys.",
+          "weights": {
+            "psalm-23": 3
+          }
+        },
+        {
+          "text": "To worst-case scenarios about safety and harm.",
+          "weights": {
+            "psalm-91": 3
+          }
+        },
+        {
+          "text": "To whether anyone would even notice if I unraveled.",
+          "weights": {
+            "psalm-139": 3
+          }
+        },
+        {
+          "text": "To tomorrow, and everything that could go wrong.",
+          "weights": {
+            "psalm-121": 3
+          }
+        }
       ]
     },
     {
       "text": "What would bring you the most relief to hear right now?",
       "options": [
-        { "text": "You'll be cared for and led, even through the valley.", "weights": { "psalm-23": 3 } },
-        { "text": "Be still. I'm God, and I've got this chaos.", "weights": { "psalm-46": 3 } },
-        { "text": "You're safe. I'm a shelter over you.", "weights": { "psalm-91": 3 } },
-        { "text": "I see you completely, and I'm right beside you.", "weights": { "psalm-139": 3 } }
+        {
+          "text": "You'll be cared for and led, even through the valley.",
+          "weights": {
+            "psalm-23": 3
+          }
+        },
+        {
+          "text": "Be still. I'm God, and I've got this chaos.",
+          "weights": {
+            "psalm-46": 3
+          }
+        },
+        {
+          "text": "You're safe. I'm a shelter over you.",
+          "weights": {
+            "psalm-91": 3
+          }
+        },
+        {
+          "text": "I see you completely, and I'm right beside you.",
+          "weights": {
+            "psalm-139": 3
+          }
+        }
       ]
     },
     {
       "text": "How does the fear usually show up in your body?",
       "options": [
-        { "text": "A racing heart and shaky hands in the actual moment.", "weights": { "psalm-56": 3 } },
-        { "text": "A pit in my stomach when I think about the future.", "weights": { "psalm-121": 3 } },
-        { "text": "A heavy, sinking, overwhelmed feeling.", "weights": { "psalm-34": 3 } },
-        { "text": "Tension, like I'm always braced for danger.", "weights": { "psalm-91": 2, "psalm-56": 1 } }
+        {
+          "text": "A racing heart and shaky hands in the actual moment.",
+          "weights": {
+            "psalm-56": 3
+          }
+        },
+        {
+          "text": "A pit in my stomach when I think about the future.",
+          "weights": {
+            "psalm-121": 3
+          }
+        },
+        {
+          "text": "A heavy, sinking, overwhelmed feeling.",
+          "weights": {
+            "psalm-34": 3
+          }
+        },
+        {
+          "text": "Tension, like I'm always braced for danger.",
+          "weights": {
+            "psalm-91": 2,
+            "psalm-56": 1
+          }
+        }
       ]
     },
     {
       "text": "What's the story underneath the worry?",
       "options": [
-        { "text": "I've lost before, and I'm scared of losing again.", "weights": { "psalm-23": 3 } },
-        { "text": "Too much is changing too fast all at once.", "weights": { "psalm-46": 3 } },
-        { "text": "I feel overlooked, like I don't matter to anyone.", "weights": { "psalm-139": 3 } },
-        { "text": "I'm just plain scared today and need help now.", "weights": { "psalm-56": 3 } }
+        {
+          "text": "I've lost before, and I'm scared of losing again.",
+          "weights": {
+            "psalm-23": 3
+          }
+        },
+        {
+          "text": "Too much is changing too fast all at once.",
+          "weights": {
+            "psalm-46": 3
+          }
+        },
+        {
+          "text": "I feel overlooked, like I don't matter to anyone.",
+          "weights": {
+            "psalm-139": 3
+          }
+        },
+        {
+          "text": "I'm just plain scared today and need help now.",
+          "weights": {
+            "psalm-56": 3
+          }
+        }
       ]
     },
     {
       "text": "Which promise would you want to write on your wall?",
       "options": [
-        { "text": "Even in the darkest valley, I am with you.", "weights": { "psalm-23": 3 } },
-        { "text": "God is our refuge and strength, always there in trouble.", "weights": { "psalm-46": 3 } },
-        { "text": "He'll command His angels to guard you.", "weights": { "psalm-91": 3 } },
-        { "text": "Your help comes from the Maker of heaven and earth.", "weights": { "psalm-121": 3 } }
+        {
+          "text": "Even in the darkest valley, I am with you.",
+          "weights": {
+            "psalm-23": 3
+          }
+        },
+        {
+          "text": "God is our refuge and strength, always there in trouble.",
+          "weights": {
+            "psalm-46": 3
+          }
+        },
+        {
+          "text": "He'll command His angels to guard you.",
+          "weights": {
+            "psalm-91": 3
+          }
+        },
+        {
+          "text": "Your help comes from the Maker of heaven and earth.",
+          "weights": {
+            "psalm-121": 3
+          }
+        }
       ]
     },
     {
       "text": "When the anxiety peaks, what do you most want to do?",
       "options": [
-        { "text": "Hand my fear straight to God the instant it hits.", "weights": { "psalm-56": 3 } },
-        { "text": "Pour out the whole flood of worry and be heard.", "weights": { "psalm-34": 3 } },
-        { "text": "Be reminded that Someone is watching over me.", "weights": { "psalm-121": 3 } },
-        { "text": "Feel deeply known instead of so alone in it.", "weights": { "psalm-139": 3 } }
+        {
+          "text": "Hand my fear straight to God the instant it hits.",
+          "weights": {
+            "psalm-56": 3
+          }
+        },
+        {
+          "text": "Pour out the whole flood of worry and be heard.",
+          "weights": {
+            "psalm-34": 3
+          }
+        },
+        {
+          "text": "Be reminded that Someone is watching over me.",
+          "weights": {
+            "psalm-121": 3
+          }
+        },
+        {
+          "text": "Feel deeply known instead of so alone in it.",
+          "weights": {
+            "psalm-139": 3
+          }
+        }
       ]
     },
     {
       "text": "What would you call the result you're hoping for?",
       "options": [
-        { "text": "To feel shepherded and safe again.", "weights": { "psalm-23": 3 } },
-        { "text": "To find solid ground in the middle of the storm.", "weights": { "psalm-46": 3 } },
-        { "text": "To stop being afraid of what might happen.", "weights": { "psalm-91": 2, "psalm-121": 1 } },
-        { "text": "To get free of the worry that's pulling me under.", "weights": { "psalm-34": 3 } }
+        {
+          "text": "To feel shepherded and safe again.",
+          "weights": {
+            "psalm-23": 3
+          }
+        },
+        {
+          "text": "To find solid ground in the middle of the storm.",
+          "weights": {
+            "psalm-46": 3
+          }
+        },
+        {
+          "text": "To stop being afraid of what might happen.",
+          "weights": {
+            "psalm-91": 2,
+            "psalm-121": 1
+          }
+        },
+        {
+          "text": "To get free of the worry that's pulling me under.",
+          "weights": {
+            "psalm-34": 3
+          }
+        }
       ]
     }
   ],
@@ -102,37 +284,65 @@
     "psalm-23": {
       "name": "Psalm 23 (Fear of Loss)",
       "description": "Your anxiety lives close to loss. You've felt the dark valley, or you're afraid you're about to, and the fear of losing what you love runs underneath a lot of it. Psalm 23 is the one for you. It doesn't promise you'll skip the valley. It promises you won't walk it alone, because the Shepherd is right there with His rod and His staff. Let Him lead you, even through this.",
-      "scripture": { "text": "Even though I walk through the darkest valley, I will fear no evil, for you are with me.", "reference": "Psalm 23:4" }
+      "scripture": {
+        "text": "Yea, though I walk through the valley of the shadow of death, I will fear no evil; for thou art with me; Thy rod and thy staff, they comfort me.",
+        "reference": "Psalm 23:4",
+        "translation": "ASV"
+      }
     },
     "psalm-46": {
       "name": "Psalm 46 (Chaos and Overwhelm)",
       "description": "Everything feels like it's moving at once, and the ground won't hold still long enough for you to catch your breath. Psalm 46 was written for exactly this, for mountains crumbling into the sea and the whole world shaking. And right in the middle of it comes that famous, steadying line: be still, and know that I am God. He is your refuge when nothing else stays put. Let Him be the solid thing.",
-      "scripture": { "text": "Be still, and know that I am God.", "reference": "Psalm 46:10" }
+      "scripture": {
+        "text": "Be still, and know that I am God: I will be exalted among the nations, I will be exalted in the earth.",
+        "reference": "Psalm 46:10",
+        "translation": "ASV"
+      }
     },
     "psalm-91": {
       "name": "Psalm 91 (Fear for Safety)",
       "description": "Your worry keeps circling around safety, around something happening to you or the people you love. Psalm 91 speaks straight to that fear. It paints God as a shelter you can run under, a refuge where you're covered and guarded. It doesn't promise a life without danger. It promises a God who stays near in it and commands His angels over you. You can rest under that covering tonight.",
-      "scripture": { "text": "He will cover you with his feathers, and under his wings you will find refuge.", "reference": "Psalm 91:4" }
+      "scripture": {
+        "text": "He will cover thee with his pinions, And under his wings shalt thou take refuge: His truth is a shield and a buckler.",
+        "reference": "Psalm 91:4",
+        "translation": "ASV"
+      }
     },
     "psalm-139": {
       "name": "Psalm 139 (Feeling Unseen)",
       "description": "Underneath your anxiety is a quiet ache of feeling invisible, like you could disappear and no one would notice. Psalm 139 is the answer to that exact loneliness. It says God knows when you sit and when you rise, that He's hemmed you in behind and before, that there's nowhere you could go to escape His attention. You are not overlooked. You are fully, completely seen by the One who matters most.",
-      "scripture": { "text": "You have searched me, Lord, and you know me. You know when I sit and when I rise.", "reference": "Psalm 139:1-2" }
+      "scripture": {
+        "text": "O Jehovah, thou hast searched me, and knownme. Thou knowest my downsitting and mine uprising; Thou understandest my thought afar off.",
+        "reference": "Psalm 139:1-2",
+        "translation": "ASV"
+      }
     },
     "psalm-56": {
       "name": "Psalm 56 (Afraid Right Now)",
       "description": "This isn't abstract worry for you. It's fear in the present tense, the racing heart and the shaky hands of right now. Psalm 56 was written from that very place, and it gives you the simplest, bravest move there is: when I am afraid, I put my trust in You. You don't have to wait until you feel calm. You can hand the fear straight to God in the middle of it, exactly as you are.",
-      "scripture": { "text": "When I am afraid, I put my trust in you.", "reference": "Psalm 56:3" }
+      "scripture": {
+        "text": "What time I am afraid, I will put my trust in thee.",
+        "reference": "Psalm 56:3",
+        "translation": "ASV"
+      }
     },
     "psalm-121": {
       "name": "Psalm 121 (Fear of the Future)",
       "description": "Your anxiety lives out ahead of you, in the what-ifs of tomorrow and all the roads you can't see yet. Psalm 121 lifts your eyes off the unknown and onto the One who holds it. It promises a God who watches over your coming and going, who never sleeps, who guards you now and forevermore. You don't have to see the whole road. You just have to trust the One already standing at the end of it.",
-      "scripture": { "text": "I lift up my eyes to the mountains. Where does my help come from? My help comes from the Lord, the Maker of heaven and earth.", "reference": "Psalm 121:1-2" }
+      "scripture": {
+        "text": "I will lift up mine eyes unto the mountains: From whence shall my help come? My helpcomethfrom Jehovah, Who made heaven and earth.",
+        "reference": "Psalm 121:1-2",
+        "translation": "ASV"
+      }
     },
     "psalm-34": {
       "name": "Psalm 34 (Drowning in Worry)",
       "description": "The worries have piled up until you feel like you're going under, just trying to keep your head above the flood. Psalm 34 meets you there. It's the testimony of someone who cried out from a desperate place and found that God actually heard and pulled him out. You're invited to do the same: pour it all out, every fear, and let Him draw near. He stays especially close to the brokenhearted.",
-      "scripture": { "text": "I sought the Lord, and he answered me; he delivered me from all my fears.", "reference": "Psalm 34:4" }
+      "scripture": {
+        "text": "I sought Jehovah, and he answered me, And delivered me from all my fears.",
+        "reference": "Psalm 34:4",
+        "translation": "ASV"
+      }
     }
   }
 }

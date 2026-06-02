@@ -17,82 +17,265 @@
     {
       "text": "Which sentence sounds most like where your faith is right now?",
       "options": [
-        { "text": "I'm new to this, full of wonder and a hundred questions.", "weights": { "discovery": 3 } },
-        { "text": "I've found my people and I'm soaking up everything I can learn.", "weights": { "belonging-discipleship": 3 } },
-        { "text": "I'm serving, leading, doing the work of faith.", "weights": { "productive-life": 3 } },
-        { "text": "Everything I built my faith on feels like it's cracking.", "weights": { "the-wall": 3 } }
+        {
+          "text": "I'm new to this, full of wonder and a hundred questions.",
+          "weights": {
+            "discovery": 3
+          }
+        },
+        {
+          "text": "I've found my people and I'm soaking up everything I can learn.",
+          "weights": {
+            "belonging-discipleship": 3
+          }
+        },
+        {
+          "text": "I'm serving, leading, doing the work of faith.",
+          "weights": {
+            "productive-life": 3
+          }
+        },
+        {
+          "text": "Everything I built my faith on feels like it's cracking.",
+          "weights": {
+            "the-wall": 3
+          }
+        }
       ]
     },
     {
       "text": "How do you feel about God lately?",
       "options": [
-        { "text": "Amazed. I'm just discovering who He is.", "weights": { "discovery": 3 } },
-        { "text": "Close, and eager to know Him more through teaching and community.", "weights": { "belonging-discipleship": 3 } },
-        { "text": "Connected, mostly through what I do for Him.", "weights": { "productive-life": 3 } },
-        { "text": "Distant and silent, in a way that scares me.", "weights": { "the-wall": 3 } }
+        {
+          "text": "Amazed. I'm just discovering who He is.",
+          "weights": {
+            "discovery": 3
+          }
+        },
+        {
+          "text": "Close, and eager to know Him more through teaching and community.",
+          "weights": {
+            "belonging-discipleship": 3
+          }
+        },
+        {
+          "text": "Connected, mostly through what I do for Him.",
+          "weights": {
+            "productive-life": 3
+          }
+        },
+        {
+          "text": "Distant and silent, in a way that scares me.",
+          "weights": {
+            "the-wall": 3
+          }
+        }
       ]
     },
     {
       "text": "What's your relationship with church activity?",
       "options": [
-        { "text": "I'm new, still figuring out where I fit.", "weights": { "discovery": 3 } },
-        { "text": "I'm all in. Small groups, classes, soaking it up.", "weights": { "belonging-discipleship": 3 } },
-        { "text": "I'm running things. People depend on me.", "weights": { "productive-life": 3 } },
-        { "text": "I've pulled back. The busyness stopped meaning anything.", "weights": { "the-wall": 2, "outward-love": 1 } }
+        {
+          "text": "I'm new, still figuring out where I fit.",
+          "weights": {
+            "discovery": 3
+          }
+        },
+        {
+          "text": "I'm all in. Small groups, classes, soaking it up.",
+          "weights": {
+            "belonging-discipleship": 3
+          }
+        },
+        {
+          "text": "I'm running things. People depend on me.",
+          "weights": {
+            "productive-life": 3
+          }
+        },
+        {
+          "text": "I've pulled back. The busyness stopped meaning anything.",
+          "weights": {
+            "the-wall": 2,
+            "outward-love": 1
+          }
+        }
       ]
     },
     {
       "text": "What's the question quietly sitting in your chest?",
       "options": [
-        { "text": "\"Is all of this actually real?\"", "weights": { "discovery": 3 } },
-        { "text": "\"How do I grow deeper and learn to live this out?\"", "weights": { "belonging-discipleship": 3 } },
-        { "text": "\"Am I doing enough, and why am I so tired?\"", "weights": { "productive-life": 3 } },
-        { "text": "\"Why does the faith that worked before feel hollow now?\"", "weights": { "the-wall": 3 } }
+        {
+          "text": "\"Is all of this actually real?\"",
+          "weights": {
+            "discovery": 3
+          }
+        },
+        {
+          "text": "\"How do I grow deeper and learn to live this out?\"",
+          "weights": {
+            "belonging-discipleship": 3
+          }
+        },
+        {
+          "text": "\"Am I doing enough, and why am I so tired?\"",
+          "weights": {
+            "productive-life": 3
+          }
+        },
+        {
+          "text": "\"Why does the faith that worked before feel hollow now?\"",
+          "weights": {
+            "the-wall": 3
+          }
+        }
       ]
     },
     {
       "text": "When you think about your spiritual life, what stands out?",
       "options": [
-        { "text": "First steps. Everything feels fresh and a little overwhelming.", "weights": { "discovery": 3 } },
-        { "text": "Belonging. I've found where I fit and I'm being shaped by it.", "weights": { "belonging-discipleship": 3 } },
-        { "text": "Output. My faith mostly shows up as service and roles.", "weights": { "productive-life": 3 } },
-        { "text": "A breakdown of the old certainties, and a long, honest silence.", "weights": { "the-wall": 3 } }
+        {
+          "text": "First steps. Everything feels fresh and a little overwhelming.",
+          "weights": {
+            "discovery": 3
+          }
+        },
+        {
+          "text": "Belonging. I've found where I fit and I'm being shaped by it.",
+          "weights": {
+            "belonging-discipleship": 3
+          }
+        },
+        {
+          "text": "Output. My faith mostly shows up as service and roles.",
+          "weights": {
+            "productive-life": 3
+          }
+        },
+        {
+          "text": "A breakdown of the old certainties, and a long, honest silence.",
+          "weights": {
+            "the-wall": 3
+          }
+        }
       ]
     },
     {
       "text": "How would you describe your inner life with God?",
       "options": [
-        { "text": "Brand new and exciting.", "weights": { "discovery": 3 } },
-        { "text": "Growing fast through learning and good teaching.", "weights": { "belonging-discipleship": 3 } },
-        { "text": "Honestly, thinner than my outer life of doing.", "weights": { "productive-life": 3 } },
-        { "text": "Being rebuilt from the inside, slowly and painfully.", "weights": { "the-wall": 2, "outward-love": 1 } }
+        {
+          "text": "Brand new and exciting.",
+          "weights": {
+            "discovery": 3
+          }
+        },
+        {
+          "text": "Growing fast through learning and good teaching.",
+          "weights": {
+            "belonging-discipleship": 3
+          }
+        },
+        {
+          "text": "Honestly, thinner than my outer life of doing.",
+          "weights": {
+            "productive-life": 3
+          }
+        },
+        {
+          "text": "Being rebuilt from the inside, slowly and painfully.",
+          "weights": {
+            "the-wall": 2,
+            "outward-love": 1
+          }
+        }
       ]
     },
     {
       "text": "What does loving people look like for you these days?",
       "options": [
-        { "text": "I'm just learning that faith is supposed to change how I treat people.", "weights": { "discovery": 3 } },
-        { "text": "I'm being discipled in it, learning the how.", "weights": { "belonging-discipleship": 3 } },
-        { "text": "I serve a lot, though sometimes it runs on fumes.", "weights": { "productive-life": 3 } },
-        { "text": "Quieter and freer now, flowing out of a deeper place than before.", "weights": { "outward-love": 3 } }
+        {
+          "text": "I'm just learning that faith is supposed to change how I treat people.",
+          "weights": {
+            "discovery": 3
+          }
+        },
+        {
+          "text": "I'm being discipled in it, learning the how.",
+          "weights": {
+            "belonging-discipleship": 3
+          }
+        },
+        {
+          "text": "I serve a lot, though sometimes it runs on fumes.",
+          "weights": {
+            "productive-life": 3
+          }
+        },
+        {
+          "text": "Quieter and freer now, flowing out of a deeper place than before.",
+          "weights": {
+            "outward-love": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you sense God is doing in you right now?",
       "options": [
-        { "text": "Opening my eyes to who He is for the first time.", "weights": { "discovery": 3 } },
-        { "text": "Building my roots through community and the Word.", "weights": { "belonging-discipleship": 3 } },
-        { "text": "Using me, but maybe also wanting more of me than my work.", "weights": { "productive-life": 3 } },
-        { "text": "Stripping away what was shallow so something truer can grow.", "weights": { "the-wall": 3 } }
+        {
+          "text": "Opening my eyes to who He is for the first time.",
+          "weights": {
+            "discovery": 3
+          }
+        },
+        {
+          "text": "Building my roots through community and the Word.",
+          "weights": {
+            "belonging-discipleship": 3
+          }
+        },
+        {
+          "text": "Using me, but maybe also wanting more of me than my work.",
+          "weights": {
+            "productive-life": 3
+          }
+        },
+        {
+          "text": "Stripping away what was shallow so something truer can grow.",
+          "weights": {
+            "the-wall": 3
+          }
+        }
       ]
     },
     {
       "text": "Which describes your hope for what's next?",
       "options": [
-        { "text": "To keep discovering this God I'm just meeting.", "weights": { "discovery": 3 } },
-        { "text": "To grow strong and rooted in what I believe.", "weights": { "belonging-discipleship": 3 } },
-        { "text": "To find rest, not just more to do.", "weights": { "productive-life": 3 } },
-        { "text": "To come through this dark stretch with a faith that's finally my own.", "weights": { "the-wall": 2, "outward-love": 1 } }
+        {
+          "text": "To keep discovering this God I'm just meeting.",
+          "weights": {
+            "discovery": 3
+          }
+        },
+        {
+          "text": "To grow strong and rooted in what I believe.",
+          "weights": {
+            "belonging-discipleship": 3
+          }
+        },
+        {
+          "text": "To find rest, not just more to do.",
+          "weights": {
+            "productive-life": 3
+          }
+        },
+        {
+          "text": "To come through this dark stretch with a faith that's finally my own.",
+          "weights": {
+            "the-wall": 2,
+            "outward-love": 1
+          }
+        }
       ]
     }
   ],
@@ -100,27 +283,47 @@
     "discovery": {
       "name": "Discovery",
       "description": "You're at the beginning, and it's a beautiful place to be. Everything feels fresh, a little overwhelming, full of wonder and questions you're not afraid to ask. This is the stage where you're meeting God for who He really is, maybe for the first time. Don't rush it. Let yourself be amazed. The questions are not a problem to solve quickly. They're part of how faith takes root. Stay curious, stay close, and let the wonder do its work in you.",
-      "scripture": { "text": "Taste and see that the Lord is good.", "reference": "Psalm 34:8" }
+      "scripture": {
+        "text": "Oh taste and see that Jehovah is good: Blessed is the man that taketh refuge in him.",
+        "reference": "Psalm 34:8",
+        "translation": "ASV"
+      }
     },
     "belonging-discipleship": {
       "name": "Belonging / Discipleship",
       "description": "You've found your people and your footing, and you're soaking up everything you can. This is the season of putting down roots, learning the Word, being shaped by community and good teaching. It's rich and important work. Just keep one eye on your inner life, not only what you're learning but who you're becoming. The goal isn't to collect knowledge. It's to know Him. Stay teachable, stay connected, and let what you're learning sink past your head and into your heart.",
-      "scripture": { "text": "Rooted and built up in him, strengthened in the faith as you were taught.", "reference": "Colossians 2:7" }
+      "scripture": {
+        "text": "rooted and builded up in him, and established in your faith, even as ye were taught, abounding in thanksgiving.",
+        "reference": "Colossians 2:7",
+        "translation": "ASV"
+      }
     },
     "productive-life": {
       "name": "The Productive Life",
       "description": "You're in the season of doing. You serve, you lead, people depend on you, and your faith mostly shows up as output. There's real good in that. But notice the tiredness, and the question underneath it: am I doing enough? Here's the truth your soul needs. God doesn't love you for your productivity, and your worth was never tied to your work. He may be inviting you to give Him more of you, not just more for Him. Let your doing flow from being loved, not from earning it.",
-      "scripture": { "text": "Martha, Martha, you are worried and upset about many things, but few things are needed.", "reference": "Luke 10:41-42" }
+      "scripture": {
+        "text": "But the Lord answered and said unto her, Martha, Martha, thou art anxious and troubled about many things: but one thing is needful: for Mary hath chosen the good part, which shall not be taken away from her.",
+        "reference": "Luke 10:41-42",
+        "translation": "ASV"
+      }
     },
     "the-wall": {
       "name": "The Wall (inward journey)",
       "description": "You've hit the Wall. The faith that used to work feels hollow, God seems silent, and the old certainties are cracking. It's frightening, and it can feel like falling apart. But this is one of the most important places you can be, not a sign you're failing. Almost everyone who goes deep with God passes through here. He isn't absent. He's stripping away what was shallow so something truer can grow. Don't run from the silence. Sit in it honestly. The faith that comes out the other side will finally be your own.",
-      "scripture": { "text": "When you pass through the waters, I will be with you.", "reference": "Isaiah 43:2" }
+      "scripture": {
+        "text": "When thou passest through the waters, I will be with thee; and through the rivers, they shall not overflow thee: when thou walkest through the fire, thou shalt not be burned, neither shall the flame kindle upon thee.",
+        "reference": "Isaiah 43:2",
+        "translation": "ASV"
+      }
     },
     "outward-love": {
       "name": "Outward Love (the far side)",
       "description": "You've come through the hard, hollow stretch, and something settled in you on the other side. Your love for people is quieter now, freer, flowing out of a deeper place than effort or obligation. You serve from rest instead of striving, and you don't need to prove anything anymore. This is the fruit of a faith that has been tested and held. Keep pouring out gently, and don't be surprised when others find hope just by being near you. What you carry now is meant to be given away.",
-      "scripture": { "text": "We love because he first loved us.", "reference": "1 John 4:19" }
+      "scripture": {
+        "text": "We love, because he first loved us.",
+        "reference": "1 John 4:19",
+        "translation": "ASV"
+      }
     }
   }
 }

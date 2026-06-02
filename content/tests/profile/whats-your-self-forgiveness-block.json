@@ -16,73 +16,234 @@
     {
       "text": "When you think about what you did wrong, what happens inside?",
       "options": [
-        { "text": "My mind plays the worst moment on a loop.", "weights": { "highlight-reel-of-failure": 3 } },
-        { "text": "I feel like I owe a debt I haven't paid yet.", "weights": { "believing-you-must-earn-it": 3 } },
-        { "text": "Part of me thinks I deserve to keep suffering for it.", "weights": { "punishing-yourself-as-penance": 3 } },
-        { "text": "I feel awful, so I assume that means I've dealt with it.", "weights": { "mistaking-regret-for-repentance": 3 } }
+        {
+          "text": "My mind plays the worst moment on a loop.",
+          "weights": {
+            "highlight-reel-of-failure": 3
+          }
+        },
+        {
+          "text": "I feel like I owe a debt I haven't paid yet.",
+          "weights": {
+            "believing-you-must-earn-it": 3
+          }
+        },
+        {
+          "text": "Part of me thinks I deserve to keep suffering for it.",
+          "weights": {
+            "punishing-yourself-as-penance": 3
+          }
+        },
+        {
+          "text": "I feel awful, so I assume that means I've dealt with it.",
+          "weights": {
+            "mistaking-regret-for-repentance": 3
+          }
+        }
       ]
     },
     {
       "text": "You've already confessed it to God. So why the lingering weight?",
       "options": [
-        { "text": "The memory won't stop replaying, no matter what.", "weights": { "highlight-reel-of-failure": 3 } },
-        { "text": "It doesn't feel real until I've somehow made up for it.", "weights": { "believing-you-must-earn-it": 3 } },
-        { "text": "Forgiving myself feels too easy. Someone should pay.", "weights": { "punishing-yourself-as-penance": 3 } },
-        { "text": "I keep feeling bad, but I'm not sure I've truly changed.", "weights": { "mistaking-regret-for-repentance": 3 } }
+        {
+          "text": "The memory won't stop replaying, no matter what.",
+          "weights": {
+            "highlight-reel-of-failure": 3
+          }
+        },
+        {
+          "text": "It doesn't feel real until I've somehow made up for it.",
+          "weights": {
+            "believing-you-must-earn-it": 3
+          }
+        },
+        {
+          "text": "Forgiving myself feels too easy. Someone should pay.",
+          "weights": {
+            "punishing-yourself-as-penance": 3
+          }
+        },
+        {
+          "text": "I keep feeling bad, but I'm not sure I've truly changed.",
+          "weights": {
+            "mistaking-regret-for-repentance": 3
+          }
+        }
       ]
     },
     {
       "text": "Which thought sounds the most like you?",
       "options": [
-        { "text": "I'll never forget the look on their face, or mine.", "weights": { "highlight-reel-of-failure": 3 } },
-        { "text": "If I do enough good, maybe I'll cancel out the bad.", "weights": { "believing-you-must-earn-it": 3 } },
-        { "text": "I don't deserve to be happy after what I did.", "weights": { "punishing-yourself-as-penance": 3 } },
-        { "text": "Feeling guilty is basically the same as making it right.", "weights": { "mistaking-regret-for-repentance": 3 } }
+        {
+          "text": "I'll never forget the look on their face, or mine.",
+          "weights": {
+            "highlight-reel-of-failure": 3
+          }
+        },
+        {
+          "text": "If I do enough good, maybe I'll cancel out the bad.",
+          "weights": {
+            "believing-you-must-earn-it": 3
+          }
+        },
+        {
+          "text": "I don't deserve to be happy after what I did.",
+          "weights": {
+            "punishing-yourself-as-penance": 3
+          }
+        },
+        {
+          "text": "Feeling guilty is basically the same as making it right.",
+          "weights": {
+            "mistaking-regret-for-repentance": 3
+          }
+        }
       ]
     },
     {
       "text": "How do you treat yourself after a real failure?",
       "options": [
-        { "text": "I rehearse every detail, over and over.", "weights": { "highlight-reel-of-failure": 3 } },
-        { "text": "I go into overdrive trying to prove I'm good again.", "weights": { "believing-you-must-earn-it": 3 } },
-        { "text": "I quietly deny myself good things as a kind of penalty.", "weights": { "punishing-yourself-as-penance": 3 } },
-        { "text": "I sit in regret and call it dealing with it.", "weights": { "mistaking-regret-for-repentance": 3 } }
+        {
+          "text": "I rehearse every detail, over and over.",
+          "weights": {
+            "highlight-reel-of-failure": 3
+          }
+        },
+        {
+          "text": "I go into overdrive trying to prove I'm good again.",
+          "weights": {
+            "believing-you-must-earn-it": 3
+          }
+        },
+        {
+          "text": "I quietly deny myself good things as a kind of penalty.",
+          "weights": {
+            "punishing-yourself-as-penance": 3
+          }
+        },
+        {
+          "text": "I sit in regret and call it dealing with it.",
+          "weights": {
+            "mistaking-regret-for-repentance": 3
+          }
+        }
       ]
     },
     {
       "text": "What makes it hardest to feel forgiven?",
       "options": [
-        { "text": "I can't unsee what I did. The replay is relentless.", "weights": { "highlight-reel-of-failure": 3 } },
-        { "text": "It feels unearned, like grace I haven't worked for.", "weights": { "believing-you-must-earn-it": 3 } },
-        { "text": "It feels wrong to be free while I still feel guilty.", "weights": { "punishing-yourself-as-penance": 3 } },
-        { "text": "I confuse the ache of regret with actually turning around.", "weights": { "mistaking-regret-for-repentance": 3 } }
+        {
+          "text": "I can't unsee what I did. The replay is relentless.",
+          "weights": {
+            "highlight-reel-of-failure": 3
+          }
+        },
+        {
+          "text": "It feels unearned, like grace I haven't worked for.",
+          "weights": {
+            "believing-you-must-earn-it": 3
+          }
+        },
+        {
+          "text": "It feels wrong to be free while I still feel guilty.",
+          "weights": {
+            "punishing-yourself-as-penance": 3
+          }
+        },
+        {
+          "text": "I confuse the ache of regret with actually turning around.",
+          "weights": {
+            "mistaking-regret-for-repentance": 3
+          }
+        }
       ]
     },
     {
       "text": "If a friend had done the exact thing you did, you'd...",
       "options": [
-        { "text": "Tell them to stop reliving it. Yet I can't take my own advice.", "weights": { "highlight-reel-of-failure": 3 } },
-        { "text": "Remind them grace isn't something you earn.", "weights": { "believing-you-must-earn-it": 3 } },
-        { "text": "Insist they don't deserve to suffer forever. Just not me.", "weights": { "punishing-yourself-as-penance": 3 } },
-        { "text": "Help them see real change matters more than feeling bad.", "weights": { "mistaking-regret-for-repentance": 3 } }
+        {
+          "text": "Tell them to stop reliving it. Yet I can't take my own advice.",
+          "weights": {
+            "highlight-reel-of-failure": 3
+          }
+        },
+        {
+          "text": "Remind them grace isn't something you earn.",
+          "weights": {
+            "believing-you-must-earn-it": 3
+          }
+        },
+        {
+          "text": "Insist they don't deserve to suffer forever. Just not me.",
+          "weights": {
+            "punishing-yourself-as-penance": 3
+          }
+        },
+        {
+          "text": "Help them see real change matters more than feeling bad.",
+          "weights": {
+            "mistaking-regret-for-repentance": 3
+          }
+        }
       ]
     },
     {
       "text": "What would freedom actually look like for you?",
       "options": [
-        { "text": "Finally quieting the replay and letting the memory rest.", "weights": { "highlight-reel-of-failure": 3 } },
-        { "text": "Receiving forgiveness as a gift instead of a wage.", "weights": { "believing-you-must-earn-it": 3 } },
-        { "text": "Stopping the self-punishment and accepting I'm pardoned.", "weights": { "punishing-yourself-as-penance": 3 } },
-        { "text": "Trading endless regret for a genuine fresh start.", "weights": { "mistaking-regret-for-repentance": 3 } }
+        {
+          "text": "Finally quieting the replay and letting the memory rest.",
+          "weights": {
+            "highlight-reel-of-failure": 3
+          }
+        },
+        {
+          "text": "Receiving forgiveness as a gift instead of a wage.",
+          "weights": {
+            "believing-you-must-earn-it": 3
+          }
+        },
+        {
+          "text": "Stopping the self-punishment and accepting I'm pardoned.",
+          "weights": {
+            "punishing-yourself-as-penance": 3
+          }
+        },
+        {
+          "text": "Trading endless regret for a genuine fresh start.",
+          "weights": {
+            "mistaking-regret-for-repentance": 3
+          }
+        }
       ]
     },
     {
       "text": "Deep down, the truth your block keeps you from believing is...",
       "options": [
-        { "text": "God remembers your sin no more, even when you do.", "weights": { "highlight-reel-of-failure": 3 } },
-        { "text": "Forgiveness was already paid for. You can't add to it.", "weights": { "believing-you-must-earn-it": 2, "punishing-yourself-as-penance": 1 } },
-        { "text": "Jesus took the punishment so you wouldn't have to.", "weights": { "punishing-yourself-as-penance": 3 } },
-        { "text": "Confessing means you really are clean, not just sorry.", "weights": { "mistaking-regret-for-repentance": 3 } }
+        {
+          "text": "God remembers your sin no more, even when you do.",
+          "weights": {
+            "highlight-reel-of-failure": 3
+          }
+        },
+        {
+          "text": "Forgiveness was already paid for. You can't add to it.",
+          "weights": {
+            "believing-you-must-earn-it": 2,
+            "punishing-yourself-as-penance": 1
+          }
+        },
+        {
+          "text": "Jesus took the punishment so you wouldn't have to.",
+          "weights": {
+            "punishing-yourself-as-penance": 3
+          }
+        },
+        {
+          "text": "Confessing means you really are clean, not just sorry.",
+          "weights": {
+            "mistaking-regret-for-repentance": 3
+          }
+        }
       ]
     }
   ],
@@ -90,22 +251,38 @@
     "highlight-reel-of-failure": {
       "name": "Replaying the Highlight Reel of Failure",
       "description": "Your mind keeps hitting replay on your worst moment, and the loop convinces you that you can never move past it. But God does not watch that reel on a loop the way you do. He says He remembers your sin no more, that He has put it as far as the east is from the west. The memory may still surface, but it no longer defines you. You're allowed to stop pressing play.",
-      "scripture": { "text": "As far as the east is from the west, so far has he removed our transgressions from us.", "reference": "Psalm 103:12" }
+      "scripture": {
+        "text": "As far as the east is from the west, So far hath he removed our transgressions from us.",
+        "reference": "Psalm 103:12",
+        "translation": "ASV"
+      }
     },
     "believing-you-must-earn-it": {
       "name": "Believing You Must Earn It",
       "description": "You're trying to work your way back into grace, as if enough good deeds could cancel the bad. But forgiveness was never a wage you clock in for. It's a gift, already bought and fully paid. You can't add a single thing to what Jesus already finished. The striving can stop. You don't have to earn what He freely handed you. You only have to receive it.",
-      "scripture": { "text": "For it is by grace you have been saved, through faith, and this is not from yourselves, it is the gift of God.", "reference": "Ephesians 2:8" }
+      "scripture": {
+        "text": "for by grace have ye been saved through faith; and that not of yourselves, it is the gift of God;",
+        "reference": "Ephesians 2:8",
+        "translation": "ASV"
+      }
     },
     "punishing-yourself-as-penance": {
       "name": "Punishing Yourself as Penance",
       "description": "Some part of you believes you have to keep paying, that suffering is the price for what you did. So you deny yourself peace as a quiet penalty. But here's the heart of the gospel: Jesus already took that punishment in your place. The debt was settled at the cross, and adding your own suffering doesn't make it more paid. You can lay down the penance. It's already finished.",
-      "scripture": { "text": "He himself bore our sins in his body on the cross, so that we might die to sins and live for righteousness.", "reference": "1 Peter 2:24" }
+      "scripture": {
+        "text": "who his own self bare our sins in his body upon the tree, that we, having died unto sins, might live unto righteousness; by whose stripes ye were healed.",
+        "reference": "1 Peter 2:24",
+        "translation": "ASV"
+      }
     },
     "mistaking-regret-for-repentance": {
       "name": "Mistaking Regret for Repentance",
       "description": "You feel the ache of regret deeply, and you assume that feeling bad is the same as making it right. But endless guilt isn't repentance. It just keeps you stuck. Real repentance turns toward God, lays it down, and trusts that confession actually makes you clean. You don't have to carry the regret as proof you're sorry. He calls you forgiven, not just remorseful. Let that be enough.",
-      "scripture": { "text": "If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness.", "reference": "1 John 1:9" }
+      "scripture": {
+        "text": "If we confess our sins, he is faithful and righteous to forgive us our sins, and to cleanse us from all unrighteousness.",
+        "reference": "1 John 1:9",
+        "translation": "ASV"
+      }
     }
   }
 }

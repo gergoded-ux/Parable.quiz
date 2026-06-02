@@ -16,73 +16,234 @@
     {
       "text": "When you think about your child these days, what rises up first?",
       "options": [
-        { "text": "A steady belief that they'll come home one day.", "weights": { "hopeful-watcher": 3 } },
-        { "text": "Exhaustion. I've been praying so long I'm running on fumes.", "weights": { "weary-warrior": 3 } },
-        { "text": "A quiet ache as I try to release my grip on the outcome.", "weights": { "letting-go-parent": 3 } },
-        { "text": "The question of what I did wrong to bring us here.", "weights": { "guilt-carrier": 3 } }
+        {
+          "text": "A steady belief that they'll come home one day.",
+          "weights": {
+            "hopeful-watcher": 3
+          }
+        },
+        {
+          "text": "Exhaustion. I've been praying so long I'm running on fumes.",
+          "weights": {
+            "weary-warrior": 3
+          }
+        },
+        {
+          "text": "A quiet ache as I try to release my grip on the outcome.",
+          "weights": {
+            "letting-go-parent": 3
+          }
+        },
+        {
+          "text": "The question of what I did wrong to bring us here.",
+          "weights": {
+            "guilt-carrier": 3
+          }
+        }
       ]
     },
     {
       "text": "How does your prayer for them usually sound?",
       "options": [
-        { "text": "Lord, I'm watching the road. Bring them back.", "weights": { "hopeful-watcher": 3 } },
-        { "text": "God, I'm so tired, but I refuse to stop asking.", "weights": { "weary-warrior": 3 } },
-        { "text": "Father, they're Yours. I'm trying to trust You with them.", "weights": { "letting-go-parent": 3 } },
-        { "text": "Please forgive me for the ways I fell short as a parent.", "weights": { "guilt-carrier": 3 } }
+        {
+          "text": "Lord, I'm watching the road. Bring them back.",
+          "weights": {
+            "hopeful-watcher": 3
+          }
+        },
+        {
+          "text": "God, I'm so tired, but I refuse to stop asking.",
+          "weights": {
+            "weary-warrior": 3
+          }
+        },
+        {
+          "text": "Father, they're Yours. I'm trying to trust You with them.",
+          "weights": {
+            "letting-go-parent": 3
+          }
+        },
+        {
+          "text": "Please forgive me for the ways I fell short as a parent.",
+          "weights": {
+            "guilt-carrier": 3
+          }
+        }
       ]
     },
     {
       "text": "Someone asks how you're holding up. Your honest answer?",
       "options": [
-        { "text": "Hopeful. I really believe their story isn't over.", "weights": { "hopeful-watcher": 3 } },
-        { "text": "Worn thin. This has gone on longer than I can say.", "weights": { "weary-warrior": 3 } },
-        { "text": "Learning to loosen my hands, slowly and painfully.", "weights": { "letting-go-parent": 3 } },
-        { "text": "Heavy. I keep replaying everything I might have done differently.", "weights": { "guilt-carrier": 3 } }
+        {
+          "text": "Hopeful. I really believe their story isn't over.",
+          "weights": {
+            "hopeful-watcher": 3
+          }
+        },
+        {
+          "text": "Worn thin. This has gone on longer than I can say.",
+          "weights": {
+            "weary-warrior": 3
+          }
+        },
+        {
+          "text": "Learning to loosen my hands, slowly and painfully.",
+          "weights": {
+            "letting-go-parent": 3
+          }
+        },
+        {
+          "text": "Heavy. I keep replaying everything I might have done differently.",
+          "weights": {
+            "guilt-carrier": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you do when you hear an update about them?",
       "options": [
-        { "text": "I scan it for any small sign of a turn toward home.", "weights": { "hopeful-watcher": 3 } },
-        { "text": "I take a breath and dig in for the long haul again.", "weights": { "weary-warrior": 3 } },
-        { "text": "I remind myself I can't control this, only love them.", "weights": { "letting-go-parent": 3 } },
-        { "text": "I wonder if it's somehow my fault.", "weights": { "guilt-carrier": 3 } }
+        {
+          "text": "I scan it for any small sign of a turn toward home.",
+          "weights": {
+            "hopeful-watcher": 3
+          }
+        },
+        {
+          "text": "I take a breath and dig in for the long haul again.",
+          "weights": {
+            "weary-warrior": 3
+          }
+        },
+        {
+          "text": "I remind myself I can't control this, only love them.",
+          "weights": {
+            "letting-go-parent": 3
+          }
+        },
+        {
+          "text": "I wonder if it's somehow my fault.",
+          "weights": {
+            "guilt-carrier": 3
+          }
+        }
       ]
     },
     {
       "text": "Which feeling sits closest to the surface?",
       "options": [
-        { "text": "Expectation. I'm waiting for the day they walk back in.", "weights": { "hopeful-watcher": 3 } },
-        { "text": "Fatigue. I've fought in prayer until I'm spent.", "weights": { "weary-warrior": 3 } },
-        { "text": "Surrender. I'm handing them to God one day at a time.", "weights": { "letting-go-parent": 3 } },
-        { "text": "Regret. I carry a list of my own failures.", "weights": { "guilt-carrier": 3 } }
+        {
+          "text": "Expectation. I'm waiting for the day they walk back in.",
+          "weights": {
+            "hopeful-watcher": 3
+          }
+        },
+        {
+          "text": "Fatigue. I've fought in prayer until I'm spent.",
+          "weights": {
+            "weary-warrior": 3
+          }
+        },
+        {
+          "text": "Surrender. I'm handing them to God one day at a time.",
+          "weights": {
+            "letting-go-parent": 3
+          }
+        },
+        {
+          "text": "Regret. I carry a list of my own failures.",
+          "weights": {
+            "guilt-carrier": 3
+          }
+        }
       ]
     },
     {
       "text": "Late at night, the thought that keeps you company is...",
       "options": [
-        { "text": "I just know God isn't finished with my child.", "weights": { "hopeful-watcher": 3 } },
-        { "text": "How much longer can I keep carrying this?", "weights": { "weary-warrior": 3 } },
-        { "text": "They are safer in God's hands than in mine.", "weights": { "letting-go-parent": 2, "hopeful-watcher": 1 } },
-        { "text": "If only I had done things differently back then.", "weights": { "guilt-carrier": 3 } }
+        {
+          "text": "I just know God isn't finished with my child.",
+          "weights": {
+            "hopeful-watcher": 3
+          }
+        },
+        {
+          "text": "How much longer can I keep carrying this?",
+          "weights": {
+            "weary-warrior": 3
+          }
+        },
+        {
+          "text": "They are safer in God's hands than in mine.",
+          "weights": {
+            "letting-go-parent": 2,
+            "hopeful-watcher": 1
+          }
+        },
+        {
+          "text": "If only I had done things differently back then.",
+          "weights": {
+            "guilt-carrier": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you most need to hear right now?",
       "options": [
-        { "text": "Keep watching. The far-off figure on the road may be them.", "weights": { "hopeful-watcher": 3 } },
-        { "text": "You're allowed to rest. God doesn't tire as you do.", "weights": { "weary-warrior": 3 } },
-        { "text": "Letting go isn't giving up. It's trusting a better Father.", "weights": { "letting-go-parent": 3 } },
-        { "text": "Their choices are not your verdict. You are not to blame for everything.", "weights": { "guilt-carrier": 3 } }
+        {
+          "text": "Keep watching. The far-off figure on the road may be them.",
+          "weights": {
+            "hopeful-watcher": 3
+          }
+        },
+        {
+          "text": "You're allowed to rest. God doesn't tire as you do.",
+          "weights": {
+            "weary-warrior": 3
+          }
+        },
+        {
+          "text": "Letting go isn't giving up. It's trusting a better Father.",
+          "weights": {
+            "letting-go-parent": 3
+          }
+        },
+        {
+          "text": "Their choices are not your verdict. You are not to blame for everything.",
+          "weights": {
+            "guilt-carrier": 3
+          }
+        }
       ]
     },
     {
       "text": "When you picture them coming back to faith, what do you feel?",
       "options": [
-        { "text": "A leap of hope, like I've been ready for this all along.", "weights": { "hopeful-watcher": 3 } },
-        { "text": "Relief so deep I can barely hold it.", "weights": { "weary-warrior": 3 } },
-        { "text": "Gratitude that God did what I never could.", "weights": { "letting-go-parent": 3 } },
-        { "text": "A longing for the peace I haven't let myself have.", "weights": { "guilt-carrier": 3 } }
+        {
+          "text": "A leap of hope, like I've been ready for this all along.",
+          "weights": {
+            "hopeful-watcher": 3
+          }
+        },
+        {
+          "text": "Relief so deep I can barely hold it.",
+          "weights": {
+            "weary-warrior": 3
+          }
+        },
+        {
+          "text": "Gratitude that God did what I never could.",
+          "weights": {
+            "letting-go-parent": 3
+          }
+        },
+        {
+          "text": "A longing for the peace I haven't let myself have.",
+          "weights": {
+            "guilt-carrier": 3
+          }
+        }
       ]
     }
   ],
@@ -90,22 +251,38 @@
     "hopeful-watcher": {
       "name": "The Hopeful Watcher",
       "description": "You keep your eyes on the road, certain that one day you'll spot your child coming home. That hope isn't naive. It's a quiet, stubborn faith, and it puts you right beside the father in Jesus' story who saw his son while he was still a long way off. God sees what you cannot yet see. Keep watching. Your hope is anchored in a Father who runs to meet the ones who turn back.",
-      "scripture": { "text": "But while he was still a long way off, his father saw him and was filled with compassion for him.", "reference": "Luke 15:20" }
+      "scripture": {
+        "text": "And he arose, and came to his father. But while he was yet afar off, his father saw him, and was moved with compassion, and ran, and fell on his neck, and kissed him.",
+        "reference": "Luke 15:20",
+        "translation": "ASV"
+      }
     },
     "weary-warrior": {
       "name": "The Weary Warrior",
       "description": "You have prayed and prayed, and the waiting has worn you down to the bone. That tiredness is not a lack of faith. It's the weight of a long battle fought in love. Hear this gently: you are allowed to rest. The God who never sleeps is keeping watch over your child even on the nights you can't pray a single word. Lean on Him. He carries the load you were never meant to carry alone.",
-      "scripture": { "text": "Come to me, all you who are weary and burdened, and I will give you rest.", "reference": "Matthew 11:28" }
+      "scripture": {
+        "text": "Come unto me, all ye that labor and are heavy laden, and I will give you rest.",
+        "reference": "Matthew 11:28",
+        "translation": "ASV"
+      }
     },
     "letting-go-parent": {
       "name": "The Letting-Go Parent",
       "description": "You're learning to open your hands and trust your child to God, and it's some of the hardest work a parent ever does. Letting go isn't the same as giving up. It's the brave act of believing your child is safer in a perfect Father's care than in your own grip. You can love them fully and still release the outcome. The One who loves them even more than you do has not let go of them for a second.",
-      "scripture": { "text": "Cast all your anxiety on him because he cares for you.", "reference": "1 Peter 5:7" }
+      "scripture": {
+        "text": "casting all your anxiety upon him, because he careth for you.",
+        "reference": "1 Peter 5:7",
+        "translation": "ASV"
+      }
     },
     "guilt-carrier": {
       "name": "The Guilt-Carrier",
       "description": "You carry a heavy bag of what-ifs and if-onlys, sure that your child's choices trace back to your failures. Please set that bag down. No parent is perfect, and your child is a person who makes their own decisions before God. Their path is not the verdict on your worth. There is real grace for the places you got it wrong, and it's enough to cover all of them. You can pray for your child from a heart that is forgiven, not condemned.",
-      "scripture": { "text": "There is now no condemnation for those who are in Christ Jesus.", "reference": "Romans 8:1" }
+      "scripture": {
+        "text": "There is therefore now no condemnation to them that are in Christ Jesus.",
+        "reference": "Romans 8:1",
+        "translation": "ASV"
+      }
     }
   }
 }

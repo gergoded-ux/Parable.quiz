@@ -10,82 +10,273 @@
     {
       "text": "When the worry hits hardest, what does it usually look like from the outside?",
       "options": [
-        { "text": "I get busy. I clean, I fix, I do, until I'm frazzled.", "weights": { "martha": 3 } },
-        { "text": "I go quiet and tense, bracing for something coming.", "weights": { "david": 2, "job": 1 } },
-        { "text": "My eyes well up. The ache just spills over.", "weights": { "hannah": 3 } },
-        { "text": "I want to be alone and far away from all of it.", "weights": { "jonah": 2, "elijah": 1 } }
+        {
+          "text": "I get busy. I clean, I fix, I do, until I'm frazzled.",
+          "weights": {
+            "martha": 3
+          }
+        },
+        {
+          "text": "I go quiet and tense, bracing for something coming.",
+          "weights": {
+            "david": 2,
+            "job": 1
+          }
+        },
+        {
+          "text": "My eyes well up. The ache just spills over.",
+          "weights": {
+            "hannah": 3
+          }
+        },
+        {
+          "text": "I want to be alone and far away from all of it.",
+          "weights": {
+            "jonah": 2,
+            "elijah": 1
+          }
+        }
       ]
     },
     {
       "text": "What's the thought that loops in your head at 2am?",
       "options": [
-        { "text": "\"There's too much to handle and no one's helping me.\"", "weights": { "martha": 3 } },
-        { "text": "\"Someone or something is out to get me.\"", "weights": { "david": 3 } },
-        { "text": "\"What if this thing I'm aching for never happens?\"", "weights": { "hannah": 3 } },
-        { "text": "\"I'm in over my head and I'm going under.\"", "weights": { "peter": 3 } }
+        {
+          "text": "\"There's too much to handle and no one's helping me.\"",
+          "weights": {
+            "martha": 3
+          }
+        },
+        {
+          "text": "\"Someone or something is out to get me.\"",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "\"What if this thing I'm aching for never happens?\"",
+          "weights": {
+            "hannah": 3
+          }
+        },
+        {
+          "text": "\"I'm in over my head and I'm going under.\"",
+          "weights": {
+            "peter": 3
+          }
+        }
       ]
     },
     {
       "text": "Where is your anxiety coming from most right now?",
       "options": [
-        { "text": "I'm carrying way more responsibility than I can hold.", "weights": { "martha": 2, "elijah": 1 } },
-        { "text": "People I trusted have turned, and I feel hunted.", "weights": { "david": 3 } },
-        { "text": "A deep longing that hasn't been answered yet.", "weights": { "hannah": 3 } },
-        { "text": "Loss hit out of nowhere and knocked me flat.", "weights": { "job": 3 } }
+        {
+          "text": "I'm carrying way more responsibility than I can hold.",
+          "weights": {
+            "martha": 2,
+            "elijah": 1
+          }
+        },
+        {
+          "text": "People I trusted have turned, and I feel hunted.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "A deep longing that hasn't been answered yet.",
+          "weights": {
+            "hannah": 3
+          }
+        },
+        {
+          "text": "Loss hit out of nowhere and knocked me flat.",
+          "weights": {
+            "job": 3
+          }
+        }
       ]
     },
     {
       "text": "When you finally crash, what do you say?",
       "options": [
-        { "text": "\"I've had enough. I can't keep doing this.\"", "weights": { "elijah": 3 } },
-        { "text": "\"I poured out my whole heart and I'm wrung dry.\"", "weights": { "hannah": 2, "david": 1 } },
-        { "text": "\"Just let me check out. I don't want to deal.\"", "weights": { "jonah": 3 } },
-        { "text": "\"Why is this happening? I don't understand.\"", "weights": { "job": 3 } }
+        {
+          "text": "\"I've had enough. I can't keep doing this.\"",
+          "weights": {
+            "elijah": 3
+          }
+        },
+        {
+          "text": "\"I poured out my whole heart and I'm wrung dry.\"",
+          "weights": {
+            "hannah": 2,
+            "david": 1
+          }
+        },
+        {
+          "text": "\"Just let me check out. I don't want to deal.\"",
+          "weights": {
+            "jonah": 3
+          }
+        },
+        {
+          "text": "\"Why is this happening? I don't understand.\"",
+          "weights": {
+            "job": 3
+          }
+        }
       ]
     },
     {
       "text": "What pulls you under fastest?",
       "options": [
-        { "text": "Comparison. I see what others aren't carrying.", "weights": { "martha": 2, "hannah": 1 } },
-        { "text": "Looking at the storm instead of the One in front of me.", "weights": { "peter": 3 } },
-        { "text": "Replaying every threat and worst-case scenario.", "weights": { "david": 3 } },
-        { "text": "Exhaustion. I gave everything and now I'm empty.", "weights": { "elijah": 3 } }
+        {
+          "text": "Comparison. I see what others aren't carrying.",
+          "weights": {
+            "martha": 2,
+            "hannah": 1
+          }
+        },
+        {
+          "text": "Looking at the storm instead of the One in front of me.",
+          "weights": {
+            "peter": 3
+          }
+        },
+        {
+          "text": "Replaying every threat and worst-case scenario.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "Exhaustion. I gave everything and now I'm empty.",
+          "weights": {
+            "elijah": 3
+          }
+        }
       ]
     },
     {
       "text": "Be honest. What does the anxiety make you want to do?",
       "options": [
-        { "text": "Control everything so nothing slips.", "weights": { "martha": 3 } },
-        { "text": "Run somewhere God can't ask anything of me.", "weights": { "jonah": 3 } },
-        { "text": "Hide under the covers and disappear for a while.", "weights": { "elijah": 2, "jonah": 1 } },
-        { "text": "Demand answers from heaven, loudly.", "weights": { "job": 3 } }
+        {
+          "text": "Control everything so nothing slips.",
+          "weights": {
+            "martha": 3
+          }
+        },
+        {
+          "text": "Run somewhere God can't ask anything of me.",
+          "weights": {
+            "jonah": 3
+          }
+        },
+        {
+          "text": "Hide under the covers and disappear for a while.",
+          "weights": {
+            "elijah": 2,
+            "jonah": 1
+          }
+        },
+        {
+          "text": "Demand answers from heaven, loudly.",
+          "weights": {
+            "job": 3
+          }
+        }
       ]
     },
     {
       "text": "When you do pray about it, how does it come out?",
       "options": [
-        { "text": "Honestly, half a complaint. \"Don't you care?\"", "weights": { "martha": 2, "job": 1 } },
-        { "text": "Raw and tearful, no pretty words at all.", "weights": { "hannah": 3 } },
-        { "text": "\"Save me\" in the moment I'm already sinking.", "weights": { "peter": 3 } },
-        { "text": "From a cave, a low place, hoping He still hears.", "weights": { "david": 2, "elijah": 1 } }
+        {
+          "text": "Honestly, half a complaint. \"Don't you care?\"",
+          "weights": {
+            "martha": 2,
+            "job": 1
+          }
+        },
+        {
+          "text": "Raw and tearful, no pretty words at all.",
+          "weights": {
+            "hannah": 3
+          }
+        },
+        {
+          "text": "\"Save me\" in the moment I'm already sinking.",
+          "weights": {
+            "peter": 3
+          }
+        },
+        {
+          "text": "From a cave, a low place, hoping He still hears.",
+          "weights": {
+            "david": 2,
+            "elijah": 1
+          }
+        }
       ]
     },
     {
       "text": "What would help you breathe again?",
       "options": [
-        { "text": "Permission to sit down and stop performing.", "weights": { "martha": 2, "elijah": 1 } },
-        { "text": "Knowing God hasn't forgotten the thing I'm longing for.", "weights": { "hannah": 3 } },
-        { "text": "A hand reaching for mine right as I go down.", "weights": { "peter": 3 } },
-        { "text": "Somewhere truly safe to hide while the threat passes.", "weights": { "david": 3 } }
+        {
+          "text": "Permission to sit down and stop performing.",
+          "weights": {
+            "martha": 2,
+            "elijah": 1
+          }
+        },
+        {
+          "text": "Knowing God hasn't forgotten the thing I'm longing for.",
+          "weights": {
+            "hannah": 3
+          }
+        },
+        {
+          "text": "A hand reaching for mine right as I go down.",
+          "weights": {
+            "peter": 3
+          }
+        },
+        {
+          "text": "Somewhere truly safe to hide while the threat passes.",
+          "weights": {
+            "david": 3
+          }
+        }
       ]
     },
     {
       "text": "Which fear feels most like yours?",
       "options": [
-        { "text": "That if I stop holding it all together, it falls apart.", "weights": { "martha": 3 } },
-        { "text": "That I've run too far to be of use to God now.", "weights": { "jonah": 3 } },
-        { "text": "That the suffering means God has turned away.", "weights": { "job": 2, "elijah": 1 } },
-        { "text": "That I'll keep sinking and no one will catch me.", "weights": { "peter": 2, "david": 1 } }
+        {
+          "text": "That if I stop holding it all together, it falls apart.",
+          "weights": {
+            "martha": 3
+          }
+        },
+        {
+          "text": "That I've run too far to be of use to God now.",
+          "weights": {
+            "jonah": 3
+          }
+        },
+        {
+          "text": "That the suffering means God has turned away.",
+          "weights": {
+            "job": 2,
+            "elijah": 1
+          }
+        },
+        {
+          "text": "That I'll keep sinking and no one will catch me.",
+          "weights": {
+            "peter": 2,
+            "david": 1
+          }
+        }
       ]
     }
   ],
@@ -93,51 +284,107 @@
     "martha": {
       "name": "Martha",
       "emoji": "🍽️",
-      "traits": ["Capable", "Overstretched", "Devoted"],
+      "traits": [
+        "Capable",
+        "Overstretched",
+        "Devoted"
+      ],
       "description": "Frantic and overwhelmed. You love deeply, so you do and do until you're worn thin, then resent everyone who's sitting down. Jesus didn't scold Martha for caring. He gently invited her to stop spinning and be with Him. The same invitation is for you. You're allowed to set the tray down.",
-      "scripture": { "text": "Martha, Martha, you are worried and upset about many things, but few things are needed, or indeed only one.", "reference": "Luke 10:41-42" }
+      "scripture": {
+        "text": "But the Lord answered and said unto her, Martha, Martha, thou art anxious and troubled about many things: but one thing is needful: for Mary hath chosen the good part, which shall not be taken away from her.",
+        "reference": "Luke 10:41-42",
+        "translation": "ASV"
+      }
     },
     "david": {
       "name": "David",
       "emoji": "🛡️",
-      "traits": ["Hunted", "Honest", "Resilient"],
+      "traits": [
+        "Hunted",
+        "Honest",
+        "Resilient"
+      ],
       "description": "Hunted and afraid. You know what it's like to feel like a target, glancing over your shoulder, bracing for the next blow. David wrote some of his rawest prayers from caves while real enemies chased him. He didn't pretend to be brave. He told God the fear out loud and found Him to be a hiding place anyway. So can you.",
-      "scripture": { "text": "When I am afraid, I put my trust in you.", "reference": "Psalm 56:3" }
+      "scripture": {
+        "text": "What time I am afraid, I will put my trust in thee.",
+        "reference": "Psalm 56:3",
+        "translation": "ASV"
+      }
     },
     "hannah": {
       "name": "Hannah",
       "emoji": "🕯️",
-      "traits": ["Longing", "Tender", "Faithful"],
+      "traits": [
+        "Longing",
+        "Tender",
+        "Faithful"
+      ],
       "description": "Aching and desperate. There's a deep longing in you that hasn't been answered, and the waiting has worn a groove in your heart. Hannah prayed so hard and wept so openly that the priest thought she was drunk. God wasn't put off by her desperation. He met it. Your tears are not weakness. They're a prayer He understands.",
-      "scripture": { "text": "I have been praying here out of my great anguish and grief.", "reference": "1 Samuel 1:16" }
+      "scripture": {
+        "text": "Count not thy handmaid for a wicked woman; for out of the abundance of my complaint and my provocation have I spoken hitherto.",
+        "reference": "1 Samuel 1:16",
+        "translation": "ASV"
+      }
     },
     "peter": {
       "name": "Peter",
       "emoji": "🌊",
-      "traits": ["Bold", "Wavering", "Reachable"],
+      "traits": [
+        "Bold",
+        "Wavering",
+        "Reachable"
+      ],
       "description": "Sinking in doubt. You stepped out in faith, then looked at the waves, and now you feel yourself going under. Peter actually walked on water before the fear pulled him down. And here's the part that matters: the moment he cried out, Jesus caught him immediately. You can be sinking and still be one honest \"save me\" away from His hand.",
-      "scripture": { "text": "Immediately Jesus reached out his hand and caught him.", "reference": "Matthew 14:31" }
+      "scripture": {
+        "text": "And immediately Jesus stretched forth his hand, and took hold of him, and saith unto him, O thou of little faith, wherefore didst thou doubt?",
+        "reference": "Matthew 14:31",
+        "translation": "ASV"
+      }
     },
     "elijah": {
       "name": "Elijah",
       "emoji": "🌬️",
-      "traits": ["Spent", "Faithful", "Worn-down"],
+      "traits": [
+        "Spent",
+        "Faithful",
+        "Worn-down"
+      ],
       "description": "Burned out and hopeless. You gave everything to something that mattered, and now you're so empty you'd almost rather not go on. Elijah collapsed under a tree right after his biggest victory and asked to die. God didn't lecture him. He let him sleep, fed him, and met him in a whisper. Sometimes the most spiritual thing is rest and a meal.",
-      "scripture": { "text": "I have had enough, Lord. Then he lay down under the bush and fell asleep.", "reference": "1 Kings 19:4-5" }
+      "scripture": {
+        "text": "But he himself went a day’s journey into the wilderness, and came and sat down under a juniper-tree: and he requested for himself that he might die, and said, It is enough; now, O Jehovah, take away my life; for I am not better than my fathers. And he lay down and slept under a juniper-tree; and, behold, an angel touched him, and said unto him, Arise and eat.",
+        "reference": "1 Kings 19:4-5",
+        "translation": "ASV"
+      }
     },
     "job": {
       "name": "Job",
       "emoji": "🌪️",
-      "traits": ["Blindsided", "Searching", "Steadfast"],
+      "traits": [
+        "Blindsided",
+        "Searching",
+        "Steadfast"
+      ],
       "description": "Blindsided by loss. Trouble hit you out of nowhere, the kind you didn't see coming and can't make sense of. Job lost nearly everything in a single day and demanded answers from God for chapters on end. God never called that disloyal. He showed up. You can be devastated, confused, even angry, and God can still be holding you.",
-      "scripture": { "text": "He knows the way that I take; when he has tested me, I will come forth as gold.", "reference": "Job 23:10" }
+      "scripture": {
+        "text": "But he knoweth the way that I take; When he hath tried me, I shall come forth as gold.",
+        "reference": "Job 23:10",
+        "translation": "ASV"
+      }
     },
     "jonah": {
       "name": "Jonah",
       "emoji": "🚢",
-      "traits": ["Avoidant", "Honest", "Pursued"],
+      "traits": [
+        "Avoidant",
+        "Honest",
+        "Pursued"
+      ],
       "description": "Running from it all. When the pressure climbs, your instinct is to get away, to numb out, to head the opposite direction from whatever God's asking. Jonah literally bought a ticket to flee, and God's love followed him into the deep and brought him back. You can't out-run that kind of mercy. Wherever you've drifted, He's still reaching for you.",
-      "scripture": { "text": "In my distress I called to the Lord, and he answered me.", "reference": "Jonah 2:2" }
+      "scripture": {
+        "text": "And he said, I called by reason of mine affliction unto Jehovah, And he answered me; Out of the belly of Sheol cried I, And thou heardest my voice.",
+        "reference": "Jonah 2:2",
+        "translation": "ASV"
+      }
     }
   }
 }

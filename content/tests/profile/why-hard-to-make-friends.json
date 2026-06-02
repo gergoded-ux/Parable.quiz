@@ -6,78 +6,244 @@
   "category": "spiritual-profile",
   "estimatedMinutes": 5,
   "mode": "profile",
-  "dimensions": ["wait-to-be-chosen", "fear-first-move", "keep-it-surface", "spread-too-thin"],
+  "dimensions": [
+    "wait-to-be-chosen",
+    "fear-first-move",
+    "keep-it-surface",
+    "spread-too-thin"
+  ],
   "questions": [
     {
       "text": "You meet someone you click with. What happens next?",
       "options": [
-        { "text": "I hope they reach out first, and quietly wait to see if they do.", "weights": { "wait-to-be-chosen": 2 } },
-        { "text": "I want to text them, but I freeze up worrying I will seem needy.", "weights": { "fear-first-move": 2 } },
-        { "text": "We chat a few times, but it never gets past the small talk.", "weights": { "keep-it-surface": 2 } },
-        { "text": "I mean to follow up, but my week swallows it whole.", "weights": { "spread-too-thin": 2 } }
+        {
+          "text": "I hope they reach out first, and quietly wait to see if they do.",
+          "weights": {
+            "wait-to-be-chosen": 2
+          }
+        },
+        {
+          "text": "I want to text them, but I freeze up worrying I will seem needy.",
+          "weights": {
+            "fear-first-move": 2
+          }
+        },
+        {
+          "text": "We chat a few times, but it never gets past the small talk.",
+          "weights": {
+            "keep-it-surface": 2
+          }
+        },
+        {
+          "text": "I mean to follow up, but my week swallows it whole.",
+          "weights": {
+            "spread-too-thin": 2
+          }
+        }
       ]
     },
     {
       "text": "Be honest. What is the real reason you have not made the first move?",
       "options": [
-        { "text": "I figure if they wanted to be friends, they would ask me.", "weights": { "wait-to-be-chosen": 2 } },
-        { "text": "I am scared of looking too eager or getting turned down.", "weights": { "fear-first-move": 2, "wait-to-be-chosen": 1 } },
-        { "text": "I do reach out, I just keep it light and never go deeper.", "weights": { "keep-it-surface": 2 } },
-        { "text": "I genuinely do not have the time or energy right now.", "weights": { "spread-too-thin": 2 } }
+        {
+          "text": "I figure if they wanted to be friends, they would ask me.",
+          "weights": {
+            "wait-to-be-chosen": 2
+          }
+        },
+        {
+          "text": "I am scared of looking too eager or getting turned down.",
+          "weights": {
+            "fear-first-move": 2,
+            "wait-to-be-chosen": 1
+          }
+        },
+        {
+          "text": "I do reach out, I just keep it light and never go deeper.",
+          "weights": {
+            "keep-it-surface": 2
+          }
+        },
+        {
+          "text": "I genuinely do not have the time or energy right now.",
+          "weights": {
+            "spread-too-thin": 2
+          }
+        }
       ]
     },
     {
       "text": "How much do people actually know about your real life?",
       "options": [
-        { "text": "Not much. I wait for others to open up before I do.", "weights": { "wait-to-be-chosen": 2 } },
-        { "text": "Less than I want. Opening up feels too risky.", "weights": { "fear-first-move": 2 } },
-        { "text": "The fun parts, sure. The hard parts stay private.", "weights": { "keep-it-surface": 2 } },
-        { "text": "Honestly I am too busy to let anyone in that far.", "weights": { "spread-too-thin": 2 } }
+        {
+          "text": "Not much. I wait for others to open up before I do.",
+          "weights": {
+            "wait-to-be-chosen": 2
+          }
+        },
+        {
+          "text": "Less than I want. Opening up feels too risky.",
+          "weights": {
+            "fear-first-move": 2
+          }
+        },
+        {
+          "text": "The fun parts, sure. The hard parts stay private.",
+          "weights": {
+            "keep-it-surface": 2
+          }
+        },
+        {
+          "text": "Honestly I am too busy to let anyone in that far.",
+          "weights": {
+            "spread-too-thin": 2
+          }
+        }
       ]
     },
     {
       "text": "What goes through your head before a social event?",
       "options": [
-        { "text": "I hope someone includes me so I do not feel like a tag-along.", "weights": { "wait-to-be-chosen": 2 } },
-        { "text": "What if I say the wrong thing and they decide I am too much?", "weights": { "fear-first-move": 2 } },
-        { "text": "I will show up, stay pleasant, and keep things on the surface.", "weights": { "keep-it-surface": 2 } },
-        { "text": "Do I even have the energy? Maybe I will just cancel.", "weights": { "spread-too-thin": 2 } }
+        {
+          "text": "I hope someone includes me so I do not feel like a tag-along.",
+          "weights": {
+            "wait-to-be-chosen": 2
+          }
+        },
+        {
+          "text": "What if I say the wrong thing and they decide I am too much?",
+          "weights": {
+            "fear-first-move": 2
+          }
+        },
+        {
+          "text": "I will show up, stay pleasant, and keep things on the surface.",
+          "weights": {
+            "keep-it-surface": 2
+          }
+        },
+        {
+          "text": "Do I even have the energy? Maybe I will just cancel.",
+          "weights": {
+            "spread-too-thin": 2
+          }
+        }
       ]
     },
     {
       "text": "When a friendship fades, what story do you tell yourself?",
       "options": [
-        { "text": "They never really wanted me around in the first place.", "weights": { "wait-to-be-chosen": 2 } },
-        { "text": "I should have tried harder, but reaching out scared me.", "weights": { "fear-first-move": 2 } },
-        { "text": "We were friendly, but it was never deep enough to last.", "weights": { "keep-it-surface": 2 } },
-        { "text": "Life got busy on both sides and we just drifted.", "weights": { "spread-too-thin": 2 } }
+        {
+          "text": "They never really wanted me around in the first place.",
+          "weights": {
+            "wait-to-be-chosen": 2
+          }
+        },
+        {
+          "text": "I should have tried harder, but reaching out scared me.",
+          "weights": {
+            "fear-first-move": 2
+          }
+        },
+        {
+          "text": "We were friendly, but it was never deep enough to last.",
+          "weights": {
+            "keep-it-surface": 2
+          }
+        },
+        {
+          "text": "Life got busy on both sides and we just drifted.",
+          "weights": {
+            "spread-too-thin": 2
+          }
+        }
       ]
     },
     {
       "text": "Which of these would be hardest for you to do tomorrow?",
       "options": [
-        { "text": "Assume someone likes me and act like it without proof.", "weights": { "wait-to-be-chosen": 2 } },
-        { "text": "Send a first this-was-fun, let's-do-it-again text.", "weights": { "fear-first-move": 2 } },
-        { "text": "Tell a friend something I am actually struggling with.", "weights": { "keep-it-surface": 2 } },
-        { "text": "Clear an evening and protect it for someone.", "weights": { "spread-too-thin": 2 } }
+        {
+          "text": "Assume someone likes me and act like it without proof.",
+          "weights": {
+            "wait-to-be-chosen": 2
+          }
+        },
+        {
+          "text": "Send a first this-was-fun, let's-do-it-again text.",
+          "weights": {
+            "fear-first-move": 2
+          }
+        },
+        {
+          "text": "Tell a friend something I am actually struggling with.",
+          "weights": {
+            "keep-it-surface": 2
+          }
+        },
+        {
+          "text": "Clear an evening and protect it for someone.",
+          "weights": {
+            "spread-too-thin": 2
+          }
+        }
       ]
     },
     {
       "text": "How would you describe your current circle?",
       "options": [
-        { "text": "I am on the edges of groups, never quite the inner ring.", "weights": { "wait-to-be-chosen": 2 } },
-        { "text": "Small, because letting new people in feels too vulnerable.", "weights": { "fear-first-move": 2 } },
-        { "text": "Lots of acquaintances, very few I would call close.", "weights": { "keep-it-surface": 2 } },
-        { "text": "I have good people, I just never see any of them.", "weights": { "spread-too-thin": 2 } }
+        {
+          "text": "I am on the edges of groups, never quite the inner ring.",
+          "weights": {
+            "wait-to-be-chosen": 2
+          }
+        },
+        {
+          "text": "Small, because letting new people in feels too vulnerable.",
+          "weights": {
+            "fear-first-move": 2
+          }
+        },
+        {
+          "text": "Lots of acquaintances, very few I would call close.",
+          "weights": {
+            "keep-it-surface": 2
+          }
+        },
+        {
+          "text": "I have good people, I just never see any of them.",
+          "weights": {
+            "spread-too-thin": 2
+          }
+        }
       ]
     },
     {
       "text": "What do you most long for in friendship?",
       "options": [
-        { "text": "To be wanted, to be the one someone actively picks.", "weights": { "wait-to-be-chosen": 2 } },
-        { "text": "To feel safe enough to stop bracing for rejection.", "weights": { "fear-first-move": 2 } },
-        { "text": "To finally be known, not just liked.", "weights": { "keep-it-surface": 2 } },
-        { "text": "Time. Just the margin to actually nurture the people I love.", "weights": { "spread-too-thin": 2 } }
+        {
+          "text": "To be wanted, to be the one someone actively picks.",
+          "weights": {
+            "wait-to-be-chosen": 2
+          }
+        },
+        {
+          "text": "To feel safe enough to stop bracing for rejection.",
+          "weights": {
+            "fear-first-move": 2
+          }
+        },
+        {
+          "text": "To finally be known, not just liked.",
+          "weights": {
+            "keep-it-surface": 2
+          }
+        },
+        {
+          "text": "Time. Just the margin to actually nurture the people I love.",
+          "weights": {
+            "spread-too-thin": 2
+          }
+        }
       ]
     }
   ],
@@ -85,22 +251,38 @@
     "wait-to-be-chosen": {
       "name": "You Wait to Be Chosen",
       "description": "You hang back, hoping someone will notice you and pull you in. The trouble is, the people you want as friends are often waiting on the very same thing. You do not have to be picked to belong. Try reaching first, just once. You are allowed to want connection and go after it.",
-      "scripture": { "text": "A man that hath friends must shew himself friendly.", "reference": "Proverbs 18:24" }
+      "scripture": {
+        "text": "He that maketh many friends doeth it to his own destruction; But there is a friend that sticketh closer than a brother.",
+        "reference": "Proverbs 18:24",
+        "translation": "ASV"
+      }
     },
     "fear-first-move": {
       "name": "You Fear the First Move",
       "description": "The text stays unsent, the invitation never leaves your head, all because rejection feels too costly to risk. That fear is real, but it is also keeping you lonely. Most people are relieved when someone braver goes first. Let it be you this time. A little courage can open a door that has been stuck for years.",
-      "scripture": { "text": "God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.", "reference": "2 Timothy 1:7" }
+      "scripture": {
+        "text": "For God gave us not a spirit of fearfulness; but of power and love and discipline.",
+        "reference": "2 Timothy 1:7",
+        "translation": "ASV"
+      }
     },
     "keep-it-surface": {
       "name": "You Keep It Surface",
       "description": "You are easy to be around and people like you, but you rarely let anyone past the friendly small talk. Real friendship grows in the deeper places you keep guarding. You do not have to overshare to go deeper. Just let one trustworthy person see a little more of the real you.",
-      "scripture": { "text": "Bear ye one another's burdens, and so fulfil the law of Christ.", "reference": "Galatians 6:2" }
+      "scripture": {
+        "text": "Bear ye one another’s burdens, and so fulfil the law of Christ.",
+        "reference": "Galatians 6:2",
+        "translation": "ASV"
+      }
     },
     "spread-too-thin": {
       "name": "You're Spread Too Thin",
       "description": "It is not that you do not care. You simply have nothing left after everything else gets its slice of you. Friendship needs margin, and yours has quietly disappeared. Pick one person and protect a little time for them on purpose. The people who matter are worth guarding space for.",
-      "scripture": { "text": "To every thing there is a season, and a time to every purpose under the heaven.", "reference": "Ecclesiastes 3:1" }
+      "scripture": {
+        "text": "For everything there is a season, and a time for every purpose under heaven:",
+        "reference": "Ecclesiastes 3:1",
+        "translation": "ASV"
+      }
     }
   }
 }

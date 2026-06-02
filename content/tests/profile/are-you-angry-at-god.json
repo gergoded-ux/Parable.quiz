@@ -6,78 +6,244 @@
   "category": "spiritual-profile",
   "estimatedMinutes": 5,
   "mode": "profile",
-  "dimensions": ["hiding-it", "wrestling-honestly", "more-disappointed", "numb-and-distant"],
+  "dimensions": [
+    "hiding-it",
+    "wrestling-honestly",
+    "more-disappointed",
+    "numb-and-distant"
+  ],
   "questions": [
     {
       "text": "When you pray lately, what's really going on underneath?",
       "options": [
-        { "text": "I say the right words but hide what I actually feel.", "weights": { "hiding-it": 3 } },
-        { "text": "I tell Him exactly how upset I am.", "weights": { "wrestling-honestly": 3 } },
-        { "text": "More of a sad sigh than anger. I expected more from Him.", "weights": { "more-disappointed": 3 } },
-        { "text": "I don't really pray much anymore. I've gone quiet.", "weights": { "numb-and-distant": 3 } }
+        {
+          "text": "I say the right words but hide what I actually feel.",
+          "weights": {
+            "hiding-it": 3
+          }
+        },
+        {
+          "text": "I tell Him exactly how upset I am.",
+          "weights": {
+            "wrestling-honestly": 3
+          }
+        },
+        {
+          "text": "More of a sad sigh than anger. I expected more from Him.",
+          "weights": {
+            "more-disappointed": 3
+          }
+        },
+        {
+          "text": "I don't really pray much anymore. I've gone quiet.",
+          "weights": {
+            "numb-and-distant": 3
+          }
+        }
       ]
     },
     {
       "text": "Something didn't go the way you begged God for. Now you feel...",
       "options": [
-        { "text": "Anger I'd never admit, so I tuck it away.", "weights": { "hiding-it": 3 } },
-        { "text": "Anger I'm bringing straight to Him.", "weights": { "wrestling-honestly": 3 } },
-        { "text": "Let down, like He could have and just didn't.", "weights": { "more-disappointed": 3 } },
-        { "text": "Flat. I've stopped expecting much at all.", "weights": { "numb-and-distant": 3 } }
+        {
+          "text": "Anger I'd never admit, so I tuck it away.",
+          "weights": {
+            "hiding-it": 3
+          }
+        },
+        {
+          "text": "Anger I'm bringing straight to Him.",
+          "weights": {
+            "wrestling-honestly": 3
+          }
+        },
+        {
+          "text": "Let down, like He could have and just didn't.",
+          "weights": {
+            "more-disappointed": 3
+          }
+        },
+        {
+          "text": "Flat. I've stopped expecting much at all.",
+          "weights": {
+            "numb-and-distant": 3
+          }
+        }
       ]
     },
     {
       "text": "If a friend asked how you're doing with God, you'd say...",
       "options": [
-        { "text": "Fine, totally fine. Even though I'm not.", "weights": { "hiding-it": 3 } },
-        { "text": "Honestly, we're in it right now, and I'm being real with Him.", "weights": { "wrestling-honestly": 3 } },
-        { "text": "Kind of disappointed, if I'm being truthful.", "weights": { "more-disappointed": 3 } },
-        { "text": "Distant. I don't feel much of anything toward Him.", "weights": { "numb-and-distant": 3 } }
+        {
+          "text": "Fine, totally fine. Even though I'm not.",
+          "weights": {
+            "hiding-it": 3
+          }
+        },
+        {
+          "text": "Honestly, we're in it right now, and I'm being real with Him.",
+          "weights": {
+            "wrestling-honestly": 3
+          }
+        },
+        {
+          "text": "Kind of disappointed, if I'm being truthful.",
+          "weights": {
+            "more-disappointed": 3
+          }
+        },
+        {
+          "text": "Distant. I don't feel much of anything toward Him.",
+          "weights": {
+            "numb-and-distant": 3
+          }
+        }
       ]
     },
     {
       "text": "Why do you think the anger is hard to admit?",
       "options": [
-        { "text": "I was taught good Christians don't get mad at God.", "weights": { "hiding-it": 3 } },
-        { "text": "It isn't, really. I figure He already knows.", "weights": { "wrestling-honestly": 3 } },
-        { "text": "It's not quite anger. It's the ache of being let down.", "weights": { "more-disappointed": 3 } },
-        { "text": "I've shut the feeling off entirely.", "weights": { "numb-and-distant": 2, "hiding-it": 1 } }
+        {
+          "text": "I was taught good Christians don't get mad at God.",
+          "weights": {
+            "hiding-it": 3
+          }
+        },
+        {
+          "text": "It isn't, really. I figure He already knows.",
+          "weights": {
+            "wrestling-honestly": 3
+          }
+        },
+        {
+          "text": "It's not quite anger. It's the ache of being let down.",
+          "weights": {
+            "more-disappointed": 3
+          }
+        },
+        {
+          "text": "I've shut the feeling off entirely.",
+          "weights": {
+            "numb-and-distant": 2,
+            "hiding-it": 1
+          }
+        }
       ]
     },
     {
       "text": "When you read the Psalms where people cry out hard, you feel...",
       "options": [
-        { "text": "Surprised you're allowed to talk to God like that.", "weights": { "hiding-it": 3 } },
-        { "text": "Seen. That's exactly how I've been praying.", "weights": { "wrestling-honestly": 3 } },
-        { "text": "A quiet recognition of my own disappointment.", "weights": { "more-disappointed": 3 } },
-        { "text": "Not much. I'm too checked out to feel it.", "weights": { "numb-and-distant": 3 } }
+        {
+          "text": "Surprised you're allowed to talk to God like that.",
+          "weights": {
+            "hiding-it": 3
+          }
+        },
+        {
+          "text": "Seen. That's exactly how I've been praying.",
+          "weights": {
+            "wrestling-honestly": 3
+          }
+        },
+        {
+          "text": "A quiet recognition of my own disappointment.",
+          "weights": {
+            "more-disappointed": 3
+          }
+        },
+        {
+          "text": "Not much. I'm too checked out to feel it.",
+          "weights": {
+            "numb-and-distant": 3
+          }
+        }
       ]
     },
     {
       "text": "What's the hardest thing to carry in all this?",
       "options": [
-        { "text": "Guilt for feeling angry at God at all.", "weights": { "hiding-it": 3 } },
-        { "text": "Not knowing if He'll answer back while I wrestle.", "weights": { "wrestling-honestly": 3 } },
-        { "text": "Wondering why He stayed silent when I needed Him.", "weights": { "more-disappointed": 3 } },
-        { "text": "The hollow space where my faith used to feel alive.", "weights": { "numb-and-distant": 3 } }
+        {
+          "text": "Guilt for feeling angry at God at all.",
+          "weights": {
+            "hiding-it": 3
+          }
+        },
+        {
+          "text": "Not knowing if He'll answer back while I wrestle.",
+          "weights": {
+            "wrestling-honestly": 3
+          }
+        },
+        {
+          "text": "Wondering why He stayed silent when I needed Him.",
+          "weights": {
+            "more-disappointed": 3
+          }
+        },
+        {
+          "text": "The hollow space where my faith used to feel alive.",
+          "weights": {
+            "numb-and-distant": 3
+          }
+        }
       ]
     },
     {
       "text": "Deep down, what do you actually want from God?",
       "options": [
-        { "text": "Permission to be honest without losing Him.", "weights": { "hiding-it": 3 } },
-        { "text": "To meet me in the middle of the fight.", "weights": { "wrestling-honestly": 3 } },
-        { "text": "An explanation for why things went the way they did.", "weights": { "more-disappointed": 3 } },
-        { "text": "To feel anything for Him again.", "weights": { "numb-and-distant": 3 } }
+        {
+          "text": "Permission to be honest without losing Him.",
+          "weights": {
+            "hiding-it": 3
+          }
+        },
+        {
+          "text": "To meet me in the middle of the fight.",
+          "weights": {
+            "wrestling-honestly": 3
+          }
+        },
+        {
+          "text": "An explanation for why things went the way they did.",
+          "weights": {
+            "more-disappointed": 3
+          }
+        },
+        {
+          "text": "To feel anything for Him again.",
+          "weights": {
+            "numb-and-distant": 3
+          }
+        }
       ]
     },
     {
       "text": "If God spoke one line to you tonight, you'd want it to be...",
       "options": [
-        { "text": "I can handle your anger. You don't have to hide it from me.", "weights": { "hiding-it": 3 } },
-        { "text": "Keep wrestling. I'm not going anywhere.", "weights": { "wrestling-honestly": 3 } },
-        { "text": "I know it didn't go how you hoped. I haven't forgotten you.", "weights": { "more-disappointed": 3 } },
-        { "text": "I'm still here, even in the numbness.", "weights": { "numb-and-distant": 3 } }
+        {
+          "text": "I can handle your anger. You don't have to hide it from me.",
+          "weights": {
+            "hiding-it": 3
+          }
+        },
+        {
+          "text": "Keep wrestling. I'm not going anywhere.",
+          "weights": {
+            "wrestling-honestly": 3
+          }
+        },
+        {
+          "text": "I know it didn't go how you hoped. I haven't forgotten you.",
+          "weights": {
+            "more-disappointed": 3
+          }
+        },
+        {
+          "text": "I'm still here, even in the numbness.",
+          "weights": {
+            "numb-and-distant": 3
+          }
+        }
       ]
     }
   ],
@@ -85,22 +251,38 @@
     "hiding-it": {
       "name": "Yes, and You're Hiding It",
       "description": "You're angry at God, but you've buried it under polite prayers and a brave face because somewhere you learned you weren't allowed to feel this. Here's the freeing truth: He already knows, and He isn't fragile. Job said bold, raw things to God, and God called him honest. You can stop pretending. The God who made you can hold your anger without flinching, and bringing it to Him is far better than hiding it from Him.",
-      "scripture": { "text": "Pour out your heart before him: God is a refuge for us.", "reference": "Psalm 62:8" }
+      "scripture": {
+        "text": "Trust in him at all times, ye people; Pour out your heart before him: God is a refuge for us. [Selah",
+        "reference": "Psalm 62:8",
+        "translation": "ASV"
+      }
     },
     "wrestling-honestly": {
       "name": "Yes, and You're Wrestling Honestly",
       "description": "You're angry and you're bringing it straight to God instead of away from Him, and that's actually a sign of deep faith, not the lack of it. Jacob wrestled with God all night and walked away blessed, not rejected. You're in good company. The people who got the most honest with God in Scripture were often the closest to Him. Keep wrestling. He stays in the ring with you, and He blesses the ones who refuse to let go.",
-      "scripture": { "text": "I will not let thee go, except thou bless me.", "reference": "Genesis 32:26" }
+      "scripture": {
+        "text": "And he said, Let me go, for the day breaketh. And he said, I will not let thee go, except thou bless me.",
+        "reference": "Genesis 32:26",
+        "translation": "ASV"
+      }
     },
     "more-disappointed": {
       "name": "More Disappointed Than Angry",
       "description": "It's not fury so much as a deep ache. You expected God to show up a certain way, and He didn't, and now there's this quiet letdown sitting in your chest. That's worth naming. Disappointment with God is real, and you're allowed to feel it. Bring Him the gap between what you hoped for and what happened. He doesn't ask you to fake gratitude. He invites you to tell Him the truth and to keep trusting that He sees the whole story you can't.",
-      "scripture": { "text": "My God, my God, why hast thou forsaken me?", "reference": "Psalm 22:1" }
+      "scripture": {
+        "text": "My God, my God, why hast thou forsaken me? Why art thou sofar from helping me, and from the words of my groaning?",
+        "reference": "Psalm 22:1",
+        "translation": "ASV"
+      }
     },
     "numb-and-distant": {
       "name": "Numb and Distant Right Now",
       "description": "You're not even angry anymore. You've gone quiet, distant, a little numb, like you've pulled the plug to stop the hurt. That's a real place to be, and you don't have to perform your way out of it. Numbness is often grief that hasn't had anywhere safe to go. God hasn't moved. He's right here in the silence, patient with you, not asking you to feel something you can't yet. The flicker can come back, and He'll be here when it does.",
-      "scripture": { "text": "The Lord is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.", "reference": "Psalm 34:18" }
+      "scripture": {
+        "text": "Jehovah is nigh unto them that are of a broken heart, And saveth such as are of a contrite spirit.",
+        "reference": "Psalm 34:18",
+        "translation": "ASV"
+      }
     }
   }
 }

@@ -16,91 +16,291 @@
     {
       "text": "When you mess up, what's the sentence that runs through your head?",
       "options": [
-        { "text": "I did something wrong and I need to make it right.", "weights": { "mostly-guilt": 3 } },
-        { "text": "There's something wrong with me, at the core.", "weights": { "mostly-shame": 3 } },
-        { "text": "Both, honestly. I can't tell where one ends.", "weights": { "tangle-of-both": 3 } },
-        { "text": "One slip and an old voice says, see, you've always been this way.", "weights": { "old-shame-masked": 3 } }
+        {
+          "text": "I did something wrong and I need to make it right.",
+          "weights": {
+            "mostly-guilt": 3
+          }
+        },
+        {
+          "text": "There's something wrong with me, at the core.",
+          "weights": {
+            "mostly-shame": 3
+          }
+        },
+        {
+          "text": "Both, honestly. I can't tell where one ends.",
+          "weights": {
+            "tangle-of-both": 3
+          }
+        },
+        {
+          "text": "One slip and an old voice says, see, you've always been this way.",
+          "weights": {
+            "old-shame-masked": 3
+          }
+        }
       ]
     },
     {
       "text": "What does the heavy feeling point you toward?",
       "options": [
-        { "text": "An action I can confess, repair, or apologize for.", "weights": { "mostly-guilt": 3 } },
-        { "text": "A verdict about who I am that no apology seems to fix.", "weights": { "mostly-shame": 3 } },
-        { "text": "Sometimes a specific thing, sometimes just a fog of badness.", "weights": { "tangle-of-both": 3 } },
-        { "text": "A recent mistake that drags up everything I hate about myself.", "weights": { "old-shame-masked": 3 } }
+        {
+          "text": "An action I can confess, repair, or apologize for.",
+          "weights": {
+            "mostly-guilt": 3
+          }
+        },
+        {
+          "text": "A verdict about who I am that no apology seems to fix.",
+          "weights": {
+            "mostly-shame": 3
+          }
+        },
+        {
+          "text": "Sometimes a specific thing, sometimes just a fog of badness.",
+          "weights": {
+            "tangle-of-both": 3
+          }
+        },
+        {
+          "text": "A recent mistake that drags up everything I hate about myself.",
+          "weights": {
+            "old-shame-masked": 3
+          }
+        }
       ]
     },
     {
       "text": "After you've confessed and been forgiven, what happens?",
       "options": [
-        { "text": "Relief. The weight lifts and I can move forward.", "weights": { "mostly-guilt": 3 } },
-        { "text": "The feeling stays. Forgiveness doesn't seem to reach it.", "weights": { "mostly-shame": 3 } },
-        { "text": "Some lifts, some lingers. It's never fully gone.", "weights": { "tangle-of-both": 3 } },
-        { "text": "I feel forgiven for the act but still rotten as a person.", "weights": { "old-shame-masked": 3 } }
+        {
+          "text": "Relief. The weight lifts and I can move forward.",
+          "weights": {
+            "mostly-guilt": 3
+          }
+        },
+        {
+          "text": "The feeling stays. Forgiveness doesn't seem to reach it.",
+          "weights": {
+            "mostly-shame": 3
+          }
+        },
+        {
+          "text": "Some lifts, some lingers. It's never fully gone.",
+          "weights": {
+            "tangle-of-both": 3
+          }
+        },
+        {
+          "text": "I feel forgiven for the act but still rotten as a person.",
+          "weights": {
+            "old-shame-masked": 3
+          }
+        }
       ]
     },
     {
       "text": "Which voice sounds more familiar?",
       "options": [
-        { "text": "A nudge: that wasn't right, go fix it.", "weights": { "mostly-guilt": 3 } },
-        { "text": "A sneer: you're worthless and you always will be.", "weights": { "mostly-shame": 3 } },
-        { "text": "Both at once, talking over each other.", "weights": { "tangle-of-both": 3 } },
-        { "text": "A nudge that quickly turns into the old sneer.", "weights": { "old-shame-masked": 3 } }
+        {
+          "text": "A nudge: that wasn't right, go fix it.",
+          "weights": {
+            "mostly-guilt": 3
+          }
+        },
+        {
+          "text": "A sneer: you're worthless and you always will be.",
+          "weights": {
+            "mostly-shame": 3
+          }
+        },
+        {
+          "text": "Both at once, talking over each other.",
+          "weights": {
+            "tangle-of-both": 3
+          }
+        },
+        {
+          "text": "A nudge that quickly turns into the old sneer.",
+          "weights": {
+            "old-shame-masked": 3
+          }
+        }
       ]
     },
     {
       "text": "How does the feeling make you want to act?",
       "options": [
-        { "text": "Toward the person or thing, to set it right.", "weights": { "mostly-guilt": 3 } },
-        { "text": "Away from everyone, to hide where no one can see me.", "weights": { "mostly-shame": 3 } },
-        { "text": "Pulled both ways, fix it and disappear.", "weights": { "tangle-of-both": 3 } },
-        { "text": "To hide, even when the actual issue was small and fixable.", "weights": { "old-shame-masked": 3 } }
+        {
+          "text": "Toward the person or thing, to set it right.",
+          "weights": {
+            "mostly-guilt": 3
+          }
+        },
+        {
+          "text": "Away from everyone, to hide where no one can see me.",
+          "weights": {
+            "mostly-shame": 3
+          }
+        },
+        {
+          "text": "Pulled both ways, fix it and disappear.",
+          "weights": {
+            "tangle-of-both": 3
+          }
+        },
+        {
+          "text": "To hide, even when the actual issue was small and fixable.",
+          "weights": {
+            "old-shame-masked": 3
+          }
+        }
       ]
     },
     {
       "text": "Where do you think the heaviness comes from?",
       "options": [
-        { "text": "A real thing I did that genuinely needs addressing.", "weights": { "mostly-guilt": 3 } },
-        { "text": "A deep belief that I'm fundamentally unacceptable.", "weights": { "mostly-shame": 3 } },
-        { "text": "A blend of real wrongs and a harsh inner critic.", "weights": { "tangle-of-both": 3 } },
-        { "text": "Old messages from way back that today's slip reactivates.", "weights": { "old-shame-masked": 3 } }
+        {
+          "text": "A real thing I did that genuinely needs addressing.",
+          "weights": {
+            "mostly-guilt": 3
+          }
+        },
+        {
+          "text": "A deep belief that I'm fundamentally unacceptable.",
+          "weights": {
+            "mostly-shame": 3
+          }
+        },
+        {
+          "text": "A blend of real wrongs and a harsh inner critic.",
+          "weights": {
+            "tangle-of-both": 3
+          }
+        },
+        {
+          "text": "Old messages from way back that today's slip reactivates.",
+          "weights": {
+            "old-shame-masked": 3
+          }
+        }
       ]
     },
     {
       "text": "When you imagine God looking at you right now, you picture...",
       "options": [
-        { "text": "A Father pointing at the thing, ready to help me fix it.", "weights": { "mostly-guilt": 3 } },
-        { "text": "A judge who's done with me.", "weights": { "mostly-shame": 3 } },
-        { "text": "I flip between the Father and the judge.", "weights": { "tangle-of-both": 3 } },
-        { "text": "Someone disappointed in who I've always been.", "weights": { "old-shame-masked": 3 } }
+        {
+          "text": "A Father pointing at the thing, ready to help me fix it.",
+          "weights": {
+            "mostly-guilt": 3
+          }
+        },
+        {
+          "text": "A judge who's done with me.",
+          "weights": {
+            "mostly-shame": 3
+          }
+        },
+        {
+          "text": "I flip between the Father and the judge.",
+          "weights": {
+            "tangle-of-both": 3
+          }
+        },
+        {
+          "text": "Someone disappointed in who I've always been.",
+          "weights": {
+            "old-shame-masked": 3
+          }
+        }
       ]
     },
     {
       "text": "Which statement makes you wince?",
       "options": [
-        { "text": "I owe someone an apology I haven't given.", "weights": { "mostly-guilt": 3 } },
-        { "text": "If people really knew me, they'd walk away.", "weights": { "mostly-shame": 3 } },
-        { "text": "I can't always tell my regret from my self-hatred.", "weights": { "tangle-of-both": 3 } },
-        { "text": "Small mistakes make me feel like the failure I always feared I was.", "weights": { "old-shame-masked": 3 } }
+        {
+          "text": "I owe someone an apology I haven't given.",
+          "weights": {
+            "mostly-guilt": 3
+          }
+        },
+        {
+          "text": "If people really knew me, they'd walk away.",
+          "weights": {
+            "mostly-shame": 3
+          }
+        },
+        {
+          "text": "I can't always tell my regret from my self-hatred.",
+          "weights": {
+            "tangle-of-both": 3
+          }
+        },
+        {
+          "text": "Small mistakes make me feel like the failure I always feared I was.",
+          "weights": {
+            "old-shame-masked": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you most need to hear?",
       "options": [
-        { "text": "You can make this right, and grace covers it.", "weights": { "mostly-guilt": 3 } },
-        { "text": "You are not what that voice says. You are loved and not condemned.", "weights": { "mostly-shame": 3 } },
-        { "text": "Let's separate what you did from who you are.", "weights": { "tangle-of-both": 3 } },
-        { "text": "That old verdict isn't God's voice. It never was.", "weights": { "old-shame-masked": 3 } }
+        {
+          "text": "You can make this right, and grace covers it.",
+          "weights": {
+            "mostly-guilt": 3
+          }
+        },
+        {
+          "text": "You are not what that voice says. You are loved and not condemned.",
+          "weights": {
+            "mostly-shame": 3
+          }
+        },
+        {
+          "text": "Let's separate what you did from who you are.",
+          "weights": {
+            "tangle-of-both": 3
+          }
+        },
+        {
+          "text": "That old verdict isn't God's voice. It never was.",
+          "weights": {
+            "old-shame-masked": 3
+          }
+        }
       ]
     },
     {
       "text": "Gut check. Which one is it?",
       "options": [
-        { "text": "Mostly guilt over something I did.", "weights": { "mostly-guilt": 3 } },
-        { "text": "Mostly shame about who I am.", "weights": { "mostly-shame": 3 } },
-        { "text": "A tangle of both.", "weights": { "tangle-of-both": 3 } },
-        { "text": "Old shame wearing guilt's mask.", "weights": { "old-shame-masked": 3 } }
+        {
+          "text": "Mostly guilt over something I did.",
+          "weights": {
+            "mostly-guilt": 3
+          }
+        },
+        {
+          "text": "Mostly shame about who I am.",
+          "weights": {
+            "mostly-shame": 3
+          }
+        },
+        {
+          "text": "A tangle of both.",
+          "weights": {
+            "tangle-of-both": 3
+          }
+        },
+        {
+          "text": "Old shame wearing guilt's mask.",
+          "weights": {
+            "old-shame-masked": 3
+          }
+        }
       ]
     }
   ],
@@ -108,22 +308,38 @@
     "mostly-guilt": {
       "name": "Mostly Guilt (Conviction)",
       "description": "What you're carrying is guilt, and that's actually good news. Guilt is honest. It points at a specific thing you did and says, that wasn't right, go make it right. That's the gentle conviction of God, and it has a clear way out: confess it, repair what you can, and receive the forgiveness that's already waiting for you. This kind of weight isn't meant to crush you. It's meant to move you. Once you've owned the thing and made it right, let the weight go. He's faithful to forgive, and He doesn't keep bringing it back up.",
-      "scripture": { "text": "If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness.", "reference": "1 John 1:9" }
+      "scripture": {
+        "text": "If we confess our sins, he is faithful and righteous to forgive us our sins, and to cleanse us from all unrighteousness.",
+        "reference": "1 John 1:9",
+        "translation": "ASV"
+      }
     },
     "mostly-shame": {
       "name": "Mostly Shame (Condemnation)",
       "description": "This isn't guilt over something you did. It's shame about who you are, a verdict that says you're fundamentally bad, and no apology ever seems to touch it. That voice is not God's. He convicts to restore, but He never condemns to crush. Shame drives you into hiding. Grace calls you out into the light to be loved. The cure for shame isn't trying harder, it's being told the truth: you are not too much, not beyond repair, not unacceptable. You are loved, chosen, and free of condemnation. Start answering the sneer with that truth, out loud, as many times as it takes.",
-      "scripture": { "text": "Those who look to him are radiant; their faces are never covered with shame.", "reference": "Psalm 34:5" }
+      "scripture": {
+        "text": "They looked unto him, and were radiant; And their faces shall never be confounded.",
+        "reference": "Psalm 34:5",
+        "translation": "ASV"
+      }
     },
     "tangle-of-both": {
       "name": "A Tangle of Both",
       "description": "Yours is a knot of real guilt and deeper shame, and they're so braided together you can't tell where one stops. The work here is to gently pull them apart, because they need opposite cures. For the guilt, the part that names a real wrong, confess it and make it right. For the shame, the part that whispers you're worthless, you don't repent your way out, you receive your way out, by hearing again that God doesn't condemn you. Take the true guilt to the cross and leave the false shame there too. One you fix. The other you let Him heal.",
-      "scripture": { "text": "There is now no condemnation for those who are in Christ Jesus.", "reference": "Romans 8:1" }
+      "scripture": {
+        "text": "There is therefore now no condemnation to them that are in Christ Jesus.",
+        "reference": "Romans 8:1",
+        "translation": "ASV"
+      }
     },
     "old-shame-masked": {
       "name": "Old Shame Wearing Guilt's Mask",
       "description": "Here's what this quiz uncovered: a small, fixable mistake hits you way harder than it should, because it yanks open an old wound. The voice sounds like guilt, but it's really old shame in disguise, an ancient verdict about your worth that today's slip just reactivates. That voice was planted long ago, and it is not the voice of God. He deals with the actual thing you did, simply and graciously, and He has nothing to add about who you fundamentally are except that you're His and you're loved. When the old sneer shows up, name it for what it is and refuse to let it borrow guilt's authority.",
-      "scripture": { "text": "You did not receive a spirit that makes you a slave again to fear, but the Spirit you received brought about your adoption to sonship.", "reference": "Romans 8:15" }
+      "scripture": {
+        "text": "For ye received not the spirit of bondage again unto fear; but ye received the spirit of adoption, whereby we cry, Abba, Father.",
+        "reference": "Romans 8:15",
+        "translation": "ASV"
+      }
     }
   }
 }

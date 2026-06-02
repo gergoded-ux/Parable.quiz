@@ -16,82 +16,263 @@
     {
       "text": "When someone you respect seems even slightly cold toward you, what happens inside?",
       "options": [
-        { "text": "I replay it for hours, sure I did something wrong.", "weights": { "approval-chaser": 3 } },
-        { "text": "I immediately try to smooth it over and make them happy.", "weights": { "people-pleaser": 3 } },
-        { "text": "I work harder to prove I'm worth their good opinion.", "weights": { "performer": 3 } },
-        { "text": "I notice it, but it doesn't shake who I am.", "weights": { "already-accepted": 3 } }
+        {
+          "text": "I replay it for hours, sure I did something wrong.",
+          "weights": {
+            "approval-chaser": 3
+          }
+        },
+        {
+          "text": "I immediately try to smooth it over and make them happy.",
+          "weights": {
+            "people-pleaser": 3
+          }
+        },
+        {
+          "text": "I work harder to prove I'm worth their good opinion.",
+          "weights": {
+            "performer": 3
+          }
+        },
+        {
+          "text": "I notice it, but it doesn't shake who I am.",
+          "weights": {
+            "already-accepted": 3
+          }
+        }
       ]
     },
     {
       "text": "Where does most of your sense of worth come from?",
       "options": [
-        { "text": "Whether the people I admire seem proud of me.", "weights": { "approval-chaser": 3 } },
-        { "text": "Whether everyone around me is content and unbothered.", "weights": { "people-pleaser": 3 } },
-        { "text": "What I produce and how well I do it.", "weights": { "performer": 3 } },
-        { "text": "Knowing I'm loved before I do a single thing.", "weights": { "already-accepted": 3 } }
+        {
+          "text": "Whether the people I admire seem proud of me.",
+          "weights": {
+            "approval-chaser": 3
+          }
+        },
+        {
+          "text": "Whether everyone around me is content and unbothered.",
+          "weights": {
+            "people-pleaser": 3
+          }
+        },
+        {
+          "text": "What I produce and how well I do it.",
+          "weights": {
+            "performer": 3
+          }
+        },
+        {
+          "text": "Knowing I'm loved before I do a single thing.",
+          "weights": {
+            "already-accepted": 3
+          }
+        }
       ]
     },
     {
       "text": "How do you feel about saying no to people?",
       "options": [
-        { "text": "Hard. I worry they'll think less of me.", "weights": { "approval-chaser": 2, "people-pleaser": 1 } },
-        { "text": "Almost impossible. I'd rather overextend than disappoint.", "weights": { "people-pleaser": 3 } },
-        { "text": "I'll say yes if it keeps me looking capable.", "weights": { "performer": 3 } },
-        { "text": "I can say no kindly without guilt eating at me.", "weights": { "already-accepted": 3 } }
+        {
+          "text": "Hard. I worry they'll think less of me.",
+          "weights": {
+            "approval-chaser": 2,
+            "people-pleaser": 1
+          }
+        },
+        {
+          "text": "Almost impossible. I'd rather overextend than disappoint.",
+          "weights": {
+            "people-pleaser": 3
+          }
+        },
+        {
+          "text": "I'll say yes if it keeps me looking capable.",
+          "weights": {
+            "performer": 3
+          }
+        },
+        {
+          "text": "I can say no kindly without guilt eating at me.",
+          "weights": {
+            "already-accepted": 3
+          }
+        }
       ]
     },
     {
       "text": "What's your honest reaction to praise?",
       "options": [
-        { "text": "I crave it and feel deflated when it doesn't come.", "weights": { "approval-chaser": 3 } },
-        { "text": "Relief, mostly. It means nobody's upset with me.", "weights": { "people-pleaser": 3 } },
-        { "text": "It fuels me to do even more, even bigger.", "weights": { "performer": 3 } },
-        { "text": "I enjoy it, but I don't need it to feel okay.", "weights": { "already-accepted": 3 } }
+        {
+          "text": "I crave it and feel deflated when it doesn't come.",
+          "weights": {
+            "approval-chaser": 3
+          }
+        },
+        {
+          "text": "Relief, mostly. It means nobody's upset with me.",
+          "weights": {
+            "people-pleaser": 3
+          }
+        },
+        {
+          "text": "It fuels me to do even more, even bigger.",
+          "weights": {
+            "performer": 3
+          }
+        },
+        {
+          "text": "I enjoy it, but I don't need it to feel okay.",
+          "weights": {
+            "already-accepted": 3
+          }
+        }
       ]
     },
     {
       "text": "When you imagine God looking at you right now, you picture...",
       "options": [
-        { "text": "Someone I'm still trying to win over.", "weights": { "approval-chaser": 3 } },
-        { "text": "Someone I really don't want to let down.", "weights": { "people-pleaser": 3 } },
-        { "text": "Someone keeping a tally of my output.", "weights": { "performer": 3 } },
-        { "text": "A Father who already delights in me.", "weights": { "already-accepted": 3 } }
+        {
+          "text": "Someone I'm still trying to win over.",
+          "weights": {
+            "approval-chaser": 3
+          }
+        },
+        {
+          "text": "Someone I really don't want to let down.",
+          "weights": {
+            "people-pleaser": 3
+          }
+        },
+        {
+          "text": "Someone keeping a tally of my output.",
+          "weights": {
+            "performer": 3
+          }
+        },
+        {
+          "text": "A Father who already delights in me.",
+          "weights": {
+            "already-accepted": 3
+          }
+        }
       ]
     },
     {
       "text": "What drives you hardest on a normal day?",
       "options": [
-        { "text": "The hope that today I'll finally feel like enough.", "weights": { "approval-chaser": 3 } },
-        { "text": "Keeping the peace so nobody's unhappy with me.", "weights": { "people-pleaser": 3 } },
-        { "text": "Getting more done so I stay ahead and valuable.", "weights": { "performer": 3 } },
-        { "text": "Living out of love instead of trying to earn it.", "weights": { "already-accepted": 3 } }
+        {
+          "text": "The hope that today I'll finally feel like enough.",
+          "weights": {
+            "approval-chaser": 3
+          }
+        },
+        {
+          "text": "Keeping the peace so nobody's unhappy with me.",
+          "weights": {
+            "people-pleaser": 3
+          }
+        },
+        {
+          "text": "Getting more done so I stay ahead and valuable.",
+          "weights": {
+            "performer": 3
+          }
+        },
+        {
+          "text": "Living out of love instead of trying to earn it.",
+          "weights": {
+            "already-accepted": 3
+          }
+        }
       ]
     },
     {
       "text": "How do you handle a mistake or a failure?",
       "options": [
-        { "text": "I'm crushed. It feels like proof I'm not worthy.", "weights": { "approval-chaser": 3 } },
-        { "text": "I apologize on a loop, terrified I've upset someone.", "weights": { "people-pleaser": 3 } },
-        { "text": "I scramble to fix it before anyone sees the slip.", "weights": { "performer": 3 } },
-        { "text": "I own it, learn from it, and let it go.", "weights": { "already-accepted": 3 } }
+        {
+          "text": "I'm crushed. It feels like proof I'm not worthy.",
+          "weights": {
+            "approval-chaser": 3
+          }
+        },
+        {
+          "text": "I apologize on a loop, terrified I've upset someone.",
+          "weights": {
+            "people-pleaser": 3
+          }
+        },
+        {
+          "text": "I scramble to fix it before anyone sees the slip.",
+          "weights": {
+            "performer": 3
+          }
+        },
+        {
+          "text": "I own it, learn from it, and let it go.",
+          "weights": {
+            "already-accepted": 3
+          }
+        }
       ]
     },
     {
       "text": "How rested do you actually feel?",
       "options": [
-        { "text": "Never quite. I'm always chasing the next bit of approval.", "weights": { "approval-chaser": 3 } },
-        { "text": "Tired from carrying everyone's feelings for them.", "weights": { "people-pleaser": 3 } },
-        { "text": "Wired. Stopping feels like falling behind.", "weights": { "performer": 3 } },
-        { "text": "Surprisingly settled. I'm not running on a treadmill.", "weights": { "already-accepted": 3 } }
+        {
+          "text": "Never quite. I'm always chasing the next bit of approval.",
+          "weights": {
+            "approval-chaser": 3
+          }
+        },
+        {
+          "text": "Tired from carrying everyone's feelings for them.",
+          "weights": {
+            "people-pleaser": 3
+          }
+        },
+        {
+          "text": "Wired. Stopping feels like falling behind.",
+          "weights": {
+            "performer": 3
+          }
+        },
+        {
+          "text": "Surprisingly settled. I'm not running on a treadmill.",
+          "weights": {
+            "already-accepted": 3
+          }
+        }
       ]
     },
     {
       "text": "Deep down, what do you most want to hear?",
       "options": [
-        { "text": "\"You finally earned it. You're enough now.\"", "weights": { "approval-chaser": 3 } },
-        { "text": "\"Nobody's upset with you. You can relax.\"", "weights": { "people-pleaser": 3 } },
-        { "text": "\"Look how much you accomplished. Impressive.\"", "weights": { "performer": 3 } },
-        { "text": "\"You were loved before you did anything at all.\"", "weights": { "already-accepted": 3 } }
+        {
+          "text": "\"You finally earned it. You're enough now.\"",
+          "weights": {
+            "approval-chaser": 3
+          }
+        },
+        {
+          "text": "\"Nobody's upset with you. You can relax.\"",
+          "weights": {
+            "people-pleaser": 3
+          }
+        },
+        {
+          "text": "\"Look how much you accomplished. Impressive.\"",
+          "weights": {
+            "performer": 3
+          }
+        },
+        {
+          "text": "\"You were loved before you did anything at all.\"",
+          "weights": {
+            "already-accepted": 3
+          }
+        }
       ]
     }
   ],
@@ -99,22 +280,38 @@
     "approval-chaser": {
       "name": "The Approval Chaser",
       "description": "You're running on a treadmill that never quite reaches the finish line. You chase the nod, the praise, the proof that you're finally enough, and the moment you get it, the bar moves again. It's exhausting, and you know it. Here's the freeing truth: God doesn't hand out His love as a prize for performance. He already approves of you, not because you earned it but because He chose you. You can step off the treadmill. The approval you've been sprinting toward was waiting at the start line the whole time.",
-      "scripture": { "text": "You are my Son, whom I love; with you I am well pleased.", "reference": "Luke 3:22" }
+      "scripture": {
+        "text": "and the Holy Spirit descended in a bodily form, as a dove, upon him, and a voice came out of heaven, Thou art my beloved Son; in thee I am well pleased.",
+        "reference": "Luke 3:22",
+        "translation": "ASV"
+      }
     },
     "people-pleaser": {
       "name": "The People-Pleaser",
       "description": "You carry everyone's feelings like they're yours to manage, and one person's frown can hijack your whole day. Keeping the peace has become your full-time job, and it's wearing you out. But you were never meant to be the source of everyone's happiness. That's a weight only God can hold. When you live from His acceptance, you can love people freely instead of frantically. You can disappoint someone and still be okay, because your worth was never up for a vote. Let Him carry the people you keep trying to carry.",
-      "scripture": { "text": "Am I now trying to win the approval of human beings, or of God?", "reference": "Galatians 1:10" }
+      "scripture": {
+        "text": "For am I now seeking the favor of men, or of God? or am I striving to please men? if I were still pleasing men, I should not be a servant of Christ.",
+        "reference": "Galatians 1:10",
+        "translation": "ASV"
+      }
     },
     "performer": {
       "name": "The Performer",
       "description": "You measure yourself by what you produce, and stopping feels dangerous, like the value drains out the second you're not achieving. So you keep going, keep proving, keep adding to the tally. But God isn't standing over you with a clipboard. He loved you fully before you accomplished anything, and He'll love you just as much on the day you do nothing impressive at all. Your worth isn't your output. You're allowed to rest, to be unproductive, to simply be His, because that identity was never something you had to perform your way into.",
-      "scripture": { "text": "Come to me, all you who are weary and burdened, and I will give you rest.", "reference": "Matthew 11:28" }
+      "scripture": {
+        "text": "Come unto me, all ye that labor and are heavy laden, and I will give you rest.",
+        "reference": "Matthew 11:28",
+        "translation": "ASV"
+      }
     },
     "already-accepted": {
       "name": "The Already-Accepted",
       "description": "You've tasted the thing so many people are striving for: you live from love, not for it. You can take praise or leave it, say no without guilt, and fail without falling apart, because your worth isn't riding on the next win. That's not pride. It's rest, and it's exactly what God intends. Keep guarding it, because the pull back toward earning is strong and sneaky. You already have His full acceptance. Stay rooted there, and let the freedom you've found spill over onto the people still stuck on the treadmill.",
-      "scripture": { "text": "Accept one another, then, just as Christ accepted you, in order to bring praise to God.", "reference": "Romans 15:7" }
+      "scripture": {
+        "text": "Wherefore receive ye one another, even as Christ also received you, to the glory of God.",
+        "reference": "Romans 15:7",
+        "translation": "ASV"
+      }
     }
   }
 }

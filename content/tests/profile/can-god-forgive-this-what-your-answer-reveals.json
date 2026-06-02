@@ -16,91 +16,291 @@
     {
       "text": "When you ask can God forgive this, what's the honest answer underneath?",
       "options": [
-        { "text": "Probably not. Mine feels like the exception.", "weights": { "beyond-grace": 3 } },
-        { "text": "Yes, I know He can. I just can't feel it.", "weights": { "cant-feel-it": 3 } },
-        { "text": "He could, if I were brave enough to actually tell Him.", "weights": { "hide-secret-sin": 3 } },
-        { "text": "Yes, and I'm ready to finally receive it.", "weights": { "ready-to-receive": 3 } }
+        {
+          "text": "Probably not. Mine feels like the exception.",
+          "weights": {
+            "beyond-grace": 3
+          }
+        },
+        {
+          "text": "Yes, I know He can. I just can't feel it.",
+          "weights": {
+            "cant-feel-it": 3
+          }
+        },
+        {
+          "text": "He could, if I were brave enough to actually tell Him.",
+          "weights": {
+            "hide-secret-sin": 3
+          }
+        },
+        {
+          "text": "Yes, and I'm ready to finally receive it.",
+          "weights": {
+            "ready-to-receive": 3
+          }
+        }
       ]
     },
     {
       "text": "What's your relationship with the thing you're carrying?",
       "options": [
-        { "text": "I replay it constantly, sure it disqualifies me for good.", "weights": { "beyond-grace": 3 } },
-        { "text": "I've confessed it but the guilt won't lift.", "weights": { "cant-feel-it": 3 } },
-        { "text": "I keep it hidden and pray no one ever finds out.", "weights": { "hide-secret-sin": 3 } },
-        { "text": "I'm bringing it into the open and laying it down.", "weights": { "ready-to-receive": 3 } }
+        {
+          "text": "I replay it constantly, sure it disqualifies me for good.",
+          "weights": {
+            "beyond-grace": 3
+          }
+        },
+        {
+          "text": "I've confessed it but the guilt won't lift.",
+          "weights": {
+            "cant-feel-it": 3
+          }
+        },
+        {
+          "text": "I keep it hidden and pray no one ever finds out.",
+          "weights": {
+            "hide-secret-sin": 3
+          }
+        },
+        {
+          "text": "I'm bringing it into the open and laying it down.",
+          "weights": {
+            "ready-to-receive": 3
+          }
+        }
       ]
     },
     {
       "text": "Which thought is closest to yours?",
       "options": [
-        { "text": "God forgives most people, but what I did is too far.", "weights": { "beyond-grace": 3 } },
-        { "text": "I'm forgiven on paper, but I sure don't feel forgiven.", "weights": { "cant-feel-it": 3 } },
-        { "text": "If I confess it fully, I'll have to face it.", "weights": { "hide-secret-sin": 3 } },
-        { "text": "His mercy is bigger than this, and I want it.", "weights": { "ready-to-receive": 3 } }
+        {
+          "text": "God forgives most people, but what I did is too far.",
+          "weights": {
+            "beyond-grace": 3
+          }
+        },
+        {
+          "text": "I'm forgiven on paper, but I sure don't feel forgiven.",
+          "weights": {
+            "cant-feel-it": 3
+          }
+        },
+        {
+          "text": "If I confess it fully, I'll have to face it.",
+          "weights": {
+            "hide-secret-sin": 3
+          }
+        },
+        {
+          "text": "His mercy is bigger than this, and I want it.",
+          "weights": {
+            "ready-to-receive": 3
+          }
+        }
       ]
     },
     {
       "text": "What keeps you from feeling free?",
       "options": [
-        { "text": "The size of what I did. It feels unforgivable.", "weights": { "beyond-grace": 3 } },
-        { "text": "My feelings haven't caught up to what I believe is true.", "weights": { "cant-feel-it": 3 } },
-        { "text": "There's one thing I've never brought fully into the light.", "weights": { "hide-secret-sin": 3 } },
-        { "text": "Honestly, not much anymore. I'm reaching for grace.", "weights": { "ready-to-receive": 3 } }
+        {
+          "text": "The size of what I did. It feels unforgivable.",
+          "weights": {
+            "beyond-grace": 3
+          }
+        },
+        {
+          "text": "My feelings haven't caught up to what I believe is true.",
+          "weights": {
+            "cant-feel-it": 3
+          }
+        },
+        {
+          "text": "There's one thing I've never brought fully into the light.",
+          "weights": {
+            "hide-secret-sin": 3
+          }
+        },
+        {
+          "text": "Honestly, not much anymore. I'm reaching for grace.",
+          "weights": {
+            "ready-to-receive": 3
+          }
+        }
       ]
     },
     {
       "text": "How do you imagine God responds to your worst moment?",
       "options": [
-        { "text": "With a line I finally crossed too many times.", "weights": { "beyond-grace": 3 } },
-        { "text": "With forgiveness my heart can't seem to accept.", "weights": { "cant-feel-it": 3 } },
-        { "text": "He'd forgive it, but I keep Him at a careful distance.", "weights": { "hide-secret-sin": 3 } },
-        { "text": "With open arms, the way the father met the prodigal.", "weights": { "ready-to-receive": 3 } }
+        {
+          "text": "With a line I finally crossed too many times.",
+          "weights": {
+            "beyond-grace": 3
+          }
+        },
+        {
+          "text": "With forgiveness my heart can't seem to accept.",
+          "weights": {
+            "cant-feel-it": 3
+          }
+        },
+        {
+          "text": "He'd forgive it, but I keep Him at a careful distance.",
+          "weights": {
+            "hide-secret-sin": 3
+          }
+        },
+        {
+          "text": "With open arms, the way the father met the prodigal.",
+          "weights": {
+            "ready-to-receive": 3
+          }
+        }
       ]
     },
     {
       "text": "When you read that no sin is too big for God, you...",
       "options": [
-        { "text": "Think, that's true for everyone but me.", "weights": { "beyond-grace": 3 } },
-        { "text": "Believe it in my head but can't make it land in my heart.", "weights": { "cant-feel-it": 3 } },
-        { "text": "Wonder if it would still be true if they knew my secret.", "weights": { "hide-secret-sin": 3 } },
-        { "text": "Feel hope rising. Maybe it really includes me.", "weights": { "ready-to-receive": 3 } }
+        {
+          "text": "Think, that's true for everyone but me.",
+          "weights": {
+            "beyond-grace": 3
+          }
+        },
+        {
+          "text": "Believe it in my head but can't make it land in my heart.",
+          "weights": {
+            "cant-feel-it": 3
+          }
+        },
+        {
+          "text": "Wonder if it would still be true if they knew my secret.",
+          "weights": {
+            "hide-secret-sin": 3
+          }
+        },
+        {
+          "text": "Feel hope rising. Maybe it really includes me.",
+          "weights": {
+            "ready-to-receive": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you do with your guilt day to day?",
       "options": [
-        { "text": "Carry it like a sentence I deserve.", "weights": { "beyond-grace": 3 } },
-        { "text": "Keep re-confessing the same thing, hoping it finally sticks.", "weights": { "cant-feel-it": 3 } },
-        { "text": "Bury it and stay busy so I don't have to look at it.", "weights": { "hide-secret-sin": 3 } },
-        { "text": "Hand it to God and ask Him to help me let it go.", "weights": { "ready-to-receive": 3 } }
+        {
+          "text": "Carry it like a sentence I deserve.",
+          "weights": {
+            "beyond-grace": 3
+          }
+        },
+        {
+          "text": "Keep re-confessing the same thing, hoping it finally sticks.",
+          "weights": {
+            "cant-feel-it": 3
+          }
+        },
+        {
+          "text": "Bury it and stay busy so I don't have to look at it.",
+          "weights": {
+            "hide-secret-sin": 3
+          }
+        },
+        {
+          "text": "Hand it to God and ask Him to help me let it go.",
+          "weights": {
+            "ready-to-receive": 3
+          }
+        }
       ]
     },
     {
       "text": "What are you most afraid of?",
       "options": [
-        { "text": "That I really am beyond grace.", "weights": { "beyond-grace": 3 } },
-        { "text": "That I'll never feel clean again.", "weights": { "cant-feel-it": 3 } },
-        { "text": "That if it came out, I'd lose everything.", "weights": { "hide-secret-sin": 3 } },
-        { "text": "Mostly I'm tired of the fear and ready to be done with it.", "weights": { "ready-to-receive": 3 } }
+        {
+          "text": "That I really am beyond grace.",
+          "weights": {
+            "beyond-grace": 3
+          }
+        },
+        {
+          "text": "That I'll never feel clean again.",
+          "weights": {
+            "cant-feel-it": 3
+          }
+        },
+        {
+          "text": "That if it came out, I'd lose everything.",
+          "weights": {
+            "hide-secret-sin": 3
+          }
+        },
+        {
+          "text": "Mostly I'm tired of the fear and ready to be done with it.",
+          "weights": {
+            "ready-to-receive": 3
+          }
+        }
       ]
     },
     {
       "text": "What would change everything for you to truly believe?",
       "options": [
-        { "text": "That no sin, not even mine, is bigger than the cross.", "weights": { "beyond-grace": 3 } },
-        { "text": "That forgiveness is a fact God declares, not a feeling I produce.", "weights": { "cant-feel-it": 3 } },
-        { "text": "That bringing it into the light is where freedom begins.", "weights": { "hide-secret-sin": 3 } },
-        { "text": "Nothing new. I just need to step into the mercy that's there.", "weights": { "ready-to-receive": 3 } }
+        {
+          "text": "That no sin, not even mine, is bigger than the cross.",
+          "weights": {
+            "beyond-grace": 3
+          }
+        },
+        {
+          "text": "That forgiveness is a fact God declares, not a feeling I produce.",
+          "weights": {
+            "cant-feel-it": 3
+          }
+        },
+        {
+          "text": "That bringing it into the light is where freedom begins.",
+          "weights": {
+            "hide-secret-sin": 3
+          }
+        },
+        {
+          "text": "Nothing new. I just need to step into the mercy that's there.",
+          "weights": {
+            "ready-to-receive": 3
+          }
+        }
       ]
     },
     {
       "text": "Which one is closest to your heart right now?",
       "options": [
-        { "text": "I fear I'm beyond grace.", "weights": { "beyond-grace": 3 } },
-        { "text": "I believe but I can't feel it.", "weights": { "cant-feel-it": 3 } },
-        { "text": "I'm hiding one secret sin.", "weights": { "hide-secret-sin": 3 } },
-        { "text": "I'm ready to receive mercy.", "weights": { "ready-to-receive": 3 } }
+        {
+          "text": "I fear I'm beyond grace.",
+          "weights": {
+            "beyond-grace": 3
+          }
+        },
+        {
+          "text": "I believe but I can't feel it.",
+          "weights": {
+            "cant-feel-it": 3
+          }
+        },
+        {
+          "text": "I'm hiding one secret sin.",
+          "weights": {
+            "hide-secret-sin": 3
+          }
+        },
+        {
+          "text": "I'm ready to receive mercy.",
+          "weights": {
+            "ready-to-receive": 3
+          }
+        }
       ]
     }
   ],
@@ -108,22 +308,38 @@
     "beyond-grace": {
       "name": "You Fear You're Beyond Grace",
       "description": "You've decided that what you did is the one thing too far, the exception to a grace that covers everyone else. That belief feels like humility, but it's actually a lie, and a heavy one. The cross was not built to forgive small, tidy sins. It was built for the worst things, the ones you can barely say out loud. Paul called himself the chief of sinners and still received mercy. There is no sin so big it outruns what Jesus already paid. You are not the exception. The same grace that caught everyone else is reaching for you, and it's strong enough to hold what you're carrying.",
-      "scripture": { "text": "Christ Jesus came into the world to save sinners, of whom I am the worst.", "reference": "1 Timothy 1:15" }
+      "scripture": {
+        "text": "Faithful is the saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief:",
+        "reference": "1 Timothy 1:15",
+        "translation": "ASV"
+      }
     },
     "cant-feel-it": {
       "name": "You Believe But Can't Feel It",
       "description": "In your head you know God forgives you. You've confessed it, maybe a hundred times, and still the clean feeling never comes. Here's what your heart keeps missing: forgiveness is a fact God declares, not a feeling you have to manufacture. The moment you confessed, it was done, whether or not your emotions caught up. Feelings lag behind the truth sometimes, and that's okay. Stop re-earning what you already have. Start thanking Him for forgiveness as something already given, and let your heart slowly settle into what is already true.",
-      "scripture": { "text": "As far as the east is from the west, so far has he removed our transgressions from us.", "reference": "Psalm 103:12" }
+      "scripture": {
+        "text": "As far as the east is from the west, So far hath he removed our transgressions from us.",
+        "reference": "Psalm 103:12",
+        "translation": "ASV"
+      }
     },
     "hide-secret-sin": {
       "name": "You Hide One Secret Sin",
       "description": "There's one thing you've never fully brought into the light, and you keep it locked away because facing it feels like more than you can handle. But a secret kept in the dark only grows heavier, and the hiding costs you more than the confessing ever would. God already knows, and He is not waiting to shame you. He's waiting for you to stop carrying it alone. Bringing it into the open, to Him and maybe to one safe person, is exactly where freedom starts. The thing you're most afraid to say is the thing grace most wants to touch.",
-      "scripture": { "text": "Whoever conceals their sins does not prosper, but the one who confesses and renounces them finds mercy.", "reference": "Proverbs 28:13" }
+      "scripture": {
+        "text": "He that covereth his transgressions shall not prosper; But whoso confesseth and forsaketh them shall obtain mercy.",
+        "reference": "Proverbs 28:13",
+        "translation": "ASV"
+      }
     },
     "ready-to-receive": {
       "name": "You're Ready to Receive Mercy",
       "description": "Something in you has shifted. You're done arguing with grace, done carrying the weight, and ready to actually step into the mercy that's been there all along. That readiness is a gift, and God meets it the way the father met the prodigal: not with a lecture, but running down the road with open arms. So receive it fully. Don't take it back tomorrow or talk yourself out of it next week. You are forgiven, you are clean, and you are welcomed home. Now walk in that freedom, and let it make you tender toward the next person still afraid to come back.",
-      "scripture": { "text": "While he was still a long way off, his father saw him and was filled with compassion for him; he ran to his son.", "reference": "Luke 15:20" }
+      "scripture": {
+        "text": "And he arose, and came to his father. But while he was yet afar off, his father saw him, and was moved with compassion, and ran, and fell on his neck, and kissed him.",
+        "reference": "Luke 15:20",
+        "translation": "ASV"
+      }
     }
   }
 }

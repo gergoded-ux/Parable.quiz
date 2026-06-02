@@ -16,91 +16,291 @@
     {
       "text": "When the loneliness hits hardest, what are you actually aching for?",
       "options": [
-        { "text": "One person I can be close to, who really gets me.", "weights": { "deep-connection": 3 } },
-        { "text": "A group to belong to, a place where I fit.", "weights": { "a-community": 3 } },
-        { "text": "Someone to know the real me, not the version I show.", "weights": { "to-be-truly-known": 3 } },
-        { "text": "A sense that God is near, even when no one else is.", "weights": { "gods-presence": 3 } }
+        {
+          "text": "One person I can be close to, who really gets me.",
+          "weights": {
+            "deep-connection": 3
+          }
+        },
+        {
+          "text": "A group to belong to, a place where I fit.",
+          "weights": {
+            "a-community": 3
+          }
+        },
+        {
+          "text": "Someone to know the real me, not the version I show.",
+          "weights": {
+            "to-be-truly-known": 3
+          }
+        },
+        {
+          "text": "A sense that God is near, even when no one else is.",
+          "weights": {
+            "gods-presence": 3
+          }
+        }
       ]
     },
     {
       "text": "Be honest about your life right now. What's missing?",
       "options": [
-        { "text": "Closeness. I have people around but no one truly close.", "weights": { "deep-connection": 3 } },
-        { "text": "A circle. I'm not part of anything regular.", "weights": { "a-community": 3 } },
-        { "text": "Honesty. People know about me but not the real me.", "weights": { "to-be-truly-known": 3 } },
-        { "text": "God feels distant, and that's the loneliest part.", "weights": { "gods-presence": 3 } }
+        {
+          "text": "Closeness. I have people around but no one truly close.",
+          "weights": {
+            "deep-connection": 3
+          }
+        },
+        {
+          "text": "A circle. I'm not part of anything regular.",
+          "weights": {
+            "a-community": 3
+          }
+        },
+        {
+          "text": "Honesty. People know about me but not the real me.",
+          "weights": {
+            "to-be-truly-known": 3
+          }
+        },
+        {
+          "text": "God feels distant, and that's the loneliest part.",
+          "weights": {
+            "gods-presence": 3
+          }
+        }
       ]
     },
     {
       "text": "You could be in a crowded room and still feel alone. Why?",
       "options": [
-        { "text": "Because none of them are people I'm close to.", "weights": { "deep-connection": 3 } },
-        { "text": "Because I don't feel like I belong with any of them.", "weights": { "a-community": 3 } },
-        { "text": "Because they're seeing a mask, not me.", "weights": { "to-be-truly-known": 3 } },
-        { "text": "Because the ache is deeper than people can reach.", "weights": { "gods-presence": 3 } }
+        {
+          "text": "Because none of them are people I'm close to.",
+          "weights": {
+            "deep-connection": 3
+          }
+        },
+        {
+          "text": "Because I don't feel like I belong with any of them.",
+          "weights": {
+            "a-community": 3
+          }
+        },
+        {
+          "text": "Because they're seeing a mask, not me.",
+          "weights": {
+            "to-be-truly-known": 3
+          }
+        },
+        {
+          "text": "Because the ache is deeper than people can reach.",
+          "weights": {
+            "gods-presence": 3
+          }
+        }
       ]
     },
     {
       "text": "Which would bring the most relief this week?",
       "options": [
-        { "text": "A long, real conversation with one trusted friend.", "weights": { "deep-connection": 3 } },
-        { "text": "An invitation to a group that meets regularly.", "weights": { "a-community": 3 } },
-        { "text": "Someone hearing my whole story without flinching.", "weights": { "to-be-truly-known": 3 } },
-        { "text": "A quiet sense that God sees me and is with me.", "weights": { "gods-presence": 3 } }
+        {
+          "text": "A long, real conversation with one trusted friend.",
+          "weights": {
+            "deep-connection": 3
+          }
+        },
+        {
+          "text": "An invitation to a group that meets regularly.",
+          "weights": {
+            "a-community": 3
+          }
+        },
+        {
+          "text": "Someone hearing my whole story without flinching.",
+          "weights": {
+            "to-be-truly-known": 3
+          }
+        },
+        {
+          "text": "A quiet sense that God sees me and is with me.",
+          "weights": {
+            "gods-presence": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you tend to do when the loneliness gets loud?",
       "options": [
-        { "text": "Reach for one specific person, and feel it when they're busy.", "weights": { "deep-connection": 3 } },
-        { "text": "Scroll others' group photos and feel left out.", "weights": { "a-community": 3 } },
-        { "text": "Pull back, because being half-known hurts more than being alone.", "weights": { "to-be-truly-known": 3 } },
-        { "text": "Pray, but wonder if anyone is actually there.", "weights": { "gods-presence": 3 } }
+        {
+          "text": "Reach for one specific person, and feel it when they're busy.",
+          "weights": {
+            "deep-connection": 3
+          }
+        },
+        {
+          "text": "Scroll others' group photos and feel left out.",
+          "weights": {
+            "a-community": 3
+          }
+        },
+        {
+          "text": "Pull back, because being half-known hurts more than being alone.",
+          "weights": {
+            "to-be-truly-known": 3
+          }
+        },
+        {
+          "text": "Pray, but wonder if anyone is actually there.",
+          "weights": {
+            "gods-presence": 3
+          }
+        }
       ]
     },
     {
       "text": "If a wise friend asked what you really need, you'd say...",
       "options": [
-        { "text": "\"Just one person who's truly in my corner.\"", "weights": { "deep-connection": 3 } },
-        { "text": "\"A people. Somewhere I'm not on the outside.\"", "weights": { "a-community": 3 } },
-        { "text": "\"To be fully known and still wanted.\"", "weights": { "to-be-truly-known": 3 } },
-        { "text": "\"To feel God close. That's the hole nothing fills.\"", "weights": { "gods-presence": 3 } }
+        {
+          "text": "\"Just one person who's truly in my corner.\"",
+          "weights": {
+            "deep-connection": 3
+          }
+        },
+        {
+          "text": "\"A people. Somewhere I'm not on the outside.\"",
+          "weights": {
+            "a-community": 3
+          }
+        },
+        {
+          "text": "\"To be fully known and still wanted.\"",
+          "weights": {
+            "to-be-truly-known": 3
+          }
+        },
+        {
+          "text": "\"To feel God close. That's the hole nothing fills.\"",
+          "weights": {
+            "gods-presence": 3
+          }
+        }
       ]
     },
     {
       "text": "Which fear sits underneath your loneliness?",
       "options": [
-        { "text": "That I'll never have someone close again.", "weights": { "deep-connection": 3 } },
-        { "text": "That I'll always be on the edge of every group.", "weights": { "a-community": 3 } },
-        { "text": "That if people saw the real me, they'd leave.", "weights": { "to-be-truly-known": 3 } },
-        { "text": "That even God has somehow forgotten me.", "weights": { "gods-presence": 3 } }
+        {
+          "text": "That I'll never have someone close again.",
+          "weights": {
+            "deep-connection": 3
+          }
+        },
+        {
+          "text": "That I'll always be on the edge of every group.",
+          "weights": {
+            "a-community": 3
+          }
+        },
+        {
+          "text": "That if people saw the real me, they'd leave.",
+          "weights": {
+            "to-be-truly-known": 3
+          }
+        },
+        {
+          "text": "That even God has somehow forgotten me.",
+          "weights": {
+            "gods-presence": 3
+          }
+        }
       ]
     },
     {
       "text": "When you imagine not being lonely, what's in the picture?",
       "options": [
-        { "text": "A close friendship where I'm fully myself.", "weights": { "deep-connection": 3 } },
-        { "text": "A table of people who expect me to show up.", "weights": { "a-community": 3 } },
-        { "text": "Being seen all the way down and loved anyway.", "weights": { "to-be-truly-known": 3 } },
-        { "text": "Walking through life sure that God is right beside me.", "weights": { "gods-presence": 3 } }
+        {
+          "text": "A close friendship where I'm fully myself.",
+          "weights": {
+            "deep-connection": 3
+          }
+        },
+        {
+          "text": "A table of people who expect me to show up.",
+          "weights": {
+            "a-community": 3
+          }
+        },
+        {
+          "text": "Being seen all the way down and loved anyway.",
+          "weights": {
+            "to-be-truly-known": 3
+          }
+        },
+        {
+          "text": "Walking through life sure that God is right beside me.",
+          "weights": {
+            "gods-presence": 3
+          }
+        }
       ]
     },
     {
       "text": "Where do you feel the loneliness most, if you slow down and notice?",
       "options": [
-        { "text": "In the gap where a close person used to be.", "weights": { "deep-connection": 3 } },
-        { "text": "In weekends and holidays with nowhere to belong.", "weights": { "a-community": 3 } },
-        { "text": "In how exhausting it is to keep up the surface version of me.", "weights": { "to-be-truly-known": 3 } },
-        { "text": "In a soul-deep ache that company never quite touches.", "weights": { "gods-presence": 3 } }
+        {
+          "text": "In the gap where a close person used to be.",
+          "weights": {
+            "deep-connection": 3
+          }
+        },
+        {
+          "text": "In weekends and holidays with nowhere to belong.",
+          "weights": {
+            "a-community": 3
+          }
+        },
+        {
+          "text": "In how exhausting it is to keep up the surface version of me.",
+          "weights": {
+            "to-be-truly-known": 3
+          }
+        },
+        {
+          "text": "In a soul-deep ache that company never quite touches.",
+          "weights": {
+            "gods-presence": 3
+          }
+        }
       ]
     },
     {
       "text": "Finish the sentence: \"What I really need right now is...\"",
       "options": [
-        { "text": "\"...one real connection.\"", "weights": { "deep-connection": 3 } },
-        { "text": "\"...to belong somewhere.\"", "weights": { "a-community": 3 } },
-        { "text": "\"...to be truly known.\"", "weights": { "to-be-truly-known": 3 } },
-        { "text": "\"...to know God is with me.\"", "weights": { "gods-presence": 3 } }
+        {
+          "text": "\"...one real connection.\"",
+          "weights": {
+            "deep-connection": 3
+          }
+        },
+        {
+          "text": "\"...to belong somewhere.\"",
+          "weights": {
+            "a-community": 3
+          }
+        },
+        {
+          "text": "\"...to be truly known.\"",
+          "weights": {
+            "to-be-truly-known": 3
+          }
+        },
+        {
+          "text": "\"...to know God is with me.\"",
+          "weights": {
+            "gods-presence": 3
+          }
+        }
       ]
     }
   ],
@@ -108,22 +308,38 @@
     "deep-connection": {
       "name": "Deep Connection",
       "description": "Your loneliness isn't about numbers. You could be surrounded by people and still feel it, because what you're missing is closeness, one real friendship where you're fully yourself. That's a good and God-given hunger, you weren't made to do life at arm's length. Don't wait for it to find you. Take a small risk toward one person this week, a real conversation, an honest text. Deep connection usually starts with someone willing to go first, and that someone can be you.",
-      "scripture": { "text": "A friend loves at all times, and a brother is born for a time of adversity.", "reference": "Proverbs 17:17" }
+      "scripture": {
+        "text": "A friend loveth at all times; And a brother is born for adversity.",
+        "reference": "Proverbs 17:17",
+        "translation": "ASV"
+      }
     },
     "a-community": {
       "name": "A Community",
       "description": "What your loneliness is asking for is a people, a place where you belong and where your absence would be noticed. Living on the edge of every group is quietly painful, especially on the weekends and holidays. The good news is this need is one God designed you to have, and He built the church partly to meet it. Find one regular gathering and keep showing up, even when it's awkward at first. Belonging is rarely instant, but it grows for those who keep coming back to the table.",
-      "scripture": { "text": "Let us not give up meeting together, as some are in the habit of doing, but encouraging one another.", "reference": "Hebrews 10:25" }
+      "scripture": {
+        "text": "not forsaking our own assembling together, as the custom of some is, but exhorting one another; and so much the more, as ye see the day drawing nigh.",
+        "reference": "Hebrews 10:25",
+        "translation": "ASV"
+      }
     },
     "to-be-truly-known": {
       "name": "To Be Truly Known",
       "description": "You have people who know about you, but almost no one who knows the real you, and being half-seen can ache more than being alone. So you keep the surface version running, even though it's exhausting and lonely. Here's what's worth risking everything for: you are already fully known by God, every hidden part, and fully loved in the same breath. Let that truth steady you, then let one safe person in a little further. To be known and still wanted is what your heart is starving for, and it's real.",
-      "scripture": { "text": "You have searched me, Lord, and you know me. You know when I sit and when I rise; you perceive my thoughts from afar.", "reference": "Psalm 139:1-2" }
+      "scripture": {
+        "text": "O Jehovah, thou hast searched me, and knownme. Thou knowest my downsitting and mine uprising; Thou understandest my thought afar off.",
+        "reference": "Psalm 139:1-2",
+        "translation": "ASV"
+      }
     },
     "gods-presence": {
       "name": "God's Presence",
       "description": "Your loneliness runs deeper than other people can reach. You've probably noticed that company helps for a moment and then the ache returns, because the hole you're feeling is shaped for God. That's not a sign something is wrong with you. It's a sign your heart knows where home is. Even when He feels distant, He has promised never to leave you, and the promise doesn't depend on your feelings. Turn toward Him in the loneliness instead of around it. He is nearer than the ache, and He is not going anywhere.",
-      "scripture": { "text": "The Lord himself goes before you and will be with you; he will never leave you nor forsake you. Do not be afraid; do not be discouraged.", "reference": "Deuteronomy 31:8" }
+      "scripture": {
+        "text": "And Jehovah, he it is that doth go before thee; he will be with thee, he will not fail thee, neither forsake thee: fear not, neither be dismayed.",
+        "reference": "Deuteronomy 31:8",
+        "translation": "ASV"
+      }
     }
   }
 }

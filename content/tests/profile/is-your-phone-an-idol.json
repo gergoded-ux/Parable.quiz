@@ -16,82 +16,264 @@
     {
       "text": "What's the first thing you do when you wake up?",
       "options": [
-        { "text": "Pray, stretch, sit for a minute. The phone can wait.", "weights": { "surrendered": 3 } },
-        { "text": "Reach for it, then catch myself and put it down.", "weights": { "tempted": 3 } },
-        { "text": "Scroll for a while before my feet hit the floor.", "weights": { "tethered": 3 } },
-        { "text": "I'm checking it before I'm even fully awake.", "weights": { "fully-captured": 3 } }
+        {
+          "text": "Pray, stretch, sit for a minute. The phone can wait.",
+          "weights": {
+            "surrendered": 3
+          }
+        },
+        {
+          "text": "Reach for it, then catch myself and put it down.",
+          "weights": {
+            "tempted": 3
+          }
+        },
+        {
+          "text": "Scroll for a while before my feet hit the floor.",
+          "weights": {
+            "tethered": 3
+          }
+        },
+        {
+          "text": "I'm checking it before I'm even fully awake.",
+          "weights": {
+            "fully-captured": 3
+          }
+        }
       ]
     },
     {
       "text": "How do you feel when you can't find your phone?",
       "options": [
-        { "text": "Mildly inconvenienced. I'll find it eventually.", "weights": { "surrendered": 3 } },
-        { "text": "A little antsy, but I can ride it out.", "weights": { "tempted": 3 } },
-        { "text": "Genuinely uneasy until it's back in my hand.", "weights": { "tethered": 3 } },
-        { "text": "Borderline panic. I retrace every step immediately.", "weights": { "fully-captured": 3 } }
+        {
+          "text": "Mildly inconvenienced. I'll find it eventually.",
+          "weights": {
+            "surrendered": 3
+          }
+        },
+        {
+          "text": "A little antsy, but I can ride it out.",
+          "weights": {
+            "tempted": 3
+          }
+        },
+        {
+          "text": "Genuinely uneasy until it's back in my hand.",
+          "weights": {
+            "tethered": 3
+          }
+        },
+        {
+          "text": "Borderline panic. I retrace every step immediately.",
+          "weights": {
+            "fully-captured": 3
+          }
+        }
       ]
     },
     {
       "text": "During a meal with people you love, where's your phone?",
       "options": [
-        { "text": "Away. I'm fully here with them.", "weights": { "surrendered": 3 } },
-        { "text": "In my pocket, buzzing, tempting me to peek.", "weights": { "tempted": 3 } },
-        { "text": "Face up by my plate, and I glance often.", "weights": { "tethered": 3 } },
-        { "text": "In my hand. I'm half in the conversation at best.", "weights": { "fully-captured": 3 } }
+        {
+          "text": "Away. I'm fully here with them.",
+          "weights": {
+            "surrendered": 3
+          }
+        },
+        {
+          "text": "In my pocket, buzzing, tempting me to peek.",
+          "weights": {
+            "tempted": 3
+          }
+        },
+        {
+          "text": "Face up by my plate, and I glance often.",
+          "weights": {
+            "tethered": 3
+          }
+        },
+        {
+          "text": "In my hand. I'm half in the conversation at best.",
+          "weights": {
+            "fully-captured": 3
+          }
+        }
       ]
     },
     {
       "text": "Be honest about your daily screen time number.",
       "options": [
-        { "text": "Low and intentional. I mostly use it for a reason.", "weights": { "surrendered": 3 } },
-        { "text": "Higher than I'd like, and I'm working on it.", "weights": { "tempted": 2, "tethered": 1 } },
-        { "text": "Hours, and it surprises me every time I check.", "weights": { "tethered": 3 } },
-        { "text": "I avoid looking because the number scares me.", "weights": { "fully-captured": 3 } }
+        {
+          "text": "Low and intentional. I mostly use it for a reason.",
+          "weights": {
+            "surrendered": 3
+          }
+        },
+        {
+          "text": "Higher than I'd like, and I'm working on it.",
+          "weights": {
+            "tempted": 2,
+            "tethered": 1
+          }
+        },
+        {
+          "text": "Hours, and it surprises me every time I check.",
+          "weights": {
+            "tethered": 3
+          }
+        },
+        {
+          "text": "I avoid looking because the number scares me.",
+          "weights": {
+            "fully-captured": 3
+          }
+        }
       ]
     },
     {
       "text": "When you feel bored, anxious, or lonely, what's your reflex?",
       "options": [
-        { "text": "I sit with it or take it to God before anything else.", "weights": { "surrendered": 3 } },
-        { "text": "I grab the phone, then talk myself back out of it.", "weights": { "tempted": 3 } },
-        { "text": "I'm scrolling before I even realize I picked it up.", "weights": { "tethered": 2, "fully-captured": 1 } },
-        { "text": "The phone is my go-to escape, every single time.", "weights": { "fully-captured": 3 } }
+        {
+          "text": "I sit with it or take it to God before anything else.",
+          "weights": {
+            "surrendered": 3
+          }
+        },
+        {
+          "text": "I grab the phone, then talk myself back out of it.",
+          "weights": {
+            "tempted": 3
+          }
+        },
+        {
+          "text": "I'm scrolling before I even realize I picked it up.",
+          "weights": {
+            "tethered": 2,
+            "fully-captured": 1
+          }
+        },
+        {
+          "text": "The phone is my go-to escape, every single time.",
+          "weights": {
+            "fully-captured": 3
+          }
+        }
       ]
     },
     {
       "text": "How does your phone affect your time with God?",
       "options": [
-        { "text": "It doesn't really compete. He gets my first attention.", "weights": { "surrendered": 3 } },
-        { "text": "It interrupts, but I keep pulling myself back.", "weights": { "tempted": 3 } },
-        { "text": "My quiet time keeps shrinking while my scrolling grows.", "weights": { "tethered": 3 } },
-        { "text": "Honestly, the phone has mostly replaced it.", "weights": { "fully-captured": 3 } }
+        {
+          "text": "It doesn't really compete. He gets my first attention.",
+          "weights": {
+            "surrendered": 3
+          }
+        },
+        {
+          "text": "It interrupts, but I keep pulling myself back.",
+          "weights": {
+            "tempted": 3
+          }
+        },
+        {
+          "text": "My quiet time keeps shrinking while my scrolling grows.",
+          "weights": {
+            "tethered": 3
+          }
+        },
+        {
+          "text": "Honestly, the phone has mostly replaced it.",
+          "weights": {
+            "fully-captured": 3
+          }
+        }
       ]
     },
     {
       "text": "Could you go a full day without it, on purpose?",
       "options": [
-        { "text": "Easily. I've done it and barely missed it.", "weights": { "surrendered": 3 } },
-        { "text": "Probably, with a little effort and a few twitchy moments.", "weights": { "tempted": 3 } },
-        { "text": "I'd struggle. I'm not sure I'd make it past noon.", "weights": { "tethered": 3 } },
-        { "text": "No chance. The thought alone makes me anxious.", "weights": { "fully-captured": 3 } }
+        {
+          "text": "Easily. I've done it and barely missed it.",
+          "weights": {
+            "surrendered": 3
+          }
+        },
+        {
+          "text": "Probably, with a little effort and a few twitchy moments.",
+          "weights": {
+            "tempted": 3
+          }
+        },
+        {
+          "text": "I'd struggle. I'm not sure I'd make it past noon.",
+          "weights": {
+            "tethered": 3
+          }
+        },
+        {
+          "text": "No chance. The thought alone makes me anxious.",
+          "weights": {
+            "fully-captured": 3
+          }
+        }
       ]
     },
     {
       "text": "When you think about your phone habits, what do you feel?",
       "options": [
-        { "text": "Peace. It serves me, not the other way around.", "weights": { "surrendered": 3 } },
-        { "text": "A little conviction, but I'm keeping it in check.", "weights": { "tempted": 3 } },
-        { "text": "Some guilt I keep meaning to do something about.", "weights": { "tethered": 3 } },
-        { "text": "A quiet dread that it's running the show.", "weights": { "fully-captured": 3 } }
+        {
+          "text": "Peace. It serves me, not the other way around.",
+          "weights": {
+            "surrendered": 3
+          }
+        },
+        {
+          "text": "A little conviction, but I'm keeping it in check.",
+          "weights": {
+            "tempted": 3
+          }
+        },
+        {
+          "text": "Some guilt I keep meaning to do something about.",
+          "weights": {
+            "tethered": 3
+          }
+        },
+        {
+          "text": "A quiet dread that it's running the show.",
+          "weights": {
+            "fully-captured": 3
+          }
+        }
       ]
     },
     {
       "text": "Finish the sentence: my phone is...",
       "options": [
-        { "text": "A tool I use and set down freely.", "weights": { "surrendered": 3 } },
-        { "text": "A pull I have to keep resisting.", "weights": { "tempted": 3 } },
-        { "text": "A habit I lean on more than I want to admit.", "weights": { "tethered": 3 } },
-        { "text": "Something that has way too much of me.", "weights": { "fully-captured": 3 } }
+        {
+          "text": "A tool I use and set down freely.",
+          "weights": {
+            "surrendered": 3
+          }
+        },
+        {
+          "text": "A pull I have to keep resisting.",
+          "weights": {
+            "tempted": 3
+          }
+        },
+        {
+          "text": "A habit I lean on more than I want to admit.",
+          "weights": {
+            "tethered": 3
+          }
+        },
+        {
+          "text": "Something that has way too much of me.",
+          "weights": {
+            "fully-captured": 3
+          }
+        }
       ]
     }
   ],
@@ -99,22 +281,38 @@
     "surrendered": {
       "name": "Surrendered",
       "description": "Your phone knows its place, and it's not the throne. You pick it up with purpose and put it down without a fight, and your first attention in the day still belongs to God and the people in front of you. That kind of freedom is rare, so guard it. The pull is always there for everyone. Keep doing the small things that keep your hands and your heart open.",
-      "scripture": { "text": "All things are lawful unto me, but I will not be brought under the power of any.", "reference": "1 Corinthians 6:12" }
+      "scripture": {
+        "text": "All things are lawful for me; but not all things are expedient. All things are lawful for me; but I will not be brought under the power of any.",
+        "reference": "1 Corinthians 6:12",
+        "translation": "ASV"
+      }
     },
     "tempted": {
       "name": "Tempted",
       "description": "You feel the pull, and you're winning more battles than you're losing. You reach, then you catch yourself, and that self-awareness is exactly what keeps a habit from becoming a master. Don't get discouraged by the moments you slip. The fact that you notice and course-correct means your heart is in the right place. Keep building the little walls that make the right choice easier.",
-      "scripture": { "text": "There hath no temptation taken you but such as is common to man.", "reference": "1 Corinthians 10:13" }
+      "scripture": {
+        "text": "There hath no temptation taken you but such as man can bear: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation make also the way of escape, that ye may be able to endure it.",
+        "reference": "1 Corinthians 10:13",
+        "translation": "ASV"
+      }
     },
     "tethered": {
       "name": "Tethered",
       "description": "There's a cord here, and you can feel the tug. The scrolling has quietly grown while better things have shrunk, and the guilt keeps showing up because part of you knows. This isn't condemnation, it's an invitation. You don't have to throw the phone in a lake. Start with one boundary: the first hour, mealtimes, somewhere. God is gently reaching for the attention the screen keeps stealing.",
-      "scripture": { "text": "Where your treasure is, there will your heart be also.", "reference": "Matthew 6:21" }
+      "scripture": {
+        "text": "for where thy treasure is, there will thy heart be also.",
+        "reference": "Matthew 6:21",
+        "translation": "ASV"
+      }
     },
     "fully-captured": {
       "name": "Fully Captured",
       "description": "If you're being honest, the phone is running a lot of the show, and a quiet dread comes with admitting it. Hear this without shame: the most captive thing in your life can become the most surrendered, and it starts the moment you name it, which you just did. You weren't made to be ruled by a screen. Bring it to God, ask for help, and take one real step. He's not asking for perfection, just the next honest move.",
-      "scripture": { "text": "Stand fast therefore in the liberty wherewith Christ hath made us free.", "reference": "Galatians 5:1" }
+      "scripture": {
+        "text": "For freedom did Christ set us free: stand fast therefore, and be not entangled again in a yoke of bondage.",
+        "reference": "Galatians 5:1",
+        "translation": "ASV"
+      }
     }
   }
 }

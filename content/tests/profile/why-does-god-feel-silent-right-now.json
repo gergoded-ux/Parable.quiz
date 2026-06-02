@@ -17,91 +17,295 @@
     {
       "text": "When did you last actually pause to listen for God, not just talk at Him?",
       "options": [
-        { "text": "Honestly, I can't remember. I've stopped making space to listen.", "weights": { "stopped-listening": 3 } },
-        { "text": "I read the Word, but I keep waiting for a feeling instead.", "weights": { "speaking-through-scripture": 3 } },
-        { "text": "I try, but it's gone quiet no matter what I do.", "weights": { "dark-night": 3 } },
-        { "text": "There's never a quiet enough moment. My life is loud.", "weights": { "noise-crowded-him-out": 3 } }
+        {
+          "text": "Honestly, I can't remember. I've stopped making space to listen.",
+          "weights": {
+            "stopped-listening": 3
+          }
+        },
+        {
+          "text": "I read the Word, but I keep waiting for a feeling instead.",
+          "weights": {
+            "speaking-through-scripture": 3
+          }
+        },
+        {
+          "text": "I try, but it's gone quiet no matter what I do.",
+          "weights": {
+            "dark-night": 3
+          }
+        },
+        {
+          "text": "There's never a quiet enough moment. My life is loud.",
+          "weights": {
+            "noise-crowded-him-out": 3
+          }
+        }
       ]
     },
     {
       "text": "What does your daily life sound like right now?",
       "options": [
-        { "text": "Constant input. Podcasts, scrolling, noise from the moment I wake.", "weights": { "noise-crowded-him-out": 3 } },
-        { "text": "Busy, but I've quietly let prayer slide off the list.", "weights": { "stopped-listening": 2, "noise-crowded-him-out": 1 } },
-        { "text": "Quiet, actually, and that's part of what's unsettling.", "weights": { "dark-night": 3 } },
-        { "text": "Full, but I'm in the Word. I just want more than words.", "weights": { "speaking-through-scripture": 3 } }
+        {
+          "text": "Constant input. Podcasts, scrolling, noise from the moment I wake.",
+          "weights": {
+            "noise-crowded-him-out": 3
+          }
+        },
+        {
+          "text": "Busy, but I've quietly let prayer slide off the list.",
+          "weights": {
+            "stopped-listening": 2,
+            "noise-crowded-him-out": 1
+          }
+        },
+        {
+          "text": "Quiet, actually, and that's part of what's unsettling.",
+          "weights": {
+            "dark-night": 3
+          }
+        },
+        {
+          "text": "Full, but I'm in the Word. I just want more than words.",
+          "weights": {
+            "speaking-through-scripture": 3
+          }
+        }
       ]
     },
     {
       "text": "Which sentence is closest to true?",
       "options": [
-        { "text": "\"I drifted from Him before He felt distant from me.\"", "weights": { "stopped-listening": 3 } },
-        { "text": "\"I keep wanting a sign when the answer's been in Scripture.\"", "weights": { "speaking-through-scripture": 3 } },
-        { "text": "\"I'm doing everything right and He still feels gone.\"", "weights": { "dark-night": 3 } },
-        { "text": "\"I think He answered, I just didn't want that answer.\"", "weights": { "already-answered": 3 } }
+        {
+          "text": "\"I drifted from Him before He felt distant from me.\"",
+          "weights": {
+            "stopped-listening": 3
+          }
+        },
+        {
+          "text": "\"I keep wanting a sign when the answer's been in Scripture.\"",
+          "weights": {
+            "speaking-through-scripture": 3
+          }
+        },
+        {
+          "text": "\"I'm doing everything right and He still feels gone.\"",
+          "weights": {
+            "dark-night": 3
+          }
+        },
+        {
+          "text": "\"I think He answered, I just didn't want that answer.\"",
+          "weights": {
+            "already-answered": 3
+          }
+        }
       ]
     },
     {
       "text": "When you do pray, what's it usually about?",
       "options": [
-        { "text": "Mostly emergencies. I show up when I need something.", "weights": { "stopped-listening": 3 } },
-        { "text": "Asking for new direction on something He's already spoken to.", "weights": { "already-answered": 2, "speaking-through-scripture": 1 } },
-        { "text": "Just asking where He went. The closeness vanished.", "weights": { "dark-night": 3 } },
-        { "text": "I mean to pray more, but the day swallows it.", "weights": { "noise-crowded-him-out": 3 } }
+        {
+          "text": "Mostly emergencies. I show up when I need something.",
+          "weights": {
+            "stopped-listening": 3
+          }
+        },
+        {
+          "text": "Asking for new direction on something He's already spoken to.",
+          "weights": {
+            "already-answered": 2,
+            "speaking-through-scripture": 1
+          }
+        },
+        {
+          "text": "Just asking where He went. The closeness vanished.",
+          "weights": {
+            "dark-night": 3
+          }
+        },
+        {
+          "text": "I mean to pray more, but the day swallows it.",
+          "weights": {
+            "noise-crowded-him-out": 3
+          }
+        }
       ]
     },
     {
       "text": "How would you describe your time in the Bible lately?",
       "options": [
-        { "text": "Rare. I haven't really opened it in a while.", "weights": { "stopped-listening": 2, "noise-crowded-him-out": 1 } },
-        { "text": "I read it but discount it, holding out for a stronger feeling.", "weights": { "speaking-through-scripture": 3 } },
-        { "text": "I read and it feels dry, even though I keep showing up.", "weights": { "dark-night": 3 } },
-        { "text": "It keeps confirming the same thing I've been resisting.", "weights": { "already-answered": 3 } }
+        {
+          "text": "Rare. I haven't really opened it in a while.",
+          "weights": {
+            "stopped-listening": 2,
+            "noise-crowded-him-out": 1
+          }
+        },
+        {
+          "text": "I read it but discount it, holding out for a stronger feeling.",
+          "weights": {
+            "speaking-through-scripture": 3
+          }
+        },
+        {
+          "text": "I read and it feels dry, even though I keep showing up.",
+          "weights": {
+            "dark-night": 3
+          }
+        },
+        {
+          "text": "It keeps confirming the same thing I've been resisting.",
+          "weights": {
+            "already-answered": 3
+          }
+        }
       ]
     },
     {
       "text": "Be honest about what the silence might be exposing.",
       "options": [
-        { "text": "I've let my connection with Him quietly go cold.", "weights": { "stopped-listening": 3 } },
-        { "text": "I've trained myself to trust goosebumps over His Word.", "weights": { "speaking-through-scripture": 3 } },
-        { "text": "Nothing obvious. This feels like a test of pure faith.", "weights": { "dark-night": 3 } },
-        { "text": "I've crowded Him out with a hundred small distractions.", "weights": { "noise-crowded-him-out": 3 } }
+        {
+          "text": "I've let my connection with Him quietly go cold.",
+          "weights": {
+            "stopped-listening": 3
+          }
+        },
+        {
+          "text": "I've trained myself to trust goosebumps over His Word.",
+          "weights": {
+            "speaking-through-scripture": 3
+          }
+        },
+        {
+          "text": "Nothing obvious. This feels like a test of pure faith.",
+          "weights": {
+            "dark-night": 3
+          }
+        },
+        {
+          "text": "I've crowded Him out with a hundred small distractions.",
+          "weights": {
+            "noise-crowded-him-out": 3
+          }
+        }
       ]
     },
     {
       "text": "What's your relationship with quiet and stillness?",
       "options": [
-        { "text": "I avoid it. The second it's silent, I reach for my phone.", "weights": { "noise-crowded-him-out": 3 } },
-        { "text": "I've fallen out of the habit of getting still with Him.", "weights": { "stopped-listening": 3 } },
-        { "text": "I sit in it and hear nothing, and it aches.", "weights": { "dark-night": 3 } },
-        { "text": "When I'm still, I sense He's already given me the answer.", "weights": { "already-answered": 2, "speaking-through-scripture": 1 } }
+        {
+          "text": "I avoid it. The second it's silent, I reach for my phone.",
+          "weights": {
+            "noise-crowded-him-out": 3
+          }
+        },
+        {
+          "text": "I've fallen out of the habit of getting still with Him.",
+          "weights": {
+            "stopped-listening": 3
+          }
+        },
+        {
+          "text": "I sit in it and hear nothing, and it aches.",
+          "weights": {
+            "dark-night": 3
+          }
+        },
+        {
+          "text": "When I'm still, I sense He's already given me the answer.",
+          "weights": {
+            "already-answered": 2,
+            "speaking-through-scripture": 1
+          }
+        }
       ]
     },
     {
       "text": "What do you think God might be doing in this silence?",
       "options": [
-        { "text": "Waiting for me to turn back and pay attention again.", "weights": { "stopped-listening": 3 } },
-        { "text": "Teaching me to trust His Word over my fluctuating feelings.", "weights": { "speaking-through-scripture": 3 } },
-        { "text": "Deepening my faith by withdrawing the easy comfort for a season.", "weights": { "dark-night": 3 } },
-        { "text": "Inviting me to obey what He already made clear.", "weights": { "already-answered": 3 } }
+        {
+          "text": "Waiting for me to turn back and pay attention again.",
+          "weights": {
+            "stopped-listening": 3
+          }
+        },
+        {
+          "text": "Teaching me to trust His Word over my fluctuating feelings.",
+          "weights": {
+            "speaking-through-scripture": 3
+          }
+        },
+        {
+          "text": "Deepening my faith by withdrawing the easy comfort for a season.",
+          "weights": {
+            "dark-night": 3
+          }
+        },
+        {
+          "text": "Inviting me to obey what He already made clear.",
+          "weights": {
+            "already-answered": 3
+          }
+        }
       ]
     },
     {
       "text": "Which would change the most for you right now?",
       "options": [
-        { "text": "Actually returning to Him and rebuilding the habit.", "weights": { "stopped-listening": 3 } },
-        { "text": "Cutting the noise so I could hear at all.", "weights": { "noise-crowded-him-out": 3 } },
-        { "text": "Knowing the dryness is normal and not a sign He left.", "weights": { "dark-night": 3 } },
-        { "text": "Admitting He already spoke and I've been stalling.", "weights": { "already-answered": 3 } }
+        {
+          "text": "Actually returning to Him and rebuilding the habit.",
+          "weights": {
+            "stopped-listening": 3
+          }
+        },
+        {
+          "text": "Cutting the noise so I could hear at all.",
+          "weights": {
+            "noise-crowded-him-out": 3
+          }
+        },
+        {
+          "text": "Knowing the dryness is normal and not a sign He left.",
+          "weights": {
+            "dark-night": 3
+          }
+        },
+        {
+          "text": "Admitting He already spoke and I've been stalling.",
+          "weights": {
+            "already-answered": 3
+          }
+        }
       ]
     },
     {
       "text": "If you're really honest, the silence feels like...",
       "options": [
-        { "text": "A consequence of my own drifting away.", "weights": { "stopped-listening": 3 } },
-        { "text": "Me asking for a voice while ignoring the letter He sent.", "weights": { "speaking-through-scripture": 3 } },
-        { "text": "A painful, holy season I didn't choose.", "weights": { "dark-night": 3 } },
-        { "text": "Static from a life too crowded to hear Him.", "weights": { "noise-crowded-him-out": 3 } }
+        {
+          "text": "A consequence of my own drifting away.",
+          "weights": {
+            "stopped-listening": 3
+          }
+        },
+        {
+          "text": "Me asking for a voice while ignoring the letter He sent.",
+          "weights": {
+            "speaking-through-scripture": 3
+          }
+        },
+        {
+          "text": "A painful, holy season I didn't choose.",
+          "weights": {
+            "dark-night": 3
+          }
+        },
+        {
+          "text": "Static from a life too crowded to hear Him.",
+          "weights": {
+            "noise-crowded-him-out": 3
+          }
+        }
       ]
     }
   ],
@@ -109,27 +313,47 @@
     "stopped-listening": {
       "name": "You Stopped Listening",
       "description": "If you trace it back honestly, the distance started on your end. Prayer became emergencies-only, the Bible got dusty, and the habit of listening quietly slipped away. That's not a reason for shame. It's an invitation. God hasn't moved. The line is still open on His side. The next step is simple and kind: turn back, make a little space, and start listening again. He's been waiting, not sulking.",
-      "scripture": { "text": "Come near to God and he will come near to you.", "reference": "James 4:8" }
+      "scripture": {
+        "text": "Draw nigh to God, and he will draw nigh to you. Cleanse your hands, ye sinners; and purify your hearts, ye doubleminded.",
+        "reference": "James 4:8",
+        "translation": "ASV"
+      }
     },
     "speaking-through-scripture": {
       "name": "He's Speaking Through Scripture (not feelings)",
       "description": "You've been waiting for a feeling, a sign, a goosebump moment, while the clearest thing God ever said sits open on your shelf. He speaks most reliably through His Word, not through your emotional weather. The silence you feel might just be the gap between what you're listening for and where He's actually talking. Trust the Word over the vibe. The voice you're craving is in the Book you keep closing.",
-      "scripture": { "text": "Your word is a lamp for my feet, a light on my path.", "reference": "Psalm 119:105" }
+      "scripture": {
+        "text": "Thy word is a lamp unto my feet, And light unto my path.",
+        "reference": "Psalm 119:105",
+        "translation": "ASV"
+      }
     },
     "dark-night": {
       "name": "The Dark Night (deliberate withdrawal)",
       "description": "You're doing the things, and it's still dry. The comfort that used to come easy has been pulled back, and it hurts. Believers across centuries have walked through this, a season where God withdraws the felt closeness to grow a deeper, sturdier faith. This is not abandonment. It's weaning, not leaving. Keep showing up in the dark. Faith that holds when you feel nothing is the strongest kind there is.",
-      "scripture": { "text": "Never will I leave you; never will I forsake you.", "reference": "Hebrews 13:5" }
+      "scripture": {
+        "text": "Be ye free from the love of money; content with such things as ye have: for himself hath said, I will in no wise fail thee, neither will I in any wise forsake thee.",
+        "reference": "Hebrews 13:5",
+        "translation": "ASV"
+      }
     },
     "noise-crowded-him-out": {
       "name": "Noise Has Crowded Him Out",
       "description": "It's not that God went quiet. It's that everything else got loud. From the moment you wake up there's input, scrolling, sound, and His voice tends to come as a whisper, not a shout over the noise. The fix isn't more spiritual effort. It's less static. Carve out a little real silence, put the phone down, and give Him a quiet room to speak into. You'll be surprised how much He's been saying.",
-      "scripture": { "text": "Be still, and know that I am God.", "reference": "Psalm 46:10" }
+      "scripture": {
+        "text": "Be still, and know that I am God: I will be exalted among the nations, I will be exalted in the earth.",
+        "reference": "Psalm 46:10",
+        "translation": "ASV"
+      }
     },
     "already-answered": {
       "name": "He Already Answered, You Didn't Recognize It",
       "description": "The silence might not be silence at all. God may have already answered, just not in the form you were hoping for, and you've been asking again because you didn't like what He said. That's deeply human. But re-asking a settled question keeps you stuck. Go back to what He's already made clear, in His Word and in your gut, and take the step you've been avoiding. The answer was never missing. It was waiting on your yes.",
-      "scripture": { "text": "Whether you turn to the right or to the left, your ears will hear a voice behind you, saying, This is the way; walk in it.", "reference": "Isaiah 30:21" }
+      "scripture": {
+        "text": "and thine ears shall hear a word behind thee, saying, This is the way, walk ye in it; when ye turn to the right hand, and when ye turn to the left.",
+        "reference": "Isaiah 30:21",
+        "translation": "ASV"
+      }
     }
   }
 }

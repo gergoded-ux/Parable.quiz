@@ -6,87 +6,279 @@
   "category": "spiritual-profile",
   "estimatedMinutes": 5,
   "mode": "profile",
-  "dimensions": ["hoarder", "giver", "worrier", "free-spender", "steward"],
+  "dimensions": [
+    "hoarder",
+    "giver",
+    "worrier",
+    "free-spender",
+    "steward"
+  ],
   "questions": [
     {
       "text": "When extra money lands in your account, your first instinct is...",
       "options": [
-        { "text": "Save it and hold on tight. You never know what is coming.", "weights": { "hoarder": 2 } },
-        { "text": "Look for someone who needs it more than I do.", "weights": { "giver": 2 } },
-        { "text": "Feel relieved for a second, then anxious it will not last.", "weights": { "worrier": 2 } },
-        { "text": "Treat myself. Life is short, why not enjoy it?", "weights": { "free-spender": 2 } }
+        {
+          "text": "Save it and hold on tight. You never know what is coming.",
+          "weights": {
+            "hoarder": 2
+          }
+        },
+        {
+          "text": "Look for someone who needs it more than I do.",
+          "weights": {
+            "giver": 2
+          }
+        },
+        {
+          "text": "Feel relieved for a second, then anxious it will not last.",
+          "weights": {
+            "worrier": 2
+          }
+        },
+        {
+          "text": "Treat myself. Life is short, why not enjoy it?",
+          "weights": {
+            "free-spender": 2
+          }
+        }
       ]
     },
     {
       "text": "What feeling does money stir up in you most often?",
       "options": [
-        { "text": "Security, as long as the balance keeps climbing.", "weights": { "hoarder": 2 } },
-        { "text": "Joy, especially when I get to bless someone with it.", "weights": { "giver": 2 } },
-        { "text": "Low-grade dread. I am always bracing for a shortfall.", "weights": { "worrier": 2 } },
-        { "text": "Freedom. I like spending it on things I love.", "weights": { "free-spender": 2 } }
+        {
+          "text": "Security, as long as the balance keeps climbing.",
+          "weights": {
+            "hoarder": 2
+          }
+        },
+        {
+          "text": "Joy, especially when I get to bless someone with it.",
+          "weights": {
+            "giver": 2
+          }
+        },
+        {
+          "text": "Low-grade dread. I am always bracing for a shortfall.",
+          "weights": {
+            "worrier": 2
+          }
+        },
+        {
+          "text": "Freedom. I like spending it on things I love.",
+          "weights": {
+            "free-spender": 2
+          }
+        }
       ]
     },
     {
       "text": "How do you feel about giving money away?",
       "options": [
-        { "text": "I want to, but letting go of it is genuinely hard for me.", "weights": { "hoarder": 2 } },
-        { "text": "It is one of my favorite things. I look for chances to give.", "weights": { "giver": 2 } },
-        { "text": "I worry I will not have enough left if I give too much.", "weights": { "worrier": 2 } },
-        { "text": "I give impulsively, sometimes more than I planned to.", "weights": { "free-spender": 2 } }
+        {
+          "text": "I want to, but letting go of it is genuinely hard for me.",
+          "weights": {
+            "hoarder": 2
+          }
+        },
+        {
+          "text": "It is one of my favorite things. I look for chances to give.",
+          "weights": {
+            "giver": 2
+          }
+        },
+        {
+          "text": "I worry I will not have enough left if I give too much.",
+          "weights": {
+            "worrier": 2
+          }
+        },
+        {
+          "text": "I give impulsively, sometimes more than I planned to.",
+          "weights": {
+            "free-spender": 2
+          }
+        }
       ]
     },
     {
       "text": "When you think about your financial future, you...",
       "options": [
-        { "text": "Want a big cushion so I never have to depend on anyone.", "weights": { "hoarder": 2 } },
-        { "text": "Hope to have enough to keep being generous for years.", "weights": { "giver": 2 } },
-        { "text": "Lie awake running worst-case numbers in my head.", "weights": { "worrier": 2 } },
-        { "text": "Do not think about it much. Today is what I focus on.", "weights": { "free-spender": 2 } }
+        {
+          "text": "Want a big cushion so I never have to depend on anyone.",
+          "weights": {
+            "hoarder": 2
+          }
+        },
+        {
+          "text": "Hope to have enough to keep being generous for years.",
+          "weights": {
+            "giver": 2
+          }
+        },
+        {
+          "text": "Lie awake running worst-case numbers in my head.",
+          "weights": {
+            "worrier": 2
+          }
+        },
+        {
+          "text": "Do not think about it much. Today is what I focus on.",
+          "weights": {
+            "free-spender": 2
+          }
+        }
       ]
     },
     {
       "text": "Which Bible money story unsettles you the most?",
       "options": [
-        { "text": "The man who built bigger barns to store it all up.", "weights": { "hoarder": 2 } },
-        { "text": "Honestly none. I love the cheerful giver.", "weights": { "giver": 1, "steward": 1 } },
-        { "text": "Do not be anxious about your life, what you will eat.", "weights": { "worrier": 2 } },
-        { "text": "The one who wasted his inheritance on wild living.", "weights": { "free-spender": 2 } }
+        {
+          "text": "The man who built bigger barns to store it all up.",
+          "weights": {
+            "hoarder": 2
+          }
+        },
+        {
+          "text": "Honestly none. I love the cheerful giver.",
+          "weights": {
+            "giver": 1,
+            "steward": 1
+          }
+        },
+        {
+          "text": "Do not be anxious about your life, what you will eat.",
+          "weights": {
+            "worrier": 2
+          }
+        },
+        {
+          "text": "The one who wasted his inheritance on wild living.",
+          "weights": {
+            "free-spender": 2
+          }
+        }
       ]
     },
     {
       "text": "Be honest. What is the unhealthy edge of your money habits?",
       "options": [
-        { "text": "I cling so tightly that I struggle to ever let go.", "weights": { "hoarder": 2 } },
-        { "text": "I give so freely I sometimes neglect my own basics.", "weights": { "giver": 2, "free-spender": 1 } },
-        { "text": "My anxiety steals the peace money was never meant to threaten.", "weights": { "worrier": 2 } },
-        { "text": "I spend now and deal with the consequences later.", "weights": { "free-spender": 2 } }
+        {
+          "text": "I cling so tightly that I struggle to ever let go.",
+          "weights": {
+            "hoarder": 2
+          }
+        },
+        {
+          "text": "I give so freely I sometimes neglect my own basics.",
+          "weights": {
+            "giver": 2,
+            "free-spender": 1
+          }
+        },
+        {
+          "text": "My anxiety steals the peace money was never meant to threaten.",
+          "weights": {
+            "worrier": 2
+          }
+        },
+        {
+          "text": "I spend now and deal with the consequences later.",
+          "weights": {
+            "free-spender": 2
+          }
+        }
       ]
     },
     {
       "text": "How do you handle a budget?",
       "options": [
-        { "text": "I track every dollar and rarely spend on myself.", "weights": { "hoarder": 2 } },
-        { "text": "I build giving in first, then plan the rest.", "weights": { "giver": 2, "steward": 1 } },
-        { "text": "I obsess over it but never feel like it is enough.", "weights": { "worrier": 2 } },
-        { "text": "Budget? I more or less spend until it runs low.", "weights": { "free-spender": 2 } }
+        {
+          "text": "I track every dollar and rarely spend on myself.",
+          "weights": {
+            "hoarder": 2
+          }
+        },
+        {
+          "text": "I build giving in first, then plan the rest.",
+          "weights": {
+            "giver": 2,
+            "steward": 1
+          }
+        },
+        {
+          "text": "I obsess over it but never feel like it is enough.",
+          "weights": {
+            "worrier": 2
+          }
+        },
+        {
+          "text": "Budget? I more or less spend until it runs low.",
+          "weights": {
+            "free-spender": 2
+          }
+        }
       ]
     },
     {
       "text": "Which best describes how you want to handle money?",
       "options": [
-        { "text": "Wisely and on purpose, like a manager of what God gave me.", "weights": { "steward": 2 } },
-        { "text": "Generously, with an open hand toward others.", "weights": { "giver": 2, "steward": 1 } },
-        { "text": "Calmly, without the constant fear in my chest.", "weights": { "worrier": 1, "steward": 1 } },
-        { "text": "Freely, but with a lot more self-control than I have now.", "weights": { "free-spender": 1, "steward": 1 } }
+        {
+          "text": "Wisely and on purpose, like a manager of what God gave me.",
+          "weights": {
+            "steward": 2
+          }
+        },
+        {
+          "text": "Generously, with an open hand toward others.",
+          "weights": {
+            "giver": 2,
+            "steward": 1
+          }
+        },
+        {
+          "text": "Calmly, without the constant fear in my chest.",
+          "weights": {
+            "worrier": 1,
+            "steward": 1
+          }
+        },
+        {
+          "text": "Freely, but with a lot more self-control than I have now.",
+          "weights": {
+            "free-spender": 1,
+            "steward": 1
+          }
+        }
       ]
     },
     {
       "text": "What do you most want money to never become in your life?",
       "options": [
-        { "text": "An idol I cannot bring myself to release.", "weights": { "hoarder": 2 } },
-        { "text": "Something I give from emptiness instead of overflow.", "weights": { "giver": 2 } },
-        { "text": "A source of fear that runs my whole mood.", "weights": { "worrier": 2 } },
-        { "text": "A habit of spending that controls me.", "weights": { "free-spender": 2 } }
+        {
+          "text": "An idol I cannot bring myself to release.",
+          "weights": {
+            "hoarder": 2
+          }
+        },
+        {
+          "text": "Something I give from emptiness instead of overflow.",
+          "weights": {
+            "giver": 2
+          }
+        },
+        {
+          "text": "A source of fear that runs my whole mood.",
+          "weights": {
+            "worrier": 2
+          }
+        },
+        {
+          "text": "A habit of spending that controls me.",
+          "weights": {
+            "free-spender": 2
+          }
+        }
       ]
     }
   ],
@@ -94,27 +286,47 @@
     "hoarder": {
       "name": "The Hoarder",
       "description": "Saving is wise, but for you holding on has quietly become holding tight. Money feels like security, and letting go of it can feel almost impossible. The danger is not the savings account. It is the grip. Try giving a little more than feels comfortable. An open hand trusts God in a way a clenched one never can.",
-      "scripture": { "text": "Lay not up for yourselves treasures upon earth, but lay up for yourselves treasures in heaven.", "reference": "Matthew 6:19-20" }
+      "scripture": {
+        "text": "Lay not up for yourselves treasures upon the earth, where moth and rust consume, and where thieves break through and steal: but lay up for yourselves treasures in heaven, where neither moth nor rust doth consume, and where thieves do not break through nor steal:",
+        "reference": "Matthew 6:19-20",
+        "translation": "ASV"
+      }
     },
     "giver": {
       "name": "The Giver",
       "description": "Generosity comes alive in you, and God loves the cheerful heart behind it. You light up when you get to bless someone, and that is a beautiful way to hold money loosely. Just make sure you are giving from overflow, not from running yourself dry. Wisdom and generosity are meant to work together, not against each other.",
-      "scripture": { "text": "God loveth a cheerful giver.", "reference": "2 Corinthians 9:7" }
+      "scripture": {
+        "text": "Let each man do according as he hath purposed in his heart: not grudgingly, or of necessity: for God loveth a cheerful giver.",
+        "reference": "2 Corinthians 9:7",
+        "translation": "ASV"
+      }
     },
     "worrier": {
       "name": "The Worrier",
       "description": "Money does not feel like security to you. It feels like a threat you have to keep ahead of. The numbers can be fine and you will still lie awake bracing for disaster. That anxiety is exhausting, and it is not the life God is offering you. He knows what you need before you ask. You can plan wisely and still hand the fear to Him.",
-      "scripture": { "text": "Take no thought for your life. Your heavenly Father knoweth that ye have need of all these things.", "reference": "Matthew 6:25,32" }
+      "scripture": {
+        "text": "Therefore I say unto you, Be not anxious for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. Is not the life more than the food, and the body than the raiment?",
+        "reference": "Matthew 6:25",
+        "translation": "ASV"
+      }
     },
     "free-spender": {
       "name": "The Free Spender",
       "description": "You enjoy what money can do, and there is nothing wrong with enjoying God's provision. But the spending can run ahead of you, leaving consequences for later you. A little structure would not steal your joy. It would protect it. Self-control is not the enemy of a good life. It is what keeps the good things from owning you.",
-      "scripture": { "text": "The fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith, meekness, temperance.", "reference": "Galatians 5:22-23" }
+      "scripture": {
+        "text": "But the fruit of the Spirit is love, joy, peace, longsuffering, kindness, goodness, faithfulness, meekness, self-control; against such there is no law.",
+        "reference": "Galatians 5:22-23",
+        "translation": "ASV"
+      }
     },
     "steward": {
       "name": "The Steward",
       "description": "You see money for what it really is: something entrusted to you to manage well, not something to worship or fear. You plan with care, give on purpose, and hold it all with an open hand. That is a healthy place to be. Keep leaning on God as the true owner, and let Him keep shaping how you handle what He provides.",
-      "scripture": { "text": "Moreover it is required in stewards, that a man be found faithful.", "reference": "1 Corinthians 4:2" }
+      "scripture": {
+        "text": "Here, moreover, it is required in stewards, that a man be found faithful.",
+        "reference": "1 Corinthians 4:2",
+        "translation": "ASV"
+      }
     }
   }
 }

@@ -10,73 +10,240 @@
     {
       "text": "How would you describe the silence you're in right now?",
       "options": [
-        { "text": "I've lost things I can't explain, and heaven says nothing.", "weights": { "job": 3 } },
-        { "text": "I keep asking how long, and the answer never comes.", "weights": { "habakkuk": 3 } },
-        { "text": "I almost lost my faith watching people who don't even care thrive.", "weights": { "asaph": 3 } },
-        { "text": "I've been crying out for one specific thing for so long.", "weights": { "hannah": 3 } }
+        {
+          "text": "I've lost things I can't explain, and heaven says nothing.",
+          "weights": {
+            "job": 3
+          }
+        },
+        {
+          "text": "I keep asking how long, and the answer never comes.",
+          "weights": {
+            "habakkuk": 3
+          }
+        },
+        {
+          "text": "I almost lost my faith watching people who don't even care thrive.",
+          "weights": {
+            "asaph": 3
+          }
+        },
+        {
+          "text": "I've been crying out for one specific thing for so long.",
+          "weights": {
+            "hannah": 3
+          }
+        }
       ]
     },
     {
       "text": "What does your prayer sound like these days?",
       "options": [
-        { "text": "Honest complaint. I'm not pretending I'm fine.", "weights": { "job": 2, "habakkuk": 1 } },
-        { "text": "How long, Lord? When are You going to act?", "weights": { "habakkuk": 3 } },
-        { "text": "Mostly tears. The words won't even come.", "weights": { "hannah": 3 } },
-        { "text": "I'm too exhausted to pray much at all.", "weights": { "elijah": 3 } }
+        {
+          "text": "Honest complaint. I'm not pretending I'm fine.",
+          "weights": {
+            "job": 2,
+            "habakkuk": 1
+          }
+        },
+        {
+          "text": "How long, Lord? When are You going to act?",
+          "weights": {
+            "habakkuk": 3
+          }
+        },
+        {
+          "text": "Mostly tears. The words won't even come.",
+          "weights": {
+            "hannah": 3
+          }
+        },
+        {
+          "text": "I'm too exhausted to pray much at all.",
+          "weights": {
+            "elijah": 3
+          }
+        }
       ]
     },
     {
       "text": "What pushed you into this silent season?",
       "options": [
-        { "text": "A wave of loss that hit everything at once.", "weights": { "job": 3 } },
-        { "text": "Watching injustice go unanswered for too long.", "weights": { "habakkuk": 2, "asaph": 1 } },
-        { "text": "Comparing my life to people who seem to coast.", "weights": { "asaph": 3 } },
-        { "text": "A win that left me more drained and afraid than ever.", "weights": { "elijah": 3 } }
+        {
+          "text": "A wave of loss that hit everything at once.",
+          "weights": {
+            "job": 3
+          }
+        },
+        {
+          "text": "Watching injustice go unanswered for too long.",
+          "weights": {
+            "habakkuk": 2,
+            "asaph": 1
+          }
+        },
+        {
+          "text": "Comparing my life to people who seem to coast.",
+          "weights": {
+            "asaph": 3
+          }
+        },
+        {
+          "text": "A win that left me more drained and afraid than ever.",
+          "weights": {
+            "elijah": 3
+          }
+        }
       ]
     },
     {
       "text": "Where do you go when the quiet gets too loud?",
       "options": [
-        { "text": "I sit in it. I refuse to fake an answer I don't have.", "weights": { "job": 3 } },
-        { "text": "I climb up to my watchtower and wait for God to reply.", "weights": { "habakkuk": 3 } },
-        { "text": "Into His presence. It's the only place it makes sense again.", "weights": { "asaph": 3 } },
-        { "text": "A cave. Somewhere dark and hidden where no one finds me.", "weights": { "david-in-the-cave": 2, "elijah": 1 } }
+        {
+          "text": "I sit in it. I refuse to fake an answer I don't have.",
+          "weights": {
+            "job": 3
+          }
+        },
+        {
+          "text": "I climb up to my watchtower and wait for God to reply.",
+          "weights": {
+            "habakkuk": 3
+          }
+        },
+        {
+          "text": "Into His presence. It's the only place it makes sense again.",
+          "weights": {
+            "asaph": 3
+          }
+        },
+        {
+          "text": "A cave. Somewhere dark and hidden where no one finds me.",
+          "weights": {
+            "david-in-the-cave": 2,
+            "elijah": 1
+          }
+        }
       ]
     },
     {
       "text": "What are you most tempted to believe in the silence?",
       "options": [
-        { "text": "That I did something to deserve all this.", "weights": { "job": 3 } },
-        { "text": "That God isn't going to do anything at all.", "weights": { "habakkuk": 2, "asaph": 1 } },
-        { "text": "That the people ignoring God have it better than me.", "weights": { "asaph": 3 } },
-        { "text": "That I'm completely alone and no one is coming.", "weights": { "david-in-the-cave": 3 } }
+        {
+          "text": "That I did something to deserve all this.",
+          "weights": {
+            "job": 3
+          }
+        },
+        {
+          "text": "That God isn't going to do anything at all.",
+          "weights": {
+            "habakkuk": 2,
+            "asaph": 1
+          }
+        },
+        {
+          "text": "That the people ignoring God have it better than me.",
+          "weights": {
+            "asaph": 3
+          }
+        },
+        {
+          "text": "That I'm completely alone and no one is coming.",
+          "weights": {
+            "david-in-the-cave": 3
+          }
+        }
       ]
     },
     {
       "text": "How do others see you while you're going through this?",
       "options": [
-        { "text": "Steady on the outside, even with everything falling apart.", "weights": { "job": 3 } },
-        { "text": "The one still asking the hard questions out loud.", "weights": { "habakkuk": 3 } },
-        { "text": "Honestly? They don't know how close I came to giving up.", "weights": { "asaph": 2, "hannah": 1 } },
-        { "text": "They think I'm strong. Inside I just want to lie down and quit.", "weights": { "elijah": 3 } }
+        {
+          "text": "Steady on the outside, even with everything falling apart.",
+          "weights": {
+            "job": 3
+          }
+        },
+        {
+          "text": "The one still asking the hard questions out loud.",
+          "weights": {
+            "habakkuk": 3
+          }
+        },
+        {
+          "text": "Honestly? They don't know how close I came to giving up.",
+          "weights": {
+            "asaph": 2,
+            "hannah": 1
+          }
+        },
+        {
+          "text": "They think I'm strong. Inside I just want to lie down and quit.",
+          "weights": {
+            "elijah": 3
+          }
+        }
       ]
     },
     {
       "text": "What would actually help you most right now?",
       "options": [
-        { "text": "For God to finally show up and speak, even if I can't reply.", "weights": { "job": 3 } },
-        { "text": "A promise that the waiting has a finish line.", "weights": { "habakkuk": 2, "hannah": 1 } },
-        { "text": "Food, sleep, and a gentle voice telling me I'm not done.", "weights": { "elijah": 3 } },
-        { "text": "Somewhere safe to hide while I get my breath back.", "weights": { "david-in-the-cave": 3 } }
+        {
+          "text": "For God to finally show up and speak, even if I can't reply.",
+          "weights": {
+            "job": 3
+          }
+        },
+        {
+          "text": "A promise that the waiting has a finish line.",
+          "weights": {
+            "habakkuk": 2,
+            "hannah": 1
+          }
+        },
+        {
+          "text": "Food, sleep, and a gentle voice telling me I'm not done.",
+          "weights": {
+            "elijah": 3
+          }
+        },
+        {
+          "text": "Somewhere safe to hide while I get my breath back.",
+          "weights": {
+            "david-in-the-cave": 3
+          }
+        }
       ]
     },
     {
       "text": "Deep down, what do you still believe about God?",
       "options": [
-        { "text": "Even if He never explains, I won't let go of Him.", "weights": { "job": 3 } },
-        { "text": "He's worth rejoicing in even when nothing is going right.", "weights": { "habakkuk": 3 } },
-        { "text": "He's still my portion. There's nothing on earth I want more.", "weights": { "asaph": 3 } },
-        { "text": "He hears the cry I can barely whisper.", "weights": { "hannah": 2, "david-in-the-cave": 1 } }
+        {
+          "text": "Even if He never explains, I won't let go of Him.",
+          "weights": {
+            "job": 3
+          }
+        },
+        {
+          "text": "He's worth rejoicing in even when nothing is going right.",
+          "weights": {
+            "habakkuk": 3
+          }
+        },
+        {
+          "text": "He's still my portion. There's nothing on earth I want more.",
+          "weights": {
+            "asaph": 3
+          }
+        },
+        {
+          "text": "He hears the cry I can barely whisper.",
+          "weights": {
+            "hannah": 2,
+            "david-in-the-cave": 1
+          }
+        }
       ]
     }
   ],
@@ -84,44 +251,92 @@
     "job": {
       "name": "Job",
       "emoji": "🌪️",
-      "traits": ["Honest", "Enduring", "Faithful"],
+      "traits": [
+        "Honest",
+        "Enduring",
+        "Faithful"
+      ],
       "description": "You've lost things you never thought you'd lose, and God has gone quiet right when you needed answers most. You won't fake peace you don't have, and you won't curse Him either. That stubborn, honest holding-on is its own kind of worship. The answer that finally came to Job wasn't an explanation. It was God Himself.",
-      "scripture": { "text": "Though he slay me, yet will I trust in him.", "reference": "Job 13:15" }
+      "scripture": {
+        "text": "Behold, he will slay me; I have no hope: Nevertheless I will maintain my ways before him.",
+        "reference": "Job 13:15",
+        "translation": "ASV"
+      }
     },
     "habakkuk": {
       "name": "Habakkuk",
       "emoji": "🗼",
-      "traits": ["Questioning", "Patient", "Trusting"],
+      "traits": [
+        "Questioning",
+        "Patient",
+        "Trusting"
+      ],
       "description": "You keep asking how long, and you're not ashamed of it. You bring your complaints straight to God and then you climb up and wait for His reply. That's not weak faith. That's faith brave enough to argue and still stay. Even with the fig tree bare, you're learning to rejoice in Him anyway.",
-      "scripture": { "text": "I will stand upon my watch, and set me upon the tower, and will watch to see what he will say unto me.", "reference": "Habakkuk 2:1" }
+      "scripture": {
+        "text": "I will stand upon my watch, and set me upon the tower, and will look forth to see what he will speak with me, and what I shall answer concerning my complaint.",
+        "reference": "Habakkuk 2:1",
+        "translation": "ASV"
+      }
     },
     "asaph": {
       "name": "Asaph",
       "emoji": "⚖️",
-      "traits": ["Real", "Searching", "Anchored"],
+      "traits": [
+        "Real",
+        "Searching",
+        "Anchored"
+      ],
       "description": "You almost slipped. Watching people ignore God and seem to win nearly took you out, and you're honest enough to admit it. But you walked into His presence and it all came back into focus. You found what they don't have: God Himself as your portion. That's the thing comparison can never touch.",
-      "scripture": { "text": "Whom have I in heaven but thee? and there is none upon earth that I desire beside thee.", "reference": "Psalm 73:25" }
+      "scripture": {
+        "text": "Whom have I in heavenbut thee? And there is none upon earth that I desire besides thee.",
+        "reference": "Psalm 73:25",
+        "translation": "ASV"
+      }
     },
     "hannah": {
       "name": "Hannah",
       "emoji": "🕯️",
-      "traits": ["Tender", "Persistent", "Believing"],
+      "traits": [
+        "Tender",
+        "Persistent",
+        "Believing"
+      ],
       "description": "You've prayed for one thing through years of tears, and the silence has felt like a closed door. But you keep pouring your heart out anyway, even when your lips move and no sound comes. God heard Hannah's quietest prayer, and He remembered her. He hears yours too, every single time.",
-      "scripture": { "text": "I have poured out my soul before the Lord.", "reference": "1 Samuel 1:15" }
+      "scripture": {
+        "text": "And Hannah answered and said, No, my lord, I am a woman of a sorrowful spirit: I have drunk neither wine nor strong drink, but I poured out my soul before Jehovah.",
+        "reference": "1 Samuel 1:15",
+        "translation": "ASV"
+      }
     },
     "elijah": {
       "name": "Elijah",
       "emoji": "🌳",
-      "traits": ["Spent", "Honest", "Restored"],
+      "traits": [
+        "Spent",
+        "Honest",
+        "Restored"
+      ],
       "description": "You did the big, hard thing, and then you crashed. Now you're under the broom tree, exhausted enough to be done. Notice how God treated Elijah there: not a lecture, but food, sleep, and a gentle whisper. He's not disappointed in your tiredness. He's tending it. Let Him feed you before He asks anything else.",
-      "scripture": { "text": "And after the fire a still small voice.", "reference": "1 Kings 19:12" }
+      "scripture": {
+        "text": "and after the earthquake a fire; but Jehovah was not in the fire: and after the fire a still small voice.",
+        "reference": "1 Kings 19:12",
+        "translation": "ASV"
+      }
     },
     "david-in-the-cave": {
       "name": "David in the Cave",
       "emoji": "🪨",
-      "traits": ["Hidden", "Hunted", "Hopeful"],
+      "traits": [
+        "Hidden",
+        "Hunted",
+        "Hopeful"
+      ],
       "description": "You're in the cave: hidden, hunted, feeling like no one sees you and no one is coming. David wrote some of his rawest prayers from exactly that place. He told God he was alone, that no one cared for his soul, and then he made God his refuge anyway. The cave isn't your grave. It's your hiding place, and you're not in it alone.",
-      "scripture": { "text": "I cried unto thee, O Lord: I said, Thou art my refuge.", "reference": "Psalm 142:5" }
+      "scripture": {
+        "text": "I cried unto thee, O Jehovah; I said, Thou art my refuge, My portion in the land of the living.",
+        "reference": "Psalm 142:5",
+        "translation": "ASV"
+      }
     }
   }
 }

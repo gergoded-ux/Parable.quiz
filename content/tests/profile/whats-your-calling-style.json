@@ -18,91 +18,295 @@
     {
       "text": "When you walk into a situation that's a mess, what do you instinctively do?",
       "options": [
-        { "text": "Start organizing it and building a system that works.", "weights": { "builder": 3 } },
-        { "text": "Notice who's hurting and quietly move toward them.", "weights": { "healer": 3 } },
-        { "text": "Speak up about what's true, even if it's uncomfortable.", "weights": { "messenger": 3 } },
-        { "text": "Make sure no one gets left out or overlooked.", "weights": { "shepherd": 2, "bridge": 1 } }
+        {
+          "text": "Start organizing it and building a system that works.",
+          "weights": {
+            "builder": 3
+          }
+        },
+        {
+          "text": "Notice who's hurting and quietly move toward them.",
+          "weights": {
+            "healer": 3
+          }
+        },
+        {
+          "text": "Speak up about what's true, even if it's uncomfortable.",
+          "weights": {
+            "messenger": 3
+          }
+        },
+        {
+          "text": "Make sure no one gets left out or overlooked.",
+          "weights": {
+            "shepherd": 2,
+            "bridge": 1
+          }
+        }
       ]
     },
     {
       "text": "People tend to come to you when they need...",
       "options": [
-        { "text": "Something built, fixed, or made to actually function.", "weights": { "builder": 3 } },
-        { "text": "Comfort, or a safe place to fall apart.", "weights": { "healer": 3 } },
-        { "text": "Truth said plainly when no one else will say it.", "weights": { "messenger": 3 } },
-        { "text": "Someone to guide and look after them.", "weights": { "shepherd": 3 } }
+        {
+          "text": "Something built, fixed, or made to actually function.",
+          "weights": {
+            "builder": 3
+          }
+        },
+        {
+          "text": "Comfort, or a safe place to fall apart.",
+          "weights": {
+            "healer": 3
+          }
+        },
+        {
+          "text": "Truth said plainly when no one else will say it.",
+          "weights": {
+            "messenger": 3
+          }
+        },
+        {
+          "text": "Someone to guide and look after them.",
+          "weights": {
+            "shepherd": 3
+          }
+        }
       ]
     },
     {
       "text": "What kind of work makes you lose track of time?",
       "options": [
-        { "text": "Creating something beautiful out of nothing.", "weights": { "maker": 3 } },
-        { "text": "Bringing two sides together that couldn't connect.", "weights": { "bridge": 3 } },
-        { "text": "Tackling a big project and watching it take shape.", "weights": { "builder": 3 } },
-        { "text": "Sitting with someone in their pain until they're steadier.", "weights": { "healer": 3 } }
+        {
+          "text": "Creating something beautiful out of nothing.",
+          "weights": {
+            "maker": 3
+          }
+        },
+        {
+          "text": "Bringing two sides together that couldn't connect.",
+          "weights": {
+            "bridge": 3
+          }
+        },
+        {
+          "text": "Tackling a big project and watching it take shape.",
+          "weights": {
+            "builder": 3
+          }
+        },
+        {
+          "text": "Sitting with someone in their pain until they're steadier.",
+          "weights": {
+            "healer": 3
+          }
+        }
       ]
     },
     {
       "text": "When you imagine making a difference, it looks like...",
       "options": [
-        { "text": "Leaving behind something solid that outlasts me.", "weights": { "builder": 3 } },
-        { "text": "Helping broken people become whole again.", "weights": { "healer": 3 } },
-        { "text": "Getting an important message to the people who need it.", "weights": { "messenger": 3 } },
-        { "text": "Faithfully tending the few God put in my care.", "weights": { "shepherd": 3 } }
+        {
+          "text": "Leaving behind something solid that outlasts me.",
+          "weights": {
+            "builder": 3
+          }
+        },
+        {
+          "text": "Helping broken people become whole again.",
+          "weights": {
+            "healer": 3
+          }
+        },
+        {
+          "text": "Getting an important message to the people who need it.",
+          "weights": {
+            "messenger": 3
+          }
+        },
+        {
+          "text": "Faithfully tending the few God put in my care.",
+          "weights": {
+            "shepherd": 3
+          }
+        }
       ]
     },
     {
       "text": "Which compliment lands deepest for you?",
       "options": [
-        { "text": "\"You made this. It's beautiful.\"", "weights": { "maker": 3 } },
-        { "text": "\"You helped me see both sides.\"", "weights": { "bridge": 3 } },
-        { "text": "\"You said exactly what I needed to hear.\"", "weights": { "messenger": 3 } },
-        { "text": "\"I always feel cared for around you.\"", "weights": { "shepherd": 3 } }
+        {
+          "text": "\"You made this. It's beautiful.\"",
+          "weights": {
+            "maker": 3
+          }
+        },
+        {
+          "text": "\"You helped me see both sides.\"",
+          "weights": {
+            "bridge": 3
+          }
+        },
+        {
+          "text": "\"You said exactly what I needed to hear.\"",
+          "weights": {
+            "messenger": 3
+          }
+        },
+        {
+          "text": "\"I always feel cared for around you.\"",
+          "weights": {
+            "shepherd": 3
+          }
+        }
       ]
     },
     {
       "text": "What frustrates you most when you watch it happen?",
       "options": [
-        { "text": "Good ideas that never get built into anything real.", "weights": { "builder": 3 } },
-        { "text": "People suffering with no one tending to them.", "weights": { "healer": 3 } },
-        { "text": "Important truth getting buried or ignored.", "weights": { "messenger": 3 } },
-        { "text": "Groups stuck in conflict with no one bridging the gap.", "weights": { "bridge": 3 } }
+        {
+          "text": "Good ideas that never get built into anything real.",
+          "weights": {
+            "builder": 3
+          }
+        },
+        {
+          "text": "People suffering with no one tending to them.",
+          "weights": {
+            "healer": 3
+          }
+        },
+        {
+          "text": "Important truth getting buried or ignored.",
+          "weights": {
+            "messenger": 3
+          }
+        },
+        {
+          "text": "Groups stuck in conflict with no one bridging the gap.",
+          "weights": {
+            "bridge": 3
+          }
+        }
       ]
     },
     {
       "text": "Your friends would say your superpower is...",
       "options": [
-        { "text": "Turning chaos into something that runs.", "weights": { "builder": 3 } },
-        { "text": "Making hurting people feel safe.", "weights": { "healer": 3 } },
-        { "text": "Telling it like it is with love.", "weights": { "messenger": 3 } },
-        { "text": "Creating things that move people.", "weights": { "maker": 3 } }
+        {
+          "text": "Turning chaos into something that runs.",
+          "weights": {
+            "builder": 3
+          }
+        },
+        {
+          "text": "Making hurting people feel safe.",
+          "weights": {
+            "healer": 3
+          }
+        },
+        {
+          "text": "Telling it like it is with love.",
+          "weights": {
+            "messenger": 3
+          }
+        },
+        {
+          "text": "Creating things that move people.",
+          "weights": {
+            "maker": 3
+          }
+        }
       ]
     },
     {
       "text": "How do you most naturally show God's love?",
       "options": [
-        { "text": "By building things that serve and bless people.", "weights": { "builder": 3 } },
-        { "text": "By gently helping wounds heal.", "weights": { "healer": 3 } },
-        { "text": "By carrying His message to others.", "weights": { "messenger": 3 } },
-        { "text": "By walking alongside people for the long haul.", "weights": { "shepherd": 3 } }
+        {
+          "text": "By building things that serve and bless people.",
+          "weights": {
+            "builder": 3
+          }
+        },
+        {
+          "text": "By gently helping wounds heal.",
+          "weights": {
+            "healer": 3
+          }
+        },
+        {
+          "text": "By carrying His message to others.",
+          "weights": {
+            "messenger": 3
+          }
+        },
+        {
+          "text": "By walking alongside people for the long haul.",
+          "weights": {
+            "shepherd": 3
+          }
+        }
       ]
     },
     {
       "text": "Where do you feel most alive and useful?",
       "options": [
-        { "text": "In the workshop, the studio, anywhere I can create.", "weights": { "maker": 3 } },
-        { "text": "In the messy middle, helping enemies become friends.", "weights": { "bridge": 3 } },
-        { "text": "On a big build, leading something from idea to finish.", "weights": { "builder": 2, "shepherd": 1 } },
-        { "text": "One on one, helping someone find their footing.", "weights": { "healer": 2, "shepherd": 1 } }
+        {
+          "text": "In the workshop, the studio, anywhere I can create.",
+          "weights": {
+            "maker": 3
+          }
+        },
+        {
+          "text": "In the messy middle, helping enemies become friends.",
+          "weights": {
+            "bridge": 3
+          }
+        },
+        {
+          "text": "On a big build, leading something from idea to finish.",
+          "weights": {
+            "builder": 2,
+            "shepherd": 1
+          }
+        },
+        {
+          "text": "One on one, helping someone find their footing.",
+          "weights": {
+            "healer": 2,
+            "shepherd": 1
+          }
+        }
       ]
     },
     {
       "text": "If God handed you one assignment tomorrow, you'd hope it was...",
       "options": [
-        { "text": "Build the thing this community desperately needs.", "weights": { "builder": 3 } },
-        { "text": "Bring healing to people the world gave up on.", "weights": { "healer": 3 } },
-        { "text": "Carry a hard, hopeful truth to people who need it.", "weights": { "messenger": 3 } },
-        { "text": "Make something that points people straight to Him.", "weights": { "maker": 2, "bridge": 1 } }
+        {
+          "text": "Build the thing this community desperately needs.",
+          "weights": {
+            "builder": 3
+          }
+        },
+        {
+          "text": "Bring healing to people the world gave up on.",
+          "weights": {
+            "healer": 3
+          }
+        },
+        {
+          "text": "Carry a hard, hopeful truth to people who need it.",
+          "weights": {
+            "messenger": 3
+          }
+        },
+        {
+          "text": "Make something that points people straight to Him.",
+          "weights": {
+            "maker": 2,
+            "bridge": 1
+          }
+        }
       ]
     }
   ],
@@ -110,32 +314,56 @@
     "builder": {
       "name": "The Builder",
       "description": "You don't just dream about a better way, you make it real. Where others see a mess, you see a structure waiting to be built, and you have the grit to see it through. God has always used builders, from Noah to Nehemiah, to put solid things in place that bless people for years. Your hands are an answer to someone's prayer. Build something that lasts.",
-      "scripture": { "text": "Unless the Lord builds the house, the builders labor in vain.", "reference": "Psalm 127:1" }
+      "scripture": {
+        "text": "Except Jehovah build the house, They labor in vain that build it: Except Jehovah keep the city, The watchman waketh but in vain.",
+        "reference": "Psalm 127:1",
+        "translation": "ASV"
+      }
     },
     "healer": {
       "name": "The Healer",
       "description": "You move toward pain instead of away from it. People feel safe falling apart near you, because you don't rush them or flinch at their wounds. That tenderness is a gift the world is desperate for. God binds up the brokenhearted, and He often does it through people like you. Keep offering the gentle presence that helps others become whole.",
-      "scripture": { "text": "He heals the brokenhearted and binds up their wounds.", "reference": "Psalm 147:3" }
+      "scripture": {
+        "text": "He healeth the broken in heart, And bindeth up their wounds.",
+        "reference": "Psalm 147:3",
+        "translation": "ASV"
+      }
     },
     "messenger": {
       "name": "The Messenger",
       "description": "You can't sit on the truth when someone needs to hear it. You say the thing other people are afraid to say, and you say it because you care, not to be right. That kind of honest voice is rare and badly needed. God has always called messengers to carry His words. Speak with love, and trust Him with how it lands.",
-      "scripture": { "text": "How beautiful are the feet of those who bring good news!", "reference": "Romans 10:15" }
+      "scripture": {
+        "text": "and how shall they preach, except they be sent? even as it is written, How beautiful are the feet of them that bring glad tidings of good things!",
+        "reference": "Romans 10:15",
+        "translation": "ASV"
+      }
     },
     "shepherd": {
       "name": "The Shepherd",
       "description": "You notice the one who's drifting and you go after them. You're not chasing a crowd. You're faithfully tending the few God placed in your care, day after day, often when no one's watching. That quiet loyalty is the heart of how Jesus leads. Keep guiding, protecting, and staying. The people in your care are safer because you're there.",
-      "scripture": { "text": "He tends his flock like a shepherd: He gathers the lambs in his arms.", "reference": "Isaiah 40:11" }
+      "scripture": {
+        "text": "He will feed his flock like a shepherd, he will gather the lambs in his arm, and carry them in his bosom, and will gently lead those that have their young.",
+        "reference": "Isaiah 40:11",
+        "translation": "ASV"
+      }
     },
     "maker": {
       "name": "The Maker",
       "description": "You see possibility where others see blank space, and you can't help but create. Beauty matters to you because it points beyond itself. You come by that honestly: you're made in the image of the original Maker, the One who spoke worlds into being. What you create can move people toward Him. Don't bury that. Make the thing only you can make.",
-      "scripture": { "text": "In the beginning God created the heavens and the earth.", "reference": "Genesis 1:1" }
+      "scripture": {
+        "text": "In the beginning God created the heavens and the earth.",
+        "reference": "Genesis 1:1",
+        "translation": "ASV"
+      }
     },
     "bridge": {
       "name": "The Bridge",
       "description": "You stand in the gap between people who can't seem to reach each other. You see both sides, you carry messages across hard divides, and you help enemies become friends. That's holy work, because making peace is close to God's own heart. Keep building bridges where others build walls. You turn division into connection, and that changes everything.",
-      "scripture": { "text": "Blessed are the peacemakers, for they will be called children of God.", "reference": "Matthew 5:9" }
+      "scripture": {
+        "text": "Blessed are the peacemakers: for they shall be called sons of God.",
+        "reference": "Matthew 5:9",
+        "translation": "ASV"
+      }
     }
   }
 }

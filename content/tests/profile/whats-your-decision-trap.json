@@ -17,73 +17,234 @@
     {
       "text": "A big decision lands in your lap. What's your first move?",
       "options": [
-        { "text": "Replay every possible outcome in my head, again and again.", "weights": { "overthinking": 3 } },
-        { "text": "Wonder what everyone else wants me to do.", "weights": { "people-pleasing": 3 } },
-        { "text": "Wait and watch for some kind of sign from God.", "weights": { "sign-hunting": 3 } },
-        { "text": "Just go with my gut and decide fast.", "weights": { "impulse-jumping": 3 } }
+        {
+          "text": "Replay every possible outcome in my head, again and again.",
+          "weights": {
+            "overthinking": 3
+          }
+        },
+        {
+          "text": "Wonder what everyone else wants me to do.",
+          "weights": {
+            "people-pleasing": 3
+          }
+        },
+        {
+          "text": "Wait and watch for some kind of sign from God.",
+          "weights": {
+            "sign-hunting": 3
+          }
+        },
+        {
+          "text": "Just go with my gut and decide fast.",
+          "weights": {
+            "impulse-jumping": 3
+          }
+        }
       ]
     },
     {
       "text": "What slows you down most when you're trying to choose?",
       "options": [
-        { "text": "I can't stop analyzing every angle.", "weights": { "overthinking": 3 } },
-        { "text": "I'm scared of disappointing someone.", "weights": { "people-pleasing": 3 } },
-        { "text": "I don't want to move until I'm sure it's God's will.", "weights": { "sign-hunting": 3 } },
-        { "text": "I make endless lists and still can't pick.", "weights": { "endless-pro-con-lists": 3 } }
+        {
+          "text": "I can't stop analyzing every angle.",
+          "weights": {
+            "overthinking": 3
+          }
+        },
+        {
+          "text": "I'm scared of disappointing someone.",
+          "weights": {
+            "people-pleasing": 3
+          }
+        },
+        {
+          "text": "I don't want to move until I'm sure it's God's will.",
+          "weights": {
+            "sign-hunting": 3
+          }
+        },
+        {
+          "text": "I make endless lists and still can't pick.",
+          "weights": {
+            "endless-pro-con-lists": 3
+          }
+        }
       ]
     },
     {
       "text": "Which thought sounds the most like you mid-decision?",
       "options": [
-        { "text": "But what if I'm missing something important?", "weights": { "overthinking": 3 } },
-        { "text": "What will they think of me if I choose this?", "weights": { "people-pleasing": 3 } },
-        { "text": "Lord, just give me a clear sign and I'll do it.", "weights": { "sign-hunting": 3 } },
-        { "text": "Forget it, I'll just leap and figure it out later.", "weights": { "impulse-jumping": 3 } }
+        {
+          "text": "But what if I'm missing something important?",
+          "weights": {
+            "overthinking": 3
+          }
+        },
+        {
+          "text": "What will they think of me if I choose this?",
+          "weights": {
+            "people-pleasing": 3
+          }
+        },
+        {
+          "text": "Lord, just give me a clear sign and I'll do it.",
+          "weights": {
+            "sign-hunting": 3
+          }
+        },
+        {
+          "text": "Forget it, I'll just leap and figure it out later.",
+          "weights": {
+            "impulse-jumping": 3
+          }
+        }
       ]
     },
     {
       "text": "How do you usually feel while a decision is pending?",
       "options": [
-        { "text": "Mentally exhausted from spinning the same thoughts.", "weights": { "overthinking": 3 } },
-        { "text": "Anxious about whose expectations I might let down.", "weights": { "people-pleasing": 3 } },
-        { "text": "Paralyzed until I get the confirmation I'm waiting for.", "weights": { "sign-hunting": 3 } },
-        { "text": "Itchy to just act and get it over with.", "weights": { "impulse-jumping": 3 } }
+        {
+          "text": "Mentally exhausted from spinning the same thoughts.",
+          "weights": {
+            "overthinking": 3
+          }
+        },
+        {
+          "text": "Anxious about whose expectations I might let down.",
+          "weights": {
+            "people-pleasing": 3
+          }
+        },
+        {
+          "text": "Paralyzed until I get the confirmation I'm waiting for.",
+          "weights": {
+            "sign-hunting": 3
+          }
+        },
+        {
+          "text": "Itchy to just act and get it over with.",
+          "weights": {
+            "impulse-jumping": 3
+          }
+        }
       ]
     },
     {
       "text": "When you finally do decide, what's your method?",
       "options": [
-        { "text": "I overanalyze until I'm worn out, then pick.", "weights": { "overthinking": 3 } },
-        { "text": "I go with whatever keeps the most people happy.", "weights": { "people-pleasing": 3 } },
-        { "text": "I wait for a green light I'm certain came from God.", "weights": { "sign-hunting": 3 } },
-        { "text": "I weigh every pro and con until I'm dizzy.", "weights": { "endless-pro-con-lists": 3 } }
+        {
+          "text": "I overanalyze until I'm worn out, then pick.",
+          "weights": {
+            "overthinking": 3
+          }
+        },
+        {
+          "text": "I go with whatever keeps the most people happy.",
+          "weights": {
+            "people-pleasing": 3
+          }
+        },
+        {
+          "text": "I wait for a green light I'm certain came from God.",
+          "weights": {
+            "sign-hunting": 3
+          }
+        },
+        {
+          "text": "I weigh every pro and con until I'm dizzy.",
+          "weights": {
+            "endless-pro-con-lists": 3
+          }
+        }
       ]
     },
     {
       "text": "What's the downside of how you make decisions?",
       "options": [
-        { "text": "I think so long that the chance sometimes passes me by.", "weights": { "overthinking": 3 } },
-        { "text": "I end up living someone else's choice, not mine.", "weights": { "people-pleasing": 3 } },
-        { "text": "I stay frozen waiting for a sign that may not come.", "weights": { "sign-hunting": 3 } },
-        { "text": "I jump too soon and regret it after.", "weights": { "impulse-jumping": 3 } }
+        {
+          "text": "I think so long that the chance sometimes passes me by.",
+          "weights": {
+            "overthinking": 3
+          }
+        },
+        {
+          "text": "I end up living someone else's choice, not mine.",
+          "weights": {
+            "people-pleasing": 3
+          }
+        },
+        {
+          "text": "I stay frozen waiting for a sign that may not come.",
+          "weights": {
+            "sign-hunting": 3
+          }
+        },
+        {
+          "text": "I jump too soon and regret it after.",
+          "weights": {
+            "impulse-jumping": 3
+          }
+        }
       ]
     },
     {
       "text": "Which trap do your friends gently tease you about?",
       "options": [
-        { "text": "Overthinking everything into the ground.", "weights": { "overthinking": 3 } },
-        { "text": "Always asking what they think before I decide.", "weights": { "people-pleasing": 3 } },
-        { "text": "Treating every coincidence like a divine sign.", "weights": { "sign-hunting": 3 } },
-        { "text": "My famous, ever-growing pros and cons lists.", "weights": { "endless-pro-con-lists": 3 } }
+        {
+          "text": "Overthinking everything into the ground.",
+          "weights": {
+            "overthinking": 3
+          }
+        },
+        {
+          "text": "Always asking what they think before I decide.",
+          "weights": {
+            "people-pleasing": 3
+          }
+        },
+        {
+          "text": "Treating every coincidence like a divine sign.",
+          "weights": {
+            "sign-hunting": 3
+          }
+        },
+        {
+          "text": "My famous, ever-growing pros and cons lists.",
+          "weights": {
+            "endless-pro-con-lists": 3
+          }
+        }
       ]
     },
     {
       "text": "Deep down, what's really behind your decision trap?",
       "options": [
-        { "text": "Fear that I'll make the wrong, irreversible choice.", "weights": { "overthinking": 2, "endless-pro-con-lists": 1 } },
-        { "text": "Fear of rejection if I disappoint people.", "weights": { "people-pleasing": 3 } },
-        { "text": "Fear of stepping out without a guarantee from God.", "weights": { "sign-hunting": 3 } },
-        { "text": "Fear of sitting in the discomfort of not knowing yet.", "weights": { "impulse-jumping": 3 } }
+        {
+          "text": "Fear that I'll make the wrong, irreversible choice.",
+          "weights": {
+            "overthinking": 2,
+            "endless-pro-con-lists": 1
+          }
+        },
+        {
+          "text": "Fear of rejection if I disappoint people.",
+          "weights": {
+            "people-pleasing": 3
+          }
+        },
+        {
+          "text": "Fear of stepping out without a guarantee from God.",
+          "weights": {
+            "sign-hunting": 3
+          }
+        },
+        {
+          "text": "Fear of sitting in the discomfort of not knowing yet.",
+          "weights": {
+            "impulse-jumping": 3
+          }
+        }
       ]
     }
   ],
@@ -91,27 +252,47 @@
     "overthinking": {
       "name": "Overthinking",
       "description": "You turn decisions over and over until your mind is worn out, sure that if you just think hard enough you'll find the one safe answer. But endless analysis rarely brings the peace you're after. It usually steals it. God doesn't ask you to predict every outcome. He asks you to trust Him with the parts you can't see. You can make a thoughtful choice and then rest, leaning on His wisdom instead of your own exhausting calculations.",
-      "scripture": { "text": "Trust in the Lord with all your heart and lean not on your own understanding.", "reference": "Proverbs 3:5" }
+      "scripture": {
+        "text": "Trust in Jehovah with all thy heart, And lean not upon thine own understanding:",
+        "reference": "Proverbs 3:5",
+        "translation": "ASV"
+      }
     },
     "people-pleasing": {
       "name": "People-Pleasing",
       "description": "Your decisions get tangled up in everyone else's expectations, and the fear of letting someone down can quietly run the whole show. But you can't live a life that keeps every person happy, and you were never meant to. There's freedom in caring more about pleasing God than managing approval. When His opinion becomes your compass, you can finally make the choice that's actually yours to make.",
-      "scripture": { "text": "Am I now trying to win the approval of human beings, or of God?", "reference": "Galatians 1:10" }
+      "scripture": {
+        "text": "For am I now seeking the favor of men, or of God? or am I striving to please men? if I were still pleasing men, I should not be a servant of Christ.",
+        "reference": "Galatians 1:10",
+        "translation": "ASV"
+      }
     },
     "sign-hunting": {
       "name": "Sign-Hunting",
       "description": "You want to honor God, so you wait and watch for a clear sign before you'll budge. That desire to follow Him is good. But sometimes the waiting becomes its own kind of paralysis, and the sign you're after never comes the way you hoped. God has already given you His Word, His Spirit, and a sound mind. You can move forward in wisdom and trust Him to direct your steps as you go, even without a billboard in the sky.",
-      "scripture": { "text": "In all your ways submit to him, and he will make your paths straight.", "reference": "Proverbs 3:6" }
+      "scripture": {
+        "text": "In all thy ways acknowledge him, And he will direct thy paths.",
+        "reference": "Proverbs 3:6",
+        "translation": "ASV"
+      }
     },
     "impulse-jumping": {
       "name": "Impulse Jumping",
       "description": "You hate the discomfort of not knowing, so you leap fast just to make the tension stop. Decisiveness can be a strength, but jumping before you've thought or prayed often leads to regret you could have avoided. There's wisdom in pausing, in letting a choice breathe before you commit. You don't have to escape the discomfort by rushing. Slow down, seek counsel, and let God steady you before you leap.",
-      "scripture": { "text": "The plans of the diligent lead to profit as surely as haste leads to poverty.", "reference": "Proverbs 21:5" }
+      "scripture": {
+        "text": "The thoughts of the diligent tend only to plenteousness; But every one that is hastyhastethonly to want.",
+        "reference": "Proverbs 21:5",
+        "translation": "ASV"
+      }
     },
     "endless-pro-con-lists": {
       "name": "Endless Pro/Con Lists",
       "description": "You weigh and measure every option, certain the right answer will appear if you just organize the data well enough. But not every good decision can be settled on a spreadsheet, and at some point the list becomes a way to avoid actually choosing. Wisdom isn't only logic. It's also trust. You can gather your reasons, then hand the rest to God and step forward, confident He'll guide a heart that's seeking Him.",
-      "scripture": { "text": "Commit to the Lord whatever you do, and he will establish your plans.", "reference": "Proverbs 16:3" }
+      "scripture": {
+        "text": "Commit thy works unto Jehovah, And thy purposes shall be established.",
+        "reference": "Proverbs 16:3",
+        "translation": "ASV"
+      }
     }
   }
 }

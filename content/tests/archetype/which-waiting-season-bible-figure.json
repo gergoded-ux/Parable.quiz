@@ -10,82 +10,265 @@
     {
       "text": "What does your waiting season feel like right now?",
       "options": [
-        { "text": "Like I've been wrongly stuck somewhere I never chose to be.", "weights": { "joseph": 3 } },
-        { "text": "Like I know what I'm called to, but the door just won't open yet.", "weights": { "david": 3 } },
-        { "text": "Like a promise is hanging over me that's taking far too long.", "weights": { "abraham": 3 } },
-        { "text": "Like I'm tucked away in the middle of nowhere, forgotten.", "weights": { "moses": 3 } }
+        {
+          "text": "Like I've been wrongly stuck somewhere I never chose to be.",
+          "weights": {
+            "joseph": 3
+          }
+        },
+        {
+          "text": "Like I know what I'm called to, but the door just won't open yet.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "Like a promise is hanging over me that's taking far too long.",
+          "weights": {
+            "abraham": 3
+          }
+        },
+        {
+          "text": "Like I'm tucked away in the middle of nowhere, forgotten.",
+          "weights": {
+            "moses": 3
+          }
+        }
       ]
     },
     {
       "text": "How long have you been waiting, honestly?",
       "options": [
-        { "text": "Long enough that I've stopped counting and started doubting.", "weights": { "abraham": 3 } },
-        { "text": "Years. The anointing came early and the fulfillment never did.", "weights": { "david": 3 } },
-        { "text": "So long that the window feels like it's already closed.", "weights": { "sarah": 3 } },
-        { "text": "Month after month of the same ache and the same prayer.", "weights": { "hannah": 3 } }
+        {
+          "text": "Long enough that I've stopped counting and started doubting.",
+          "weights": {
+            "abraham": 3
+          }
+        },
+        {
+          "text": "Years. The anointing came early and the fulfillment never did.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "So long that the window feels like it's already closed.",
+          "weights": {
+            "sarah": 3
+          }
+        },
+        {
+          "text": "Month after month of the same ache and the same prayer.",
+          "weights": {
+            "hannah": 3
+          }
+        }
       ]
     },
     {
       "text": "What are you waiting FOR, deep down?",
       "options": [
-        { "text": "A child, a dream, the one thing my heart won't stop longing for.", "weights": { "hannah": 3 } },
-        { "text": "The calling I know is mine to finally become real.", "weights": { "david": 3 } },
-        { "text": "Freedom and restoration after being treated unfairly.", "weights": { "joseph": 3 } },
-        { "text": "A promise so big it would take a miracle now.", "weights": { "abraham": 2, "sarah": 1 } }
+        {
+          "text": "A child, a dream, the one thing my heart won't stop longing for.",
+          "weights": {
+            "hannah": 3
+          }
+        },
+        {
+          "text": "The calling I know is mine to finally become real.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "Freedom and restoration after being treated unfairly.",
+          "weights": {
+            "joseph": 3
+          }
+        },
+        {
+          "text": "A promise so big it would take a miracle now.",
+          "weights": {
+            "abraham": 2,
+            "sarah": 1
+          }
+        }
       ]
     },
     {
       "text": "How are you holding up in the meantime?",
       "options": [
-        { "text": "I keep showing up faithfully even where no one sees me.", "weights": { "joseph": 3 } },
-        { "text": "I'm tending small, ordinary things while I wait for the big one.", "weights": { "david": 2, "moses": 1 } },
-        { "text": "I pour it out in tears and refuse to stop asking.", "weights": { "hannah": 3 } },
-        { "text": "I've quietly made peace with a slower, hidden life.", "weights": { "moses": 3 } }
+        {
+          "text": "I keep showing up faithfully even where no one sees me.",
+          "weights": {
+            "joseph": 3
+          }
+        },
+        {
+          "text": "I'm tending small, ordinary things while I wait for the big one.",
+          "weights": {
+            "david": 2,
+            "moses": 1
+          }
+        },
+        {
+          "text": "I pour it out in tears and refuse to stop asking.",
+          "weights": {
+            "hannah": 3
+          }
+        },
+        {
+          "text": "I've quietly made peace with a slower, hidden life.",
+          "weights": {
+            "moses": 3
+          }
+        }
       ]
     },
     {
       "text": "What's the hardest part of the wait?",
       "options": [
-        { "text": "Watching everyone else get what I've been longing for.", "weights": { "hannah": 3 } },
-        { "text": "Knowing my purpose but being stuck nowhere near it.", "weights": { "david": 3 } },
-        { "text": "The injustice of it. I didn't do anything to land here.", "weights": { "joseph": 3 } },
-        { "text": "Wondering if I missed my chance entirely.", "weights": { "sarah": 3 } }
+        {
+          "text": "Watching everyone else get what I've been longing for.",
+          "weights": {
+            "hannah": 3
+          }
+        },
+        {
+          "text": "Knowing my purpose but being stuck nowhere near it.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "The injustice of it. I didn't do anything to land here.",
+          "weights": {
+            "joseph": 3
+          }
+        },
+        {
+          "text": "Wondering if I missed my chance entirely.",
+          "weights": {
+            "sarah": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you tell yourself on the hard days?",
       "options": [
-        { "text": "God is with me even in this unfair, locked-up place.", "weights": { "joseph": 3 } },
-        { "text": "He anointed me for a reason, so I'll keep being faithful in small things.", "weights": { "david": 3 } },
-        { "text": "He promised, and He doesn't break promises, even slow ones.", "weights": { "abraham": 3 } },
-        { "text": "He hears me, even when the silence stretches on.", "weights": { "hannah": 3 } }
+        {
+          "text": "God is with me even in this unfair, locked-up place.",
+          "weights": {
+            "joseph": 3
+          }
+        },
+        {
+          "text": "He anointed me for a reason, so I'll keep being faithful in small things.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "He promised, and He doesn't break promises, even slow ones.",
+          "weights": {
+            "abraham": 3
+          }
+        },
+        {
+          "text": "He hears me, even when the silence stretches on.",
+          "weights": {
+            "hannah": 3
+          }
+        }
       ]
     },
     {
       "text": "What's quietly forming in you during this season?",
       "options": [
-        { "text": "Character and trust I never would have grown in comfort.", "weights": { "joseph": 3 } },
-        { "text": "A humility that's getting me ready for what's next.", "weights": { "moses": 3 } },
-        { "text": "A deeper, more stubborn kind of faith in His promise.", "weights": { "abraham": 3 } },
-        { "text": "A surrender that says it's His timing, not mine.", "weights": { "sarah": 2, "hannah": 1 } }
+        {
+          "text": "Character and trust I never would have grown in comfort.",
+          "weights": {
+            "joseph": 3
+          }
+        },
+        {
+          "text": "A humility that's getting me ready for what's next.",
+          "weights": {
+            "moses": 3
+          }
+        },
+        {
+          "text": "A deeper, more stubborn kind of faith in His promise.",
+          "weights": {
+            "abraham": 3
+          }
+        },
+        {
+          "text": "A surrender that says it's His timing, not mine.",
+          "weights": {
+            "sarah": 2,
+            "hannah": 1
+          }
+        }
       ]
     },
     {
       "text": "If God spoke one sentence to you today, you'd want to hear...",
       "options": [
-        { "text": "I never left you, even in the prison.", "weights": { "joseph": 3 } },
-        { "text": "The throne is still coming. Keep being faithful.", "weights": { "david": 3 } },
-        { "text": "The promise still stands, no matter how late it looks.", "weights": { "abraham": 3 } },
-        { "text": "I heard every prayer you thought I missed.", "weights": { "hannah": 3 } }
+        {
+          "text": "I never left you, even in the prison.",
+          "weights": {
+            "joseph": 3
+          }
+        },
+        {
+          "text": "The throne is still coming. Keep being faithful.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "The promise still stands, no matter how late it looks.",
+          "weights": {
+            "abraham": 3
+          }
+        },
+        {
+          "text": "I heard every prayer you thought I missed.",
+          "weights": {
+            "hannah": 3
+          }
+        }
       ]
     },
     {
       "text": "When the wait finally ends, what do you most want to feel?",
       "options": [
-        { "text": "Vindicated, restored, and lifted from the pit.", "weights": { "joseph": 3 } },
-        { "text": "Stepping at last into what I was made for.", "weights": { "david": 3 } },
-        { "text": "Holding the impossible thing I almost gave up on.", "weights": { "sarah": 3 } },
-        { "text": "Useful again, sent out from the quiet years with purpose.", "weights": { "moses": 3 } }
+        {
+          "text": "Vindicated, restored, and lifted from the pit.",
+          "weights": {
+            "joseph": 3
+          }
+        },
+        {
+          "text": "Stepping at last into what I was made for.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "Holding the impossible thing I almost gave up on.",
+          "weights": {
+            "sarah": 3
+          }
+        },
+        {
+          "text": "Useful again, sent out from the quiet years with purpose.",
+          "weights": {
+            "moses": 3
+          }
+        }
       ]
     }
   ],
@@ -93,44 +276,92 @@
     "joseph": {
       "name": "Joseph in Prison",
       "emoji": "⛓️",
-      "traits": ["Faithful", "Resilient", "Trusting"],
+      "traits": [
+        "Faithful",
+        "Resilient",
+        "Trusting"
+      ],
       "description": "You're stuck somewhere you didn't deserve to be, and the wait has felt like an injustice. Joseph sat in a prison for years on a false charge, yet kept showing up with integrity, and God was quietly arranging a rescue and a promotion the whole time. What looks like a dead end is often the hidden setup. He hasn't forgotten you down here.",
-      "scripture": { "text": "The Lord was with Joseph and gave him success in whatever he did.", "reference": "Genesis 39:23" }
+      "scripture": {
+        "text": "The keeper of the prison looked not to anything that was under his hand, because Jehovah was with him; and that which he did, Jehovah made it to prosper.",
+        "reference": "Genesis 39:23",
+        "translation": "ASV"
+      }
     },
     "david": {
       "name": "David Anointed but Not Yet King",
       "emoji": "👑",
-      "traits": ["Patient", "Faithful", "Steady"],
+      "traits": [
+        "Patient",
+        "Faithful",
+        "Steady"
+      ],
       "description": "You've been marked for something and then handed years of waiting in the field instead of the palace. David was anointed king as a boy and then spent over a decade tending sheep and running for his life before the crown came. The gap between the promise and the throne is where God builds the kind of leader who can carry it. Stay faithful in the small things.",
-      "scripture": { "text": "Wait for the Lord; be strong and take heart and wait for the Lord.", "reference": "Psalm 27:14" }
+      "scripture": {
+        "text": "Wait for Jehovah: Be strong, and let thy heart take courage; Yea, wait thou for Jehovah.",
+        "reference": "Psalm 27:14",
+        "translation": "ASV"
+      }
     },
     "abraham": {
       "name": "Abraham Waiting for Isaac",
       "emoji": "✨",
-      "traits": ["Believing", "Persistent", "Hopeful"],
+      "traits": [
+        "Believing",
+        "Persistent",
+        "Hopeful"
+      ],
       "description": "You're holding a promise that has dragged on so long it's getting hard to believe. Abraham waited around twenty-five years for the son God swore to him, and his faith stretched and wobbled and held. The delay didn't cancel the promise. It deepened his trust in the One who made it. What God said still stands, no matter how late it looks from where you sit.",
-      "scripture": { "text": "Against all hope, Abraham in hope believed.", "reference": "Romans 4:18" }
+      "scripture": {
+        "text": "Who in hope believed against hope, to the end that he might become a father of many nations, according to that which had been spoken, So shall thy seed be.",
+        "reference": "Romans 4:18",
+        "translation": "ASV"
+      }
     },
     "moses": {
       "name": "Moses in Midian",
       "emoji": "🏜️",
-      "traits": ["Humble", "Hidden", "Prepared"],
+      "traits": [
+        "Humble",
+        "Hidden",
+        "Prepared"
+      ],
       "description": "You've ended up in a quiet, obscure place that feels like the end of your usefulness. Moses spent forty years tending sheep in the middle of nowhere before God ever called him from the bush. Those hidden years weren't wasted. They were the making of him. Obscurity often comes right before the assignment, and God is doing more in this quiet than you can see.",
-      "scripture": { "text": "Be still, and know that I am God.", "reference": "Psalm 46:10" }
+      "scripture": {
+        "text": "Be still, and know that I am God: I will be exalted among the nations, I will be exalted in the earth.",
+        "reference": "Psalm 46:10",
+        "translation": "ASV"
+      }
     },
     "hannah": {
       "name": "Hannah Praying for a Child",
       "emoji": "🙏",
-      "traits": ["Honest", "Persistent", "Surrendered"],
+      "traits": [
+        "Honest",
+        "Persistent",
+        "Surrendered"
+      ],
       "description": "You're aching for the one thing that hasn't come, and you've watched others receive it while you keep waiting. Hannah wept and prayed and refused to give up, pouring out her soul at the temple until God answered. Your tears are not unseen, and your prayers are not lost. He hears the longing you can barely put into words.",
-      "scripture": { "text": "I prayed for this child, and the Lord has granted me what I asked of him.", "reference": "1 Samuel 1:27" }
+      "scripture": {
+        "text": "For this child I prayed; and Jehovah hath given me my petition which I asked of him:",
+        "reference": "1 Samuel 1:27",
+        "translation": "ASV"
+      }
     },
     "sarah": {
       "name": "Sarah Past Hope",
       "emoji": "🌟",
-      "traits": ["Weary", "Surprised", "Faithful"],
+      "traits": [
+        "Weary",
+        "Surprised",
+        "Faithful"
+      ],
       "description": "You've waited so long that you're starting to think the window has closed for good. Sarah was there too, past the age of hope, laughing at a promise that seemed impossible. And then God did exactly what He said, right when it made no earthly sense. Nothing is too hard for Him, and your too-late might be His perfectly-on-time.",
-      "scripture": { "text": "Is anything too hard for the Lord?", "reference": "Genesis 18:14" }
+      "scripture": {
+        "text": "Is anything too hard for Jehovah? At the set time I will return unto thee, when the season cometh round, and Sarah shall have a son.",
+        "reference": "Genesis 18:14",
+        "translation": "ASV"
+      }
     }
   }
 }

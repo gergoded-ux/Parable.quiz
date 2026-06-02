@@ -6,87 +6,275 @@
   "category": "spiritual-profile",
   "estimatedMinutes": 5,
   "mode": "profile",
-  "dimensions": ["phone", "overcommitment", "guilt", "money-worry", "comparison", "never-off-work", "restless-mind"],
+  "dimensions": [
+    "phone",
+    "overcommitment",
+    "guilt",
+    "money-worry",
+    "comparison",
+    "never-off-work",
+    "restless-mind"
+  ],
   "questions": [
     {
       "text": "You finally have a free evening. What actually happens to it?",
       "options": [
-        { "text": "It vanishes into my phone before I even notice.", "weights": { "phone": 2 } },
-        { "text": "Something I committed to swallows it whole.", "weights": { "overcommitment": 2 } },
-        { "text": "I feel I should be productive, so I can't enjoy it.", "weights": { "guilt": 2 } },
-        { "text": "My mind won't settle long enough to rest.", "weights": { "restless-mind": 2 } }
+        {
+          "text": "It vanishes into my phone before I even notice.",
+          "weights": {
+            "phone": 2
+          }
+        },
+        {
+          "text": "Something I committed to swallows it whole.",
+          "weights": {
+            "overcommitment": 2
+          }
+        },
+        {
+          "text": "I feel I should be productive, so I can't enjoy it.",
+          "weights": {
+            "guilt": 2
+          }
+        },
+        {
+          "text": "My mind won't settle long enough to rest.",
+          "weights": {
+            "restless-mind": 2
+          }
+        }
       ]
     },
     {
       "text": "When you lie down at night, what most often keeps you up?",
       "options": [
-        { "text": "One more scroll, then another, then it's late.", "weights": { "phone": 2 } },
-        { "text": "Running numbers and worrying about money.", "weights": { "money-worry": 2 } },
-        { "text": "Replaying my to-do list and tomorrow's tasks.", "weights": { "never-off-work": 2 } },
-        { "text": "Thoughts I can't switch off, jumping from one thing to the next.", "weights": { "restless-mind": 2 } }
+        {
+          "text": "One more scroll, then another, then it's late.",
+          "weights": {
+            "phone": 2
+          }
+        },
+        {
+          "text": "Running numbers and worrying about money.",
+          "weights": {
+            "money-worry": 2
+          }
+        },
+        {
+          "text": "Replaying my to-do list and tomorrow's tasks.",
+          "weights": {
+            "never-off-work": 2
+          }
+        },
+        {
+          "text": "Thoughts I can't switch off, jumping from one thing to the next.",
+          "weights": {
+            "restless-mind": 2
+          }
+        }
       ]
     },
     {
       "text": "What makes it hardest for you to truly relax?",
       "options": [
-        { "text": "The pull to check notifications every few minutes.", "weights": { "phone": 2 } },
-        { "text": "I've said yes to too many things and there's no room left.", "weights": { "overcommitment": 2 } },
-        { "text": "A nagging guilt that resting means I'm being lazy.", "weights": { "guilt": 2 } },
-        { "text": "I keep measuring my life against everyone else's.", "weights": { "comparison": 2 } }
+        {
+          "text": "The pull to check notifications every few minutes.",
+          "weights": {
+            "phone": 2
+          }
+        },
+        {
+          "text": "I've said yes to too many things and there's no room left.",
+          "weights": {
+            "overcommitment": 2
+          }
+        },
+        {
+          "text": "A nagging guilt that resting means I'm being lazy.",
+          "weights": {
+            "guilt": 2
+          }
+        },
+        {
+          "text": "I keep measuring my life against everyone else's.",
+          "weights": {
+            "comparison": 2
+          }
+        }
       ]
     },
     {
       "text": "If you took a whole day off, what would gnaw at you?",
       "options": [
-        { "text": "Feeling like I wasted a day I should have used.", "weights": { "guilt": 2 } },
-        { "text": "All the commitments piling up while I sat still.", "weights": { "overcommitment": 2 } },
-        { "text": "Whether I can even afford to slow down.", "weights": { "money-worry": 2 } },
-        { "text": "That everyone else is getting ahead while I rest.", "weights": { "comparison": 2 } }
+        {
+          "text": "Feeling like I wasted a day I should have used.",
+          "weights": {
+            "guilt": 2
+          }
+        },
+        {
+          "text": "All the commitments piling up while I sat still.",
+          "weights": {
+            "overcommitment": 2
+          }
+        },
+        {
+          "text": "Whether I can even afford to slow down.",
+          "weights": {
+            "money-worry": 2
+          }
+        },
+        {
+          "text": "That everyone else is getting ahead while I rest.",
+          "weights": {
+            "comparison": 2
+          }
+        }
       ]
     },
     {
       "text": "Which sentence sounds most like your inner voice?",
       "options": [
-        { "text": "Let me just check my phone real quick.", "weights": { "phone": 2 } },
-        { "text": "I can't say no, they're counting on me.", "weights": { "overcommitment": 2 } },
-        { "text": "I'll deal with that one work thing first, then relax.", "weights": { "never-off-work": 2 } },
-        { "text": "Why does everyone else seem to have it more together?", "weights": { "comparison": 2 } }
+        {
+          "text": "Let me just check my phone real quick.",
+          "weights": {
+            "phone": 2
+          }
+        },
+        {
+          "text": "I can't say no, they're counting on me.",
+          "weights": {
+            "overcommitment": 2
+          }
+        },
+        {
+          "text": "I'll deal with that one work thing first, then relax.",
+          "weights": {
+            "never-off-work": 2
+          }
+        },
+        {
+          "text": "Why does everyone else seem to have it more together?",
+          "weights": {
+            "comparison": 2
+          }
+        }
       ]
     },
     {
       "text": "Be honest. When you finally pause, what feeling shows up?",
       "options": [
-        { "text": "Restlessness, like I can't sit with the quiet.", "weights": { "restless-mind": 2 } },
-        { "text": "Guilt, like I haven't earned the break.", "weights": { "guilt": 2 } },
-        { "text": "Low-grade dread about bills and the future.", "weights": { "money-worry": 2 } },
-        { "text": "The itch to pick my phone back up.", "weights": { "phone": 2 } }
+        {
+          "text": "Restlessness, like I can't sit with the quiet.",
+          "weights": {
+            "restless-mind": 2
+          }
+        },
+        {
+          "text": "Guilt, like I haven't earned the break.",
+          "weights": {
+            "guilt": 2
+          }
+        },
+        {
+          "text": "Low-grade dread about bills and the future.",
+          "weights": {
+            "money-worry": 2
+          }
+        },
+        {
+          "text": "The itch to pick my phone back up.",
+          "weights": {
+            "phone": 2
+          }
+        }
       ]
     },
     {
       "text": "What does your peace most often get traded for?",
       "options": [
-        { "text": "Endless scrolling that leaves me more tired.", "weights": { "phone": 2 } },
-        { "text": "Saying yes until I have nothing left.", "weights": { "overcommitment": 2 } },
-        { "text": "Work that follows me home and never clocks out.", "weights": { "never-off-work": 2 } },
-        { "text": "Comparing and coming up short.", "weights": { "comparison": 2 } }
+        {
+          "text": "Endless scrolling that leaves me more tired.",
+          "weights": {
+            "phone": 2
+          }
+        },
+        {
+          "text": "Saying yes until I have nothing left.",
+          "weights": {
+            "overcommitment": 2
+          }
+        },
+        {
+          "text": "Work that follows me home and never clocks out.",
+          "weights": {
+            "never-off-work": 2
+          }
+        },
+        {
+          "text": "Comparing and coming up short.",
+          "weights": {
+            "comparison": 2
+          }
+        }
       ]
     },
     {
       "text": "Deep down, what would real rest require you to let go of?",
       "options": [
-        { "text": "The phone, even for a little while.", "weights": { "phone": 2 } },
-        { "text": "A few of the yeses I never should have given.", "weights": { "overcommitment": 2 } },
-        { "text": "The guilt that calls stillness laziness.", "weights": { "guilt": 2 } },
-        { "text": "The worry that money won't be enough.", "weights": { "money-worry": 2 } }
+        {
+          "text": "The phone, even for a little while.",
+          "weights": {
+            "phone": 2
+          }
+        },
+        {
+          "text": "A few of the yeses I never should have given.",
+          "weights": {
+            "overcommitment": 2
+          }
+        },
+        {
+          "text": "The guilt that calls stillness laziness.",
+          "weights": {
+            "guilt": 2
+          }
+        },
+        {
+          "text": "The worry that money won't be enough.",
+          "weights": {
+            "money-worry": 2
+          }
+        }
       ]
     },
     {
       "text": "What do you most long for when you imagine real peace?",
       "options": [
-        { "text": "A quiet mind that finally stops racing.", "weights": { "restless-mind": 2 } },
-        { "text": "Work that stays at work so I can be present at home.", "weights": { "never-off-work": 2 } },
-        { "text": "Freedom from comparing my life to everyone else's.", "weights": { "comparison": 2 } },
-        { "text": "Permission to simply stop and not feel guilty.", "weights": { "guilt": 2 } }
+        {
+          "text": "A quiet mind that finally stops racing.",
+          "weights": {
+            "restless-mind": 2
+          }
+        },
+        {
+          "text": "Work that stays at work so I can be present at home.",
+          "weights": {
+            "never-off-work": 2
+          }
+        },
+        {
+          "text": "Freedom from comparing my life to everyone else's.",
+          "weights": {
+            "comparison": 2
+          }
+        },
+        {
+          "text": "Permission to simply stop and not feel guilty.",
+          "weights": {
+            "guilt": 2
+          }
+        }
       ]
     }
   ],
@@ -94,37 +282,65 @@
     "phone": {
       "name": "The Phone",
       "description": "Your rest keeps leaking out through the screen. You sit down to relax and somehow the time disappears into scrolling, and you get up more tired than before. The phone promises a break but delivers a low buzz of stimulation your soul mistakes for rest. Try putting it in another room for an hour and letting the quiet feel awkward at first. Real stillness is on the other side of that itch to check.",
-      "scripture": { "text": "Be still, and know that I am God.", "reference": "Psalm 46:10" }
+      "scripture": {
+        "text": "Be still, and know that I am God: I will be exalted among the nations, I will be exalted in the earth.",
+        "reference": "Psalm 46:10",
+        "translation": "ASV"
+      }
     },
     "overcommitment": {
       "name": "Overcommitment",
       "description": "You've said yes to so many things that there's no room left for you to breathe. Every free pocket gets filled before it arrives, because turning people down feels impossible. But a yes to everything is a no to your own rest, and even Jesus stepped away from the crowds. It's okay to disappoint someone in order to obey the part of you that's running on empty. A good no can be the most faithful thing you do this week.",
-      "scripture": { "text": "Come ye yourselves apart into a desert place, and rest a while.", "reference": "Mark 6:31" }
+      "scripture": {
+        "text": "And he saith unto them, Come ye yourselves apart into a desert place, and rest a while. For there were many coming and going, and they had no leisure so much as to eat.",
+        "reference": "Mark 6:31",
+        "translation": "ASV"
+      }
     },
     "guilt": {
       "name": "Guilt",
       "description": "You can stop, but you can't actually rest, because a voice keeps whispering that slowing down means you're lazy. So even your breaks come with a side of shame. Here's the thing: rest isn't a reward you earn after you've done enough. God built it into the very rhythm of creation and called it good. He rested, and He wasn't being lazy. You're allowed to stop, not because you've earned it, but because you were made for it.",
-      "scripture": { "text": "And on the seventh day God ended his work which he had made; and he rested.", "reference": "Genesis 2:2" }
+      "scripture": {
+        "text": "And on the seventh day God finished his work which he had made; and he rested on the seventh day from all his work which he had made.",
+        "reference": "Genesis 2:2",
+        "translation": "ASV"
+      }
     },
     "money-worry": {
       "name": "Worry About Money",
       "description": "It's hard to rest when a part of your mind is always running the numbers, bracing for a shortfall that may never come. Money worry doesn't take nights off, and it can poison the moments meant to restore you. Planning is wise, but anxiety is a thief, and it's stealing peace you were meant to have. Your Father knows what you need before you ask. You can be careful with your money and still hand the fear back to the One who feeds the birds.",
-      "scripture": { "text": "Take no thought for your life. Your heavenly Father knoweth that ye have need of all these things.", "reference": "Matthew 6:25,32" }
+      "scripture": {
+        "text": "Therefore I say unto you, Be not anxious for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. Is not the life more than the food, and the body than the raiment?",
+        "reference": "Matthew 6:25",
+        "translation": "ASV"
+      }
     },
     "comparison": {
       "name": "Comparison",
       "description": "You can't settle into your own life because you're always glancing at everyone else's. Their progress, their highlight reel, their seemingly-together world. Comparison turns rest into restlessness, because there's always someone further ahead to chase. But the race you're running is yours, not theirs, and God isn't grading you on a curve against your neighbor. Lift your eyes off the scoreboard. The peace you're missing is right here in the life you actually have.",
-      "scripture": { "text": "Let us run with patience the race that is set before us.", "reference": "Hebrews 12:1" }
+      "scripture": {
+        "text": "Therefore let us also, seeing we are compassed about with so great a cloud of witnesses, lay aside every weight, and the sin which doth so easily beset us, and let us run with patience the race that is set before us,",
+        "reference": "Hebrews 12:1",
+        "translation": "ASV"
+      }
     },
     "never-off-work": {
       "name": "Never-Off Work",
       "description": "Work follows you home, into your evenings, into your bed. You technically clock out, but your mind never does, so you're always half on duty. That kind of always-on living wears a person down in ways sleep can't fix. Your worth was never tied to your output, and the world will keep turning if you put the laptop away. Draw a line, guard it, and let yourself be a person and not just a producer. The work will still be there tomorrow.",
-      "scripture": { "text": "It is vain for you to rise up early, to sit up late, to eat the bread of sorrows: for so he giveth his beloved sleep.", "reference": "Psalm 127:2" }
+      "scripture": {
+        "text": "It is vain for you to rise up early, To take rest late, To eat the bread of toil; Forso he giveth unto his beloved sleep.",
+        "reference": "Psalm 127:2",
+        "translation": "ASV"
+      }
     },
     "restless-mind": {
       "name": "A Restless Mind",
       "description": "Your body can be perfectly still while your mind sprints in twelve directions. You sit down to rest and the thoughts just keep coming, jumping from worry to task to memory and back. A racing mind makes true rest feel out of reach. The good news is that peace isn't something you have to manufacture by trying harder. It's something God gives, and it can quiet what you can't. Bring Him the noise. Let Him still the waters your own willpower never could.",
-      "scripture": { "text": "Thou wilt keep him in perfect peace, whose mind is stayed on thee.", "reference": "Isaiah 26:3" }
+      "scripture": {
+        "text": "Thou wilt keep him in perfect peace, whose mind is stayed on thee; because he trusteth in thee.",
+        "reference": "Isaiah 26:3",
+        "translation": "ASV"
+      }
     }
   }
 }

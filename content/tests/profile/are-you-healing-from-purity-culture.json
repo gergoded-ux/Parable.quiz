@@ -16,91 +16,291 @@
     {
       "text": "When the subject of your body or sexuality comes up, what rises first?",
       "options": [
-        { "text": "A wave of shame I can't seem to shake.", "weights": { "deeply-wounded": 3 } },
-        { "text": "Old shame, but I'm learning to notice it and push back.", "weights": { "actively-healing": 3 } },
-        { "text": "Mostly peace now, with the occasional twinge.", "weights": { "mostly-free": 3 } },
-        { "text": "Honestly, not much. It wasn't a big part of my world.", "weights": { "never-affected": 3 } }
+        {
+          "text": "A wave of shame I can't seem to shake.",
+          "weights": {
+            "deeply-wounded": 3
+          }
+        },
+        {
+          "text": "Old shame, but I'm learning to notice it and push back.",
+          "weights": {
+            "actively-healing": 3
+          }
+        },
+        {
+          "text": "Mostly peace now, with the occasional twinge.",
+          "weights": {
+            "mostly-free": 3
+          }
+        },
+        {
+          "text": "Honestly, not much. It wasn't a big part of my world.",
+          "weights": {
+            "never-affected": 3
+          }
+        }
       ]
     },
     {
       "text": "What did you absorb about your worth growing up in church?",
       "options": [
-        { "text": "That my value was tied to staying pure, and I'd be damaged if I slipped.", "weights": { "deeply-wounded": 3 } },
-        { "text": "Some of that, and I'm actively unlearning it now.", "weights": { "actively-healing": 3 } },
-        { "text": "A mix, but I've mostly sorted the truth from the fear.", "weights": { "mostly-free": 3 } },
-        { "text": "My worth was rooted in God's love, not my purity.", "weights": { "never-affected": 3 } }
+        {
+          "text": "That my value was tied to staying pure, and I'd be damaged if I slipped.",
+          "weights": {
+            "deeply-wounded": 3
+          }
+        },
+        {
+          "text": "Some of that, and I'm actively unlearning it now.",
+          "weights": {
+            "actively-healing": 3
+          }
+        },
+        {
+          "text": "A mix, but I've mostly sorted the truth from the fear.",
+          "weights": {
+            "mostly-free": 3
+          }
+        },
+        {
+          "text": "My worth was rooted in God's love, not my purity.",
+          "weights": {
+            "never-affected": 3
+          }
+        }
       ]
     },
     {
       "text": "How do you feel in your own body?",
       "options": [
-        { "text": "Disconnected or ashamed, like it's something to manage or hide.", "weights": { "deeply-wounded": 3 } },
-        { "text": "Slowly making peace with it after years of tension.", "weights": { "actively-healing": 3 } },
-        { "text": "Mostly at home in it, with good days and harder days.", "weights": { "mostly-free": 3 } },
-        { "text": "Comfortable. I see it as a good gift from God.", "weights": { "never-affected": 3 } }
+        {
+          "text": "Disconnected or ashamed, like it's something to manage or hide.",
+          "weights": {
+            "deeply-wounded": 3
+          }
+        },
+        {
+          "text": "Slowly making peace with it after years of tension.",
+          "weights": {
+            "actively-healing": 3
+          }
+        },
+        {
+          "text": "Mostly at home in it, with good days and harder days.",
+          "weights": {
+            "mostly-free": 3
+          }
+        },
+        {
+          "text": "Comfortable. I see it as a good gift from God.",
+          "weights": {
+            "never-affected": 3
+          }
+        }
       ]
     },
     {
       "text": "When you think about God and your past, what do you sense?",
       "options": [
-        { "text": "That He's disappointed, and I can't quite feel forgiven.", "weights": { "deeply-wounded": 3 } },
-        { "text": "I'm starting to believe His grace really does cover this.", "weights": { "actively-healing": 3 } },
-        { "text": "Grace, mostly. The guilt doesn't run the show anymore.", "weights": { "mostly-free": 3 } },
-        { "text": "Full acceptance. I've never doubted His love here.", "weights": { "never-affected": 3 } }
+        {
+          "text": "That He's disappointed, and I can't quite feel forgiven.",
+          "weights": {
+            "deeply-wounded": 3
+          }
+        },
+        {
+          "text": "I'm starting to believe His grace really does cover this.",
+          "weights": {
+            "actively-healing": 3
+          }
+        },
+        {
+          "text": "Grace, mostly. The guilt doesn't run the show anymore.",
+          "weights": {
+            "mostly-free": 3
+          }
+        },
+        {
+          "text": "Full acceptance. I've never doubted His love here.",
+          "weights": {
+            "never-affected": 3
+          }
+        }
       ]
     },
     {
       "text": "What happens when you hear the word purity?",
       "options": [
-        { "text": "My stomach drops. It's loaded with fear and shame for me.", "weights": { "deeply-wounded": 3 } },
-        { "text": "I feel the old weight, but I'm reclaiming the word slowly.", "weights": { "actively-healing": 3 } },
-        { "text": "I can hear it as a heart thing now, not a rulebook.", "weights": { "mostly-free": 3 } },
-        { "text": "It feels neutral or even good. No heavy charge.", "weights": { "never-affected": 3 } }
+        {
+          "text": "My stomach drops. It's loaded with fear and shame for me.",
+          "weights": {
+            "deeply-wounded": 3
+          }
+        },
+        {
+          "text": "I feel the old weight, but I'm reclaiming the word slowly.",
+          "weights": {
+            "actively-healing": 3
+          }
+        },
+        {
+          "text": "I can hear it as a heart thing now, not a rulebook.",
+          "weights": {
+            "mostly-free": 3
+          }
+        },
+        {
+          "text": "It feels neutral or even good. No heavy charge.",
+          "weights": {
+            "never-affected": 3
+          }
+        }
       ]
     },
     {
       "text": "Where are you in processing all of this?",
       "options": [
-        { "text": "I'm only beginning to realize how much it wounded me.", "weights": { "deeply-wounded": 3 } },
-        { "text": "Deep in the work, talking it through and finding freedom.", "weights": { "actively-healing": 3 } },
-        { "text": "Mostly through it, with a little tenderness left.", "weights": { "mostly-free": 3 } },
-        { "text": "It was never really a struggle I had to process.", "weights": { "never-affected": 3 } }
+        {
+          "text": "I'm only beginning to realize how much it wounded me.",
+          "weights": {
+            "deeply-wounded": 3
+          }
+        },
+        {
+          "text": "Deep in the work, talking it through and finding freedom.",
+          "weights": {
+            "actively-healing": 3
+          }
+        },
+        {
+          "text": "Mostly through it, with a little tenderness left.",
+          "weights": {
+            "mostly-free": 3
+          }
+        },
+        {
+          "text": "It was never really a struggle I had to process.",
+          "weights": {
+            "never-affected": 3
+          }
+        }
       ]
     },
     {
       "text": "How do you relate to shame these days?",
       "options": [
-        { "text": "It's a constant background voice I can't turn off.", "weights": { "deeply-wounded": 3 } },
-        { "text": "I'm learning to recognize it as a lie and answer it with truth.", "weights": { "actively-healing": 3 } },
-        { "text": "It shows up sometimes, but it doesn't get the last word.", "weights": { "mostly-free": 3 } },
-        { "text": "It's not a big presence in this area of my life.", "weights": { "never-affected": 3 } }
+        {
+          "text": "It's a constant background voice I can't turn off.",
+          "weights": {
+            "deeply-wounded": 3
+          }
+        },
+        {
+          "text": "I'm learning to recognize it as a lie and answer it with truth.",
+          "weights": {
+            "actively-healing": 3
+          }
+        },
+        {
+          "text": "It shows up sometimes, but it doesn't get the last word.",
+          "weights": {
+            "mostly-free": 3
+          }
+        },
+        {
+          "text": "It's not a big presence in this area of my life.",
+          "weights": {
+            "never-affected": 3
+          }
+        }
       ]
     },
     {
       "text": "What would help you most right now?",
       "options": [
-        { "text": "Someone to tell me I'm not broken and God isn't ashamed of me.", "weights": { "deeply-wounded": 3 } },
-        { "text": "Encouragement to keep going. The healing is real but slow.", "weights": { "actively-healing": 3 } },
-        { "text": "A little grace for the moments the old voice creeps back.", "weights": { "mostly-free": 3 } },
-        { "text": "Maybe just a way to help friends who are still hurting.", "weights": { "never-affected": 3 } }
+        {
+          "text": "Someone to tell me I'm not broken and God isn't ashamed of me.",
+          "weights": {
+            "deeply-wounded": 3
+          }
+        },
+        {
+          "text": "Encouragement to keep going. The healing is real but slow.",
+          "weights": {
+            "actively-healing": 3
+          }
+        },
+        {
+          "text": "A little grace for the moments the old voice creeps back.",
+          "weights": {
+            "mostly-free": 3
+          }
+        },
+        {
+          "text": "Maybe just a way to help friends who are still hurting.",
+          "weights": {
+            "never-affected": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you most want to believe is true?",
       "options": [
-        { "text": "That I'm not ruined, and that I'm fully loved as I am.", "weights": { "deeply-wounded": 3 } },
-        { "text": "That the freedom I'm tasting is going to keep growing.", "weights": { "actively-healing": 3 } },
-        { "text": "That I really am free, even on the harder days.", "weights": { "mostly-free": 3 } },
-        { "text": "I already rest in being loved and whole.", "weights": { "never-affected": 3 } }
+        {
+          "text": "That I'm not ruined, and that I'm fully loved as I am.",
+          "weights": {
+            "deeply-wounded": 3
+          }
+        },
+        {
+          "text": "That the freedom I'm tasting is going to keep growing.",
+          "weights": {
+            "actively-healing": 3
+          }
+        },
+        {
+          "text": "That I really am free, even on the harder days.",
+          "weights": {
+            "mostly-free": 3
+          }
+        },
+        {
+          "text": "I already rest in being loved and whole.",
+          "weights": {
+            "never-affected": 3
+          }
+        }
       ]
     },
     {
       "text": "Which one sounds most like where you are?",
       "options": [
-        { "text": "I'm still deeply wounded by what I was taught.", "weights": { "deeply-wounded": 3 } },
-        { "text": "I'm actively healing and finding my way out.", "weights": { "actively-healing": 3 } },
-        { "text": "I'm mostly free, with a few tender spots left.", "weights": { "mostly-free": 3 } },
-        { "text": "It never really affected me much.", "weights": { "never-affected": 3 } }
+        {
+          "text": "I'm still deeply wounded by what I was taught.",
+          "weights": {
+            "deeply-wounded": 3
+          }
+        },
+        {
+          "text": "I'm actively healing and finding my way out.",
+          "weights": {
+            "actively-healing": 3
+          }
+        },
+        {
+          "text": "I'm mostly free, with a few tender spots left.",
+          "weights": {
+            "mostly-free": 3
+          }
+        },
+        {
+          "text": "It never really affected me much.",
+          "weights": {
+            "never-affected": 3
+          }
+        }
       ]
     }
   ],
@@ -108,22 +308,38 @@
     "deeply-wounded": {
       "name": "Deeply Wounded",
       "description": "What you were taught left a deep mark, and the shame around your body and your past still feels heavy, maybe even like part of who you are. Please hear this gently: that shame is not from God. Fear-based teaching tied your worth to your performance, but Jesus never did. He doesn't look at you and see damaged goods. He sees someone He loves completely, made on purpose and called good. You are not ruined. The healing is real and it's available, and finding a safe person or counselor to walk it with you is a strong, worthy first step. You are so much more than what you were told.",
-      "scripture": { "text": "I praise you because I am fearfully and wonderfully made.", "reference": "Psalm 139:14" }
+      "scripture": {
+        "text": "I will give thanks unto thee; for I am fearfully and wonderfully made: Wonderful are thy works; And that my soul knoweth right well.",
+        "reference": "Psalm 139:14",
+        "translation": "ASV"
+      }
     },
     "actively-healing": {
       "name": "Actively Healing",
       "description": "You're in the thick of the work, and that takes real courage. You're learning to spot the old shame for what it is, a lie, and to answer it with the truth that you're loved and not condemned. Some days the freedom feels solid and some days the weight sneaks back, and both are part of how healing actually goes. Keep going. Keep telling yourself the truer story. God is not rushing you and He's not disappointed in the pace. He's right in it with you, undoing what fear built, one gentle layer at a time.",
-      "scripture": { "text": "It is for freedom that Christ has set us free.", "reference": "Galatians 5:1" }
+      "scripture": {
+        "text": "For freedom did Christ set us free: stand fast therefore, and be not entangled again in a yoke of bondage.",
+        "reference": "Galatians 5:1",
+        "translation": "ASV"
+      }
     },
     "mostly-free": {
       "name": "Mostly Free",
       "description": "You've done a lot of the hard work, and it shows. The shame doesn't run the show anymore, grace has the louder voice, and you can talk about your body and your past without the old dread swallowing you. There may still be a tender spot or two, a moment when the inherited fear creeps back in, and that's okay. Freedom isn't never feeling the pull. It's knowing it doesn't define you. Give yourself grace on those days, keep returning to the truth, and let your freedom become a safe place for someone still finding theirs.",
-      "scripture": { "text": "So if the Son sets you free, you will be free indeed.", "reference": "John 8:36" }
+      "scripture": {
+        "text": "If therefore the Son shall make you free, ye shall be free indeed.",
+        "reference": "John 8:36",
+        "translation": "ASV"
+      }
     },
     "never-affected": {
       "name": "Never Affected",
       "description": "This particular wound doesn't seem to be yours, and that's a genuine gift. Somewhere along the way you came to know your worth as rooted in God's love rather than in a list of rules, and you've stayed at home in your own skin. Hold that lightly and gratefully. Not everyone got that, and many people around you are quietly carrying shame they were handed in church. You're in a good position to be safe and kind, to speak grace where others heard fear, and to remind someone still hurting that they were never damaged goods to God.",
-      "scripture": { "text": "There is now no condemnation for those who are in Christ Jesus.", "reference": "Romans 8:1" }
+      "scripture": {
+        "text": "There is therefore now no condemnation to them that are in Christ Jesus.",
+        "reference": "Romans 8:1",
+        "translation": "ASV"
+      }
     }
   }
 }

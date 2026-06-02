@@ -16,91 +16,292 @@
     {
       "text": "When you catch your reflection, what's the first thought?",
       "options": [
-        { "text": "I wish I looked different. Prettier. Just better.", "weights": { "not-pretty-enough": 3 } },
-        { "text": "Tone it down. You're a lot to deal with.", "weights": { "too-much": 3 } },
-        { "text": "Nothing about me really stands out or gets noticed.", "weights": { "forgettable": 3 } },
-        { "text": "Whatever I do, it's never quite good enough.", "weights": { "never-enough": 3 } }
+        {
+          "text": "I wish I looked different. Prettier. Just better.",
+          "weights": {
+            "not-pretty-enough": 3
+          }
+        },
+        {
+          "text": "Tone it down. You're a lot to deal with.",
+          "weights": {
+            "too-much": 3
+          }
+        },
+        {
+          "text": "Nothing about me really stands out or gets noticed.",
+          "weights": {
+            "forgettable": 3
+          }
+        },
+        {
+          "text": "Whatever I do, it's never quite good enough.",
+          "weights": {
+            "never-enough": 3
+          }
+        }
       ]
     },
     {
       "text": "Scrolling through photos of other people, you feel...",
       "options": [
-        { "text": "Plain. Like I came up short in the looks department.", "weights": { "not-pretty-enough": 3 } },
-        { "text": "Like I should shrink myself to be more likeable.", "weights": { "too-much": 3 } },
-        { "text": "Invisible. People remember them, not me.", "weights": { "forgettable": 3 } },
-        { "text": "Behind. They've got it together and I don't.", "weights": { "never-enough": 3 } }
+        {
+          "text": "Plain. Like I came up short in the looks department.",
+          "weights": {
+            "not-pretty-enough": 3
+          }
+        },
+        {
+          "text": "Like I should shrink myself to be more likeable.",
+          "weights": {
+            "too-much": 3
+          }
+        },
+        {
+          "text": "Invisible. People remember them, not me.",
+          "weights": {
+            "forgettable": 3
+          }
+        },
+        {
+          "text": "Behind. They've got it together and I don't.",
+          "weights": {
+            "never-enough": 3
+          }
+        }
       ]
     },
     {
       "text": "Which old comment still echoes in your head?",
       "options": [
-        { "text": "Something about my face, my body, my appearance.", "weights": { "not-pretty-enough": 3 } },
-        { "text": "\"You're too much. Too loud. Too sensitive.\"", "weights": { "too-much": 3 } },
-        { "text": "Honestly, I can't think of one. I get overlooked.", "weights": { "forgettable": 3 } },
-        { "text": "\"You could have done better.\"", "weights": { "never-enough": 3 } }
+        {
+          "text": "Something about my face, my body, my appearance.",
+          "weights": {
+            "not-pretty-enough": 3
+          }
+        },
+        {
+          "text": "\"You're too much. Too loud. Too sensitive.\"",
+          "weights": {
+            "too-much": 3
+          }
+        },
+        {
+          "text": "Honestly, I can't think of one. I get overlooked.",
+          "weights": {
+            "forgettable": 3
+          }
+        },
+        {
+          "text": "\"You could have done better.\"",
+          "weights": {
+            "never-enough": 3
+          }
+        }
       ]
     },
     {
       "text": "In a group, the quiet fear running underneath is...",
       "options": [
-        { "text": "That people are comparing how I look to everyone else.", "weights": { "not-pretty-enough": 3 } },
-        { "text": "That I'll take up too much space and annoy people.", "weights": { "too-much": 3 } },
-        { "text": "That if I left, no one would really notice.", "weights": { "forgettable": 3 } },
-        { "text": "That I'm not impressive enough to belong here.", "weights": { "never-enough": 2, "not-pretty-enough": 1 } }
+        {
+          "text": "That people are comparing how I look to everyone else.",
+          "weights": {
+            "not-pretty-enough": 3
+          }
+        },
+        {
+          "text": "That I'll take up too much space and annoy people.",
+          "weights": {
+            "too-much": 3
+          }
+        },
+        {
+          "text": "That if I left, no one would really notice.",
+          "weights": {
+            "forgettable": 3
+          }
+        },
+        {
+          "text": "That I'm not impressive enough to belong here.",
+          "weights": {
+            "never-enough": 2,
+            "not-pretty-enough": 1
+          }
+        }
       ]
     },
     {
       "text": "How do you cope with the lie when it gets loud?",
       "options": [
-        { "text": "I fixate on fixing how I look.", "weights": { "not-pretty-enough": 3 } },
-        { "text": "I edit myself down. Smaller, calmer, less.", "weights": { "too-much": 3 } },
-        { "text": "I fade into the background and stop trying to be seen.", "weights": { "forgettable": 3 } },
-        { "text": "I push harder, do more, try to finally measure up.", "weights": { "never-enough": 3 } }
+        {
+          "text": "I fixate on fixing how I look.",
+          "weights": {
+            "not-pretty-enough": 3
+          }
+        },
+        {
+          "text": "I edit myself down. Smaller, calmer, less.",
+          "weights": {
+            "too-much": 3
+          }
+        },
+        {
+          "text": "I fade into the background and stop trying to be seen.",
+          "weights": {
+            "forgettable": 3
+          }
+        },
+        {
+          "text": "I push harder, do more, try to finally measure up.",
+          "weights": {
+            "never-enough": 3
+          }
+        }
       ]
     },
     {
       "text": "Which sentence lands the hardest?",
       "options": [
-        { "text": "\"I'm not pretty enough.\"", "weights": { "not-pretty-enough": 3 } },
-        { "text": "\"I'm too much.\"", "weights": { "too-much": 3 } },
-        { "text": "\"I'm forgettable.\"", "weights": { "forgettable": 3 } },
-        { "text": "\"I'll never be enough.\"", "weights": { "never-enough": 3 } }
+        {
+          "text": "\"I'm not pretty enough.\"",
+          "weights": {
+            "not-pretty-enough": 3
+          }
+        },
+        {
+          "text": "\"I'm too much.\"",
+          "weights": {
+            "too-much": 3
+          }
+        },
+        {
+          "text": "\"I'm forgettable.\"",
+          "weights": {
+            "forgettable": 3
+          }
+        },
+        {
+          "text": "\"I'll never be enough.\"",
+          "weights": {
+            "never-enough": 3
+          }
+        }
       ]
     },
     {
       "text": "When someone gives you a compliment, you...",
       "options": [
-        { "text": "Assume they're being nice, not honest, about my looks.", "weights": { "not-pretty-enough": 3 } },
-        { "text": "Brace for the moment they realize I'm too much.", "weights": { "too-much": 3 } },
-        { "text": "Get surprised anyone noticed me at all.", "weights": { "forgettable": 3 } },
-        { "text": "Hear it, but it never seems to be enough to believe.", "weights": { "never-enough": 3 } }
+        {
+          "text": "Assume they're being nice, not honest, about my looks.",
+          "weights": {
+            "not-pretty-enough": 3
+          }
+        },
+        {
+          "text": "Brace for the moment they realize I'm too much.",
+          "weights": {
+            "too-much": 3
+          }
+        },
+        {
+          "text": "Get surprised anyone noticed me at all.",
+          "weights": {
+            "forgettable": 3
+          }
+        },
+        {
+          "text": "Hear it, but it never seems to be enough to believe.",
+          "weights": {
+            "never-enough": 3
+          }
+        }
       ]
     },
     {
       "text": "If the lie had a goal, it would be to keep you...",
       "options": [
-        { "text": "At war with the mirror.", "weights": { "not-pretty-enough": 3 } },
-        { "text": "small and apologizing for existing.", "weights": { "too-much": 3 } },
-        { "text": "convinced you don't matter to anyone.", "weights": { "forgettable": 3 } },
-        { "text": "on a treadmill that never gets you there.", "weights": { "never-enough": 3 } }
+        {
+          "text": "At war with the mirror.",
+          "weights": {
+            "not-pretty-enough": 3
+          }
+        },
+        {
+          "text": "small and apologizing for existing.",
+          "weights": {
+            "too-much": 3
+          }
+        },
+        {
+          "text": "convinced you don't matter to anyone.",
+          "weights": {
+            "forgettable": 3
+          }
+        },
+        {
+          "text": "on a treadmill that never gets you there.",
+          "weights": {
+            "never-enough": 3
+          }
+        }
       ]
     },
     {
       "text": "What truth do you most need to hear back?",
       "options": [
-        { "text": "\"You were made beautifully, on purpose, by Me.\"", "weights": { "not-pretty-enough": 3 } },
-        { "text": "\"You are not too much. You're exactly enough.\"", "weights": { "too-much": 3 } },
-        { "text": "\"I see you. I have never once overlooked you.\"", "weights": { "forgettable": 3 } },
-        { "text": "\"You don't have to earn it. You're already loved.\"", "weights": { "never-enough": 3 } }
+        {
+          "text": "\"You were made beautifully, on purpose, by Me.\"",
+          "weights": {
+            "not-pretty-enough": 3
+          }
+        },
+        {
+          "text": "\"You are not too much. You're exactly enough.\"",
+          "weights": {
+            "too-much": 3
+          }
+        },
+        {
+          "text": "\"I see you. I have never once overlooked you.\"",
+          "weights": {
+            "forgettable": 3
+          }
+        },
+        {
+          "text": "\"You don't have to earn it. You're already loved.\"",
+          "weights": {
+            "never-enough": 3
+          }
+        }
       ]
     },
     {
       "text": "Where did the lie first take root, do you think?",
       "options": [
-        { "text": "From years of measuring my looks against everyone's.", "weights": { "not-pretty-enough": 3 } },
-        { "text": "From being told my feelings or energy were a problem.", "weights": { "too-much": 3 } },
-        { "text": "From a lifetime of being the one left out or passed over.", "weights": { "forgettable": 3 } },
-        { "text": "From love that always seemed to come with conditions.", "weights": { "never-enough": 3 } }
+        {
+          "text": "From years of measuring my looks against everyone's.",
+          "weights": {
+            "not-pretty-enough": 3
+          }
+        },
+        {
+          "text": "From being told my feelings or energy were a problem.",
+          "weights": {
+            "too-much": 3
+          }
+        },
+        {
+          "text": "From a lifetime of being the one left out or passed over.",
+          "weights": {
+            "forgettable": 3
+          }
+        },
+        {
+          "text": "From love that always seemed to come with conditions.",
+          "weights": {
+            "never-enough": 3
+          }
+        }
       ]
     }
   ],
@@ -108,22 +309,38 @@
     "not-pretty-enough": {
       "name": "\"I'm Not Pretty Enough\"",
       "description": "The mirror has become a courtroom, and the verdict is always the same. You measure your face and body against an impossible, filtered standard and come away certain you fell short. That lie has worn a groove in your thinking, but it was never the truth about you. You were knit together with care by a God who does not make ordinary things. The beauty He sees in you isn't graded on a curve against anyone else. You are not a flawed copy. You're a deliberate, wonderful work, and that was true long before you ever judged your reflection.",
-      "scripture": { "text": "I praise you because I am fearfully and wonderfully made.", "reference": "Psalm 139:14" }
+      "scripture": {
+        "text": "I will give thanks unto thee; for I am fearfully and wonderfully made: Wonderful are thy works; And that my soul knoweth right well.",
+        "reference": "Psalm 139:14",
+        "translation": "ASV"
+      }
     },
     "too-much": {
       "name": "\"I'm Too Much\"",
       "description": "Somewhere you learned that your feelings, your energy, your presence were a burden, so you've spent years trying to shrink into something easier to love. Let's name that for what it is. The God who made you didn't accidentally give you too much heart or too much voice. He made you on purpose, fully, and He has never once asked you to apologize for taking up the space He gave you. You are not too much for Him. You never could be. Stop editing yourself down to fit small rooms. You were made to be fully here.",
-      "scripture": { "text": "For we are God's handiwork, created in Christ Jesus to do good works.", "reference": "Ephesians 2:10" }
+      "scripture": {
+        "text": "For we are his workmanship, created in Christ Jesus for good works, which God afore prepared that we should walk in them.",
+        "reference": "Ephesians 2:10",
+        "translation": "ASV"
+      }
     },
     "forgettable": {
       "name": "\"I'm Forgettable\"",
       "description": "You've come to believe you fade into the background, that if you vanished it would take people a while to notice. That ache of feeling unseen is real, and it's also a lie about how God relates to you. He knows the number of hairs on your head. He keeps your tears in a bottle. He carved your name into His own hands. You are not background to Him. You are not the one He overlooks. To the God who sees everything, you have always been impossible to forget, and that is the truer story about you.",
-      "scripture": { "text": "See, I have engraved you on the palms of my hands.", "reference": "Isaiah 49:16" }
+      "scripture": {
+        "text": "Behold, I have graven thee upon the palms of my hands; thy walls are continually before me.",
+        "reference": "Isaiah 49:16",
+        "translation": "ASV"
+      }
     },
     "never-enough": {
       "name": "\"I'll Never Be Enough\"",
       "description": "You're on a treadmill that never reaches the finish line. No matter how much you do or how hard you try, the goalpost slides back and the verdict stays the same: not enough. Here's what breaks the lie. Your worth was never something you had to earn in the first place. God loved you and called you His while you were still a mess, before you accomplished a single impressive thing. The pressure to measure up was never coming from Him. You can step off the treadmill. You were enough to Him before you started running.",
-      "scripture": { "text": "But God demonstrates his own love for us in this: While we were still sinners, Christ died for us.", "reference": "Romans 5:8" }
+      "scripture": {
+        "text": "But God commendeth his own love toward us, in that, while we were yet sinners, Christ died for us.",
+        "reference": "Romans 5:8",
+        "translation": "ASV"
+      }
     }
   }
 }

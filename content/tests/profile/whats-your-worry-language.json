@@ -18,91 +18,293 @@
     {
       "text": "Something stressful just landed. What's your very first move?",
       "options": [
-        { "text": "Call or text someone. I have to say it out loud.", "weights": { "verbal-processor": 3 } },
-        { "text": "Go quiet and turn it over and over in my head.", "weights": { "silent-stewer": 3 } },
-        { "text": "Open my notes and start writing down what to do.", "weights": { "list-maker": 3 } },
-        { "text": "Distract myself fast. I'll deal with it later. Maybe.", "weights": { "avoider": 3 } }
+        {
+          "text": "Call or text someone. I have to say it out loud.",
+          "weights": {
+            "verbal-processor": 3
+          }
+        },
+        {
+          "text": "Go quiet and turn it over and over in my head.",
+          "weights": {
+            "silent-stewer": 3
+          }
+        },
+        {
+          "text": "Open my notes and start writing down what to do.",
+          "weights": {
+            "list-maker": 3
+          }
+        },
+        {
+          "text": "Distract myself fast. I'll deal with it later. Maybe.",
+          "weights": {
+            "avoider": 3
+          }
+        }
       ]
     },
     {
       "text": "It's late and your brain won't shut off. What's it doing?",
       "options": [
-        { "text": "Rehearsing the conversation I need to have tomorrow.", "weights": { "verbal-processor": 2, "silent-stewer": 1 } },
-        { "text": "Replaying the same fear on a loop, silently.", "weights": { "silent-stewer": 3 } },
-        { "text": "Drafting tomorrow's plan so I can finally relax.", "weights": { "list-maker": 3 } },
-        { "text": "Reading article after article to find the answer.", "weights": { "researcher": 3 } }
+        {
+          "text": "Rehearsing the conversation I need to have tomorrow.",
+          "weights": {
+            "verbal-processor": 2,
+            "silent-stewer": 1
+          }
+        },
+        {
+          "text": "Replaying the same fear on a loop, silently.",
+          "weights": {
+            "silent-stewer": 3
+          }
+        },
+        {
+          "text": "Drafting tomorrow's plan so I can finally relax.",
+          "weights": {
+            "list-maker": 3
+          }
+        },
+        {
+          "text": "Reading article after article to find the answer.",
+          "weights": {
+            "researcher": 3
+          }
+        }
       ]
     },
     {
       "text": "When you're worried, what do you most want from the people around you?",
       "options": [
-        { "text": "Someone to just listen while I talk it through.", "weights": { "verbal-processor": 3 } },
-        { "text": "Honestly, space. I'd rather handle it inside my own head.", "weights": { "silent-stewer": 3 } },
-        { "text": "Someone to tell me, again, that it's going to be okay.", "weights": { "reassurance-seeker": 3 } },
-        { "text": "Nothing. I'd rather pretend everything is fine.", "weights": { "avoider": 3 } }
+        {
+          "text": "Someone to just listen while I talk it through.",
+          "weights": {
+            "verbal-processor": 3
+          }
+        },
+        {
+          "text": "Honestly, space. I'd rather handle it inside my own head.",
+          "weights": {
+            "silent-stewer": 3
+          }
+        },
+        {
+          "text": "Someone to tell me, again, that it's going to be okay.",
+          "weights": {
+            "reassurance-seeker": 3
+          }
+        },
+        {
+          "text": "Nothing. I'd rather pretend everything is fine.",
+          "weights": {
+            "avoider": 3
+          }
+        }
       ]
     },
     {
       "text": "How does worry usually show up in your body or behavior?",
       "options": [
-        { "text": "I overshare. The words just spill out of me.", "weights": { "verbal-processor": 3 } },
-        { "text": "I go inward and people can't always tell I'm spiraling.", "weights": { "silent-stewer": 3 } },
-        { "text": "I get organized to the point of compulsive.", "weights": { "list-maker": 3 } },
-        { "text": "I numb out with my phone, snacks, or sleep.", "weights": { "avoider": 3 } }
+        {
+          "text": "I overshare. The words just spill out of me.",
+          "weights": {
+            "verbal-processor": 3
+          }
+        },
+        {
+          "text": "I go inward and people can't always tell I'm spiraling.",
+          "weights": {
+            "silent-stewer": 3
+          }
+        },
+        {
+          "text": "I get organized to the point of compulsive.",
+          "weights": {
+            "list-maker": 3
+          }
+        },
+        {
+          "text": "I numb out with my phone, snacks, or sleep.",
+          "weights": {
+            "avoider": 3
+          }
+        }
       ]
     },
     {
       "text": "You're facing a big unknown. What feels like relief?",
       "options": [
-        { "text": "Talking it out until it makes sense in my mouth.", "weights": { "verbal-processor": 3 } },
-        { "text": "A solid checklist that makes the chaos feel handled.", "weights": { "list-maker": 3 } },
-        { "text": "Understanding it fully so nothing can surprise me.", "weights": { "researcher": 3 } },
-        { "text": "Someone I trust saying, plainly, that I'll be alright.", "weights": { "reassurance-seeker": 3 } }
+        {
+          "text": "Talking it out until it makes sense in my mouth.",
+          "weights": {
+            "verbal-processor": 3
+          }
+        },
+        {
+          "text": "A solid checklist that makes the chaos feel handled.",
+          "weights": {
+            "list-maker": 3
+          }
+        },
+        {
+          "text": "Understanding it fully so nothing can surprise me.",
+          "weights": {
+            "researcher": 3
+          }
+        },
+        {
+          "text": "Someone I trust saying, plainly, that I'll be alright.",
+          "weights": {
+            "reassurance-seeker": 3
+          }
+        }
       ]
     },
     {
       "text": "Which of these traps do you fall into most?",
       "options": [
-        { "text": "Talking the same worry into the ground without resolving it.", "weights": { "verbal-processor": 3 } },
-        { "text": "Stewing so long it turns into a quiet dread.", "weights": { "silent-stewer": 3 } },
-        { "text": "Researching so much I get more anxious, not less.", "weights": { "researcher": 3 } },
-        { "text": "Asking for reassurance again the second the comfort wears off.", "weights": { "reassurance-seeker": 3 } }
+        {
+          "text": "Talking the same worry into the ground without resolving it.",
+          "weights": {
+            "verbal-processor": 3
+          }
+        },
+        {
+          "text": "Stewing so long it turns into a quiet dread.",
+          "weights": {
+            "silent-stewer": 3
+          }
+        },
+        {
+          "text": "Researching so much I get more anxious, not less.",
+          "weights": {
+            "researcher": 3
+          }
+        },
+        {
+          "text": "Asking for reassurance again the second the comfort wears off.",
+          "weights": {
+            "reassurance-seeker": 3
+          }
+        }
       ]
     },
     {
       "text": "When everything feels uncertain, what story do you tell yourself?",
       "options": [
-        { "text": "\"If I can just explain it, I'll feel better.\"", "weights": { "verbal-processor": 3 } },
-        { "text": "\"I'll carry this on my own, like always.\"", "weights": { "silent-stewer": 3 } },
-        { "text": "\"If I control the plan, I can control the outcome.\"", "weights": { "list-maker": 3 } },
-        { "text": "\"If I don't look at it, it isn't really happening.\"", "weights": { "avoider": 3 } }
+        {
+          "text": "\"If I can just explain it, I'll feel better.\"",
+          "weights": {
+            "verbal-processor": 3
+          }
+        },
+        {
+          "text": "\"I'll carry this on my own, like always.\"",
+          "weights": {
+            "silent-stewer": 3
+          }
+        },
+        {
+          "text": "\"If I control the plan, I can control the outcome.\"",
+          "weights": {
+            "list-maker": 3
+          }
+        },
+        {
+          "text": "\"If I don't look at it, it isn't really happening.\"",
+          "weights": {
+            "avoider": 3
+          }
+        }
       ]
     },
     {
       "text": "How do you usually try to make a worry go away?",
       "options": [
-        { "text": "I gather every fact and opinion I possibly can.", "weights": { "researcher": 3 } },
-        { "text": "I check in with people until someone calms me down.", "weights": { "reassurance-seeker": 3 } },
-        { "text": "I write it out and break it into steps.", "weights": { "list-maker": 3 } },
-        { "text": "I push it down and stay busy enough to forget.", "weights": { "avoider": 3 } }
+        {
+          "text": "I gather every fact and opinion I possibly can.",
+          "weights": {
+            "researcher": 3
+          }
+        },
+        {
+          "text": "I check in with people until someone calms me down.",
+          "weights": {
+            "reassurance-seeker": 3
+          }
+        },
+        {
+          "text": "I write it out and break it into steps.",
+          "weights": {
+            "list-maker": 3
+          }
+        },
+        {
+          "text": "I push it down and stay busy enough to forget.",
+          "weights": {
+            "avoider": 3
+          }
+        }
       ]
     },
     {
       "text": "Where does prayer tend to land when you're anxious?",
       "options": [
-        { "text": "I talk to God the way I talk to a friend, a lot.", "weights": { "verbal-processor": 3 } },
-        { "text": "I want to pray but I just sit with the worry instead.", "weights": { "silent-stewer": 3 } },
-        { "text": "I ask Him to confirm my plan more than to lead it.", "weights": { "list-maker": 2, "reassurance-seeker": 1 } },
-        { "text": "I avoid it, like I'm avoiding the worry itself.", "weights": { "avoider": 3 } }
+        {
+          "text": "I talk to God the way I talk to a friend, a lot.",
+          "weights": {
+            "verbal-processor": 3
+          }
+        },
+        {
+          "text": "I want to pray but I just sit with the worry instead.",
+          "weights": {
+            "silent-stewer": 3
+          }
+        },
+        {
+          "text": "I ask Him to confirm my plan more than to lead it.",
+          "weights": {
+            "list-maker": 2,
+            "reassurance-seeker": 1
+          }
+        },
+        {
+          "text": "I avoid it, like I'm avoiding the worry itself.",
+          "weights": {
+            "avoider": 3
+          }
+        }
       ]
     },
     {
       "text": "Which sentence sounds the most like you under pressure?",
       "options": [
-        { "text": "\"Let me just say this out loud one more time.\"", "weights": { "verbal-processor": 3 } },
-        { "text": "\"I'm fine,\" while quietly carrying it all alone.", "weights": { "silent-stewer": 3 } },
-        { "text": "\"Give me a minute, I need to research this first.\"", "weights": { "researcher": 3 } },
-        { "text": "\"Tell me it's going to be okay. Again.\"", "weights": { "reassurance-seeker": 3 } }
+        {
+          "text": "\"Let me just say this out loud one more time.\"",
+          "weights": {
+            "verbal-processor": 3
+          }
+        },
+        {
+          "text": "\"I'm fine,\" while quietly carrying it all alone.",
+          "weights": {
+            "silent-stewer": 3
+          }
+        },
+        {
+          "text": "\"Give me a minute, I need to research this first.\"",
+          "weights": {
+            "researcher": 3
+          }
+        },
+        {
+          "text": "\"Tell me it's going to be okay. Again.\"",
+          "weights": {
+            "reassurance-seeker": 3
+          }
+        }
       ]
     }
   ],
@@ -110,32 +312,56 @@
     "verbal-processor": {
       "name": "The Verbal Processor",
       "description": "You think by talking. A worry doesn't feel real until you've said it out loud, and the act of explaining it to someone is how you find the bottom of it. That's a genuine gift, you don't bottle things up. The catch is that talking can become its own loop, circling the fear without ever handing it over. Try aiming some of those words at God. He's the one listener who can do something with them, and casting your worry on Him is exactly what He invites.",
-      "scripture": { "text": "Cast all your anxiety on him because he cares for you.", "reference": "1 Peter 5:7" }
+      "scripture": {
+        "text": "casting all your anxiety upon him, because he careth for you.",
+        "reference": "1 Peter 5:7",
+        "translation": "ASV"
+      }
     },
     "silent-stewer": {
       "name": "The Silent Stewer",
       "description": "Your worry goes underground. While everyone thinks you're fine, you're quietly turning the same fear over and over, carrying it alone because that's just what you do. The strength in that is real, but so is the cost, because dread grows in silence. You were never meant to hold it all by yourself. Let one trusted person in, and bring the unspoken part to God, who already sees the whole loop and wants to trade you peace for it.",
-      "scripture": { "text": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.", "reference": "Philippians 4:6" }
+      "scripture": {
+        "text": "In nothing be anxious; but in everything by prayer and supplication with thanksgiving let your requests be made known unto God.",
+        "reference": "Philippians 4:6",
+        "translation": "ASV"
+      }
     },
     "list-maker": {
       "name": "The List-Maker",
       "description": "When the world feels shaky, you reach for a plan. A good checklist makes the chaos feel handled, and there's wisdom in that, preparation is not the enemy. But notice when the list becomes a way to grip control you don't actually have. Some outcomes will never fit on a plan, and that's where trust begins. Make your list, then loosen your hold and let God carry the part you can't organize. Steady steps with an open hand beat a perfect plan held tight.",
-      "scripture": { "text": "Commit to the Lord whatever you do, and he will establish your plans.", "reference": "Proverbs 16:3" }
+      "scripture": {
+        "text": "Commit thy works unto Jehovah, And thy purposes shall be established.",
+        "reference": "Proverbs 16:3",
+        "translation": "ASV"
+      }
     },
     "avoider": {
       "name": "The Avoider",
       "description": "When worry knocks, you'd rather not answer the door. You stay busy, numb out, or quietly tell yourself it isn't happening, and for a while that works. But the fear you won't look at doesn't leave, it just waits. Avoiding isn't weakness, it's usually a sign the thing feels too big to face alone. You don't have to face it alone. God can handle what you're afraid to look at. Naming it in His presence is the first small, brave step toward peace.",
-      "scripture": { "text": "When I am afraid, I put my trust in you.", "reference": "Psalm 56:3" }
+      "scripture": {
+        "text": "What time I am afraid, I will put my trust in thee.",
+        "reference": "Psalm 56:3",
+        "translation": "ASV"
+      }
     },
     "researcher": {
       "name": "The Researcher",
       "description": "Your instinct is to understand the threat until it can't surprise you. You read, you dig, you gather every angle, because knowledge feels like safety. Sometimes it is. But you've probably noticed the trap: past a point, more information makes you more anxious, not less, because no amount of data can guarantee tomorrow. There's a kind of peace that doesn't come from knowing everything. It comes from trusting the One who does. Let your search end in Him, not in the next tab.",
-      "scripture": { "text": "Trust in the Lord with all your heart and lean not on your own understanding.", "reference": "Proverbs 3:5" }
+      "scripture": {
+        "text": "Trust in Jehovah with all thy heart, And lean not upon thine own understanding:",
+        "reference": "Proverbs 3:5",
+        "translation": "ASV"
+      }
     },
     "reassurance-seeker": {
       "name": "The Reassurance-Seeker",
       "description": "When you're scared, you need to hear it's going to be okay, and there's nothing wrong with wanting comfort. The hard part is how fast it wears off, sending you back to ask again, and again. People can only steady you so far. There's a deeper reassurance available, one that doesn't run out. God's promises don't fade by the afternoon. Let His words be the voice you return to, and you'll find a comfort that holds even when no one is around to say it.",
-      "scripture": { "text": "Peace I leave with you; my peace I give you. Do not let your hearts be troubled and do not be afraid.", "reference": "John 14:27" }
+      "scripture": {
+        "text": "Peace I leave with you; my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be fearful.",
+        "reference": "John 14:27",
+        "translation": "ASV"
+      }
     }
   }
 }

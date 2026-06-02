@@ -6,87 +6,278 @@
   "category": "spiritual-profile",
   "estimatedMinutes": 5,
   "mode": "profile",
-  "dimensions": ["covenant-lover", "sacrificial-lover", "partner-in-mission", "devoted-protector", "healing-in-progress"],
+  "dimensions": [
+    "covenant-lover",
+    "sacrificial-lover",
+    "partner-in-mission",
+    "devoted-protector",
+    "healing-in-progress"
+  ],
   "questions": [
     {
       "text": "When you commit to someone, what does that look like?",
       "options": [
-        { "text": "I am all in for the long haul. Where you go, I go.", "weights": { "covenant-lover": 2 } },
-        { "text": "I will love you even when it costs me and you cannot repay it.", "weights": { "sacrificial-lover": 2 } },
-        { "text": "I want us building something together, not just being together.", "weights": { "partner-in-mission": 2 } },
-        { "text": "I quietly cover and protect the people I love.", "weights": { "devoted-protector": 2 } }
+        {
+          "text": "I am all in for the long haul. Where you go, I go.",
+          "weights": {
+            "covenant-lover": 2
+          }
+        },
+        {
+          "text": "I will love you even when it costs me and you cannot repay it.",
+          "weights": {
+            "sacrificial-lover": 2
+          }
+        },
+        {
+          "text": "I want us building something together, not just being together.",
+          "weights": {
+            "partner-in-mission": 2
+          }
+        },
+        {
+          "text": "I quietly cover and protect the people I love.",
+          "weights": {
+            "devoted-protector": 2
+          }
+        }
       ]
     },
     {
       "text": "How do you most naturally show love?",
       "options": [
-        { "text": "Loyalty. I show up and I keep showing up.", "weights": { "covenant-lover": 2 } },
-        { "text": "Sacrifice. I will go without so the people I love do not have to.", "weights": { "sacrificial-lover": 2 } },
-        { "text": "Teamwork. I love side by side, chasing a shared purpose.", "weights": { "partner-in-mission": 2 } },
-        { "text": "Provision. I make sure you feel safe and taken care of.", "weights": { "devoted-protector": 2 } }
+        {
+          "text": "Loyalty. I show up and I keep showing up.",
+          "weights": {
+            "covenant-lover": 2
+          }
+        },
+        {
+          "text": "Sacrifice. I will go without so the people I love do not have to.",
+          "weights": {
+            "sacrificial-lover": 2
+          }
+        },
+        {
+          "text": "Teamwork. I love side by side, chasing a shared purpose.",
+          "weights": {
+            "partner-in-mission": 2
+          }
+        },
+        {
+          "text": "Provision. I make sure you feel safe and taken care of.",
+          "weights": {
+            "devoted-protector": 2
+          }
+        }
       ]
     },
     {
       "text": "Which Bible love story makes your heart ache in a good way?",
       "options": [
-        { "text": "Ruth telling Naomi, your people will be my people.", "weights": { "covenant-lover": 2 } },
-        { "text": "Hosea buying Gomer back even after she left.", "weights": { "sacrificial-lover": 2 } },
-        { "text": "Priscilla and Aquila working and teaching together.", "weights": { "partner-in-mission": 2 } },
-        { "text": "Boaz quietly making sure Ruth was safe and provided for.", "weights": { "devoted-protector": 2 } }
+        {
+          "text": "Ruth telling Naomi, your people will be my people.",
+          "weights": {
+            "covenant-lover": 2
+          }
+        },
+        {
+          "text": "Hosea buying Gomer back even after she left.",
+          "weights": {
+            "sacrificial-lover": 2
+          }
+        },
+        {
+          "text": "Priscilla and Aquila working and teaching together.",
+          "weights": {
+            "partner-in-mission": 2
+          }
+        },
+        {
+          "text": "Boaz quietly making sure Ruth was safe and provided for.",
+          "weights": {
+            "devoted-protector": 2
+          }
+        }
       ]
     },
     {
       "text": "What do you secretly fear in relationships?",
       "options": [
-        { "text": "Being abandoned by someone I gave my whole loyalty to.", "weights": { "covenant-lover": 2 } },
-        { "text": "Loving someone so much that I lose myself entirely.", "weights": { "sacrificial-lover": 2, "healing-in-progress": 1 } },
-        { "text": "Settling into a love with no shared direction or meaning.", "weights": { "partner-in-mission": 2 } },
-        { "text": "Not being strong enough to keep the people I love safe.", "weights": { "devoted-protector": 2 } }
+        {
+          "text": "Being abandoned by someone I gave my whole loyalty to.",
+          "weights": {
+            "covenant-lover": 2
+          }
+        },
+        {
+          "text": "Loving someone so much that I lose myself entirely.",
+          "weights": {
+            "sacrificial-lover": 2,
+            "healing-in-progress": 1
+          }
+        },
+        {
+          "text": "Settling into a love with no shared direction or meaning.",
+          "weights": {
+            "partner-in-mission": 2
+          }
+        },
+        {
+          "text": "Not being strong enough to keep the people I love safe.",
+          "weights": {
+            "devoted-protector": 2
+          }
+        }
       ]
     },
     {
       "text": "Be honest. What is your love style still recovering from?",
       "options": [
-        { "text": "Nothing major right now. I feel pretty steady in how I love.", "weights": { "covenant-lover": 1, "devoted-protector": 1 } },
-        { "text": "Giving so much I forget I have needs too.", "weights": { "sacrificial-lover": 1, "healing-in-progress": 1 } },
-        { "text": "Old wounds that make trust feel risky.", "weights": { "healing-in-progress": 2 } },
-        { "text": "A past that taught me love was not safe.", "weights": { "healing-in-progress": 2 } }
+        {
+          "text": "Nothing major right now. I feel pretty steady in how I love.",
+          "weights": {
+            "covenant-lover": 1,
+            "devoted-protector": 1
+          }
+        },
+        {
+          "text": "Giving so much I forget I have needs too.",
+          "weights": {
+            "sacrificial-lover": 1,
+            "healing-in-progress": 1
+          }
+        },
+        {
+          "text": "Old wounds that make trust feel risky.",
+          "weights": {
+            "healing-in-progress": 2
+          }
+        },
+        {
+          "text": "A past that taught me love was not safe.",
+          "weights": {
+            "healing-in-progress": 2
+          }
+        }
       ]
     },
     {
       "text": "Your ideal partnership feels most like...",
       "options": [
-        { "text": "Two people who chose each other and never look back.", "weights": { "covenant-lover": 2 } },
-        { "text": "A love that keeps choosing grace, even when it is undeserved.", "weights": { "sacrificial-lover": 2 } },
-        { "text": "Co-laborers, building a life and a calling together.", "weights": { "partner-in-mission": 2 } },
-        { "text": "A safe place where the people I love can finally rest.", "weights": { "devoted-protector": 2 } }
+        {
+          "text": "Two people who chose each other and never look back.",
+          "weights": {
+            "covenant-lover": 2
+          }
+        },
+        {
+          "text": "A love that keeps choosing grace, even when it is undeserved.",
+          "weights": {
+            "sacrificial-lover": 2
+          }
+        },
+        {
+          "text": "Co-laborers, building a life and a calling together.",
+          "weights": {
+            "partner-in-mission": 2
+          }
+        },
+        {
+          "text": "A safe place where the people I love can finally rest.",
+          "weights": {
+            "devoted-protector": 2
+          }
+        }
       ]
     },
     {
       "text": "When someone you love is hurting, your instinct is to...",
       "options": [
-        { "text": "Stay right beside them, no matter how long it takes.", "weights": { "covenant-lover": 2 } },
-        { "text": "Take some of the pain onto myself if I could.", "weights": { "sacrificial-lover": 2 } },
-        { "text": "Pray with them and remind them of the bigger picture.", "weights": { "partner-in-mission": 2 } },
-        { "text": "Step in and handle whatever is threatening them.", "weights": { "devoted-protector": 2 } }
+        {
+          "text": "Stay right beside them, no matter how long it takes.",
+          "weights": {
+            "covenant-lover": 2
+          }
+        },
+        {
+          "text": "Take some of the pain onto myself if I could.",
+          "weights": {
+            "sacrificial-lover": 2
+          }
+        },
+        {
+          "text": "Pray with them and remind them of the bigger picture.",
+          "weights": {
+            "partner-in-mission": 2
+          }
+        },
+        {
+          "text": "Step in and handle whatever is threatening them.",
+          "weights": {
+            "devoted-protector": 2
+          }
+        }
       ]
     },
     {
       "text": "What do you most want to grow in when it comes to love?",
       "options": [
-        { "text": "Trusting that the loyalty I give will be returned.", "weights": { "covenant-lover": 2 } },
-        { "text": "Learning to receive love, not only pour it out.", "weights": { "sacrificial-lover": 2, "healing-in-progress": 1 } },
-        { "text": "Keeping our shared purpose alive in the daily grind.", "weights": { "partner-in-mission": 2 } },
-        { "text": "Letting myself be cared for instead of always being strong.", "weights": { "devoted-protector": 2, "healing-in-progress": 1 } }
+        {
+          "text": "Trusting that the loyalty I give will be returned.",
+          "weights": {
+            "covenant-lover": 2
+          }
+        },
+        {
+          "text": "Learning to receive love, not only pour it out.",
+          "weights": {
+            "sacrificial-lover": 2,
+            "healing-in-progress": 1
+          }
+        },
+        {
+          "text": "Keeping our shared purpose alive in the daily grind.",
+          "weights": {
+            "partner-in-mission": 2
+          }
+        },
+        {
+          "text": "Letting myself be cared for instead of always being strong.",
+          "weights": {
+            "devoted-protector": 2,
+            "healing-in-progress": 1
+          }
+        }
       ]
     },
     {
       "text": "Which prayer fits your heart in relationships right now?",
       "options": [
-        { "text": "Lord, make me faithful the way you are faithful.", "weights": { "covenant-lover": 2 } },
-        { "text": "Teach me to love like you loved me first.", "weights": { "sacrificial-lover": 2 } },
-        { "text": "Use our love for something bigger than us.", "weights": { "partner-in-mission": 2 } },
-        { "text": "Heal the places that still make love feel unsafe.", "weights": { "healing-in-progress": 2 } }
+        {
+          "text": "Lord, make me faithful the way you are faithful.",
+          "weights": {
+            "covenant-lover": 2
+          }
+        },
+        {
+          "text": "Teach me to love like you loved me first.",
+          "weights": {
+            "sacrificial-lover": 2
+          }
+        },
+        {
+          "text": "Use our love for something bigger than us.",
+          "weights": {
+            "partner-in-mission": 2
+          }
+        },
+        {
+          "text": "Heal the places that still make love feel unsafe.",
+          "weights": {
+            "healing-in-progress": 2
+          }
+        }
       ]
     }
   ],
@@ -94,27 +285,47 @@
     "covenant-lover": {
       "name": "Covenant Lover (Ruth)",
       "description": "When you love, you commit, and you mean it for the long road ahead. Like Ruth, your loyalty does not flinch when things get hard. People feel safe with you because they know you will not bolt. Keep guarding that faithfulness, and let yourself be loved with the same steadiness you give.",
-      "scripture": { "text": "Whither thou goest, I will go; and where thou lodgest, I will lodge.", "reference": "Ruth 1:16" }
+      "scripture": {
+        "text": "And Ruth said, Entreat me not to leave thee, and to return from following after thee, for whither thou goest, I will go; and where thou lodgest, I will lodge; thy people shall be my people, and thy God my God;",
+        "reference": "Ruth 1:16",
+        "translation": "ASV"
+      }
     },
     "sacrificial-lover": {
       "name": "Sacrificial Lover (Hosea)",
       "description": "You love the way Hosea loved Gomer, with a grace that keeps reaching even when it is not earned. That kind of love is rare and beautiful. Just remember you were not made to only give. Let people pour back into you too. Even the most sacrificial love needs to be received as well as offered.",
-      "scripture": { "text": "We love him, because he first loved us.", "reference": "1 John 4:19" }
+      "scripture": {
+        "text": "We love, because he first loved us.",
+        "reference": "1 John 4:19",
+        "translation": "ASV"
+      }
     },
     "partner-in-mission": {
       "name": "Partner-in-Mission (Priscilla)",
       "description": "Love, for you, is a team built around a shared purpose, not just shared feelings. Like Priscilla and Aquila, you want to build and serve right alongside the person you love. That common calling is your glue. Keep tending it, and do not forget to enjoy each other along the way, not only the mission.",
-      "scripture": { "text": "Two are better than one; because they have a good reward for their labour.", "reference": "Ecclesiastes 4:9" }
+      "scripture": {
+        "text": "Two are better than one, because they have a good reward for their labor.",
+        "reference": "Ecclesiastes 4:9",
+        "translation": "ASV"
+      }
     },
     "devoted-protector": {
       "name": "Devoted Protector (Boaz)",
       "description": "Like Boaz, you love by covering people, making them feel safe, seen, and provided for. Your strength becomes a shelter for the ones you care about. It is a gift. Just let yourself be cared for too. You do not always have to be the strong one. Being protected is allowed to go both ways.",
-      "scripture": { "text": "A full reward be given thee of the Lord God of Israel, under whose wings thou art come to trust.", "reference": "Ruth 2:12" }
+      "scripture": {
+        "text": "Jehovah recompense thy work, and a full reward be given thee of Jehovah, the God of Israel, under whose wings thou art come to take refuge.",
+        "reference": "Ruth 2:12",
+        "translation": "ASV"
+      }
     },
     "healing-in-progress": {
       "name": "Healing-in-Progress",
       "description": "Love has cost you something, and you are still mending from it. That is not weakness. It is honesty, and it is the start of real healing. God is gentle with hearts that have been bruised. Take your time, let safe people in slowly, and trust that He is restoring your ability to love and be loved.",
-      "scripture": { "text": "He healeth the broken in heart, and bindeth up their wounds.", "reference": "Psalm 147:3" }
+      "scripture": {
+        "text": "He healeth the broken in heart, And bindeth up their wounds.",
+        "reference": "Psalm 147:3",
+        "translation": "ASV"
+      }
     }
   }
 }

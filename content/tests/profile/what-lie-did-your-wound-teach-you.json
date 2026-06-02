@@ -17,91 +17,296 @@
     {
       "text": "When you walk into a room full of people, the quiet thought underneath is usually...",
       "options": [
-        { "text": "Tone it down so you don't overwhelm anyone.", "weights": { "im-too-much": 3 } },
-        { "text": "You're probably not interesting enough to matter here.", "weights": { "im-not-enough": 3 } },
-        { "text": "Stay a little guarded until you know who's safe.", "weights": { "its-not-safe-to-trust": 2 } },
-        { "text": "If anything goes wrong, you'll find a way to blame yourself.", "weights": { "its-all-my-fault": 2 } }
+        {
+          "text": "Tone it down so you don't overwhelm anyone.",
+          "weights": {
+            "im-too-much": 3
+          }
+        },
+        {
+          "text": "You're probably not interesting enough to matter here.",
+          "weights": {
+            "im-not-enough": 3
+          }
+        },
+        {
+          "text": "Stay a little guarded until you know who's safe.",
+          "weights": {
+            "its-not-safe-to-trust": 2
+          }
+        },
+        {
+          "text": "If anything goes wrong, you'll find a way to blame yourself.",
+          "weights": {
+            "its-all-my-fault": 2
+          }
+        }
       ]
     },
     {
       "text": "Someone you care about goes quiet on you for a day. Your first instinct is...",
       "options": [
-        { "text": "You did something. You replay every word looking for it.", "weights": { "its-all-my-fault": 3 } },
-        { "text": "They're pulling away because you're not worth staying for.", "weights": { "im-not-enough": 2, "i-have-to-earn-love": 1 } },
-        { "text": "Brace yourself. People leave, and you saw it coming.", "weights": { "its-not-safe-to-trust": 3 } },
-        { "text": "You were probably too needy and scared them off.", "weights": { "im-too-much": 2 } }
+        {
+          "text": "You did something. You replay every word looking for it.",
+          "weights": {
+            "its-all-my-fault": 3
+          }
+        },
+        {
+          "text": "They're pulling away because you're not worth staying for.",
+          "weights": {
+            "im-not-enough": 2,
+            "i-have-to-earn-love": 1
+          }
+        },
+        {
+          "text": "Brace yourself. People leave, and you saw it coming.",
+          "weights": {
+            "its-not-safe-to-trust": 3
+          }
+        },
+        {
+          "text": "You were probably too needy and scared them off.",
+          "weights": {
+            "im-too-much": 2
+          }
+        }
       ]
     },
     {
       "text": "Be honest about love and approval. Deep down you feel like...",
       "options": [
-        { "text": "You have to keep earning it or it disappears.", "weights": { "i-have-to-earn-love": 3 } },
-        { "text": "Your feelings are a burden, so you shrink them.", "weights": { "im-too-much": 3 } },
-        { "text": "You're always one mistake from being too much work.", "weights": { "im-not-enough": 2, "i-have-to-earn-love": 1 } },
-        { "text": "Letting someone close just hands them the power to hurt you.", "weights": { "its-not-safe-to-trust": 2 } }
+        {
+          "text": "You have to keep earning it or it disappears.",
+          "weights": {
+            "i-have-to-earn-love": 3
+          }
+        },
+        {
+          "text": "Your feelings are a burden, so you shrink them.",
+          "weights": {
+            "im-too-much": 3
+          }
+        },
+        {
+          "text": "You're always one mistake from being too much work.",
+          "weights": {
+            "im-not-enough": 2,
+            "i-have-to-earn-love": 1
+          }
+        },
+        {
+          "text": "Letting someone close just hands them the power to hurt you.",
+          "weights": {
+            "its-not-safe-to-trust": 2
+          }
+        }
       ]
     },
     {
       "text": "Think back to being a kid. The message you absorbed most was...",
       "options": [
-        { "text": "You were 'a lot' and people wished you'd settle down.", "weights": { "im-too-much": 3 } },
-        { "text": "Nothing you did was ever quite good enough.", "weights": { "im-not-enough": 3 } },
-        { "text": "The people who should have protected you didn't.", "weights": { "its-not-safe-to-trust": 3 } },
-        { "text": "When the house fell apart, somehow it landed on you.", "weights": { "its-all-my-fault": 3 } }
+        {
+          "text": "You were 'a lot' and people wished you'd settle down.",
+          "weights": {
+            "im-too-much": 3
+          }
+        },
+        {
+          "text": "Nothing you did was ever quite good enough.",
+          "weights": {
+            "im-not-enough": 3
+          }
+        },
+        {
+          "text": "The people who should have protected you didn't.",
+          "weights": {
+            "its-not-safe-to-trust": 3
+          }
+        },
+        {
+          "text": "When the house fell apart, somehow it landed on you.",
+          "weights": {
+            "its-all-my-fault": 3
+          }
+        }
       ]
     },
     {
       "text": "When you make a mistake at work or with a friend, what happens inside?",
       "options": [
-        { "text": "A flood of shame, like the mistake proves something about you.", "weights": { "its-all-my-fault": 2, "im-not-enough": 1 } },
-        { "text": "You scramble to fix it so they won't think less of you.", "weights": { "i-have-to-earn-love": 3 } },
-        { "text": "You go quiet and small so nobody notices you slipped.", "weights": { "im-too-much": 2 } },
-        { "text": "You expect the worst reaction and put your walls up.", "weights": { "its-not-safe-to-trust": 2 } }
+        {
+          "text": "A flood of shame, like the mistake proves something about you.",
+          "weights": {
+            "its-all-my-fault": 2,
+            "im-not-enough": 1
+          }
+        },
+        {
+          "text": "You scramble to fix it so they won't think less of you.",
+          "weights": {
+            "i-have-to-earn-love": 3
+          }
+        },
+        {
+          "text": "You go quiet and small so nobody notices you slipped.",
+          "weights": {
+            "im-too-much": 2
+          }
+        },
+        {
+          "text": "You expect the worst reaction and put your walls up.",
+          "weights": {
+            "its-not-safe-to-trust": 2
+          }
+        }
       ]
     },
     {
       "text": "A friend offers to help you with something hard. You...",
       "options": [
-        { "text": "Wave it off. You don't want to be a burden.", "weights": { "im-too-much": 3 } },
-        { "text": "Feel like you have to repay them fast so it stays even.", "weights": { "i-have-to-earn-love": 3 } },
-        { "text": "Wonder what they actually want from you.", "weights": { "its-not-safe-to-trust": 3 } },
-        { "text": "Assume they're just being polite and don't really mean it.", "weights": { "im-not-enough": 2 } }
+        {
+          "text": "Wave it off. You don't want to be a burden.",
+          "weights": {
+            "im-too-much": 3
+          }
+        },
+        {
+          "text": "Feel like you have to repay them fast so it stays even.",
+          "weights": {
+            "i-have-to-earn-love": 3
+          }
+        },
+        {
+          "text": "Wonder what they actually want from you.",
+          "weights": {
+            "its-not-safe-to-trust": 3
+          }
+        },
+        {
+          "text": "Assume they're just being polite and don't really mean it.",
+          "weights": {
+            "im-not-enough": 2
+          }
+        }
       ]
     },
     {
       "text": "Which sentence makes your chest tighten the most?",
       "options": [
-        { "text": "\"You're too sensitive.\"", "weights": { "im-too-much": 3 } },
-        { "text": "\"You could have done better.\"", "weights": { "im-not-enough": 3 } },
-        { "text": "\"Just trust me.\"", "weights": { "its-not-safe-to-trust": 3 } },
-        { "text": "\"This is on you.\"", "weights": { "its-all-my-fault": 3 } }
+        {
+          "text": "\"You're too sensitive.\"",
+          "weights": {
+            "im-too-much": 3
+          }
+        },
+        {
+          "text": "\"You could have done better.\"",
+          "weights": {
+            "im-not-enough": 3
+          }
+        },
+        {
+          "text": "\"Just trust me.\"",
+          "weights": {
+            "its-not-safe-to-trust": 3
+          }
+        },
+        {
+          "text": "\"This is on you.\"",
+          "weights": {
+            "its-all-my-fault": 3
+          }
+        }
       ]
     },
     {
       "text": "When things are calm and good for a while, you tend to...",
       "options": [
-        { "text": "Wait for it to fall apart, because it always does.", "weights": { "its-not-safe-to-trust": 3 } },
-        { "text": "Feel like you don't deserve it and brace for the bill.", "weights": { "i-have-to-earn-love": 2, "im-not-enough": 1 } },
-        { "text": "Keep busy proving you've earned the peace.", "weights": { "i-have-to-earn-love": 3 } },
-        { "text": "Quietly assume you'll be the one to ruin it.", "weights": { "its-all-my-fault": 2 } }
+        {
+          "text": "Wait for it to fall apart, because it always does.",
+          "weights": {
+            "its-not-safe-to-trust": 3
+          }
+        },
+        {
+          "text": "Feel like you don't deserve it and brace for the bill.",
+          "weights": {
+            "i-have-to-earn-love": 2,
+            "im-not-enough": 1
+          }
+        },
+        {
+          "text": "Keep busy proving you've earned the peace.",
+          "weights": {
+            "i-have-to-earn-love": 3
+          }
+        },
+        {
+          "text": "Quietly assume you'll be the one to ruin it.",
+          "weights": {
+            "its-all-my-fault": 2
+          }
+        }
       ]
     },
     {
       "text": "If God Himself sat down across from you right now, your gut reaction would be...",
       "options": [
-        { "text": "Surely He's a little disappointed in me.", "weights": { "im-not-enough": 2, "i-have-to-earn-love": 1 } },
-        { "text": "I'd better get my act together before He gets too close.", "weights": { "i-have-to-earn-love": 3 } },
-        { "text": "Part of me wonders if He'll really stay.", "weights": { "its-not-safe-to-trust": 2 } },
-        { "text": "I'd apologize for taking up His time.", "weights": { "im-too-much": 2 } }
+        {
+          "text": "Surely He's a little disappointed in me.",
+          "weights": {
+            "im-not-enough": 2,
+            "i-have-to-earn-love": 1
+          }
+        },
+        {
+          "text": "I'd better get my act together before He gets too close.",
+          "weights": {
+            "i-have-to-earn-love": 3
+          }
+        },
+        {
+          "text": "Part of me wonders if He'll really stay.",
+          "weights": {
+            "its-not-safe-to-trust": 2
+          }
+        },
+        {
+          "text": "I'd apologize for taking up His time.",
+          "weights": {
+            "im-too-much": 2
+          }
+        }
       ]
     },
     {
       "text": "When something good happens, the harshest thing you say to yourself is...",
       "options": [
-        { "text": "Don't get used to it. You always go too far eventually.", "weights": { "im-too-much": 2 } },
-        { "text": "It's not enough yet, and neither are you.", "weights": { "im-not-enough": 3 } },
-        { "text": "Whatever just broke is somehow your doing.", "weights": { "its-all-my-fault": 3 } },
-        { "text": "Don't let your guard down now.", "weights": { "its-not-safe-to-trust": 2 } }
+        {
+          "text": "Don't get used to it. You always go too far eventually.",
+          "weights": {
+            "im-too-much": 2
+          }
+        },
+        {
+          "text": "It's not enough yet, and neither are you.",
+          "weights": {
+            "im-not-enough": 3
+          }
+        },
+        {
+          "text": "Whatever just broke is somehow your doing.",
+          "weights": {
+            "its-all-my-fault": 3
+          }
+        },
+        {
+          "text": "Don't let your guard down now.",
+          "weights": {
+            "its-not-safe-to-trust": 2
+          }
+        }
       ]
     }
   ],
@@ -109,27 +314,47 @@
     "im-too-much": {
       "name": "'I'm Too Much'",
       "description": "Somewhere along the way you learned that your feelings, your needs, your whole self took up too much room, so you got good at shrinking. Here's the truth that wound never told you: God made you on purpose, with all of it, and He has never once asked you to be smaller. You don't overwhelm Him. He calls you fearfully and wonderfully made.",
-      "scripture": { "text": "I will praise thee; for I am fearfully and wonderfully made.", "reference": "Psalm 139:14" }
+      "scripture": {
+        "text": "I will give thanks unto thee; for I am fearfully and wonderfully made: Wonderful are thy works; And that my soul knoweth right well.",
+        "reference": "Psalm 139:14",
+        "translation": "ASV"
+      }
     },
     "im-not-enough": {
       "name": "'I'm Not Enough'",
       "description": "You carry a quiet verdict that whatever you bring, it falls a little short. So you push, and it's still never quite enough. But your worth was never a score to chase. You are God's own workmanship, made by His hands, and He doesn't make junk. You were enough to Him before you ever earned a thing.",
-      "scripture": { "text": "For we are his workmanship, created in Christ Jesus unto good works.", "reference": "Ephesians 2:10" }
+      "scripture": {
+        "text": "For we are his workmanship, created in Christ Jesus for good works, which God afore prepared that we should walk in them.",
+        "reference": "Ephesians 2:10",
+        "translation": "ASV"
+      }
     },
     "its-not-safe-to-trust": {
       "name": "'It's Not Safe to Trust'",
       "description": "When the people who should have kept you safe didn't, your heart learned to stay behind a wall. That wall protected you once. It makes sense. But you were not built to live alone behind it. There is One who will never leave you or let you down, and slowly, with Him, you can learn that some love really does stay.",
-      "scripture": { "text": "He shall cover thee with his feathers, and under his wings shalt thou trust.", "reference": "Psalm 91:4" }
+      "scripture": {
+        "text": "He will cover thee with his pinions, And under his wings shalt thou take refuge: His truth is a shield and a buckler.",
+        "reference": "Psalm 91:4",
+        "translation": "ASV"
+      }
     },
     "its-all-my-fault": {
       "name": "'It's All My Fault'",
       "description": "When things fell apart around you, you somehow ended up holding the blame, even for things no child could control. So now you reach for guilt by reflex. Hear this gently: you were not responsible for what was done to you. God is not pointing a finger at you. He is close to your broken heart, and He came to lift the weight you were never meant to carry.",
-      "scripture": { "text": "The Lord is nigh unto them that are of a broken heart.", "reference": "Psalm 34:18" }
+      "scripture": {
+        "text": "Jehovah is nigh unto them that are of a broken heart, And saveth such as are of a contrite spirit.",
+        "reference": "Psalm 34:18",
+        "translation": "ASV"
+      }
     },
     "i-have-to-earn-love": {
       "name": "'I Have to Earn Love'",
       "description": "You learned to perform for affection, to keep the ledger balanced so no one would have a reason to leave. It's exhausting, and a part of you knows it. The love you've been auditioning for is already yours, free and unearned. God loved you while you were still a mess, and He's not waiting for a better version of you to show up.",
-      "scripture": { "text": "But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.", "reference": "Romans 5:8" }
+      "scripture": {
+        "text": "But God commendeth his own love toward us, in that, while we were yet sinners, Christ died for us.",
+        "reference": "Romans 5:8",
+        "translation": "ASV"
+      }
     }
   }
 }

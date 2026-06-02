@@ -10,73 +10,233 @@
     {
       "text": "How did you end up feeling far from God?",
       "options": [
-        { "text": "I walked away on purpose and chased my own way for a while.", "weights": { "prodigal": 2 } },
-        { "text": "I built a life that worked but left me hollow inside.", "weights": { "zacchaeus": 2 } },
-        { "text": "I did not mean to drift. I just wandered off slowly.", "weights": { "lost-sheep": 2 } },
-        { "text": "Shame over my past made me sure I did not belong.", "weights": { "woman-at-the-well": 2 } }
+        {
+          "text": "I walked away on purpose and chased my own way for a while.",
+          "weights": {
+            "prodigal": 2
+          }
+        },
+        {
+          "text": "I built a life that worked but left me hollow inside.",
+          "weights": {
+            "zacchaeus": 2
+          }
+        },
+        {
+          "text": "I did not mean to drift. I just wandered off slowly.",
+          "weights": {
+            "lost-sheep": 2
+          }
+        },
+        {
+          "text": "Shame over my past made me sure I did not belong.",
+          "weights": {
+            "woman-at-the-well": 2
+          }
+        }
       ]
     },
     {
       "text": "What did being lost feel like for you?",
       "options": [
-        { "text": "Like I had blown it so badly I could never go home.", "weights": { "prodigal": 2 } },
-        { "text": "Like I was up a tree, watching life from a distance.", "weights": { "zacchaeus": 2 } },
-        { "text": "Like I was just gone, and no one would even notice.", "weights": { "lost-sheep": 2 } },
-        { "text": "Like everyone knew my story and quietly judged it.", "weights": { "woman-at-the-well": 2 } }
+        {
+          "text": "Like I had blown it so badly I could never go home.",
+          "weights": {
+            "prodigal": 2
+          }
+        },
+        {
+          "text": "Like I was up a tree, watching life from a distance.",
+          "weights": {
+            "zacchaeus": 2
+          }
+        },
+        {
+          "text": "Like I was just gone, and no one would even notice.",
+          "weights": {
+            "lost-sheep": 2
+          }
+        },
+        {
+          "text": "Like everyone knew my story and quietly judged it.",
+          "weights": {
+            "woman-at-the-well": 2
+          }
+        }
       ]
     },
     {
       "text": "What surprised you most about how God came for you?",
       "options": [
-        { "text": "He ran to me before I even finished my apology.", "weights": { "prodigal": 2 } },
-        { "text": "He called me by name and invited Himself into my mess.", "weights": { "zacchaeus": 2 } },
-        { "text": "He left everything to come after just me.", "weights": { "lost-sheep": 2 } },
-        { "text": "He knew everything and still wanted to talk with me.", "weights": { "woman-at-the-well": 2 } }
+        {
+          "text": "He ran to me before I even finished my apology.",
+          "weights": {
+            "prodigal": 2
+          }
+        },
+        {
+          "text": "He called me by name and invited Himself into my mess.",
+          "weights": {
+            "zacchaeus": 2
+          }
+        },
+        {
+          "text": "He left everything to come after just me.",
+          "weights": {
+            "lost-sheep": 2
+          }
+        },
+        {
+          "text": "He knew everything and still wanted to talk with me.",
+          "weights": {
+            "woman-at-the-well": 2
+          }
+        }
       ]
     },
     {
       "text": "Which line lands hardest in your chest?",
       "options": [
-        { "text": "This my son was dead, and is alive again.", "weights": { "prodigal": 2 } },
-        { "text": "Today I must abide at thy house.", "weights": { "zacchaeus": 2 } },
-        { "text": "I have found my sheep which was lost.", "weights": { "lost-sheep": 2 } },
-        { "text": "Come, see a man who told me all things that ever I did.", "weights": { "woman-at-the-well": 2 } }
+        {
+          "text": "This my son was dead, and is alive again.",
+          "weights": {
+            "prodigal": 2
+          }
+        },
+        {
+          "text": "Today I must abide at thy house.",
+          "weights": {
+            "zacchaeus": 2
+          }
+        },
+        {
+          "text": "I have found my sheep which was lost.",
+          "weights": {
+            "lost-sheep": 2
+          }
+        },
+        {
+          "text": "Come, see a man who told me all things that ever I did.",
+          "weights": {
+            "woman-at-the-well": 2
+          }
+        }
       ]
     },
     {
       "text": "What changed once you knew you were found?",
       "options": [
-        { "text": "I came home, and the welcome was bigger than my failure.", "weights": { "prodigal": 2 } },
-        { "text": "I gave back what I had taken and started living open-handed.", "weights": { "zacchaeus": 2 } },
-        { "text": "I finally felt how much I was actually worth to Him.", "weights": { "lost-sheep": 2 } },
-        { "text": "I ran to tell everyone, shame and all.", "weights": { "woman-at-the-well": 2 } }
+        {
+          "text": "I came home, and the welcome was bigger than my failure.",
+          "weights": {
+            "prodigal": 2
+          }
+        },
+        {
+          "text": "I gave back what I had taken and started living open-handed.",
+          "weights": {
+            "zacchaeus": 2
+          }
+        },
+        {
+          "text": "I finally felt how much I was actually worth to Him.",
+          "weights": {
+            "lost-sheep": 2
+          }
+        },
+        {
+          "text": "I ran to tell everyone, shame and all.",
+          "weights": {
+            "woman-at-the-well": 2
+          }
+        }
       ]
     },
     {
       "text": "What do you still wrestle with most?",
       "options": [
-        { "text": "Believing the welcome home is really for someone like me.", "weights": { "prodigal": 2 } },
-        { "text": "Letting people see the real change, not just the old reputation.", "weights": { "zacchaeus": 2 } },
-        { "text": "Feeling like I matter enough for God to pursue.", "weights": { "lost-sheep": 2 } },
-        { "text": "Trusting that my past does not disqualify me.", "weights": { "woman-at-the-well": 2 } }
+        {
+          "text": "Believing the welcome home is really for someone like me.",
+          "weights": {
+            "prodigal": 2
+          }
+        },
+        {
+          "text": "Letting people see the real change, not just the old reputation.",
+          "weights": {
+            "zacchaeus": 2
+          }
+        },
+        {
+          "text": "Feeling like I matter enough for God to pursue.",
+          "weights": {
+            "lost-sheep": 2
+          }
+        },
+        {
+          "text": "Trusting that my past does not disqualify me.",
+          "weights": {
+            "woman-at-the-well": 2
+          }
+        }
       ]
     },
     {
       "text": "How do you most want to be seen by God now?",
       "options": [
-        { "text": "As a child welcomed back, not a servant on probation.", "weights": { "prodigal": 2 } },
-        { "text": "As someone worth showing up for, mess and all.", "weights": { "zacchaeus": 2 } },
-        { "text": "As wanted, searched for, and carried home.", "weights": { "lost-sheep": 2 } },
-        { "text": "As fully known and fully accepted anyway.", "weights": { "woman-at-the-well": 2 } }
+        {
+          "text": "As a child welcomed back, not a servant on probation.",
+          "weights": {
+            "prodigal": 2
+          }
+        },
+        {
+          "text": "As someone worth showing up for, mess and all.",
+          "weights": {
+            "zacchaeus": 2
+          }
+        },
+        {
+          "text": "As wanted, searched for, and carried home.",
+          "weights": {
+            "lost-sheep": 2
+          }
+        },
+        {
+          "text": "As fully known and fully accepted anyway.",
+          "weights": {
+            "woman-at-the-well": 2
+          }
+        }
       ]
     },
     {
       "text": "When you think about belonging now, what do you feel?",
       "options": [
-        { "text": "Relief, like the door was never actually locked.", "weights": { "prodigal": 2 } },
-        { "text": "Surprise that He chose my house out of the whole crowd.", "weights": { "zacchaeus": 2 } },
-        { "text": "Wonder that He would notice one missing me.", "weights": { "lost-sheep": 2 } },
-        { "text": "Freedom, because the thing I hid did not scare Him off.", "weights": { "woman-at-the-well": 2 } }
+        {
+          "text": "Relief, like the door was never actually locked.",
+          "weights": {
+            "prodigal": 2
+          }
+        },
+        {
+          "text": "Surprise that He chose my house out of the whole crowd.",
+          "weights": {
+            "zacchaeus": 2
+          }
+        },
+        {
+          "text": "Wonder that He would notice one missing me.",
+          "weights": {
+            "lost-sheep": 2
+          }
+        },
+        {
+          "text": "Freedom, because the thing I hid did not scare Him off.",
+          "weights": {
+            "woman-at-the-well": 2
+          }
+        }
       ]
     }
   ],
@@ -84,30 +244,62 @@
     "prodigal": {
       "name": "The Prodigal Who Came Home",
       "emoji": "🏡",
-      "traits": ["Returning", "Forgiven", "Welcomed"],
+      "traits": [
+        "Returning",
+        "Forgiven",
+        "Welcomed"
+      ],
       "description": "You know what it is to walk away and wonder if there is any road back. Your story is the father on the porch, running before you can get the apology out. There is no probation, no cold shoulder, just a robe and a feast. You are not a servant earning your way in. You are a child who came home.",
-      "scripture": { "text": "For this my son was dead, and is alive again; he was lost, and is found.", "reference": "Luke 15:24" }
+      "scripture": {
+        "text": "for this my son was dead, and is alive again; he was lost, and is found. And they began to be merry.",
+        "reference": "Luke 15:24",
+        "translation": "ASV"
+      }
     },
     "zacchaeus": {
       "name": "Zacchaeus in the Tree",
       "emoji": "🌳",
-      "traits": ["Curious", "Changed", "Chosen"],
+      "traits": [
+        "Curious",
+        "Changed",
+        "Chosen"
+      ],
       "description": "You watched from a safe distance, sure you were too compromised to be wanted up close. Then Jesus stopped, looked up, and called you by name before you cleaned anything up. He invited Himself into your life as it actually was. Being chosen first is what set you free to change.",
-      "scripture": { "text": "Zacchaeus, make haste, and come down; for to day I must abide at thy house.", "reference": "Luke 19:5" }
+      "scripture": {
+        "text": "And when Jesus came to the place, he looked up, and said unto him, Zacchæus, make haste, and come down; for to-day I must abide at thy house.",
+        "reference": "Luke 19:5",
+        "translation": "ASV"
+      }
     },
     "lost-sheep": {
       "name": "The Lost Sheep",
       "emoji": "🐑",
-      "traits": ["Wandering", "Searched-for", "Carried"],
+      "traits": [
+        "Wandering",
+        "Searched-for",
+        "Carried"
+      ],
       "description": "You did not storm off. You just drifted, one quiet step at a time, until you were far away and half-sure no one would notice. But He left the ninety-nine and came after you. You are worth the whole search to Him, and He carries the found ones home on His shoulders.",
-      "scripture": { "text": "Rejoice with me; for I have found my sheep which was lost.", "reference": "Luke 15:6" }
+      "scripture": {
+        "text": "And when he cometh home, he calleth together his friends and his neighbors, saying unto them, Rejoice with me, for I have found my sheep which was lost.",
+        "reference": "Luke 15:6",
+        "translation": "ASV"
+      }
     },
     "woman-at-the-well": {
       "name": "The Woman at the Well",
       "emoji": "🪣",
-      "traits": ["Known", "Accepted", "Sent"],
+      "traits": [
+        "Known",
+        "Accepted",
+        "Sent"
+      ],
       "description": "You carry a story you assumed would push God away if He really knew. He met you in the heat of the day, named everything, and stayed anyway. Being fully known and still wanted is the thing that healed you. The past you tried to hide became the testimony you could not stop sharing.",
-      "scripture": { "text": "Come, see a man, which told me all things that ever I did: is not this the Christ?", "reference": "John 4:29" }
+      "scripture": {
+        "text": "Come, see a man, who told me all things that ever I did: can this be the Christ?",
+        "reference": "John 4:29",
+        "translation": "ASV"
+      }
     }
   }
 }

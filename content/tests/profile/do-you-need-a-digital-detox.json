@@ -16,82 +16,262 @@
     {
       "text": "What's the first thing you reach for in the morning?",
       "options": [
-        { "text": "Not my phone. I ease into the day first.", "weights": { "youre-fine": 3 } },
-        { "text": "My phone, but only for a quick check.", "weights": { "light-fast": 3 } },
-        { "text": "My phone, and I lose a good chunk of time to it.", "weights": { "real-detox": 3 } },
-        { "text": "My phone, before my feet even hit the floor.", "weights": { "emergency-unplug": 3 } }
+        {
+          "text": "Not my phone. I ease into the day first.",
+          "weights": {
+            "youre-fine": 3
+          }
+        },
+        {
+          "text": "My phone, but only for a quick check.",
+          "weights": {
+            "light-fast": 3
+          }
+        },
+        {
+          "text": "My phone, and I lose a good chunk of time to it.",
+          "weights": {
+            "real-detox": 3
+          }
+        },
+        {
+          "text": "My phone, before my feet even hit the floor.",
+          "weights": {
+            "emergency-unplug": 3
+          }
+        }
       ]
     },
     {
       "text": "If your screen time report came up right now, how would you feel?",
       "options": [
-        { "text": "Pretty fine. It's reasonable.", "weights": { "youre-fine": 3 } },
-        { "text": "A little sheepish, but nothing alarming.", "weights": { "light-fast": 3 } },
-        { "text": "Honestly uncomfortable. It's higher than I'd admit.", "weights": { "real-detox": 3 } },
-        { "text": "Genuinely shocked at where the hours went.", "weights": { "emergency-unplug": 3 } }
+        {
+          "text": "Pretty fine. It's reasonable.",
+          "weights": {
+            "youre-fine": 3
+          }
+        },
+        {
+          "text": "A little sheepish, but nothing alarming.",
+          "weights": {
+            "light-fast": 3
+          }
+        },
+        {
+          "text": "Honestly uncomfortable. It's higher than I'd admit.",
+          "weights": {
+            "real-detox": 3
+          }
+        },
+        {
+          "text": "Genuinely shocked at where the hours went.",
+          "weights": {
+            "emergency-unplug": 3
+          }
+        }
       ]
     },
     {
       "text": "How often do you check your phone without any real reason?",
       "options": [
-        { "text": "Rarely. I use it when I need it, then put it down.", "weights": { "youre-fine": 3 } },
-        { "text": "A few times an hour, more out of habit.", "weights": { "light-fast": 3 } },
-        { "text": "Constantly. My hand goes there on autopilot.", "weights": { "real-detox": 3 } },
-        { "text": "I can't remember the last time I went ten minutes without it.", "weights": { "emergency-unplug": 3 } }
+        {
+          "text": "Rarely. I use it when I need it, then put it down.",
+          "weights": {
+            "youre-fine": 3
+          }
+        },
+        {
+          "text": "A few times an hour, more out of habit.",
+          "weights": {
+            "light-fast": 3
+          }
+        },
+        {
+          "text": "Constantly. My hand goes there on autopilot.",
+          "weights": {
+            "real-detox": 3
+          }
+        },
+        {
+          "text": "I can't remember the last time I went ten minutes without it.",
+          "weights": {
+            "emergency-unplug": 3
+          }
+        }
       ]
     },
     {
       "text": "What happens when you try to leave your phone in another room?",
       "options": [
-        { "text": "No problem. I forget about it.", "weights": { "youre-fine": 3 } },
-        { "text": "A small itch, but I manage fine.", "weights": { "light-fast": 3 } },
-        { "text": "I get restless and go grab it before long.", "weights": { "real-detox": 3 } },
-        { "text": "I feel anxious, like I'm missing something important.", "weights": { "emergency-unplug": 3 } }
+        {
+          "text": "No problem. I forget about it.",
+          "weights": {
+            "youre-fine": 3
+          }
+        },
+        {
+          "text": "A small itch, but I manage fine.",
+          "weights": {
+            "light-fast": 3
+          }
+        },
+        {
+          "text": "I get restless and go grab it before long.",
+          "weights": {
+            "real-detox": 3
+          }
+        },
+        {
+          "text": "I feel anxious, like I'm missing something important.",
+          "weights": {
+            "emergency-unplug": 3
+          }
+        }
       ]
     },
     {
       "text": "How is your phone affecting your time with God?",
       "options": [
-        { "text": "Not much. I keep that time pretty protected.", "weights": { "youre-fine": 3 } },
-        { "text": "It sneaks in sometimes, but I refocus.", "weights": { "light-fast": 3 } },
-        { "text": "It crowds it out more often than I'd like.", "weights": { "real-detox": 3 } },
-        { "text": "Honestly, the screen has mostly replaced it.", "weights": { "emergency-unplug": 3 } }
+        {
+          "text": "Not much. I keep that time pretty protected.",
+          "weights": {
+            "youre-fine": 3
+          }
+        },
+        {
+          "text": "It sneaks in sometimes, but I refocus.",
+          "weights": {
+            "light-fast": 3
+          }
+        },
+        {
+          "text": "It crowds it out more often than I'd like.",
+          "weights": {
+            "real-detox": 3
+          }
+        },
+        {
+          "text": "Honestly, the screen has mostly replaced it.",
+          "weights": {
+            "emergency-unplug": 3
+          }
+        }
       ]
     },
     {
       "text": "When you're with people you love, where's your attention?",
       "options": [
-        { "text": "Fully on them. The phone stays away.", "weights": { "youre-fine": 3 } },
-        { "text": "Mostly on them, with the occasional glance.", "weights": { "light-fast": 3 } },
-        { "text": "Split. I drift to my phone more than I should.", "weights": { "real-detox": 3 } },
-        { "text": "Half there. I'm scrolling even mid-conversation.", "weights": { "emergency-unplug": 3 } }
+        {
+          "text": "Fully on them. The phone stays away.",
+          "weights": {
+            "youre-fine": 3
+          }
+        },
+        {
+          "text": "Mostly on them, with the occasional glance.",
+          "weights": {
+            "light-fast": 3
+          }
+        },
+        {
+          "text": "Split. I drift to my phone more than I should.",
+          "weights": {
+            "real-detox": 3
+          }
+        },
+        {
+          "text": "Half there. I'm scrolling even mid-conversation.",
+          "weights": {
+            "emergency-unplug": 3
+          }
+        }
       ]
     },
     {
       "text": "How does scrolling tend to leave you feeling?",
       "options": [
-        { "text": "Neutral. I don't overdo it.", "weights": { "youre-fine": 3 } },
-        { "text": "Mildly drained if I go a bit too long.", "weights": { "light-fast": 3 } },
-        { "text": "Often anxious, comparing, or weirdly empty.", "weights": { "real-detox": 3 } },
-        { "text": "Wired, restless, and worse about myself.", "weights": { "emergency-unplug": 3 } }
+        {
+          "text": "Neutral. I don't overdo it.",
+          "weights": {
+            "youre-fine": 3
+          }
+        },
+        {
+          "text": "Mildly drained if I go a bit too long.",
+          "weights": {
+            "light-fast": 3
+          }
+        },
+        {
+          "text": "Often anxious, comparing, or weirdly empty.",
+          "weights": {
+            "real-detox": 3
+          }
+        },
+        {
+          "text": "Wired, restless, and worse about myself.",
+          "weights": {
+            "emergency-unplug": 3
+          }
+        }
       ]
     },
     {
       "text": "What's your honest sleep situation with your phone?",
       "options": [
-        { "text": "It's not in my bed, and I sleep fine.", "weights": { "youre-fine": 3 } },
-        { "text": "I scroll a little before bed, then put it down.", "weights": { "light-fast": 3 } },
-        { "text": "It's eating into my sleep more nights than not.", "weights": { "real-detox": 3 } },
-        { "text": "It's the last thing I see at night and the first each morning.", "weights": { "emergency-unplug": 3 } }
+        {
+          "text": "It's not in my bed, and I sleep fine.",
+          "weights": {
+            "youre-fine": 3
+          }
+        },
+        {
+          "text": "I scroll a little before bed, then put it down.",
+          "weights": {
+            "light-fast": 3
+          }
+        },
+        {
+          "text": "It's eating into my sleep more nights than not.",
+          "weights": {
+            "real-detox": 3
+          }
+        },
+        {
+          "text": "It's the last thing I see at night and the first each morning.",
+          "weights": {
+            "emergency-unplug": 3
+          }
+        }
       ]
     },
     {
       "text": "Be honest: deep down, what do you sense you need?",
       "options": [
-        { "text": "Nothing major. I've got a healthy balance.", "weights": { "youre-fine": 3 } },
-        { "text": "A small reset to sharpen up some habits.", "weights": { "light-fast": 3 } },
-        { "text": "A real break to get my attention back.", "weights": { "real-detox": 3 } },
-        { "text": "To unplug hard, before this fully runs my life.", "weights": { "emergency-unplug": 3 } }
+        {
+          "text": "Nothing major. I've got a healthy balance.",
+          "weights": {
+            "youre-fine": 3
+          }
+        },
+        {
+          "text": "A small reset to sharpen up some habits.",
+          "weights": {
+            "light-fast": 3
+          }
+        },
+        {
+          "text": "A real break to get my attention back.",
+          "weights": {
+            "real-detox": 3
+          }
+        },
+        {
+          "text": "To unplug hard, before this fully runs my life.",
+          "weights": {
+            "emergency-unplug": 3
+          }
+        }
       ]
     }
   ],
@@ -99,22 +279,38 @@
     "youre-fine": {
       "name": "You're Fine",
       "description": "Good news, and you can exhale: your relationship with your phone is genuinely healthy. You use it when you need it, you put it down, and it isn't crowding out the people or the God you love. That's rarer than you might think, and it's worth protecting. You don't need a detox. You just need to keep doing what you're doing. Stay aware, since these habits can creep, but for now you've struck a balance most people are chasing. Enjoy the freedom of a phone that serves you instead of the other way around.",
-      "scripture": { "text": "Everything is permissible for me, but not everything is beneficial.", "reference": "1 Corinthians 6:12" }
+      "scripture": {
+        "text": "All things are lawful for me; but not all things are expedient. All things are lawful for me; but I will not be brought under the power of any.",
+        "reference": "1 Corinthians 6:12",
+        "translation": "ASV"
+      }
     },
     "light-fast": {
       "name": "A Light Fast",
       "description": "You're mostly doing well, with a few habits that have started to drift. Nothing alarming, just enough that a short, light fast would do you good, a weekend off social media, or phone-free mornings for a week. Think of it less as punishment and more as a tune-up that sharpens your attention and gives your mind some quiet again. You'll likely notice how much you don't actually miss it. A little intentional space now keeps the small habits from slowly becoming big ones. You've got this. Start with one screen-free stretch and see how it feels.",
-      "scripture": { "text": "So whether you eat or drink or whatever you do, do it all for the glory of God.", "reference": "1 Corinthians 10:31" }
+      "scripture": {
+        "text": "Whether therefore ye eat, or drink, or whatsoever ye do, do all to the glory of God.",
+        "reference": "1 Corinthians 10:31",
+        "translation": "ASV"
+      }
     },
     "real-detox": {
       "name": "A Real Detox",
       "description": "If you're being honest, the phone has more of you than you want it to. It's crowding your time with God, splitting your attention from people, eating your sleep, and often leaving you anxious or empty. That's a real signal, not a reason for shame. You'd benefit from a true detox: a defined stretch off the apps, with limits and a plan for what to do instead. The goal isn't guilt. It's freedom and a clearer mind. Pick a start date, delete a couple of apps for a season, and fill that space with things that actually fill you. Your attention is worth reclaiming.",
-      "scripture": { "text": "Be very careful, then, how you live... making the most of every opportunity.", "reference": "Ephesians 5:15-16" }
+      "scripture": {
+        "text": "Look therefore carefully how ye walk, not as unwise, but as wise; redeeming the time, because the days are evil.",
+        "reference": "Ephesians 5:15-16",
+        "translation": "ASV"
+      }
     },
     "emergency-unplug": {
       "name": "An Emergency Unplug",
       "description": "You asked for honesty, so here it is gently: the screen has a grip on you that's affecting your sleep, your relationships, your peace, and your walk with God, and a casual fast won't be enough. This calls for a real, decisive unplug. That's not a verdict on your worth. It's an act of rescue, and the fact that you can see it clearly is a huge first step. Consider a firm break, deleting the worst apps, setting hard limits, and maybe asking someone to help keep you accountable. You were made for so much more than the feed. Reclaiming your attention is reclaiming your life, and it's absolutely possible.",
-      "scripture": { "text": "It is for freedom that Christ has set us free.", "reference": "Galatians 5:1" }
+      "scripture": {
+        "text": "For freedom did Christ set us free: stand fast therefore, and be not entangled again in a yoke of bondage.",
+        "reference": "Galatians 5:1",
+        "translation": "ASV"
+      }
     }
   }
 }

@@ -16,91 +16,292 @@
     {
       "text": "You walk into a room full of people. What's your inner state?",
       "options": [
-        { "text": "I scan for the exit. I don't really belong in rooms like this.", "weights": { "outsider-looking-in": 3 } },
-        { "text": "I chat with everyone but leave feeling like no one's mine.", "weights": { "always-almost-in": 3 } },
-        { "text": "I'm fine alone in the corner. I prefer it, honestly.", "weights": { "lone-wolf-by-habit": 3 } },
-        { "text": "I find my one or two people and settle in.", "weights": { "quietly-connected": 3 } }
+        {
+          "text": "I scan for the exit. I don't really belong in rooms like this.",
+          "weights": {
+            "outsider-looking-in": 3
+          }
+        },
+        {
+          "text": "I chat with everyone but leave feeling like no one's mine.",
+          "weights": {
+            "always-almost-in": 3
+          }
+        },
+        {
+          "text": "I'm fine alone in the corner. I prefer it, honestly.",
+          "weights": {
+            "lone-wolf-by-habit": 3
+          }
+        },
+        {
+          "text": "I find my one or two people and settle in.",
+          "weights": {
+            "quietly-connected": 3
+          }
+        }
       ]
     },
     {
       "text": "How would you describe your friendships right now?",
       "options": [
-        { "text": "Mostly watching others have what I want.", "weights": { "outsider-looking-in": 3 } },
-        { "text": "Lots of warm acquaintances, no real inner circle.", "weights": { "always-almost-in": 3 } },
-        { "text": "Thin by choice. I keep people at a comfortable distance.", "weights": { "lone-wolf-by-habit": 3 } },
-        { "text": "Few, but real. The kind I can call at midnight.", "weights": { "quietly-connected": 3 } }
+        {
+          "text": "Mostly watching others have what I want.",
+          "weights": {
+            "outsider-looking-in": 3
+          }
+        },
+        {
+          "text": "Lots of warm acquaintances, no real inner circle.",
+          "weights": {
+            "always-almost-in": 3
+          }
+        },
+        {
+          "text": "Thin by choice. I keep people at a comfortable distance.",
+          "weights": {
+            "lone-wolf-by-habit": 3
+          }
+        },
+        {
+          "text": "Few, but real. The kind I can call at midnight.",
+          "weights": {
+            "quietly-connected": 3
+          }
+        }
       ]
     },
     {
       "text": "What's the hardest part of belonging for you?",
       "options": [
-        { "text": "Believing there's even a place for someone like me.", "weights": { "outsider-looking-in": 3 } },
-        { "text": "Getting past friendly to actually close.", "weights": { "always-almost-in": 3 } },
-        { "text": "Wanting it enough to do the work of letting people in.", "weights": { "lone-wolf-by-habit": 3 } },
-        { "text": "Honestly, it's not that hard for me anymore.", "weights": { "quietly-connected": 3 } }
+        {
+          "text": "Believing there's even a place for someone like me.",
+          "weights": {
+            "outsider-looking-in": 3
+          }
+        },
+        {
+          "text": "Getting past friendly to actually close.",
+          "weights": {
+            "always-almost-in": 3
+          }
+        },
+        {
+          "text": "Wanting it enough to do the work of letting people in.",
+          "weights": {
+            "lone-wolf-by-habit": 3
+          }
+        },
+        {
+          "text": "Honestly, it's not that hard for me anymore.",
+          "weights": {
+            "quietly-connected": 3
+          }
+        }
       ]
     },
     {
       "text": "After a group hangout, you usually feel...",
       "options": [
-        { "text": "Like I was there but not really part of it.", "weights": { "outsider-looking-in": 3 } },
-        { "text": "Like I almost connected, but it stayed on the surface.", "weights": { "always-almost-in": 3 } },
-        { "text": "Drained. I'm glad to be home and alone.", "weights": { "lone-wolf-by-habit": 3 } },
-        { "text": "Filled up. I got real time with people I trust.", "weights": { "quietly-connected": 3 } }
+        {
+          "text": "Like I was there but not really part of it.",
+          "weights": {
+            "outsider-looking-in": 3
+          }
+        },
+        {
+          "text": "Like I almost connected, but it stayed on the surface.",
+          "weights": {
+            "always-almost-in": 3
+          }
+        },
+        {
+          "text": "Drained. I'm glad to be home and alone.",
+          "weights": {
+            "lone-wolf-by-habit": 3
+          }
+        },
+        {
+          "text": "Filled up. I got real time with people I trust.",
+          "weights": {
+            "quietly-connected": 3
+          }
+        }
       ]
     },
     {
       "text": "When a group starts to form inside jokes and history, you...",
       "options": [
-        { "text": "Assume I'll always be the one outside the circle.", "weights": { "outsider-looking-in": 3 } },
-        { "text": "Laugh along but feel a half-step behind the closeness.", "weights": { "always-almost-in": 3 } },
-        { "text": "Quietly back away. Closeness asks too much of me.", "weights": { "lone-wolf-by-habit": 3 } },
-        { "text": "Lean in. I've got history with these people too.", "weights": { "quietly-connected": 3 } }
+        {
+          "text": "Assume I'll always be the one outside the circle.",
+          "weights": {
+            "outsider-looking-in": 3
+          }
+        },
+        {
+          "text": "Laugh along but feel a half-step behind the closeness.",
+          "weights": {
+            "always-almost-in": 3
+          }
+        },
+        {
+          "text": "Quietly back away. Closeness asks too much of me.",
+          "weights": {
+            "lone-wolf-by-habit": 3
+          }
+        },
+        {
+          "text": "Lean in. I've got history with these people too.",
+          "weights": {
+            "quietly-connected": 3
+          }
+        }
       ]
     },
     {
       "text": "What's your move when you want connection but feel the pull to retreat?",
       "options": [
-        { "text": "I usually decide they wouldn't want me anyway.", "weights": { "outsider-looking-in": 3 } },
-        { "text": "I show up but never quite say the real thing.", "weights": { "always-almost-in": 2, "lone-wolf-by-habit": 1 } },
-        { "text": "I retreat. Solitude just feels safer than the risk.", "weights": { "lone-wolf-by-habit": 3 } },
-        { "text": "I reach out to one safe person and let them in.", "weights": { "quietly-connected": 3 } }
+        {
+          "text": "I usually decide they wouldn't want me anyway.",
+          "weights": {
+            "outsider-looking-in": 3
+          }
+        },
+        {
+          "text": "I show up but never quite say the real thing.",
+          "weights": {
+            "always-almost-in": 2,
+            "lone-wolf-by-habit": 1
+          }
+        },
+        {
+          "text": "I retreat. Solitude just feels safer than the risk.",
+          "weights": {
+            "lone-wolf-by-habit": 3
+          }
+        },
+        {
+          "text": "I reach out to one safe person and let them in.",
+          "weights": {
+            "quietly-connected": 3
+          }
+        }
       ]
     },
     {
       "text": "Which fear sits underneath the loneliness?",
       "options": [
-        { "text": "That I'm fundamentally on the outside of everything.", "weights": { "outsider-looking-in": 3 } },
-        { "text": "That I'll always be liked but never truly chosen.", "weights": { "always-almost-in": 3 } },
-        { "text": "That if I let people close, I'll get hurt or smothered.", "weights": { "lone-wolf-by-habit": 3 } },
-        { "text": "Not much fear here. I trust the people I've let in.", "weights": { "quietly-connected": 3 } }
+        {
+          "text": "That I'm fundamentally on the outside of everything.",
+          "weights": {
+            "outsider-looking-in": 3
+          }
+        },
+        {
+          "text": "That I'll always be liked but never truly chosen.",
+          "weights": {
+            "always-almost-in": 3
+          }
+        },
+        {
+          "text": "That if I let people close, I'll get hurt or smothered.",
+          "weights": {
+            "lone-wolf-by-habit": 3
+          }
+        },
+        {
+          "text": "Not much fear here. I trust the people I've let in.",
+          "weights": {
+            "quietly-connected": 3
+          }
+        }
       ]
     },
     {
       "text": "At church or any gathering, where do you tend to land?",
       "options": [
-        { "text": "On the edge, slipping out before anyone notices me.", "weights": { "outsider-looking-in": 3 } },
-        { "text": "Surrounded by friendly faces, oddly still lonely.", "weights": { "always-almost-in": 3 } },
-        { "text": "In and out fast. I keep it polite and brief.", "weights": { "lone-wolf-by-habit": 3 } },
-        { "text": "With my small handful of people, present and at ease.", "weights": { "quietly-connected": 3 } }
+        {
+          "text": "On the edge, slipping out before anyone notices me.",
+          "weights": {
+            "outsider-looking-in": 3
+          }
+        },
+        {
+          "text": "Surrounded by friendly faces, oddly still lonely.",
+          "weights": {
+            "always-almost-in": 3
+          }
+        },
+        {
+          "text": "In and out fast. I keep it polite and brief.",
+          "weights": {
+            "lone-wolf-by-habit": 3
+          }
+        },
+        {
+          "text": "With my small handful of people, present and at ease.",
+          "weights": {
+            "quietly-connected": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you most need to hear about belonging?",
       "options": [
-        { "text": "\"There's a seat at the table with your name on it.\"", "weights": { "outsider-looking-in": 3 } },
-        { "text": "\"You are wanted, not just welcome.\"", "weights": { "always-almost-in": 3 } },
-        { "text": "\"It's safe to let someone all the way in.\"", "weights": { "lone-wolf-by-habit": 3 } },
-        { "text": "\"What you've built is good. Keep tending it.\"", "weights": { "quietly-connected": 3 } }
+        {
+          "text": "\"There's a seat at the table with your name on it.\"",
+          "weights": {
+            "outsider-looking-in": 3
+          }
+        },
+        {
+          "text": "\"You are wanted, not just welcome.\"",
+          "weights": {
+            "always-almost-in": 3
+          }
+        },
+        {
+          "text": "\"It's safe to let someone all the way in.\"",
+          "weights": {
+            "lone-wolf-by-habit": 3
+          }
+        },
+        {
+          "text": "\"What you've built is good. Keep tending it.\"",
+          "weights": {
+            "quietly-connected": 3
+          }
+        }
       ]
     },
     {
       "text": "If you named your belonging style in a phrase, it's...",
       "options": [
-        { "text": "Always outside, looking in.", "weights": { "outsider-looking-in": 3 } },
-        { "text": "Always almost in.", "weights": { "always-almost-in": 3 } },
-        { "text": "A lone wolf, mostly by habit.", "weights": { "lone-wolf-by-habit": 3 } },
-        { "text": "Quietly, genuinely connected.", "weights": { "quietly-connected": 3 } }
+        {
+          "text": "Always outside, looking in.",
+          "weights": {
+            "outsider-looking-in": 3
+          }
+        },
+        {
+          "text": "Always almost in.",
+          "weights": {
+            "always-almost-in": 3
+          }
+        },
+        {
+          "text": "A lone wolf, mostly by habit.",
+          "weights": {
+            "lone-wolf-by-habit": 3
+          }
+        },
+        {
+          "text": "Quietly, genuinely connected.",
+          "weights": {
+            "quietly-connected": 3
+          }
+        }
       ]
     }
   ],
@@ -108,22 +309,38 @@
     "outsider-looking-in": {
       "name": "The Outsider Looking In",
       "description": "You spend a lot of life feeling like you're pressed against the glass, watching other people belong to each other. Somewhere along the way you came to expect there isn't really a place for you, so you hover at the edge and slip out early. Hear this carefully: the table you assume has no seat for you was set with you in mind. God's whole pattern is to bring the outsider in, to seat the one everyone overlooked. You were not made to live on the margins of love. Risk one honest step toward a person this week. You belong more than you feel.",
-      "scripture": { "text": "So in Christ we, though many, form one body, and each member belongs to all the others.", "reference": "Romans 12:5" }
+      "scripture": {
+        "text": "so we, who are many, are one body in Christ, and severally members one of another.",
+        "reference": "Romans 12:5",
+        "translation": "ASV"
+      }
     },
     "always-almost-in": {
       "name": "The Always-Almost-In",
       "description": "You're good with people. You're liked, you're easy to be around, and yet you keep walking away from gatherings feeling oddly alone. The gap for you isn't being welcome. It's going from friendly to truly known. You stay one safe layer back, so people enjoy you without ever quite reaching you. The fix is small and scary: say the real thing to one trusted person. Let someone past the pleasant version of you. You don't just want to be welcome. You want to be wanted, and you are, more than the surface ever shows.",
-      "scripture": { "text": "A friend loves at all times, and a brother is born for a time of adversity.", "reference": "Proverbs 17:17" }
+      "scripture": {
+        "text": "A friend loveth at all times; And a brother is born for adversity.",
+        "reference": "Proverbs 17:17",
+        "translation": "ASV"
+      }
     },
     "lone-wolf-by-habit": {
       "name": "The Lone Wolf by Habit",
       "description": "You've gotten comfortable on your own. Solitude feels safe, the company of others feels like a lot, and somewhere back there you decided keeping people at arm's length was simpler than the risk of letting them close. Some of that is real wisdom. Some of it is a wall you built after getting hurt. The trouble is that you were not designed to carry life completely solo. It really is safe to let one person in, slowly, on your terms. You don't have to swing the door wide. Just unlock it.",
-      "scripture": { "text": "Two are better than one, because they have a good return for their labor.", "reference": "Ecclesiastes 4:9" }
+      "scripture": {
+        "text": "Two are better than one, because they have a good reward for their labor.",
+        "reference": "Ecclesiastes 4:9",
+        "translation": "ASV"
+      }
     },
     "quietly-connected": {
       "name": "The Quietly Connected",
       "description": "You've already found something a lot of people are still aching for. You don't need a giant crowd or a packed calendar. You have a few real people, the kind you can call at midnight, and you keep showing up for them. That's not a small thing. That's the good life, quietly. Keep tending those bonds with attention and honesty, and stay alert to the person on the edge of your circle who's looking in. You know how good belonging feels. You're in a perfect spot to hand it to someone else.",
-      "scripture": { "text": "How good and pleasant it is when God's people live together in unity!", "reference": "Psalm 133:1" }
+      "scripture": {
+        "text": "Behold, how good and how pleasant it is For brethren to dwell together in unity!",
+        "reference": "Psalm 133:1",
+        "translation": "ASV"
+      }
     }
   }
 }

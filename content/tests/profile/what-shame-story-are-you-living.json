@@ -16,82 +16,263 @@
     {
       "text": "When you replay a hard interaction in your head, what's the verdict?",
       "options": [
-        { "text": "I was too much again. Too loud, too needy, too intense.", "weights": { "i-am-too-much": 3 } },
-        { "text": "I came up short. I should've been better than that.", "weights": { "i-am-not-enough": 3 } },
-        { "text": "If they really saw me, they'd back away.", "weights": { "if-they-knew-theyd-leave": 3 } },
-        { "text": "There's something broken in me that doesn't get fixed.", "weights": { "i-am-beyond-repair": 3 } }
+        {
+          "text": "I was too much again. Too loud, too needy, too intense.",
+          "weights": {
+            "i-am-too-much": 3
+          }
+        },
+        {
+          "text": "I came up short. I should've been better than that.",
+          "weights": {
+            "i-am-not-enough": 3
+          }
+        },
+        {
+          "text": "If they really saw me, they'd back away.",
+          "weights": {
+            "if-they-knew-theyd-leave": 3
+          }
+        },
+        {
+          "text": "There's something broken in me that doesn't get fixed.",
+          "weights": {
+            "i-am-beyond-repair": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you do with the parts of yourself you don't like?",
       "options": [
-        { "text": "Shrink them. I try to take up less space.", "weights": { "i-am-too-much": 3 } },
-        { "text": "Push harder to compensate and prove I'm worth it.", "weights": { "i-am-not-enough": 3 } },
-        { "text": "Hide them. No one gets to see behind the curtain.", "weights": { "if-they-knew-theyd-leave": 3 } },
-        { "text": "Carry them like proof that I'm a lost cause.", "weights": { "i-am-beyond-repair": 3 } }
+        {
+          "text": "Shrink them. I try to take up less space.",
+          "weights": {
+            "i-am-too-much": 3
+          }
+        },
+        {
+          "text": "Push harder to compensate and prove I'm worth it.",
+          "weights": {
+            "i-am-not-enough": 3
+          }
+        },
+        {
+          "text": "Hide them. No one gets to see behind the curtain.",
+          "weights": {
+            "if-they-knew-theyd-leave": 3
+          }
+        },
+        {
+          "text": "Carry them like proof that I'm a lost cause.",
+          "weights": {
+            "i-am-beyond-repair": 3
+          }
+        }
       ]
     },
     {
       "text": "Which fear hits closest to home?",
       "options": [
-        { "text": "That my bigness exhausts the people I love.", "weights": { "i-am-too-much": 3 } },
-        { "text": "That I'll never quite measure up no matter what.", "weights": { "i-am-not-enough": 3 } },
-        { "text": "That being fully known means being left.", "weights": { "if-they-knew-theyd-leave": 3 } },
-        { "text": "That I've done damage that can't be undone.", "weights": { "i-am-beyond-repair": 3 } }
+        {
+          "text": "That my bigness exhausts the people I love.",
+          "weights": {
+            "i-am-too-much": 3
+          }
+        },
+        {
+          "text": "That I'll never quite measure up no matter what.",
+          "weights": {
+            "i-am-not-enough": 3
+          }
+        },
+        {
+          "text": "That being fully known means being left.",
+          "weights": {
+            "if-they-knew-theyd-leave": 3
+          }
+        },
+        {
+          "text": "That I've done damage that can't be undone.",
+          "weights": {
+            "i-am-beyond-repair": 3
+          }
+        }
       ]
     },
     {
       "text": "Where do you think this story came from?",
       "options": [
-        { "text": "Being told to calm down, tone it down, be less.", "weights": { "i-am-too-much": 3 } },
-        { "text": "Love that always seemed just out of reach.", "weights": { "i-am-not-enough": 2, "if-they-knew-theyd-leave": 1 } },
-        { "text": "Learning early that the real me wasn't safe to show.", "weights": { "if-they-knew-theyd-leave": 3 } },
-        { "text": "A failure or sin I've never been able to forgive myself for.", "weights": { "i-am-beyond-repair": 3 } }
+        {
+          "text": "Being told to calm down, tone it down, be less.",
+          "weights": {
+            "i-am-too-much": 3
+          }
+        },
+        {
+          "text": "Love that always seemed just out of reach.",
+          "weights": {
+            "i-am-not-enough": 2,
+            "if-they-knew-theyd-leave": 1
+          }
+        },
+        {
+          "text": "Learning early that the real me wasn't safe to show.",
+          "weights": {
+            "if-they-knew-theyd-leave": 3
+          }
+        },
+        {
+          "text": "A failure or sin I've never been able to forgive myself for.",
+          "weights": {
+            "i-am-beyond-repair": 3
+          }
+        }
       ]
     },
     {
       "text": "How does shame show up in your relationships?",
       "options": [
-        { "text": "I apologize for existing and worry I'm a burden.", "weights": { "i-am-too-much": 3 } },
-        { "text": "I overgive, hoping it makes me enough to keep around.", "weights": { "i-am-not-enough": 3 } },
-        { "text": "I keep people at a safe distance so they can't really see.", "weights": { "if-they-knew-theyd-leave": 3 } },
-        { "text": "I assume I'll ruin it eventually, so why get close.", "weights": { "i-am-beyond-repair": 3 } }
+        {
+          "text": "I apologize for existing and worry I'm a burden.",
+          "weights": {
+            "i-am-too-much": 3
+          }
+        },
+        {
+          "text": "I overgive, hoping it makes me enough to keep around.",
+          "weights": {
+            "i-am-not-enough": 3
+          }
+        },
+        {
+          "text": "I keep people at a safe distance so they can't really see.",
+          "weights": {
+            "if-they-knew-theyd-leave": 3
+          }
+        },
+        {
+          "text": "I assume I'll ruin it eventually, so why get close.",
+          "weights": {
+            "i-am-beyond-repair": 3
+          }
+        }
       ]
     },
     {
       "text": "What does the voice in your head say on a bad day?",
       "options": [
-        { "text": "You're too much for everyone.", "weights": { "i-am-too-much": 3 } },
-        { "text": "You're just not enough.", "weights": { "i-am-not-enough": 3 } },
-        { "text": "If they knew the truth, they'd be gone.", "weights": { "if-they-knew-theyd-leave": 3 } },
-        { "text": "You're too far gone to fix.", "weights": { "i-am-beyond-repair": 3 } }
+        {
+          "text": "You're too much for everyone.",
+          "weights": {
+            "i-am-too-much": 3
+          }
+        },
+        {
+          "text": "You're just not enough.",
+          "weights": {
+            "i-am-not-enough": 3
+          }
+        },
+        {
+          "text": "If they knew the truth, they'd be gone.",
+          "weights": {
+            "if-they-knew-theyd-leave": 3
+          }
+        },
+        {
+          "text": "You're too far gone to fix.",
+          "weights": {
+            "i-am-beyond-repair": 3
+          }
+        }
       ]
     },
     {
       "text": "How do you relate to God in the middle of this?",
       "options": [
-        { "text": "I figure even He must find me a lot to deal with.", "weights": { "i-am-too-much": 3 } },
-        { "text": "I work to earn His approval and never feel like I have it.", "weights": { "i-am-not-enough": 3 } },
-        { "text": "I keep the worst of me hidden, even from Him.", "weights": { "if-they-knew-theyd-leave": 3 } },
-        { "text": "I wonder if I'm past the point where grace reaches.", "weights": { "i-am-beyond-repair": 3 } }
+        {
+          "text": "I figure even He must find me a lot to deal with.",
+          "weights": {
+            "i-am-too-much": 3
+          }
+        },
+        {
+          "text": "I work to earn His approval and never feel like I have it.",
+          "weights": {
+            "i-am-not-enough": 3
+          }
+        },
+        {
+          "text": "I keep the worst of me hidden, even from Him.",
+          "weights": {
+            "if-they-knew-theyd-leave": 3
+          }
+        },
+        {
+          "text": "I wonder if I'm past the point where grace reaches.",
+          "weights": {
+            "i-am-beyond-repair": 3
+          }
+        }
       ]
     },
     {
       "text": "What would actually feel like freedom?",
       "options": [
-        { "text": "Being fully myself without bracing for rejection.", "weights": { "i-am-too-much": 3 } },
-        { "text": "Knowing I'm loved without having to earn a thing.", "weights": { "i-am-not-enough": 3 } },
-        { "text": "Being completely known and still completely welcome.", "weights": { "if-they-knew-theyd-leave": 3 } },
-        { "text": "Believing nothing I've done is bigger than God's grace.", "weights": { "i-am-beyond-repair": 3 } }
+        {
+          "text": "Being fully myself without bracing for rejection.",
+          "weights": {
+            "i-am-too-much": 3
+          }
+        },
+        {
+          "text": "Knowing I'm loved without having to earn a thing.",
+          "weights": {
+            "i-am-not-enough": 3
+          }
+        },
+        {
+          "text": "Being completely known and still completely welcome.",
+          "weights": {
+            "if-they-knew-theyd-leave": 3
+          }
+        },
+        {
+          "text": "Believing nothing I've done is bigger than God's grace.",
+          "weights": {
+            "i-am-beyond-repair": 3
+          }
+        }
       ]
     },
     {
       "text": "Finish it honestly. The story shame keeps telling me is...",
       "options": [
-        { "text": "I am too much.", "weights": { "i-am-too-much": 3 } },
-        { "text": "I am not enough.", "weights": { "i-am-not-enough": 3 } },
-        { "text": "If they knew, they'd leave.", "weights": { "if-they-knew-theyd-leave": 3 } },
-        { "text": "I am beyond repair.", "weights": { "i-am-beyond-repair": 3 } }
+        {
+          "text": "I am too much.",
+          "weights": {
+            "i-am-too-much": 3
+          }
+        },
+        {
+          "text": "I am not enough.",
+          "weights": {
+            "i-am-not-enough": 3
+          }
+        },
+        {
+          "text": "If they knew, they'd leave.",
+          "weights": {
+            "if-they-knew-theyd-leave": 3
+          }
+        },
+        {
+          "text": "I am beyond repair.",
+          "weights": {
+            "i-am-beyond-repair": 3
+          }
+        }
       ]
     }
   ],
@@ -99,22 +280,38 @@
     "i-am-too-much": {
       "name": "I Am Too Much",
       "description": "Somewhere you learned that your bigness was a problem, so now you shrink: your feelings, your needs, your presence. But God didn't make you by accident, and He doesn't ask you to be smaller to be loved. The same intensity you apologize for is part of how He wired you on purpose. You were knit together with care, and there is nothing about you He wants to tone down to tolerate.",
-      "scripture": { "text": "I will praise thee; for I am fearfully and wonderfully made.", "reference": "Psalm 139:14" }
+      "scripture": {
+        "text": "I will give thanks unto thee; for I am fearfully and wonderfully made: Wonderful are thy works; And that my soul knoweth right well.",
+        "reference": "Psalm 139:14",
+        "translation": "ASV"
+      }
     },
     "i-am-not-enough": {
       "name": "I Am Not Enough",
       "description": "You're stuck in a loop of trying to earn a love that already exists. No matter how much you do, the finish line keeps moving, because shame moves it. Here's what breaks it: your enoughness was never the point. God's grace is. He calls you enough not because you measured up but because He covers what you lack. You can stop auditioning. The part is already yours.",
-      "scripture": { "text": "My grace is sufficient for thee: for my strength is made perfect in weakness.", "reference": "2 Corinthians 12:9" }
+      "scripture": {
+        "text": "And he hath said unto me, My grace is sufficient for thee: for my power is made perfect in weakness. Most gladly therefore will I rather glory in my weaknesses, that the power of Christ may rest upon me.",
+        "reference": "2 Corinthians 12:9",
+        "translation": "ASV"
+      }
     },
     "if-they-knew-theyd-leave": {
       "name": "If They Knew, They'd Leave",
       "description": "You keep a curated version of yourself out front and the real you safely hidden, sure that exposure means abandonment. But God already knows all of it, the parts you'd never show anyone, and He has not walked away. He searched you completely and stayed. You are not one secret away from being unlovable. You are fully known and fully kept, at the same time.",
-      "scripture": { "text": "O Lord, thou hast searched me, and known me.", "reference": "Psalm 139:1" }
+      "scripture": {
+        "text": "O Jehovah, thou hast searched me, and knownme.",
+        "reference": "Psalm 139:1",
+        "translation": "ASV"
+      }
     },
     "i-am-beyond-repair": {
       "name": "I Am Beyond Repair",
       "description": "Shame has convinced you that what you've done or what was done to you put you past the reach of grace. It's a lie, and it's a heavy one. There is no failure too far gone for God, no person He's written off, no damage His mercy can't reach. He specializes in restoring the things everyone else called ruined. You are not a lost cause. You are exactly the kind of person He came for.",
-      "scripture": { "text": "If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness.", "reference": "1 John 1:9" }
+      "scripture": {
+        "text": "If we confess our sins, he is faithful and righteous to forgive us our sins, and to cleanse us from all unrighteousness.",
+        "reference": "1 John 1:9",
+        "translation": "ASV"
+      }
     }
   }
 }

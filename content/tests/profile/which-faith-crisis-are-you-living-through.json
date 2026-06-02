@@ -17,82 +17,263 @@
     {
       "text": "When you trace your crisis back to its start, what do you find?",
       "options": [
-        { "text": "A question I couldn't answer that cracked the whole thing open.", "weights": { "intellectual-wall": 3 } },
-        { "text": "Something terrible happened, and God didn't stop it.", "weights": { "suffering-crisis": 3 } },
-        { "text": "People in the church hurt me in His name.", "weights": { "church-hurt-crisis": 3 } },
-        { "text": "He just went quiet, and the silence broke something.", "weights": { "silence-crisis": 3 } }
+        {
+          "text": "A question I couldn't answer that cracked the whole thing open.",
+          "weights": {
+            "intellectual-wall": 3
+          }
+        },
+        {
+          "text": "Something terrible happened, and God didn't stop it.",
+          "weights": {
+            "suffering-crisis": 3
+          }
+        },
+        {
+          "text": "People in the church hurt me in His name.",
+          "weights": {
+            "church-hurt-crisis": 3
+          }
+        },
+        {
+          "text": "He just went quiet, and the silence broke something.",
+          "weights": {
+            "silence-crisis": 3
+          }
+        }
       ]
     },
     {
       "text": "What keeps you up at night?",
       "options": [
-        { "text": "Doubts and arguments I can't seem to resolve.", "weights": { "intellectual-wall": 3 } },
-        { "text": "Why a good God allowed the pain I went through.", "weights": { "suffering-crisis": 3 } },
-        { "text": "The faces and words of people who wounded me at church.", "weights": { "church-hurt-crisis": 3 } },
-        { "text": "How tired I am of trying to keep my faith alive.", "weights": { "burnout-crisis": 3 } }
+        {
+          "text": "Doubts and arguments I can't seem to resolve.",
+          "weights": {
+            "intellectual-wall": 3
+          }
+        },
+        {
+          "text": "Why a good God allowed the pain I went through.",
+          "weights": {
+            "suffering-crisis": 3
+          }
+        },
+        {
+          "text": "The faces and words of people who wounded me at church.",
+          "weights": {
+            "church-hurt-crisis": 3
+          }
+        },
+        {
+          "text": "How tired I am of trying to keep my faith alive.",
+          "weights": {
+            "burnout-crisis": 3
+          }
+        }
       ]
     },
     {
       "text": "What's your honest feeling toward God right now?",
       "options": [
-        { "text": "Confused. I'm not even sure what I believe is true.", "weights": { "intellectual-wall": 3 } },
-        { "text": "Betrayed. I trusted Him and He let me down.", "weights": { "suffering-crisis": 3 } },
-        { "text": "Wary. His people burned me, so I keep my distance.", "weights": { "church-hurt-crisis": 3 } },
-        { "text": "Abandoned. I prayed and prayed and heard nothing.", "weights": { "silence-crisis": 3 } }
+        {
+          "text": "Confused. I'm not even sure what I believe is true.",
+          "weights": {
+            "intellectual-wall": 3
+          }
+        },
+        {
+          "text": "Betrayed. I trusted Him and He let me down.",
+          "weights": {
+            "suffering-crisis": 3
+          }
+        },
+        {
+          "text": "Wary. His people burned me, so I keep my distance.",
+          "weights": {
+            "church-hurt-crisis": 3
+          }
+        },
+        {
+          "text": "Abandoned. I prayed and prayed and heard nothing.",
+          "weights": {
+            "silence-crisis": 3
+          }
+        }
       ]
     },
     {
       "text": "What does your faith feel like lately?",
       "options": [
-        { "text": "A house of cards one good argument could topple.", "weights": { "intellectual-wall": 3 } },
-        { "text": "A wound that won't close after what I lost.", "weights": { "suffering-crisis": 3 } },
-        { "text": "Tangled up with people who hurt me, hard to separate.", "weights": { "church-hurt-crisis": 3 } },
-        { "text": "An empty tank. I'm running on fumes and exhausted.", "weights": { "burnout-crisis": 3 } }
+        {
+          "text": "A house of cards one good argument could topple.",
+          "weights": {
+            "intellectual-wall": 3
+          }
+        },
+        {
+          "text": "A wound that won't close after what I lost.",
+          "weights": {
+            "suffering-crisis": 3
+          }
+        },
+        {
+          "text": "Tangled up with people who hurt me, hard to separate.",
+          "weights": {
+            "church-hurt-crisis": 3
+          }
+        },
+        {
+          "text": "An empty tank. I'm running on fumes and exhausted.",
+          "weights": {
+            "burnout-crisis": 3
+          }
+        }
       ]
     },
     {
       "text": "Which complaint sounds the most like yours?",
       "options": [
-        { "text": "None of it holds up when I really examine it.", "weights": { "intellectual-wall": 3 } },
-        { "text": "If He's so good, why did He let this happen to me?", "weights": { "suffering-crisis": 3 } },
-        { "text": "I love Jesus, but His people made me want to leave.", "weights": { "church-hurt-crisis": 3 } },
-        { "text": "I keep showing up, and He keeps saying nothing.", "weights": { "silence-crisis": 3 } }
+        {
+          "text": "None of it holds up when I really examine it.",
+          "weights": {
+            "intellectual-wall": 3
+          }
+        },
+        {
+          "text": "If He's so good, why did He let this happen to me?",
+          "weights": {
+            "suffering-crisis": 3
+          }
+        },
+        {
+          "text": "I love Jesus, but His people made me want to leave.",
+          "weights": {
+            "church-hurt-crisis": 3
+          }
+        },
+        {
+          "text": "I keep showing up, and He keeps saying nothing.",
+          "weights": {
+            "silence-crisis": 3
+          }
+        }
       ]
     },
     {
       "text": "What would actually help you most right now?",
       "options": [
-        { "text": "Honest answers, or at least permission to keep asking.", "weights": { "intellectual-wall": 3 } },
-        { "text": "Someone to sit with my grief without fixing it.", "weights": { "suffering-crisis": 3 } },
-        { "text": "A safe place to heal apart from the people who hurt me.", "weights": { "church-hurt-crisis": 3 } },
-        { "text": "Just one clear sign that He's actually still there.", "weights": { "silence-crisis": 3 } }
+        {
+          "text": "Honest answers, or at least permission to keep asking.",
+          "weights": {
+            "intellectual-wall": 3
+          }
+        },
+        {
+          "text": "Someone to sit with my grief without fixing it.",
+          "weights": {
+            "suffering-crisis": 3
+          }
+        },
+        {
+          "text": "A safe place to heal apart from the people who hurt me.",
+          "weights": {
+            "church-hurt-crisis": 3
+          }
+        },
+        {
+          "text": "Just one clear sign that He's actually still there.",
+          "weights": {
+            "silence-crisis": 3
+          }
+        }
       ]
     },
     {
       "text": "How are you relating to other believers these days?",
       "options": [
-        { "text": "I feel like a fraud who secretly questions everything.", "weights": { "intellectual-wall": 2, "burnout-crisis": 1 } },
-        { "text": "I can't stand the easy answers they offer my pain.", "weights": { "suffering-crisis": 3 } },
-        { "text": "I've pulled back. I don't trust church people right now.", "weights": { "church-hurt-crisis": 3 } },
-        { "text": "I'm too drained to keep up the spiritual performance.", "weights": { "burnout-crisis": 3 } }
+        {
+          "text": "I feel like a fraud who secretly questions everything.",
+          "weights": {
+            "intellectual-wall": 2,
+            "burnout-crisis": 1
+          }
+        },
+        {
+          "text": "I can't stand the easy answers they offer my pain.",
+          "weights": {
+            "suffering-crisis": 3
+          }
+        },
+        {
+          "text": "I've pulled back. I don't trust church people right now.",
+          "weights": {
+            "church-hurt-crisis": 3
+          }
+        },
+        {
+          "text": "I'm too drained to keep up the spiritual performance.",
+          "weights": {
+            "burnout-crisis": 3
+          }
+        }
       ]
     },
     {
       "text": "Which sentence lands the hardest?",
       "options": [
-        { "text": "\"You hit a wall your old answers couldn't get you over.\"", "weights": { "intellectual-wall": 3 } },
-        { "text": "\"You feel like God broke a promise He never actually made.\"", "weights": { "suffering-crisis": 3 } },
-        { "text": "\"The wound came from the very place that should've been safe.\"", "weights": { "church-hurt-crisis": 3 } },
-        { "text": "\"You're not doubting God's goodness. You're just empty.\"", "weights": { "burnout-crisis": 3 } }
+        {
+          "text": "\"You hit a wall your old answers couldn't get you over.\"",
+          "weights": {
+            "intellectual-wall": 3
+          }
+        },
+        {
+          "text": "\"You feel like God broke a promise He never actually made.\"",
+          "weights": {
+            "suffering-crisis": 3
+          }
+        },
+        {
+          "text": "\"The wound came from the very place that should've been safe.\"",
+          "weights": {
+            "church-hurt-crisis": 3
+          }
+        },
+        {
+          "text": "\"You're not doubting God's goodness. You're just empty.\"",
+          "weights": {
+            "burnout-crisis": 3
+          }
+        }
       ]
     },
     {
       "text": "Deep down, what are you most afraid of?",
       "options": [
-        { "text": "That if I keep thinking, I'll think my way out of faith.", "weights": { "intellectual-wall": 3 } },
-        { "text": "That I'll never be able to trust Him again after this.", "weights": { "suffering-crisis": 3 } },
-        { "text": "That I'll leave the faith because of what people did.", "weights": { "church-hurt-crisis": 3 } },
-        { "text": "That the silence means He was never really there.", "weights": { "silence-crisis": 3 } }
+        {
+          "text": "That if I keep thinking, I'll think my way out of faith.",
+          "weights": {
+            "intellectual-wall": 3
+          }
+        },
+        {
+          "text": "That I'll never be able to trust Him again after this.",
+          "weights": {
+            "suffering-crisis": 3
+          }
+        },
+        {
+          "text": "That I'll leave the faith because of what people did.",
+          "weights": {
+            "church-hurt-crisis": 3
+          }
+        },
+        {
+          "text": "That the silence means He was never really there.",
+          "weights": {
+            "silence-crisis": 3
+          }
+        }
       ]
     }
   ],
@@ -100,27 +281,47 @@
     "intellectual-wall": {
       "name": "The Intellectual Wall",
       "description": "You ran into a question your old answers couldn't carry you over, and the whole structure started to wobble. Here's something that might surprise you: honest questions are not the enemy of faith. They've often been the doorway to a deeper one. Thomas doubted out loud, and Jesus didn't shame him. He showed him His hands. You're allowed to wrestle, to dig, to ask the hard things. A faith that can survive your real questions is a faith worth having, and it's closer than it feels.",
-      "scripture": { "text": "Stop doubting and believe. My Lord and my God!", "reference": "John 20:27" }
+      "scripture": {
+        "text": "Then saith he to Thomas, Reach hither thy finger, and see my hands; and reach hither thy hand, and put it into my side: and be not faithless, but believing.",
+        "reference": "John 20:27",
+        "translation": "ASV"
+      }
     },
     "suffering-crisis": {
       "name": "The Suffering Crisis (God let me down)",
       "description": "Something broke your heart, and God didn't stop it, and the gap between who you thought He was and what you lived through is where you're stuck. This is one of the oldest cries in Scripture. Job lost everything and demanded answers, and God never scolded him for it. You don't have to pretend you're okay or rush to a tidy verse. Bring Him the anger, the why, the ache. He can hold all of it, and He is closer to your grief than the easy answers ever were.",
-      "scripture": { "text": "My God, my God, why have you forsaken me?", "reference": "Psalm 22:1" }
+      "scripture": {
+        "text": "My God, my God, why hast thou forsaken me? Why art thou sofar from helping me, and from the words of my groaning?",
+        "reference": "Psalm 22:1",
+        "translation": "ASV"
+      }
     },
     "church-hurt-crisis": {
       "name": "The Church-Hurt Crisis",
       "description": "The wound came from the one place that was supposed to be safe, and now you can barely separate God from the people who hurt you in His name. That pain is real, and Jesus takes it seriously. He saved His sharpest words for religious leaders who crushed the very people they were meant to shepherd. He is not them. Give yourself room to heal away from what hurt you, and let Jesus reintroduce Himself, gently, as the One who was angry on your behalf the whole time.",
-      "scripture": { "text": "The Lord is close to the brokenhearted and saves those who are crushed in spirit.", "reference": "Psalm 34:18" }
+      "scripture": {
+        "text": "Jehovah is nigh unto them that are of a broken heart, And saveth such as are of a contrite spirit.",
+        "reference": "Psalm 34:18",
+        "translation": "ASV"
+      }
     },
     "silence-crisis": {
       "name": "The Silence Crisis (He went quiet)",
       "description": "You kept praying, kept showing up, and God just went quiet, and the silence has started to feel like absence. But silence is not the same as abandonment. Some of the most faithful people in the Bible endured long stretches where heaven seemed shut, and God was at work the whole time, unseen. He has not left you. The quiet is not your answer. Keep crying out, even into what feels like nothing. He hears, and the silence will not last forever.",
-      "scripture": { "text": "I waited patiently for the Lord; he turned to me and heard my cry.", "reference": "Psalm 40:1" }
+      "scripture": {
+        "text": "I waited patiently for Jehovah; And he inclined unto me, and heard my cry.",
+        "reference": "Psalm 40:1",
+        "translation": "ASV"
+      }
     },
     "burnout-crisis": {
       "name": "The Burnout Crisis",
       "description": "This isn't really about doubting whether God is good. You're just empty, worn all the way down from running on spiritual fumes. You don't need a better argument. You need rest. Even Elijah, after the highest moment of his life, collapsed and asked to die, and God's answer wasn't a lecture. It was food, sleep, and a gentle whisper. Stop performing. Let Him feed you and quiet you. Your faith isn't gone. It's just exhausted, and exhaustion can be healed.",
-      "scripture": { "text": "Come to me, all you who are weary and burdened, and I will give you rest.", "reference": "Matthew 11:28" }
+      "scripture": {
+        "text": "Come unto me, all ye that labor and are heavy laden, and I will give you rest.",
+        "reference": "Matthew 11:28",
+        "translation": "ASV"
+      }
     }
   }
 }

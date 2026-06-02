@@ -17,91 +17,292 @@
     {
       "text": "When God feels quiet, what's your gut reaction?",
       "options": [
-        { "text": "I rush to fill the silence with noise and distraction.", "weights": { "sit-in-silence": 3 } },
-        { "text": "I realize I've barely opened my Bible lately.", "weights": { "return-to-the-word": 3 } },
-        { "text": "I have a lot of honest, hard feelings I'm holding back.", "weights": { "lament-out-loud": 3 } },
-        { "text": "I wonder if something's gotten between me and Him.", "weights": { "check-for-a-barrier": 3 } }
+        {
+          "text": "I rush to fill the silence with noise and distraction.",
+          "weights": {
+            "sit-in-silence": 3
+          }
+        },
+        {
+          "text": "I realize I've barely opened my Bible lately.",
+          "weights": {
+            "return-to-the-word": 3
+          }
+        },
+        {
+          "text": "I have a lot of honest, hard feelings I'm holding back.",
+          "weights": {
+            "lament-out-loud": 3
+          }
+        },
+        {
+          "text": "I wonder if something's gotten between me and Him.",
+          "weights": {
+            "check-for-a-barrier": 3
+          }
+        }
       ]
     },
     {
       "text": "Which sentence feels most like where you are?",
       "options": [
-        { "text": "I can't seem to be still long enough to hear anything.", "weights": { "sit-in-silence": 3 } },
-        { "text": "I'm waiting on a feeling when His Word is right there.", "weights": { "return-to-the-word": 3 } },
-        { "text": "I'm hurt and I haven't said so out loud.", "weights": { "lament-out-loud": 3 } },
-        { "text": "There's something I've been avoiding dealing with.", "weights": { "check-for-a-barrier": 3 } }
+        {
+          "text": "I can't seem to be still long enough to hear anything.",
+          "weights": {
+            "sit-in-silence": 3
+          }
+        },
+        {
+          "text": "I'm waiting on a feeling when His Word is right there.",
+          "weights": {
+            "return-to-the-word": 3
+          }
+        },
+        {
+          "text": "I'm hurt and I haven't said so out loud.",
+          "weights": {
+            "lament-out-loud": 3
+          }
+        },
+        {
+          "text": "There's something I've been avoiding dealing with.",
+          "weights": {
+            "check-for-a-barrier": 3
+          }
+        }
       ]
     },
     {
       "text": "What does your prayer life look like in this dry stretch?",
       "options": [
-        { "text": "Hurried and crowded. I never just sit with Him.", "weights": { "sit-in-silence": 3 } },
-        { "text": "I keep asking for new direction and ignoring what He's already said.", "weights": { "return-to-the-word": 3 } },
-        { "text": "Polite and surface. I'm not telling Him how I really feel.", "weights": { "lament-out-loud": 3 } },
-        { "text": "Strained, like there's static on the line.", "weights": { "check-for-a-barrier": 3 } }
+        {
+          "text": "Hurried and crowded. I never just sit with Him.",
+          "weights": {
+            "sit-in-silence": 3
+          }
+        },
+        {
+          "text": "I keep asking for new direction and ignoring what He's already said.",
+          "weights": {
+            "return-to-the-word": 3
+          }
+        },
+        {
+          "text": "Polite and surface. I'm not telling Him how I really feel.",
+          "weights": {
+            "lament-out-loud": 3
+          }
+        },
+        {
+          "text": "Strained, like there's static on the line.",
+          "weights": {
+            "check-for-a-barrier": 3
+          }
+        }
       ]
     },
     {
       "text": "Be honest about what's hardest right now.",
       "options": [
-        { "text": "Slowing down enough to actually listen.", "weights": { "sit-in-silence": 3 } },
-        { "text": "Trusting Scripture more than my shifting feelings.", "weights": { "return-to-the-word": 3 } },
-        { "text": "Admitting I'm angry or disappointed with God.", "weights": { "lament-out-loud": 3 } },
-        { "text": "Facing the thing I keep sweeping under the rug.", "weights": { "check-for-a-barrier": 3 } }
+        {
+          "text": "Slowing down enough to actually listen.",
+          "weights": {
+            "sit-in-silence": 3
+          }
+        },
+        {
+          "text": "Trusting Scripture more than my shifting feelings.",
+          "weights": {
+            "return-to-the-word": 3
+          }
+        },
+        {
+          "text": "Admitting I'm angry or disappointed with God.",
+          "weights": {
+            "lament-out-loud": 3
+          }
+        },
+        {
+          "text": "Facing the thing I keep sweeping under the rug.",
+          "weights": {
+            "check-for-a-barrier": 3
+          }
+        }
       ]
     },
     {
       "text": "When you think about the silence, what's underneath it for you?",
       "options": [
-        { "text": "My life is so loud I might be missing His whisper.", "weights": { "sit-in-silence": 3 } },
-        { "text": "I've drifted from the place He usually speaks: His Word.", "weights": { "return-to-the-word": 3 } },
-        { "text": "A grief or anger I haven't let myself voice.", "weights": { "lament-out-loud": 3 } },
-        { "text": "A quiet sense that I need to make something right.", "weights": { "check-for-a-barrier": 3 } }
+        {
+          "text": "My life is so loud I might be missing His whisper.",
+          "weights": {
+            "sit-in-silence": 3
+          }
+        },
+        {
+          "text": "I've drifted from the place He usually speaks: His Word.",
+          "weights": {
+            "return-to-the-word": 3
+          }
+        },
+        {
+          "text": "A grief or anger I haven't let myself voice.",
+          "weights": {
+            "lament-out-loud": 3
+          }
+        },
+        {
+          "text": "A quiet sense that I need to make something right.",
+          "weights": {
+            "check-for-a-barrier": 3
+          }
+        }
       ]
     },
     {
       "text": "How long has this season of silence gone on?",
       "options": [
-        { "text": "A while, and I've filled it with everything but stillness.", "weights": { "sit-in-silence": 3 } },
-        { "text": "Long enough that I've stopped feeding on His Word.", "weights": { "return-to-the-word": 3 } },
-        { "text": "Long, and the unspoken feelings keep building.", "weights": { "lament-out-loud": 3 } },
-        { "text": "Since around the time I started avoiding something.", "weights": { "check-for-a-barrier": 2, "wait-with-trust": 1 } }
+        {
+          "text": "A while, and I've filled it with everything but stillness.",
+          "weights": {
+            "sit-in-silence": 3
+          }
+        },
+        {
+          "text": "Long enough that I've stopped feeding on His Word.",
+          "weights": {
+            "return-to-the-word": 3
+          }
+        },
+        {
+          "text": "Long, and the unspoken feelings keep building.",
+          "weights": {
+            "lament-out-loud": 3
+          }
+        },
+        {
+          "text": "Since around the time I started avoiding something.",
+          "weights": {
+            "check-for-a-barrier": 2,
+            "wait-with-trust": 1
+          }
+        }
       ]
     },
     {
       "text": "What do you suspect God might be doing in the quiet?",
       "options": [
-        { "text": "Inviting me to be still instead of frantic.", "weights": { "sit-in-silence": 3 } },
-        { "text": "Pointing me back to what He's already written down.", "weights": { "return-to-the-word": 3 } },
-        { "text": "Waiting for me to be honest instead of composed.", "weights": { "lament-out-loud": 3 } },
-        { "text": "Growing my trust while I can't see or feel Him.", "weights": { "wait-with-trust": 3 } }
+        {
+          "text": "Inviting me to be still instead of frantic.",
+          "weights": {
+            "sit-in-silence": 3
+          }
+        },
+        {
+          "text": "Pointing me back to what He's already written down.",
+          "weights": {
+            "return-to-the-word": 3
+          }
+        },
+        {
+          "text": "Waiting for me to be honest instead of composed.",
+          "weights": {
+            "lament-out-loud": 3
+          }
+        },
+        {
+          "text": "Growing my trust while I can't see or feel Him.",
+          "weights": {
+            "wait-with-trust": 3
+          }
+        }
       ]
     },
     {
       "text": "Which response do you most resist, even though you sense you need it?",
       "options": [
-        { "text": "Unplugging and just being quiet before Him.", "weights": { "sit-in-silence": 3 } },
-        { "text": "Opening Scripture instead of waiting for goosebumps.", "weights": { "return-to-the-word": 3 } },
-        { "text": "Pouring out the raw stuff in prayer.", "weights": { "lament-out-loud": 3 } },
-        { "text": "Simply waiting without demanding an answer.", "weights": { "wait-with-trust": 3 } }
+        {
+          "text": "Unplugging and just being quiet before Him.",
+          "weights": {
+            "sit-in-silence": 3
+          }
+        },
+        {
+          "text": "Opening Scripture instead of waiting for goosebumps.",
+          "weights": {
+            "return-to-the-word": 3
+          }
+        },
+        {
+          "text": "Pouring out the raw stuff in prayer.",
+          "weights": {
+            "lament-out-loud": 3
+          }
+        },
+        {
+          "text": "Simply waiting without demanding an answer.",
+          "weights": {
+            "wait-with-trust": 3
+          }
+        }
       ]
     },
     {
       "text": "If a wise friend listened to all this, what might they gently say?",
       "options": [
-        { "text": "Maybe stop talking and just sit with Him a while.", "weights": { "sit-in-silence": 3 } },
-        { "text": "Go back to the Word. He already said so much there.", "weights": { "return-to-the-word": 3 } },
-        { "text": "You're allowed to tell God you're hurting.", "weights": { "lament-out-loud": 3 } },
-        { "text": "Is there anything you need to bring into the light?", "weights": { "check-for-a-barrier": 3 } }
+        {
+          "text": "Maybe stop talking and just sit with Him a while.",
+          "weights": {
+            "sit-in-silence": 3
+          }
+        },
+        {
+          "text": "Go back to the Word. He already said so much there.",
+          "weights": {
+            "return-to-the-word": 3
+          }
+        },
+        {
+          "text": "You're allowed to tell God you're hurting.",
+          "weights": {
+            "lament-out-loud": 3
+          }
+        },
+        {
+          "text": "Is there anything you need to bring into the light?",
+          "weights": {
+            "check-for-a-barrier": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you most need to believe about God right now?",
       "options": [
-        { "text": "He's present in the quiet, not absent from it.", "weights": { "sit-in-silence": 3 } },
-        { "text": "His Word is His voice, steady when feelings aren't.", "weights": { "return-to-the-word": 3 } },
-        { "text": "He can handle my honesty and won't turn away.", "weights": { "lament-out-loud": 3 } },
-        { "text": "His timing is trustworthy even when He's silent.", "weights": { "wait-with-trust": 3 } }
+        {
+          "text": "He's present in the quiet, not absent from it.",
+          "weights": {
+            "sit-in-silence": 3
+          }
+        },
+        {
+          "text": "His Word is His voice, steady when feelings aren't.",
+          "weights": {
+            "return-to-the-word": 3
+          }
+        },
+        {
+          "text": "He can handle my honesty and won't turn away.",
+          "weights": {
+            "lament-out-loud": 3
+          }
+        },
+        {
+          "text": "His timing is trustworthy even when He's silent.",
+          "weights": {
+            "wait-with-trust": 3
+          }
+        }
       ]
     }
   ],
@@ -109,27 +310,47 @@
     "sit-in-silence": {
       "name": "Sit in the Silence (don't fill it)",
       "description": "Your instinct is to fill the quiet with noise, but the silence itself might be the invitation. God often speaks in a whisper, and whispers get drowned out by a busy, distracted life. Your practice for this season is to stop filling the gap. Put the phone down, sit still, and just be with Him without an agenda. You may find He was never absent. You just couldn't hear Him over everything else.",
-      "scripture": { "text": "And after the earthquake a fire, but the Lord was not in the fire. And after the fire came a gentle whisper.", "reference": "1 Kings 19:12" }
+      "scripture": {
+        "text": "and after the earthquake a fire; but Jehovah was not in the fire: and after the fire a still small voice.",
+        "reference": "1 Kings 19:12",
+        "translation": "ASV"
+      }
     },
     "return-to-the-word": {
       "name": "Return to the Word",
       "description": "You've been waiting for a feeling, a sign, a goosebump moment, while the clearest place God speaks sits unopened. His voice is steadier than your emotions, and it's recorded for you in Scripture. Your move right now is simple: go back to the Word, even when it feels dry. Read it slowly, expecting Him to meet you there. Feelings come and go, but His Word stays, and it speaks even when your heart feels numb.",
-      "scripture": { "text": "Your word is a lamp for my feet, a light on my path.", "reference": "Psalm 119:105" }
+      "scripture": {
+        "text": "Thy word is a lamp unto my feet, And light unto my path.",
+        "reference": "Psalm 119:105",
+        "translation": "ASV"
+      }
     },
     "lament-out-loud": {
       "name": "Lament Out Loud",
       "description": "You've been keeping it together with God, staying polite when underneath there's hurt, anger, or grief you haven't said out loud. The silence may be waiting on your honesty. Lament is all over the Psalms, and God never once scolded anyone for it. Your practice is to stop performing and start pouring it out. Tell Him exactly how you feel, even the ugly parts. He can take it, and that raw honesty often reopens the conversation.",
-      "scripture": { "text": "How long, Lord? Will you forget me forever? How long will you hide your face from me?", "reference": "Psalm 13:1" }
+      "scripture": {
+        "text": "How long, O Jehovah? wilt thou forget me for ever? How long wilt thou hide thy face from me?",
+        "reference": "Psalm 13:1",
+        "translation": "ASV"
+      }
     },
     "check-for-a-barrier": {
       "name": "Check for a Barrier",
       "description": "There's a quiet sense in you that something has come between you and God, something you've been avoiding rather than facing. The silence might be an invitation to deal with it. This isn't about shame or punishment. It's about clearing the static so you can hear Him again. Ask Him honestly to show you anything that needs to be made right, then bring it into the light. He's quick to meet a heart that turns back toward Him.",
-      "scripture": { "text": "Search me, God, and know my heart; test me and know my anxious thoughts. See if there is any offensive way in me, and lead me in the way everlasting.", "reference": "Psalm 139:23-24" }
+      "scripture": {
+        "text": "Search me, O God, and know my heart: Try me, and know my thoughts; And see if there be any wicked way in me, And lead me in the way everlasting.",
+        "reference": "Psalm 139:23-24",
+        "translation": "ASV"
+      }
     },
     "wait-with-trust": {
       "name": "Wait With Trust",
       "description": "Sometimes the silence isn't a problem to solve. It's a season to be trusted through. You've checked your heart and tended your part, and now the call is simply to wait without demanding an answer. This is the hardest kind of faith, believing God is good and present even when you can't feel or hear Him. He hasn't left. He's growing something in the dark that only grows there. Hold on. The quiet is not the end of the story.",
-      "scripture": { "text": "I waited patiently for the Lord; he turned to me and heard my cry.", "reference": "Psalm 40:1" }
+      "scripture": {
+        "text": "I waited patiently for Jehovah; And he inclined unto me, and heard my cry.",
+        "reference": "Psalm 40:1",
+        "translation": "ASV"
+      }
     }
   }
 }

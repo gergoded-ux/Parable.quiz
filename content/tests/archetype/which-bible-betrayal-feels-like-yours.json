@@ -10,82 +10,268 @@
     {
       "text": "Who was it that betrayed you?",
       "options": [
-        { "text": "My own family, the people who were supposed to protect me.", "weights": { "joseph": 3 } },
-        { "text": "Someone I raised or poured into, who turned against me.", "weights": { "david": 3 } },
-        { "text": "A close friend I trusted completely.", "weights": { "jesus": 3 } },
-        { "text": "Friends who failed me right when I needed them most.", "weights": { "job": 3 } }
+        {
+          "text": "My own family, the people who were supposed to protect me.",
+          "weights": {
+            "joseph": 3
+          }
+        },
+        {
+          "text": "Someone I raised or poured into, who turned against me.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "A close friend I trusted completely.",
+          "weights": {
+            "jesus": 3
+          }
+        },
+        {
+          "text": "Friends who failed me right when I needed them most.",
+          "weights": {
+            "job": 3
+          }
+        }
       ]
     },
     {
       "text": "What stings the most about what happened?",
       "options": [
-        { "text": "That the people closest to me threw me away.", "weights": { "joseph": 3 } },
-        { "text": "That someone I loved deeply schemed against me.", "weights": { "david": 3 } },
-        { "text": "That the betrayal came with a smile and a hug.", "weights": { "jesus": 3 } },
-        { "text": "That the ones meant to comfort me only added to the pain.", "weights": { "job": 3 } }
+        {
+          "text": "That the people closest to me threw me away.",
+          "weights": {
+            "joseph": 3
+          }
+        },
+        {
+          "text": "That someone I loved deeply schemed against me.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "That the betrayal came with a smile and a hug.",
+          "weights": {
+            "jesus": 3
+          }
+        },
+        {
+          "text": "That the ones meant to comfort me only added to the pain.",
+          "weights": {
+            "job": 3
+          }
+        }
       ]
     },
     {
       "text": "How did the betrayal reach you?",
       "options": [
-        { "text": "Through jealousy that festered until they acted.", "weights": { "joseph": 3 } },
-        { "text": "Through someone slowly turning others against me.", "weights": { "david": 3 } },
-        { "text": "Through a single moment of being handed over.", "weights": { "jesus": 3 } },
-        { "text": "Through people who judged me instead of standing with me.", "weights": { "job": 2, "hannah": 1 } }
+        {
+          "text": "Through jealousy that festered until they acted.",
+          "weights": {
+            "joseph": 3
+          }
+        },
+        {
+          "text": "Through someone slowly turning others against me.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "Through a single moment of being handed over.",
+          "weights": {
+            "jesus": 3
+          }
+        },
+        {
+          "text": "Through people who judged me instead of standing with me.",
+          "weights": {
+            "job": 2,
+            "hannah": 1
+          }
+        }
       ]
     },
     {
       "text": "What does the wound make you want to do?",
       "options": [
-        { "text": "Build a wall so my family can never hurt me again.", "weights": { "joseph": 3 } },
-        { "text": "Grieve the relationship and the person I thought they were.", "weights": { "david": 3 } },
-        { "text": "Withdraw from anyone who might get close enough to betray me.", "weights": { "jesus": 3 } },
-        { "text": "Defend myself against people who got the story wrong.", "weights": { "job": 3 } }
+        {
+          "text": "Build a wall so my family can never hurt me again.",
+          "weights": {
+            "joseph": 3
+          }
+        },
+        {
+          "text": "Grieve the relationship and the person I thought they were.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "Withdraw from anyone who might get close enough to betray me.",
+          "weights": {
+            "jesus": 3
+          }
+        },
+        {
+          "text": "Defend myself against people who got the story wrong.",
+          "weights": {
+            "job": 3
+          }
+        }
       ]
     },
     {
       "text": "Which feeling sits heaviest in you?",
       "options": [
-        { "text": "Abandonment. I was tossed aside by my own.", "weights": { "joseph": 3 } },
-        { "text": "Heartbreak. Someone I cherished wanted me gone.", "weights": { "david": 3 } },
-        { "text": "Shock. I never saw it coming from them.", "weights": { "jesus": 3 } },
-        { "text": "Loneliness. Even my support turned on me.", "weights": { "job": 2, "hannah": 1 } }
+        {
+          "text": "Abandonment. I was tossed aside by my own.",
+          "weights": {
+            "joseph": 3
+          }
+        },
+        {
+          "text": "Heartbreak. Someone I cherished wanted me gone.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "Shock. I never saw it coming from them.",
+          "weights": {
+            "jesus": 3
+          }
+        },
+        {
+          "text": "Loneliness. Even my support turned on me.",
+          "weights": {
+            "job": 2,
+            "hannah": 1
+          }
+        }
       ]
     },
     {
       "text": "Has anyone made your pain worse by provoking you?",
       "options": [
-        { "text": "Yes, family rubbing it in only deepened the wound.", "weights": { "joseph": 2, "hannah": 1 } },
-        { "text": "Yes, someone close kept twisting the knife.", "weights": { "david": 3 } },
-        { "text": "Yes, a rival has mocked the very thing I ache for.", "weights": { "hannah": 3 } },
-        { "text": "Yes, the people around me piled on instead of helping.", "weights": { "job": 3 } }
+        {
+          "text": "Yes, family rubbing it in only deepened the wound.",
+          "weights": {
+            "joseph": 2,
+            "hannah": 1
+          }
+        },
+        {
+          "text": "Yes, someone close kept twisting the knife.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "Yes, a rival has mocked the very thing I ache for.",
+          "weights": {
+            "hannah": 3
+          }
+        },
+        {
+          "text": "Yes, the people around me piled on instead of helping.",
+          "weights": {
+            "job": 3
+          }
+        }
       ]
     },
     {
       "text": "Where is your faith in the middle of this?",
       "options": [
-        { "text": "Holding on. I keep believing God can use even this.", "weights": { "joseph": 3 } },
-        { "text": "Aching, but still turning to God with my grief.", "weights": { "david": 3 } },
-        { "text": "Wounded, but choosing to forgive like He did.", "weights": { "jesus": 3 } },
-        { "text": "Wrestling. I am bringing my raw questions to God.", "weights": { "job": 2, "hannah": 1 } }
+        {
+          "text": "Holding on. I keep believing God can use even this.",
+          "weights": {
+            "joseph": 3
+          }
+        },
+        {
+          "text": "Aching, but still turning to God with my grief.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "Wounded, but choosing to forgive like He did.",
+          "weights": {
+            "jesus": 3
+          }
+        },
+        {
+          "text": "Wrestling. I am bringing my raw questions to God.",
+          "weights": {
+            "job": 2,
+            "hannah": 1
+          }
+        }
       ]
     },
     {
       "text": "What do you most need to believe right now?",
       "options": [
-        { "text": "That what they meant for harm, God can turn for good.", "weights": { "joseph": 3 } },
-        { "text": "That God holds my broken heart even in this loss.", "weights": { "david": 3 } },
-        { "text": "That I can forgive without pretending it did not hurt.", "weights": { "jesus": 3 } },
-        { "text": "That God hears me even when no one else does.", "weights": { "job": 2, "hannah": 1 } }
+        {
+          "text": "That what they meant for harm, God can turn for good.",
+          "weights": {
+            "joseph": 3
+          }
+        },
+        {
+          "text": "That God holds my broken heart even in this loss.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "That I can forgive without pretending it did not hurt.",
+          "weights": {
+            "jesus": 3
+          }
+        },
+        {
+          "text": "That God hears me even when no one else does.",
+          "weights": {
+            "job": 2,
+            "hannah": 1
+          }
+        }
       ]
     },
     {
       "text": "If God whispered one thing to you today, you would want it to be...",
       "options": [
-        { "text": "I am writing a bigger story than this betrayal.", "weights": { "joseph": 3 } },
-        { "text": "I am close to your broken heart.", "weights": { "david": 3 } },
-        { "text": "I understand. I was betrayed by a friend too.", "weights": { "jesus": 3 } },
-        { "text": "I see you, even when everyone around you does not.", "weights": { "job": 1, "hannah": 3 } }
+        {
+          "text": "I am writing a bigger story than this betrayal.",
+          "weights": {
+            "joseph": 3
+          }
+        },
+        {
+          "text": "I am close to your broken heart.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "I understand. I was betrayed by a friend too.",
+          "weights": {
+            "jesus": 3
+          }
+        },
+        {
+          "text": "I see you, even when everyone around you does not.",
+          "weights": {
+            "job": 1,
+            "hannah": 3
+          }
+        }
       ]
     }
   ],
@@ -93,37 +279,77 @@
     "joseph": {
       "name": "Joseph (Betrayed by Family)",
       "emoji": "🧥",
-      "traits": ["Wounded", "Hopeful", "Forgiving"],
+      "traits": [
+        "Wounded",
+        "Hopeful",
+        "Forgiving"
+      ],
       "description": "The people who should have protected you are the ones who threw you away, and that is one of the deepest cuts there is. Joseph lived it: sold by his own brothers, far from home, betrayed by blood. Yet God was with him the whole way, and what his brothers meant for harm became the very thing that saved them all. Your story is not over either. The betrayal is real, but so is the God who can turn even this into something redemptive.",
-      "scripture": { "text": "But as for you, ye thought evil against me; but God meant it unto good.", "reference": "Genesis 50:20" }
+      "scripture": {
+        "text": "And as for you, ye meant evil against me; but God meant it for good, to bring to pass, as it is this day, to save much people alive.",
+        "reference": "Genesis 50:20",
+        "translation": "ASV"
+      }
     },
     "david": {
       "name": "David (Betrayed by Absalom, His Son)",
       "emoji": "👑",
-      "traits": ["Heartbroken", "Tender", "Faithful"],
+      "traits": [
+        "Heartbroken",
+        "Tender",
+        "Faithful"
+      ],
       "description": "You poured your love into someone, and they turned against you anyway. David knew that exact heartbreak when his own son Absalom rose up to take everything from him. He wept openly over a child who wanted him gone. Your grief is not weakness, it is love with nowhere to land. Bring the broken pieces to God. He is close to the brokenhearted, and He will not waste a single tear you have cried.",
-      "scripture": { "text": "The Lord is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.", "reference": "Psalm 34:18" }
+      "scripture": {
+        "text": "Jehovah is nigh unto them that are of a broken heart, And saveth such as are of a contrite spirit.",
+        "reference": "Psalm 34:18",
+        "translation": "ASV"
+      }
     },
     "jesus": {
       "name": "Jesus (Betrayed by a Close Friend)",
       "emoji": "✝️",
-      "traits": ["Betrayed", "Gracious", "Understanding"],
+      "traits": [
+        "Betrayed",
+        "Gracious",
+        "Understanding"
+      ],
       "description": "Your betrayal came from someone close, with familiarity and trust, which is why it cut so deep. Jesus felt the very same wound when a friend handed Him over with a kiss. He understands your pain better than anyone, because He lived it. And from that place of betrayal, He still chose forgiveness, not pretending it did not hurt, but refusing to let it harden Him. He can give you the strength to forgive too, in time, without minimizing what was done to you.",
-      "scripture": { "text": "Father, forgive them; for they know not what they do.", "reference": "Luke 23:34" }
+      "scripture": {
+        "text": "And Jesus said, Father, forgive them; for they know not what they do. And parting his garments among them, they cast lots.",
+        "reference": "Luke 23:34",
+        "translation": "ASV"
+      }
     },
     "job": {
       "name": "Job (Failed by His Friends)",
       "emoji": "🪨",
-      "traits": ["Suffering", "Honest", "Steadfast"],
+      "traits": [
+        "Suffering",
+        "Honest",
+        "Steadfast"
+      ],
       "description": "The people who were supposed to comfort you only made the pain worse, judging instead of standing beside you. Job sat in his suffering while his friends piled blame on his shoulders. But Job kept bringing his raw, honest cries straight to God, and in the end God defended him, not them. Your loneliness in this is real, and so is the God who hears you. Keep talking to Him honestly. He is not put off by your questions.",
-      "scripture": { "text": "Miserable comforters are ye all.", "reference": "Job 16:2" }
+      "scripture": {
+        "text": "I have heard many such things: Miserable comforters are ye all.",
+        "reference": "Job 16:2",
+        "translation": "ASV"
+      }
     },
     "hannah": {
       "name": "Hannah (Provoked by a Rival)",
       "emoji": "🕯️",
-      "traits": ["Provoked", "Aching", "Prayerful"],
+      "traits": [
+        "Provoked",
+        "Aching",
+        "Prayerful"
+      ],
       "description": "Someone has rubbed salt in your deepest wound, provoking you over the very thing you long for most. Hannah endured years of a rival mocking her for what she lacked, until she was bitter in soul and weeping. But she poured all of it out to God, holding nothing back, and He heard her. You are not invisible. The God who saw Hannah in her anguish sees you, and your honest, aching prayers reach Him every time.",
-      "scripture": { "text": "I have poured out my soul before the Lord.", "reference": "1 Samuel 1:15" }
+      "scripture": {
+        "text": "And Hannah answered and said, No, my lord, I am a woman of a sorrowful spirit: I have drunk neither wine nor strong drink, but I poured out my soul before Jehovah.",
+        "reference": "1 Samuel 1:15",
+        "translation": "ASV"
+      }
     }
   }
 }

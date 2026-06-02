@@ -10,73 +10,234 @@
     {
       "text": "How would you describe the season you're in right now?",
       "options": [
-        { "text": "Cornered. There's danger behind me and no way forward.", "weights": { "red-sea-shore": 3 } },
-        { "text": "On the edge of something new, about to step in.", "weights": { "jordans-edge": 3 } },
-        { "text": "Waiting on God for something I can't make happen myself.", "weights": { "upper-room": 3 } },
-        { "text": "Confused. Nothing has gone the way I thought it would.", "weights": { "road-to-emmaus": 3 } }
+        {
+          "text": "Cornered. There's danger behind me and no way forward.",
+          "weights": {
+            "red-sea-shore": 3
+          }
+        },
+        {
+          "text": "On the edge of something new, about to step in.",
+          "weights": {
+            "jordans-edge": 3
+          }
+        },
+        {
+          "text": "Waiting on God for something I can't make happen myself.",
+          "weights": {
+            "upper-room": 3
+          }
+        },
+        {
+          "text": "Confused. Nothing has gone the way I thought it would.",
+          "weights": {
+            "road-to-emmaus": 3
+          }
+        }
       ]
     },
     {
       "text": "What does the stuck feeling actually feel like for you?",
       "options": [
-        { "text": "Pure trapped panic, like the walls are closing in.", "weights": { "red-sea-shore": 3 } },
-        { "text": "Nervous anticipation. I can almost see the other side.", "weights": { "jordans-edge": 3 } },
-        { "text": "Restless waiting for power or direction I don't have yet.", "weights": { "upper-room": 3 } },
-        { "text": "A heavy, dragging stuckness I can't seem to shake.", "weights": { "belly-of-the-whale": 3 } }
+        {
+          "text": "Pure trapped panic, like the walls are closing in.",
+          "weights": {
+            "red-sea-shore": 3
+          }
+        },
+        {
+          "text": "Nervous anticipation. I can almost see the other side.",
+          "weights": {
+            "jordans-edge": 3
+          }
+        },
+        {
+          "text": "Restless waiting for power or direction I don't have yet.",
+          "weights": {
+            "upper-room": 3
+          }
+        },
+        {
+          "text": "A heavy, dragging stuckness I can't seem to shake.",
+          "weights": {
+            "belly-of-the-whale": 3
+          }
+        }
       ]
     },
     {
       "text": "When you pray about this season, what comes out?",
       "options": [
-        { "text": "\"God, there's no way out. You have to make one.\"", "weights": { "red-sea-shore": 3 } },
-        { "text": "\"Give me courage to finally cross over.\"", "weights": { "jordans-edge": 3 } },
-        { "text": "\"I'll wait here until You move. Show up.\"", "weights": { "upper-room": 3 } },
-        { "text": "\"I don't understand what You're doing.\"", "weights": { "road-to-emmaus": 3 } }
+        {
+          "text": "\"God, there's no way out. You have to make one.\"",
+          "weights": {
+            "red-sea-shore": 3
+          }
+        },
+        {
+          "text": "\"Give me courage to finally cross over.\"",
+          "weights": {
+            "jordans-edge": 3
+          }
+        },
+        {
+          "text": "\"I'll wait here until You move. Show up.\"",
+          "weights": {
+            "upper-room": 3
+          }
+        },
+        {
+          "text": "\"I don't understand what You're doing.\"",
+          "weights": {
+            "road-to-emmaus": 3
+          }
+        }
       ]
     },
     {
       "text": "What got you to this in-between place?",
       "options": [
-        { "text": "I followed God and hit an impossible dead end.", "weights": { "red-sea-shore": 3 } },
-        { "text": "Years of preparation, and now it's finally time.", "weights": { "jordans-edge": 3 } },
-        { "text": "A promise was made, but it hasn't arrived yet.", "weights": { "upper-room": 3 } },
-        { "text": "Honestly, I think I ran from something I should have faced.", "weights": { "belly-of-the-whale": 3 } }
+        {
+          "text": "I followed God and hit an impossible dead end.",
+          "weights": {
+            "red-sea-shore": 3
+          }
+        },
+        {
+          "text": "Years of preparation, and now it's finally time.",
+          "weights": {
+            "jordans-edge": 3
+          }
+        },
+        {
+          "text": "A promise was made, but it hasn't arrived yet.",
+          "weights": {
+            "upper-room": 3
+          }
+        },
+        {
+          "text": "Honestly, I think I ran from something I should have faced.",
+          "weights": {
+            "belly-of-the-whale": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you most need to hear right now?",
       "options": [
-        { "text": "\"Stand still and watch Me fight for you.\"", "weights": { "red-sea-shore": 3 } },
-        { "text": "\"Be strong and courageous. Step in.\"", "weights": { "jordans-edge": 3 } },
-        { "text": "\"Wait. What I promised is coming.\"", "weights": { "upper-room": 3 } },
-        { "text": "\"I've been walking beside you the whole time.\"", "weights": { "road-to-emmaus": 3 } }
+        {
+          "text": "\"Stand still and watch Me fight for you.\"",
+          "weights": {
+            "red-sea-shore": 3
+          }
+        },
+        {
+          "text": "\"Be strong and courageous. Step in.\"",
+          "weights": {
+            "jordans-edge": 3
+          }
+        },
+        {
+          "text": "\"Wait. What I promised is coming.\"",
+          "weights": {
+            "upper-room": 3
+          }
+        },
+        {
+          "text": "\"I've been walking beside you the whole time.\"",
+          "weights": {
+            "road-to-emmaus": 3
+          }
+        }
       ]
     },
     {
       "text": "Which best captures your relationship with the future?",
       "options": [
-        { "text": "I can't see any path through what's in front of me.", "weights": { "red-sea-shore": 3 } },
-        { "text": "It's right there. I just have to be brave enough to enter.", "weights": { "jordans-edge": 3 } },
-        { "text": "I'm sure something's coming, but I'm stuck waiting on it.", "weights": { "upper-room": 3 } },
-        { "text": "I feel disappointed, like the hope I had didn't pan out.", "weights": { "road-to-emmaus": 3 } }
+        {
+          "text": "I can't see any path through what's in front of me.",
+          "weights": {
+            "red-sea-shore": 3
+          }
+        },
+        {
+          "text": "It's right there. I just have to be brave enough to enter.",
+          "weights": {
+            "jordans-edge": 3
+          }
+        },
+        {
+          "text": "I'm sure something's coming, but I'm stuck waiting on it.",
+          "weights": {
+            "upper-room": 3
+          }
+        },
+        {
+          "text": "I feel disappointed, like the hope I had didn't pan out.",
+          "weights": {
+            "road-to-emmaus": 3
+          }
+        }
       ]
     },
     {
       "text": "Be honest about how long you've felt stuck.",
       "options": [
-        { "text": "It's sudden and intense, a crisis with no exit.", "weights": { "red-sea-shore": 3 } },
-        { "text": "Not long. I sense the season is about to break open.", "weights": { "jordans-edge": 3 } },
-        { "text": "A while, in a holding pattern, waiting for the go.", "weights": { "upper-room": 3 } },
-        { "text": "Too long. I feel swallowed up and out of sight.", "weights": { "belly-of-the-whale": 3 } }
+        {
+          "text": "It's sudden and intense, a crisis with no exit.",
+          "weights": {
+            "red-sea-shore": 3
+          }
+        },
+        {
+          "text": "Not long. I sense the season is about to break open.",
+          "weights": {
+            "jordans-edge": 3
+          }
+        },
+        {
+          "text": "A while, in a holding pattern, waiting for the go.",
+          "weights": {
+            "upper-room": 3
+          }
+        },
+        {
+          "text": "Too long. I feel swallowed up and out of sight.",
+          "weights": {
+            "belly-of-the-whale": 3
+          }
+        }
       ]
     },
     {
       "text": "What's your deepest hope for how this ends?",
       "options": [
-        { "text": "That God parts the impossible and makes a way.", "weights": { "red-sea-shore": 3 } },
-        { "text": "That I cross over into the promise at last.", "weights": { "jordans-edge": 3 } },
-        { "text": "That the waiting ends and the power finally comes.", "weights": { "upper-room": 3 } },
-        { "text": "That God uses even this detour to set me back on course.", "weights": { "belly-of-the-whale": 2, "road-to-emmaus": 1 } }
+        {
+          "text": "That God parts the impossible and makes a way.",
+          "weights": {
+            "red-sea-shore": 3
+          }
+        },
+        {
+          "text": "That I cross over into the promise at last.",
+          "weights": {
+            "jordans-edge": 3
+          }
+        },
+        {
+          "text": "That the waiting ends and the power finally comes.",
+          "weights": {
+            "upper-room": 3
+          }
+        },
+        {
+          "text": "That God uses even this detour to set me back on course.",
+          "weights": {
+            "belly-of-the-whale": 2,
+            "road-to-emmaus": 1
+          }
+        }
       ]
     }
   ],
@@ -84,37 +245,77 @@
     "red-sea-shore": {
       "name": "The Red Sea Shore (Trapped)",
       "emoji": "🌊",
-      "traits": ["Cornered", "Desperate", "Waiting on Rescue"],
+      "traits": [
+        "Cornered",
+        "Desperate",
+        "Waiting on Rescue"
+      ],
       "description": "You're standing where Israel stood, the sea ahead, the enemy behind, and no way out that you can see. It's terrifying, and the panic is real. But notice where God put them: in a dead end on purpose, so they'd see a rescue only He could give. Your job here isn't to fix it. It's to stand still and watch Him work. The God who split the sea hasn't run out of ways to make a path. The wall in front of you is exactly the kind of place He loves to do the impossible.",
-      "scripture": { "text": "Do not be afraid. Stand firm and you will see the deliverance the Lord will bring you today.", "reference": "Exodus 14:13" }
+      "scripture": {
+        "text": "And Moses said unto the people, Fear ye not, stand still, and see the salvation of Jehovah, which he will work for you to-day: for the Egyptians whom ye have seen to-day, ye shall see them again no more for ever.",
+        "reference": "Exodus 14:13",
+        "translation": "ASV"
+      }
     },
     "jordans-edge": {
       "name": "The Jordan's Edge (About to Cross)",
       "emoji": "🏞️",
-      "traits": ["Expectant", "Nervous", "Ready"],
+      "traits": [
+        "Expectant",
+        "Nervous",
+        "Ready"
+      ],
       "description": "You're right where Israel stood before the promised land, the long preparation behind you and the new thing finally within reach. You can almost see the other side. What you need now isn't more waiting, it's courage to step in. Often the Jordan doesn't part until your feet are already in the water. God has gone ahead of you, and He's been getting you ready for exactly this. Don't let fear talk you out of the threshold. Be strong, be brave, and cross over. The promise is on the other side.",
-      "scripture": { "text": "Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.", "reference": "Joshua 1:9" }
+      "scripture": {
+        "text": "Have not I commanded thee? Be strong and of good courage; be not affrighted, neither be thou dismayed: for Jehovah thy God is with thee whithersoever thou goest.",
+        "reference": "Joshua 1:9",
+        "translation": "ASV"
+      }
     },
     "upper-room": {
       "name": "The Upper Room (Waiting for Power)",
       "emoji": "🔥",
-      "traits": ["Waiting", "Praying", "Hopeful"],
+      "traits": [
+        "Waiting",
+        "Praying",
+        "Hopeful"
+      ],
       "description": "Like the disciples after Jesus rose, you're in the holding room, a promise has been made but it hasn't arrived, and all you can do is wait and pray. Waiting like this is hard, especially when you can't make the thing happen yourself. But the upper room wasn't empty time, it was where they prayed together and got ready, and then the promise came in power. Your waiting is not wasted. Stay close to God in it. What He's promised is coming, and the season of staying is preparing you to receive it.",
-      "scripture": { "text": "Do not leave Jerusalem, but wait for the gift my Father promised.", "reference": "Acts 1:4" }
+      "scripture": {
+        "text": "and, being assembled together with them, he charged them not to depart from Jerusalem, but to wait for the promise of the Father, which, said he, ye heard from me:",
+        "reference": "Acts 1:4",
+        "translation": "ASV"
+      }
     },
     "road-to-emmaus": {
       "name": "The Road to Emmaus (Confused)",
       "emoji": "🛤️",
-      "traits": ["Disappointed", "Searching", "Unsure"],
+      "traits": [
+        "Disappointed",
+        "Searching",
+        "Unsure"
+      ],
       "description": "You're walking the Emmaus road, disappointed and confused, because nothing turned out the way you hoped, and you can't make sense of what God is doing. Here's the part that changes everything: those two travelers thought they were alone, but Jesus was walking right beside them the whole time, even when they couldn't recognize Him. He's doing the same with you. Keep walking, keep talking to Him, and watch for the moment your eyes open. The story you think fell apart may be one He's quietly rewriting into something better.",
-      "scripture": { "text": "Were not our hearts burning within us while he talked with us on the road and opened the Scriptures to us?", "reference": "Luke 24:32" }
+      "scripture": {
+        "text": "And they said one to another, Was not our heart burning within us, while he spake to us in the way, while he opened to us the scriptures?",
+        "reference": "Luke 24:32",
+        "translation": "ASV"
+      }
     },
     "belly-of-the-whale": {
       "name": "The Belly of the Whale (Stalled)",
       "emoji": "🐋",
-      "traits": ["Stalled", "Hidden", "Turning Back"],
+      "traits": [
+        "Stalled",
+        "Hidden",
+        "Turning Back"
+      ],
       "description": "You feel swallowed up and stalled, maybe because you ran from something you knew you should face, and now you're in the dark, out of sight, going nowhere. But Jonah's lowest place became his turning point. The belly of the whale wasn't the end of his story, it was where he finally prayed and God set him back on course. You are not beyond reach down here. Cry out honestly, and watch what God does with even this detour. He brought Jonah back to dry land and a second chance, and He can bring you back too.",
-      "scripture": { "text": "In my distress I called to the Lord, and he answered me. From deep in the realm of the dead I called for help, and you listened to my cry.", "reference": "Jonah 2:2" }
+      "scripture": {
+        "text": "And he said, I called by reason of mine affliction unto Jehovah, And he answered me; Out of the belly of Sheol cried I, And thou heardest my voice.",
+        "reference": "Jonah 2:2",
+        "translation": "ASV"
+      }
     }
   }
 }

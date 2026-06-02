@@ -17,82 +17,265 @@
     {
       "text": "Where are you with the faith you grew up around?",
       "options": [
-        { "text": "I'm just starting to notice things that don't add up.", "weights": { "first-cracks": 3 } },
-        { "text": "I'm furious, and I'm questioning all of it.", "weights": { "angry-questioning": 3 } },
-        { "text": "I'm sorting out what was real and what was control.", "weights": { "sifting": 3 } },
-        { "text": "I'm slowly putting something honest back together.", "weights": { "quietly-rebuilding": 3 } }
+        {
+          "text": "I'm just starting to notice things that don't add up.",
+          "weights": {
+            "first-cracks": 3
+          }
+        },
+        {
+          "text": "I'm furious, and I'm questioning all of it.",
+          "weights": {
+            "angry-questioning": 3
+          }
+        },
+        {
+          "text": "I'm sorting out what was real and what was control.",
+          "weights": {
+            "sifting": 3
+          }
+        },
+        {
+          "text": "I'm slowly putting something honest back together.",
+          "weights": {
+            "quietly-rebuilding": 3
+          }
+        }
       ]
     },
     {
       "text": "What's the loudest feeling when you think about church?",
       "options": [
-        { "text": "Unease. A quiet sense that something's off.", "weights": { "first-cracks": 3 } },
-        { "text": "Anger. I feel lied to and used.", "weights": { "angry-questioning": 3 } },
-        { "text": "Caution. I'm weighing every part carefully.", "weights": { "sifting": 3 } },
-        { "text": "Peace, mostly. I've made my own kind of peace with it.", "weights": { "reconstructed": 3 } }
+        {
+          "text": "Unease. A quiet sense that something's off.",
+          "weights": {
+            "first-cracks": 3
+          }
+        },
+        {
+          "text": "Anger. I feel lied to and used.",
+          "weights": {
+            "angry-questioning": 3
+          }
+        },
+        {
+          "text": "Caution. I'm weighing every part carefully.",
+          "weights": {
+            "sifting": 3
+          }
+        },
+        {
+          "text": "Peace, mostly. I've made my own kind of peace with it.",
+          "weights": {
+            "reconstructed": 3
+          }
+        }
       ]
     },
     {
       "text": "How do you handle the beliefs you were handed?",
       "options": [
-        { "text": "I still hold most of them, but a few are starting to wobble.", "weights": { "first-cracks": 3 } },
-        { "text": "I'm tearing the whole thing down to the studs.", "weights": { "angry-questioning": 3 } },
-        { "text": "I'm keeping what's true and dropping what was manipulation.", "weights": { "sifting": 3 } },
-        { "text": "I've rebuilt a faith that's actually mine now.", "weights": { "reconstructed": 3 } }
+        {
+          "text": "I still hold most of them, but a few are starting to wobble.",
+          "weights": {
+            "first-cracks": 3
+          }
+        },
+        {
+          "text": "I'm tearing the whole thing down to the studs.",
+          "weights": {
+            "angry-questioning": 3
+          }
+        },
+        {
+          "text": "I'm keeping what's true and dropping what was manipulation.",
+          "weights": {
+            "sifting": 3
+          }
+        },
+        {
+          "text": "I've rebuilt a faith that's actually mine now.",
+          "weights": {
+            "reconstructed": 3
+          }
+        }
       ]
     },
     {
       "text": "When you pray these days, it sounds like...",
       "options": [
-        { "text": "The same as always, but with a new flicker of doubt.", "weights": { "first-cracks": 3 } },
-        { "text": "Mostly silence, or angry questions I don't say out loud.", "weights": { "angry-questioning": 3 } },
-        { "text": "Honest and a little tentative, testing the water again.", "weights": { "quietly-rebuilding": 3 } },
-        { "text": "Real and unforced, even if it looks different than before.", "weights": { "reconstructed": 3 } }
+        {
+          "text": "The same as always, but with a new flicker of doubt.",
+          "weights": {
+            "first-cracks": 3
+          }
+        },
+        {
+          "text": "Mostly silence, or angry questions I don't say out loud.",
+          "weights": {
+            "angry-questioning": 3
+          }
+        },
+        {
+          "text": "Honest and a little tentative, testing the water again.",
+          "weights": {
+            "quietly-rebuilding": 3
+          }
+        },
+        {
+          "text": "Real and unforced, even if it looks different than before.",
+          "weights": {
+            "reconstructed": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you want most right now?",
       "options": [
-        { "text": "To understand why this uneasy feeling won't go away.", "weights": { "first-cracks": 3 } },
-        { "text": "Someone to admit how much damage was done.", "weights": { "angry-questioning": 3 } },
-        { "text": "Clarity on what's worth keeping and what to release.", "weights": { "sifting": 3 } },
-        { "text": "A safe place to grow something new and slow.", "weights": { "quietly-rebuilding": 3 } }
+        {
+          "text": "To understand why this uneasy feeling won't go away.",
+          "weights": {
+            "first-cracks": 3
+          }
+        },
+        {
+          "text": "Someone to admit how much damage was done.",
+          "weights": {
+            "angry-questioning": 3
+          }
+        },
+        {
+          "text": "Clarity on what's worth keeping and what to release.",
+          "weights": {
+            "sifting": 3
+          }
+        },
+        {
+          "text": "A safe place to grow something new and slow.",
+          "weights": {
+            "quietly-rebuilding": 3
+          }
+        }
       ]
     },
     {
       "text": "How do you feel about Jesus specifically, apart from the church?",
       "options": [
-        { "text": "I haven't really separated the two yet.", "weights": { "first-cracks": 2, "angry-questioning": 1 } },
-        { "text": "I'm not sure I can trust any of it right now.", "weights": { "angry-questioning": 3 } },
-        { "text": "I'm trying to see Him clearly, away from the people who hurt me.", "weights": { "sifting": 3 } },
-        { "text": "He's become the steady center I'm building around.", "weights": { "reconstructed": 2, "quietly-rebuilding": 1 } }
+        {
+          "text": "I haven't really separated the two yet.",
+          "weights": {
+            "first-cracks": 2,
+            "angry-questioning": 1
+          }
+        },
+        {
+          "text": "I'm not sure I can trust any of it right now.",
+          "weights": {
+            "angry-questioning": 3
+          }
+        },
+        {
+          "text": "I'm trying to see Him clearly, away from the people who hurt me.",
+          "weights": {
+            "sifting": 3
+          }
+        },
+        {
+          "text": "He's become the steady center I'm building around.",
+          "weights": {
+            "reconstructed": 2,
+            "quietly-rebuilding": 1
+          }
+        }
       ]
     },
     {
       "text": "When you meet other believers now, you tend to...",
       "options": [
-        { "text": "Wonder if they see the cracks I'm starting to see.", "weights": { "first-cracks": 3 } },
-        { "text": "Feel defensive and braced for more harm.", "weights": { "angry-questioning": 3 } },
-        { "text": "Stay open but watch carefully for red flags.", "weights": { "sifting": 2, "quietly-rebuilding": 1 } },
-        { "text": "Connect freely with the safe ones I've found.", "weights": { "reconstructed": 3 } }
+        {
+          "text": "Wonder if they see the cracks I'm starting to see.",
+          "weights": {
+            "first-cracks": 3
+          }
+        },
+        {
+          "text": "Feel defensive and braced for more harm.",
+          "weights": {
+            "angry-questioning": 3
+          }
+        },
+        {
+          "text": "Stay open but watch carefully for red flags.",
+          "weights": {
+            "sifting": 2,
+            "quietly-rebuilding": 1
+          }
+        },
+        {
+          "text": "Connect freely with the safe ones I've found.",
+          "weights": {
+            "reconstructed": 3
+          }
+        }
       ]
     },
     {
       "text": "How would you describe the last year of your faith?",
       "options": [
-        { "text": "The ground just started to feel a little less solid.", "weights": { "first-cracks": 3 } },
-        { "text": "An earthquake. Everything came down at once.", "weights": { "angry-questioning": 3 } },
-        { "text": "Sorting through the rubble to find what survived.", "weights": { "sifting": 3 } },
-        { "text": "Laying a few new bricks, one careful day at a time.", "weights": { "quietly-rebuilding": 3 } }
+        {
+          "text": "The ground just started to feel a little less solid.",
+          "weights": {
+            "first-cracks": 3
+          }
+        },
+        {
+          "text": "An earthquake. Everything came down at once.",
+          "weights": {
+            "angry-questioning": 3
+          }
+        },
+        {
+          "text": "Sorting through the rubble to find what survived.",
+          "weights": {
+            "sifting": 3
+          }
+        },
+        {
+          "text": "Laying a few new bricks, one careful day at a time.",
+          "weights": {
+            "quietly-rebuilding": 3
+          }
+        }
       ]
     },
     {
       "text": "Which sentence sounds most like you right now?",
       "options": [
-        { "text": "Something isn't right, and I can't unsee it anymore.", "weights": { "first-cracks": 3 } },
-        { "text": "How much of what I believed was even true?", "weights": { "angry-questioning": 3 } },
-        { "text": "I'm learning to tell God's voice from theirs.", "weights": { "sifting": 3 } },
-        { "text": "My faith is mine now, and it finally fits.", "weights": { "reconstructed": 3 } }
+        {
+          "text": "Something isn't right, and I can't unsee it anymore.",
+          "weights": {
+            "first-cracks": 3
+          }
+        },
+        {
+          "text": "How much of what I believed was even true?",
+          "weights": {
+            "angry-questioning": 3
+          }
+        },
+        {
+          "text": "I'm learning to tell God's voice from theirs.",
+          "weights": {
+            "sifting": 3
+          }
+        },
+        {
+          "text": "My faith is mine now, and it finally fits.",
+          "weights": {
+            "reconstructed": 3
+          }
+        }
       ]
     }
   ],
@@ -100,27 +283,47 @@
     "first-cracks": {
       "name": "The First Cracks",
       "description": "You're at the very beginning, where a few things have stopped adding up and you can't quite unsee them. This stage can feel scary, like you're doing something wrong just by noticing. You're not. Honest questions don't offend God, and the cracks you're seeing might be the start of a sturdier, truer faith, not the end of one. Go gently, stay curious, and don't let anyone shame you for being awake.",
-      "scripture": { "text": "Ask and it will be given to you; seek and you will find; knock and the door will be opened to you.", "reference": "Matthew 7:7" }
+      "scripture": {
+        "text": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you:",
+        "reference": "Matthew 7:7",
+        "translation": "ASV"
+      }
     },
     "angry-questioning": {
       "name": "Angry and Questioning Everything",
       "description": "You're in the storm, and the anger is real because the harm was real. Right now you're questioning all of it at once, and that intensity is exhausting. Here's something the system that hurt you probably never told you: God is not afraid of your anger. The Psalms are full of people yelling at heaven and still being held. You don't have to clean up your fury before you bring it to Him. He can take the whole raw thing.",
-      "scripture": { "text": "How long, Lord? Will you forget me forever? How long will you hide your face from me?", "reference": "Psalm 13:1" }
+      "scripture": {
+        "text": "How long, O Jehovah? wilt thou forget me for ever? How long wilt thou hide thy face from me?",
+        "reference": "Psalm 13:1",
+        "translation": "ASV"
+      }
     },
     "sifting": {
       "name": "Sifting What's Real From What Was Control",
       "description": "You've moved into the careful work of sorting, separating what was actually God from what was just human control dressed up as God. This is hard, holy work, and it takes real wisdom. Not everything you were taught was a lie, and not everything was true either. Trust that the Spirit can help you tell the difference. What's genuinely from Him will hold up under honest examination. Keep sifting. You're doing the brave thing.",
-      "scripture": { "text": "Test everything; hold fast what is good.", "reference": "1 Thessalonians 5:21" }
+      "scripture": {
+        "text": "prove all things; hold fast that which is good;",
+        "reference": "1 Thessalonians 5:21",
+        "translation": "ASV"
+      }
     },
     "quietly-rebuilding": {
       "name": "Quietly Rebuilding",
       "description": "You're laying new bricks, slowly and on your own terms, and that takes more courage than tearing down ever did. Your faith looks different now, smaller maybe, but more honest, and it's actually yours. Don't rush this. Things built carefully tend to last. God isn't standing over you with a stopwatch. He's the kind of builder who's patient with a foundation, and He's pleased with every honest step you take back toward Him.",
-      "scripture": { "text": "Being confident of this, that he who began a good work in you will carry it on to completion.", "reference": "Philippians 1:6" }
+      "scripture": {
+        "text": "being confident of this very thing, that he who began a good work in you will perfect it until the day of Jesus Christ:",
+        "reference": "Philippians 1:6",
+        "translation": "ASV"
+      }
     },
     "reconstructed": {
       "name": "Reconstructed, on Your Own Terms",
       "description": "You came through the fire, and the faith you carry now is genuinely your own. It's been tested, sifted, and rebuilt, and it fits you in a way the inherited version never did. That's not a lesser faith. In many ways it's a deeper one, because you chose it with your eyes open. Hold it with gratitude, stay tender toward people still in the storm you survived, and keep letting God write the next part.",
-      "scripture": { "text": "These have come so that the proven genuineness of your faith may result in praise, glory and honor.", "reference": "1 Peter 1:7" }
+      "scripture": {
+        "text": "that the proof of your faith, being more precious than gold that perisheth though it is proved by fire, may be found unto praise and glory and honor at the revelation of Jesus Christ:",
+        "reference": "1 Peter 1:7",
+        "translation": "ASV"
+      }
     }
   }
 }

@@ -16,91 +16,292 @@
     {
       "text": "When the loneliness hits, what's missing most?",
       "options": [
-        { "text": "One person who truly knows me, deeply and up close.", "weights": { "emotional-loneliness": 3 } },
-        { "text": "A group, a circle, a sense of belonging somewhere.", "weights": { "social-loneliness": 3 } },
-        { "text": "A sense that any of this matters or that I'm not alone in the universe.", "weights": { "existential-loneliness": 3 } },
-        { "text": "The people I had before life recently changed.", "weights": { "situational-loneliness": 3 } }
+        {
+          "text": "One person who truly knows me, deeply and up close.",
+          "weights": {
+            "emotional-loneliness": 3
+          }
+        },
+        {
+          "text": "A group, a circle, a sense of belonging somewhere.",
+          "weights": {
+            "social-loneliness": 3
+          }
+        },
+        {
+          "text": "A sense that any of this matters or that I'm not alone in the universe.",
+          "weights": {
+            "existential-loneliness": 3
+          }
+        },
+        {
+          "text": "The people I had before life recently changed.",
+          "weights": {
+            "situational-loneliness": 3
+          }
+        }
       ]
     },
     {
       "text": "Which scenario stings the most?",
       "options": [
-        { "text": "Being surrounded by people and still feeling unknown.", "weights": { "emotional-loneliness": 3 } },
-        { "text": "Having no one to call to just hang out.", "weights": { "social-loneliness": 3 } },
-        { "text": "Lying awake wondering if anyone really gets the real me.", "weights": { "existential-loneliness": 3 } },
-        { "text": "Realizing my circle scattered after a big life shift.", "weights": { "situational-loneliness": 3 } }
+        {
+          "text": "Being surrounded by people and still feeling unknown.",
+          "weights": {
+            "emotional-loneliness": 3
+          }
+        },
+        {
+          "text": "Having no one to call to just hang out.",
+          "weights": {
+            "social-loneliness": 3
+          }
+        },
+        {
+          "text": "Lying awake wondering if anyone really gets the real me.",
+          "weights": {
+            "existential-loneliness": 3
+          }
+        },
+        {
+          "text": "Realizing my circle scattered after a big life shift.",
+          "weights": {
+            "situational-loneliness": 3
+          }
+        }
       ]
     },
     {
       "text": "How would you describe your current connections?",
       "options": [
-        { "text": "Plenty of acquaintances, no one who knows the deep stuff.", "weights": { "emotional-loneliness": 3 } },
-        { "text": "I lack a community or a group to belong to at all.", "weights": { "social-loneliness": 3 } },
-        { "text": "Even my close people can't reach the part that feels alone.", "weights": { "existential-loneliness": 3 } },
-        { "text": "They were solid until a move, loss, or change uprooted them.", "weights": { "situational-loneliness": 3 } }
+        {
+          "text": "Plenty of acquaintances, no one who knows the deep stuff.",
+          "weights": {
+            "emotional-loneliness": 3
+          }
+        },
+        {
+          "text": "I lack a community or a group to belong to at all.",
+          "weights": {
+            "social-loneliness": 3
+          }
+        },
+        {
+          "text": "Even my close people can't reach the part that feels alone.",
+          "weights": {
+            "existential-loneliness": 3
+          }
+        },
+        {
+          "text": "They were solid until a move, loss, or change uprooted them.",
+          "weights": {
+            "situational-loneliness": 3
+          }
+        }
       ]
     },
     {
       "text": "When did this loneliness really set in?",
       "options": [
-        { "text": "It's been there a long time, under everything.", "weights": { "emotional-loneliness": 2, "existential-loneliness": 1 } },
-        { "text": "Ever since I couldn't find my people or my place.", "weights": { "social-loneliness": 3 } },
-        { "text": "It's less about timing, more a deep ache about existence itself.", "weights": { "existential-loneliness": 3 } },
-        { "text": "After a specific event: a move, a breakup, a season ending.", "weights": { "situational-loneliness": 3 } }
+        {
+          "text": "It's been there a long time, under everything.",
+          "weights": {
+            "emotional-loneliness": 2,
+            "existential-loneliness": 1
+          }
+        },
+        {
+          "text": "Ever since I couldn't find my people or my place.",
+          "weights": {
+            "social-loneliness": 3
+          }
+        },
+        {
+          "text": "It's less about timing, more a deep ache about existence itself.",
+          "weights": {
+            "existential-loneliness": 3
+          }
+        },
+        {
+          "text": "After a specific event: a move, a breakup, a season ending.",
+          "weights": {
+            "situational-loneliness": 3
+          }
+        }
       ]
     },
     {
       "text": "What would help the most right now?",
       "options": [
-        { "text": "One safe person I could be fully honest with.", "weights": { "emotional-loneliness": 3 } },
-        { "text": "A community that actually wanted me there.", "weights": { "social-loneliness": 3 } },
-        { "text": "To know I'm truly seen and not alone in the cosmos.", "weights": { "existential-loneliness": 3 } },
-        { "text": "Time to rebuild the connections this season took from me.", "weights": { "situational-loneliness": 3 } }
+        {
+          "text": "One safe person I could be fully honest with.",
+          "weights": {
+            "emotional-loneliness": 3
+          }
+        },
+        {
+          "text": "A community that actually wanted me there.",
+          "weights": {
+            "social-loneliness": 3
+          }
+        },
+        {
+          "text": "To know I'm truly seen and not alone in the cosmos.",
+          "weights": {
+            "existential-loneliness": 3
+          }
+        },
+        {
+          "text": "Time to rebuild the connections this season took from me.",
+          "weights": {
+            "situational-loneliness": 3
+          }
+        }
       ]
     },
     {
       "text": "Which sentence sounds most like you?",
       "options": [
-        { "text": "\"I have people, but no one really knows me.\"", "weights": { "emotional-loneliness": 3 } },
-        { "text": "\"I don't have a group I belong to.\"", "weights": { "social-loneliness": 3 } },
-        { "text": "\"Even when I'm not alone, I feel alone.\"", "weights": { "existential-loneliness": 3 } },
-        { "text": "\"I used to have my people. Now I'm starting over.\"", "weights": { "situational-loneliness": 3 } }
+        {
+          "text": "\"I have people, but no one really knows me.\"",
+          "weights": {
+            "emotional-loneliness": 3
+          }
+        },
+        {
+          "text": "\"I don't have a group I belong to.\"",
+          "weights": {
+            "social-loneliness": 3
+          }
+        },
+        {
+          "text": "\"Even when I'm not alone, I feel alone.\"",
+          "weights": {
+            "existential-loneliness": 3
+          }
+        },
+        {
+          "text": "\"I used to have my people. Now I'm starting over.\"",
+          "weights": {
+            "situational-loneliness": 3
+          }
+        }
       ]
     },
     {
       "text": "How do you usually cope with the lonely feeling?",
       "options": [
-        { "text": "I open up to no one and keep the real me hidden.", "weights": { "emotional-loneliness": 3 } },
-        { "text": "I keep busy to distract from having no real circle.", "weights": { "social-loneliness": 3 } },
-        { "text": "I sit with big questions about meaning and being known.", "weights": { "existential-loneliness": 3 } },
-        { "text": "I tell myself it's temporary and try to rebuild slowly.", "weights": { "situational-loneliness": 3 } }
+        {
+          "text": "I open up to no one and keep the real me hidden.",
+          "weights": {
+            "emotional-loneliness": 3
+          }
+        },
+        {
+          "text": "I keep busy to distract from having no real circle.",
+          "weights": {
+            "social-loneliness": 3
+          }
+        },
+        {
+          "text": "I sit with big questions about meaning and being known.",
+          "weights": {
+            "existential-loneliness": 3
+          }
+        },
+        {
+          "text": "I tell myself it's temporary and try to rebuild slowly.",
+          "weights": {
+            "situational-loneliness": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you long to hear from God in this?",
       "options": [
-        { "text": "\"I know you fully, every part, and I'm not going anywhere.\"", "weights": { "emotional-loneliness": 3 } },
-        { "text": "\"I'm setting you in a family. You belong with my people.\"", "weights": { "social-loneliness": 3 } },
-        { "text": "\"You are seen. You were never alone in the universe.\"", "weights": { "existential-loneliness": 3 } },
-        { "text": "\"I'll go with you into this new chapter and rebuild it.\"", "weights": { "situational-loneliness": 3 } }
+        {
+          "text": "\"I know you fully, every part, and I'm not going anywhere.\"",
+          "weights": {
+            "emotional-loneliness": 3
+          }
+        },
+        {
+          "text": "\"I'm setting you in a family. You belong with my people.\"",
+          "weights": {
+            "social-loneliness": 3
+          }
+        },
+        {
+          "text": "\"You are seen. You were never alone in the universe.\"",
+          "weights": {
+            "existential-loneliness": 3
+          }
+        },
+        {
+          "text": "\"I'll go with you into this new chapter and rebuild it.\"",
+          "weights": {
+            "situational-loneliness": 3
+          }
+        }
       ]
     },
     {
       "text": "Which feels like the deeper truth about your loneliness?",
       "options": [
-        { "text": "It's about depth. I crave being truly known.", "weights": { "emotional-loneliness": 3 } },
-        { "text": "It's about breadth. I crave a place to belong.", "weights": { "social-loneliness": 3 } },
-        { "text": "It's about meaning. I crave knowing I matter and I'm seen.", "weights": { "existential-loneliness": 3 } },
-        { "text": "It's about timing. My circumstances changed and emptied my circle.", "weights": { "situational-loneliness": 3 } }
+        {
+          "text": "It's about depth. I crave being truly known.",
+          "weights": {
+            "emotional-loneliness": 3
+          }
+        },
+        {
+          "text": "It's about breadth. I crave a place to belong.",
+          "weights": {
+            "social-loneliness": 3
+          }
+        },
+        {
+          "text": "It's about meaning. I crave knowing I matter and I'm seen.",
+          "weights": {
+            "existential-loneliness": 3
+          }
+        },
+        {
+          "text": "It's about timing. My circumstances changed and emptied my circle.",
+          "weights": {
+            "situational-loneliness": 3
+          }
+        }
       ]
     },
     {
       "text": "If you named it in one word, your loneliness is...",
       "options": [
-        { "text": "Unknown.", "weights": { "emotional-loneliness": 3 } },
-        { "text": "Unbelonging.", "weights": { "social-loneliness": 3 } },
-        { "text": "Unseen.", "weights": { "existential-loneliness": 3 } },
-        { "text": "Uprooted.", "weights": { "situational-loneliness": 3 } }
+        {
+          "text": "Unknown.",
+          "weights": {
+            "emotional-loneliness": 3
+          }
+        },
+        {
+          "text": "Unbelonging.",
+          "weights": {
+            "social-loneliness": 3
+          }
+        },
+        {
+          "text": "Unseen.",
+          "weights": {
+            "existential-loneliness": 3
+          }
+        },
+        {
+          "text": "Uprooted.",
+          "weights": {
+            "situational-loneliness": 3
+          }
+        }
       ]
     }
   ],
@@ -108,22 +309,38 @@
     "emotional-loneliness": {
       "name": "Emotional Loneliness",
       "description": "You can be in a full room and still feel completely alone, because what you're missing isn't people. It's depth. You long for one person who truly knows you, not the surface version you show everyone. That ache is real, and it's not a flaw in you. Here's the comfort to start with: you are already known, fully, by the One who made you, down to the parts you've never shown a soul. Let that be the ground you stand on as you risk letting one safe person in.",
-      "scripture": { "text": "You have searched me, Lord, and you know me.", "reference": "Psalm 139:1" }
+      "scripture": {
+        "text": "O Jehovah, thou hast searched me, and knownme.",
+        "reference": "Psalm 139:1",
+        "translation": "ASV"
+      }
     },
     "social-loneliness": {
       "name": "Social Loneliness",
       "description": "Your loneliness is about belonging. It's not that no one knows you deeply, it's that you don't have a circle, a group, a place where you fit and are wanted. That's an enormous and common pain, and the share of people without close community keeps growing, so you are far from alone in it. God designed you for family, and He's in the business of setting lonely people into one. Take the small, awkward first step toward a community. You were made to belong.",
-      "scripture": { "text": "God sets the lonely in families.", "reference": "Psalm 68:6" }
+      "scripture": {
+        "text": "God setteth the solitary in families: He bringeth out the prisoners into prosperity; But the rebellious dwell in a parched land.",
+        "reference": "Psalm 68:6",
+        "translation": "ASV"
+      }
     },
     "existential-loneliness": {
       "name": "Existential Loneliness",
       "description": "Yours is the deepest kind. Even surrounded by people who love you, there's an ache that no friendship quite reaches, a quiet wondering whether you're truly seen, whether any of it means anything. That's not depression or ingratitude. It's a longing only God was ever meant to fill. There's a name for Him that fits this exact ache: the God who sees you. You were never alone in the universe. You've always been seen, all the way down.",
-      "scripture": { "text": "You are the God who sees me.", "reference": "Genesis 16:13" }
+      "scripture": {
+        "text": "And she called the name of Jehovah that spake unto her, Thou art a God that seeth: for she said, Have I even here looked after him that seeth me?",
+        "reference": "Genesis 16:13",
+        "translation": "ASV"
+      }
     },
     "situational-loneliness": {
       "name": "Situational Loneliness",
       "description": "This loneliness has an address. It started with something specific: a move, a breakup, a job change, a season that ended and took your people with it. The good news is that situational loneliness is the most workable kind, because it's about rebuilding, not a permanent state. Be patient with the in-between. God doesn't just stay with you in the empty stretch, He goes ahead of you into the new chapter and helps you fill it. This won't be the shape of things forever.",
-      "scripture": { "text": "The Lord himself goes before you and will be with you; he will never leave you.", "reference": "Deuteronomy 31:8" }
+      "scripture": {
+        "text": "And Jehovah, he it is that doth go before thee; he will be with thee, he will not fail thee, neither forsake thee: fear not, neither be dismayed.",
+        "reference": "Deuteronomy 31:8",
+        "translation": "ASV"
+      }
     }
   }
 }

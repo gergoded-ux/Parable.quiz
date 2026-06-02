@@ -4,6 +4,7 @@ import scriptures from '@/content/shared/scriptures.json';
 export interface Scripture {
   text: string;
   reference: string;
+  translation?: string;
 }
 
 const map: Record<string, Scripture> = scriptures as Record<string, Scripture>;

@@ -10,57 +10,137 @@
     {
       "text": "When you think about your relationship with God, what stings more?",
       "options": [
-        { "text": "The wreckage I made when I walked away.", "weights": { "prodigal": 2 } },
-        { "text": "How little I feel rewarded for never walking away.", "weights": { "older-brother": 2 } }
+        {
+          "text": "The wreckage I made when I walked away.",
+          "weights": {
+            "prodigal": 2
+          }
+        },
+        {
+          "text": "How little I feel rewarded for never walking away.",
+          "weights": {
+            "older-brother": 2
+          }
+        }
       ]
     },
     {
       "text": "Which quiet thought sounds more like you?",
       "options": [
-        { "text": "\"After everything I've done, can He really still want me?\"", "weights": { "prodigal": 2 } },
-        { "text": "\"I've done everything right. Why doesn't it feel like enough?\"", "weights": { "older-brother": 2 } }
+        {
+          "text": "\"After everything I've done, can He really still want me?\"",
+          "weights": {
+            "prodigal": 2
+          }
+        },
+        {
+          "text": "\"I've done everything right. Why doesn't it feel like enough?\"",
+          "weights": {
+            "older-brother": 2
+          }
+        }
       ]
     },
     {
       "text": "When someone with a messy past gets celebrated in church, you feel...",
       "options": [
-        { "text": "Hope. If grace is for them, maybe it's really for me too.", "weights": { "prodigal": 2 } },
-        { "text": "A flicker of resentment I'd never admit out loud.", "weights": { "older-brother": 2 } }
+        {
+          "text": "Hope. If grace is for them, maybe it's really for me too.",
+          "weights": {
+            "prodigal": 2
+          }
+        },
+        {
+          "text": "A flicker of resentment I'd never admit out loud.",
+          "weights": {
+            "older-brother": 2
+          }
+        }
       ]
     },
     {
       "text": "What's your deeper struggle with the Father?",
       "options": [
-        { "text": "Believing He'd actually run toward me instead of away.", "weights": { "prodigal": 2 } },
-        { "text": "Believing He loves me as a son, not just as a worker.", "weights": { "older-brother": 2 } }
+        {
+          "text": "Believing He'd actually run toward me instead of away.",
+          "weights": {
+            "prodigal": 2
+          }
+        },
+        {
+          "text": "Believing He loves me as a son, not just as a worker.",
+          "weights": {
+            "older-brother": 2
+          }
+        }
       ]
     },
     {
       "text": "Which describes your faith more honestly right now?",
       "options": [
-        { "text": "I've been far off and I'm finding my way back home.", "weights": { "prodigal": 2 } },
-        { "text": "I've never left the house, but my heart feels cold and tired.", "weights": { "older-brother": 2 } }
+        {
+          "text": "I've been far off and I'm finding my way back home.",
+          "weights": {
+            "prodigal": 2
+          }
+        },
+        {
+          "text": "I've never left the house, but my heart feels cold and tired.",
+          "weights": {
+            "older-brother": 2
+          }
+        }
       ]
     },
     {
       "text": "What do you secretly want God to say to you?",
       "options": [
-        { "text": "\"You're not too far gone. Welcome home.\"", "weights": { "prodigal": 2 } },
-        { "text": "\"Everything I have is already yours. You never had to earn it.\"", "weights": { "older-brother": 2 } }
+        {
+          "text": "\"You're not too far gone. Welcome home.\"",
+          "weights": {
+            "prodigal": 2
+          }
+        },
+        {
+          "text": "\"Everything I have is already yours. You never had to earn it.\"",
+          "weights": {
+            "older-brother": 2
+          }
+        }
       ]
     },
     {
       "text": "When you mess up, your first instinct is to...",
       "options": [
-        { "text": "Hide, because surely I've used up my chances.", "weights": { "prodigal": 2 } },
-        { "text": "Point to all the good I've done to balance it out.", "weights": { "older-brother": 2 } }
+        {
+          "text": "Hide, because surely I've used up my chances.",
+          "weights": {
+            "prodigal": 2
+          }
+        },
+        {
+          "text": "Point to all the good I've done to balance it out.",
+          "weights": {
+            "older-brother": 2
+          }
+        }
       ]
     },
     {
       "text": "Which fear feels closer to home?",
       "options": [
-        { "text": "That my past disqualifies me from being loved.", "weights": { "prodigal": 2 } },
-        { "text": "That all my obedience never actually earned me anything.", "weights": { "older-brother": 2 } }
+        {
+          "text": "That my past disqualifies me from being loved.",
+          "weights": {
+            "prodigal": 2
+          }
+        },
+        {
+          "text": "That all my obedience never actually earned me anything.",
+          "weights": {
+            "older-brother": 2
+          }
+        }
       ]
     }
   ],
@@ -68,16 +148,32 @@
     "prodigal": {
       "name": "The Prodigal (came home wrecked)",
       "emoji": "🏃",
-      "traits": ["Returning", "Humble", "Found"],
+      "traits": [
+        "Returning",
+        "Humble",
+        "Found"
+      ],
       "description": "You know what it's like to wander off and come back carrying shame, half-expecting a lecture or a closed door. But here's the heart of the story: the Father saw you while you were still a long way off, and He ran. He didn't wait for your speech. There's no version of coming home where you've gone too far. The robe and the feast were ready before you ever walked up the road.",
-      "scripture": { "text": "But while he was still a long way off, his father saw him and was filled with compassion for him; he ran to his son, threw his arms around him and kissed him.", "reference": "Luke 15:20" }
+      "scripture": {
+        "text": "And he arose, and came to his father. But while he was yet afar off, his father saw him, and was moved with compassion, and ran, and fell on his neck, and kissed him.",
+        "reference": "Luke 15:20",
+        "translation": "ASV"
+      }
     },
     "older-brother": {
       "name": "The Older Brother (stayed but resentful)",
       "emoji": "🪨",
-      "traits": ["Faithful", "Weary", "Loved"],
+      "traits": [
+        "Faithful",
+        "Weary",
+        "Loved"
+      ],
       "description": "You never ran off. You stayed, you served, you did the right things, and somewhere along the way your heart went quiet and a little bitter. You've been living like a worker when you were always a son. The Father isn't holding back a reward you have to pry loose. Everything He has is already yours. You can stop keeping score and come inside to the celebration too.",
-      "scripture": { "text": "My son, the father said, you are always with me, and everything I have is yours.", "reference": "Luke 15:31" }
+      "scripture": {
+        "text": "And he said unto him, Son, thou art ever with me, and all that is mine is thine.",
+        "reference": "Luke 15:31",
+        "translation": "ASV"
+      }
     }
   }
 }

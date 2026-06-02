@@ -18,91 +18,298 @@
     {
       "text": "By the end of the day, how do you usually feel?",
       "options": [
-        { "text": "Completely depleted. There is nothing left in me.", "weights": { "burned-out-and-running-on-empty": 3 } },
-        { "text": "Desperate for no one to touch me or need me.", "weights": { "touched-out-and-overstimulated": 3 } },
-        { "text": "Resentful, then guilty for feeling resentful.", "weights": { "resentful-and-guilty": 3 } },
-        { "text": "Tired but okay. I made it through another one.", "weights": { "tired-but-holding-on": 3 } }
+        {
+          "text": "Completely depleted. There is nothing left in me.",
+          "weights": {
+            "burned-out-and-running-on-empty": 3
+          }
+        },
+        {
+          "text": "Desperate for no one to touch me or need me.",
+          "weights": {
+            "touched-out-and-overstimulated": 3
+          }
+        },
+        {
+          "text": "Resentful, then guilty for feeling resentful.",
+          "weights": {
+            "resentful-and-guilty": 3
+          }
+        },
+        {
+          "text": "Tired but okay. I made it through another one.",
+          "weights": {
+            "tired-but-holding-on": 3
+          }
+        }
       ]
     },
     {
       "text": "How do the small things hit you lately?",
       "options": [
-        { "text": "I snap over spilled milk and tiny messes.", "weights": { "burned-out-and-running-on-empty": 2, "resentful-and-guilty": 1 } },
-        { "text": "The noise and the constant touching short-circuit me.", "weights": { "touched-out-and-overstimulated": 3 } },
-        { "text": "They build into quiet resentment I don't say out loud.", "weights": { "resentful-and-guilty": 3 } },
-        { "text": "They roll off most days. I've got some margin.", "weights": { "in-a-good-rhythm": 3 } }
+        {
+          "text": "I snap over spilled milk and tiny messes.",
+          "weights": {
+            "burned-out-and-running-on-empty": 2,
+            "resentful-and-guilty": 1
+          }
+        },
+        {
+          "text": "The noise and the constant touching short-circuit me.",
+          "weights": {
+            "touched-out-and-overstimulated": 3
+          }
+        },
+        {
+          "text": "They build into quiet resentment I don't say out loud.",
+          "weights": {
+            "resentful-and-guilty": 3
+          }
+        },
+        {
+          "text": "They roll off most days. I've got some margin.",
+          "weights": {
+            "in-a-good-rhythm": 3
+          }
+        }
       ]
     },
     {
       "text": "What's your honest relationship with sleep right now?",
       "options": [
-        { "text": "I sleep and still wake up exhausted.", "weights": { "burned-out-and-running-on-empty": 3 } },
-        { "text": "I stay up late just to have silence and space to myself.", "weights": { "touched-out-and-overstimulated": 2, "tired-but-holding-on": 1 } },
-        { "text": "It's broken, but I'm coping.", "weights": { "stretched-thin": 3 } },
-        { "text": "Decent, honestly. I'm fairly rested.", "weights": { "in-a-good-rhythm": 3 } }
+        {
+          "text": "I sleep and still wake up exhausted.",
+          "weights": {
+            "burned-out-and-running-on-empty": 3
+          }
+        },
+        {
+          "text": "I stay up late just to have silence and space to myself.",
+          "weights": {
+            "touched-out-and-overstimulated": 2,
+            "tired-but-holding-on": 1
+          }
+        },
+        {
+          "text": "It's broken, but I'm coping.",
+          "weights": {
+            "stretched-thin": 3
+          }
+        },
+        {
+          "text": "Decent, honestly. I'm fairly rested.",
+          "weights": {
+            "in-a-good-rhythm": 3
+          }
+        }
       ]
     },
     {
       "text": "When you think about being a mom this season, what rises up?",
       "options": [
-        { "text": "I love them so much, and I have nothing left to give.", "weights": { "burned-out-and-running-on-empty": 3 } },
-        { "text": "I need a moment where my body is only mine.", "weights": { "touched-out-and-overstimulated": 3 } },
-        { "text": "Why is it all on me? And then, what kind of mom thinks that?", "weights": { "resentful-and-guilty": 3 } },
-        { "text": "It's hard, but I'm finding my footing.", "weights": { "in-a-good-rhythm": 2, "tired-but-holding-on": 1 } }
+        {
+          "text": "I love them so much, and I have nothing left to give.",
+          "weights": {
+            "burned-out-and-running-on-empty": 3
+          }
+        },
+        {
+          "text": "I need a moment where my body is only mine.",
+          "weights": {
+            "touched-out-and-overstimulated": 3
+          }
+        },
+        {
+          "text": "Why is it all on me? And then, what kind of mom thinks that?",
+          "weights": {
+            "resentful-and-guilty": 3
+          }
+        },
+        {
+          "text": "It's hard, but I'm finding my footing.",
+          "weights": {
+            "in-a-good-rhythm": 2,
+            "tired-but-holding-on": 1
+          }
+        }
       ]
     },
     {
       "text": "What's the fear that whispers when it's quiet?",
       "options": [
-        { "text": "That I'm failing them and everyone can tell.", "weights": { "burned-out-and-running-on-empty": 2, "resentful-and-guilty": 1 } },
-        { "text": "That I'll lose it if one more person needs one more thing.", "weights": { "touched-out-and-overstimulated": 3 } },
-        { "text": "That my bitterness is poisoning the home I'm building.", "weights": { "resentful-and-guilty": 3 } },
-        { "text": "Not much fear today. I feel mostly steady.", "weights": { "in-a-good-rhythm": 3 } }
+        {
+          "text": "That I'm failing them and everyone can tell.",
+          "weights": {
+            "burned-out-and-running-on-empty": 2,
+            "resentful-and-guilty": 1
+          }
+        },
+        {
+          "text": "That I'll lose it if one more person needs one more thing.",
+          "weights": {
+            "touched-out-and-overstimulated": 3
+          }
+        },
+        {
+          "text": "That my bitterness is poisoning the home I'm building.",
+          "weights": {
+            "resentful-and-guilty": 3
+          }
+        },
+        {
+          "text": "Not much fear today. I feel mostly steady.",
+          "weights": {
+            "in-a-good-rhythm": 3
+          }
+        }
       ]
     },
     {
       "text": "How full is your tank, really?",
       "options": [
-        { "text": "Bone empty. I'm running on nothing.", "weights": { "burned-out-and-running-on-empty": 3 } },
-        { "text": "Overflowing with input, no room left to receive anything.", "weights": { "touched-out-and-overstimulated": 3 } },
-        { "text": "Low, but I can refill it in little pockets.", "weights": { "stretched-thin": 3 } },
-        { "text": "Tired but not empty. I'm holding on.", "weights": { "tired-but-holding-on": 3 } }
+        {
+          "text": "Bone empty. I'm running on nothing.",
+          "weights": {
+            "burned-out-and-running-on-empty": 3
+          }
+        },
+        {
+          "text": "Overflowing with input, no room left to receive anything.",
+          "weights": {
+            "touched-out-and-overstimulated": 3
+          }
+        },
+        {
+          "text": "Low, but I can refill it in little pockets.",
+          "weights": {
+            "stretched-thin": 3
+          }
+        },
+        {
+          "text": "Tired but not empty. I'm holding on.",
+          "weights": {
+            "tired-but-holding-on": 3
+          }
+        }
       ]
     },
     {
       "text": "When you get a rare moment alone, what do you do?",
       "options": [
-        { "text": "Stare at nothing. I'm too fried to even enjoy it.", "weights": { "burned-out-and-running-on-empty": 3 } },
-        { "text": "Sit in total silence and beg my nervous system to settle.", "weights": { "touched-out-and-overstimulated": 3 } },
-        { "text": "Feel guilty for wanting it at all, then rush back.", "weights": { "resentful-and-guilty": 2, "stretched-thin": 1 } },
-        { "text": "Actually rest, and come back to them refreshed.", "weights": { "in-a-good-rhythm": 3 } }
+        {
+          "text": "Stare at nothing. I'm too fried to even enjoy it.",
+          "weights": {
+            "burned-out-and-running-on-empty": 3
+          }
+        },
+        {
+          "text": "Sit in total silence and beg my nervous system to settle.",
+          "weights": {
+            "touched-out-and-overstimulated": 3
+          }
+        },
+        {
+          "text": "Feel guilty for wanting it at all, then rush back.",
+          "weights": {
+            "resentful-and-guilty": 2,
+            "stretched-thin": 1
+          }
+        },
+        {
+          "text": "Actually rest, and come back to them refreshed.",
+          "weights": {
+            "in-a-good-rhythm": 3
+          }
+        }
       ]
     },
     {
       "text": "Which sentence lands the hardest?",
       "options": [
-        { "text": "\"I can't keep pouring from a cup this empty.\"", "weights": { "burned-out-and-running-on-empty": 3 } },
-        { "text": "\"I just need everyone to stop touching me for five minutes.\"", "weights": { "touched-out-and-overstimulated": 3 } },
-        { "text": "\"I'm doing everything and resenting all of it.\"", "weights": { "resentful-and-guilty": 3 } },
-        { "text": "\"It's a lot, but I'm hanging in there.\"", "weights": { "tired-but-holding-on": 3 } }
+        {
+          "text": "\"I can't keep pouring from a cup this empty.\"",
+          "weights": {
+            "burned-out-and-running-on-empty": 3
+          }
+        },
+        {
+          "text": "\"I just need everyone to stop touching me for five minutes.\"",
+          "weights": {
+            "touched-out-and-overstimulated": 3
+          }
+        },
+        {
+          "text": "\"I'm doing everything and resenting all of it.\"",
+          "weights": {
+            "resentful-and-guilty": 3
+          }
+        },
+        {
+          "text": "\"It's a lot, but I'm hanging in there.\"",
+          "weights": {
+            "tired-but-holding-on": 3
+          }
+        }
       ]
     },
     {
       "text": "How are you doing with God in all of this?",
       "options": [
-        { "text": "Too tired to pray. I just hope He sees me.", "weights": { "burned-out-and-running-on-empty": 2, "tired-but-holding-on": 1 } },
-        { "text": "I crave quiet with Him but can't find a scrap of it.", "weights": { "touched-out-and-overstimulated": 3 } },
-        { "text": "Distant, and guilty about the distance.", "weights": { "resentful-and-guilty": 3 } },
-        { "text": "Steady. I'm finding little ways to stay close.", "weights": { "in-a-good-rhythm": 3 } }
+        {
+          "text": "Too tired to pray. I just hope He sees me.",
+          "weights": {
+            "burned-out-and-running-on-empty": 2,
+            "tired-but-holding-on": 1
+          }
+        },
+        {
+          "text": "I crave quiet with Him but can't find a scrap of it.",
+          "weights": {
+            "touched-out-and-overstimulated": 3
+          }
+        },
+        {
+          "text": "Distant, and guilty about the distance.",
+          "weights": {
+            "resentful-and-guilty": 3
+          }
+        },
+        {
+          "text": "Steady. I'm finding little ways to stay close.",
+          "weights": {
+            "in-a-good-rhythm": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you most need to believe right now?",
       "options": [
-        { "text": "That God sees how hard you're trying, even empty.", "weights": { "burned-out-and-running-on-empty": 3 } },
-        { "text": "That needing space doesn't make you a bad mom.", "weights": { "touched-out-and-overstimulated": 3 } },
-        { "text": "That the resentment doesn't disqualify you from grace.", "weights": { "resentful-and-guilty": 3 } },
-        { "text": "That you're allowed to feel okay and proud of it.", "weights": { "in-a-good-rhythm": 2, "tired-but-holding-on": 1 } }
+        {
+          "text": "That God sees how hard you're trying, even empty.",
+          "weights": {
+            "burned-out-and-running-on-empty": 3
+          }
+        },
+        {
+          "text": "That needing space doesn't make you a bad mom.",
+          "weights": {
+            "touched-out-and-overstimulated": 3
+          }
+        },
+        {
+          "text": "That the resentment doesn't disqualify you from grace.",
+          "weights": {
+            "resentful-and-guilty": 3
+          }
+        },
+        {
+          "text": "That you're allowed to feel okay and proud of it.",
+          "weights": {
+            "in-a-good-rhythm": 2,
+            "tired-but-holding-on": 1
+          }
+        }
       ]
     }
   ],
@@ -110,32 +317,56 @@
     "burned-out-and-running-on-empty": {
       "name": "Burned Out and Running on Empty",
       "description": "You love your kids with everything, and right now everything is gone. You're pouring from a cup that's been empty for a while, and the fear that you're failing them only makes it heavier. Hear this: a tired mom is not a failing mom. God is not asking you to manufacture energy you don't have. He's asking you to come to Him and let yourself be refilled. Rest is not quitting. It's obedience.",
-      "scripture": { "text": "Come to me, all you who are weary and burdened, and I will give you rest.", "reference": "Matthew 11:28" }
+      "scripture": {
+        "text": "Come unto me, all ye that labor and are heavy laden, and I will give you rest.",
+        "reference": "Matthew 11:28",
+        "translation": "ASV"
+      }
     },
     "touched-out-and-overstimulated": {
       "name": "Touched-Out and Overstimulated",
       "description": "It's not that you don't love them. It's that your senses are maxed out. The noise, the constant touching, the never-being-alone has your nervous system stuck on high alert, and you crave silence like air. Needing space to be only yours for a few minutes does not make you cold or ungrateful. Even Jesus withdrew from the crowds to be alone. Build in the quiet. It's how you come back.",
-      "scripture": { "text": "Jesus often withdrew to lonely places and prayed.", "reference": "Luke 5:16" }
+      "scripture": {
+        "text": "But he withdrew himself in the deserts, and prayed.",
+        "reference": "Luke 5:16",
+        "translation": "ASV"
+      }
     },
     "resentful-and-guilty": {
       "name": "Resentful and Guilty",
       "description": "You're caught in a hard loop: you resent how much falls on you, and then you feel guilty for resenting it. That guilt is convincing you that good moms don't feel this way, but they do, all the time. The resentment is data, not a verdict. It's telling you something needs to shift, maybe the load, maybe the help you'll let yourself ask for. Grace covers the bitter days too. You are not disqualified.",
-      "scripture": { "text": "There is now no condemnation for those who are in Christ Jesus.", "reference": "Romans 8:1" }
+      "scripture": {
+        "text": "There is therefore now no condemnation to them that are in Christ Jesus.",
+        "reference": "Romans 8:1",
+        "translation": "ASV"
+      }
     },
     "stretched-thin": {
       "name": "Stretched Thin",
       "description": "You're running low but not running on empty. The margin is thin and the days are full, yet you're finding small ways to refill before you hit the wall. That instinct is wise. This is the season to protect your rest on purpose, because thin is how depletion sneaks up. Ask for help before you need it, not after. A little space, taken regularly, will keep you off the burnout road.",
-      "scripture": { "text": "Carry each other's burdens, and in this way you will fulfill the law of Christ.", "reference": "Galatians 6:2" }
+      "scripture": {
+        "text": "Bear ye one another’s burdens, and so fulfil the law of Christ.",
+        "reference": "Galatians 6:2",
+        "translation": "ASV"
+      }
     },
     "tired-but-holding-on": {
       "name": "Tired but Holding On",
       "description": "You're worn out, but you're steady. You make it through the days, you keep showing up, and somewhere under the exhaustion there's still some peace. That's no small thing. Being tired is part of this season, not a sign you're doing it wrong. Keep leaning on God for the daily strength, and don't wait until you're empty to rest. You're holding on well, and you don't have to do it alone.",
-      "scripture": { "text": "I can do all this through him who gives me strength.", "reference": "Philippians 4:13" }
+      "scripture": {
+        "text": "I can do all things in him that strengtheneth me.",
+        "reference": "Philippians 4:13",
+        "translation": "ASV"
+      }
     },
     "in-a-good-rhythm": {
       "name": "In a Good Rhythm",
       "description": "You've found a pace that works, and it shows in how you handle the hard moments. You've got margin, patience returns to you faster, and you can actually enjoy your kids more days than not. This is a gift, and it's worth naming without guilt. You got here by guarding rest and leaning on God, so keep doing both. And when a tired mom crosses your path, you're in a place to help her carry it.",
-      "scripture": { "text": "She is clothed with strength and dignity; she can laugh at the days to come.", "reference": "Proverbs 31:25" }
+      "scripture": {
+        "text": "Strength and dignity are her clothing; And she laugheth at the time to come.",
+        "reference": "Proverbs 31:25",
+        "translation": "ASV"
+      }
     }
   }
 }

@@ -16,73 +16,234 @@
     {
       "text": "Why did you take, or stay in, your current job?",
       "options": [
-        { "text": "It's exactly what I feel made to do, money aside.", "weights": { "all-calling": 3 } },
-        { "text": "It's meaningful, and the pay is a nice bonus.", "weights": { "calling-leaning": 3 } },
-        { "text": "Honestly, I'm pulled in both directions every day.", "weights": { "torn": 3 } },
-        { "text": "It pays the bills, and that's the main point.", "weights": { "all-paycheck": 3 } }
+        {
+          "text": "It's exactly what I feel made to do, money aside.",
+          "weights": {
+            "all-calling": 3
+          }
+        },
+        {
+          "text": "It's meaningful, and the pay is a nice bonus.",
+          "weights": {
+            "calling-leaning": 3
+          }
+        },
+        {
+          "text": "Honestly, I'm pulled in both directions every day.",
+          "weights": {
+            "torn": 3
+          }
+        },
+        {
+          "text": "It pays the bills, and that's the main point.",
+          "weights": {
+            "all-paycheck": 3
+          }
+        }
       ]
     },
     {
       "text": "If money were no object, would your work change?",
       "options": [
-        { "text": "Not at all. I'd do this for free.", "weights": { "all-calling": 3 } },
-        { "text": "I'd tweak it, but I'd keep doing something like this.", "weights": { "calling-leaning": 3 } },
-        { "text": "Maybe. I genuinely don't know what I'd choose.", "weights": { "torn": 3 } },
-        { "text": "Completely. I'd walk away tomorrow.", "weights": { "all-paycheck": 3 } }
+        {
+          "text": "Not at all. I'd do this for free.",
+          "weights": {
+            "all-calling": 3
+          }
+        },
+        {
+          "text": "I'd tweak it, but I'd keep doing something like this.",
+          "weights": {
+            "calling-leaning": 3
+          }
+        },
+        {
+          "text": "Maybe. I genuinely don't know what I'd choose.",
+          "weights": {
+            "torn": 3
+          }
+        },
+        {
+          "text": "Completely. I'd walk away tomorrow.",
+          "weights": {
+            "all-paycheck": 3
+          }
+        }
       ]
     },
     {
       "text": "What makes a workday feel worth it to you?",
       "options": [
-        { "text": "Knowing the work matters and lines up with my purpose.", "weights": { "all-calling": 3 } },
-        { "text": "Doing something meaningful while still being provided for.", "weights": { "calling-leaning": 3 } },
-        { "text": "It depends on the day and which need feels louder.", "weights": { "torn": 3 } },
-        { "text": "Hitting the targets and getting paid.", "weights": { "all-paycheck": 3 } }
+        {
+          "text": "Knowing the work matters and lines up with my purpose.",
+          "weights": {
+            "all-calling": 3
+          }
+        },
+        {
+          "text": "Doing something meaningful while still being provided for.",
+          "weights": {
+            "calling-leaning": 3
+          }
+        },
+        {
+          "text": "It depends on the day and which need feels louder.",
+          "weights": {
+            "torn": 3
+          }
+        },
+        {
+          "text": "Hitting the targets and getting paid.",
+          "weights": {
+            "all-paycheck": 3
+          }
+        }
       ]
     },
     {
       "text": "When you think about leaving a stable job for a calling, you feel...",
       "options": [
-        { "text": "Ready. I'd rather follow purpose than play it safe.", "weights": { "all-calling": 3 } },
-        { "text": "Drawn to it, though I'd want a wise plan first.", "weights": { "calling-leaning": 3 } },
-        { "text": "Stuck right in the middle, unable to decide.", "weights": { "torn": 3 } },
-        { "text": "No thanks. Stability matters more to me than a dream.", "weights": { "all-paycheck": 3 } }
+        {
+          "text": "Ready. I'd rather follow purpose than play it safe.",
+          "weights": {
+            "all-calling": 3
+          }
+        },
+        {
+          "text": "Drawn to it, though I'd want a wise plan first.",
+          "weights": {
+            "calling-leaning": 3
+          }
+        },
+        {
+          "text": "Stuck right in the middle, unable to decide.",
+          "weights": {
+            "torn": 3
+          }
+        },
+        {
+          "text": "No thanks. Stability matters more to me than a dream.",
+          "weights": {
+            "all-paycheck": 3
+          }
+        }
       ]
     },
     {
       "text": "Which statement rings truest for you?",
       "options": [
-        { "text": "I'd take less money for work that means something.", "weights": { "all-calling": 3 } },
-        { "text": "I want purpose, but I won't ignore financial wisdom.", "weights": { "calling-leaning": 3 } },
-        { "text": "I keep flip-flopping between purpose and a paycheck.", "weights": { "torn": 3 } },
-        { "text": "Show me the money. Meaning is a luxury.", "weights": { "all-paycheck": 3 } }
+        {
+          "text": "I'd take less money for work that means something.",
+          "weights": {
+            "all-calling": 3
+          }
+        },
+        {
+          "text": "I want purpose, but I won't ignore financial wisdom.",
+          "weights": {
+            "calling-leaning": 3
+          }
+        },
+        {
+          "text": "I keep flip-flopping between purpose and a paycheck.",
+          "weights": {
+            "torn": 3
+          }
+        },
+        {
+          "text": "Show me the money. Meaning is a luxury.",
+          "weights": {
+            "all-paycheck": 3
+          }
+        }
       ]
     },
     {
       "text": "How do you talk about your work to others?",
       "options": [
-        { "text": "Like it's part of who I am and what I'm here to do.", "weights": { "all-calling": 3 } },
-        { "text": "As good work that also keeps a roof over my head.", "weights": { "calling-leaning": 3 } },
-        { "text": "With a shrug, because I'm not sure how I feel about it.", "weights": { "torn": 3 } },
-        { "text": "As just a job. It funds the life I actually care about.", "weights": { "all-paycheck": 3 } }
+        {
+          "text": "Like it's part of who I am and what I'm here to do.",
+          "weights": {
+            "all-calling": 3
+          }
+        },
+        {
+          "text": "As good work that also keeps a roof over my head.",
+          "weights": {
+            "calling-leaning": 3
+          }
+        },
+        {
+          "text": "With a shrug, because I'm not sure how I feel about it.",
+          "weights": {
+            "torn": 3
+          }
+        },
+        {
+          "text": "As just a job. It funds the life I actually care about.",
+          "weights": {
+            "all-paycheck": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you most want from your work in five years?",
       "options": [
-        { "text": "To be fully living out the thing I believe I'm called to.", "weights": { "all-calling": 3 } },
-        { "text": "Meaningful work that also supports my family well.", "weights": { "calling-leaning": 3 } },
-        { "text": "To finally feel settled instead of split in two.", "weights": { "torn": 2, "calling-leaning": 1 } },
-        { "text": "Financial security, plain and simple.", "weights": { "all-paycheck": 3 } }
+        {
+          "text": "To be fully living out the thing I believe I'm called to.",
+          "weights": {
+            "all-calling": 3
+          }
+        },
+        {
+          "text": "Meaningful work that also supports my family well.",
+          "weights": {
+            "calling-leaning": 3
+          }
+        },
+        {
+          "text": "To finally feel settled instead of split in two.",
+          "weights": {
+            "torn": 2,
+            "calling-leaning": 1
+          }
+        },
+        {
+          "text": "Financial security, plain and simple.",
+          "weights": {
+            "all-paycheck": 3
+          }
+        }
       ]
     },
     {
       "text": "Be honest. What quietly drives most of your work decisions?",
       "options": [
-        { "text": "A sense that God put me here for a reason.", "weights": { "all-calling": 3 } },
-        { "text": "Purpose first, with provision close behind.", "weights": { "calling-leaning": 3 } },
-        { "text": "A tug-of-war between the two that never resolves.", "weights": { "torn": 3 } },
-        { "text": "The number on the paycheck.", "weights": { "all-paycheck": 3 } }
+        {
+          "text": "A sense that God put me here for a reason.",
+          "weights": {
+            "all-calling": 3
+          }
+        },
+        {
+          "text": "Purpose first, with provision close behind.",
+          "weights": {
+            "calling-leaning": 3
+          }
+        },
+        {
+          "text": "A tug-of-war between the two that never resolves.",
+          "weights": {
+            "torn": 3
+          }
+        },
+        {
+          "text": "The number on the paycheck.",
+          "weights": {
+            "all-paycheck": 3
+          }
+        }
       ]
     }
   ],
@@ -90,22 +251,38 @@
     "all-calling": {
       "name": "All Calling",
       "description": "Your heart is set on purpose, and you'd choose meaning over money almost every time. That conviction is a gift, and it's worth protecting. Just remember that calling and provision aren't enemies. God who calls you also cares about your bread and your bills. Keep following the work you believe you were made for, and trust the Provider to meet you as you go. Your sense of purpose is a beautiful thing to steward.",
-      "scripture": { "text": "For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.", "reference": "Ephesians 2:10" }
+      "scripture": {
+        "text": "For we are his workmanship, created in Christ Jesus for good works, which God afore prepared that we should walk in them.",
+        "reference": "Ephesians 2:10",
+        "translation": "ASV"
+      }
     },
     "calling-leaning": {
       "name": "Calling-Leaning",
       "description": "You lead with purpose, but you're wise enough to keep one eye on provision too. That's a healthy place to stand. You want your work to matter, and you also honor the responsibility of paying your way and caring for others. Keep listening for where God is drawing you, and let both meaning and wisdom shape your steps. You don't have to choose between a calling and being responsible. You're holding them together well.",
-      "scripture": { "text": "Whatever you do, work at it with all your heart, as working for the Lord, not for human masters.", "reference": "Colossians 3:23" }
+      "scripture": {
+        "text": "whatsoever ye do, work heartily, as unto the Lord, and not unto men;",
+        "reference": "Colossians 3:23",
+        "translation": "ASV"
+      }
     },
     "torn": {
       "name": "Torn",
       "description": "You feel the pull of purpose and the pull of a paycheck, and right now they're locked in a tug-of-war inside you. That tension is exhausting, but it's also a sign you take both seriously. You don't have to resolve it all today. Bring the whole thing to God, ask Him to make the next step clear, and trust that He gives wisdom generously to anyone who asks. The fog can lift. You won't be torn forever.",
-      "scripture": { "text": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you.", "reference": "James 1:5" }
+      "scripture": {
+        "text": "But if any of you lacketh wisdom, let him ask of God, who giveth to all liberally and upbraideth not; and it shall be given him.",
+        "reference": "James 1:5",
+        "translation": "ASV"
+      }
     },
     "all-paycheck": {
       "name": "All Paycheck",
       "description": "Right now, work is mostly about the money, and there's no shame in valuing stability. Providing is a real and good thing. But you might be quietly aching for work that means more, even if you've buried that hope. God cares about both your security and your soul, and He may have purpose for you that you haven't let yourself imagine yet. It's okay to ask Him whether there's more to your work than the paycheck. He delights in showing you.",
-      "scripture": { "text": "But seek first his kingdom and his righteousness, and all these things will be given to you as well.", "reference": "Matthew 6:33" }
+      "scripture": {
+        "text": "But seek ye first his kingdom, and his righteousness; and all these things shall be added unto you.",
+        "reference": "Matthew 6:33",
+        "translation": "ASV"
+      }
     }
   }
 }

@@ -16,73 +16,234 @@
     {
       "text": "When money crosses your mind, what's the first knot in your stomach?",
       "options": [
-        { "text": "Will there even be enough to cover what I need?", "weights": { "fear-of-not-having-enough": 3 } },
-        { "text": "What if I lose what I've finally built up?", "weights": { "fear-of-losing-it": 3 } },
-        { "text": "What do people think of how much I have or don't?", "weights": { "fear-of-being-judged": 3 } },
-        { "text": "If I give, will I be left short myself?", "weights": { "fear-of-generosity": 3 } }
+        {
+          "text": "Will there even be enough to cover what I need?",
+          "weights": {
+            "fear-of-not-having-enough": 3
+          }
+        },
+        {
+          "text": "What if I lose what I've finally built up?",
+          "weights": {
+            "fear-of-losing-it": 3
+          }
+        },
+        {
+          "text": "What do people think of how much I have or don't?",
+          "weights": {
+            "fear-of-being-judged": 3
+          }
+        },
+        {
+          "text": "If I give, will I be left short myself?",
+          "weights": {
+            "fear-of-generosity": 3
+          }
+        }
       ]
     },
     {
       "text": "Which money worry keeps you up at night?",
       "options": [
-        { "text": "Running out before the month is over.", "weights": { "fear-of-not-having-enough": 3 } },
-        { "text": "One disaster wiping out everything I've saved.", "weights": { "fear-of-losing-it": 3 } },
-        { "text": "Being looked down on for my financial situation.", "weights": { "fear-of-being-judged": 3 } },
-        { "text": "Being asked to give more than feels safe.", "weights": { "fear-of-generosity": 3 } }
+        {
+          "text": "Running out before the month is over.",
+          "weights": {
+            "fear-of-not-having-enough": 3
+          }
+        },
+        {
+          "text": "One disaster wiping out everything I've saved.",
+          "weights": {
+            "fear-of-losing-it": 3
+          }
+        },
+        {
+          "text": "Being looked down on for my financial situation.",
+          "weights": {
+            "fear-of-being-judged": 3
+          }
+        },
+        {
+          "text": "Being asked to give more than feels safe.",
+          "weights": {
+            "fear-of-generosity": 3
+          }
+        }
       ]
     },
     {
       "text": "How do you tend to handle your money?",
       "options": [
-        { "text": "Carefully, because scarcity always feels close.", "weights": { "fear-of-not-having-enough": 3 } },
-        { "text": "I guard it tightly and dread anything going wrong.", "weights": { "fear-of-losing-it": 3 } },
-        { "text": "I'm very aware of how it makes me look to others.", "weights": { "fear-of-being-judged": 3 } },
-        { "text": "I hold on, hesitant to part with it even for good causes.", "weights": { "fear-of-generosity": 3 } }
+        {
+          "text": "Carefully, because scarcity always feels close.",
+          "weights": {
+            "fear-of-not-having-enough": 3
+          }
+        },
+        {
+          "text": "I guard it tightly and dread anything going wrong.",
+          "weights": {
+            "fear-of-losing-it": 3
+          }
+        },
+        {
+          "text": "I'm very aware of how it makes me look to others.",
+          "weights": {
+            "fear-of-being-judged": 3
+          }
+        },
+        {
+          "text": "I hold on, hesitant to part with it even for good causes.",
+          "weights": {
+            "fear-of-generosity": 3
+          }
+        }
       ]
     },
     {
       "text": "Picture an unexpected expense landing tomorrow. Your reaction?",
       "options": [
-        { "text": "Panic that I don't have enough to absorb it.", "weights": { "fear-of-not-having-enough": 3 } },
-        { "text": "Dread, because it eats into the cushion I worked for.", "weights": { "fear-of-losing-it": 3 } },
-        { "text": "Embarrassment about having to explain it to anyone.", "weights": { "fear-of-being-judged": 3 } },
-        { "text": "Relief I didn't give that money away last week.", "weights": { "fear-of-generosity": 3 } }
+        {
+          "text": "Panic that I don't have enough to absorb it.",
+          "weights": {
+            "fear-of-not-having-enough": 3
+          }
+        },
+        {
+          "text": "Dread, because it eats into the cushion I worked for.",
+          "weights": {
+            "fear-of-losing-it": 3
+          }
+        },
+        {
+          "text": "Embarrassment about having to explain it to anyone.",
+          "weights": {
+            "fear-of-being-judged": 3
+          }
+        },
+        {
+          "text": "Relief I didn't give that money away last week.",
+          "weights": {
+            "fear-of-generosity": 3
+          }
+        }
       ]
     },
     {
       "text": "Which thought sounds the most like you?",
       "options": [
-        { "text": "There's never quite enough, no matter how I plan.", "weights": { "fear-of-not-having-enough": 3 } },
-        { "text": "I've worked too hard to risk losing any of it.", "weights": { "fear-of-losing-it": 3 } },
-        { "text": "My money says something about my worth to people.", "weights": { "fear-of-being-judged": 3 } },
-        { "text": "If I give freely, who's going to look out for me?", "weights": { "fear-of-generosity": 3 } }
+        {
+          "text": "There's never quite enough, no matter how I plan.",
+          "weights": {
+            "fear-of-not-having-enough": 3
+          }
+        },
+        {
+          "text": "I've worked too hard to risk losing any of it.",
+          "weights": {
+            "fear-of-losing-it": 3
+          }
+        },
+        {
+          "text": "My money says something about my worth to people.",
+          "weights": {
+            "fear-of-being-judged": 3
+          }
+        },
+        {
+          "text": "If I give freely, who's going to look out for me?",
+          "weights": {
+            "fear-of-generosity": 3
+          }
+        }
       ]
     },
     {
       "text": "When you see someone give generously, you feel...",
       "options": [
-        { "text": "Anxious. I couldn't afford to do that.", "weights": { "fear-of-not-having-enough": 3 } },
-        { "text": "Nervous for them. What if they need it later?", "weights": { "fear-of-losing-it": 3 } },
-        { "text": "Aware of how my own giving might be measured.", "weights": { "fear-of-being-judged": 3 } },
-        { "text": "A tug of resistance, like I should hold on tighter.", "weights": { "fear-of-generosity": 3 } }
+        {
+          "text": "Anxious. I couldn't afford to do that.",
+          "weights": {
+            "fear-of-not-having-enough": 3
+          }
+        },
+        {
+          "text": "Nervous for them. What if they need it later?",
+          "weights": {
+            "fear-of-losing-it": 3
+          }
+        },
+        {
+          "text": "Aware of how my own giving might be measured.",
+          "weights": {
+            "fear-of-being-judged": 3
+          }
+        },
+        {
+          "text": "A tug of resistance, like I should hold on tighter.",
+          "weights": {
+            "fear-of-generosity": 3
+          }
+        }
       ]
     },
     {
       "text": "What does money tempt you to trust instead of God?",
       "options": [
-        { "text": "A full bank account as my real source of security.", "weights": { "fear-of-not-having-enough": 2, "fear-of-losing-it": 1 } },
-        { "text": "My savings as the thing that keeps me safe.", "weights": { "fear-of-losing-it": 3 } },
-        { "text": "The approval that comes with looking financially fine.", "weights": { "fear-of-being-judged": 3 } },
-        { "text": "Holding tight as the way to protect my future.", "weights": { "fear-of-generosity": 3 } }
+        {
+          "text": "A full bank account as my real source of security.",
+          "weights": {
+            "fear-of-not-having-enough": 2,
+            "fear-of-losing-it": 1
+          }
+        },
+        {
+          "text": "My savings as the thing that keeps me safe.",
+          "weights": {
+            "fear-of-losing-it": 3
+          }
+        },
+        {
+          "text": "The approval that comes with looking financially fine.",
+          "weights": {
+            "fear-of-being-judged": 3
+          }
+        },
+        {
+          "text": "Holding tight as the way to protect my future.",
+          "weights": {
+            "fear-of-generosity": 3
+          }
+        }
       ]
     },
     {
       "text": "What would peace with money look like for you?",
       "options": [
-        { "text": "Trusting that my needs will be met, one day at a time.", "weights": { "fear-of-not-having-enough": 3 } },
-        { "text": "Holding what I have with open hands, not a clenched fist.", "weights": { "fear-of-losing-it": 3 } },
-        { "text": "Caring more about God's view of me than anyone else's.", "weights": { "fear-of-being-judged": 3 } },
-        { "text": "Giving freely and finding I still have all I need.", "weights": { "fear-of-generosity": 3 } }
+        {
+          "text": "Trusting that my needs will be met, one day at a time.",
+          "weights": {
+            "fear-of-not-having-enough": 3
+          }
+        },
+        {
+          "text": "Holding what I have with open hands, not a clenched fist.",
+          "weights": {
+            "fear-of-losing-it": 3
+          }
+        },
+        {
+          "text": "Caring more about God's view of me than anyone else's.",
+          "weights": {
+            "fear-of-being-judged": 3
+          }
+        },
+        {
+          "text": "Giving freely and finding I still have all I need.",
+          "weights": {
+            "fear-of-generosity": 3
+          }
+        }
       ]
     }
   ],
@@ -90,22 +251,38 @@
     "fear-of-not-having-enough": {
       "name": "Fear of Not Having Enough",
       "description": "Underneath your money worries is a quiet dread that there simply won't be enough. So you plan, brace, and rarely feel at ease. But Jesus pointed to the birds and the flowers and reminded us that the same God who feeds and clothes them knows exactly what you need. He hasn't lost track of you. You can trade the scarcity panic for the daily, steady provision of a Father who already knows your needs.",
-      "scripture": { "text": "And my God will meet all your needs according to the riches of his glory in Christ Jesus.", "reference": "Philippians 4:19" }
+      "scripture": {
+        "text": "And my God shall supply every need of yours according to his riches in glory in Christ Jesus.",
+        "reference": "Philippians 4:19",
+        "translation": "ASV"
+      }
     },
     "fear-of-losing-it": {
       "name": "Fear of Losing It",
       "description": "You've worked hard for what you have, and the thought of losing it grips you tight. So you guard it and stay braced for disaster. But money is the one thing that can vanish in a moment, which is exactly why Jesus said not to anchor your heart there. Your real security was never in a balance that can rise and fall. You can hold what you have with open hands, knowing your true treasure can never be taken.",
-      "scripture": { "text": "Do not store up for yourselves treasures on earth, where moths and vermin destroy, and where thieves break in and steal.", "reference": "Matthew 6:19" }
+      "scripture": {
+        "text": "Lay not up for yourselves treasures upon the earth, where moth and rust consume, and where thieves break through and steal:",
+        "reference": "Matthew 6:19",
+        "translation": "ASV"
+      }
     },
     "fear-of-being-judged": {
       "name": "Fear of Being Judged",
       "description": "Your money fear is wrapped up in what others think, whether you have enough to be respected or look like you're falling behind. That weight is exhausting. But your worth was never set by a number or by anyone's opinion of your finances. You are valued by God for reasons money could never touch. When His view of you becomes the one that counts, the fear of being measured by people slowly loses its hold.",
-      "scripture": { "text": "Keep your lives free from the love of money and be content with what you have, because God has said, Never will I leave you.", "reference": "Hebrews 13:5" }
+      "scripture": {
+        "text": "Be ye free from the love of money; content with such things as ye have: for himself hath said, I will in no wise fail thee, neither will I in any wise forsake thee.",
+        "reference": "Hebrews 13:5",
+        "translation": "ASV"
+      }
     },
     "fear-of-generosity": {
       "name": "Fear of Generosity",
       "description": "When it comes to giving, something in you tenses up and wants to hold on, just in case. That instinct makes sense in a world that feels uncertain. But God invites you into a surprising kind of math, where open-handed giving doesn't leave you empty. He promises to provide for the generous, not drain them. You can loosen your grip and discover that you still have everything you actually need.",
-      "scripture": { "text": "Give, and it will be given to you. A good measure, pressed down, shaken together and running over, will be poured into your lap.", "reference": "Luke 6:38" }
+      "scripture": {
+        "text": "give, and it shall be given unto you; good measure, pressed down, shaken together, running over, shall they give into your bosom. For with what measure ye mete it shall be measured to you again.",
+        "reference": "Luke 6:38",
+        "translation": "ASV"
+      }
     }
   }
 }

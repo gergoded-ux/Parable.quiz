@@ -17,82 +17,263 @@
     {
       "text": "When you finally get a free evening, what usually happens?",
       "options": [
-        { "text": "I disappear into my phone for hours and barely remember it.", "weights": { "numb-scrolling": 3 } },
-        { "text": "I crash hard because I pushed myself to total empty.", "weights": { "crash-and-burn": 3 } },
-        { "text": "I try to relax but feel guilty the whole time.", "weights": { "guilty-rest": 3 } },
-        { "text": "I 'rest' by knocking out little tasks that have been nagging me.", "weights": { "productive-rest": 3 } }
+        {
+          "text": "I disappear into my phone for hours and barely remember it.",
+          "weights": {
+            "numb-scrolling": 3
+          }
+        },
+        {
+          "text": "I crash hard because I pushed myself to total empty.",
+          "weights": {
+            "crash-and-burn": 3
+          }
+        },
+        {
+          "text": "I try to relax but feel guilty the whole time.",
+          "weights": {
+            "guilty-rest": 3
+          }
+        },
+        {
+          "text": "I 'rest' by knocking out little tasks that have been nagging me.",
+          "weights": {
+            "productive-rest": 3
+          }
+        }
       ]
     },
     {
       "text": "After your usual downtime, how do you feel?",
       "options": [
-        { "text": "Foggy and weirdly more drained than before.", "weights": { "numb-scrolling": 3 } },
-        { "text": "Wrecked, like I have to recover from how I rest.", "weights": { "crash-and-burn": 3 } },
-        { "text": "Restless, because I never fully let myself stop.", "weights": { "guilty-rest": 2 } },
-        { "text": "Actually refreshed and ready to re-enter my week.", "weights": { "true-sabbath-rest": 3 } }
+        {
+          "text": "Foggy and weirdly more drained than before.",
+          "weights": {
+            "numb-scrolling": 3
+          }
+        },
+        {
+          "text": "Wrecked, like I have to recover from how I rest.",
+          "weights": {
+            "crash-and-burn": 3
+          }
+        },
+        {
+          "text": "Restless, because I never fully let myself stop.",
+          "weights": {
+            "guilty-rest": 2
+          }
+        },
+        {
+          "text": "Actually refreshed and ready to re-enter my week.",
+          "weights": {
+            "true-sabbath-rest": 3
+          }
+        }
       ]
     },
     {
       "text": "What's your honest relationship with the word 'rest'?",
       "options": [
-        { "text": "I numb out and call it rest, but I know it isn't.", "weights": { "numb-scrolling": 3 } },
-        { "text": "I only rest once my body forces me to.", "weights": { "crash-and-burn": 3 } },
-        { "text": "It feels lazy, like I should be doing something useful.", "weights": { "guilty-rest": 3 } },
-        { "text": "It's a sacred pause I actually protect now.", "weights": { "true-sabbath-rest": 3 } }
+        {
+          "text": "I numb out and call it rest, but I know it isn't.",
+          "weights": {
+            "numb-scrolling": 3
+          }
+        },
+        {
+          "text": "I only rest once my body forces me to.",
+          "weights": {
+            "crash-and-burn": 3
+          }
+        },
+        {
+          "text": "It feels lazy, like I should be doing something useful.",
+          "weights": {
+            "guilty-rest": 3
+          }
+        },
+        {
+          "text": "It's a sacred pause I actually protect now.",
+          "weights": {
+            "true-sabbath-rest": 3
+          }
+        }
       ]
     },
     {
       "text": "Picture a true day off. What's your gut reaction?",
       "options": [
-        { "text": "I'd probably just scroll the whole day away.", "weights": { "numb-scrolling": 3 } },
-        { "text": "I'd sleep for twelve hours because I'm so depleted.", "weights": { "crash-and-burn": 3 } },
-        { "text": "I'd feel anxious that I'm wasting it.", "weights": { "guilty-rest": 3 } },
-        { "text": "Lovely. But I'd fill it with 'fun productive' projects.", "weights": { "productive-rest": 3 } }
+        {
+          "text": "I'd probably just scroll the whole day away.",
+          "weights": {
+            "numb-scrolling": 3
+          }
+        },
+        {
+          "text": "I'd sleep for twelve hours because I'm so depleted.",
+          "weights": {
+            "crash-and-burn": 3
+          }
+        },
+        {
+          "text": "I'd feel anxious that I'm wasting it.",
+          "weights": {
+            "guilty-rest": 3
+          }
+        },
+        {
+          "text": "Lovely. But I'd fill it with 'fun productive' projects.",
+          "weights": {
+            "productive-rest": 3
+          }
+        }
       ]
     },
     {
       "text": "Why do you think your rest isn't restoring you?",
       "options": [
-        { "text": "Because numbing isn't the same as filling back up.", "weights": { "numb-scrolling": 3 } },
-        { "text": "Because I wait until I'm running on fumes to stop at all.", "weights": { "crash-and-burn": 3 } },
-        { "text": "Because I can't switch off the guilt and just be.", "weights": { "guilty-rest": 3 } },
-        { "text": "Because my 'rest' still has a to-do list attached.", "weights": { "productive-rest": 3 } }
+        {
+          "text": "Because numbing isn't the same as filling back up.",
+          "weights": {
+            "numb-scrolling": 3
+          }
+        },
+        {
+          "text": "Because I wait until I'm running on fumes to stop at all.",
+          "weights": {
+            "crash-and-burn": 3
+          }
+        },
+        {
+          "text": "Because I can't switch off the guilt and just be.",
+          "weights": {
+            "guilty-rest": 3
+          }
+        },
+        {
+          "text": "Because my 'rest' still has a to-do list attached.",
+          "weights": {
+            "productive-rest": 3
+          }
+        }
       ]
     },
     {
       "text": "When you stop working, the loudest thought in your head is...",
       "options": [
-        { "text": "Nothing, really. I just go blank and scroll.", "weights": { "numb-scrolling": 3 } },
-        { "text": "Thank goodness, I literally couldn't go another minute.", "weights": { "crash-and-burn": 3 } },
-        { "text": "You should be doing something more useful than this.", "weights": { "guilty-rest": 3 } },
-        { "text": "What can I get done while I have a sec?", "weights": { "productive-rest": 3 } }
+        {
+          "text": "Nothing, really. I just go blank and scroll.",
+          "weights": {
+            "numb-scrolling": 3
+          }
+        },
+        {
+          "text": "Thank goodness, I literally couldn't go another minute.",
+          "weights": {
+            "crash-and-burn": 3
+          }
+        },
+        {
+          "text": "You should be doing something more useful than this.",
+          "weights": {
+            "guilty-rest": 3
+          }
+        },
+        {
+          "text": "What can I get done while I have a sec?",
+          "weights": {
+            "productive-rest": 3
+          }
+        }
       ]
     },
     {
       "text": "How does God fit into your idea of rest?",
       "options": [
-        { "text": "Honestly, He doesn't. Rest is just zoning out.", "weights": { "numb-scrolling": 2 } },
-        { "text": "I'm too fried to even think about Him when I crash.", "weights": { "crash-and-burn": 2 } },
-        { "text": "I feel like resting in Him is also a thing I'm failing at.", "weights": { "guilty-rest": 2 } },
-        { "text": "Resting with Him is the whole point. It's where I refill.", "weights": { "true-sabbath-rest": 3 } }
+        {
+          "text": "Honestly, He doesn't. Rest is just zoning out.",
+          "weights": {
+            "numb-scrolling": 2
+          }
+        },
+        {
+          "text": "I'm too fried to even think about Him when I crash.",
+          "weights": {
+            "crash-and-burn": 2
+          }
+        },
+        {
+          "text": "I feel like resting in Him is also a thing I'm failing at.",
+          "weights": {
+            "guilty-rest": 2
+          }
+        },
+        {
+          "text": "Resting with Him is the whole point. It's where I refill.",
+          "weights": {
+            "true-sabbath-rest": 3
+          }
+        }
       ]
     },
     {
       "text": "Which statement stings a little because it's true?",
       "options": [
-        { "text": "\"You're not resting, you're just avoiding.\"", "weights": { "numb-scrolling": 3 } },
-        { "text": "\"You treat rest like an emergency, not a rhythm.\"", "weights": { "crash-and-burn": 3 } },
-        { "text": "\"You can't enjoy a break without feeling bad about it.\"", "weights": { "guilty-rest": 3 } },
-        { "text": "\"Even your downtime has a deadline.\"", "weights": { "productive-rest": 3 } }
+        {
+          "text": "\"You're not resting, you're just avoiding.\"",
+          "weights": {
+            "numb-scrolling": 3
+          }
+        },
+        {
+          "text": "\"You treat rest like an emergency, not a rhythm.\"",
+          "weights": {
+            "crash-and-burn": 3
+          }
+        },
+        {
+          "text": "\"You can't enjoy a break without feeling bad about it.\"",
+          "weights": {
+            "guilty-rest": 3
+          }
+        },
+        {
+          "text": "\"Even your downtime has a deadline.\"",
+          "weights": {
+            "productive-rest": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you most need to give yourself permission to do?",
       "options": [
-        { "text": "Put the phone down and actually feel my life.", "weights": { "numb-scrolling": 3 } },
-        { "text": "Stop before I'm empty, not after.", "weights": { "crash-and-burn": 3 } },
-        { "text": "Rest without earning it first.", "weights": { "guilty-rest": 3 } },
-        { "text": "Do nothing useful and call it good.", "weights": { "productive-rest": 2, "guilty-rest": 1 } }
+        {
+          "text": "Put the phone down and actually feel my life.",
+          "weights": {
+            "numb-scrolling": 3
+          }
+        },
+        {
+          "text": "Stop before I'm empty, not after.",
+          "weights": {
+            "crash-and-burn": 3
+          }
+        },
+        {
+          "text": "Rest without earning it first.",
+          "weights": {
+            "guilty-rest": 3
+          }
+        },
+        {
+          "text": "Do nothing useful and call it good.",
+          "weights": {
+            "productive-rest": 2,
+            "guilty-rest": 1
+          }
+        }
       ]
     }
   ],
@@ -100,27 +281,47 @@
     "numb-scrolling": {
       "name": "Numb-Scrolling",
       "description": "What you call resting is mostly numbing, and the difference matters. Scrolling distracts your mind, but it doesn't refill your soul, which is why you stand up emptier than you sat down. Real rest isn't the absence of noise. It's the presence of God. Try trading thirty minutes of the feed for actual quiet with Him, and notice how differently you feel. Your soul has been starving for stillness, not stimulation.",
-      "scripture": { "text": "Be still, and know that I am God.", "reference": "Psalm 46:10" }
+      "scripture": {
+        "text": "Be still, and know that I am God: I will be exalted among the nations, I will be exalted in the earth.",
+        "reference": "Psalm 46:10",
+        "translation": "ASV"
+      }
     },
     "crash-and-burn": {
       "name": "Crash-and-Burn Rest",
       "description": "You only rest when your body finally forces you to, so your downtime is really just recovery from running on empty. That's survival, not rhythm. God didn't design rest as an emergency brake for when you've wrecked yourself. He built it into the week on purpose, before you hit the wall. Learning to stop while you still have something left isn't weakness. It's wisdom, and it's how you last.",
-      "scripture": { "text": "It is vain for you to rise up early, to sit up late, to eat the bread of sorrows: for so he giveth his beloved sleep.", "reference": "Psalm 127:2" }
+      "scripture": {
+        "text": "It is vain for you to rise up early, To take rest late, To eat the bread of toil; Forso he giveth unto his beloved sleep.",
+        "reference": "Psalm 127:2",
+        "translation": "ASV"
+      }
     },
     "guilty-rest": {
       "name": "Guilty Rest",
       "description": "You can technically stop, but you can't enjoy it, because a voice keeps insisting you should be doing something useful. So you rest with one foot on the gas. Hear this: rest is not laziness, and you don't have to earn the right to breathe. God Himself rested and called it holy. When you stop without guilt, you're not slacking. You're trusting that the world holds together because He holds it, not because you do.",
-      "scripture": { "text": "And he rested on the seventh day from all his work which he had made.", "reference": "Genesis 2:2" }
+      "scripture": {
+        "text": "And on the seventh day God finished his work which he had made; and he rested on the seventh day from all his work which he had made.",
+        "reference": "Genesis 2:2",
+        "translation": "ASV"
+      }
     },
     "productive-rest": {
       "name": "Productive 'Rest'",
       "description": "Your version of rest still comes with a checklist. You swap big tasks for smaller 'fun' ones, but your mind never actually clocks out. The problem is that productivity, even pleasant productivity, isn't the same as renewal. It's okay to do something with no payoff, no goal, and no outcome to report. Sometimes the most faithful thing you can do is sit with Jesus and accomplish absolutely nothing.",
-      "scripture": { "text": "Come ye yourselves apart into a desert place, and rest a while.", "reference": "Mark 6:31" }
+      "scripture": {
+        "text": "And he saith unto them, Come ye yourselves apart into a desert place, and rest a while. For there were many coming and going, and they had no leisure so much as to eat.",
+        "reference": "Mark 6:31",
+        "translation": "ASV"
+      }
     },
     "true-sabbath-rest": {
       "name": "True Sabbath Rest",
       "description": "You've learned something most people never figure out: how to actually stop and be restored, not just paused. You protect a real rhythm of rest, and you let God refill you there instead of just numbing or hustling. Keep guarding it. This isn't a luxury you'll grow out of. It's the well you keep drinking from, and the peace it gives you is meant to overflow onto everyone around you.",
-      "scripture": { "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.", "reference": "Matthew 11:28" }
+      "scripture": {
+        "text": "Come unto me, all ye that labor and are heavy laden, and I will give you rest.",
+        "reference": "Matthew 11:28",
+        "translation": "ASV"
+      }
     }
   }
 }

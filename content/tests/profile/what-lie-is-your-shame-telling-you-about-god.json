@@ -16,82 +16,262 @@
     {
       "text": "After you mess up, what do you imagine God thinking about you?",
       "options": [
-        { "text": "That He's let down and shaking His head at me.", "weights": { "disappointed": 3 } },
-        { "text": "That He's adding it to a long list against me.", "weights": { "keeping-score": 3 } },
-        { "text": "That He'll love me again once I get it together.", "weights": { "loves-when-you-perform": 3 } },
-        { "text": "That He's already moving toward me with open arms.", "weights": { "already-run-to-meet-you": 3 } }
+        {
+          "text": "That He's let down and shaking His head at me.",
+          "weights": {
+            "disappointed": 3
+          }
+        },
+        {
+          "text": "That He's adding it to a long list against me.",
+          "weights": {
+            "keeping-score": 3
+          }
+        },
+        {
+          "text": "That He'll love me again once I get it together.",
+          "weights": {
+            "loves-when-you-perform": 3
+          }
+        },
+        {
+          "text": "That He's already moving toward me with open arms.",
+          "weights": {
+            "already-run-to-meet-you": 3
+          }
+        }
       ]
     },
     {
       "text": "When you pray after a bad day, how do you feel coming to God?",
       "options": [
-        { "text": "Like a disappointment showing up empty-handed.", "weights": { "disappointed": 3 } },
-        { "text": "Like I have to account for everything I got wrong.", "weights": { "keeping-score": 3 } },
-        { "text": "Like I should clean myself up before I'm welcome.", "weights": { "loves-when-you-perform": 3 } },
-        { "text": "Like a loved child running home, mess and all.", "weights": { "already-run-to-meet-you": 3 } }
+        {
+          "text": "Like a disappointment showing up empty-handed.",
+          "weights": {
+            "disappointed": 3
+          }
+        },
+        {
+          "text": "Like I have to account for everything I got wrong.",
+          "weights": {
+            "keeping-score": 3
+          }
+        },
+        {
+          "text": "Like I should clean myself up before I'm welcome.",
+          "weights": {
+            "loves-when-you-perform": 3
+          }
+        },
+        {
+          "text": "Like a loved child running home, mess and all.",
+          "weights": {
+            "already-run-to-meet-you": 3
+          }
+        }
       ]
     },
     {
       "text": "Which sentence stings because part of you believes it?",
       "options": [
-        { "text": "God expected more from me than this.", "weights": { "disappointed": 3 } },
-        { "text": "God remembers every single thing I've done.", "weights": { "keeping-score": 3 } },
-        { "text": "God's love depends on how well I'm doing.", "weights": { "loves-when-you-perform": 3 } },
-        { "text": "God couldn't possibly still want me close.", "weights": { "already-run-to-meet-you": 3 } }
+        {
+          "text": "God expected more from me than this.",
+          "weights": {
+            "disappointed": 3
+          }
+        },
+        {
+          "text": "God remembers every single thing I've done.",
+          "weights": {
+            "keeping-score": 3
+          }
+        },
+        {
+          "text": "God's love depends on how well I'm doing.",
+          "weights": {
+            "loves-when-you-perform": 3
+          }
+        },
+        {
+          "text": "God couldn't possibly still want me close.",
+          "weights": {
+            "already-run-to-meet-you": 3
+          }
+        }
       ]
     },
     {
       "text": "What's your gut reaction to the word grace?",
       "options": [
-        { "text": "It's for other people, not for someone like me.", "weights": { "disappointed": 3 } },
-        { "text": "It sounds nice, but my record says otherwise.", "weights": { "keeping-score": 3 } },
-        { "text": "I believe in it, but I still feel I have to earn it.", "weights": { "loves-when-you-perform": 3 } },
-        { "text": "It's the thing that keeps running toward me.", "weights": { "already-run-to-meet-you": 3 } }
+        {
+          "text": "It's for other people, not for someone like me.",
+          "weights": {
+            "disappointed": 3
+          }
+        },
+        {
+          "text": "It sounds nice, but my record says otherwise.",
+          "weights": {
+            "keeping-score": 3
+          }
+        },
+        {
+          "text": "I believe in it, but I still feel I have to earn it.",
+          "weights": {
+            "loves-when-you-perform": 3
+          }
+        },
+        {
+          "text": "It's the thing that keeps running toward me.",
+          "weights": {
+            "already-run-to-meet-you": 3
+          }
+        }
       ]
     },
     {
       "text": "How do you handle your past failures around God?",
       "options": [
-        { "text": "I assume they've permanently lowered His opinion of me.", "weights": { "disappointed": 3 } },
-        { "text": "I replay them, sure He's still holding them against me.", "weights": { "keeping-score": 3 } },
-        { "text": "I try to outperform them so He'll be pleased again.", "weights": { "loves-when-you-perform": 3 } },
-        { "text": "I bring them home and let Him cover them.", "weights": { "already-run-to-meet-you": 3 } }
+        {
+          "text": "I assume they've permanently lowered His opinion of me.",
+          "weights": {
+            "disappointed": 3
+          }
+        },
+        {
+          "text": "I replay them, sure He's still holding them against me.",
+          "weights": {
+            "keeping-score": 3
+          }
+        },
+        {
+          "text": "I try to outperform them so He'll be pleased again.",
+          "weights": {
+            "loves-when-you-perform": 3
+          }
+        },
+        {
+          "text": "I bring them home and let Him cover them.",
+          "weights": {
+            "already-run-to-meet-you": 3
+          }
+        }
       ]
     },
     {
       "text": "When you imagine God's face turned toward you, you picture...",
       "options": [
-        { "text": "A heavy sigh of disappointment.", "weights": { "disappointed": 3 } },
-        { "text": "A judge reading off the charges.", "weights": { "keeping-score": 3 } },
-        { "text": "Approval I have to keep re-earning.", "weights": { "loves-when-you-perform": 3 } },
-        { "text": "A Father running down the road to reach me.", "weights": { "already-run-to-meet-you": 3 } }
+        {
+          "text": "A heavy sigh of disappointment.",
+          "weights": {
+            "disappointed": 3
+          }
+        },
+        {
+          "text": "A judge reading off the charges.",
+          "weights": {
+            "keeping-score": 3
+          }
+        },
+        {
+          "text": "Approval I have to keep re-earning.",
+          "weights": {
+            "loves-when-you-perform": 3
+          }
+        },
+        {
+          "text": "A Father running down the road to reach me.",
+          "weights": {
+            "already-run-to-meet-you": 3
+          }
+        }
       ]
     },
     {
       "text": "What keeps you from drawing close to God when you've fallen short?",
       "options": [
-        { "text": "The feeling that I've already let Him down too much.", "weights": { "disappointed": 3 } },
-        { "text": "The weight of a record I can't seem to clear.", "weights": { "keeping-score": 3 } },
-        { "text": "The sense that I haven't earned my way back yet.", "weights": { "loves-when-you-perform": 3 } },
-        { "text": "Almost nothing. I've started believing He wants me.", "weights": { "already-run-to-meet-you": 3 } }
+        {
+          "text": "The feeling that I've already let Him down too much.",
+          "weights": {
+            "disappointed": 3
+          }
+        },
+        {
+          "text": "The weight of a record I can't seem to clear.",
+          "weights": {
+            "keeping-score": 3
+          }
+        },
+        {
+          "text": "The sense that I haven't earned my way back yet.",
+          "weights": {
+            "loves-when-you-perform": 3
+          }
+        },
+        {
+          "text": "Almost nothing. I've started believing He wants me.",
+          "weights": {
+            "already-run-to-meet-you": 3
+          }
+        }
       ]
     },
     {
       "text": "What would change everything if you truly believed it?",
       "options": [
-        { "text": "That God isn't disappointed in me at all.", "weights": { "disappointed": 3 } },
-        { "text": "That my record was wiped, not just paused.", "weights": { "keeping-score": 3 } },
-        { "text": "That His love was never tied to my performance.", "weights": { "loves-when-you-perform": 3 } },
-        { "text": "That He's been running toward me this whole time.", "weights": { "already-run-to-meet-you": 3 } }
+        {
+          "text": "That God isn't disappointed in me at all.",
+          "weights": {
+            "disappointed": 3
+          }
+        },
+        {
+          "text": "That my record was wiped, not just paused.",
+          "weights": {
+            "keeping-score": 3
+          }
+        },
+        {
+          "text": "That His love was never tied to my performance.",
+          "weights": {
+            "loves-when-you-perform": 3
+          }
+        },
+        {
+          "text": "That He's been running toward me this whole time.",
+          "weights": {
+            "already-run-to-meet-you": 3
+          }
+        }
       ]
     },
     {
       "text": "Deep down, what does your heart most need to hear from God?",
       "options": [
-        { "text": "\"I'm not disappointed in you. I delight in you.\"", "weights": { "disappointed": 3 } },
-        { "text": "\"There's no list. I remember your sins no more.\"", "weights": { "keeping-score": 3 } },
-        { "text": "\"You don't have to perform. You're already loved.\"", "weights": { "loves-when-you-perform": 3 } },
-        { "text": "\"Welcome home. I've been waiting for you.\"", "weights": { "already-run-to-meet-you": 3 } }
+        {
+          "text": "\"I'm not disappointed in you. I delight in you.\"",
+          "weights": {
+            "disappointed": 3
+          }
+        },
+        {
+          "text": "\"There's no list. I remember your sins no more.\"",
+          "weights": {
+            "keeping-score": 3
+          }
+        },
+        {
+          "text": "\"You don't have to perform. You're already loved.\"",
+          "weights": {
+            "loves-when-you-perform": 3
+          }
+        },
+        {
+          "text": "\"Welcome home. I've been waiting for you.\"",
+          "weights": {
+            "already-run-to-meet-you": 3
+          }
+        }
       ]
     }
   ],
@@ -99,22 +279,38 @@
     "disappointed": {
       "name": "He's Disappointed in You",
       "description": "The lie your shame keeps telling is that God is up there sighing, let down, shaking His head at the latest version of you. But that's not the God of the Bible. He calls you His beloved child and says He actually delights in you, not the cleaned-up someday-you, but the real one reading this right now. Disappointment assumes He expected you to be God. He never did. He knows exactly who you are, every flaw included, and He still rejoices over you. The voice telling you otherwise is shame, and it has been lying.",
-      "scripture": { "text": "The Lord your God is with you... he will take great delight in you.", "reference": "Zephaniah 3:17" }
+      "scripture": {
+        "text": "Jehovah thy God is in the midst of thee, a mighty one who will save; he will rejoice over thee with joy; he will rest in his love; he will joy over thee with singing.",
+        "reference": "Zephaniah 3:17",
+        "translation": "ASV"
+      }
     },
     "keeping-score": {
       "name": "He's Keeping Score",
       "description": "Your shame has cast God as a record-keeper, tallying every wrong, waiting to read the list back to you. But here's the staggering truth: He says He remembers your sins no more. Not paused, not filed away for later. Gone, as far as the east is from the west. The cross didn't lower your score. It tore up the ledger entirely. There's no list with your name on it. The God you've been bracing against is the same God who chose, on purpose, to forget what you can't stop replaying. You can finally stop counting.",
-      "scripture": { "text": "I will forgive their wickedness and will remember their sins no more.", "reference": "Hebrews 8:12" }
+      "scripture": {
+        "text": "For I will be merciful to their iniquities, And their sins will I remember no more.",
+        "reference": "Hebrews 8:12",
+        "translation": "ASV"
+      }
     },
     "loves-when-you-perform": {
       "name": "He Loves You Only When You Perform",
       "description": "The lie underneath your shame is that God's love is a wage, something you earn on the good days and lose on the bad ones. So you keep performing, hoping to climb back into His favor. But His love was never for sale. He proved it by loving you while you were still a mess, before you fixed a single thing. You cannot perform your way into more of it, and you cannot fail your way out of it. The pressure you feel to earn His love is the lie. The love itself was settled long before you started trying.",
-      "scripture": { "text": "God demonstrates his own love for us in this: While we were still sinners, Christ died for us.", "reference": "Romans 5:8" }
+      "scripture": {
+        "text": "But God commendeth his own love toward us, in that, while we were yet sinners, Christ died for us.",
+        "reference": "Romans 5:8",
+        "translation": "ASV"
+      }
     },
     "already-run-to-meet-you": {
       "name": "He's Already Run to Meet You",
       "description": "You've started to see God as He actually is, and it's beautiful. In the story of the prodigal, while the son was still a long way off, the father saw him and ran, and threw his arms around him before a single word of apology came out. That's the God who's been moving toward you this whole time. You don't have to earn the welcome or rehearse the speech. He's already on the road, already running, already glad. Keep believing this, because the truth you've found is the very thing that breaks shame's grip for good.",
-      "scripture": { "text": "While he was still a long way off, his father saw him and was filled with compassion; he ran to his son.", "reference": "Luke 15:20" }
+      "scripture": {
+        "text": "And he arose, and came to his father. But while he was yet afar off, his father saw him, and was moved with compassion, and ran, and fell on his neck, and kissed him.",
+        "reference": "Luke 15:20",
+        "translation": "ASV"
+      }
     }
   }
 }

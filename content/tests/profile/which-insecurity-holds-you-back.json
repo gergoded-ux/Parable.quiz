@@ -16,73 +16,234 @@
     {
       "text": "There's something you've wanted to try for a while. What actually stops you?",
       "options": [
-        { "text": "I keep imagining what people would say about me.", "weights": { "fear-of-judgment": 3 } },
-        { "text": "What if I put everything in and it falls apart?", "weights": { "fear-of-failure": 3 } },
-        { "text": "I'm not sure I'd fit in with those people anyway.", "weights": { "fear-of-not-belonging": 3 } },
-        { "text": "It would put me out in the open, and that terrifies me.", "weights": { "fear-of-being-seen": 3 } }
+        {
+          "text": "I keep imagining what people would say about me.",
+          "weights": {
+            "fear-of-judgment": 3
+          }
+        },
+        {
+          "text": "What if I put everything in and it falls apart?",
+          "weights": {
+            "fear-of-failure": 3
+          }
+        },
+        {
+          "text": "I'm not sure I'd fit in with those people anyway.",
+          "weights": {
+            "fear-of-not-belonging": 3
+          }
+        },
+        {
+          "text": "It would put me out in the open, and that terrifies me.",
+          "weights": {
+            "fear-of-being-seen": 3
+          }
+        }
       ]
     },
     {
       "text": "Before you speak up in a group, what runs through your head?",
       "options": [
-        { "text": "They're going to think this is a stupid thing to say.", "weights": { "fear-of-judgment": 3 } },
-        { "text": "What if I get it wrong in front of everyone?", "weights": { "fear-of-failure": 2, "fear-of-being-seen": 1 } },
-        { "text": "Do I even belong in this conversation?", "weights": { "fear-of-not-belonging": 3 } },
-        { "text": "All eyes will land on me, and I'd rather disappear.", "weights": { "fear-of-being-seen": 3 } }
+        {
+          "text": "They're going to think this is a stupid thing to say.",
+          "weights": {
+            "fear-of-judgment": 3
+          }
+        },
+        {
+          "text": "What if I get it wrong in front of everyone?",
+          "weights": {
+            "fear-of-failure": 2,
+            "fear-of-being-seen": 1
+          }
+        },
+        {
+          "text": "Do I even belong in this conversation?",
+          "weights": {
+            "fear-of-not-belonging": 3
+          }
+        },
+        {
+          "text": "All eyes will land on me, and I'd rather disappear.",
+          "weights": {
+            "fear-of-being-seen": 3
+          }
+        }
       ]
     },
     {
       "text": "Which thought feels the most familiar?",
       "options": [
-        { "text": "I care way too much about what other people think of me.", "weights": { "fear-of-judgment": 3 } },
-        { "text": "If I can't do it perfectly, I'd rather not start.", "weights": { "fear-of-failure": 3 } },
-        { "text": "I always feel like the odd one out, no matter the room.", "weights": { "fear-of-not-belonging": 3 } },
-        { "text": "If they really saw me, they wouldn't like what they found.", "weights": { "fear-of-being-seen": 3 } }
+        {
+          "text": "I care way too much about what other people think of me.",
+          "weights": {
+            "fear-of-judgment": 3
+          }
+        },
+        {
+          "text": "If I can't do it perfectly, I'd rather not start.",
+          "weights": {
+            "fear-of-failure": 3
+          }
+        },
+        {
+          "text": "I always feel like the odd one out, no matter the room.",
+          "weights": {
+            "fear-of-not-belonging": 3
+          }
+        },
+        {
+          "text": "If they really saw me, they wouldn't like what they found.",
+          "weights": {
+            "fear-of-being-seen": 3
+          }
+        }
       ]
     },
     {
       "text": "Someone offers you a chance to lead something. Your gut says...",
       "options": [
-        { "text": "People will scrutinize every move I make.", "weights": { "fear-of-judgment": 3 } },
-        { "text": "I'll let everyone down when I mess it up.", "weights": { "fear-of-failure": 3 } },
-        { "text": "Who am I to lead these people? I'm not really one of them.", "weights": { "fear-of-not-belonging": 3 } },
-        { "text": "That's far too visible. I'd rather support from the back.", "weights": { "fear-of-being-seen": 3 } }
+        {
+          "text": "People will scrutinize every move I make.",
+          "weights": {
+            "fear-of-judgment": 3
+          }
+        },
+        {
+          "text": "I'll let everyone down when I mess it up.",
+          "weights": {
+            "fear-of-failure": 3
+          }
+        },
+        {
+          "text": "Who am I to lead these people? I'm not really one of them.",
+          "weights": {
+            "fear-of-not-belonging": 3
+          }
+        },
+        {
+          "text": "That's far too visible. I'd rather support from the back.",
+          "weights": {
+            "fear-of-being-seen": 3
+          }
+        }
       ]
     },
     {
       "text": "When you imagine actually going for the thing, what's the worst-case scene?",
       "options": [
-        { "text": "People talking about me, shaking their heads.", "weights": { "fear-of-judgment": 3 } },
-        { "text": "Trying my hardest and still flat-out failing.", "weights": { "fear-of-failure": 3 } },
-        { "text": "Standing there realizing I don't fit and never will.", "weights": { "fear-of-not-belonging": 3 } },
-        { "text": "Being fully exposed, with nowhere to hide.", "weights": { "fear-of-being-seen": 3 } }
+        {
+          "text": "People talking about me, shaking their heads.",
+          "weights": {
+            "fear-of-judgment": 3
+          }
+        },
+        {
+          "text": "Trying my hardest and still flat-out failing.",
+          "weights": {
+            "fear-of-failure": 3
+          }
+        },
+        {
+          "text": "Standing there realizing I don't fit and never will.",
+          "weights": {
+            "fear-of-not-belonging": 3
+          }
+        },
+        {
+          "text": "Being fully exposed, with nowhere to hide.",
+          "weights": {
+            "fear-of-being-seen": 3
+          }
+        }
       ]
     },
     {
       "text": "How do you usually protect yourself from that fear?",
       "options": [
-        { "text": "I shape-shift to keep everyone happy with me.", "weights": { "fear-of-judgment": 3 } },
-        { "text": "I avoid anything I'm not already good at.", "weights": { "fear-of-failure": 3 } },
-        { "text": "I hold back and wait for an invitation that never comes.", "weights": { "fear-of-not-belonging": 3 } },
-        { "text": "I stay small and quiet so no one looks too closely.", "weights": { "fear-of-being-seen": 3 } }
+        {
+          "text": "I shape-shift to keep everyone happy with me.",
+          "weights": {
+            "fear-of-judgment": 3
+          }
+        },
+        {
+          "text": "I avoid anything I'm not already good at.",
+          "weights": {
+            "fear-of-failure": 3
+          }
+        },
+        {
+          "text": "I hold back and wait for an invitation that never comes.",
+          "weights": {
+            "fear-of-not-belonging": 3
+          }
+        },
+        {
+          "text": "I stay small and quiet so no one looks too closely.",
+          "weights": {
+            "fear-of-being-seen": 3
+          }
+        }
       ]
     },
     {
       "text": "What would change if this fear suddenly lifted?",
       "options": [
-        { "text": "I'd stop performing and finally relax around people.", "weights": { "fear-of-judgment": 3 } },
-        { "text": "I'd take the risk and let myself try, even badly.", "weights": { "fear-of-failure": 3 } },
-        { "text": "I'd walk into a room sure that I belong there.", "weights": { "fear-of-not-belonging": 3 } },
-        { "text": "I'd let myself be known instead of hiding.", "weights": { "fear-of-being-seen": 3 } }
+        {
+          "text": "I'd stop performing and finally relax around people.",
+          "weights": {
+            "fear-of-judgment": 3
+          }
+        },
+        {
+          "text": "I'd take the risk and let myself try, even badly.",
+          "weights": {
+            "fear-of-failure": 3
+          }
+        },
+        {
+          "text": "I'd walk into a room sure that I belong there.",
+          "weights": {
+            "fear-of-not-belonging": 3
+          }
+        },
+        {
+          "text": "I'd let myself be known instead of hiding.",
+          "weights": {
+            "fear-of-being-seen": 3
+          }
+        }
       ]
     },
     {
       "text": "Deep down, the lie this fear keeps whispering is...",
       "options": [
-        { "text": "Your worth depends on everyone's approval.", "weights": { "fear-of-judgment": 3 } },
-        { "text": "You are only as good as your last success.", "weights": { "fear-of-failure": 3 } },
-        { "text": "You'll always be on the outside looking in.", "weights": { "fear-of-not-belonging": 3 } },
-        { "text": "The real you is too much, or not enough, to be loved.", "weights": { "fear-of-being-seen": 3 } }
+        {
+          "text": "Your worth depends on everyone's approval.",
+          "weights": {
+            "fear-of-judgment": 3
+          }
+        },
+        {
+          "text": "You are only as good as your last success.",
+          "weights": {
+            "fear-of-failure": 3
+          }
+        },
+        {
+          "text": "You'll always be on the outside looking in.",
+          "weights": {
+            "fear-of-not-belonging": 3
+          }
+        },
+        {
+          "text": "The real you is too much, or not enough, to be loved.",
+          "weights": {
+            "fear-of-being-seen": 3
+          }
+        }
       ]
     }
   ],
@@ -90,22 +251,38 @@
     "fear-of-judgment": {
       "name": "Fear of Judgment",
       "description": "You hold yourself back because you can already hear the critics in your head, even when no one has said a word. So you edit yourself, perform, and try to keep everyone pleased. Here's the freeing truth: you will never be able to manage every opinion, and you were never meant to. The God who made you has already given you His approval, and His is the only verdict that gets the final say.",
-      "scripture": { "text": "Am I now trying to win the approval of human beings, or of God?", "reference": "Galatians 1:10" }
+      "scripture": {
+        "text": "For am I now seeking the favor of men, or of God? or am I striving to please men? if I were still pleasing men, I should not be a servant of Christ.",
+        "reference": "Galatians 1:10",
+        "translation": "ASV"
+      }
     },
     "fear-of-failure": {
       "name": "Fear of Failure",
       "description": "You'd rather not start than risk falling short, so the things you long to do stay stuck on a shelf. But failure isn't proof that something is wrong with you. It's part of how anyone grows, and it has never once disqualified you from being loved. You can move forward shaky and unsure. The God who calls you doesn't need you flawless. He just asks you to take the step.",
-      "scripture": { "text": "For though the righteous fall seven times, they rise again.", "reference": "Proverbs 24:16" }
+      "scripture": {
+        "text": "For a righteous man falleth seven times, and riseth up again; But the wicked are overthrown by calamity.",
+        "reference": "Proverbs 24:16",
+        "translation": "ASV"
+      }
     },
     "fear-of-not-belonging": {
       "name": "Fear of Not Belonging",
       "description": "You hang back because some part of you is sure you don't fit, that you're always the outsider in the room. That ache is real, but it isn't the truth about you. You were chosen on purpose and brought near, adopted into a family that wanted you. You don't have to earn your spot at the table. You already have one, and no one can take it from you.",
-      "scripture": { "text": "You are no longer foreigners and strangers, but fellow citizens with God's people and also members of his household.", "reference": "Ephesians 2:19" }
+      "scripture": {
+        "text": "So then ye are no more strangers and sojourners, but ye are fellow-citizens with the saints, and of the household of God,",
+        "reference": "Ephesians 2:19",
+        "translation": "ASV"
+      }
     },
     "fear-of-being-seen": {
       "name": "Fear of Being Seen",
       "description": "You keep yourself small and hidden, certain that if people really saw you, they'd pull away. So you stay in the shadows where it feels safe. But you are already fully seen by the One who made you, every flaw and every hope, and He has not turned away. You are known all the way through and loved anyway. You can step into the light. You're safe there.",
-      "scripture": { "text": "You are the God who sees me.", "reference": "Genesis 16:13" }
+      "scripture": {
+        "text": "And she called the name of Jehovah that spake unto her, Thou art a God that seeth: for she said, Have I even here looked after him that seeth me?",
+        "reference": "Genesis 16:13",
+        "translation": "ASV"
+      }
     }
   }
 }

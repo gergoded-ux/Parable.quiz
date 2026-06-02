@@ -17,91 +17,294 @@
     {
       "text": "When you think about dating, your honest gut reaction is...",
       "options": [
-        { "text": "Dread. What if I get hurt, or pick wrong again?", "weights": { "fear-is-driving": 3 } },
-        { "text": "Frustration. No one ever seems to make the cut.", "weights": { "standards-need-tuning": 3 } },
-        { "text": "I'd rather not be that vulnerable, honestly.", "weights": { "youre-hiding": 3 } },
-        { "text": "A tired ache. I'm doing the work and still waiting.", "weights": { "timing-isnt-yours": 3 } }
+        {
+          "text": "Dread. What if I get hurt, or pick wrong again?",
+          "weights": {
+            "fear-is-driving": 3
+          }
+        },
+        {
+          "text": "Frustration. No one ever seems to make the cut.",
+          "weights": {
+            "standards-need-tuning": 3
+          }
+        },
+        {
+          "text": "I'd rather not be that vulnerable, honestly.",
+          "weights": {
+            "youre-hiding": 3
+          }
+        },
+        {
+          "text": "A tired ache. I'm doing the work and still waiting.",
+          "weights": {
+            "timing-isnt-yours": 3
+          }
+        }
       ]
     },
     {
       "text": "Where do most of your connections tend to fizzle?",
       "options": [
-        { "text": "Right when it gets real. I pull back before it can hurt.", "weights": { "fear-is-driving": 3 } },
-        { "text": "Early. I find the flaw and I'm out.", "weights": { "standards-need-tuning": 3 } },
-        { "text": "They never start. I keep myself unavailable.", "weights": { "youre-hiding": 3 } },
-        { "text": "They don't, really. The right person just hasn't shown up.", "weights": { "timing-isnt-yours": 2, "healing-comes-first": 1 } }
+        {
+          "text": "Right when it gets real. I pull back before it can hurt.",
+          "weights": {
+            "fear-is-driving": 3
+          }
+        },
+        {
+          "text": "Early. I find the flaw and I'm out.",
+          "weights": {
+            "standards-need-tuning": 3
+          }
+        },
+        {
+          "text": "They never start. I keep myself unavailable.",
+          "weights": {
+            "youre-hiding": 3
+          }
+        },
+        {
+          "text": "They don't, really. The right person just hasn't shown up.",
+          "weights": {
+            "timing-isnt-yours": 2,
+            "healing-comes-first": 1
+          }
+        }
       ]
     },
     {
       "text": "What's the story you tell yourself about why it's stuck?",
       "options": [
-        { "text": "If I let someone in, it'll end in pain again.", "weights": { "fear-is-driving": 3 } },
-        { "text": "Everyone out there is somehow not good enough.", "weights": { "standards-need-tuning": 3 } },
-        { "text": "It's safer if no one really gets to know me.", "weights": { "youre-hiding": 3 } },
-        { "text": "It just isn't my season yet.", "weights": { "timing-isnt-yours": 3 } }
+        {
+          "text": "If I let someone in, it'll end in pain again.",
+          "weights": {
+            "fear-is-driving": 3
+          }
+        },
+        {
+          "text": "Everyone out there is somehow not good enough.",
+          "weights": {
+            "standards-need-tuning": 3
+          }
+        },
+        {
+          "text": "It's safer if no one really gets to know me.",
+          "weights": {
+            "youre-hiding": 3
+          }
+        },
+        {
+          "text": "It just isn't my season yet.",
+          "weights": {
+            "timing-isnt-yours": 3
+          }
+        }
       ]
     },
     {
       "text": "When you scroll the apps, what happens inside?",
       "options": [
-        { "text": "I get anxious and overthink every message.", "weights": { "fear-is-driving": 3 } },
-        { "text": "I swipe left on tiny things and feel a little smug about it.", "weights": { "standards-need-tuning": 3 } },
-        { "text": "I match, then ghost before anyone gets close.", "weights": { "youre-hiding": 3 } },
-        { "text": "I show up earnestly and trust God with the rest.", "weights": { "timing-isnt-yours": 3 } }
+        {
+          "text": "I get anxious and overthink every message.",
+          "weights": {
+            "fear-is-driving": 3
+          }
+        },
+        {
+          "text": "I swipe left on tiny things and feel a little smug about it.",
+          "weights": {
+            "standards-need-tuning": 3
+          }
+        },
+        {
+          "text": "I match, then ghost before anyone gets close.",
+          "weights": {
+            "youre-hiding": 3
+          }
+        },
+        {
+          "text": "I show up earnestly and trust God with the rest.",
+          "weights": {
+            "timing-isnt-yours": 3
+          }
+        }
       ]
     },
     {
       "text": "Be honest. What still hurts from before?",
       "options": [
-        { "text": "A betrayal that taught me to guard hard.", "weights": { "healing-comes-first": 2, "fear-is-driving": 1 } },
-        { "text": "Not much. I just have high, clear standards.", "weights": { "standards-need-tuning": 3 } },
-        { "text": "Old shame that makes me want to stay hidden.", "weights": { "youre-hiding": 2, "healing-comes-first": 1 } },
-        { "text": "A wound I haven't really dealt with yet.", "weights": { "healing-comes-first": 3 } }
+        {
+          "text": "A betrayal that taught me to guard hard.",
+          "weights": {
+            "healing-comes-first": 2,
+            "fear-is-driving": 1
+          }
+        },
+        {
+          "text": "Not much. I just have high, clear standards.",
+          "weights": {
+            "standards-need-tuning": 3
+          }
+        },
+        {
+          "text": "Old shame that makes me want to stay hidden.",
+          "weights": {
+            "youre-hiding": 2,
+            "healing-comes-first": 1
+          }
+        },
+        {
+          "text": "A wound I haven't really dealt with yet.",
+          "weights": {
+            "healing-comes-first": 3
+          }
+        }
       ]
     },
     {
       "text": "A genuinely good option appears. What's your move?",
       "options": [
-        { "text": "I find reasons to bail before it can get serious.", "weights": { "fear-is-driving": 3 } },
-        { "text": "I run them through a long mental checklist first.", "weights": { "standards-need-tuning": 3 } },
-        { "text": "I keep them at a distance so they can't see the real me.", "weights": { "youre-hiding": 3 } },
-        { "text": "I lean in, but I'm carrying baggage I should set down.", "weights": { "healing-comes-first": 3 } }
+        {
+          "text": "I find reasons to bail before it can get serious.",
+          "weights": {
+            "fear-is-driving": 3
+          }
+        },
+        {
+          "text": "I run them through a long mental checklist first.",
+          "weights": {
+            "standards-need-tuning": 3
+          }
+        },
+        {
+          "text": "I keep them at a distance so they can't see the real me.",
+          "weights": {
+            "youre-hiding": 3
+          }
+        },
+        {
+          "text": "I lean in, but I'm carrying baggage I should set down.",
+          "weights": {
+            "healing-comes-first": 3
+          }
+        }
       ]
     },
     {
       "text": "Which of these stings the most to read?",
       "options": [
-        { "text": "Fear is quietly running my whole love life.", "weights": { "fear-is-driving": 3 } },
-        { "text": "My standards might be a wall, not a filter.", "weights": { "standards-need-tuning": 3 } },
-        { "text": "I make myself unknowable on purpose.", "weights": { "youre-hiding": 3 } },
-        { "text": "I'm trying to date from an unhealed place.", "weights": { "healing-comes-first": 3 } }
+        {
+          "text": "Fear is quietly running my whole love life.",
+          "weights": {
+            "fear-is-driving": 3
+          }
+        },
+        {
+          "text": "My standards might be a wall, not a filter.",
+          "weights": {
+            "standards-need-tuning": 3
+          }
+        },
+        {
+          "text": "I make myself unknowable on purpose.",
+          "weights": {
+            "youre-hiding": 3
+          }
+        },
+        {
+          "text": "I'm trying to date from an unhealed place.",
+          "weights": {
+            "healing-comes-first": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you suspect you actually need to do?",
       "options": [
-        { "text": "Face the fear and stay in the room when it gets real.", "weights": { "fear-is-driving": 3 } },
-        { "text": "Loosen my grip and give real people a real chance.", "weights": { "standards-need-tuning": 3 } },
-        { "text": "Let someone see me before they can choose me.", "weights": { "youre-hiding": 3 } },
-        { "text": "Heal the old stuff before I bring it to someone new.", "weights": { "healing-comes-first": 3 } }
+        {
+          "text": "Face the fear and stay in the room when it gets real.",
+          "weights": {
+            "fear-is-driving": 3
+          }
+        },
+        {
+          "text": "Loosen my grip and give real people a real chance.",
+          "weights": {
+            "standards-need-tuning": 3
+          }
+        },
+        {
+          "text": "Let someone see me before they can choose me.",
+          "weights": {
+            "youre-hiding": 3
+          }
+        },
+        {
+          "text": "Heal the old stuff before I bring it to someone new.",
+          "weights": {
+            "healing-comes-first": 3
+          }
+        }
       ]
     },
     {
       "text": "What would help you trust the process more?",
       "options": [
-        { "text": "Knowing love doesn't have to mean getting hurt again.", "weights": { "fear-is-driving": 3 } },
-        { "text": "Remembering people are flawed and still worth knowing.", "weights": { "standards-need-tuning": 3 } },
-        { "text": "Believing the real me is actually worth knowing.", "weights": { "youre-hiding": 3 } },
-        { "text": "Trusting God's timing isn't a punishment.", "weights": { "timing-isnt-yours": 3 } }
+        {
+          "text": "Knowing love doesn't have to mean getting hurt again.",
+          "weights": {
+            "fear-is-driving": 3
+          }
+        },
+        {
+          "text": "Remembering people are flawed and still worth knowing.",
+          "weights": {
+            "standards-need-tuning": 3
+          }
+        },
+        {
+          "text": "Believing the real me is actually worth knowing.",
+          "weights": {
+            "youre-hiding": 3
+          }
+        },
+        {
+          "text": "Trusting God's timing isn't a punishment.",
+          "weights": {
+            "timing-isnt-yours": 3
+          }
+        }
       ]
     },
     {
       "text": "If you named the real reason in a few words, it's...",
       "options": [
-        { "text": "Fear is in the driver's seat.", "weights": { "fear-is-driving": 3 } },
-        { "text": "My standards need some honest tuning.", "weights": { "standards-need-tuning": 3 } },
-        { "text": "I'm hiding from being known.", "weights": { "youre-hiding": 3 } },
-        { "text": "The timing just isn't mine to control.", "weights": { "timing-isnt-yours": 3 } }
+        {
+          "text": "Fear is in the driver's seat.",
+          "weights": {
+            "fear-is-driving": 3
+          }
+        },
+        {
+          "text": "My standards need some honest tuning.",
+          "weights": {
+            "standards-need-tuning": 3
+          }
+        },
+        {
+          "text": "I'm hiding from being known.",
+          "weights": {
+            "youre-hiding": 3
+          }
+        },
+        {
+          "text": "The timing just isn't mine to control.",
+          "weights": {
+            "timing-isnt-yours": 3
+          }
+        }
       ]
     }
   ],
@@ -109,27 +312,47 @@
     "fear-is-driving": {
       "name": "Fear Is Driving",
       "description": "Your love life isn't stuck because of the apps or bad luck. It's stuck because fear has the wheel. The moment something gets real, the old what-if kicks in, and you pull back to protect yourself before anyone can hurt you. That instinct makes sense, especially if you've been burned. But fear is a terrible matchmaker. It will keep you safe and alone at the same time. Love asks you to stay in the room when it gets vulnerable, and you don't have to summon that courage on your own. Perfect love drives out fear. Let His steady you, and stay one beat longer than fear wants you to.",
-      "scripture": { "text": "There is no fear in love. But perfect love drives out fear.", "reference": "1 John 4:18" }
+      "scripture": {
+        "text": "There is no fear in love: but perfect love casteth out fear, because fear hath punishment; and he that feareth is not made perfect in love.",
+        "reference": "1 John 4:18",
+        "translation": "ASV"
+      }
     },
     "standards-need-tuning": {
       "name": "Standards Need Tuning",
       "description": "Standards are good. A wall disguised as standards is not. You may be rejecting real, good people over small imperfections, holding out for a flawless person who was never going to exist. There's a difference between values you won't compromise, like character and faith, and a wish list that screens out anyone actually human. Be honest about which list is running the show. Hold the deep things firmly and the surface things loosely. Look at the heart, the way God does, and give a real person a real chance before you decide.",
-      "scripture": { "text": "The Lord does not look at the things people look at. People look at the outward appearance, but the Lord looks at the heart.", "reference": "1 Samuel 16:7" }
+      "scripture": {
+        "text": "But Jehovah said unto Samuel, Look not on his countenance, or on the height of his stature; because I have rejected him: for Jehovah seeth not as man seeth; for man looketh on the outward appearance, but Jehovah looketh on the heart.",
+        "reference": "1 Samuel 16:7",
+        "translation": "ASV"
+      }
     },
     "youre-hiding": {
       "name": "You're Hiding",
       "description": "The reason it keeps stalling is that you never actually let anyone in. You match and then ghost, you stay pleasant and unavailable, you keep the real you tucked safely out of sight. No one can choose what they're not allowed to see. Underneath the hiding is usually a quiet belief that the true you wouldn't be wanted. That's the lie to challenge. You were fully known by God before anyone else got a vote, and He calls you loved. Real love can't grow around a person who stays hidden. Let one trustworthy person see you. Being known is the risk that makes being loved possible.",
-      "scripture": { "text": "You have searched me, Lord, and you know me.", "reference": "Psalm 139:1" }
+      "scripture": {
+        "text": "O Jehovah, thou hast searched me, and knownme.",
+        "reference": "Psalm 139:1",
+        "translation": "ASV"
+      }
     },
     "timing-isnt-yours": {
       "name": "Timing Isn't Yours",
       "description": "Here's a relief: not everything stuck is broken. You're showing up with an open and healthy heart, doing the honest work, and the right person simply hasn't arrived yet. That's not a flaw in you to fix. It's a timing you don't control, and waiting well is its own kind of faithfulness. The temptation is to force it or read the delay as rejection. Resist that. God's timing isn't a punishment for doing something wrong. Keep living a full life now, stay open, and trust that what's meant for you isn't running late on His clock.",
-      "scripture": { "text": "He has made everything beautiful in its time.", "reference": "Ecclesiastes 3:11" }
+      "scripture": {
+        "text": "He hath made everything beautiful in its time: also he hath set eternity in their heart, yet so that man cannot find out the work that God hath done from the beginning even to the end.",
+        "reference": "Ecclesiastes 3:11",
+        "translation": "ASV"
+      }
     },
     "healing-comes-first": {
       "name": "Healing Comes First",
       "description": "You're trying to build something new on top of a wound that hasn't closed yet. The old betrayal, the shame, the thing you never quite dealt with keeps leaking into every new connection, and no relationship can carry the weight of that for you. This isn't a no to love. It's a not-yet that's actually kind to you and to whoever comes next. Let God tend the broken place first. He's gentle with the brokenhearted, and He does His best mending in the quiet before the next chapter. Heal, then date. You'll bring a whole heart instead of a bleeding one.",
-      "scripture": { "text": "He heals the brokenhearted and binds up their wounds.", "reference": "Psalm 147:3" }
+      "scripture": {
+        "text": "He healeth the broken in heart, And bindeth up their wounds.",
+        "reference": "Psalm 147:3",
+        "translation": "ASV"
+      }
     }
   }
 }

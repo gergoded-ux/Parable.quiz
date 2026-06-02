@@ -16,91 +16,294 @@
     {
       "text": "Where does the \"I'm behind\" feeling come from most?",
       "options": [
-        { "text": "It flares up mostly when I scroll and see everyone's wins.", "weights": { "comparison-has-lied-to-you": 3 } },
-        { "text": "From a quiet sense that my season just hasn't arrived yet.", "weights": { "right-on-gods-timeline": 2, "in-a-hidden-prep-season": 1 } },
-        { "text": "From knowing I'm being shaped for something not visible yet.", "weights": { "in-a-hidden-prep-season": 3 } },
-        { "text": "From an honest look at how aimless I've actually been.", "weights": { "genuinely-drifting": 3 } }
+        {
+          "text": "It flares up mostly when I scroll and see everyone's wins.",
+          "weights": {
+            "comparison-has-lied-to-you": 3
+          }
+        },
+        {
+          "text": "From a quiet sense that my season just hasn't arrived yet.",
+          "weights": {
+            "right-on-gods-timeline": 2,
+            "in-a-hidden-prep-season": 1
+          }
+        },
+        {
+          "text": "From knowing I'm being shaped for something not visible yet.",
+          "weights": {
+            "in-a-hidden-prep-season": 3
+          }
+        },
+        {
+          "text": "From an honest look at how aimless I've actually been.",
+          "weights": {
+            "genuinely-drifting": 3
+          }
+        }
       ]
     },
     {
       "text": "What are you doing with the season you're in?",
       "options": [
-        { "text": "Walking it out with peace, even if it's slow.", "weights": { "right-on-gods-timeline": 3 } },
-        { "text": "Comparing it constantly to where others are.", "weights": { "comparison-has-lied-to-you": 3 } },
-        { "text": "Learning, growing, preparing, even if no one sees it.", "weights": { "in-a-hidden-prep-season": 3 } },
-        { "text": "Honestly, coasting. I've let things slide.", "weights": { "genuinely-drifting": 3 } }
+        {
+          "text": "Walking it out with peace, even if it's slow.",
+          "weights": {
+            "right-on-gods-timeline": 3
+          }
+        },
+        {
+          "text": "Comparing it constantly to where others are.",
+          "weights": {
+            "comparison-has-lied-to-you": 3
+          }
+        },
+        {
+          "text": "Learning, growing, preparing, even if no one sees it.",
+          "weights": {
+            "in-a-hidden-prep-season": 3
+          }
+        },
+        {
+          "text": "Honestly, coasting. I've let things slide.",
+          "weights": {
+            "genuinely-drifting": 3
+          }
+        }
       ]
     },
     {
       "text": "When you measure your life, what ruler are you using?",
       "options": [
-        { "text": "God's pace for me, which I'm learning to trust.", "weights": { "right-on-gods-timeline": 3 } },
-        { "text": "My friends, my feed, the timeline everyone seems to be on.", "weights": { "comparison-has-lied-to-you": 3 } },
-        { "text": "What's being built in me, not what's visible outside.", "weights": { "in-a-hidden-prep-season": 3 } },
-        { "text": "Honestly, no ruler. I've stopped aiming at anything.", "weights": { "genuinely-drifting": 3 } }
+        {
+          "text": "God's pace for me, which I'm learning to trust.",
+          "weights": {
+            "right-on-gods-timeline": 3
+          }
+        },
+        {
+          "text": "My friends, my feed, the timeline everyone seems to be on.",
+          "weights": {
+            "comparison-has-lied-to-you": 3
+          }
+        },
+        {
+          "text": "What's being built in me, not what's visible outside.",
+          "weights": {
+            "in-a-hidden-prep-season": 3
+          }
+        },
+        {
+          "text": "Honestly, no ruler. I've stopped aiming at anything.",
+          "weights": {
+            "genuinely-drifting": 3
+          }
+        }
       ]
     },
     {
       "text": "Which sentence rings truest?",
       "options": [
-        { "text": "\"I'm exactly where I'm supposed to be, even if it's quiet.\"", "weights": { "right-on-gods-timeline": 3 } },
-        { "text": "\"Everyone has it together but me.\"", "weights": { "comparison-has-lied-to-you": 3 } },
-        { "text": "\"God's preparing me for something I can't see yet.\"", "weights": { "in-a-hidden-prep-season": 3 } },
-        { "text": "\"I've drifted, and I know I need to take a real step.\"", "weights": { "genuinely-drifting": 3 } }
+        {
+          "text": "\"I'm exactly where I'm supposed to be, even if it's quiet.\"",
+          "weights": {
+            "right-on-gods-timeline": 3
+          }
+        },
+        {
+          "text": "\"Everyone has it together but me.\"",
+          "weights": {
+            "comparison-has-lied-to-you": 3
+          }
+        },
+        {
+          "text": "\"God's preparing me for something I can't see yet.\"",
+          "weights": {
+            "in-a-hidden-prep-season": 3
+          }
+        },
+        {
+          "text": "\"I've drifted, and I know I need to take a real step.\"",
+          "weights": {
+            "genuinely-drifting": 3
+          }
+        }
       ]
     },
     {
       "text": "How's your sense of direction these days?",
       "options": [
-        { "text": "Settled. I trust the timing even when it's slow.", "weights": { "right-on-gods-timeline": 3 } },
-        { "text": "Shaky, but only because I keep looking sideways at others.", "weights": { "comparison-has-lied-to-you": 3 } },
-        { "text": "Clear enough. I sense I'm being readied, quietly.", "weights": { "in-a-hidden-prep-season": 3 } },
-        { "text": "Lost. I genuinely don't know where I'm headed.", "weights": { "genuinely-drifting": 3 } }
+        {
+          "text": "Settled. I trust the timing even when it's slow.",
+          "weights": {
+            "right-on-gods-timeline": 3
+          }
+        },
+        {
+          "text": "Shaky, but only because I keep looking sideways at others.",
+          "weights": {
+            "comparison-has-lied-to-you": 3
+          }
+        },
+        {
+          "text": "Clear enough. I sense I'm being readied, quietly.",
+          "weights": {
+            "in-a-hidden-prep-season": 3
+          }
+        },
+        {
+          "text": "Lost. I genuinely don't know where I'm headed.",
+          "weights": {
+            "genuinely-drifting": 3
+          }
+        }
       ]
     },
     {
       "text": "Be honest. Are you doing the daily faithful things?",
       "options": [
-        { "text": "Yes, steadily, trusting God with the timeline.", "weights": { "right-on-gods-timeline": 3 } },
-        { "text": "Yes, but I discount them because they look small next to others.", "weights": { "comparison-has-lied-to-you": 3 } },
-        { "text": "Yes, and I can feel them building something.", "weights": { "in-a-hidden-prep-season": 3 } },
-        { "text": "Not really. I've let the basics slip.", "weights": { "genuinely-drifting": 3 } }
+        {
+          "text": "Yes, steadily, trusting God with the timeline.",
+          "weights": {
+            "right-on-gods-timeline": 3
+          }
+        },
+        {
+          "text": "Yes, but I discount them because they look small next to others.",
+          "weights": {
+            "comparison-has-lied-to-you": 3
+          }
+        },
+        {
+          "text": "Yes, and I can feel them building something.",
+          "weights": {
+            "in-a-hidden-prep-season": 3
+          }
+        },
+        {
+          "text": "Not really. I've let the basics slip.",
+          "weights": {
+            "genuinely-drifting": 3
+          }
+        }
       ]
     },
     {
       "text": "When you picture five years from now, you feel...",
       "options": [
-        { "text": "At peace. God's got the schedule, not me.", "weights": { "right-on-gods-timeline": 3 } },
-        { "text": "Anxious that I'll still be 'behind' everyone.", "weights": { "comparison-has-lied-to-you": 3 } },
-        { "text": "Hopeful. I think this hidden work pays off later.", "weights": { "in-a-hidden-prep-season": 3 } },
-        { "text": "Worried, because I'm not pointed anywhere right now.", "weights": { "genuinely-drifting": 3 } }
+        {
+          "text": "At peace. God's got the schedule, not me.",
+          "weights": {
+            "right-on-gods-timeline": 3
+          }
+        },
+        {
+          "text": "Anxious that I'll still be 'behind' everyone.",
+          "weights": {
+            "comparison-has-lied-to-you": 3
+          }
+        },
+        {
+          "text": "Hopeful. I think this hidden work pays off later.",
+          "weights": {
+            "in-a-hidden-prep-season": 3
+          }
+        },
+        {
+          "text": "Worried, because I'm not pointed anywhere right now.",
+          "weights": {
+            "genuinely-drifting": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you do when comparison hits?",
       "options": [
-        { "text": "I remind myself my path is custom and let it pass.", "weights": { "right-on-gods-timeline": 2, "comparison-has-lied-to-you": 1 } },
-        { "text": "I spiral and feel worse about my own life.", "weights": { "comparison-has-lied-to-you": 3 } },
-        { "text": "I refocus on what God's growing in this season.", "weights": { "in-a-hidden-prep-season": 3 } },
-        { "text": "I use it as one more reason to give up trying.", "weights": { "genuinely-drifting": 2, "comparison-has-lied-to-you": 1 } }
+        {
+          "text": "I remind myself my path is custom and let it pass.",
+          "weights": {
+            "right-on-gods-timeline": 2,
+            "comparison-has-lied-to-you": 1
+          }
+        },
+        {
+          "text": "I spiral and feel worse about my own life.",
+          "weights": {
+            "comparison-has-lied-to-you": 3
+          }
+        },
+        {
+          "text": "I refocus on what God's growing in this season.",
+          "weights": {
+            "in-a-hidden-prep-season": 3
+          }
+        },
+        {
+          "text": "I use it as one more reason to give up trying.",
+          "weights": {
+            "genuinely-drifting": 2,
+            "comparison-has-lied-to-you": 1
+          }
+        }
       ]
     },
     {
       "text": "What do you most need to hear right now?",
       "options": [
-        { "text": "That you're right on time, on God's clock, not the world's.", "weights": { "right-on-gods-timeline": 3 } },
-        { "text": "That comparison has been lying to you this whole time.", "weights": { "comparison-has-lied-to-you": 3 } },
-        { "text": "That hidden seasons aren't punishment, they're preparation.", "weights": { "in-a-hidden-prep-season": 3 } },
-        { "text": "That it's not too late to take one real step today.", "weights": { "genuinely-drifting": 3 } }
+        {
+          "text": "That you're right on time, on God's clock, not the world's.",
+          "weights": {
+            "right-on-gods-timeline": 3
+          }
+        },
+        {
+          "text": "That comparison has been lying to you this whole time.",
+          "weights": {
+            "comparison-has-lied-to-you": 3
+          }
+        },
+        {
+          "text": "That hidden seasons aren't punishment, they're preparation.",
+          "weights": {
+            "in-a-hidden-prep-season": 3
+          }
+        },
+        {
+          "text": "That it's not too late to take one real step today.",
+          "weights": {
+            "genuinely-drifting": 3
+          }
+        }
       ]
     },
     {
       "text": "If you strip away the noise, the truest read is...",
       "options": [
-        { "text": "I'm not behind. I'm in step with God.", "weights": { "right-on-gods-timeline": 3 } },
-        { "text": "I only feel behind because I won't stop comparing.", "weights": { "comparison-has-lied-to-you": 3 } },
-        { "text": "I'm being prepared in private for something later.", "weights": { "in-a-hidden-prep-season": 3 } },
-        { "text": "I have drifted, and I need a step to get moving.", "weights": { "genuinely-drifting": 3 } }
+        {
+          "text": "I'm not behind. I'm in step with God.",
+          "weights": {
+            "right-on-gods-timeline": 3
+          }
+        },
+        {
+          "text": "I only feel behind because I won't stop comparing.",
+          "weights": {
+            "comparison-has-lied-to-you": 3
+          }
+        },
+        {
+          "text": "I'm being prepared in private for something later.",
+          "weights": {
+            "in-a-hidden-prep-season": 3
+          }
+        },
+        {
+          "text": "I have drifted, and I need a step to get moving.",
+          "weights": {
+            "genuinely-drifting": 3
+          }
+        }
       ]
     }
   ],
@@ -108,22 +311,38 @@
     "right-on-gods-timeline": {
       "name": "Right on God's Timeline",
       "description": "Here's the truth your anxiety keeps hiding: you are not behind. You're walking at the pace God set for you, and just because it's quieter or slower than someone else's doesn't make it late. The world's timeline is a made-up race. His is the real one, and on His clock you're exactly on time. Keep trusting it. Some of the best things in your life will arrive precisely when they were always meant to.",
-      "scripture": { "text": "He has made everything beautiful in its time.", "reference": "Ecclesiastes 3:11" }
+      "scripture": {
+        "text": "He hath made everything beautiful in its time: also he hath set eternity in their heart, yet so that man cannot find out the work that God hath done from the beginning even to the end.",
+        "reference": "Ecclesiastes 3:11",
+        "translation": "ASV"
+      }
     },
     "comparison-has-lied-to-you": {
       "name": "Comparison Has Lied to You",
       "description": "You don't actually have evidence you're behind. You have a feed, a few highlight reels, and a habit of measuring your everyday life against everyone's best moments. That's not data, it's a trap, and it's been stealing joy you genuinely have. The fix is to stop checking the scoreboard. Your path is custom, not a copy of anyone else's. When you put the measuring stick down, you'll see how much further along you really are.",
-      "scripture": { "text": "Each one should test their own actions. Then they can take pride in themselves alone, without comparing themselves to someone else.", "reference": "Galatians 6:4" }
+      "scripture": {
+        "text": "But let each man prove his own work, and then shall he have his glorying in regard of himself alone, and not of his neighbor.",
+        "reference": "Galatians 6:4",
+        "translation": "ASV"
+      }
     },
     "in-a-hidden-prep-season": {
       "name": "In a Hidden Prep Season",
       "description": "What feels like falling behind is actually being made ready. You're in one of those quiet seasons where the real work happens out of sight, the kind no one applauds because no one can see it yet. This isn't a delay in your story. It's a chapter your story needs. Obscurity often comes right before the assignment. Keep showing up for the unseen work. God is building something in private that He plans to use in public.",
-      "scripture": { "text": "Whoever can be trusted with very little can also be trusted with much.", "reference": "Luke 16:10" }
+      "scripture": {
+        "text": "He that is faithful in a very little is faithful also in much: and he that is unrighteous in a very little is unrighteous also in much.",
+        "reference": "Luke 16:10",
+        "translation": "ASV"
+      }
     },
     "genuinely-drifting": {
       "name": "Genuinely Drifting and Need a Step",
       "description": "Give yourself credit for being honest, because that's the hardest part. You're not in a holy waiting season. You've drifted, the basics have slipped, and some part of you knows it. The good news is that drifting is fixable, and it's never too late to turn the wheel. You don't need a five-year plan tonight. You need one real step in the right direction. Take it, then take the next. Direction matters more than speed.",
-      "scripture": { "text": "Let us fix our eyes on Jesus, the pioneer and perfecter of faith.", "reference": "Hebrews 12:2" }
+      "scripture": {
+        "text": "looking unto Jesus the author and perfecter of our faith, who for the joy that was set before him endured the cross, despising shame, and hath sat down at the right hand of the throne of God.",
+        "reference": "Hebrews 12:2",
+        "translation": "ASV"
+      }
     }
   }
 }

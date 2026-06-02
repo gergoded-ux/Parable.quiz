@@ -18,91 +18,296 @@
     {
       "text": "When you imagine recovering, what does your soul reach for first?",
       "options": [
-        { "text": "A real stop. Quiet. Nothing on the schedule.", "weights": { "radical-rest": 3 } },
-        { "text": "The nerve to finally say no to things.", "weights": { "boundaries": 3 } },
-        { "text": "To feel close to God again, not just busy for Him.", "weights": { "reconnect-with-god": 3 } },
-        { "text": "Fewer things on my plate, full stop.", "weights": { "lighten-the-load": 3 } }
+        {
+          "text": "A real stop. Quiet. Nothing on the schedule.",
+          "weights": {
+            "radical-rest": 3
+          }
+        },
+        {
+          "text": "The nerve to finally say no to things.",
+          "weights": {
+            "boundaries": 3
+          }
+        },
+        {
+          "text": "To feel close to God again, not just busy for Him.",
+          "weights": {
+            "reconnect-with-god": 3
+          }
+        },
+        {
+          "text": "Fewer things on my plate, full stop.",
+          "weights": {
+            "lighten-the-load": 3
+          }
+        }
       ]
     },
     {
       "text": "What's the biggest reason you got this depleted?",
       "options": [
-        { "text": "I never let myself truly stop and rest.", "weights": { "radical-rest": 3 } },
-        { "text": "I said yes to everyone until there was nothing left.", "weights": { "boundaries": 3 } },
-        { "text": "I drifted from God and tried to run on my own steam.", "weights": { "reconnect-with-god": 3 } },
-        { "text": "I'm carrying way more than one person should.", "weights": { "lighten-the-load": 3 } }
+        {
+          "text": "I never let myself truly stop and rest.",
+          "weights": {
+            "radical-rest": 3
+          }
+        },
+        {
+          "text": "I said yes to everyone until there was nothing left.",
+          "weights": {
+            "boundaries": 3
+          }
+        },
+        {
+          "text": "I drifted from God and tried to run on my own steam.",
+          "weights": {
+            "reconnect-with-god": 3
+          }
+        },
+        {
+          "text": "I'm carrying way more than one person should.",
+          "weights": {
+            "lighten-the-load": 3
+          }
+        }
       ]
     },
     {
       "text": "Which sentence stings because it's true?",
       "options": [
-        { "text": "I don't even remember the last time I really rested.", "weights": { "radical-rest": 3 } },
-        { "text": "I'm afraid people will be upset if I pull back.", "weights": { "boundaries": 3 } },
-        { "text": "I've been doing a lot for God and barely talking to Him.", "weights": { "reconnect-with-god": 3 } },
-        { "text": "I keep telling myself I can handle it all alone.", "weights": { "ask-for-help": 3 } }
+        {
+          "text": "I don't even remember the last time I really rested.",
+          "weights": {
+            "radical-rest": 3
+          }
+        },
+        {
+          "text": "I'm afraid people will be upset if I pull back.",
+          "weights": {
+            "boundaries": 3
+          }
+        },
+        {
+          "text": "I've been doing a lot for God and barely talking to Him.",
+          "weights": {
+            "reconnect-with-god": 3
+          }
+        },
+        {
+          "text": "I keep telling myself I can handle it all alone.",
+          "weights": {
+            "ask-for-help": 3
+          }
+        }
       ]
     },
     {
       "text": "What does your body keep trying to tell you?",
       "options": [
-        { "text": "Stop. I'm running on fumes.", "weights": { "radical-rest": 2, "restore-your-body": 1 } },
-        { "text": "You're stretched past your limits.", "weights": { "boundaries": 3 } },
-        { "text": "I'm exhausted even after I sleep.", "weights": { "restore-your-body": 3 } },
-        { "text": "I'm dragging through every single day.", "weights": { "restore-your-body": 2, "lighten-the-load": 1 } }
+        {
+          "text": "Stop. I'm running on fumes.",
+          "weights": {
+            "radical-rest": 2,
+            "restore-your-body": 1
+          }
+        },
+        {
+          "text": "You're stretched past your limits.",
+          "weights": {
+            "boundaries": 3
+          }
+        },
+        {
+          "text": "I'm exhausted even after I sleep.",
+          "weights": {
+            "restore-your-body": 3
+          }
+        },
+        {
+          "text": "I'm dragging through every single day.",
+          "weights": {
+            "restore-your-body": 2,
+            "lighten-the-load": 1
+          }
+        }
       ]
     },
     {
       "text": "When someone offers to help, you usually...",
       "options": [
-        { "text": "Wave it off and say I'm fine.", "weights": { "ask-for-help": 3 } },
-        { "text": "Wish I could but feel like I'd be a burden.", "weights": { "ask-for-help": 3 } },
-        { "text": "Take it, but then pile three new things on myself.", "weights": { "lighten-the-load": 3 } },
-        { "text": "Realize I haven't even paused long enough to accept it.", "weights": { "radical-rest": 3 } }
+        {
+          "text": "Wave it off and say I'm fine.",
+          "weights": {
+            "ask-for-help": 3
+          }
+        },
+        {
+          "text": "Wish I could but feel like I'd be a burden.",
+          "weights": {
+            "ask-for-help": 3
+          }
+        },
+        {
+          "text": "Take it, but then pile three new things on myself.",
+          "weights": {
+            "lighten-the-load": 3
+          }
+        },
+        {
+          "text": "Realize I haven't even paused long enough to accept it.",
+          "weights": {
+            "radical-rest": 3
+          }
+        }
       ]
     },
     {
       "text": "Which would feel like the biggest relief right now?",
       "options": [
-        { "text": "A whole day with absolutely nothing required of me.", "weights": { "radical-rest": 3 } },
-        { "text": "Permission to drop a few commitments without guilt.", "weights": { "boundaries": 3 } },
-        { "text": "One honest, unhurried conversation with God.", "weights": { "reconnect-with-god": 3 } },
-        { "text": "Someone to actually share the weight with me.", "weights": { "ask-for-help": 3 } }
+        {
+          "text": "A whole day with absolutely nothing required of me.",
+          "weights": {
+            "radical-rest": 3
+          }
+        },
+        {
+          "text": "Permission to drop a few commitments without guilt.",
+          "weights": {
+            "boundaries": 3
+          }
+        },
+        {
+          "text": "One honest, unhurried conversation with God.",
+          "weights": {
+            "reconnect-with-god": 3
+          }
+        },
+        {
+          "text": "Someone to actually share the weight with me.",
+          "weights": {
+            "ask-for-help": 3
+          }
+        }
       ]
     },
     {
       "text": "How's your connection with God in the middle of all this?",
       "options": [
-        { "text": "I'm too tired to even show up for it.", "weights": { "radical-rest": 2, "reconnect-with-god": 1 } },
-        { "text": "I've replaced being with Him with doing for Him.", "weights": { "reconnect-with-god": 3 } },
-        { "text": "I keep meaning to pray but the day swallows it.", "weights": { "lighten-the-load": 2, "reconnect-with-god": 1 } },
-        { "text": "I want closeness but don't know where to start.", "weights": { "reconnect-with-god": 3 } }
+        {
+          "text": "I'm too tired to even show up for it.",
+          "weights": {
+            "radical-rest": 2,
+            "reconnect-with-god": 1
+          }
+        },
+        {
+          "text": "I've replaced being with Him with doing for Him.",
+          "weights": {
+            "reconnect-with-god": 3
+          }
+        },
+        {
+          "text": "I keep meaning to pray but the day swallows it.",
+          "weights": {
+            "lighten-the-load": 2,
+            "reconnect-with-god": 1
+          }
+        },
+        {
+          "text": "I want closeness but don't know where to start.",
+          "weights": {
+            "reconnect-with-god": 3
+          }
+        }
       ]
     },
     {
       "text": "What's the lie burnout keeps whispering to you?",
       "options": [
-        { "text": "Rest is lazy. You can't afford to stop.", "weights": { "radical-rest": 3 } },
-        { "text": "If you say no, you'll let everyone down.", "weights": { "boundaries": 3 } },
-        { "text": "Your worth depends on how much you produce.", "weights": { "lighten-the-load": 3 } },
-        { "text": "Asking for help means you've failed.", "weights": { "ask-for-help": 3 } }
+        {
+          "text": "Rest is lazy. You can't afford to stop.",
+          "weights": {
+            "radical-rest": 3
+          }
+        },
+        {
+          "text": "If you say no, you'll let everyone down.",
+          "weights": {
+            "boundaries": 3
+          }
+        },
+        {
+          "text": "Your worth depends on how much you produce.",
+          "weights": {
+            "lighten-the-load": 3
+          }
+        },
+        {
+          "text": "Asking for help means you've failed.",
+          "weights": {
+            "ask-for-help": 3
+          }
+        }
       ]
     },
     {
       "text": "When you picture being well again, what stands out?",
       "options": [
-        { "text": "Waking up with energy instead of dread.", "weights": { "restore-your-body": 3 } },
-        { "text": "A schedule that has actual margin in it.", "weights": { "boundaries": 2, "lighten-the-load": 1 } },
-        { "text": "Feeling God's nearness like I used to.", "weights": { "reconnect-with-god": 3 } },
-        { "text": "Not having to hold it all by myself anymore.", "weights": { "ask-for-help": 3 } }
+        {
+          "text": "Waking up with energy instead of dread.",
+          "weights": {
+            "restore-your-body": 3
+          }
+        },
+        {
+          "text": "A schedule that has actual margin in it.",
+          "weights": {
+            "boundaries": 2,
+            "lighten-the-load": 1
+          }
+        },
+        {
+          "text": "Feeling God's nearness like I used to.",
+          "weights": {
+            "reconnect-with-god": 3
+          }
+        },
+        {
+          "text": "Not having to hold it all by myself anymore.",
+          "weights": {
+            "ask-for-help": 3
+          }
+        }
       ]
     },
     {
       "text": "What's the truest prayer in your heart right now?",
       "options": [
-        { "text": "Jesus, I'm weary. Teach me to actually rest in you.", "weights": { "radical-rest": 3 } },
-        { "text": "Help me guard my limits without guilt.", "weights": { "boundaries": 3 } },
-        { "text": "Draw me back close. I've missed you.", "weights": { "reconnect-with-god": 3 } },
-        { "text": "Show me what I can finally set down.", "weights": { "lighten-the-load": 3 } }
+        {
+          "text": "Jesus, I'm weary. Teach me to actually rest in you.",
+          "weights": {
+            "radical-rest": 3
+          }
+        },
+        {
+          "text": "Help me guard my limits without guilt.",
+          "weights": {
+            "boundaries": 3
+          }
+        },
+        {
+          "text": "Draw me back close. I've missed you.",
+          "weights": {
+            "reconnect-with-god": 3
+          }
+        },
+        {
+          "text": "Show me what I can finally set down.",
+          "weights": {
+            "lighten-the-load": 3
+          }
+        }
       ]
     }
   ],
@@ -110,32 +315,56 @@
     "radical-rest": {
       "name": "Radical Rest First",
       "description": "Your first step back isn't doing more. It's stopping. You've been running so long that rest feels almost forbidden, but your body and soul are begging for a real pause. This is the hardest medicine for a doer to swallow, and the most necessary. Recovery doesn't start with a better system. It starts with permission to lay it down. Jesus invites the weary to come to Him, not to try harder. Take Him up on it.",
-      "scripture": { "text": "Come to me, all you who are weary and burdened, and I will give you rest.", "reference": "Matthew 11:28" }
+      "scripture": {
+        "text": "Come unto me, all ye that labor and are heavy laden, and I will give you rest.",
+        "reference": "Matthew 11:28",
+        "translation": "ASV"
+      }
     },
     "boundaries": {
       "name": "Boundaries and No's",
       "description": "You got here by saying yes until there was nothing left of you to give. Your way back runs straight through a few honest no's. Setting limits isn't selfish, and it won't make you a bad Christian. Even Jesus withdrew from the crowds and let needs go unmet so He could be restored. You're allowed to do the same. Start small, protect a little margin, and notice how the guilt fades as your strength returns.",
-      "scripture": { "text": "But Jesus often withdrew to lonely places and prayed.", "reference": "Luke 5:16" }
+      "scripture": {
+        "text": "But he withdrew himself in the deserts, and prayed.",
+        "reference": "Luke 5:16",
+        "translation": "ASV"
+      }
     },
     "reconnect-with-god": {
       "name": "Reconnect with God",
       "description": "Somewhere in the rush, doing for God quietly replaced being with Him, and that gap is part of why you're so empty. Your next step is simple but not easy: come back to Him, not to perform, just to be near. He's not waiting with a list of disappointments. He's the source you've been running dry without. Sit with Him before you do anything else. The connection itself is where the strength comes from.",
-      "scripture": { "text": "Remain in me, as I also remain in you. No branch can bear fruit by itself; it must remain in the vine.", "reference": "John 15:4" }
+      "scripture": {
+        "text": "Abide in me, and I in you. As the branch cannot bear fruit of itself, except it abide in the vine; so neither can ye, except ye abide in me.",
+        "reference": "John 15:4",
+        "translation": "ASV"
+      }
     },
     "lighten-the-load": {
       "name": "Lighten the Load",
       "description": "You're carrying more than any one person was built to hold, and the weight itself is what's crushing you. Your path forward is to actually take things off your plate, not just rearrange them. Look honestly at what you're hauling and ask which parts were never yours to begin with. Hand those back. God doesn't measure your worth by how much you can bear. He'd rather you carry less and stay whole.",
-      "scripture": { "text": "Cast your cares on the Lord and he will sustain you; he will never let the righteous be shaken.", "reference": "Psalm 55:22" }
+      "scripture": {
+        "text": "Cast thy burden upon Jehovah, and he will sustain thee: He will never suffer the righteous to be moved.",
+        "reference": "Psalm 55:22",
+        "translation": "ASV"
+      }
     },
     "ask-for-help": {
       "name": "Ask for Help",
       "description": "You've been holding it all alone, telling yourself you should be able to handle it, and that isolation is draining you faster than the work itself. Your brave next step is to let someone in. Asking for help isn't failure. It's how we were designed to live. There are people who would gladly share this weight if you'd let them. Reach out to one of them this week. You were never meant to carry your whole life by yourself.",
-      "scripture": { "text": "Carry each other's burdens, and in this way you will fulfill the law of Christ.", "reference": "Galatians 6:2" }
+      "scripture": {
+        "text": "Bear ye one another’s burdens, and so fulfil the law of Christ.",
+        "reference": "Galatians 6:2",
+        "translation": "ASV"
+      }
     },
     "restore-your-body": {
       "name": "Restore Your Body",
       "description": "Your exhaustion isn't only in your head. It's in your bones, the kind of tired that sleep alone doesn't fix. Your path back starts with caring for the body God gave you: real rest, real food, real movement, real sleep. This isn't unspiritual. When Elijah was burned out and ready to give up, God's first care for him was a meal and a nap. Tend to your body gently, and let it be a holy part of your healing.",
-      "scripture": { "text": "All at once an angel touched him and said, Get up and eat. He looked around, and there by his head was some bread baked over hot coals, and a jar of water.", "reference": "1 Kings 19:5-6" }
+      "scripture": {
+        "text": "And he lay down and slept under a juniper-tree; and, behold, an angel touched him, and said unto him, Arise and eat. And he looked, and, behold, there was at his head a cake baken on the coals, and a cruse of water. And he did eat and drink, and laid him down again.",
+        "reference": "1 Kings 19:5-6",
+        "translation": "ASV"
+      }
     }
   }
 }

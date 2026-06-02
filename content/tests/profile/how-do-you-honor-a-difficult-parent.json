@@ -16,91 +16,292 @@
     {
       "text": "How would you describe your relationship with this parent right now?",
       "options": [
-        { "text": "I stay in touch, but with clear limits I protect.", "weights": { "boundaried-honor": 3 } },
-        { "text": "I've stepped fully away, and it's quieter now.", "weights": { "no-contact-peace": 3 } },
-        { "text": "Still tangled up in it, and it still hurts daily.", "weights": { "still-trapped": 3 } },
-        { "text": "Slowly, carefully trying to rebuild something.", "weights": { "reconciling-slowly": 3 } }
+        {
+          "text": "I stay in touch, but with clear limits I protect.",
+          "weights": {
+            "boundaried-honor": 3
+          }
+        },
+        {
+          "text": "I've stepped fully away, and it's quieter now.",
+          "weights": {
+            "no-contact-peace": 3
+          }
+        },
+        {
+          "text": "Still tangled up in it, and it still hurts daily.",
+          "weights": {
+            "still-trapped": 3
+          }
+        },
+        {
+          "text": "Slowly, carefully trying to rebuild something.",
+          "weights": {
+            "reconciling-slowly": 3
+          }
+        }
       ]
     },
     {
       "text": "When you think about the fifth commandment, you feel...",
       "options": [
-        { "text": "At peace. Honor and boundaries can both be true.", "weights": { "boundaried-honor": 3 } },
-        { "text": "Conflicted, but sure that distance was the right call.", "weights": { "no-contact-peace": 2, "still-trapped": 1 } },
-        { "text": "Heavy guilt. Like I'm failing God no matter what I do.", "weights": { "still-trapped": 3 } },
-        { "text": "Hopeful that honoring them might mean trying again.", "weights": { "reconciling-slowly": 3 } }
+        {
+          "text": "At peace. Honor and boundaries can both be true.",
+          "weights": {
+            "boundaried-honor": 3
+          }
+        },
+        {
+          "text": "Conflicted, but sure that distance was the right call.",
+          "weights": {
+            "no-contact-peace": 2,
+            "still-trapped": 1
+          }
+        },
+        {
+          "text": "Heavy guilt. Like I'm failing God no matter what I do.",
+          "weights": {
+            "still-trapped": 3
+          }
+        },
+        {
+          "text": "Hopeful that honoring them might mean trying again.",
+          "weights": {
+            "reconciling-slowly": 3
+          }
+        }
       ]
     },
     {
       "text": "After contact with this parent, you usually leave feeling...",
       "options": [
-        { "text": "Steady. My limits held and I'm okay.", "weights": { "boundaried-honor": 3 } },
-        { "text": "I don't really have contact anymore, and I'm calmer for it.", "weights": { "no-contact-peace": 3 } },
-        { "text": "Drained, small, and pulled right back into old patterns.", "weights": { "still-trapped": 3 } },
-        { "text": "Tender and hopeful, like a small bridge got rebuilt.", "weights": { "reconciling-slowly": 3 } }
+        {
+          "text": "Steady. My limits held and I'm okay.",
+          "weights": {
+            "boundaried-honor": 3
+          }
+        },
+        {
+          "text": "I don't really have contact anymore, and I'm calmer for it.",
+          "weights": {
+            "no-contact-peace": 3
+          }
+        },
+        {
+          "text": "Drained, small, and pulled right back into old patterns.",
+          "weights": {
+            "still-trapped": 3
+          }
+        },
+        {
+          "text": "Tender and hopeful, like a small bridge got rebuilt.",
+          "weights": {
+            "reconciling-slowly": 3
+          }
+        }
       ]
     },
     {
       "text": "What's the hardest part of this for you?",
       "options": [
-        { "text": "Holding the line without being swallowed by guilt.", "weights": { "boundaried-honor": 3 } },
-        { "text": "Grieving the parent I needed but never had.", "weights": { "no-contact-peace": 3 } },
-        { "text": "Not knowing how to get out of the cycle at all.", "weights": { "still-trapped": 3 } },
-        { "text": "Trusting them again without rushing or getting hurt.", "weights": { "reconciling-slowly": 3 } }
+        {
+          "text": "Holding the line without being swallowed by guilt.",
+          "weights": {
+            "boundaried-honor": 3
+          }
+        },
+        {
+          "text": "Grieving the parent I needed but never had.",
+          "weights": {
+            "no-contact-peace": 3
+          }
+        },
+        {
+          "text": "Not knowing how to get out of the cycle at all.",
+          "weights": {
+            "still-trapped": 3
+          }
+        },
+        {
+          "text": "Trusting them again without rushing or getting hurt.",
+          "weights": {
+            "reconciling-slowly": 3
+          }
+        }
       ]
     },
     {
       "text": "Which sentence sounds most like you?",
       "options": [
-        { "text": "\"I can honor them and still keep myself safe.\"", "weights": { "boundaried-honor": 3 } },
-        { "text": "\"Stepping away was the most honest thing I could do.\"", "weights": { "no-contact-peace": 3 } },
-        { "text": "\"I'm stuck, exhausted, and I can't keep doing this.\"", "weights": { "still-trapped": 3 } },
-        { "text": "\"We're not there yet, but we're getting somewhere.\"", "weights": { "reconciling-slowly": 3 } }
+        {
+          "text": "\"I can honor them and still keep myself safe.\"",
+          "weights": {
+            "boundaried-honor": 3
+          }
+        },
+        {
+          "text": "\"Stepping away was the most honest thing I could do.\"",
+          "weights": {
+            "no-contact-peace": 3
+          }
+        },
+        {
+          "text": "\"I'm stuck, exhausted, and I can't keep doing this.\"",
+          "weights": {
+            "still-trapped": 3
+          }
+        },
+        {
+          "text": "\"We're not there yet, but we're getting somewhere.\"",
+          "weights": {
+            "reconciling-slowly": 3
+          }
+        }
       ]
     },
     {
       "text": "How do other people tend to respond to your situation?",
       "options": [
-        { "text": "They respect that I've found a workable middle.", "weights": { "boundaried-honor": 3 } },
-        { "text": "Some say I should reach out. They don't know the half of it.", "weights": { "no-contact-peace": 3 } },
-        { "text": "They tell me to just set boundaries, like it's that easy.", "weights": { "still-trapped": 3 } },
-        { "text": "They're cheering on the small steps we're taking.", "weights": { "reconciling-slowly": 3 } }
+        {
+          "text": "They respect that I've found a workable middle.",
+          "weights": {
+            "boundaried-honor": 3
+          }
+        },
+        {
+          "text": "Some say I should reach out. They don't know the half of it.",
+          "weights": {
+            "no-contact-peace": 3
+          }
+        },
+        {
+          "text": "They tell me to just set boundaries, like it's that easy.",
+          "weights": {
+            "still-trapped": 3
+          }
+        },
+        {
+          "text": "They're cheering on the small steps we're taking.",
+          "weights": {
+            "reconciling-slowly": 3
+          }
+        }
       ]
     },
     {
       "text": "What does honoring this parent realistically look like for you?",
       "options": [
-        { "text": "Respect from a safe distance, without enabling the harm.", "weights": { "boundaried-honor": 3 } },
-        { "text": "Refusing to repeat the harm, even from no contact.", "weights": { "no-contact-peace": 3 } },
-        { "text": "I genuinely don't know yet. That's the problem.", "weights": { "still-trapped": 3 } },
-        { "text": "Slowly extending grace as trust gets rebuilt.", "weights": { "reconciling-slowly": 3 } }
+        {
+          "text": "Respect from a safe distance, without enabling the harm.",
+          "weights": {
+            "boundaried-honor": 3
+          }
+        },
+        {
+          "text": "Refusing to repeat the harm, even from no contact.",
+          "weights": {
+            "no-contact-peace": 3
+          }
+        },
+        {
+          "text": "I genuinely don't know yet. That's the problem.",
+          "weights": {
+            "still-trapped": 3
+          }
+        },
+        {
+          "text": "Slowly extending grace as trust gets rebuilt.",
+          "weights": {
+            "reconciling-slowly": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you most need to hear right now?",
       "options": [
-        { "text": "\"Boundaries are not the opposite of honor.\"", "weights": { "boundaried-honor": 3 } },
-        { "text": "\"Protecting your peace is not a sin.\"", "weights": { "no-contact-peace": 3 } },
-        { "text": "\"You're allowed to stop carrying what isn't yours.\"", "weights": { "still-trapped": 3 } },
-        { "text": "\"Healing slowly still counts as healing.\"", "weights": { "reconciling-slowly": 3 } }
+        {
+          "text": "\"Boundaries are not the opposite of honor.\"",
+          "weights": {
+            "boundaried-honor": 3
+          }
+        },
+        {
+          "text": "\"Protecting your peace is not a sin.\"",
+          "weights": {
+            "no-contact-peace": 3
+          }
+        },
+        {
+          "text": "\"You're allowed to stop carrying what isn't yours.\"",
+          "weights": {
+            "still-trapped": 3
+          }
+        },
+        {
+          "text": "\"Healing slowly still counts as healing.\"",
+          "weights": {
+            "reconciling-slowly": 3
+          }
+        }
       ]
     },
     {
       "text": "When you imagine the future with this parent, you picture...",
       "options": [
-        { "text": "A steady, limited relationship that I can sustain.", "weights": { "boundaried-honor": 3 } },
-        { "text": "Continued distance, and a quiet kind of freedom.", "weights": { "no-contact-peace": 3 } },
-        { "text": "Honestly, I can't picture it. I just feel stuck.", "weights": { "still-trapped": 3 } },
-        { "text": "Something slowly mended, given time and care.", "weights": { "reconciling-slowly": 3 } }
+        {
+          "text": "A steady, limited relationship that I can sustain.",
+          "weights": {
+            "boundaried-honor": 3
+          }
+        },
+        {
+          "text": "Continued distance, and a quiet kind of freedom.",
+          "weights": {
+            "no-contact-peace": 3
+          }
+        },
+        {
+          "text": "Honestly, I can't picture it. I just feel stuck.",
+          "weights": {
+            "still-trapped": 3
+          }
+        },
+        {
+          "text": "Something slowly mended, given time and care.",
+          "weights": {
+            "reconciling-slowly": 3
+          }
+        }
       ]
     },
     {
       "text": "If you named where you are in one phrase, it's...",
       "options": [
-        { "text": "Honoring them, with boundaries firmly in place.", "weights": { "boundaried-honor": 3 } },
-        { "text": "At peace, from a distance.", "weights": { "no-contact-peace": 3 } },
-        { "text": "Still trapped and worn out.", "weights": { "still-trapped": 3 } },
-        { "text": "Reconciling, slowly and carefully.", "weights": { "reconciling-slowly": 3 } }
+        {
+          "text": "Honoring them, with boundaries firmly in place.",
+          "weights": {
+            "boundaried-honor": 3
+          }
+        },
+        {
+          "text": "At peace, from a distance.",
+          "weights": {
+            "no-contact-peace": 3
+          }
+        },
+        {
+          "text": "Still trapped and worn out.",
+          "weights": {
+            "still-trapped": 3
+          }
+        },
+        {
+          "text": "Reconciling, slowly and carefully.",
+          "weights": {
+            "reconciling-slowly": 3
+          }
+        }
       ]
     }
   ],
@@ -108,22 +309,38 @@
     "boundaried-honor": {
       "name": "Boundaried Honor",
       "description": "You've found something a lot of people are still searching for: a way to honor a difficult parent without letting them keep hurting you. You stay respectful, you don't return evil for evil, and you also hold firm limits that keep you safe. That's not a contradiction. Honoring a parent was never a command to enable harm or erase yourself. Even Jesus drew lines around who got access to Him and when. What you're doing is mature and faithful at the same time. Keep guarding your peace without guilt. You can love from behind a healthy fence, and that still counts as honor.",
-      "scripture": { "text": "If it is possible, as far as it depends on you, live at peace with everyone.", "reference": "Romans 12:18" }
+      "scripture": {
+        "text": "If it be possible, as much as in you lieth, be at peace with all men.",
+        "reference": "Romans 12:18",
+        "translation": "ASV"
+      }
     },
     "no-contact-peace": {
       "name": "No-Contact Peace",
       "description": "You stepped fully away, and the quiet that followed told you something true. For your safety or your sanity, distance was the most honest thing you could do, and you carry a low hum of guilt about whether it's allowed. Hear this gently: refusing to keep repeating harm is its own form of honor. You can wish a parent well, refuse bitterness, and still protect yourself from contact that wounds you. Guarding your heart is wisdom, not rebellion. There's grief here for the parent you needed and didn't get, and God sits with you in that. Protecting your peace is not a sin.",
-      "scripture": { "text": "Above all else, guard your heart, for everything you do flows from it.", "reference": "Proverbs 4:23" }
+      "scripture": {
+        "text": "Keep thy heart with all diligence; For out of it are the issues of life.",
+        "reference": "Proverbs 4:23",
+        "translation": "ASV"
+      }
     },
     "still-trapped": {
       "name": "Still-Trapped",
       "description": "You're worn down and tangled up, pulled back into the same painful patterns again and again, and the well-meaning advice to just set boundaries feels impossible from where you stand. First, breathe. You are not failing God by being exhausted. The guilt telling you that you owe this parent unlimited access to hurt you is not the voice of the One who made you. You're allowed to stop carrying what was never yours to carry. Honoring a parent does not mean handing them the power to keep harming you. Find one safe person, a counselor or a trusted friend, and take one small step toward solid ground. You don't have to free yourself alone.",
-      "scripture": { "text": "Come to me, all you who are weary and burdened, and I will give you rest.", "reference": "Matthew 11:28" }
+      "scripture": {
+        "text": "Come unto me, all ye that labor and are heavy laden, and I will give you rest.",
+        "reference": "Matthew 11:28",
+        "translation": "ASV"
+      }
     },
     "reconciling-slowly": {
       "name": "Reconciling Slowly",
       "description": "Something is mending, carefully and at the right pace. You're extending grace in measured steps, rebuilding a little trust at a time, and refusing to rush back into old hurt. That patience is wise. Reconciliation is not the same as pretending nothing happened, and real repair takes time, honesty, and changed behavior on both sides. Keep your pace. You don't owe anyone instant trust, and slow healing is still healing. Let forgiveness lead the way while trust catches up at its own speed. What you're doing is hard and good, and God is in the slow, patient work of restoration.",
-      "scripture": { "text": "Bear with each other and forgive one another if any of you has a grievance against someone.", "reference": "Colossians 3:13" }
+      "scripture": {
+        "text": "forbearing one another, and forgiving each other, if any man have a complaint against any; even as the Lord forgave you, so also do ye:",
+        "reference": "Colossians 3:13",
+        "translation": "ASV"
+      }
     }
   }
 }

@@ -17,91 +17,294 @@
     {
       "text": "What keeps you up at night lately?",
       "options": [
-        { "text": "Whether I picked the wrong career and wasted years.", "weights": { "career-spiral": 3 } },
-        { "text": "The fear that my life doesn't actually mean anything.", "weights": { "purpose-panic": 3 } },
-        { "text": "Questions about faith I used to feel so sure about.", "weights": { "faith-wobble": 3 } },
-        { "text": "How far behind everyone else I seem to be.", "weights": { "comparison-trap": 3 } }
+        {
+          "text": "Whether I picked the wrong career and wasted years.",
+          "weights": {
+            "career-spiral": 3
+          }
+        },
+        {
+          "text": "The fear that my life doesn't actually mean anything.",
+          "weights": {
+            "purpose-panic": 3
+          }
+        },
+        {
+          "text": "Questions about faith I used to feel so sure about.",
+          "weights": {
+            "faith-wobble": 3
+          }
+        },
+        {
+          "text": "How far behind everyone else I seem to be.",
+          "weights": {
+            "comparison-trap": 3
+          }
+        }
       ]
     },
     {
       "text": "When someone asks how life is going, you secretly think...",
       "options": [
-        { "text": "\"I have no idea what I'm doing with my work.\"", "weights": { "career-spiral": 3 } },
-        { "text": "\"Fine, but what's the point of any of it?\"", "weights": { "purpose-panic": 3 } },
-        { "text": "\"Is this it? Is this just how life is now?\"", "weights": { "is-this-it-drift": 3 } },
-        { "text": "\"Everyone else has it together and I'm faking it.\"", "weights": { "comparison-trap": 3 } }
+        {
+          "text": "\"I have no idea what I'm doing with my work.\"",
+          "weights": {
+            "career-spiral": 3
+          }
+        },
+        {
+          "text": "\"Fine, but what's the point of any of it?\"",
+          "weights": {
+            "purpose-panic": 3
+          }
+        },
+        {
+          "text": "\"Is this it? Is this just how life is now?\"",
+          "weights": {
+            "is-this-it-drift": 3
+          }
+        },
+        {
+          "text": "\"Everyone else has it together and I'm faking it.\"",
+          "weights": {
+            "comparison-trap": 3
+          }
+        }
       ]
     },
     {
       "text": "Which thought has crossed your mind most this year?",
       "options": [
-        { "text": "\"Should I blow up my whole career and start over?\"", "weights": { "career-spiral": 3 } },
-        { "text": "\"Why am I even here? What am I for?\"", "weights": { "purpose-panic": 3 } },
-        { "text": "\"Do I still believe what I was raised to believe?\"", "weights": { "faith-wobble": 3 } },
-        { "text": "\"My friends are all ahead of me and I'm stuck.\"", "weights": { "comparison-trap": 3 } }
+        {
+          "text": "\"Should I blow up my whole career and start over?\"",
+          "weights": {
+            "career-spiral": 3
+          }
+        },
+        {
+          "text": "\"Why am I even here? What am I for?\"",
+          "weights": {
+            "purpose-panic": 3
+          }
+        },
+        {
+          "text": "\"Do I still believe what I was raised to believe?\"",
+          "weights": {
+            "faith-wobble": 3
+          }
+        },
+        {
+          "text": "\"My friends are all ahead of me and I'm stuck.\"",
+          "weights": {
+            "comparison-trap": 3
+          }
+        }
       ]
     },
     {
       "text": "Scrolling social media leaves you feeling...",
       "options": [
-        { "text": "Like everyone landed the dream job but me.", "weights": { "career-spiral": 2, "comparison-trap": 1 } },
-        { "text": "Empty, like I'm watching life instead of living it.", "weights": { "is-this-it-drift": 3 } },
-        { "text": "Distant from a faith that used to feel so alive.", "weights": { "faith-wobble": 3 } },
-        { "text": "Hopelessly behind. Engaged, promoted, traveling, all of it.", "weights": { "comparison-trap": 3 } }
+        {
+          "text": "Like everyone landed the dream job but me.",
+          "weights": {
+            "career-spiral": 2,
+            "comparison-trap": 1
+          }
+        },
+        {
+          "text": "Empty, like I'm watching life instead of living it.",
+          "weights": {
+            "is-this-it-drift": 3
+          }
+        },
+        {
+          "text": "Distant from a faith that used to feel so alive.",
+          "weights": {
+            "faith-wobble": 3
+          }
+        },
+        {
+          "text": "Hopelessly behind. Engaged, promoted, traveling, all of it.",
+          "weights": {
+            "comparison-trap": 3
+          }
+        }
       ]
     },
     {
       "text": "What does the discontent feel like in your body?",
       "options": [
-        { "text": "A restless itch to quit and chase something different.", "weights": { "career-spiral": 3 } },
-        { "text": "A hollow ache that nothing seems to fill.", "weights": { "purpose-panic": 3 } },
-        { "text": "A flat numbness, like I'm just going through the motions.", "weights": { "is-this-it-drift": 3 } },
-        { "text": "A tight knot of being not quite good enough.", "weights": { "comparison-trap": 3 } }
+        {
+          "text": "A restless itch to quit and chase something different.",
+          "weights": {
+            "career-spiral": 3
+          }
+        },
+        {
+          "text": "A hollow ache that nothing seems to fill.",
+          "weights": {
+            "purpose-panic": 3
+          }
+        },
+        {
+          "text": "A flat numbness, like I'm just going through the motions.",
+          "weights": {
+            "is-this-it-drift": 3
+          }
+        },
+        {
+          "text": "A tight knot of being not quite good enough.",
+          "weights": {
+            "comparison-trap": 3
+          }
+        }
       ]
     },
     {
       "text": "If you could get one honest answer right now, you'd ask...",
       "options": [
-        { "text": "\"Am I in the right work, or do I need to leave?\"", "weights": { "career-spiral": 3 } },
-        { "text": "\"What is my life actually supposed to be about?\"", "weights": { "purpose-panic": 3 } },
-        { "text": "\"Is God even real, or did I just inherit this?\"", "weights": { "faith-wobble": 3 } },
-        { "text": "\"Why does everyone seem so far ahead of me?\"", "weights": { "comparison-trap": 3 } }
+        {
+          "text": "\"Am I in the right work, or do I need to leave?\"",
+          "weights": {
+            "career-spiral": 3
+          }
+        },
+        {
+          "text": "\"What is my life actually supposed to be about?\"",
+          "weights": {
+            "purpose-panic": 3
+          }
+        },
+        {
+          "text": "\"Is God even real, or did I just inherit this?\"",
+          "weights": {
+            "faith-wobble": 3
+          }
+        },
+        {
+          "text": "\"Why does everyone seem so far ahead of me?\"",
+          "weights": {
+            "comparison-trap": 3
+          }
+        }
       ]
     },
     {
       "text": "Your faith right now feels...",
       "options": [
-        { "text": "Like something I'm seriously questioning for the first time.", "weights": { "faith-wobble": 3 } },
-        { "text": "Quiet, like God went silent while I drifted.", "weights": { "is-this-it-drift": 2, "faith-wobble": 1 } },
-        { "text": "Tangled up with my anxiety about my career.", "weights": { "career-spiral": 2, "purpose-panic": 1 } },
-        { "text": "Crowded out by how much I measure myself against others.", "weights": { "comparison-trap": 3 } }
+        {
+          "text": "Like something I'm seriously questioning for the first time.",
+          "weights": {
+            "faith-wobble": 3
+          }
+        },
+        {
+          "text": "Quiet, like God went silent while I drifted.",
+          "weights": {
+            "is-this-it-drift": 2,
+            "faith-wobble": 1
+          }
+        },
+        {
+          "text": "Tangled up with my anxiety about my career.",
+          "weights": {
+            "career-spiral": 2,
+            "purpose-panic": 1
+          }
+        },
+        {
+          "text": "Crowded out by how much I measure myself against others.",
+          "weights": {
+            "comparison-trap": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you most want to feel again?",
       "options": [
-        { "text": "Confidence that I'm on the right path with my work.", "weights": { "career-spiral": 3 } },
-        { "text": "A real sense that my life counts for something.", "weights": { "purpose-panic": 3 } },
-        { "text": "Solid ground under my faith again.", "weights": { "faith-wobble": 3 } },
-        { "text": "At peace with my own pace, off the comparison treadmill.", "weights": { "comparison-trap": 3 } }
+        {
+          "text": "Confidence that I'm on the right path with my work.",
+          "weights": {
+            "career-spiral": 3
+          }
+        },
+        {
+          "text": "A real sense that my life counts for something.",
+          "weights": {
+            "purpose-panic": 3
+          }
+        },
+        {
+          "text": "Solid ground under my faith again.",
+          "weights": {
+            "faith-wobble": 3
+          }
+        },
+        {
+          "text": "At peace with my own pace, off the comparison treadmill.",
+          "weights": {
+            "comparison-trap": 3
+          }
+        }
       ]
     },
     {
       "text": "When you picture the next five years, you feel...",
       "options": [
-        { "text": "Anxious that I'll still be in the wrong job.", "weights": { "career-spiral": 3 } },
-        { "text": "Afraid I'll get there and still feel purposeless.", "weights": { "purpose-panic": 3 } },
-        { "text": "Unsure where I'll even stand with God by then.", "weights": { "faith-wobble": 3 } },
-        { "text": "Worn out, like I'll just be drifting through more of the same.", "weights": { "is-this-it-drift": 3 } }
+        {
+          "text": "Anxious that I'll still be in the wrong job.",
+          "weights": {
+            "career-spiral": 3
+          }
+        },
+        {
+          "text": "Afraid I'll get there and still feel purposeless.",
+          "weights": {
+            "purpose-panic": 3
+          }
+        },
+        {
+          "text": "Unsure where I'll even stand with God by then.",
+          "weights": {
+            "faith-wobble": 3
+          }
+        },
+        {
+          "text": "Worn out, like I'll just be drifting through more of the same.",
+          "weights": {
+            "is-this-it-drift": 3
+          }
+        }
       ]
     },
     {
       "text": "Deep down, the truest sentence is...",
       "options": [
-        { "text": "\"I don't know if my career is the right one.\"", "weights": { "career-spiral": 3 } },
-        { "text": "\"I'm searching for a reason that makes it all matter.\"", "weights": { "purpose-panic": 3 } },
-        { "text": "\"My faith is wobbling and I don't know what I believe.\"", "weights": { "faith-wobble": 3 } },
-        { "text": "\"I keep wondering if this is really all there is.\"", "weights": { "is-this-it-drift": 3 } }
+        {
+          "text": "\"I don't know if my career is the right one.\"",
+          "weights": {
+            "career-spiral": 3
+          }
+        },
+        {
+          "text": "\"I'm searching for a reason that makes it all matter.\"",
+          "weights": {
+            "purpose-panic": 3
+          }
+        },
+        {
+          "text": "\"My faith is wobbling and I don't know what I believe.\"",
+          "weights": {
+            "faith-wobble": 3
+          }
+        },
+        {
+          "text": "\"I keep wondering if this is really all there is.\"",
+          "weights": {
+            "is-this-it-drift": 3
+          }
+        }
       ]
     }
   ],
@@ -109,27 +312,47 @@
     "career-spiral": {
       "name": "The Career Spiral",
       "description": "You're stuck in the loop of wondering whether you chose wrong, whether you should start over, whether the years so far were a waste. Take a breath. Your worth was never your job title, and a detour isn't a dead end. God isn't limited by the path you've walked. Bring Him the actual decision in front of you and take one honest step. He can redeem every chapter, including this confusing one.",
-      "scripture": { "text": "In their hearts humans plan their course, but the Lord establishes their steps.", "reference": "Proverbs 16:9" }
+      "scripture": {
+        "text": "A man’s heart deviseth his way; But Jehovah directeth his steps.",
+        "reference": "Proverbs 16:9",
+        "translation": "ASV"
+      }
     },
     "purpose-panic": {
       "name": "The Purpose Panic",
       "description": "There's a hollow ache underneath everything, a fear that your life doesn't really mean much. Here's the thing the panic can't see: your purpose was never something you had to manufacture. You were made on purpose, by Someone who knit you together with intention. Start smaller than you think. Love the person in front of you today. Meaning tends to grow from there, not from one grand answer.",
-      "scripture": { "text": "For we are God's handiwork, created in Christ Jesus to do good works.", "reference": "Ephesians 2:10" }
+      "scripture": {
+        "text": "For we are his workmanship, created in Christ Jesus for good works, which God afore prepared that we should walk in them.",
+        "reference": "Ephesians 2:10",
+        "translation": "ASV"
+      }
     },
     "faith-wobble": {
       "name": "The Faith Wobble",
       "description": "The faith that once felt automatic is shaking, and you're asking whether you ever really believed it or just absorbed it. That's not a disaster. A faith that gets honestly questioned can come out deeper and truly yours. God isn't scared of your questions, and He doesn't walk off when you wrestle. Bring the doubts straight to Him. Many people find that the ground was steadier than the wobble made it feel.",
-      "scripture": { "text": "I do believe; help me overcome my unbelief!", "reference": "Mark 9:24" }
+      "scripture": {
+        "text": "Straightway the father of the child cried out, and said, I believe; help thou mine unbelief.",
+        "reference": "Mark 9:24",
+        "translation": "ASV"
+      }
     },
     "comparison-trap": {
       "name": "The Comparison Trap",
       "description": "Everyone looks like they're winning, and you feel permanently behind. But you're comparing your behind-the-scenes to their highlight reel, and that math will always make you lose. God isn't running you against anyone else. Your timeline is yours. The engaged friend, the promoted coworker, none of that changes what He's doing in you. Lift your eyes off the feed and back onto the One who set your pace.",
-      "scripture": { "text": "Each one should test their own actions. Then they can take pride in themselves alone, without comparing themselves to someone else.", "reference": "Galatians 6:4" }
+      "scripture": {
+        "text": "But let each man prove his own work, and then shall he have his glorying in regard of himself alone, and not of his neighbor.",
+        "reference": "Galatians 6:4",
+        "translation": "ASV"
+      }
     },
     "is-this-it-drift": {
       "name": "The 'Is This It?' Drift",
       "description": "Nothing's exactly wrong, but a flat, numb question keeps surfacing: is this really all there is? The drift is real, and it's often a sign your soul is hungry for something more than the routine. You weren't made to merely coast. Let the restlessness point you back to God instead of further into the fog. He has more life for you than autopilot, and reaching for Him is how the color comes back.",
-      "scripture": { "text": "I have come that they may have life, and have it to the full.", "reference": "John 10:10" }
+      "scripture": {
+        "text": "The thief cometh not, but that he may steal, and kill, and destroy: I came that they may have life, and may have it abundantly.",
+        "reference": "John 10:10",
+        "translation": "ASV"
+      }
     }
   }
 }

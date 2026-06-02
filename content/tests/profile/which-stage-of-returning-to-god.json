@@ -17,91 +17,294 @@
     {
       "text": "Where would you say you are with God right now?",
       "options": [
-        { "text": "Far off, and not sure I'm ready to turn back.", "weights": { "still-far-off": 3 } },
-        { "text": "Starting to wake up to how empty things have gotten.", "weights": { "coming-to-your-senses": 3 } },
-        { "text": "Already heading back, one tentative step at a time.", "weights": { "the-walk-home": 3 } },
-        { "text": "Recently overwhelmed by how warmly He received me.", "weights": { "met-by-the-father": 3 } }
+        {
+          "text": "Far off, and not sure I'm ready to turn back.",
+          "weights": {
+            "still-far-off": 3
+          }
+        },
+        {
+          "text": "Starting to wake up to how empty things have gotten.",
+          "weights": {
+            "coming-to-your-senses": 3
+          }
+        },
+        {
+          "text": "Already heading back, one tentative step at a time.",
+          "weights": {
+            "the-walk-home": 3
+          }
+        },
+        {
+          "text": "Recently overwhelmed by how warmly He received me.",
+          "weights": {
+            "met-by-the-father": 3
+          }
+        }
       ]
     },
     {
       "text": "Which sentence rings the most true?",
       "options": [
-        { "text": "I've kept my distance and told myself I'm fine.", "weights": { "still-far-off": 3 } },
-        { "text": "I'm realizing this isn't the life I actually want.", "weights": { "coming-to-your-senses": 3 } },
-        { "text": "I'm nervous, but I'm walking toward Him anyway.", "weights": { "the-walk-home": 3 } },
-        { "text": "He ran to me. I expected a lecture and got a hug.", "weights": { "met-by-the-father": 3 } }
+        {
+          "text": "I've kept my distance and told myself I'm fine.",
+          "weights": {
+            "still-far-off": 3
+          }
+        },
+        {
+          "text": "I'm realizing this isn't the life I actually want.",
+          "weights": {
+            "coming-to-your-senses": 3
+          }
+        },
+        {
+          "text": "I'm nervous, but I'm walking toward Him anyway.",
+          "weights": {
+            "the-walk-home": 3
+          }
+        },
+        {
+          "text": "He ran to me. I expected a lecture and got a hug.",
+          "weights": {
+            "met-by-the-father": 3
+          }
+        }
       ]
     },
     {
       "text": "What's the loudest thing in your heart these days?",
       "options": [
-        { "text": "A wall I've built that I'm not ready to lower.", "weights": { "still-far-off": 3 } },
-        { "text": "A growing ache that something's missing.", "weights": { "coming-to-your-senses": 3 } },
-        { "text": "Hope mixed with fear about how He'll respond.", "weights": { "the-walk-home": 3 } },
-        { "text": "Relief and gratitude I can hardly hold.", "weights": { "met-by-the-father": 3 } }
+        {
+          "text": "A wall I've built that I'm not ready to lower.",
+          "weights": {
+            "still-far-off": 3
+          }
+        },
+        {
+          "text": "A growing ache that something's missing.",
+          "weights": {
+            "coming-to-your-senses": 3
+          }
+        },
+        {
+          "text": "Hope mixed with fear about how He'll respond.",
+          "weights": {
+            "the-walk-home": 3
+          }
+        },
+        {
+          "text": "Relief and gratitude I can hardly hold.",
+          "weights": {
+            "met-by-the-father": 3
+          }
+        }
       ]
     },
     {
       "text": "When you think about God receiving you back, you...",
       "options": [
-        { "text": "Doubt He'd even want me at this point.", "weights": { "still-far-off": 3 } },
-        { "text": "Start to wonder if coming home is possible.", "weights": { "coming-to-your-senses": 3 } },
-        { "text": "Are rehearsing what I'll even say to Him.", "weights": { "the-walk-home": 3 } },
-        { "text": "Have felt His welcome and it undid me.", "weights": { "met-by-the-father": 3 } }
+        {
+          "text": "Doubt He'd even want me at this point.",
+          "weights": {
+            "still-far-off": 3
+          }
+        },
+        {
+          "text": "Start to wonder if coming home is possible.",
+          "weights": {
+            "coming-to-your-senses": 3
+          }
+        },
+        {
+          "text": "Are rehearsing what I'll even say to Him.",
+          "weights": {
+            "the-walk-home": 3
+          }
+        },
+        {
+          "text": "Have felt His welcome and it undid me.",
+          "weights": {
+            "met-by-the-father": 3
+          }
+        }
       ]
     },
     {
       "text": "What's your relationship with church or other believers right now?",
       "options": [
-        { "text": "Distant. I've stayed away on purpose.", "weights": { "still-far-off": 3 } },
-        { "text": "Curious again, but cautious.", "weights": { "coming-to-your-senses": 2, "the-walk-home": 1 } },
-        { "text": "Taking small steps back toward community.", "weights": { "the-walk-home": 3 } },
-        { "text": "Slowly rebuilding rhythms that had fallen away.", "weights": { "rebuilding": 3 } }
+        {
+          "text": "Distant. I've stayed away on purpose.",
+          "weights": {
+            "still-far-off": 3
+          }
+        },
+        {
+          "text": "Curious again, but cautious.",
+          "weights": {
+            "coming-to-your-senses": 2,
+            "the-walk-home": 1
+          }
+        },
+        {
+          "text": "Taking small steps back toward community.",
+          "weights": {
+            "the-walk-home": 3
+          }
+        },
+        {
+          "text": "Slowly rebuilding rhythms that had fallen away.",
+          "weights": {
+            "rebuilding": 3
+          }
+        }
       ]
     },
     {
       "text": "Which fear sits closest to the surface?",
       "options": [
-        { "text": "That I've wandered too far to ever come back.", "weights": { "still-far-off": 3 } },
-        { "text": "That waking up means facing what I've avoided.", "weights": { "coming-to-your-senses": 3 } },
-        { "text": "That I'll be met with judgment instead of grace.", "weights": { "the-walk-home": 3 } },
-        { "text": "That the old habits will pull me back again.", "weights": { "rebuilding": 3 } }
+        {
+          "text": "That I've wandered too far to ever come back.",
+          "weights": {
+            "still-far-off": 3
+          }
+        },
+        {
+          "text": "That waking up means facing what I've avoided.",
+          "weights": {
+            "coming-to-your-senses": 3
+          }
+        },
+        {
+          "text": "That I'll be met with judgment instead of grace.",
+          "weights": {
+            "the-walk-home": 3
+          }
+        },
+        {
+          "text": "That the old habits will pull me back again.",
+          "weights": {
+            "rebuilding": 3
+          }
+        }
       ]
     },
     {
       "text": "How would you describe your prayers lately?",
       "options": [
-        { "text": "Nonexistent. I've gone silent toward God.", "weights": { "still-far-off": 3 } },
-        { "text": "A few honest whispers I didn't plan to pray.", "weights": { "coming-to-your-senses": 3 } },
-        { "text": "Halting, but I'm reaching out again.", "weights": { "the-walk-home": 3 } },
-        { "text": "Full of thanks. I can't stop being grateful.", "weights": { "met-by-the-father": 3 } }
+        {
+          "text": "Nonexistent. I've gone silent toward God.",
+          "weights": {
+            "still-far-off": 3
+          }
+        },
+        {
+          "text": "A few honest whispers I didn't plan to pray.",
+          "weights": {
+            "coming-to-your-senses": 3
+          }
+        },
+        {
+          "text": "Halting, but I'm reaching out again.",
+          "weights": {
+            "the-walk-home": 3
+          }
+        },
+        {
+          "text": "Full of thanks. I can't stop being grateful.",
+          "weights": {
+            "met-by-the-father": 3
+          }
+        }
       ]
     },
     {
       "text": "What feels like the real work in front of you?",
       "options": [
-        { "text": "Deciding whether I even want to turn around.", "weights": { "still-far-off": 3 } },
-        { "text": "Letting the wake-up call actually move me.", "weights": { "coming-to-your-senses": 3 } },
-        { "text": "Closing the distance between me and home.", "weights": { "the-walk-home": 3 } },
-        { "text": "Learning to live in grace without earning it back.", "weights": { "rebuilding": 2, "met-by-the-father": 1 } }
+        {
+          "text": "Deciding whether I even want to turn around.",
+          "weights": {
+            "still-far-off": 3
+          }
+        },
+        {
+          "text": "Letting the wake-up call actually move me.",
+          "weights": {
+            "coming-to-your-senses": 3
+          }
+        },
+        {
+          "text": "Closing the distance between me and home.",
+          "weights": {
+            "the-walk-home": 3
+          }
+        },
+        {
+          "text": "Learning to live in grace without earning it back.",
+          "weights": {
+            "rebuilding": 2,
+            "met-by-the-father": 1
+          }
+        }
       ]
     },
     {
       "text": "If you're honest, what part of the prodigal's story are you living?",
       "options": [
-        { "text": "Still in the far country, spending and surviving.", "weights": { "still-far-off": 3 } },
-        { "text": "Sitting among the pigs, finally coming to my senses.", "weights": { "coming-to-your-senses": 3 } },
-        { "text": "On the road home with my speech half-prepared.", "weights": { "the-walk-home": 3 } },
-        { "text": "Wrapped in the father's robe at the feast.", "weights": { "met-by-the-father": 3 } }
+        {
+          "text": "Still in the far country, spending and surviving.",
+          "weights": {
+            "still-far-off": 3
+          }
+        },
+        {
+          "text": "Sitting among the pigs, finally coming to my senses.",
+          "weights": {
+            "coming-to-your-senses": 3
+          }
+        },
+        {
+          "text": "On the road home with my speech half-prepared.",
+          "weights": {
+            "the-walk-home": 3
+          }
+        },
+        {
+          "text": "Wrapped in the father's robe at the feast.",
+          "weights": {
+            "met-by-the-father": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you most need to hold onto right now?",
       "options": [
-        { "text": "It's never too late to turn back to God.", "weights": { "still-far-off": 3 } },
-        { "text": "The ache I feel is grace waking me up.", "weights": { "coming-to-your-senses": 3 } },
-        { "text": "He's already watching the road for me.", "weights": { "the-walk-home": 3 } },
-        { "text": "I'm fully welcomed, and now I get to grow.", "weights": { "rebuilding": 2, "met-by-the-father": 1 } }
+        {
+          "text": "It's never too late to turn back to God.",
+          "weights": {
+            "still-far-off": 3
+          }
+        },
+        {
+          "text": "The ache I feel is grace waking me up.",
+          "weights": {
+            "coming-to-your-senses": 3
+          }
+        },
+        {
+          "text": "He's already watching the road for me.",
+          "weights": {
+            "the-walk-home": 3
+          }
+        },
+        {
+          "text": "I'm fully welcomed, and now I get to grow.",
+          "weights": {
+            "rebuilding": 2,
+            "met-by-the-father": 1
+          }
+        }
       ]
     }
   ],
@@ -109,27 +312,47 @@
     "still-far-off": {
       "name": "Still Far Off",
       "description": "You're still keeping your distance, telling yourself you're fine while a wall stays up between you and God. Maybe you're not sure He'd even want you back after how far you've wandered. Hear this clearly: the father in Jesus' story was watching the road the whole time his son was gone. God isn't standing with arms crossed. He's scanning the horizon for you. There's no distance too far to turn around from, and the moment you take one step, He'll come running.",
-      "scripture": { "text": "Return to me, and I will return to you, says the Lord Almighty.", "reference": "Malachi 3:7" }
+      "scripture": {
+        "text": "From the days of your fathers ye have turned aside from mine ordinances, and have not kept them. Return unto me, and I will return unto you, saith Jehovah of hosts. But ye say, Wherein shall we return?",
+        "reference": "Malachi 3:7",
+        "translation": "ASV"
+      }
     },
     "coming-to-your-senses": {
       "name": "Coming to Your Senses",
       "description": "Something is waking up in you. The life you've been living doesn't satisfy anymore, and an ache is growing that you can't ignore. That's exactly where the prodigal turned the corner. The Bible says he came to his senses sitting among the pigs and remembered his father's house. This ache isn't punishment. It's grace, gently pulling you home. Don't numb it or rush past it. Let it move you. The waking up is the beginning of the way back.",
-      "scripture": { "text": "When he came to his senses, he said, How many of my father's hired servants have food to spare, and here I am starving to death!", "reference": "Luke 15:17" }
+      "scripture": {
+        "text": "But when he came to himself he said, How many hired servants of my father’s have bread enough and to spare, and I perish here with hunger!",
+        "reference": "Luke 15:17",
+        "translation": "ASV"
+      }
     },
     "the-walk-home": {
       "name": "The Walk Home",
       "description": "You've decided to turn around, and now you're on the road back, hopeful but nervous about how you'll be received. You may even be rehearsing your apology, bracing for judgment. But watch how the story actually goes: while the son was still a long way off, the father saw him, was filled with compassion, and ran to him. You won't get the cold reception you're dreading. You'll get arms wide open. Keep walking. He's already moving toward you.",
-      "scripture": { "text": "But while he was still a long way off, his father saw him and was filled with compassion for him; he ran to his son, threw his arms around him and kissed him.", "reference": "Luke 15:20" }
+      "scripture": {
+        "text": "And he arose, and came to his father. But while he was yet afar off, his father saw him, and was moved with compassion, and ran, and fell on his neck, and kissed him.",
+        "reference": "Luke 15:20",
+        "translation": "ASV"
+      }
     },
     "met-by-the-father": {
       "name": "Met by the Father",
       "description": "You came back braced for a lecture and got a celebration instead. God met you with a robe, a ring, and a feast, and the welcome left you undone. Soak in this for a while. This is who He really is. You were never coming home to a disappointed parent. You were coming home to one who couldn't wait to throw His arms around you. Let the wonder of being received like this settle deep. The grace you're feeling is the truest thing about your story now.",
-      "scripture": { "text": "For this son of mine was dead and is alive again; he was lost and is found. So they began to celebrate.", "reference": "Luke 15:24" }
+      "scripture": {
+        "text": "for this my son was dead, and is alive again; he was lost, and is found. And they began to be merry.",
+        "reference": "Luke 15:24",
+        "translation": "ASV"
+      }
     },
     "rebuilding": {
       "name": "Rebuilding (the older-brother work)",
       "description": "You've been welcomed home, and now comes the quieter work of rebuilding: re-learning grace, restoring rhythms, and untangling the older-brother voice that wants to keep score. It's tempting to slip back into earning your place, but you already have it. This stage is about settling into love you don't have to deserve and letting new habits grow slowly. Be patient with yourself. Restoration isn't instant, but the Father who welcomed you is right beside you for all of it.",
-      "scripture": { "text": "My son, the father said, you are always with me, and everything I have is yours.", "reference": "Luke 15:31" }
+      "scripture": {
+        "text": "And he said unto him, Son, thou art ever with me, and all that is mine is thine.",
+        "reference": "Luke 15:31",
+        "translation": "ASV"
+      }
     }
   }
 }

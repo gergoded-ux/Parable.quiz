@@ -10,82 +10,264 @@
     {
       "text": "What does your heart sound like when you pray right now?",
       "options": [
-        { "text": "Darkness, with no light at the end of it.", "weights": { "psalm-88": 3 } },
-        { "text": "How long, Lord? I can't keep waiting like this.", "weights": { "psalm-13": 3 } },
-        { "text": "Why are you so downcast, soul? Where did the joy go?", "weights": { "psalm-42": 3 } },
-        { "text": "God, why aren't You doing anything about the wrong I see?", "weights": { "habakkuk": 3 } }
+        {
+          "text": "Darkness, with no light at the end of it.",
+          "weights": {
+            "psalm-88": 3
+          }
+        },
+        {
+          "text": "How long, Lord? I can't keep waiting like this.",
+          "weights": {
+            "psalm-13": 3
+          }
+        },
+        {
+          "text": "Why are you so downcast, soul? Where did the joy go?",
+          "weights": {
+            "psalm-42": 3
+          }
+        },
+        {
+          "text": "God, why aren't You doing anything about the wrong I see?",
+          "weights": {
+            "habakkuk": 3
+          }
+        }
       ]
     },
     {
       "text": "What's the shape of the pain you're carrying?",
       "options": [
-        { "text": "I lost almost everything, and I want answers.", "weights": { "job": 3 } },
-        { "text": "I feel betrayed by the very thing I gave my life to.", "weights": { "jeremiah": 3 } },
-        { "text": "A grief so deep it has no bottom yet.", "weights": { "psalm-88": 3 } },
-        { "text": "A longing for God I can't seem to satisfy.", "weights": { "psalm-42": 3 } }
+        {
+          "text": "I lost almost everything, and I want answers.",
+          "weights": {
+            "job": 3
+          }
+        },
+        {
+          "text": "I feel betrayed by the very thing I gave my life to.",
+          "weights": {
+            "jeremiah": 3
+          }
+        },
+        {
+          "text": "A grief so deep it has no bottom yet.",
+          "weights": {
+            "psalm-88": 3
+          }
+        },
+        {
+          "text": "A longing for God I can't seem to satisfy.",
+          "weights": {
+            "psalm-42": 3
+          }
+        }
       ]
     },
     {
       "text": "How honest are you willing to get with God?",
       "options": [
-        { "text": "Completely. I'll tell Him I feel abandoned.", "weights": { "psalm-88": 3 } },
-        { "text": "Honest enough to ask how much longer this lasts.", "weights": { "psalm-13": 3 } },
-        { "text": "I'll bring Him my complaint and wait for His reply.", "weights": { "habakkuk": 3 } },
-        { "text": "Brutally honest. I'll even say I wish I'd never been born.", "weights": { "jeremiah": 2, "job": 1 } }
+        {
+          "text": "Completely. I'll tell Him I feel abandoned.",
+          "weights": {
+            "psalm-88": 3
+          }
+        },
+        {
+          "text": "Honest enough to ask how much longer this lasts.",
+          "weights": {
+            "psalm-13": 3
+          }
+        },
+        {
+          "text": "I'll bring Him my complaint and wait for His reply.",
+          "weights": {
+            "habakkuk": 3
+          }
+        },
+        {
+          "text": "Brutally honest. I'll even say I wish I'd never been born.",
+          "weights": {
+            "jeremiah": 2,
+            "job": 1
+          }
+        }
       ]
     },
     {
       "text": "What do you most want from God right now?",
       "options": [
-        { "text": "For Him to just hear me in the dark.", "weights": { "psalm-88": 3 } },
-        { "text": "An end to the waiting, and a sign He hasn't forgotten me.", "weights": { "psalm-13": 3 } },
-        { "text": "To feel close to Him again like I used to.", "weights": { "psalm-42": 3 } },
-        { "text": "A straight answer about why this is allowed.", "weights": { "job": 3 } }
+        {
+          "text": "For Him to just hear me in the dark.",
+          "weights": {
+            "psalm-88": 3
+          }
+        },
+        {
+          "text": "An end to the waiting, and a sign He hasn't forgotten me.",
+          "weights": {
+            "psalm-13": 3
+          }
+        },
+        {
+          "text": "To feel close to Him again like I used to.",
+          "weights": {
+            "psalm-42": 3
+          }
+        },
+        {
+          "text": "A straight answer about why this is allowed.",
+          "weights": {
+            "job": 3
+          }
+        }
       ]
     },
     {
       "text": "Which feeling sits heaviest in your chest?",
       "options": [
-        { "text": "Despair that this might never lift.", "weights": { "psalm-88": 3 } },
-        { "text": "Impatience that mixes with real fear.", "weights": { "psalm-13": 3 } },
-        { "text": "A homesick ache for God's presence.", "weights": { "psalm-42": 3 } },
-        { "text": "Confusion at injustice that goes unanswered.", "weights": { "habakkuk": 3 } }
+        {
+          "text": "Despair that this might never lift.",
+          "weights": {
+            "psalm-88": 3
+          }
+        },
+        {
+          "text": "Impatience that mixes with real fear.",
+          "weights": {
+            "psalm-13": 3
+          }
+        },
+        {
+          "text": "A homesick ache for God's presence.",
+          "weights": {
+            "psalm-42": 3
+          }
+        },
+        {
+          "text": "Confusion at injustice that goes unanswered.",
+          "weights": {
+            "habakkuk": 3
+          }
+        }
       ]
     },
     {
       "text": "When you look at your circumstances, you think...",
       "options": [
-        { "text": "I did everything right and still lost it all.", "weights": { "job": 3 } },
-        { "text": "I obeyed the call, and it brought me nothing but grief.", "weights": { "jeremiah": 3 } },
-        { "text": "My tears have been my food day and night.", "weights": { "psalm-42": 3 } },
-        { "text": "The darkness is my closest friend these days.", "weights": { "psalm-88": 3 } }
+        {
+          "text": "I did everything right and still lost it all.",
+          "weights": {
+            "job": 3
+          }
+        },
+        {
+          "text": "I obeyed the call, and it brought me nothing but grief.",
+          "weights": {
+            "jeremiah": 3
+          }
+        },
+        {
+          "text": "My tears have been my food day and night.",
+          "weights": {
+            "psalm-42": 3
+          }
+        },
+        {
+          "text": "The darkness is my closest friend these days.",
+          "weights": {
+            "psalm-88": 3
+          }
+        }
       ]
     },
     {
       "text": "How do you keep going when God feels silent?",
       "options": [
-        { "text": "Barely. I pray into the dark and hope He's there.", "weights": { "psalm-88": 3 } },
-        { "text": "I remind myself of His love even while I ache.", "weights": { "psalm-13": 3 } },
-        { "text": "I tell my soul to put its hope in God anyway.", "weights": { "psalm-42": 3 } },
-        { "text": "I plant myself like a watchman and wait for His word.", "weights": { "habakkuk": 3 } }
+        {
+          "text": "Barely. I pray into the dark and hope He's there.",
+          "weights": {
+            "psalm-88": 3
+          }
+        },
+        {
+          "text": "I remind myself of His love even while I ache.",
+          "weights": {
+            "psalm-13": 3
+          }
+        },
+        {
+          "text": "I tell my soul to put its hope in God anyway.",
+          "weights": {
+            "psalm-42": 3
+          }
+        },
+        {
+          "text": "I plant myself like a watchman and wait for His word.",
+          "weights": {
+            "habakkuk": 3
+          }
+        }
       ]
     },
     {
       "text": "What's the question you keep asking heaven?",
       "options": [
-        { "text": "Why have You hidden Your face from me?", "weights": { "psalm-88": 3 } },
-        { "text": "How long will You forget me?", "weights": { "psalm-13": 3 } },
-        { "text": "Why must I go about mourning?", "weights": { "psalm-42": 3 } },
-        { "text": "How long must I cry out before You listen?", "weights": { "habakkuk": 3 } }
+        {
+          "text": "Why have You hidden Your face from me?",
+          "weights": {
+            "psalm-88": 3
+          }
+        },
+        {
+          "text": "How long will You forget me?",
+          "weights": {
+            "psalm-13": 3
+          }
+        },
+        {
+          "text": "Why must I go about mourning?",
+          "weights": {
+            "psalm-42": 3
+          }
+        },
+        {
+          "text": "How long must I cry out before You listen?",
+          "weights": {
+            "habakkuk": 3
+          }
+        }
       ]
     },
     {
       "text": "If you could say one raw, honest thing to God, it'd be...",
       "options": [
-        { "text": "Don't make me carry this in the dark alone.", "weights": { "psalm-88": 3 } },
-        { "text": "I'm exhausted from waiting. Please move.", "weights": { "psalm-13": 3 } },
-        { "text": "I miss You. I want to feel You near again.", "weights": { "psalm-42": 3 } },
-        { "text": "I trusted You, and it cost me everything.", "weights": { "job": 2, "jeremiah": 1 } }
+        {
+          "text": "Don't make me carry this in the dark alone.",
+          "weights": {
+            "psalm-88": 3
+          }
+        },
+        {
+          "text": "I'm exhausted from waiting. Please move.",
+          "weights": {
+            "psalm-13": 3
+          }
+        },
+        {
+          "text": "I miss You. I want to feel You near again.",
+          "weights": {
+            "psalm-42": 3
+          }
+        },
+        {
+          "text": "I trusted You, and it cost me everything.",
+          "weights": {
+            "job": 2,
+            "jeremiah": 1
+          }
+        }
       ]
     }
   ],
@@ -93,44 +275,92 @@
     "psalm-88": {
       "name": "Psalm 88 (darkness, no resolution)",
       "emoji": "🌑",
-      "traits": ["Grieving", "Honest", "Still Praying"],
+      "traits": [
+        "Grieving",
+        "Honest",
+        "Still Praying"
+      ],
       "description": "You're in the deepest kind of dark, the kind with no tidy ending yet, and Psalm 88 is the prayer for exactly this. It's the one lament in the whole book that doesn't wrap up with hope. It just ends in the shadows. And that's the gift of it. God put a prayer in the Bible for the nights that don't resolve, which means He isn't asking you to fake light you don't have. You can keep crying out in the dark, and that crying is still prayer.",
-      "scripture": { "text": "You have put me in the lowest pit, in the darkest depths... I call to you, Lord, every day.", "reference": "Psalm 88:6,9" }
+      "scripture": {
+        "text": "Thou hast laid me in the lowest pit, In dark places, in the deeps.",
+        "reference": "Psalm 88:6",
+        "translation": "ASV"
+      }
     },
     "psalm-13": {
       "name": "Psalm 13 (how long?)",
       "emoji": "⏳",
-      "traits": ["Weary", "Waiting", "Trusting"],
+      "traits": [
+        "Weary",
+        "Waiting",
+        "Trusting"
+      ],
       "description": "You're worn down by the waiting, and the question on repeat is how long. Psalm 13 starts in that exact place, asking God four times how long He'll seem to forget. But watch what it does. It moves, slowly, from the raw complaint to a stubborn I will trust in your unfailing love. You don't have to skip the ache to get there. This prayer lets you hold both the how long and the I still trust You in the very same breath.",
-      "scripture": { "text": "How long, Lord? Will you forget me forever?... But I trust in your unfailing love.", "reference": "Psalm 13:1,5" }
+      "scripture": {
+        "text": "How long, O Jehovah? wilt thou forget me for ever? How long wilt thou hide thy face from me?",
+        "reference": "Psalm 13:1",
+        "translation": "ASV"
+      }
     },
     "psalm-42": {
       "name": "Psalm 42 (why so downcast)",
       "emoji": "🦌",
-      "traits": ["Longing", "Homesick", "Hopeful"],
+      "traits": [
+        "Longing",
+        "Homesick",
+        "Hopeful"
+      ],
       "description": "Yours is a homesick kind of sorrow, an ache to feel near to God the way you once did. Psalm 42 puts words to it perfectly, comparing your soul to a deer panting for water. The beautiful thing is how the psalmist talks to his own downcast heart, telling it to put its hope in God even before the feeling returns. You can do that too. You can preach hope to your own soul on the days it can't find any on its own.",
-      "scripture": { "text": "Why, my soul, are you downcast?... Put your hope in God, for I will yet praise him.", "reference": "Psalm 42:5" }
+      "scripture": {
+        "text": "Why art thou cast down, O my soul? Andwhy art thou disquieted within me? Hope thou in God; for I shall yet praise him Forthe help of his countenance.",
+        "reference": "Psalm 42:5",
+        "translation": "ASV"
+      }
     },
     "habakkuk": {
       "name": "Habakkuk's complaint",
       "emoji": "🗼",
-      "traits": ["Bewildered", "Bold", "Watchful"],
+      "traits": [
+        "Bewildered",
+        "Bold",
+        "Watchful"
+      ],
       "description": "You're staring at wrong that God doesn't seem to be fixing, and your prayer sounds like a complaint, because it is one. Habakkuk did the same thing. He flat-out asked God why He was tolerating injustice, and then he did something striking. He climbed his watchtower and waited for God to answer. And God did. Your honest complaint isn't irreverence. It's the start of a real conversation, and the God who answered Habakkuk hasn't gone quiet on you.",
-      "scripture": { "text": "How long, Lord, must I call for help, but you do not listen?... I will look to see what he will say to me.", "reference": "Habakkuk 1:2, 2:1" }
+      "scripture": {
+        "text": "O Jehovah, how long shall I cry, and thou wilt not hear? I cry out unto thee of violence, and thou wilt not save.",
+        "reference": "Habakkuk 1:2",
+        "translation": "ASV"
+      }
     },
     "job": {
       "name": "Job's cry",
       "emoji": "🪨",
-      "traits": ["Suffering", "Raw", "Unbroken"],
+      "traits": [
+        "Suffering",
+        "Raw",
+        "Unbroken"
+      ],
       "description": "You did everything right and still lost so much, and now you want answers, not platitudes. That's Job. He lost nearly everything and refused the neat explanations his friends offered, demanding to take his case to God directly. And here's what stuns people: in the end, God said Job spoke rightly, more than his tidy theologian friends did. Your raw honesty isn't rebellion. God can handle your hardest questions, and He'd rather have your real cry than your polite silence.",
-      "scripture": { "text": "I will say to God: Do not declare me guilty, but tell me what charges you have against me.", "reference": "Job 10:2" }
+      "scripture": {
+        "text": "I will say unto God, Do not condemn me; Show me wherefore thou contendest with me.",
+        "reference": "Job 10:2",
+        "translation": "ASV"
+      }
     },
     "jeremiah": {
       "name": "Jeremiah's bitter honesty",
       "emoji": "😢",
-      "traits": ["Hurt", "Faithful", "Unfiltered"],
+      "traits": [
+        "Hurt",
+        "Faithful",
+        "Unfiltered"
+      ],
       "description": "You answered the call, you did the hard, faithful thing, and it brought you grief instead of reward, and you're done pretending that doesn't hurt. Jeremiah felt it too. He's the prophet who wept, who even told God he felt deceived and wished he'd never been born. And God kept him close through all of it. Your bitter honesty doesn't disqualify you. The very fact that you bring the unfiltered version to God is proof the relationship is still real.",
-      "scripture": { "text": "You deceived me, Lord, and I was deceived... his word is in my heart like a fire.", "reference": "Jeremiah 20:7,9" }
+      "scripture": {
+        "text": "O Jehovah, thou hast persuaded me, and I was persuaded; thou art stronger than I, and hast prevailed: I am become a laughing-stock all the day, every one mocketh me.",
+        "reference": "Jeremiah 20:7",
+        "translation": "ASV"
+      }
     }
   }
 }

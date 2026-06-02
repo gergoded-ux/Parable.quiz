@@ -17,91 +17,294 @@
     {
       "text": "When the answers stop coming, what's happening underneath?",
       "options": [
-        { "text": "A quiet trust holds, even when I can't see the way.", "weights": { "trusting-in-the-dark": 3 } },
-        { "text": "I'm holding on by sheer force of will.", "weights": { "white-knuckling": 3 } },
-        { "text": "There's a low anger I haven't fully admitted.", "weights": { "quietly-angry": 3 } },
-        { "text": "I keep trying to strike a deal so He'll move.", "weights": { "bargaining": 3 } }
+        {
+          "text": "A quiet trust holds, even when I can't see the way.",
+          "weights": {
+            "trusting-in-the-dark": 3
+          }
+        },
+        {
+          "text": "I'm holding on by sheer force of will.",
+          "weights": {
+            "white-knuckling": 3
+          }
+        },
+        {
+          "text": "There's a low anger I haven't fully admitted.",
+          "weights": {
+            "quietly-angry": 3
+          }
+        },
+        {
+          "text": "I keep trying to strike a deal so He'll move.",
+          "weights": {
+            "bargaining": 3
+          }
+        }
       ]
     },
     {
       "text": "How do you honestly feel about God's silence?",
       "options": [
-        { "text": "Confused, but still convinced He's good.", "weights": { "trusting-in-the-dark": 3 } },
-        { "text": "Exhausted from gritting my teeth through it.", "weights": { "white-knuckling": 3 } },
-        { "text": "Let down, like He's not coming through.", "weights": { "quietly-angry": 3 } },
-        { "text": "Numb. I've kind of stopped expecting anything.", "weights": { "numb": 3 } }
+        {
+          "text": "Confused, but still convinced He's good.",
+          "weights": {
+            "trusting-in-the-dark": 3
+          }
+        },
+        {
+          "text": "Exhausted from gritting my teeth through it.",
+          "weights": {
+            "white-knuckling": 3
+          }
+        },
+        {
+          "text": "Let down, like He's not coming through.",
+          "weights": {
+            "quietly-angry": 3
+          }
+        },
+        {
+          "text": "Numb. I've kind of stopped expecting anything.",
+          "weights": {
+            "numb": 3
+          }
+        }
       ]
     },
     {
       "text": "Which prayer is closest to your real heart lately?",
       "options": [
-        { "text": "I don't understand, but I still trust you.", "weights": { "trusting-in-the-dark": 3 } },
-        { "text": "I'm hanging on, please don't let me slip.", "weights": { "white-knuckling": 3 } },
-        { "text": "Where are you? I'm hurt that you're quiet.", "weights": { "quietly-angry": 3 } },
-        { "text": "If I do this, will you finally answer?", "weights": { "bargaining": 3 } }
+        {
+          "text": "I don't understand, but I still trust you.",
+          "weights": {
+            "trusting-in-the-dark": 3
+          }
+        },
+        {
+          "text": "I'm hanging on, please don't let me slip.",
+          "weights": {
+            "white-knuckling": 3
+          }
+        },
+        {
+          "text": "Where are you? I'm hurt that you're quiet.",
+          "weights": {
+            "quietly-angry": 3
+          }
+        },
+        {
+          "text": "If I do this, will you finally answer?",
+          "weights": {
+            "bargaining": 3
+          }
+        }
       ]
     },
     {
       "text": "When you see others getting answered prayers, you feel...",
       "options": [
-        { "text": "Glad for them, and at peace about my own waiting.", "weights": { "trusting-in-the-dark": 3 } },
-        { "text": "Tired, wondering how much longer I can hold on.", "weights": { "white-knuckling": 3 } },
-        { "text": "A sting of why-not-me underneath.", "weights": { "quietly-angry": 3 } },
-        { "text": "Not much. I've gone kind of flat about it.", "weights": { "numb": 3 } }
+        {
+          "text": "Glad for them, and at peace about my own waiting.",
+          "weights": {
+            "trusting-in-the-dark": 3
+          }
+        },
+        {
+          "text": "Tired, wondering how much longer I can hold on.",
+          "weights": {
+            "white-knuckling": 3
+          }
+        },
+        {
+          "text": "A sting of why-not-me underneath.",
+          "weights": {
+            "quietly-angry": 3
+          }
+        },
+        {
+          "text": "Not much. I've gone kind of flat about it.",
+          "weights": {
+            "numb": 3
+          }
+        }
       ]
     },
     {
       "text": "What does your faith feel like when God is quiet?",
       "options": [
-        { "text": "Stretched but solid, like roots growing deeper.", "weights": { "trusting-in-the-dark": 3 } },
-        { "text": "A grip I'm scared to loosen for even a second.", "weights": { "white-knuckling": 3 } },
-        { "text": "Tangled up with resentment I keep tamping down.", "weights": { "quietly-angry": 3 } },
-        { "text": "Like a transaction I'm trying to negotiate.", "weights": { "bargaining": 3 } }
+        {
+          "text": "Stretched but solid, like roots growing deeper.",
+          "weights": {
+            "trusting-in-the-dark": 3
+          }
+        },
+        {
+          "text": "A grip I'm scared to loosen for even a second.",
+          "weights": {
+            "white-knuckling": 3
+          }
+        },
+        {
+          "text": "Tangled up with resentment I keep tamping down.",
+          "weights": {
+            "quietly-angry": 3
+          }
+        },
+        {
+          "text": "Like a transaction I'm trying to negotiate.",
+          "weights": {
+            "bargaining": 3
+          }
+        }
       ]
     },
     {
       "text": "Deep down, what do you suspect the silence means?",
       "options": [
-        { "text": "He's still good and still here, even hidden.", "weights": { "trusting-in-the-dark": 3 } },
-        { "text": "I just have to endure until something changes.", "weights": { "white-knuckling": 3 } },
-        { "text": "Maybe He doesn't care as much as I hoped.", "weights": { "quietly-angry": 2, "numb": 1 } },
-        { "text": "I haven't done enough to earn His answer yet.", "weights": { "bargaining": 3 } }
+        {
+          "text": "He's still good and still here, even hidden.",
+          "weights": {
+            "trusting-in-the-dark": 3
+          }
+        },
+        {
+          "text": "I just have to endure until something changes.",
+          "weights": {
+            "white-knuckling": 3
+          }
+        },
+        {
+          "text": "Maybe He doesn't care as much as I hoped.",
+          "weights": {
+            "quietly-angry": 2,
+            "numb": 1
+          }
+        },
+        {
+          "text": "I haven't done enough to earn His answer yet.",
+          "weights": {
+            "bargaining": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you do with the hard feelings the silence stirs up?",
       "options": [
-        { "text": "Bring them to God and keep trusting Him with them.", "weights": { "trusting-in-the-dark": 3 } },
-        { "text": "Push through and try not to feel them at all.", "weights": { "white-knuckling": 3 } },
-        { "text": "Hold them in, because admitting them feels wrong.", "weights": { "quietly-angry": 3 } },
-        { "text": "I've stopped feeling much of anything about it.", "weights": { "numb": 3 } }
+        {
+          "text": "Bring them to God and keep trusting Him with them.",
+          "weights": {
+            "trusting-in-the-dark": 3
+          }
+        },
+        {
+          "text": "Push through and try not to feel them at all.",
+          "weights": {
+            "white-knuckling": 3
+          }
+        },
+        {
+          "text": "Hold them in, because admitting them feels wrong.",
+          "weights": {
+            "quietly-angry": 3
+          }
+        },
+        {
+          "text": "I've stopped feeling much of anything about it.",
+          "weights": {
+            "numb": 3
+          }
+        }
       ]
     },
     {
       "text": "If God could say one thing to you in the silence, you'd want...",
       "options": [
-        { "text": "I'm here, and I'm working even where you can't see.", "weights": { "trusting-in-the-dark": 3 } },
-        { "text": "You can let go. I've got you. You can stop straining.", "weights": { "white-knuckling": 3 } },
-        { "text": "Tell me how you really feel. I can take it.", "weights": { "quietly-angry": 3 } },
-        { "text": "My love isn't something you have to earn.", "weights": { "bargaining": 2, "numb": 1 } }
+        {
+          "text": "I'm here, and I'm working even where you can't see.",
+          "weights": {
+            "trusting-in-the-dark": 3
+          }
+        },
+        {
+          "text": "You can let go. I've got you. You can stop straining.",
+          "weights": {
+            "white-knuckling": 3
+          }
+        },
+        {
+          "text": "Tell me how you really feel. I can take it.",
+          "weights": {
+            "quietly-angry": 3
+          }
+        },
+        {
+          "text": "My love isn't something you have to earn.",
+          "weights": {
+            "bargaining": 2,
+            "numb": 1
+          }
+        }
       ]
     },
     {
       "text": "What's the truest thing about your faith right now?",
       "options": [
-        { "text": "I'm learning to trust God in the dark.", "weights": { "trusting-in-the-dark": 3 } },
-        { "text": "I believe, but it's costing me everything to keep believing.", "weights": { "white-knuckling": 3 } },
-        { "text": "I believe He's there. I'm just upset with Him.", "weights": { "quietly-angry": 3 } },
-        { "text": "I've drifted somewhere between faith and indifference.", "weights": { "numb": 3 } }
+        {
+          "text": "I'm learning to trust God in the dark.",
+          "weights": {
+            "trusting-in-the-dark": 3
+          }
+        },
+        {
+          "text": "I believe, but it's costing me everything to keep believing.",
+          "weights": {
+            "white-knuckling": 3
+          }
+        },
+        {
+          "text": "I believe He's there. I'm just upset with Him.",
+          "weights": {
+            "quietly-angry": 3
+          }
+        },
+        {
+          "text": "I've drifted somewhere between faith and indifference.",
+          "weights": {
+            "numb": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you most need to hear today?",
       "options": [
-        { "text": "Your trust in the dark is precious to God.", "weights": { "trusting-in-the-dark": 3 } },
-        { "text": "He's holding you, even when you can't hold on anymore.", "weights": { "white-knuckling": 3 } },
-        { "text": "Your honest anger is welcome at His feet.", "weights": { "quietly-angry": 3 } },
-        { "text": "His love was never for sale. It's already yours.", "weights": { "bargaining": 2, "numb": 1 } }
+        {
+          "text": "Your trust in the dark is precious to God.",
+          "weights": {
+            "trusting-in-the-dark": 3
+          }
+        },
+        {
+          "text": "He's holding you, even when you can't hold on anymore.",
+          "weights": {
+            "white-knuckling": 3
+          }
+        },
+        {
+          "text": "Your honest anger is welcome at His feet.",
+          "weights": {
+            "quietly-angry": 3
+          }
+        },
+        {
+          "text": "His love was never for sale. It's already yours.",
+          "weights": {
+            "bargaining": 2,
+            "numb": 1
+          }
+        }
       ]
     }
   ],
@@ -109,27 +312,47 @@
     "trusting-in-the-dark": {
       "name": "Trusting in the Dark",
       "description": "Even with no answers in sight, you've found a way to keep believing God is good. That's not naive. It's the deepest kind of faith there is, the kind that holds on when the lights go out. You don't pretend it doesn't hurt or that you understand. You simply trust the One you can't currently see or hear. Hold onto that. The God you're trusting in the dark is working in ways the silence can't reveal yet.",
-      "scripture": { "text": "We live by faith, not by sight.", "reference": "2 Corinthians 5:7" }
+      "scripture": {
+        "text": "(for we walk by faith, not by sight);",
+        "reference": "2 Corinthians 5:7",
+        "translation": "ASV"
+      }
     },
     "white-knuckling": {
       "name": "White-Knuckling It",
       "description": "You're still holding on, but barely, and the strain is wearing you out. You believe God is good, yet faith has become a grip you're terrified to loosen. Here's the gentle truth: you don't have to hold on so tightly, because He's holding you. Your faith doesn't depend on the strength of your grip. It rests on the strength of His. You can exhale. He won't let you slip just because your hands got tired.",
-      "scripture": { "text": "I am the Lord your God who takes hold of your right hand and says to you, Do not fear; I will help you.", "reference": "Isaiah 41:13" }
+      "scripture": {
+        "text": "For I, Jehovah thy God, will hold thy right hand, saying unto thee, Fear not; I will help thee.",
+        "reference": "Isaiah 41:13",
+        "translation": "ASV"
+      }
     },
     "quietly-angry": {
       "name": "Quietly Angry",
       "description": "You believe God is there. You're just hurt and disappointed that He's been so quiet, and you've been keeping that anger tucked away because it feels wrong to admit. But God isn't fragile, and your honesty doesn't offend Him. The Psalms are full of people who told Him exactly how let down they felt, and He stayed close through all of it. Bring Him the anger instead of hiding it. That conversation is often where trust starts to come back.",
-      "scripture": { "text": "My God, my God, why have you forsaken me? Why are you so far from saving me, so far from my cries of anguish?", "reference": "Psalm 22:1" }
+      "scripture": {
+        "text": "My God, my God, why hast thou forsaken me? Why art thou sofar from helping me, and from the words of my groaning?",
+        "reference": "Psalm 22:1",
+        "translation": "ASV"
+      }
     },
     "bargaining": {
       "name": "Bargaining",
       "description": "When God goes quiet, you start making deals, promising to do more or be better so He'll finally move. Underneath it is a belief that His answer, and maybe His love, has to be earned. But grace doesn't work like a transaction. He isn't waiting for you to pay enough to unlock His care. You already have it. Let the bargaining rest, and trade it for trust. His love for you was settled long before this silence, and it isn't for sale.",
-      "scripture": { "text": "For it is by grace you have been saved, through faith, and this is not from yourselves, it is the gift of God.", "reference": "Ephesians 2:8" }
+      "scripture": {
+        "text": "for by grace have ye been saved through faith; and that not of yourselves, it is the gift of God;",
+        "reference": "Ephesians 2:8",
+        "translation": "ASV"
+      }
     },
     "numb": {
       "name": "Numb to the Question",
       "description": "The silence has gone on so long that you've stopped expecting much, and a kind of numbness settled in where hope used to be. That's a tender, exhausted place, and it makes sense after waiting in the dark. But numbness isn't the same as not caring. It's a heart that got tired of being let down. God hasn't gone numb toward you. He's gently near, ready to revive what's gone quiet inside you. You don't have to force the feeling back. Just let Him come close.",
-      "scripture": { "text": "He heals the brokenhearted and binds up their wounds.", "reference": "Psalm 147:3" }
+      "scripture": {
+        "text": "He healeth the broken in heart, And bindeth up their wounds.",
+        "reference": "Psalm 147:3",
+        "translation": "ASV"
+      }
     }
   }
 }

@@ -17,82 +17,267 @@
     {
       "text": "How does the weight on you actually feel right now?",
       "options": [
-        { "text": "Like I'm under water and can't get a full breath.", "weights": { "drowning": 3 } },
-        { "text": "Full to the very top, one more thing and I tip over.", "weights": { "maxed-out": 3 } },
-        { "text": "Heavy, but I keep it hidden and just push through.", "weights": { "quietly-overloaded": 3 } },
-        { "text": "It's a lot, but I'm finding ways to manage it.", "weights": { "stretched-but-coping": 2, "healthy-load": 1 } }
+        {
+          "text": "Like I'm under water and can't get a full breath.",
+          "weights": {
+            "drowning": 3
+          }
+        },
+        {
+          "text": "Full to the very top, one more thing and I tip over.",
+          "weights": {
+            "maxed-out": 3
+          }
+        },
+        {
+          "text": "Heavy, but I keep it hidden and just push through.",
+          "weights": {
+            "quietly-overloaded": 3
+          }
+        },
+        {
+          "text": "It's a lot, but I'm finding ways to manage it.",
+          "weights": {
+            "stretched-but-coping": 2,
+            "healthy-load": 1
+          }
+        }
       ]
     },
     {
       "text": "When someone asks you to take on one more thing, what happens inside?",
       "options": [
-        { "text": "A wave of panic, but I say yes anyway and quietly sink.", "weights": { "drowning": 3 } },
-        { "text": "I feel my whole system bracing, because there's no room left.", "weights": { "maxed-out": 3 } },
-        { "text": "I smile, say sure, and carry the resentment alone.", "weights": { "quietly-overloaded": 3 } },
-        { "text": "I check my plate first and answer honestly.", "weights": { "healthy-load": 3 } }
+        {
+          "text": "A wave of panic, but I say yes anyway and quietly sink.",
+          "weights": {
+            "drowning": 3
+          }
+        },
+        {
+          "text": "I feel my whole system bracing, because there's no room left.",
+          "weights": {
+            "maxed-out": 3
+          }
+        },
+        {
+          "text": "I smile, say sure, and carry the resentment alone.",
+          "weights": {
+            "quietly-overloaded": 3
+          }
+        },
+        {
+          "text": "I check my plate first and answer honestly.",
+          "weights": {
+            "healthy-load": 3
+          }
+        }
       ]
     },
     {
       "text": "Who knows how much you're really carrying?",
       "options": [
-        { "text": "Nobody. From the outside I look completely fine.", "weights": { "quietly-overloaded": 3 } },
-        { "text": "No one, and honestly I'm too far gone to explain it.", "weights": { "drowning": 2, "quietly-overloaded": 1 } },
-        { "text": "A couple people sense I'm stretched thin.", "weights": { "stretched-but-coping": 3 } },
-        { "text": "The people close to me, because I let them in.", "weights": { "healthy-load": 3 } }
+        {
+          "text": "Nobody. From the outside I look completely fine.",
+          "weights": {
+            "quietly-overloaded": 3
+          }
+        },
+        {
+          "text": "No one, and honestly I'm too far gone to explain it.",
+          "weights": {
+            "drowning": 2,
+            "quietly-overloaded": 1
+          }
+        },
+        {
+          "text": "A couple people sense I'm stretched thin.",
+          "weights": {
+            "stretched-but-coping": 3
+          }
+        },
+        {
+          "text": "The people close to me, because I let them in.",
+          "weights": {
+            "healthy-load": 3
+          }
+        }
       ]
     },
     {
       "text": "What does your body keep trying to tell you?",
       "options": [
-        { "text": "It's shutting down. I'm exhausted in a way sleep won't fix.", "weights": { "drowning": 3 } },
-        { "text": "I'm tense and wired, like I'm running on the last drop.", "weights": { "maxed-out": 3 } },
-        { "text": "Headaches and a tight jaw I just keep ignoring.", "weights": { "quietly-overloaded": 2 } },
-        { "text": "A little tired, but it bounces back when I rest.", "weights": { "stretched-but-coping": 2, "healthy-load": 1 } }
+        {
+          "text": "It's shutting down. I'm exhausted in a way sleep won't fix.",
+          "weights": {
+            "drowning": 3
+          }
+        },
+        {
+          "text": "I'm tense and wired, like I'm running on the last drop.",
+          "weights": {
+            "maxed-out": 3
+          }
+        },
+        {
+          "text": "Headaches and a tight jaw I just keep ignoring.",
+          "weights": {
+            "quietly-overloaded": 2
+          }
+        },
+        {
+          "text": "A little tired, but it bounces back when I rest.",
+          "weights": {
+            "stretched-but-coping": 2,
+            "healthy-load": 1
+          }
+        }
       ]
     },
     {
       "text": "Picture an unexpected free afternoon. What's your first feeling?",
       "options": [
-        { "text": "I'd cry from relief, then probably crash completely.", "weights": { "drowning": 3 } },
-        { "text": "I wouldn't trust it. I'd wait for the next thing to hit.", "weights": { "maxed-out": 3 } },
-        { "text": "Guilt, then I'd quietly fill it with everyone else's needs.", "weights": { "quietly-overloaded": 3 } },
-        { "text": "I'd actually enjoy it without feeling I owed anyone.", "weights": { "healthy-load": 3 } }
+        {
+          "text": "I'd cry from relief, then probably crash completely.",
+          "weights": {
+            "drowning": 3
+          }
+        },
+        {
+          "text": "I wouldn't trust it. I'd wait for the next thing to hit.",
+          "weights": {
+            "maxed-out": 3
+          }
+        },
+        {
+          "text": "Guilt, then I'd quietly fill it with everyone else's needs.",
+          "weights": {
+            "quietly-overloaded": 3
+          }
+        },
+        {
+          "text": "I'd actually enjoy it without feeling I owed anyone.",
+          "weights": {
+            "healthy-load": 3
+          }
+        }
       ]
     },
     {
       "text": "Why do you keep taking on so much?",
       "options": [
-        { "text": "I don't even know anymore. I just can't seem to stop.", "weights": { "drowning": 3 } },
-        { "text": "Because if I don't hold it, I'm scared it all falls apart.", "weights": { "maxed-out": 2, "quietly-overloaded": 1 } },
-        { "text": "Because saying no feels like letting people down.", "weights": { "quietly-overloaded": 3 } },
-        { "text": "I try not to. I've learned where my limits are.", "weights": { "healthy-load": 3 } }
+        {
+          "text": "I don't even know anymore. I just can't seem to stop.",
+          "weights": {
+            "drowning": 3
+          }
+        },
+        {
+          "text": "Because if I don't hold it, I'm scared it all falls apart.",
+          "weights": {
+            "maxed-out": 2,
+            "quietly-overloaded": 1
+          }
+        },
+        {
+          "text": "Because saying no feels like letting people down.",
+          "weights": {
+            "quietly-overloaded": 3
+          }
+        },
+        {
+          "text": "I try not to. I've learned where my limits are.",
+          "weights": {
+            "healthy-load": 3
+          }
+        }
       ]
     },
     {
       "text": "Which sentence lands a little too hard?",
       "options": [
-        { "text": "\"You're not coping anymore, you're just barely surviving.\"", "weights": { "drowning": 3 } },
-        { "text": "\"You're one bad day away from completely breaking.\"", "weights": { "maxed-out": 3 } },
-        { "text": "\"Everyone leans on you, and you lean on no one.\"", "weights": { "quietly-overloaded": 3 } },
-        { "text": "\"You're stretched, but you haven't snapped.\"", "weights": { "stretched-but-coping": 3 } }
+        {
+          "text": "\"You're not coping anymore, you're just barely surviving.\"",
+          "weights": {
+            "drowning": 3
+          }
+        },
+        {
+          "text": "\"You're one bad day away from completely breaking.\"",
+          "weights": {
+            "maxed-out": 3
+          }
+        },
+        {
+          "text": "\"Everyone leans on you, and you lean on no one.\"",
+          "weights": {
+            "quietly-overloaded": 3
+          }
+        },
+        {
+          "text": "\"You're stretched, but you haven't snapped.\"",
+          "weights": {
+            "stretched-but-coping": 3
+          }
+        }
       ]
     },
     {
       "text": "When you think about handing some of it to God, what comes up?",
       "options": [
-        { "text": "I'm too overwhelmed to even know what to hand Him.", "weights": { "drowning": 3 } },
-        { "text": "I want to, but I'm scared to loosen my grip at all.", "weights": { "maxed-out": 3 } },
-        { "text": "I keep meaning to, but I quietly take it all back.", "weights": { "quietly-overloaded": 3 } },
-        { "text": "I do, and it's honestly what keeps me steady.", "weights": { "healthy-load": 3 } }
+        {
+          "text": "I'm too overwhelmed to even know what to hand Him.",
+          "weights": {
+            "drowning": 3
+          }
+        },
+        {
+          "text": "I want to, but I'm scared to loosen my grip at all.",
+          "weights": {
+            "maxed-out": 3
+          }
+        },
+        {
+          "text": "I keep meaning to, but I quietly take it all back.",
+          "weights": {
+            "quietly-overloaded": 3
+          }
+        },
+        {
+          "text": "I do, and it's honestly what keeps me steady.",
+          "weights": {
+            "healthy-load": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you most need to give yourself permission to do?",
       "options": [
-        { "text": "Stop, completely, before this breaks me.", "weights": { "drowning": 3 } },
-        { "text": "Take something off the pile before it's too late.", "weights": { "maxed-out": 3 } },
-        { "text": "Say out loud that I'm not okay.", "weights": { "quietly-overloaded": 3 } },
-        { "text": "Keep protecting the balance I've worked hard to find.", "weights": { "healthy-load": 2, "stretched-but-coping": 1 } }
+        {
+          "text": "Stop, completely, before this breaks me.",
+          "weights": {
+            "drowning": 3
+          }
+        },
+        {
+          "text": "Take something off the pile before it's too late.",
+          "weights": {
+            "maxed-out": 3
+          }
+        },
+        {
+          "text": "Say out loud that I'm not okay.",
+          "weights": {
+            "quietly-overloaded": 3
+          }
+        },
+        {
+          "text": "Keep protecting the balance I've worked hard to find.",
+          "weights": {
+            "healthy-load": 2,
+            "stretched-but-coping": 1
+          }
+        }
       ]
     }
   ],
@@ -100,27 +285,47 @@
     "drowning": {
       "name": "Drowning (way past capacity)",
       "description": "You're not just tired. You're under the surface, gasping, and you've been pretending you can still touch the bottom. This isn't something to power through. It's a moment to stop and let someone pull you up. You were never meant to hold this much alone, and admitting that is not failure. It's the first real breath you've taken in a long time. Tell one safe person today. Then let God carry what your arms simply cannot.",
-      "scripture": { "text": "Cast your cares on the Lord and he will sustain you.", "reference": "Psalm 55:22" }
+      "scripture": {
+        "text": "Cast thy burden upon Jehovah, and he will sustain thee: He will never suffer the righteous to be moved.",
+        "reference": "Psalm 55:22",
+        "translation": "ASV"
+      }
     },
     "maxed-out": {
       "name": "Maxed Out",
       "description": "You're full to the brim, holding it all so tightly that one more thing could tip the whole thing over. You keep gripping because you're afraid of what happens if you let go. But white-knuckling everything isn't strength. It's slowly wearing you down. You don't have to wait until you crack to set something down. Take one thing off the pile this week, and trust that God can hold what you release.",
-      "scripture": { "text": "Come to me, all you who are weary and burdened, and I will give you rest.", "reference": "Matthew 11:28" }
+      "scripture": {
+        "text": "Come unto me, all ye that labor and are heavy laden, and I will give you rest.",
+        "reference": "Matthew 11:28",
+        "translation": "ASV"
+      }
     },
     "quietly-overloaded": {
       "name": "Quietly Overloaded",
       "description": "From the outside you look like you've got it together. Inside, you're carrying far more than anyone knows, and you've gotten good at hiding the weight behind a smile. Here's the truth: the people who hold everyone else still need someone to hold them. Saying no isn't letting people down. Letting someone in isn't weakness. You're allowed to be the one who gets cared for too.",
-      "scripture": { "text": "Carry each other's burdens, and in this way you will fulfill the law of Christ.", "reference": "Galatians 6:2" }
+      "scripture": {
+        "text": "Bear ye one another’s burdens, and so fulfil the law of Christ.",
+        "reference": "Galatians 6:2",
+        "translation": "ASV"
+      }
     },
     "stretched-but-coping": {
       "name": "Stretched but Coping",
       "description": "You're pulled thin, no doubt about it, but you haven't snapped. You're still finding ways to manage, still keeping your head above water on most days. That's worth noticing. Just stay honest with yourself, because stretched can quietly slide into too much if you stop paying attention. Keep checking in. Keep resting before you're empty. You're handling a lot, and you're handling it with more grace than you give yourself credit for.",
-      "scripture": { "text": "But those who hope in the Lord will renew their strength.", "reference": "Isaiah 40:31" }
+      "scripture": {
+        "text": "but they that wait for Jehovah shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; they shall walk, and not faint.",
+        "reference": "Isaiah 40:31",
+        "translation": "ASV"
+      }
     },
     "healthy-load": {
       "name": "Carrying a Healthy Load",
       "description": "You've learned something a lot of people never figure out: how to carry real responsibility without letting it crush you. You know your limits, you let people in, and you actually hand things to God instead of just talking about it. Keep guarding that. The peace you've found isn't an accident. It's the fruit of trusting that you don't have to hold the whole world together, because He already does.",
-      "scripture": { "text": "In peace I will lie down and sleep, for you alone, Lord, make me dwell in safety.", "reference": "Psalm 4:8" }
+      "scripture": {
+        "text": "In peace will I both lay me down and sleep; For thou, Jehovah, alone makest me dwell in safety.",
+        "reference": "Psalm 4:8",
+        "translation": "ASV"
+      }
     }
   }
 }

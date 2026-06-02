@@ -17,91 +17,297 @@
     {
       "text": "When you say God feels hidden, what do you mean most?",
       "options": [
-        { "text": "He won't just show Himself plainly, and I wish He would force the issue.", "weights": { "protecting-free-will": 3 } },
-        { "text": "I believe He's there, I just can't feel a thing right now.", "weights": { "closer-than-the-feeling": 3 } },
-        { "text": "There's something I'm carrying that sits like a wall between us.", "weights": { "sin-cloud": 3 } },
-        { "text": "I keep waiting for a sign and maybe I'm looking for the wrong thing.", "weights": { "looking-wrong": 3 } }
+        {
+          "text": "He won't just show Himself plainly, and I wish He would force the issue.",
+          "weights": {
+            "protecting-free-will": 3
+          }
+        },
+        {
+          "text": "I believe He's there, I just can't feel a thing right now.",
+          "weights": {
+            "closer-than-the-feeling": 3
+          }
+        },
+        {
+          "text": "There's something I'm carrying that sits like a wall between us.",
+          "weights": {
+            "sin-cloud": 3
+          }
+        },
+        {
+          "text": "I keep waiting for a sign and maybe I'm looking for the wrong thing.",
+          "weights": {
+            "looking-wrong": 3
+          }
+        }
       ]
     },
     {
       "text": "How long has this hidden feeling been going on?",
       "options": [
-        { "text": "On and off for a while. I've half made peace that He stays just out of reach.", "weights": { "protecting-free-will": 2, "refining-silence": 1 } },
-        { "text": "A dry stretch lately, even though nothing obvious changed.", "weights": { "closer-than-the-feeling": 3 } },
-        { "text": "Since I started doing something I know I shouldn't.", "weights": { "sin-cloud": 3 } },
-        { "text": "Long enough that I've started to wonder if I ever heard Him at all.", "weights": { "looking-wrong": 2, "refining-silence": 1 } }
+        {
+          "text": "On and off for a while. I've half made peace that He stays just out of reach.",
+          "weights": {
+            "protecting-free-will": 2,
+            "refining-silence": 1
+          }
+        },
+        {
+          "text": "A dry stretch lately, even though nothing obvious changed.",
+          "weights": {
+            "closer-than-the-feeling": 3
+          }
+        },
+        {
+          "text": "Since I started doing something I know I shouldn't.",
+          "weights": {
+            "sin-cloud": 3
+          }
+        },
+        {
+          "text": "Long enough that I've started to wonder if I ever heard Him at all.",
+          "weights": {
+            "looking-wrong": 2,
+            "refining-silence": 1
+          }
+        }
       ]
     },
     {
       "text": "What do you find yourself wanting from God right now?",
       "options": [
-        { "text": "Undeniable proof. Make it so clear I can't talk myself out of it.", "weights": { "protecting-free-will": 3 } },
-        { "text": "Just to feel close again, like I used to.", "weights": { "closer-than-the-feeling": 3 } },
-        { "text": "A clean slate, honestly. I want this weight off my chest.", "weights": { "sin-cloud": 3 } },
-        { "text": "To finally understand what He's been trying to say all along.", "weights": { "looking-wrong": 3 } }
+        {
+          "text": "Undeniable proof. Make it so clear I can't talk myself out of it.",
+          "weights": {
+            "protecting-free-will": 3
+          }
+        },
+        {
+          "text": "Just to feel close again, like I used to.",
+          "weights": {
+            "closer-than-the-feeling": 3
+          }
+        },
+        {
+          "text": "A clean slate, honestly. I want this weight off my chest.",
+          "weights": {
+            "sin-cloud": 3
+          }
+        },
+        {
+          "text": "To finally understand what He's been trying to say all along.",
+          "weights": {
+            "looking-wrong": 3
+          }
+        }
       ]
     },
     {
       "text": "When you pray lately, what happens?",
       "options": [
-        { "text": "I ask Him to just appear already, and the room stays quiet.", "weights": { "protecting-free-will": 3 } },
-        { "text": "The words feel flat, like they're not getting past the ceiling.", "weights": { "closer-than-the-feeling": 3 } },
-        { "text": "I avoid praying about the one thing I don't want to bring up.", "weights": { "sin-cloud": 3 } },
-        { "text": "I keep asking for direction when maybe He already gave it.", "weights": { "looking-wrong": 2, "refining-silence": 1 } }
+        {
+          "text": "I ask Him to just appear already, and the room stays quiet.",
+          "weights": {
+            "protecting-free-will": 3
+          }
+        },
+        {
+          "text": "The words feel flat, like they're not getting past the ceiling.",
+          "weights": {
+            "closer-than-the-feeling": 3
+          }
+        },
+        {
+          "text": "I avoid praying about the one thing I don't want to bring up.",
+          "weights": {
+            "sin-cloud": 3
+          }
+        },
+        {
+          "text": "I keep asking for direction when maybe He already gave it.",
+          "weights": {
+            "looking-wrong": 2,
+            "refining-silence": 1
+          }
+        }
       ]
     },
     {
       "text": "Be honest. What's underneath the silence for you?",
       "options": [
-        { "text": "Frustration that love this real would let me choose to walk away.", "weights": { "protecting-free-will": 3 } },
-        { "text": "A tired heart that confuses no feeling with no God.", "weights": { "closer-than-the-feeling": 3 } },
-        { "text": "Guilt I keep tucking out of sight.", "weights": { "sin-cloud": 3 } },
-        { "text": "A picture of how God should speak that He keeps not matching.", "weights": { "looking-wrong": 3 } }
+        {
+          "text": "Frustration that love this real would let me choose to walk away.",
+          "weights": {
+            "protecting-free-will": 3
+          }
+        },
+        {
+          "text": "A tired heart that confuses no feeling with no God.",
+          "weights": {
+            "closer-than-the-feeling": 3
+          }
+        },
+        {
+          "text": "Guilt I keep tucking out of sight.",
+          "weights": {
+            "sin-cloud": 3
+          }
+        },
+        {
+          "text": "A picture of how God should speak that He keeps not matching.",
+          "weights": {
+            "looking-wrong": 3
+          }
+        }
       ]
     },
     {
       "text": "Which sentence stings the most?",
       "options": [
-        { "text": "If He's good, He'd make Himself obvious to everyone.", "weights": { "protecting-free-will": 3 } },
-        { "text": "I'm doing all the right things and feeling none of it.", "weights": { "closer-than-the-feeling": 3 } },
-        { "text": "I can't really seek Him while I'm hiding this.", "weights": { "sin-cloud": 3 } },
-        { "text": "Maybe He's been speaking and I keep missing it.", "weights": { "looking-wrong": 2, "refining-silence": 1 } }
+        {
+          "text": "If He's good, He'd make Himself obvious to everyone.",
+          "weights": {
+            "protecting-free-will": 3
+          }
+        },
+        {
+          "text": "I'm doing all the right things and feeling none of it.",
+          "weights": {
+            "closer-than-the-feeling": 3
+          }
+        },
+        {
+          "text": "I can't really seek Him while I'm hiding this.",
+          "weights": {
+            "sin-cloud": 3
+          }
+        },
+        {
+          "text": "Maybe He's been speaking and I keep missing it.",
+          "weights": {
+            "looking-wrong": 2,
+            "refining-silence": 1
+          }
+        }
       ]
     },
     {
       "text": "What helps, even a little, when He feels far?",
       "options": [
-        { "text": "Nothing yet. I want Him to make the first big move.", "weights": { "protecting-free-will": 2, "refining-silence": 1 } },
-        { "text": "Sitting with Scripture even when I feel nothing, and waiting it out.", "weights": { "closer-than-the-feeling": 2, "refining-silence": 1 } },
-        { "text": "Finally being honest about what I've been doing.", "weights": { "sin-cloud": 3 } },
-        { "text": "Slowing down enough to notice the quiet ways He's already there.", "weights": { "looking-wrong": 3 } }
+        {
+          "text": "Nothing yet. I want Him to make the first big move.",
+          "weights": {
+            "protecting-free-will": 2,
+            "refining-silence": 1
+          }
+        },
+        {
+          "text": "Sitting with Scripture even when I feel nothing, and waiting it out.",
+          "weights": {
+            "closer-than-the-feeling": 2,
+            "refining-silence": 1
+          }
+        },
+        {
+          "text": "Finally being honest about what I've been doing.",
+          "weights": {
+            "sin-cloud": 3
+          }
+        },
+        {
+          "text": "Slowing down enough to notice the quiet ways He's already there.",
+          "weights": {
+            "looking-wrong": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you suspect this season is really about?",
       "options": [
-        { "text": "He's leaving room for me to want Him instead of being cornered into it.", "weights": { "protecting-free-will": 3 } },
-        { "text": "He's near and I just can't feel Him through the fog.", "weights": { "closer-than-the-feeling": 3 } },
-        { "text": "Something between us I need to bring into the open.", "weights": { "sin-cloud": 3 } },
-        { "text": "He's growing a deeper trust in me that doesn't run on goosebumps.", "weights": { "refining-silence": 3 } }
+        {
+          "text": "He's leaving room for me to want Him instead of being cornered into it.",
+          "weights": {
+            "protecting-free-will": 3
+          }
+        },
+        {
+          "text": "He's near and I just can't feel Him through the fog.",
+          "weights": {
+            "closer-than-the-feeling": 3
+          }
+        },
+        {
+          "text": "Something between us I need to bring into the open.",
+          "weights": {
+            "sin-cloud": 3
+          }
+        },
+        {
+          "text": "He's growing a deeper trust in me that doesn't run on goosebumps.",
+          "weights": {
+            "refining-silence": 3
+          }
+        }
       ]
     },
     {
       "text": "If God said one sentence to you tonight, you'd want it to be...",
       "options": [
-        { "text": "I won't overwhelm your freedom. I'm waiting for you to turn.", "weights": { "protecting-free-will": 3 } },
-        { "text": "I'm closer than you feel. The silence is not absence.", "weights": { "closer-than-the-feeling": 3 } },
-        { "text": "Bring it out of the dark. There's nothing you can't tell me.", "weights": { "sin-cloud": 3 } },
-        { "text": "Trust me here, where you can't see. I am still working.", "weights": { "refining-silence": 3 } }
+        {
+          "text": "I won't overwhelm your freedom. I'm waiting for you to turn.",
+          "weights": {
+            "protecting-free-will": 3
+          }
+        },
+        {
+          "text": "I'm closer than you feel. The silence is not absence.",
+          "weights": {
+            "closer-than-the-feeling": 3
+          }
+        },
+        {
+          "text": "Bring it out of the dark. There's nothing you can't tell me.",
+          "weights": {
+            "sin-cloud": 3
+          }
+        },
+        {
+          "text": "Trust me here, where you can't see. I am still working.",
+          "weights": {
+            "refining-silence": 3
+          }
+        }
       ]
     },
     {
       "text": "Which reason feels truest to where you are?",
       "options": [
-        { "text": "He hides a little so my faith can be a real choice.", "weights": { "protecting-free-will": 3 } },
-        { "text": "He's right here. My feelings just went quiet for a while.", "weights": { "closer-than-the-feeling": 3 } },
-        { "text": "A sin I haven't dealt with is dimming the connection.", "weights": { "sin-cloud": 3 } },
-        { "text": "He's refining me in the quiet, building trust without proof.", "weights": { "refining-silence": 3 } }
+        {
+          "text": "He hides a little so my faith can be a real choice.",
+          "weights": {
+            "protecting-free-will": 3
+          }
+        },
+        {
+          "text": "He's right here. My feelings just went quiet for a while.",
+          "weights": {
+            "closer-than-the-feeling": 3
+          }
+        },
+        {
+          "text": "A sin I haven't dealt with is dimming the connection.",
+          "weights": {
+            "sin-cloud": 3
+          }
+        },
+        {
+          "text": "He's refining me in the quiet, building trust without proof.",
+          "weights": {
+            "refining-silence": 3
+          }
+        }
       ]
     }
   ],
@@ -109,27 +315,47 @@
     "protecting-free-will": {
       "name": "He's Protecting Your Free Will",
       "description": "Part of you wishes God would just blaze across the sky and end all argument. Here's the gentle reason He often doesn't: love that's forced isn't love at all. If He overwhelmed you with proof, you'd have no real choice left, only surrender to the obvious. So He stays close enough to be found and quiet enough to be wanted. He isn't hiding to torment you. He's leaving room for you to turn toward Him freely, and that turn means everything.",
-      "scripture": { "text": "You will seek me and find me when you seek me with all your heart.", "reference": "Jeremiah 29:13" }
+      "scripture": {
+        "text": "And ye shall seek me, and find me, when ye shall search for me with all your heart.",
+        "reference": "Jeremiah 29:13",
+        "translation": "ASV"
+      }
     },
     "closer-than-the-feeling": {
       "name": "He's Closer Than the Feeling",
       "description": "You believe He's there. You just can't feel Him, and the dryness has started to whisper that He left. He didn't. Feelings rise and fade like weather, but His nearness doesn't run on your mood. Some of the godliest people who ever lived went through long flat stretches and came out holding a faith that no longer needed goosebumps to stand. Stay near Him in the quiet. Keep showing up even when nothing lands. The closeness comes back, and it comes back deeper.",
-      "scripture": { "text": "The Lord is close to the brokenhearted and saves those who are crushed in spirit.", "reference": "Psalm 34:18" }
+      "scripture": {
+        "text": "Jehovah is nigh unto them that are of a broken heart, And saveth such as are of a contrite spirit.",
+        "reference": "Psalm 34:18",
+        "translation": "ASV"
+      }
     },
     "sin-cloud": {
       "name": "A Sin Cloud",
       "description": "If you're really honest, you already know what's dimming the connection. There's something you've been carrying in the dark, and seeking God while hiding it feels impossible, so you've half stopped trying. Here's the good news: this is the most fixable kind of distance there is. He isn't standing over you with crossed arms. He's waiting for you to bring it into the open so He can lift it off you. Confess it, let it go, and watch how fast the fog clears.",
-      "scripture": { "text": "If we confess our sins, he is faithful and just and will forgive us our sins.", "reference": "1 John 1:9" }
+      "scripture": {
+        "text": "If we confess our sins, he is faithful and righteous to forgive us our sins, and to cleanse us from all unrighteousness.",
+        "reference": "1 John 1:9",
+        "translation": "ASV"
+      }
     },
     "looking-wrong": {
       "name": "You're Looking for Him Wrong",
       "description": "You've been scanning the sky for fireworks while He keeps speaking in a whisper. So many people miss God not because He's silent but because they're listening for the wrong volume. He rarely shouts. He tends to come in the still small voice, in the steady words of Scripture, in the quiet nudge you almost talk yourself out of. Slow down. Get quiet. Stop waiting for the dramatic sign and start noticing the ordinary ways He's been right beside you all along.",
-      "scripture": { "text": "And after the fire a still small voice.", "reference": "1 Kings 19:12" }
+      "scripture": {
+        "text": "and after the earthquake a fire; but Jehovah was not in the fire: and after the fire a still small voice.",
+        "reference": "1 Kings 19:12",
+        "translation": "ASV"
+      }
     },
     "refining-silence": {
       "name": "The Refining Silence",
       "description": "This quiet isn't punishment, and it isn't abandonment. It's the kind of silence a good teacher uses, the space where real trust gets built. Anyone can follow God when the feelings are loud and the answers come fast. He's growing something sturdier in you: a faith that holds on in the dark, that trusts His character when you can't trace His hand. The silence has a purpose. Don't waste it trying to escape it. Let it do the deep, slow work it came to do.",
-      "scripture": { "text": "When he has tested me, I will come forth as gold.", "reference": "Job 23:10" }
+      "scripture": {
+        "text": "But he knoweth the way that I take; When he hath tried me, I shall come forth as gold.",
+        "reference": "Job 23:10",
+        "translation": "ASV"
+      }
     }
   }
 }

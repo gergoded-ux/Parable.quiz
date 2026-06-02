@@ -10,82 +10,270 @@
     {
       "text": "When you think about how the hurt happened, what fits best?",
       "options": [
-        { "text": "I asked honest questions and got pushed out for it.", "weights": { "man-born-blind": 3 } },
-        { "text": "I spoke up about what was wrong and they came after me.", "weights": { "jeremiah": 3 } },
-        { "text": "Someone in power used their authority to harm me.", "weights": { "david": 3 } },
-        { "text": "I was shamed in a place that was supposed to be safe.", "weights": { "hannah": 3 } }
+        {
+          "text": "I asked honest questions and got pushed out for it.",
+          "weights": {
+            "man-born-blind": 3
+          }
+        },
+        {
+          "text": "I spoke up about what was wrong and they came after me.",
+          "weights": {
+            "jeremiah": 3
+          }
+        },
+        {
+          "text": "Someone in power used their authority to harm me.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "I was shamed in a place that was supposed to be safe.",
+          "weights": {
+            "hannah": 3
+          }
+        }
       ]
     },
     {
       "text": "What did the leaders seem most concerned about protecting?",
       "options": [
-        { "text": "Their rules, even when the rules were crushing people.", "weights": { "man-born-blind": 2, "jesus": 1 } },
-        { "text": "Their reputation and comfort.", "weights": { "jeremiah": 2 } },
-        { "text": "Their power and position.", "weights": { "david": 3 } },
-        { "text": "Their image of who 'belongs' here.", "weights": { "jesus": 2, "hannah": 1 } }
+        {
+          "text": "Their rules, even when the rules were crushing people.",
+          "weights": {
+            "man-born-blind": 2,
+            "jesus": 1
+          }
+        },
+        {
+          "text": "Their reputation and comfort.",
+          "weights": {
+            "jeremiah": 2
+          }
+        },
+        {
+          "text": "Their power and position.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "Their image of who 'belongs' here.",
+          "weights": {
+            "jesus": 2,
+            "hannah": 1
+          }
+        }
       ]
     },
     {
       "text": "Since it happened, the hardest part has been...",
       "options": [
-        { "text": "Feeling cast out from a community I loved.", "weights": { "man-born-blind": 3 } },
-        { "text": "Being treated like the enemy for telling the truth.", "weights": { "jeremiah": 3 } },
-        { "text": "Having to run from someone who claimed to speak for God.", "weights": { "david": 3 } },
-        { "text": "Carrying private pain while being judged on the outside.", "weights": { "hannah": 3 } }
+        {
+          "text": "Feeling cast out from a community I loved.",
+          "weights": {
+            "man-born-blind": 3
+          }
+        },
+        {
+          "text": "Being treated like the enemy for telling the truth.",
+          "weights": {
+            "jeremiah": 3
+          }
+        },
+        {
+          "text": "Having to run from someone who claimed to speak for God.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "Carrying private pain while being judged on the outside.",
+          "weights": {
+            "hannah": 3
+          }
+        }
       ]
     },
     {
       "text": "When you walked away, the people who stayed mostly...",
       "options": [
-        { "text": "Sided with the leaders and questioned my story.", "weights": { "man-born-blind": 2, "jeremiah": 1 } },
-        { "text": "Went silent, afraid to be associated with me.", "weights": { "jeremiah": 2, "jesus": 1 } },
-        { "text": "Believed the powerful person over me.", "weights": { "david": 3 } },
-        { "text": "Misread my pain and assumed the worst about me.", "weights": { "hannah": 3 } }
+        {
+          "text": "Sided with the leaders and questioned my story.",
+          "weights": {
+            "man-born-blind": 2,
+            "jeremiah": 1
+          }
+        },
+        {
+          "text": "Went silent, afraid to be associated with me.",
+          "weights": {
+            "jeremiah": 2,
+            "jesus": 1
+          }
+        },
+        {
+          "text": "Believed the powerful person over me.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "Misread my pain and assumed the worst about me.",
+          "weights": {
+            "hannah": 3
+          }
+        }
       ]
     },
     {
       "text": "What does your faith feel like now?",
       "options": [
-        { "text": "I still believe. They couldn't take Jesus from me.", "weights": { "man-born-blind": 3 } },
-        { "text": "Weary but stubborn. I can't quit even when it costs me.", "weights": { "jeremiah": 3 } },
-        { "text": "I trust God, but I can't trust people in power yet.", "weights": { "david": 2 } },
-        { "text": "Tender. I bring my ache straight to God now, not the system.", "weights": { "hannah": 2, "jesus": 1 } }
+        {
+          "text": "I still believe. They couldn't take Jesus from me.",
+          "weights": {
+            "man-born-blind": 3
+          }
+        },
+        {
+          "text": "Weary but stubborn. I can't quit even when it costs me.",
+          "weights": {
+            "jeremiah": 3
+          }
+        },
+        {
+          "text": "I trust God, but I can't trust people in power yet.",
+          "weights": {
+            "david": 2
+          }
+        },
+        {
+          "text": "Tender. I bring my ache straight to God now, not the system.",
+          "weights": {
+            "hannah": 2,
+            "jesus": 1
+          }
+        }
       ]
     },
     {
       "text": "Which thought sits closest to your heart these days?",
       "options": [
-        { "text": "I know what I experienced, and no one can argue me out of it.", "weights": { "man-born-blind": 3 } },
-        { "text": "Speaking truth is lonely, but I'd do it again.", "weights": { "jeremiah": 3 } },
-        { "text": "I won't repay their evil with evil. I'll wait on God.", "weights": { "david": 3 } },
-        { "text": "God sees what people misjudged. He knows the real me.", "weights": { "hannah": 2, "jesus": 1 } }
+        {
+          "text": "I know what I experienced, and no one can argue me out of it.",
+          "weights": {
+            "man-born-blind": 3
+          }
+        },
+        {
+          "text": "Speaking truth is lonely, but I'd do it again.",
+          "weights": {
+            "jeremiah": 3
+          }
+        },
+        {
+          "text": "I won't repay their evil with evil. I'll wait on God.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "God sees what people misjudged. He knows the real me.",
+          "weights": {
+            "hannah": 2,
+            "jesus": 1
+          }
+        }
       ]
     },
     {
       "text": "If you could say one thing to the leaders who hurt you, it'd be...",
       "options": [
-        { "text": "You threw me out, but Jesus came and found me.", "weights": { "man-born-blind": 3 } },
-        { "text": "You silenced me, but the truth was still the truth.", "weights": { "jeremiah": 3 } },
-        { "text": "You had the power, but you didn't have the right.", "weights": { "david": 3 } },
-        { "text": "You judged my face. God was reading my heart.", "weights": { "hannah": 3 } }
+        {
+          "text": "You threw me out, but Jesus came and found me.",
+          "weights": {
+            "man-born-blind": 3
+          }
+        },
+        {
+          "text": "You silenced me, but the truth was still the truth.",
+          "weights": {
+            "jeremiah": 3
+          }
+        },
+        {
+          "text": "You had the power, but you didn't have the right.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "You judged my face. God was reading my heart.",
+          "weights": {
+            "hannah": 3
+          }
+        }
       ]
     },
     {
       "text": "Deep down, what do you most need to hear right now?",
       "options": [
-        { "text": "You were never the problem. You belong to Me.", "weights": { "man-born-blind": 2, "jesus": 1 } },
-        { "text": "I heard every word you said in the dark.", "weights": { "jeremiah": 2 } },
-        { "text": "I see the one chasing you, and I'll deal with them.", "weights": { "david": 2 } },
-        { "text": "I have remembered you. You are not forgotten.", "weights": { "hannah": 3 } }
+        {
+          "text": "You were never the problem. You belong to Me.",
+          "weights": {
+            "man-born-blind": 2,
+            "jesus": 1
+          }
+        },
+        {
+          "text": "I heard every word you said in the dark.",
+          "weights": {
+            "jeremiah": 2
+          }
+        },
+        {
+          "text": "I see the one chasing you, and I'll deal with them.",
+          "weights": {
+            "david": 2
+          }
+        },
+        {
+          "text": "I have remembered you. You are not forgotten.",
+          "weights": {
+            "hannah": 3
+          }
+        }
       ]
     },
     {
       "text": "When you read that even Jesus was rejected by the religious crowd, you feel...",
       "options": [
-        { "text": "Strangely comforted. He really does get it.", "weights": { "jesus": 3 } },
-        { "text": "Less crazy for trusting my own experience.", "weights": { "man-born-blind": 2 } },
-        { "text": "Seen in my loneliness of standing for what's right.", "weights": { "jeremiah": 2 } },
-        { "text": "Like my pain finally has a witness who understands.", "weights": { "jesus": 2, "hannah": 1 } }
+        {
+          "text": "Strangely comforted. He really does get it.",
+          "weights": {
+            "jesus": 3
+          }
+        },
+        {
+          "text": "Less crazy for trusting my own experience.",
+          "weights": {
+            "man-born-blind": 2
+          }
+        },
+        {
+          "text": "Seen in my loneliness of standing for what's right.",
+          "weights": {
+            "jeremiah": 2
+          }
+        },
+        {
+          "text": "Like my pain finally has a witness who understands.",
+          "weights": {
+            "jesus": 2,
+            "hannah": 1
+          }
+        }
       ]
     }
   ],
@@ -93,37 +281,77 @@
     "man-born-blind": {
       "name": "The Man Born Blind",
       "emoji": "👁️",
-      "traits": ["Honest", "Steady", "Found"],
+      "traits": [
+        "Honest",
+        "Steady",
+        "Found"
+      ],
       "description": "Jesus healed him, and instead of celebrating, the religious leaders interrogated him and threw him out of the synagogue for telling the truth. Here's the part that matters: Jesus went looking for him afterward. When the community casts you out for your honest story, He is the One who comes to find you and call you His own.",
-      "scripture": { "text": "Jesus heard that they had cast him out; and when he had found him, he said unto him, Dost thou believe on the Son of God?", "reference": "John 9:35" }
+      "scripture": {
+        "text": "Jesus heard that they had cast him out; and finding him, he said, Dost thou believe on the Son of God?",
+        "reference": "John 9:35",
+        "translation": "ASV"
+      }
     },
     "jeremiah": {
       "name": "Jeremiah",
       "emoji": "🔥",
-      "traits": ["Truthful", "Weary", "Faithful"],
+      "traits": [
+        "Truthful",
+        "Weary",
+        "Faithful"
+      ],
       "description": "He spoke what God gave him to say, and the priest Pashhur had him beaten and put in stocks for it. He felt the loneliness of being right when everyone with power wanted him quiet. If you've been punished for naming what was wrong, you stand where he stood. God did not call his faithfulness a failure, and He does not call yours one either.",
-      "scripture": { "text": "But the Lord is with me as a mighty terrible one: therefore my persecutors shall stumble.", "reference": "Jeremiah 20:11" }
+      "scripture": {
+        "text": "But Jehovah is with me as a mighty one and a terrible: therefore my persecutors shall stumble, and they shall not prevail; they shall be utterly put to shame, because they have not dealt wisely, even with an everlasting dishonor which shall never be forgotten.",
+        "reference": "Jeremiah 20:11",
+        "translation": "ASV"
+      }
     },
     "david": {
       "name": "David",
       "emoji": "🛡️",
-      "traits": ["Patient", "Resilient", "Trusting"],
+      "traits": [
+        "Patient",
+        "Resilient",
+        "Trusting"
+      ],
       "description": "Hunted for years by Saul, the very king God had anointed, David learned the strange grief of being harmed by someone who claimed God's authority. Twice he could have struck back, and twice he refused. When power gets twisted against you, his story says you can hold your integrity and let God settle the account in His own time.",
-      "scripture": { "text": "The Lord judge between me and thee, and the Lord avenge me of thee: but mine hand shall not be upon thee.", "reference": "1 Samuel 24:12" }
+      "scripture": {
+        "text": "Jehovah judge between me and thee, and Jehovah avenge me of thee; but my hand shall not be upon thee.",
+        "reference": "1 Samuel 24:12",
+        "translation": "ASV"
+      }
     },
     "hannah": {
       "name": "Hannah",
       "emoji": "🕯️",
-      "traits": ["Tender", "Prayerful", "Seen"],
+      "traits": [
+        "Tender",
+        "Prayerful",
+        "Seen"
+      ],
       "description": "She came to the temple aching, and Eli the priest looked at her and assumed she was drunk. Shamed at the door of the very place she came for comfort, she still poured her heart out to God instead of the man who misjudged her. If you've been misread by the people who should have cared, take heart: God read your heart correctly the whole time, and He remembered you.",
-      "scripture": { "text": "And she was in bitterness of soul, and prayed unto the Lord, and wept sore.", "reference": "1 Samuel 1:10" }
+      "scripture": {
+        "text": "And she was in bitterness of soul, and prayed unto Jehovah, and wept sore.",
+        "reference": "1 Samuel 1:10",
+        "translation": "ASV"
+      }
     },
     "jesus": {
       "name": "Jesus Himself",
       "emoji": "✝️",
-      "traits": ["Rejected", "Gentle", "Understanding"],
+      "traits": [
+        "Rejected",
+        "Gentle",
+        "Understanding"
+      ],
       "description": "The religious establishment of His day plotted against Him, mocked Him, and handed Him over to die. The Son of God knows exactly what it is to be wounded by the people who run religion. Whatever they did to you, He is not a distant Savior. He is the One who was despised and rejected too, and He meets you right inside that wound.",
-      "scripture": { "text": "He is despised and rejected of men; a man of sorrows, and acquainted with grief.", "reference": "Isaiah 53:3" }
+      "scripture": {
+        "text": "He was despised, and rejected of men; a man of sorrows, and acquainted with grief: and as one from whom men hide their face he was despised; and we esteemed him not.",
+        "reference": "Isaiah 53:3",
+        "translation": "ASV"
+      }
     }
   }
 }

@@ -16,91 +16,292 @@
     {
       "text": "How would you describe the silence you're feeling?",
       "options": [
-        { "text": "A deep, painful absence right where God used to be.", "weights": { "dark-night-of-the-soul": 3 } },
-        { "text": "Everything's gone numb since the loss I went through.", "weights": { "grief-dulled-senses": 3 } },
-        { "text": "Just flat and dry. Nothing's landing lately.", "weights": { "spiritual-dryness": 3 } },
-        { "text": "Quiet, but I half-suspect He's nearer than it feels.", "weights": { "closer-than-the-silence": 3 } }
+        {
+          "text": "A deep, painful absence right where God used to be.",
+          "weights": {
+            "dark-night-of-the-soul": 3
+          }
+        },
+        {
+          "text": "Everything's gone numb since the loss I went through.",
+          "weights": {
+            "grief-dulled-senses": 3
+          }
+        },
+        {
+          "text": "Just flat and dry. Nothing's landing lately.",
+          "weights": {
+            "spiritual-dryness": 3
+          }
+        },
+        {
+          "text": "Quiet, but I half-suspect He's nearer than it feels.",
+          "weights": {
+            "closer-than-the-silence": 3
+          }
+        }
       ]
     },
     {
       "text": "What was happening in your faith before the silence set in?",
       "options": [
-        { "text": "It was rich and growing, then suddenly went dark.", "weights": { "dark-night-of-the-soul": 3 } },
-        { "text": "Life cracked open with grief and I haven't felt much since.", "weights": { "grief-dulled-senses": 3 } },
-        { "text": "It slowly drifted into routine and lost its spark.", "weights": { "spiritual-dryness": 3 } },
-        { "text": "Honestly steady. The silence is more recent and milder.", "weights": { "closer-than-the-silence": 3 } }
+        {
+          "text": "It was rich and growing, then suddenly went dark.",
+          "weights": {
+            "dark-night-of-the-soul": 3
+          }
+        },
+        {
+          "text": "Life cracked open with grief and I haven't felt much since.",
+          "weights": {
+            "grief-dulled-senses": 3
+          }
+        },
+        {
+          "text": "It slowly drifted into routine and lost its spark.",
+          "weights": {
+            "spiritual-dryness": 3
+          }
+        },
+        {
+          "text": "Honestly steady. The silence is more recent and milder.",
+          "weights": {
+            "closer-than-the-silence": 3
+          }
+        }
       ]
     },
     {
       "text": "When you try to pray these days, what happens?",
       "options": [
-        { "text": "It feels like my words vanish into a vast emptiness.", "weights": { "dark-night-of-the-soul": 3 } },
-        { "text": "I'm too heavy with sorrow to even form the words.", "weights": { "grief-dulled-senses": 3 } },
-        { "text": "I go through the motions but feel nothing back.", "weights": { "spiritual-dryness": 3 } },
-        { "text": "It's quieter than before, but I sense Him listening.", "weights": { "closer-than-the-silence": 3 } }
+        {
+          "text": "It feels like my words vanish into a vast emptiness.",
+          "weights": {
+            "dark-night-of-the-soul": 3
+          }
+        },
+        {
+          "text": "I'm too heavy with sorrow to even form the words.",
+          "weights": {
+            "grief-dulled-senses": 3
+          }
+        },
+        {
+          "text": "I go through the motions but feel nothing back.",
+          "weights": {
+            "spiritual-dryness": 3
+          }
+        },
+        {
+          "text": "It's quieter than before, but I sense Him listening.",
+          "weights": {
+            "closer-than-the-silence": 3
+          }
+        }
       ]
     },
     {
       "text": "Which sentence sounds most like you right now?",
       "options": [
-        { "text": "\"He feels gone, and it hurts more than I can say.\"", "weights": { "dark-night-of-the-soul": 3 } },
-        { "text": "\"Grief has dulled everything, including my sense of God.\"", "weights": { "grief-dulled-senses": 3 } },
-        { "text": "\"It's not pain, it's just dry. Like a desert stretch.\"", "weights": { "spiritual-dryness": 3 } },
-        { "text": "\"It's quiet, but I don't think He's actually left.\"", "weights": { "closer-than-the-silence": 3 } }
+        {
+          "text": "\"He feels gone, and it hurts more than I can say.\"",
+          "weights": {
+            "dark-night-of-the-soul": 3
+          }
+        },
+        {
+          "text": "\"Grief has dulled everything, including my sense of God.\"",
+          "weights": {
+            "grief-dulled-senses": 3
+          }
+        },
+        {
+          "text": "\"It's not pain, it's just dry. Like a desert stretch.\"",
+          "weights": {
+            "spiritual-dryness": 3
+          }
+        },
+        {
+          "text": "\"It's quiet, but I don't think He's actually left.\"",
+          "weights": {
+            "closer-than-the-silence": 3
+          }
+        }
       ]
     },
     {
       "text": "What scares you most about the silence?",
       "options": [
-        { "text": "That this hollow absence might never lift.", "weights": { "dark-night-of-the-soul": 3 } },
-        { "text": "That my grief means God has stopped being good to me.", "weights": { "grief-dulled-senses": 3 } },
-        { "text": "That I've drifted so far the spark is gone for good.", "weights": { "spiritual-dryness": 3 } },
-        { "text": "Not much, really. I'm mostly just waiting it out.", "weights": { "closer-than-the-silence": 3 } }
+        {
+          "text": "That this hollow absence might never lift.",
+          "weights": {
+            "dark-night-of-the-soul": 3
+          }
+        },
+        {
+          "text": "That my grief means God has stopped being good to me.",
+          "weights": {
+            "grief-dulled-senses": 3
+          }
+        },
+        {
+          "text": "That I've drifted so far the spark is gone for good.",
+          "weights": {
+            "spiritual-dryness": 3
+          }
+        },
+        {
+          "text": "Not much, really. I'm mostly just waiting it out.",
+          "weights": {
+            "closer-than-the-silence": 3
+          }
+        }
       ]
     },
     {
       "text": "How long has the silence been going on?",
       "options": [
-        { "text": "A long, disorienting stretch I can't explain.", "weights": { "dark-night-of-the-soul": 3 } },
-        { "text": "Since the loss. It tracks exactly with my grief.", "weights": { "grief-dulled-senses": 3 } },
-        { "text": "It crept in slowly over months of going flat.", "weights": { "spiritual-dryness": 3 } },
-        { "text": "Only recently, and it comes and goes.", "weights": { "closer-than-the-silence": 3 } }
+        {
+          "text": "A long, disorienting stretch I can't explain.",
+          "weights": {
+            "dark-night-of-the-soul": 3
+          }
+        },
+        {
+          "text": "Since the loss. It tracks exactly with my grief.",
+          "weights": {
+            "grief-dulled-senses": 3
+          }
+        },
+        {
+          "text": "It crept in slowly over months of going flat.",
+          "weights": {
+            "spiritual-dryness": 3
+          }
+        },
+        {
+          "text": "Only recently, and it comes and goes.",
+          "weights": {
+            "closer-than-the-silence": 3
+          }
+        }
       ]
     },
     {
       "text": "What do other believers' answers feel like to you?",
       "options": [
-        { "text": "Too small for the depth of what I'm in.", "weights": { "dark-night-of-the-soul": 2, "grief-dulled-senses": 1 } },
-        { "text": "Painful, because they don't get how grief mutes everything.", "weights": { "grief-dulled-senses": 3 } },
-        { "text": "Familiar, but nothing reignites the dryness yet.", "weights": { "spiritual-dryness": 3 } },
-        { "text": "Mostly reassuring. I can still receive them.", "weights": { "closer-than-the-silence": 3 } }
+        {
+          "text": "Too small for the depth of what I'm in.",
+          "weights": {
+            "dark-night-of-the-soul": 2,
+            "grief-dulled-senses": 1
+          }
+        },
+        {
+          "text": "Painful, because they don't get how grief mutes everything.",
+          "weights": {
+            "grief-dulled-senses": 3
+          }
+        },
+        {
+          "text": "Familiar, but nothing reignites the dryness yet.",
+          "weights": {
+            "spiritual-dryness": 3
+          }
+        },
+        {
+          "text": "Mostly reassuring. I can still receive them.",
+          "weights": {
+            "closer-than-the-silence": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you most need to be true right now?",
       "options": [
-        { "text": "That this dark night has a purpose and an end.", "weights": { "dark-night-of-the-soul": 3 } },
-        { "text": "That God is close to me precisely in my heartbreak.", "weights": { "grief-dulled-senses": 3 } },
-        { "text": "That a dry season is normal and not the end of my faith.", "weights": { "spiritual-dryness": 3 } },
-        { "text": "That He's near even when I can't feel a thing.", "weights": { "closer-than-the-silence": 3 } }
+        {
+          "text": "That this dark night has a purpose and an end.",
+          "weights": {
+            "dark-night-of-the-soul": 3
+          }
+        },
+        {
+          "text": "That God is close to me precisely in my heartbreak.",
+          "weights": {
+            "grief-dulled-senses": 3
+          }
+        },
+        {
+          "text": "That a dry season is normal and not the end of my faith.",
+          "weights": {
+            "spiritual-dryness": 3
+          }
+        },
+        {
+          "text": "That He's near even when I can't feel a thing.",
+          "weights": {
+            "closer-than-the-silence": 3
+          }
+        }
       ]
     },
     {
       "text": "Deep down, what do you suspect this silence really is?",
       "options": [
-        { "text": "A profound dark night, the kind the saints wrote about.", "weights": { "dark-night-of-the-soul": 3 } },
-        { "text": "Grief drowning out a God who hasn't actually moved.", "weights": { "grief-dulled-senses": 3 } },
-        { "text": "A dry desert season, not abandonment.", "weights": { "spiritual-dryness": 3 } },
-        { "text": "Him being closer than the quiet makes it seem.", "weights": { "closer-than-the-silence": 3 } }
+        {
+          "text": "A profound dark night, the kind the saints wrote about.",
+          "weights": {
+            "dark-night-of-the-soul": 3
+          }
+        },
+        {
+          "text": "Grief drowning out a God who hasn't actually moved.",
+          "weights": {
+            "grief-dulled-senses": 3
+          }
+        },
+        {
+          "text": "A dry desert season, not abandonment.",
+          "weights": {
+            "spiritual-dryness": 3
+          }
+        },
+        {
+          "text": "Him being closer than the quiet makes it seem.",
+          "weights": {
+            "closer-than-the-silence": 3
+          }
+        }
       ]
     },
     {
       "text": "If you named this season in a phrase, it's...",
       "options": [
-        { "text": "A dark night of the soul.", "weights": { "dark-night-of-the-soul": 3 } },
-        { "text": "Grief dulling my senses.", "weights": { "grief-dulled-senses": 3 } },
-        { "text": "Spiritual dryness, not abandonment.", "weights": { "spiritual-dryness": 3 } },
-        { "text": "Him, closer than the silence suggests.", "weights": { "closer-than-the-silence": 3 } }
+        {
+          "text": "A dark night of the soul.",
+          "weights": {
+            "dark-night-of-the-soul": 3
+          }
+        },
+        {
+          "text": "Grief dulling my senses.",
+          "weights": {
+            "grief-dulled-senses": 3
+          }
+        },
+        {
+          "text": "Spiritual dryness, not abandonment.",
+          "weights": {
+            "spiritual-dryness": 3
+          }
+        },
+        {
+          "text": "Him, closer than the silence suggests.",
+          "weights": {
+            "closer-than-the-silence": 3
+          }
+        }
       ]
     }
   ],
@@ -108,22 +309,38 @@
     "dark-night-of-the-soul": {
       "name": "A Dark Night of the Soul",
       "description": "What you're walking through has a name, and the great saints knew it well. The dark night of the soul is a season where God seems to withdraw the felt sense of His presence, not to punish you but to deepen you, to wean your faith off feelings and onto Him alone. It is painful and disorienting, and it is also strangely sacred. People who came out the other side say their faith grew roots it never could have grown in the sunshine. He has not left. Even Jesus cried out feeling forsaken, and the Father had not gone anywhere. Hold on. This night has a morning.",
-      "scripture": { "text": "Even the darkness will not be dark to you; the night will shine like the day.", "reference": "Psalm 139:12" }
+      "scripture": {
+        "text": "Even the darkness hideth not from thee, But the night shineth as the day: The darkness and the light are both aliketo thee.",
+        "reference": "Psalm 139:12",
+        "translation": "ASV"
+      }
     },
     "grief-dulled-senses": {
       "name": "Grief Has Dulled Your Senses",
       "description": "The silence you're feeling tracks exactly with your loss, and that's the clue. Grief is heavy enough to mute everything, including your sense of God's nearness. It doesn't mean He stepped back when you needed Him most. It means sorrow has dulled the receiver, not switched off the signal. Here's the truer thing: God draws especially close to the brokenhearted. You may not feel Him through the fog of grief, and He is right there in it with you anyway, the way a friend sits silent beside you when words would only cheapen the pain. You can believe He is good and still be devastated. Both are allowed.",
-      "scripture": { "text": "The Lord is close to the brokenhearted and saves those who are crushed in spirit.", "reference": "Psalm 34:18" }
+      "scripture": {
+        "text": "Jehovah is nigh unto them that are of a broken heart, And saveth such as are of a contrite spirit.",
+        "reference": "Psalm 34:18",
+        "translation": "ASV"
+      }
     },
     "spiritual-dryness": {
       "name": "Spiritual Dryness, Not Abandonment",
       "description": "This isn't a crisis. It's a desert, and deserts are a normal part of the long walk of faith. Things have gone flat, the quiet times feel like homework, and you're scared the spark is gone for good. It isn't. Dryness is a season, not a verdict, and nearly everyone who has walked with God a long time has crossed these stretches. The dryness is not proof you've been abandoned or done something wrong. Keep showing up to the Word and to prayer even when you feel nothing, the way you'd keep watering a garden in a drought. The rain comes back. So does the green.",
-      "scripture": { "text": "He will be like a tree planted by the water that sends out its roots by the stream.", "reference": "Jeremiah 17:8" }
+      "scripture": {
+        "text": "For he shall be as a tree planted by the waters, that spreadeth out its roots by the river, and shall not fear when heat cometh, but its leaf shall be green; and shall not be careful in the year of drought, neither shall cease from yielding fruit.",
+        "reference": "Jeremiah 17:8",
+        "translation": "ASV"
+      }
     },
     "closer-than-the-silence": {
       "name": "He's Closer Than the Silence Suggests",
       "description": "Your instinct is right. The quiet feels like distance, but somewhere in you, you already suspect He hasn't actually gone anywhere. Trust that suspicion. God's nearness was never meant to depend on how loudly you can feel it in a given week. He promised never to leave you, and that promise holds steady whether the moment feels electric or silent. Sometimes He's quiet the way a parent is quiet in the room while a child sleeps, present and watchful, not absent. Keep leaning toward Him in the stillness. The silence is not Him walking out. It's Him sitting close, nearer than the quiet would have you believe.",
-      "scripture": { "text": "Never will I leave you; never will I forsake you.", "reference": "Hebrews 13:5" }
+      "scripture": {
+        "text": "Be ye free from the love of money; content with such things as ye have: for himself hath said, I will in no wise fail thee, neither will I in any wise forsake thee.",
+        "reference": "Hebrews 13:5",
+        "translation": "ASV"
+      }
     }
   }
 }

@@ -17,82 +17,265 @@
     {
       "text": "When the bitterness flares up, what's usually behind it?",
       "options": [
-        { "text": "Something deeply unfair that was done to me.", "weights": { "an-unhealed-injustice": 3 } },
-        { "text": "A specific person I can't stop replaying in my head.", "weights": { "a-grudge-you-keep-rehearsing": 3 } },
-        { "text": "Watching someone else get what I wanted.", "weights": { "comparison-and-envy": 3 } },
-        { "text": "A sense that God let me down when it mattered.", "weights": { "disappointment-with-god": 3 } }
+        {
+          "text": "Something deeply unfair that was done to me.",
+          "weights": {
+            "an-unhealed-injustice": 3
+          }
+        },
+        {
+          "text": "A specific person I can't stop replaying in my head.",
+          "weights": {
+            "a-grudge-you-keep-rehearsing": 3
+          }
+        },
+        {
+          "text": "Watching someone else get what I wanted.",
+          "weights": {
+            "comparison-and-envy": 3
+          }
+        },
+        {
+          "text": "A sense that God let me down when it mattered.",
+          "weights": {
+            "disappointment-with-god": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you find yourself thinking about late at night?",
       "options": [
-        { "text": "How wrong it all was, and how no one made it right.", "weights": { "an-unhealed-injustice": 3 } },
-        { "text": "The argument or betrayal, on a loop, word for word.", "weights": { "a-grudge-you-keep-rehearsing": 3 } },
-        { "text": "Why their life looks so easy compared to mine.", "weights": { "comparison-and-envy": 3 } },
-        { "text": "The apology I'm still waiting to hear.", "weights": { "an-apology-that-never-came": 3 } }
+        {
+          "text": "How wrong it all was, and how no one made it right.",
+          "weights": {
+            "an-unhealed-injustice": 3
+          }
+        },
+        {
+          "text": "The argument or betrayal, on a loop, word for word.",
+          "weights": {
+            "a-grudge-you-keep-rehearsing": 3
+          }
+        },
+        {
+          "text": "Why their life looks so easy compared to mine.",
+          "weights": {
+            "comparison-and-envy": 3
+          }
+        },
+        {
+          "text": "The apology I'm still waiting to hear.",
+          "weights": {
+            "an-apology-that-never-came": 3
+          }
+        }
       ]
     },
     {
       "text": "Which sentence feels the truest right now?",
       "options": [
-        { "text": "What happened to me should never have been allowed.", "weights": { "an-unhealed-injustice": 3 } },
-        { "text": "I keep rehearsing what they did like it just happened.", "weights": { "a-grudge-you-keep-rehearsing": 3 } },
-        { "text": "I'm happy for them, except I'm really not.", "weights": { "comparison-and-envy": 3 } },
-        { "text": "I prayed and trusted, and it didn't go the way I needed.", "weights": { "disappointment-with-god": 3 } }
+        {
+          "text": "What happened to me should never have been allowed.",
+          "weights": {
+            "an-unhealed-injustice": 3
+          }
+        },
+        {
+          "text": "I keep rehearsing what they did like it just happened.",
+          "weights": {
+            "a-grudge-you-keep-rehearsing": 3
+          }
+        },
+        {
+          "text": "I'm happy for them, except I'm really not.",
+          "weights": {
+            "comparison-and-envy": 3
+          }
+        },
+        {
+          "text": "I prayed and trusted, and it didn't go the way I needed.",
+          "weights": {
+            "disappointment-with-god": 3
+          }
+        }
       ]
     },
     {
       "text": "Who or what is your bitterness most aimed at?",
       "options": [
-        { "text": "A system or situation that treated me unjustly.", "weights": { "an-unhealed-injustice": 3 } },
-        { "text": "One particular person who wronged me.", "weights": { "a-grudge-you-keep-rehearsing": 2, "an-apology-that-never-came": 1 } },
-        { "text": "People who seem to have it better than I do.", "weights": { "comparison-and-envy": 3 } },
-        { "text": "God, honestly, even though I hate to say it.", "weights": { "disappointment-with-god": 3 } }
+        {
+          "text": "A system or situation that treated me unjustly.",
+          "weights": {
+            "an-unhealed-injustice": 3
+          }
+        },
+        {
+          "text": "One particular person who wronged me.",
+          "weights": {
+            "a-grudge-you-keep-rehearsing": 2,
+            "an-apology-that-never-came": 1
+          }
+        },
+        {
+          "text": "People who seem to have it better than I do.",
+          "weights": {
+            "comparison-and-envy": 3
+          }
+        },
+        {
+          "text": "God, honestly, even though I hate to say it.",
+          "weights": {
+            "disappointment-with-god": 3
+          }
+        }
       ]
     },
     {
       "text": "What would it take for you to feel like you could let go?",
       "options": [
-        { "text": "For the wrong to finally be acknowledged and made right.", "weights": { "an-unhealed-injustice": 3 } },
-        { "text": "To stop pressing play on the memory every day.", "weights": { "a-grudge-you-keep-rehearsing": 3 } },
-        { "text": "To stop measuring my life against everyone else's.", "weights": { "comparison-and-envy": 3 } },
-        { "text": "An apology I've started to believe will never come.", "weights": { "an-apology-that-never-came": 3 } }
+        {
+          "text": "For the wrong to finally be acknowledged and made right.",
+          "weights": {
+            "an-unhealed-injustice": 3
+          }
+        },
+        {
+          "text": "To stop pressing play on the memory every day.",
+          "weights": {
+            "a-grudge-you-keep-rehearsing": 3
+          }
+        },
+        {
+          "text": "To stop measuring my life against everyone else's.",
+          "weights": {
+            "comparison-and-envy": 3
+          }
+        },
+        {
+          "text": "An apology I've started to believe will never come.",
+          "weights": {
+            "an-apology-that-never-came": 3
+          }
+        }
       ]
     },
     {
       "text": "How is the bitterness affecting you?",
       "options": [
-        { "text": "It's hardened into a sense that the world isn't safe or fair.", "weights": { "an-unhealed-injustice": 3 } },
-        { "text": "It hijacks my mood the second the memory resurfaces.", "weights": { "a-grudge-you-keep-rehearsing": 3 } },
-        { "text": "It steals my joy every time I open social media.", "weights": { "comparison-and-envy": 3 } },
-        { "text": "It's put a wall between me and God I didn't used to have.", "weights": { "disappointment-with-god": 3 } }
+        {
+          "text": "It's hardened into a sense that the world isn't safe or fair.",
+          "weights": {
+            "an-unhealed-injustice": 3
+          }
+        },
+        {
+          "text": "It hijacks my mood the second the memory resurfaces.",
+          "weights": {
+            "a-grudge-you-keep-rehearsing": 3
+          }
+        },
+        {
+          "text": "It steals my joy every time I open social media.",
+          "weights": {
+            "comparison-and-envy": 3
+          }
+        },
+        {
+          "text": "It's put a wall between me and God I didn't used to have.",
+          "weights": {
+            "disappointment-with-god": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you secretly want?",
       "options": [
-        { "text": "Justice. For the scales to finally balance.", "weights": { "an-unhealed-injustice": 3 } },
-        { "text": "For them to feel even a fraction of what I felt.", "weights": { "a-grudge-you-keep-rehearsing": 2, "an-apology-that-never-came": 1 } },
-        { "text": "To stop wanting what other people have.", "weights": { "comparison-and-envy": 3 } },
-        { "text": "To trust God again the way I used to.", "weights": { "disappointment-with-god": 3 } }
+        {
+          "text": "Justice. For the scales to finally balance.",
+          "weights": {
+            "an-unhealed-injustice": 3
+          }
+        },
+        {
+          "text": "For them to feel even a fraction of what I felt.",
+          "weights": {
+            "a-grudge-you-keep-rehearsing": 2,
+            "an-apology-that-never-came": 1
+          }
+        },
+        {
+          "text": "To stop wanting what other people have.",
+          "weights": {
+            "comparison-and-envy": 3
+          }
+        },
+        {
+          "text": "To trust God again the way I used to.",
+          "weights": {
+            "disappointment-with-god": 3
+          }
+        }
       ]
     },
     {
       "text": "When someone says just forgive and move on, how do you react?",
       "options": [
-        { "text": "Easy to say when you weren't the one wronged.", "weights": { "an-unhealed-injustice": 2, "a-grudge-you-keep-rehearsing": 1 } },
-        { "text": "I want to, but the memory won't let me.", "weights": { "a-grudge-you-keep-rehearsing": 3 } },
-        { "text": "It's not really about them. It's what I'm lacking.", "weights": { "comparison-and-envy": 3 } },
-        { "text": "How do I move on when I never got an apology?", "weights": { "an-apology-that-never-came": 3 } }
+        {
+          "text": "Easy to say when you weren't the one wronged.",
+          "weights": {
+            "an-unhealed-injustice": 2,
+            "a-grudge-you-keep-rehearsing": 1
+          }
+        },
+        {
+          "text": "I want to, but the memory won't let me.",
+          "weights": {
+            "a-grudge-you-keep-rehearsing": 3
+          }
+        },
+        {
+          "text": "It's not really about them. It's what I'm lacking.",
+          "weights": {
+            "comparison-and-envy": 3
+          }
+        },
+        {
+          "text": "How do I move on when I never got an apology?",
+          "weights": {
+            "an-apology-that-never-came": 3
+          }
+        }
       ]
     },
     {
       "text": "Finish the sentence: at the root of my bitterness is...",
       "options": [
-        { "text": "An injustice that was never healed.", "weights": { "an-unhealed-injustice": 3 } },
-        { "text": "A grudge I keep rehearsing.", "weights": { "a-grudge-you-keep-rehearsing": 3 } },
-        { "text": "Comparison and envy I can't shake.", "weights": { "comparison-and-envy": 3 } },
-        { "text": "Disappointment with God I haven't admitted.", "weights": { "disappointment-with-god": 3 } }
+        {
+          "text": "An injustice that was never healed.",
+          "weights": {
+            "an-unhealed-injustice": 3
+          }
+        },
+        {
+          "text": "A grudge I keep rehearsing.",
+          "weights": {
+            "a-grudge-you-keep-rehearsing": 3
+          }
+        },
+        {
+          "text": "Comparison and envy I can't shake.",
+          "weights": {
+            "comparison-and-envy": 3
+          }
+        },
+        {
+          "text": "Disappointment with God I haven't admitted.",
+          "weights": {
+            "disappointment-with-god": 3
+          }
+        }
       ]
     }
   ],
@@ -100,27 +283,47 @@
     "an-unhealed-injustice": {
       "name": "An Unhealed Injustice",
       "description": "Something genuinely wrong happened to you, and the bitterness grew because the wound never got tended. Hear this clearly: your anger about injustice is not a sin, and God hates what happened even more than you do. The hard, freeing truth is that you can hand the scales to a God who actually judges rightly, and let Him carry the weight of making it right. Releasing it to Him isn't saying it was okay. It's refusing to let it keep poisoning you.",
-      "scripture": { "text": "Vengeance is mine; I will repay, saith the Lord.", "reference": "Romans 12:19" }
+      "scripture": {
+        "text": "Avenge not yourselves, beloved, but give place unto the wrath of God: for it is written, Vengeance belongeth unto me; I will recompense, saith the Lord.",
+        "reference": "Romans 12:19",
+        "translation": "ASV"
+      }
     },
     "a-grudge-you-keep-rehearsing": {
       "name": "A Grudge You Keep Rehearsing",
       "description": "Every time you replay it, the wound reopens, and the rehearsal is what keeps it alive. The person who hurt you may not think about it at all, while you serve the sentence daily. That's the cruel math of a grudge: it punishes you most. You don't have to pretend it didn't matter. But you can stop pressing play. Forgiveness here is less a feeling and more a decision you make again each time the memory shows up.",
-      "scripture": { "text": "Let all bitterness, and wrath, and anger, and clamour be put away from you.", "reference": "Ephesians 4:31" }
+      "scripture": {
+        "text": "Let all bitterness, and wrath, and anger, and clamor, and railing, be put away from you, with all malice:",
+        "reference": "Ephesians 4:31",
+        "translation": "ASV"
+      }
     },
     "comparison-and-envy": {
       "name": "Comparison and Envy",
       "description": "Your bitterness isn't really aimed at the people who seem to have more. It grows from a quiet ache that your own life isn't enough. Comparison will rob you every single time, because there's always someone further ahead. The way out isn't getting what they have. It's letting God show you what's already yours and learning to want His portion for your life. Their story was never meant to be the measure of yours.",
-      "scripture": { "text": "A sound heart is the life of the flesh: but envy the rottenness of the bones.", "reference": "Proverbs 14:30" }
+      "scripture": {
+        "text": "A tranquil heart is the life of the flesh; But envy is the rottenness of the bones.",
+        "reference": "Proverbs 14:30",
+        "translation": "ASV"
+      }
     },
     "disappointment-with-god": {
       "name": "Disappointment With God",
       "description": "This is the one we rarely say out loud. You trusted, you prayed, and it didn't go how you needed, and a wall went up between you and God. Here's the gift: He can handle your honesty. The Bible is full of people who told God exactly how let down they felt, and He didn't strike them down, He stayed close. Bring the disappointment to Him instead of around Him. The wall comes down through honest conversation, not silence.",
-      "scripture": { "text": "Cast thy burden upon the Lord, and he shall sustain thee.", "reference": "Psalm 55:22" }
+      "scripture": {
+        "text": "Cast thy burden upon Jehovah, and he will sustain thee: He will never suffer the righteous to be moved.",
+        "reference": "Psalm 55:22",
+        "translation": "ASV"
+      }
     },
     "an-apology-that-never-came": {
       "name": "An Apology That Never Came",
       "description": "You've been waiting for words that may never be spoken, and that waiting has kept your healing on hold. It's a hard thing to accept: your peace can't depend on an apology you can't control. Forgiveness here is the choice to release the debt even when the other person never settles it, so their silence stops holding your freedom hostage. You can let go of the wait without letting them off the hook. That release is for you.",
-      "scripture": { "text": "Forbearing one another, and forgiving one another.", "reference": "Colossians 3:13" }
+      "scripture": {
+        "text": "forbearing one another, and forgiving each other, if any man have a complaint against any; even as the Lord forgave you, so also do ye:",
+        "reference": "Colossians 3:13",
+        "translation": "ASV"
+      }
     }
   }
 }

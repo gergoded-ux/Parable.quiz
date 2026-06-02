@@ -16,91 +16,291 @@
     {
       "text": "When someone you love gets a little distant, what happens inside you?",
       "options": [
-        { "text": "I check in, then trust them and let it go.", "weights": { "secure-in-christ": 3 } },
-        { "text": "I spiral. I need reassurance that we're okay.", "weights": { "anxious-reaching": 3 } },
-        { "text": "I pull back too, and tell myself I don't need much.", "weights": { "avoidant-walled": 3 } },
-        { "text": "I panic and want them close, then feel scared they'll hurt me.", "weights": { "fearful-torn": 3 } }
+        {
+          "text": "I check in, then trust them and let it go.",
+          "weights": {
+            "secure-in-christ": 3
+          }
+        },
+        {
+          "text": "I spiral. I need reassurance that we're okay.",
+          "weights": {
+            "anxious-reaching": 3
+          }
+        },
+        {
+          "text": "I pull back too, and tell myself I don't need much.",
+          "weights": {
+            "avoidant-walled": 3
+          }
+        },
+        {
+          "text": "I panic and want them close, then feel scared they'll hurt me.",
+          "weights": {
+            "fearful-torn": 3
+          }
+        }
       ]
     },
     {
       "text": "How do you handle conflict in close relationships?",
       "options": [
-        { "text": "I stay, talk it out, and assume we can repair it.", "weights": { "secure-in-christ": 3 } },
-        { "text": "I overthink every word and fear they'll leave.", "weights": { "anxious-reaching": 3 } },
-        { "text": "I shut down or go quiet until it blows over.", "weights": { "avoidant-walled": 3 } },
-        { "text": "I want to fix it and run from it at the same time.", "weights": { "fearful-torn": 3 } }
+        {
+          "text": "I stay, talk it out, and assume we can repair it.",
+          "weights": {
+            "secure-in-christ": 3
+          }
+        },
+        {
+          "text": "I overthink every word and fear they'll leave.",
+          "weights": {
+            "anxious-reaching": 3
+          }
+        },
+        {
+          "text": "I shut down or go quiet until it blows over.",
+          "weights": {
+            "avoidant-walled": 3
+          }
+        },
+        {
+          "text": "I want to fix it and run from it at the same time.",
+          "weights": {
+            "fearful-torn": 3
+          }
+        }
       ]
     },
     {
       "text": "What's your relationship with needing other people?",
       "options": [
-        { "text": "I can lean on people and let them lean on me.", "weights": { "secure-in-christ": 3 } },
-        { "text": "I need a lot of closeness and fear it's too much.", "weights": { "anxious-reaching": 3 } },
-        { "text": "I pride myself on not really needing anyone.", "weights": { "avoidant-walled": 3 } },
-        { "text": "I crave closeness but it also makes me feel unsafe.", "weights": { "fearful-torn": 3 } }
+        {
+          "text": "I can lean on people and let them lean on me.",
+          "weights": {
+            "secure-in-christ": 3
+          }
+        },
+        {
+          "text": "I need a lot of closeness and fear it's too much.",
+          "weights": {
+            "anxious-reaching": 3
+          }
+        },
+        {
+          "text": "I pride myself on not really needing anyone.",
+          "weights": {
+            "avoidant-walled": 3
+          }
+        },
+        {
+          "text": "I crave closeness but it also makes me feel unsafe.",
+          "weights": {
+            "fearful-torn": 3
+          }
+        }
       ]
     },
     {
       "text": "When you think about God's love for you, what's true?",
       "options": [
-        { "text": "I mostly believe He loves me steadily, even when I fail.", "weights": { "secure-in-christ": 3 } },
-        { "text": "I keep needing to prove myself to stay in His good graces.", "weights": { "anxious-reaching": 3 } },
-        { "text": "I keep Him at arm's length, like I do with everyone.", "weights": { "avoidant-walled": 3 } },
-        { "text": "I want to trust Him but I'm braced for Him to let me down.", "weights": { "fearful-torn": 3 } }
+        {
+          "text": "I mostly believe He loves me steadily, even when I fail.",
+          "weights": {
+            "secure-in-christ": 3
+          }
+        },
+        {
+          "text": "I keep needing to prove myself to stay in His good graces.",
+          "weights": {
+            "anxious-reaching": 3
+          }
+        },
+        {
+          "text": "I keep Him at arm's length, like I do with everyone.",
+          "weights": {
+            "avoidant-walled": 3
+          }
+        },
+        {
+          "text": "I want to trust Him but I'm braced for Him to let me down.",
+          "weights": {
+            "fearful-torn": 3
+          }
+        }
       ]
     },
     {
       "text": "Someone gets really close and starts to truly know you. You feel...",
       "options": [
-        { "text": "Safe. It's good to be known.", "weights": { "secure-in-christ": 3 } },
-        { "text": "Thrilled, but terrified they'll discover a reason to leave.", "weights": { "anxious-reaching": 3 } },
-        { "text": "Crowded. I start looking for the exit.", "weights": { "avoidant-walled": 3 } },
-        { "text": "Both pulled in and ready to bolt.", "weights": { "fearful-torn": 3 } }
+        {
+          "text": "Safe. It's good to be known.",
+          "weights": {
+            "secure-in-christ": 3
+          }
+        },
+        {
+          "text": "Thrilled, but terrified they'll discover a reason to leave.",
+          "weights": {
+            "anxious-reaching": 3
+          }
+        },
+        {
+          "text": "Crowded. I start looking for the exit.",
+          "weights": {
+            "avoidant-walled": 3
+          }
+        },
+        {
+          "text": "Both pulled in and ready to bolt.",
+          "weights": {
+            "fearful-torn": 3
+          }
+        }
       ]
     },
     {
       "text": "What's your default fear in relationships?",
       "options": [
-        { "text": "I don't carry much fear here. I feel fairly steady.", "weights": { "secure-in-christ": 3 } },
-        { "text": "That I'll be abandoned the second I stop earning love.", "weights": { "anxious-reaching": 3 } },
-        { "text": "That closeness means losing my independence.", "weights": { "avoidant-walled": 3 } },
-        { "text": "That the people I let in will be the ones who wound me.", "weights": { "fearful-torn": 3 } }
+        {
+          "text": "I don't carry much fear here. I feel fairly steady.",
+          "weights": {
+            "secure-in-christ": 3
+          }
+        },
+        {
+          "text": "That I'll be abandoned the second I stop earning love.",
+          "weights": {
+            "anxious-reaching": 3
+          }
+        },
+        {
+          "text": "That closeness means losing my independence.",
+          "weights": {
+            "avoidant-walled": 3
+          }
+        },
+        {
+          "text": "That the people I let in will be the ones who wound me.",
+          "weights": {
+            "fearful-torn": 3
+          }
+        }
       ]
     },
     {
       "text": "When you're hurting, what do you tend to do?",
       "options": [
-        { "text": "Reach out to someone I trust and let them in.", "weights": { "secure-in-christ": 3 } },
-        { "text": "Reach out a lot, then worry I'm being needy.", "weights": { "anxious-reaching": 3 } },
-        { "text": "Handle it alone. I don't like being a burden.", "weights": { "avoidant-walled": 3 } },
-        { "text": "Want comfort desperately but push people away when they offer it.", "weights": { "fearful-torn": 3 } }
+        {
+          "text": "Reach out to someone I trust and let them in.",
+          "weights": {
+            "secure-in-christ": 3
+          }
+        },
+        {
+          "text": "Reach out a lot, then worry I'm being needy.",
+          "weights": {
+            "anxious-reaching": 3
+          }
+        },
+        {
+          "text": "Handle it alone. I don't like being a burden.",
+          "weights": {
+            "avoidant-walled": 3
+          }
+        },
+        {
+          "text": "Want comfort desperately but push people away when they offer it.",
+          "weights": {
+            "fearful-torn": 3
+          }
+        }
       ]
     },
     {
       "text": "Where do you think this pattern came from?",
       "options": [
-        { "text": "Mostly steady, loving relationships growing up.", "weights": { "secure-in-christ": 3 } },
-        { "text": "Love that felt like it could be withdrawn at any moment.", "weights": { "anxious-reaching": 3 } },
-        { "text": "Learning early that needing people led to disappointment.", "weights": { "avoidant-walled": 3 } },
-        { "text": "The people meant to keep me safe sometimes scared or hurt me.", "weights": { "fearful-torn": 3 } }
+        {
+          "text": "Mostly steady, loving relationships growing up.",
+          "weights": {
+            "secure-in-christ": 3
+          }
+        },
+        {
+          "text": "Love that felt like it could be withdrawn at any moment.",
+          "weights": {
+            "anxious-reaching": 3
+          }
+        },
+        {
+          "text": "Learning early that needing people led to disappointment.",
+          "weights": {
+            "avoidant-walled": 3
+          }
+        },
+        {
+          "text": "The people meant to keep me safe sometimes scared or hurt me.",
+          "weights": {
+            "fearful-torn": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you most need to grow in?",
       "options": [
-        { "text": "Mostly just maintaining what's healthy and helping others.", "weights": { "secure-in-christ": 3 } },
-        { "text": "Resting in love I don't have to earn.", "weights": { "anxious-reaching": 3 } },
-        { "text": "Letting people, and God, actually get close.", "weights": { "avoidant-walled": 3 } },
-        { "text": "Trusting that closeness can be safe.", "weights": { "fearful-torn": 3 } }
+        {
+          "text": "Mostly just maintaining what's healthy and helping others.",
+          "weights": {
+            "secure-in-christ": 3
+          }
+        },
+        {
+          "text": "Resting in love I don't have to earn.",
+          "weights": {
+            "anxious-reaching": 3
+          }
+        },
+        {
+          "text": "Letting people, and God, actually get close.",
+          "weights": {
+            "avoidant-walled": 3
+          }
+        },
+        {
+          "text": "Trusting that closeness can be safe.",
+          "weights": {
+            "fearful-torn": 3
+          }
+        }
       ]
     },
     {
       "text": "Which one sounds most like you?",
       "options": [
-        { "text": "I can give and receive love with a fairly steady heart.", "weights": { "secure-in-christ": 3 } },
-        { "text": "I reach hard for love and fear losing it.", "weights": { "anxious-reaching": 3 } },
-        { "text": "I keep a wall up and call it being fine on my own.", "weights": { "avoidant-walled": 3 } },
-        { "text": "I'm torn, wanting closeness and fearing it at once.", "weights": { "fearful-torn": 3 } }
+        {
+          "text": "I can give and receive love with a fairly steady heart.",
+          "weights": {
+            "secure-in-christ": 3
+          }
+        },
+        {
+          "text": "I reach hard for love and fear losing it.",
+          "weights": {
+            "anxious-reaching": 3
+          }
+        },
+        {
+          "text": "I keep a wall up and call it being fine on my own.",
+          "weights": {
+            "avoidant-walled": 3
+          }
+        },
+        {
+          "text": "I'm torn, wanting closeness and fearing it at once.",
+          "weights": {
+            "fearful-torn": 3
+          }
+        }
       ]
     }
   ],
@@ -108,22 +308,38 @@
     "secure-in-christ": {
       "name": "Secure in Christ",
       "description": "You're able to do something a lot of people find hard: get close, stay close, and weather the bumps without assuming the worst. You can lean on others and let them lean on you, and underneath it is a quiet trust that you're loved even when you fail. That security is a gift, and it tends to grow strongest in people who've come to rest in a love that doesn't shift. Keep tending it in God first. The steadier you are in His love, the safer you become for the people around you.",
-      "scripture": { "text": "We love because he first loved us.", "reference": "1 John 4:19" }
+      "scripture": {
+        "text": "We love, because he first loved us.",
+        "reference": "1 John 4:19",
+        "translation": "ASV"
+      }
     },
     "anxious-reaching": {
       "name": "Anxious-Reaching",
       "description": "You love deeply, and you live with a low hum of fear that the people you love could slip away if you stop earning it. So you reach, you check, you read into the silences, and then you worry you're too much. Here's the truth your heart keeps missing: God's love for you is not a performance you have to sustain. He doesn't love you more on your good days. There's nothing you can do to make Him stay, because He already decided to. The more you rest in that, the less you'll need to grasp at everyone else for proof you're wanted.",
-      "scripture": { "text": "There is no fear in love. But perfect love drives out fear.", "reference": "1 John 4:18" }
+      "scripture": {
+        "text": "There is no fear in love: but perfect love casteth out fear, because fear hath punishment; and he that feareth is not made perfect in love.",
+        "reference": "1 John 4:18",
+        "translation": "ASV"
+      }
     },
     "avoidant-walled": {
       "name": "Avoidant-Walled",
       "description": "Somewhere along the way you learned that needing people leads to disappointment, so you got very good at not needing them. You call it independence, and there's real strength in it, but the wall that keeps out hurt also keeps out love. God made you for connection, not for white-knuckling life alone. He won't force the gate, but He's gently inviting you to let people in, and to let Him in too. You don't have to do everything by yourself. Being carried sometimes isn't weakness. It's what you were made for.",
-      "scripture": { "text": "Two are better than one. If either of them falls down, one can help the other up.", "reference": "Ecclesiastes 4:9-10" }
+      "scripture": {
+        "text": "Two are better than one, because they have a good reward for their labor. For if they fall, the one will lift up his fellow; but woe to him that is alone when he falleth, and hath not another to lift him up.",
+        "reference": "Ecclesiastes 4:9-10",
+        "translation": "ASV"
+      }
     },
     "fearful-torn": {
       "name": "Fearful-Torn",
       "description": "You're caught in an exhausting tug of war: you long for closeness and you're terrified of it, often with the same person. You reach out and then pull back, wanting comfort but flinching when it comes, because the people who were supposed to keep you safe sometimes didn't. That's not a character flaw. It's a wound, and wounds can heal. God is the one safe place where closeness never turns into harm. Let Him show you, slowly, that being known and being safe can finally be the same thing. He is gentle with the torn.",
-      "scripture": { "text": "The Lord is close to the brokenhearted and saves those who are crushed in spirit.", "reference": "Psalm 34:18" }
+      "scripture": {
+        "text": "Jehovah is nigh unto them that are of a broken heart, And saveth such as are of a contrite spirit.",
+        "reference": "Psalm 34:18",
+        "translation": "ASV"
+      }
     }
   }
 }

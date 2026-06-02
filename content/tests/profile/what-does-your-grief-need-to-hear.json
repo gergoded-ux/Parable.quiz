@@ -16,91 +16,292 @@
     {
       "text": "Where does the grief sit in you right now?",
       "options": [
-        { "text": "Like a wound that won't close. I just want it to stop hurting.", "weights": { "he-heals-the-brokenhearted": 3 } },
-        { "text": "Like a weight I'm carrying that nobody else can see.", "weights": { "blessed-are-those-who-mourn": 3 } },
-        { "text": "In the crying I do when no one's around.", "weights": { "he-keeps-your-tears": 3 } },
-        { "text": "In long nights where I just need to know it won't last forever.", "weights": { "joy-comes-in-the-morning": 3 } }
+        {
+          "text": "Like a wound that won't close. I just want it to stop hurting.",
+          "weights": {
+            "he-heals-the-brokenhearted": 3
+          }
+        },
+        {
+          "text": "Like a weight I'm carrying that nobody else can see.",
+          "weights": {
+            "blessed-are-those-who-mourn": 3
+          }
+        },
+        {
+          "text": "In the crying I do when no one's around.",
+          "weights": {
+            "he-keeps-your-tears": 3
+          }
+        },
+        {
+          "text": "In long nights where I just need to know it won't last forever.",
+          "weights": {
+            "joy-comes-in-the-morning": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you find yourself longing for most?",
       "options": [
-        { "text": "For God to come close and start healing the broken places.", "weights": { "he-heals-the-brokenhearted": 3 } },
-        { "text": "To know that my mourning isn't a sign I'm doing faith wrong.", "weights": { "blessed-are-those-who-mourn": 3 } },
-        { "text": "To know my tears aren't invisible or wasted.", "weights": { "he-keeps-your-tears": 3 } },
-        { "text": "A glimmer of hope that morning really is coming.", "weights": { "joy-comes-in-the-morning": 3 } }
+        {
+          "text": "For God to come close and start healing the broken places.",
+          "weights": {
+            "he-heals-the-brokenhearted": 3
+          }
+        },
+        {
+          "text": "To know that my mourning isn't a sign I'm doing faith wrong.",
+          "weights": {
+            "blessed-are-those-who-mourn": 3
+          }
+        },
+        {
+          "text": "To know my tears aren't invisible or wasted.",
+          "weights": {
+            "he-keeps-your-tears": 3
+          }
+        },
+        {
+          "text": "A glimmer of hope that morning really is coming.",
+          "weights": {
+            "joy-comes-in-the-morning": 3
+          }
+        }
       ]
     },
     {
       "text": "Which lie has grief been whispering to you?",
       "options": [
-        { "text": "\"You're too broken to ever be whole again.\"", "weights": { "he-heals-the-brokenhearted": 3 } },
-        { "text": "\"Real believers don't fall apart like this.\"", "weights": { "blessed-are-those-who-mourn": 3 } },
-        { "text": "\"Nobody, not even God, notices how much you cry.\"", "weights": { "he-keeps-your-tears": 3 } },
-        { "text": "\"It's always going to feel this dark.\"", "weights": { "joy-comes-in-the-morning": 3 } }
+        {
+          "text": "\"You're too broken to ever be whole again.\"",
+          "weights": {
+            "he-heals-the-brokenhearted": 3
+          }
+        },
+        {
+          "text": "\"Real believers don't fall apart like this.\"",
+          "weights": {
+            "blessed-are-those-who-mourn": 3
+          }
+        },
+        {
+          "text": "\"Nobody, not even God, notices how much you cry.\"",
+          "weights": {
+            "he-keeps-your-tears": 3
+          }
+        },
+        {
+          "text": "\"It's always going to feel this dark.\"",
+          "weights": {
+            "joy-comes-in-the-morning": 3
+          }
+        }
       ]
     },
     {
       "text": "How are the nights for you lately?",
       "options": [
-        { "text": "Painful. The hurt feels sharpest when everything goes quiet.", "weights": { "he-heals-the-brokenhearted": 3 } },
-        { "text": "Heavy with a sorrow I let myself actually feel.", "weights": { "blessed-are-those-who-mourn": 3 } },
-        { "text": "Full of tears I half wonder if anyone collects.", "weights": { "he-keeps-your-tears": 3 } },
-        { "text": "Long, but I keep hoping the weeping won't have the last word.", "weights": { "joy-comes-in-the-morning": 3 } }
+        {
+          "text": "Painful. The hurt feels sharpest when everything goes quiet.",
+          "weights": {
+            "he-heals-the-brokenhearted": 3
+          }
+        },
+        {
+          "text": "Heavy with a sorrow I let myself actually feel.",
+          "weights": {
+            "blessed-are-those-who-mourn": 3
+          }
+        },
+        {
+          "text": "Full of tears I half wonder if anyone collects.",
+          "weights": {
+            "he-keeps-your-tears": 3
+          }
+        },
+        {
+          "text": "Long, but I keep hoping the weeping won't have the last word.",
+          "weights": {
+            "joy-comes-in-the-morning": 3
+          }
+        }
       ]
     },
     {
       "text": "What would minister to your heart most right now?",
       "options": [
-        { "text": "Knowing God Himself draws near to mend the brokenhearted.", "weights": { "he-heals-the-brokenhearted": 3 } },
-        { "text": "Hearing that those who mourn are held, not overlooked.", "weights": { "blessed-are-those-who-mourn": 3 } },
-        { "text": "Knowing every tear I've cried is seen and kept by God.", "weights": { "he-keeps-your-tears": 3 } },
-        { "text": "A promise that joy is on its way, even if it's not here yet.", "weights": { "joy-comes-in-the-morning": 3 } }
+        {
+          "text": "Knowing God Himself draws near to mend the brokenhearted.",
+          "weights": {
+            "he-heals-the-brokenhearted": 3
+          }
+        },
+        {
+          "text": "Hearing that those who mourn are held, not overlooked.",
+          "weights": {
+            "blessed-are-those-who-mourn": 3
+          }
+        },
+        {
+          "text": "Knowing every tear I've cried is seen and kept by God.",
+          "weights": {
+            "he-keeps-your-tears": 3
+          }
+        },
+        {
+          "text": "A promise that joy is on its way, even if it's not here yet.",
+          "weights": {
+            "joy-comes-in-the-morning": 3
+          }
+        }
       ]
     },
     {
       "text": "When you think about God in the middle of this, you...",
       "options": [
-        { "text": "Ache for His healing touch on a heart that feels shattered.", "weights": { "he-heals-the-brokenhearted": 3 } },
-        { "text": "Wonder if it's okay to just sit in the sadness with Him.", "weights": { "blessed-are-those-who-mourn": 3 } },
-        { "text": "Hope He's keeping count of what I'm losing and feeling.", "weights": { "he-keeps-your-tears": 3 } },
-        { "text": "Cling to the idea that this season has an end.", "weights": { "joy-comes-in-the-morning": 3 } }
+        {
+          "text": "Ache for His healing touch on a heart that feels shattered.",
+          "weights": {
+            "he-heals-the-brokenhearted": 3
+          }
+        },
+        {
+          "text": "Wonder if it's okay to just sit in the sadness with Him.",
+          "weights": {
+            "blessed-are-those-who-mourn": 3
+          }
+        },
+        {
+          "text": "Hope He's keeping count of what I'm losing and feeling.",
+          "weights": {
+            "he-keeps-your-tears": 3
+          }
+        },
+        {
+          "text": "Cling to the idea that this season has an end.",
+          "weights": {
+            "joy-comes-in-the-morning": 3
+          }
+        }
       ]
     },
     {
       "text": "Which describes your grief best today?",
       "options": [
-        { "text": "Fresh and raw, like an open wound.", "weights": { "he-heals-the-brokenhearted": 3 } },
-        { "text": "A deep mourning I've stopped trying to rush.", "weights": { "blessed-are-those-who-mourn": 3 } },
-        { "text": "Quiet tears that come without warning.", "weights": { "he-keeps-your-tears": 3 } },
-        { "text": "A long dark stretch I'm waiting to come through.", "weights": { "joy-comes-in-the-morning": 3 } }
+        {
+          "text": "Fresh and raw, like an open wound.",
+          "weights": {
+            "he-heals-the-brokenhearted": 3
+          }
+        },
+        {
+          "text": "A deep mourning I've stopped trying to rush.",
+          "weights": {
+            "blessed-are-those-who-mourn": 3
+          }
+        },
+        {
+          "text": "Quiet tears that come without warning.",
+          "weights": {
+            "he-keeps-your-tears": 3
+          }
+        },
+        {
+          "text": "A long dark stretch I'm waiting to come through.",
+          "weights": {
+            "joy-comes-in-the-morning": 3
+          }
+        }
       ]
     },
     {
       "text": "What words have you been most afraid no one would say to you?",
       "options": [
-        { "text": "\"He's close to you, and He's healing you.\"", "weights": { "he-heals-the-brokenhearted": 3 } },
-        { "text": "\"It's okay to grieve. You're still blessed and held.\"", "weights": { "blessed-are-those-who-mourn": 3 } },
-        { "text": "\"I see every tear. None of them are wasted.\"", "weights": { "he-keeps-your-tears": 3 } },
-        { "text": "\"This won't last forever. Joy is coming.\"", "weights": { "joy-comes-in-the-morning": 3 } }
+        {
+          "text": "\"He's close to you, and He's healing you.\"",
+          "weights": {
+            "he-heals-the-brokenhearted": 3
+          }
+        },
+        {
+          "text": "\"It's okay to grieve. You're still blessed and held.\"",
+          "weights": {
+            "blessed-are-those-who-mourn": 3
+          }
+        },
+        {
+          "text": "\"I see every tear. None of them are wasted.\"",
+          "weights": {
+            "he-keeps-your-tears": 3
+          }
+        },
+        {
+          "text": "\"This won't last forever. Joy is coming.\"",
+          "weights": {
+            "joy-comes-in-the-morning": 3
+          }
+        }
       ]
     },
     {
       "text": "If God whispered one thing to you tonight, you'd want it to be...",
       "options": [
-        { "text": "\"I'm binding up every broken piece of you.\"", "weights": { "he-heals-the-brokenhearted": 3 } },
-        { "text": "\"Blessed are you who mourn. You will be comforted.\"", "weights": { "blessed-are-those-who-mourn": 3 } },
-        { "text": "\"I've caught every tear and kept them all.\"", "weights": { "he-keeps-your-tears": 3 } },
-        { "text": "\"Weeping lasts the night, but joy is coming with the dawn.\"", "weights": { "joy-comes-in-the-morning": 3 } }
+        {
+          "text": "\"I'm binding up every broken piece of you.\"",
+          "weights": {
+            "he-heals-the-brokenhearted": 3
+          }
+        },
+        {
+          "text": "\"Blessed are you who mourn. You will be comforted.\"",
+          "weights": {
+            "blessed-are-those-who-mourn": 3
+          }
+        },
+        {
+          "text": "\"I've caught every tear and kept them all.\"",
+          "weights": {
+            "he-keeps-your-tears": 3
+          }
+        },
+        {
+          "text": "\"Weeping lasts the night, but joy is coming with the dawn.\"",
+          "weights": {
+            "joy-comes-in-the-morning": 3
+          }
+        }
       ]
     },
     {
       "text": "Which prayer is closest to your heart right now?",
       "options": [
-        { "text": "\"God, please heal what feels too broken to fix.\"", "weights": { "he-heals-the-brokenhearted": 2, "he-keeps-your-tears": 1 } },
-        { "text": "\"Let me grieve without shame, and meet me in it.\"", "weights": { "blessed-are-those-who-mourn": 3 } },
-        { "text": "\"See my tears, Lord. Don't let them go unnoticed.\"", "weights": { "he-keeps-your-tears": 3 } },
-        { "text": "\"Carry me to the morning. I need to believe it's coming.\"", "weights": { "joy-comes-in-the-morning": 3 } }
+        {
+          "text": "\"God, please heal what feels too broken to fix.\"",
+          "weights": {
+            "he-heals-the-brokenhearted": 2,
+            "he-keeps-your-tears": 1
+          }
+        },
+        {
+          "text": "\"Let me grieve without shame, and meet me in it.\"",
+          "weights": {
+            "blessed-are-those-who-mourn": 3
+          }
+        },
+        {
+          "text": "\"See my tears, Lord. Don't let them go unnoticed.\"",
+          "weights": {
+            "he-keeps-your-tears": 3
+          }
+        },
+        {
+          "text": "\"Carry me to the morning. I need to believe it's coming.\"",
+          "weights": {
+            "joy-comes-in-the-morning": 3
+          }
+        }
       ]
     }
   ],
@@ -108,22 +309,38 @@
     "he-heals-the-brokenhearted": {
       "name": "He Heals the Brokenhearted (Ps 147:3)",
       "description": "Your heart needs to hear that God is in the business of mending exactly what feels shattered beyond repair. You're not too broken for Him. The same God who set the stars in place bends down to bind up the wounds inside you, gently, one piece at a time. Healing may not come all at once, but it is coming, and He is the One doing it. You are not abandoned in this. You are being made whole.",
-      "scripture": { "text": "He heals the brokenhearted and binds up their wounds.", "reference": "Psalm 147:3" }
+      "scripture": {
+        "text": "He healeth the broken in heart, And bindeth up their wounds.",
+        "reference": "Psalm 147:3",
+        "translation": "ASV"
+      }
     },
     "blessed-are-those-who-mourn": {
       "name": "Blessed Are Those Who Mourn (Mt 5:4)",
       "description": "Your heart needs permission to grieve, and here it is, straight from Jesus. He didn't say avoid mourning. He called those who mourn blessed, and He promised them comfort. Your sorrow isn't a sign of weak faith. It's a doorway to a nearness with God that the untouched never know. You don't have to rush it or hide it. Let yourself feel it, because the comfort Jesus promised is meant for you.",
-      "scripture": { "text": "Blessed are those who mourn, for they will be comforted.", "reference": "Matthew 5:4" }
+      "scripture": {
+        "text": "Blessed are they that mourn: for they shall be comforted.",
+        "reference": "Matthew 5:4",
+        "translation": "ASV"
+      }
     },
     "he-keeps-your-tears": {
       "name": "He Keeps Your Tears in a Bottle",
       "description": "Your heart needs to know that not one of your tears has gone unnoticed. The crying you do alone, the grief no one else sees, God collects every drop and holds it close. Your sorrow matters to Him that much. You are not weeping into an empty room. The God of the universe is keeping count of your pain, treasuring what you're losing, and He will not forget a single tear you've shed.",
-      "scripture": { "text": "You keep track of all my sorrows. You have collected all my tears in your bottle. You have recorded each one in your book.", "reference": "Psalm 56:8" }
+      "scripture": {
+        "text": "Thou numberest my wanderings: Put thou my tears into thy bottle; Are they not in thy book?",
+        "reference": "Psalm 56:8",
+        "translation": "ASV"
+      }
     },
     "joy-comes-in-the-morning": {
       "name": "Weeping Endures the Night, Joy Comes",
       "description": "Your heart needs the promise that this darkness has an ending. The night you're in feels endless, but Scripture says weeping lasts for the night and joy comes with the morning. The dawn isn't a maybe. It's a promise. You won't always feel this heavy. Hold on through the dark hours, because God is carrying you toward a morning you can't see yet, and joy will meet you there.",
-      "scripture": { "text": "Weeping may stay for the night, but rejoicing comes in the morning.", "reference": "Psalm 30:5" }
+      "scripture": {
+        "text": "For his anger is but for a moment; His favor is for a life-time: Weeping may tarry for the night, But joy cometh in the morning.",
+        "reference": "Psalm 30:5",
+        "translation": "ASV"
+      }
     }
   }
 }

@@ -10,82 +10,267 @@
     {
       "text": "What does temptation usually look like for you?",
       "options": [
-        { "text": "A desire I keep feeding in private when no one is watching.", "weights": { "david": 3 } },
-        { "text": "Wanting more than I have, even when I already have plenty.", "weights": { "achan": 3 } },
-        { "text": "An appetite I cave to in the moment, then regret right after.", "weights": { "esau": 3 } },
-        { "text": "A weak spot one person or habit always seems to find.", "weights": { "samson": 3 } }
+        {
+          "text": "A desire I keep feeding in private when no one is watching.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "Wanting more than I have, even when I already have plenty.",
+          "weights": {
+            "achan": 3
+          }
+        },
+        {
+          "text": "An appetite I cave to in the moment, then regret right after.",
+          "weights": {
+            "esau": 3
+          }
+        },
+        {
+          "text": "A weak spot one person or habit always seems to find.",
+          "weights": {
+            "samson": 3
+          }
+        }
       ]
     },
     {
       "text": "When does the pull hit you hardest?",
       "options": [
-        { "text": "When I have idle time and a screen in my hand.", "weights": { "david": 2, "samson": 1 } },
-        { "text": "When I see what someone else has and quietly want it.", "weights": { "achan": 3 } },
-        { "text": "When I am tired, hungry, or just want relief right now.", "weights": { "esau": 3 } },
-        { "text": "When I am being honest about how worn down I really am.", "weights": { "jesus": 2, "esau": 1 } }
+        {
+          "text": "When I have idle time and a screen in my hand.",
+          "weights": {
+            "david": 2,
+            "samson": 1
+          }
+        },
+        {
+          "text": "When I see what someone else has and quietly want it.",
+          "weights": {
+            "achan": 3
+          }
+        },
+        {
+          "text": "When I am tired, hungry, or just want relief right now.",
+          "weights": {
+            "esau": 3
+          }
+        },
+        {
+          "text": "When I am being honest about how worn down I really am.",
+          "weights": {
+            "jesus": 2,
+            "esau": 1
+          }
+        }
       ]
     },
     {
       "text": "What lie does the temptation whisper?",
       "options": [
-        { "text": "One look will not hurt anyone. No one will ever know.", "weights": { "david": 3 } },
-        { "text": "You deserve this. Take a little extra for yourself.", "weights": { "achan": 3 } },
-        { "text": "You can have it now and worry about the cost later.", "weights": { "esau": 3 } },
-        { "text": "You are too weak to resist, so why even try.", "weights": { "samson": 3 } }
+        {
+          "text": "One look will not hurt anyone. No one will ever know.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "You deserve this. Take a little extra for yourself.",
+          "weights": {
+            "achan": 3
+          }
+        },
+        {
+          "text": "You can have it now and worry about the cost later.",
+          "weights": {
+            "esau": 3
+          }
+        },
+        {
+          "text": "You are too weak to resist, so why even try.",
+          "weights": {
+            "samson": 3
+          }
+        }
       ]
     },
     {
       "text": "How do you usually feel after you give in?",
       "options": [
-        { "text": "Ashamed and hidden, hoping no one finds out.", "weights": { "david": 3 } },
-        { "text": "Guilty, but quick to justify why I needed it.", "weights": { "achan": 3 } },
-        { "text": "Like I traded something precious for something cheap.", "weights": { "esau": 3 } },
-        { "text": "Defeated, like I will never get free of this pattern.", "weights": { "samson": 3 } }
+        {
+          "text": "Ashamed and hidden, hoping no one finds out.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "Guilty, but quick to justify why I needed it.",
+          "weights": {
+            "achan": 3
+          }
+        },
+        {
+          "text": "Like I traded something precious for something cheap.",
+          "weights": {
+            "esau": 3
+          }
+        },
+        {
+          "text": "Defeated, like I will never get free of this pattern.",
+          "weights": {
+            "samson": 3
+          }
+        }
       ]
     },
     {
       "text": "What helps you most when you actually resist?",
       "options": [
-        { "text": "Getting honest with God instead of hiding from Him.", "weights": { "david": 2, "jesus": 1 } },
-        { "text": "Remembering that contentment is worth more than stuff.", "weights": { "achan": 3 } },
-        { "text": "Pausing long enough to think past the next five minutes.", "weights": { "esau": 3 } },
-        { "text": "Leaning on God's strength because mine runs out fast.", "weights": { "samson": 3 } }
+        {
+          "text": "Getting honest with God instead of hiding from Him.",
+          "weights": {
+            "david": 2,
+            "jesus": 1
+          }
+        },
+        {
+          "text": "Remembering that contentment is worth more than stuff.",
+          "weights": {
+            "achan": 3
+          }
+        },
+        {
+          "text": "Pausing long enough to think past the next five minutes.",
+          "weights": {
+            "esau": 3
+          }
+        },
+        {
+          "text": "Leaning on God's strength because mine runs out fast.",
+          "weights": {
+            "samson": 3
+          }
+        }
       ]
     },
     {
       "text": "Which fear sits closest to your battle?",
       "options": [
-        { "text": "That my private life would horrify the people who trust me.", "weights": { "david": 3 } },
-        { "text": "That my wanting more will quietly cost me everything.", "weights": { "achan": 3 } },
-        { "text": "That I keep giving away my future for a moment of comfort.", "weights": { "esau": 3 } },
-        { "text": "That this weakness will define me and never let go.", "weights": { "samson": 3 } }
+        {
+          "text": "That my private life would horrify the people who trust me.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "That my wanting more will quietly cost me everything.",
+          "weights": {
+            "achan": 3
+          }
+        },
+        {
+          "text": "That I keep giving away my future for a moment of comfort.",
+          "weights": {
+            "esau": 3
+          }
+        },
+        {
+          "text": "That this weakness will define me and never let go.",
+          "weights": {
+            "samson": 3
+          }
+        }
       ]
     },
     {
       "text": "When you imagine real freedom, what does it look like?",
       "options": [
-        { "text": "A clean conscience and nothing to hide.", "weights": { "david": 3 } },
-        { "text": "Being genuinely satisfied with what I already have.", "weights": { "achan": 3 } },
-        { "text": "Saying no in the moment and not regretting it later.", "weights": { "esau": 3 } },
-        { "text": "Standing strong instead of always caving in.", "weights": { "samson": 3 } }
+        {
+          "text": "A clean conscience and nothing to hide.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "Being genuinely satisfied with what I already have.",
+          "weights": {
+            "achan": 3
+          }
+        },
+        {
+          "text": "Saying no in the moment and not regretting it later.",
+          "weights": {
+            "esau": 3
+          }
+        },
+        {
+          "text": "Standing strong instead of always caving in.",
+          "weights": {
+            "samson": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you most want God to do with this fight?",
       "options": [
-        { "text": "Restore me even after I have fallen.", "weights": { "david": 3 } },
-        { "text": "Free my grip on things and teach me to give.", "weights": { "achan": 3 } },
-        { "text": "Give me self-control in the heat of the moment.", "weights": { "esau": 3 } },
-        { "text": "Make me an overcomer who actually walks away.", "weights": { "samson": 2, "jesus": 1 } }
+        {
+          "text": "Restore me even after I have fallen.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "Free my grip on things and teach me to give.",
+          "weights": {
+            "achan": 3
+          }
+        },
+        {
+          "text": "Give me self-control in the heat of the moment.",
+          "weights": {
+            "esau": 3
+          }
+        },
+        {
+          "text": "Make me an overcomer who actually walks away.",
+          "weights": {
+            "samson": 2,
+            "jesus": 1
+          }
+        }
       ]
     },
     {
       "text": "Which sentence sounds most like your prayer?",
       "options": [
-        { "text": "Create in me a clean heart, God. I am tired of hiding.", "weights": { "david": 3 } },
-        { "text": "Teach me to be content so I stop reaching for more.", "weights": { "achan": 3 } },
-        { "text": "Help me wait. Help me not trade what matters for what is quick.", "weights": { "esau": 3 } },
-        { "text": "Be my strength, because on my own I keep losing.", "weights": { "samson": 2, "jesus": 1 } }
+        {
+          "text": "Create in me a clean heart, God. I am tired of hiding.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "Teach me to be content so I stop reaching for more.",
+          "weights": {
+            "achan": 3
+          }
+        },
+        {
+          "text": "Help me wait. Help me not trade what matters for what is quick.",
+          "weights": {
+            "esau": 3
+          }
+        },
+        {
+          "text": "Be my strength, because on my own I keep losing.",
+          "weights": {
+            "samson": 2,
+            "jesus": 1
+          }
+        }
       ]
     }
   ],
@@ -93,37 +278,77 @@
     "david": {
       "name": "David (Lust)",
       "emoji": "🔥",
-      "traits": ["Tempted", "Honest", "Restorable"],
+      "traits": [
+        "Tempted",
+        "Honest",
+        "Restorable"
+      ],
       "description": "Your battle is the private pull of lust, the kind that thrives in secret and feeds on a quiet glance. David knew it well, and it cost him dearly. But here is the hope his story holds: when he finally stopped hiding and brought his heart back to God, he was met with mercy, not rejection. You are not too far gone. Come out of the shadows and let God create something clean in you again.",
-      "scripture": { "text": "Create in me a clean heart, O God; and renew a right spirit within me.", "reference": "Psalm 51:10" }
+      "scripture": {
+        "text": "Create in me a clean heart, O God; And renew a right spirit within me.",
+        "reference": "Psalm 51:10",
+        "translation": "ASV"
+      }
     },
     "achan": {
       "name": "Achan (Greed)",
       "emoji": "💰",
-      "traits": ["Wanting", "Striving", "Learning"],
+      "traits": [
+        "Wanting",
+        "Striving",
+        "Learning"
+      ],
       "description": "Your temptation is the slow pull of greed, that voice saying you deserve a little more, take a little extra. Achan saw, he wanted, he took, and it cost far more than he imagined. But you are not stuck there. The antidote is not shame, it is contentment learned one choice at a time. When you trust that God is already enough, the grip on more begins to loosen.",
-      "scripture": { "text": "Let your conversation be without covetousness; and be content with such things as ye have.", "reference": "Hebrews 13:5" }
+      "scripture": {
+        "text": "Be ye free from the love of money; content with such things as ye have: for himself hath said, I will in no wise fail thee, neither will I in any wise forsake thee.",
+        "reference": "Hebrews 13:5",
+        "translation": "ASV"
+      }
     },
     "esau": {
       "name": "Esau (Appetite)",
       "emoji": "🍲",
-      "traits": ["Impulsive", "Hungry", "Growing"],
+      "traits": [
+        "Impulsive",
+        "Hungry",
+        "Growing"
+      ],
       "description": "Your fight is with appetite, the urge to grab relief right now without counting what it costs you later. Esau traded his birthright for a single bowl of stew because he was hungry and could not wait. You know that ache. But the moment passes, and your future is worth more than a quick fix. God can grow real self-control in you, the kind that pauses long enough to choose well.",
-      "scripture": { "text": "He that hath no rule over his own spirit is like a city that is broken down, and without walls.", "reference": "Proverbs 25:28" }
+      "scripture": {
+        "text": "He whose spirit is without restraint Islikea city that is broken down and without walls.",
+        "reference": "Proverbs 25:28",
+        "translation": "ASV"
+      }
     },
     "samson": {
       "name": "Samson (Weakness)",
       "emoji": "💪",
-      "traits": ["Strong", "Vulnerable", "Redeemed"],
+      "traits": [
+        "Strong",
+        "Vulnerable",
+        "Redeemed"
+      ],
       "description": "You carry real strength, but there is one weak spot a certain person or habit keeps finding, and it has knocked you down more than once. Samson was the same: mighty everywhere except the place that finally undid him. Yet even at his lowest, God was not finished with him. Your weakness is not the end of your story. Lean into His strength where yours gives out, and let Him be strong in the very place you feel most fragile.",
-      "scripture": { "text": "My grace is sufficient for thee: for my strength is made perfect in weakness.", "reference": "2 Corinthians 12:9" }
+      "scripture": {
+        "text": "And he hath said unto me, My grace is sufficient for thee: for my power is made perfect in weakness. Most gladly therefore will I rather glory in my weaknesses, that the power of Christ may rest upon me.",
+        "reference": "2 Corinthians 12:9",
+        "translation": "ASV"
+      }
     },
     "jesus": {
       "name": "Jesus in the Wilderness",
       "emoji": "✝️",
-      "traits": ["Steadfast", "Hungry", "Victorious"],
+      "traits": [
+        "Steadfast",
+        "Hungry",
+        "Victorious"
+      ],
       "description": "You are learning to fight temptation the way Jesus did in the wilderness: hungry, worn down, and still standing firm. He faced every pull you face and answered each one with truth instead of giving in. That same power is offered to you. You do not have to win this on willpower alone. Stand on His word like He did, and you will find a way out that you could not make on your own.",
-      "scripture": { "text": "It is written, Man shall not live by bread alone, but by every word of God.", "reference": "Luke 4:4" }
+      "scripture": {
+        "text": "And Jesus answered unto him, It is written, Man shall not live by bread alone.",
+        "reference": "Luke 4:4",
+        "translation": "ASV"
+      }
     }
   }
 }

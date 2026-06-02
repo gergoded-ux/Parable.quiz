@@ -16,91 +16,296 @@
     {
       "text": "It's a normal evening and the work is technically done. What happens in your head?",
       "options": [
-        { "text": "I switch off and actually enjoy the rest of my night.", "weights": { "balanced": 3 } },
-        { "text": "I relax, but one ear is still listening for a notification.", "weights": { "subtle-striver": 2, "balanced": 1 } },
-        { "text": "I feel oddly restless, like I should be doing more.", "weights": { "identity-in-work": 3 } },
-        { "text": "I can't stop. If I'm not producing, I feel like nothing.", "weights": { "burned-out-idolater": 3 } }
+        {
+          "text": "I switch off and actually enjoy the rest of my night.",
+          "weights": {
+            "balanced": 3
+          }
+        },
+        {
+          "text": "I relax, but one ear is still listening for a notification.",
+          "weights": {
+            "subtle-striver": 2,
+            "balanced": 1
+          }
+        },
+        {
+          "text": "I feel oddly restless, like I should be doing more.",
+          "weights": {
+            "identity-in-work": 3
+          }
+        },
+        {
+          "text": "I can't stop. If I'm not producing, I feel like nothing.",
+          "weights": {
+            "burned-out-idolater": 3
+          }
+        }
       ]
     },
     {
       "text": "Someone asks you to describe yourself without mentioning your job. How easy is that?",
       "options": [
-        { "text": "Easy. My work is a part of me, not the whole me.", "weights": { "balanced": 3 } },
-        { "text": "Doable, but my job is the first thing that comes to mind.", "weights": { "subtle-striver": 3 } },
-        { "text": "Hard. Honestly, what I do is most of who I am.", "weights": { "identity-in-work": 3 } },
-        { "text": "Almost impossible. Strip the work away and I don't know what's left.", "weights": { "burned-out-idolater": 3 } }
+        {
+          "text": "Easy. My work is a part of me, not the whole me.",
+          "weights": {
+            "balanced": 3
+          }
+        },
+        {
+          "text": "Doable, but my job is the first thing that comes to mind.",
+          "weights": {
+            "subtle-striver": 3
+          }
+        },
+        {
+          "text": "Hard. Honestly, what I do is most of who I am.",
+          "weights": {
+            "identity-in-work": 3
+          }
+        },
+        {
+          "text": "Almost impossible. Strip the work away and I don't know what's left.",
+          "weights": {
+            "burned-out-idolater": 3
+          }
+        }
       ]
     },
     {
       "text": "How does taking a real day off sit with you?",
       "options": [
-        { "text": "Like a gift. I take it without guilt and come back better.", "weights": { "balanced": 3 } },
-        { "text": "Fine, as long as I've earned it by getting ahead first.", "weights": { "subtle-striver": 3 } },
-        { "text": "Uneasy. A day off feels like falling behind.", "weights": { "identity-in-work": 2, "burned-out-idolater": 1 } },
-        { "text": "I genuinely can't remember the last one I fully took.", "weights": { "burned-out-idolater": 3 } }
+        {
+          "text": "Like a gift. I take it without guilt and come back better.",
+          "weights": {
+            "balanced": 3
+          }
+        },
+        {
+          "text": "Fine, as long as I've earned it by getting ahead first.",
+          "weights": {
+            "subtle-striver": 3
+          }
+        },
+        {
+          "text": "Uneasy. A day off feels like falling behind.",
+          "weights": {
+            "identity-in-work": 2,
+            "burned-out-idolater": 1
+          }
+        },
+        {
+          "text": "I genuinely can't remember the last one I fully took.",
+          "weights": {
+            "burned-out-idolater": 3
+          }
+        }
       ]
     },
     {
       "text": "When a project goes badly, how deep does it cut?",
       "options": [
-        { "text": "I'm disappointed, then I move on. It's just work.", "weights": { "balanced": 3 } },
-        { "text": "It stings more than it should and I replay it for a while.", "weights": { "subtle-striver": 3 } },
-        { "text": "It feels like a verdict on me as a person.", "weights": { "identity-in-work": 3 } },
-        { "text": "It wrecks me. My whole worth seems to rise and fall with results.", "weights": { "burned-out-idolater": 3 } }
+        {
+          "text": "I'm disappointed, then I move on. It's just work.",
+          "weights": {
+            "balanced": 3
+          }
+        },
+        {
+          "text": "It stings more than it should and I replay it for a while.",
+          "weights": {
+            "subtle-striver": 3
+          }
+        },
+        {
+          "text": "It feels like a verdict on me as a person.",
+          "weights": {
+            "identity-in-work": 3
+          }
+        },
+        {
+          "text": "It wrecks me. My whole worth seems to rise and fall with results.",
+          "weights": {
+            "burned-out-idolater": 3
+          }
+        }
       ]
     },
     {
       "text": "Be honest about your body lately.",
       "options": [
-        { "text": "Rested enough. I've got energy for life outside work.", "weights": { "balanced": 3 } },
-        { "text": "A little wired. I push through and tell myself it's fine.", "weights": { "subtle-striver": 3 } },
-        { "text": "Running low. I keep meaning to slow down and never do.", "weights": { "identity-in-work": 2, "burned-out-idolater": 1 } },
-        { "text": "Wrung out. I'm functioning on fumes and pretending I'm okay.", "weights": { "burned-out-idolater": 3 } }
+        {
+          "text": "Rested enough. I've got energy for life outside work.",
+          "weights": {
+            "balanced": 3
+          }
+        },
+        {
+          "text": "A little wired. I push through and tell myself it's fine.",
+          "weights": {
+            "subtle-striver": 3
+          }
+        },
+        {
+          "text": "Running low. I keep meaning to slow down and never do.",
+          "weights": {
+            "identity-in-work": 2,
+            "burned-out-idolater": 1
+          }
+        },
+        {
+          "text": "Wrung out. I'm functioning on fumes and pretending I'm okay.",
+          "weights": {
+            "burned-out-idolater": 3
+          }
+        }
       ]
     },
     {
       "text": "What drives most of your effort, if you're really honest?",
       "options": [
-        { "text": "I care about doing good work, then I let it go.", "weights": { "balanced": 3 } },
-        { "text": "A quiet need to stay a step ahead of everyone.", "weights": { "subtle-striver": 3 } },
-        { "text": "Proving I matter. The work is how I earn my place.", "weights": { "identity-in-work": 3 } },
-        { "text": "Fear. If I stop achieving, I'm scared of what I'll feel.", "weights": { "burned-out-idolater": 3 } }
+        {
+          "text": "I care about doing good work, then I let it go.",
+          "weights": {
+            "balanced": 3
+          }
+        },
+        {
+          "text": "A quiet need to stay a step ahead of everyone.",
+          "weights": {
+            "subtle-striver": 3
+          }
+        },
+        {
+          "text": "Proving I matter. The work is how I earn my place.",
+          "weights": {
+            "identity-in-work": 3
+          }
+        },
+        {
+          "text": "Fear. If I stop achieving, I'm scared of what I'll feel.",
+          "weights": {
+            "burned-out-idolater": 3
+          }
+        }
       ]
     },
     {
       "text": "How do the people closest to you experience your work habits?",
       "options": [
-        { "text": "They'd say I'm present when I'm with them.", "weights": { "balanced": 3 } },
-        { "text": "They've hinted I check my phone too much.", "weights": { "subtle-striver": 3 } },
-        { "text": "They've told me, more than once, that I'm always somewhere else.", "weights": { "identity-in-work": 2, "burned-out-idolater": 1 } },
-        { "text": "They've stopped expecting me to fully show up.", "weights": { "burned-out-idolater": 3 } }
+        {
+          "text": "They'd say I'm present when I'm with them.",
+          "weights": {
+            "balanced": 3
+          }
+        },
+        {
+          "text": "They've hinted I check my phone too much.",
+          "weights": {
+            "subtle-striver": 3
+          }
+        },
+        {
+          "text": "They've told me, more than once, that I'm always somewhere else.",
+          "weights": {
+            "identity-in-work": 2,
+            "burned-out-idolater": 1
+          }
+        },
+        {
+          "text": "They've stopped expecting me to fully show up.",
+          "weights": {
+            "burned-out-idolater": 3
+          }
+        }
       ]
     },
     {
       "text": "Where does God tend to fit on a packed week?",
       "options": [
-        { "text": "Woven in. My faith shapes how I work and when I stop.", "weights": { "balanced": 3 } },
-        { "text": "Present, but He gets the leftover minutes after the to-do list.", "weights": { "subtle-striver": 3 } },
-        { "text": "I mean to make space, but the work always wins.", "weights": { "identity-in-work": 3 } },
-        { "text": "Honestly, achievement has quietly taken the throne.", "weights": { "burned-out-idolater": 3 } }
+        {
+          "text": "Woven in. My faith shapes how I work and when I stop.",
+          "weights": {
+            "balanced": 3
+          }
+        },
+        {
+          "text": "Present, but He gets the leftover minutes after the to-do list.",
+          "weights": {
+            "subtle-striver": 3
+          }
+        },
+        {
+          "text": "I mean to make space, but the work always wins.",
+          "weights": {
+            "identity-in-work": 3
+          }
+        },
+        {
+          "text": "Honestly, achievement has quietly taken the throne.",
+          "weights": {
+            "burned-out-idolater": 3
+          }
+        }
       ]
     },
     {
       "text": "Imagine your output dropped for a season. What rises up?",
       "options": [
-        { "text": "Peace. My worth was never tied to my productivity.", "weights": { "balanced": 3 } },
-        { "text": "Some anxiety, but I'd talk myself back to steady.", "weights": { "subtle-striver": 2, "balanced": 1 } },
-        { "text": "A real fear of being seen as less than.", "weights": { "identity-in-work": 3 } },
-        { "text": "Something close to panic, like I'd disappear.", "weights": { "burned-out-idolater": 3 } }
+        {
+          "text": "Peace. My worth was never tied to my productivity.",
+          "weights": {
+            "balanced": 3
+          }
+        },
+        {
+          "text": "Some anxiety, but I'd talk myself back to steady.",
+          "weights": {
+            "subtle-striver": 2,
+            "balanced": 1
+          }
+        },
+        {
+          "text": "A real fear of being seen as less than.",
+          "weights": {
+            "identity-in-work": 3
+          }
+        },
+        {
+          "text": "Something close to panic, like I'd disappear.",
+          "weights": {
+            "burned-out-idolater": 3
+          }
+        }
       ]
     },
     {
       "text": "Which sentence lands closest to home?",
       "options": [
-        { "text": "\"I work to live, and my life is bigger than my job.\"", "weights": { "balanced": 3 } },
-        { "text": "\"I'm fine, I just like staying on top of things.\"", "weights": { "subtle-striver": 3 } },
-        { "text": "\"Without my work, I'm not sure I'd know who I am.\"", "weights": { "identity-in-work": 3 } },
-        { "text": "\"I think I'm using work to avoid sitting with myself.\"", "weights": { "burned-out-idolater": 3 } }
+        {
+          "text": "\"I work to live, and my life is bigger than my job.\"",
+          "weights": {
+            "balanced": 3
+          }
+        },
+        {
+          "text": "\"I'm fine, I just like staying on top of things.\"",
+          "weights": {
+            "subtle-striver": 3
+          }
+        },
+        {
+          "text": "\"Without my work, I'm not sure I'd know who I am.\"",
+          "weights": {
+            "identity-in-work": 3
+          }
+        },
+        {
+          "text": "\"I think I'm using work to avoid sitting with myself.\"",
+          "weights": {
+            "burned-out-idolater": 3
+          }
+        }
       ]
     }
   ],
@@ -108,22 +313,38 @@
     "balanced": {
       "name": "Balanced",
       "description": "Good news first: you work hard, but the work doesn't own you. You can put it down, be present with people, and rest without guilt, because your sense of worth isn't riding on your output. That's healthier than most people manage. Keep guarding it. The pull toward more is always there, so protect your off switch on purpose and let your work stay a gift instead of a god.",
-      "scripture": { "text": "Whatever you do, work at it with all your heart, as working for the Lord.", "reference": "Colossians 3:23" }
+      "scripture": {
+        "text": "whatsoever ye do, work heartily, as unto the Lord, and not unto men;",
+        "reference": "Colossians 3:23",
+        "translation": "ASV"
+      }
     },
     "subtle-striver": {
       "name": "Subtle Striver",
       "description": "From the outside you look balanced, and most days you are. But there's a quiet engine running underneath, a need to stay a step ahead, to earn your rest before you allow it. It's easy to miss because it dresses up as being responsible. Watch that voice. You don't have to outrun anyone to be enough. Try resting before you've earned it, and notice that the world keeps turning.",
-      "scripture": { "text": "Unless the Lord builds the house, the builders labor in vain.", "reference": "Psalm 127:1" }
+      "scripture": {
+        "text": "Except Jehovah build the house, They labor in vain that build it: Except Jehovah keep the city, The watchman waketh but in vain.",
+        "reference": "Psalm 127:1",
+        "translation": "ASV"
+      }
     },
     "identity-in-work": {
       "name": "Identity-In-Work",
       "description": "Somewhere along the way, what you do became who you are. A bad day at work feels like a verdict on your soul, and stepping back feels like losing yourself. That's a heavy way to live, and it isn't the truth about you. Your name was written into God's hand long before your first paycheck. Your worth isn't something you produce. Start practicing being loved when you've accomplished nothing, because that's where your real identity has been all along.",
-      "scripture": { "text": "See, I have engraved you on the palms of my hands.", "reference": "Isaiah 49:16" }
+      "scripture": {
+        "text": "Behold, I have graven thee upon the palms of my hands; thy walls are continually before me.",
+        "reference": "Isaiah 49:16",
+        "translation": "ASV"
+      }
     },
     "burned-out-idolater": {
       "name": "Burned-Out Idolater",
       "description": "This is said gently, because it's meant in love: work has quietly taken the throne, and it's running you into the ground. You're afraid that if you stop achieving, you'll have to face what's underneath, so you keep going on fumes. But an idol can never give back what it takes. Jesus is inviting you to lay this down and come to Him tired and empty-handed. He doesn't want your output. He wants you. Rest is the first act of trust.",
-      "scripture": { "text": "Come to me, all you who are weary and burdened, and I will give you rest.", "reference": "Matthew 11:28" }
+      "scripture": {
+        "text": "Come unto me, all ye that labor and are heavy laden, and I will give you rest.",
+        "reference": "Matthew 11:28",
+        "translation": "ASV"
+      }
     }
   }
 }

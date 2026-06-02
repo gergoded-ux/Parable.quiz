@@ -6,78 +6,245 @@
   "category": "spiritual-profile",
   "estimatedMinutes": 5,
   "mode": "profile",
-  "dimensions": ["ready", "boundaries", "not-yet", "forgive-not-reconcile"],
+  "dimensions": [
+    "ready",
+    "boundaries",
+    "not-yet",
+    "forgive-not-reconcile"
+  ],
   "questions": [
     {
       "text": "Picture sitting across the table from the person who hurt you. What rises up?",
       "options": [
-        { "text": "A surprising peace. I think I could actually do this.", "weights": { "ready": 2 } },
-        { "text": "Cautious openness, but only if some clear limits are in place.", "weights": { "boundaries": 2 } },
-        { "text": "A wave of pain. I'm not there, and the thought hurts.", "weights": { "not-yet": 2 } },
-        { "text": "I've let go of the grudge, but sitting back down feels unsafe.", "weights": { "forgive-not-reconcile": 2 } }
+        {
+          "text": "A surprising peace. I think I could actually do this.",
+          "weights": {
+            "ready": 2
+          }
+        },
+        {
+          "text": "Cautious openness, but only if some clear limits are in place.",
+          "weights": {
+            "boundaries": 2
+          }
+        },
+        {
+          "text": "A wave of pain. I'm not there, and the thought hurts.",
+          "weights": {
+            "not-yet": 2
+          }
+        },
+        {
+          "text": "I've let go of the grudge, but sitting back down feels unsafe.",
+          "weights": {
+            "forgive-not-reconcile": 2
+          }
+        }
       ]
     },
     {
       "text": "When you think about the person now, what's mostly there?",
       "options": [
-        { "text": "Genuine goodwill. The bitterness has lifted.", "weights": { "ready": 2 } },
-        { "text": "Forgiveness, plus a healthy wariness I won't ignore.", "weights": { "boundaries": 2 } },
-        { "text": "Still a lot of raw hurt I haven't worked through.", "weights": { "not-yet": 2 } },
-        { "text": "Released, but I have no desire to be close again.", "weights": { "forgive-not-reconcile": 2 } }
+        {
+          "text": "Genuine goodwill. The bitterness has lifted.",
+          "weights": {
+            "ready": 2
+          }
+        },
+        {
+          "text": "Forgiveness, plus a healthy wariness I won't ignore.",
+          "weights": {
+            "boundaries": 2
+          }
+        },
+        {
+          "text": "Still a lot of raw hurt I haven't worked through.",
+          "weights": {
+            "not-yet": 2
+          }
+        },
+        {
+          "text": "Released, but I have no desire to be close again.",
+          "weights": {
+            "forgive-not-reconcile": 2
+          }
+        }
       ]
     },
     {
       "text": "Has the person shown any real change or remorse?",
       "options": [
-        { "text": "Yes, and I've seen enough to trust the door again.", "weights": { "ready": 2 } },
-        { "text": "Some, but I'd want to see it hold up over time before fully trusting.", "weights": { "boundaries": 2 } },
-        { "text": "Not really, and that keeps the wound fresh.", "weights": { "not-yet": 1, "forgive-not-reconcile": 1 } },
-        { "text": "No, and that's exactly why I can forgive but not reopen the relationship.", "weights": { "forgive-not-reconcile": 2 } }
+        {
+          "text": "Yes, and I've seen enough to trust the door again.",
+          "weights": {
+            "ready": 2
+          }
+        },
+        {
+          "text": "Some, but I'd want to see it hold up over time before fully trusting.",
+          "weights": {
+            "boundaries": 2
+          }
+        },
+        {
+          "text": "Not really, and that keeps the wound fresh.",
+          "weights": {
+            "not-yet": 1,
+            "forgive-not-reconcile": 1
+          }
+        },
+        {
+          "text": "No, and that's exactly why I can forgive but not reopen the relationship.",
+          "weights": {
+            "forgive-not-reconcile": 2
+          }
+        }
       ]
     },
     {
       "text": "What do you believe forgiveness actually requires of you?",
       "options": [
-        { "text": "Letting go of the debt, and being open to repair if it's safe.", "weights": { "ready": 2 } },
-        { "text": "Releasing them while still protecting myself with wisdom.", "weights": { "boundaries": 2, "forgive-not-reconcile": 1 } },
-        { "text": "I know I should, but my heart isn't ready to even start.", "weights": { "not-yet": 2 } },
-        { "text": "Forgiving fully, without owing them my trust or my presence.", "weights": { "forgive-not-reconcile": 2 } }
+        {
+          "text": "Letting go of the debt, and being open to repair if it's safe.",
+          "weights": {
+            "ready": 2
+          }
+        },
+        {
+          "text": "Releasing them while still protecting myself with wisdom.",
+          "weights": {
+            "boundaries": 2,
+            "forgive-not-reconcile": 1
+          }
+        },
+        {
+          "text": "I know I should, but my heart isn't ready to even start.",
+          "weights": {
+            "not-yet": 2
+          }
+        },
+        {
+          "text": "Forgiving fully, without owing them my trust or my presence.",
+          "weights": {
+            "forgive-not-reconcile": 2
+          }
+        }
       ]
     },
     {
       "text": "If they reached out tomorrow wanting to reconnect, you'd...",
       "options": [
-        { "text": "Be willing to meet and see where it could go.", "weights": { "ready": 2 } },
-        { "text": "Agree only with clear conditions and a slow pace.", "weights": { "boundaries": 2 } },
-        { "text": "Freeze. I'm not ready and I'd need time.", "weights": { "not-yet": 2 } },
-        { "text": "Wish them well and keep my distance.", "weights": { "forgive-not-reconcile": 2 } }
+        {
+          "text": "Be willing to meet and see where it could go.",
+          "weights": {
+            "ready": 2
+          }
+        },
+        {
+          "text": "Agree only with clear conditions and a slow pace.",
+          "weights": {
+            "boundaries": 2
+          }
+        },
+        {
+          "text": "Freeze. I'm not ready and I'd need time.",
+          "weights": {
+            "not-yet": 2
+          }
+        },
+        {
+          "text": "Wish them well and keep my distance.",
+          "weights": {
+            "forgive-not-reconcile": 2
+          }
+        }
       ]
     },
     {
       "text": "Be honest. What's the hardest part of this for you?",
       "options": [
-        { "text": "Honestly, the hardest part is mostly behind me now.", "weights": { "ready": 2 } },
-        { "text": "Holding the line so reconciling doesn't mean getting hurt again.", "weights": { "boundaries": 2 } },
-        { "text": "The pain is still too loud to think about repair.", "weights": { "not-yet": 2 } },
-        { "text": "People assuming forgiveness means I have to let them back in.", "weights": { "forgive-not-reconcile": 2 } }
+        {
+          "text": "Honestly, the hardest part is mostly behind me now.",
+          "weights": {
+            "ready": 2
+          }
+        },
+        {
+          "text": "Holding the line so reconciling doesn't mean getting hurt again.",
+          "weights": {
+            "boundaries": 2
+          }
+        },
+        {
+          "text": "The pain is still too loud to think about repair.",
+          "weights": {
+            "not-yet": 2
+          }
+        },
+        {
+          "text": "People assuming forgiveness means I have to let them back in.",
+          "weights": {
+            "forgive-not-reconcile": 2
+          }
+        }
       ]
     },
     {
       "text": "Which sentence feels most true today?",
       "options": [
-        { "text": "I'm ready to share a table again.", "weights": { "ready": 2 } },
-        { "text": "I can come to the table, but the rules have to change.", "weights": { "boundaries": 2 } },
-        { "text": "I can't come to the table yet, and I won't fake it.", "weights": { "not-yet": 2 } },
-        { "text": "I've forgiven them, but my seat at that table stays empty.", "weights": { "forgive-not-reconcile": 2 } }
+        {
+          "text": "I'm ready to share a table again.",
+          "weights": {
+            "ready": 2
+          }
+        },
+        {
+          "text": "I can come to the table, but the rules have to change.",
+          "weights": {
+            "boundaries": 2
+          }
+        },
+        {
+          "text": "I can't come to the table yet, and I won't fake it.",
+          "weights": {
+            "not-yet": 2
+          }
+        },
+        {
+          "text": "I've forgiven them, but my seat at that table stays empty.",
+          "weights": {
+            "forgive-not-reconcile": 2
+          }
+        }
       ]
     },
     {
       "text": "What do you most want for your heart in all this?",
       "options": [
-        { "text": "To experience real restoration, not just a truce.", "weights": { "ready": 2 } },
-        { "text": "To love them and still keep myself safe.", "weights": { "boundaries": 2 } },
-        { "text": "To heal enough that the thought stops hurting so much.", "weights": { "not-yet": 2 } },
-        { "text": "To be fully free of resentment, even from a distance.", "weights": { "forgive-not-reconcile": 2 } }
+        {
+          "text": "To experience real restoration, not just a truce.",
+          "weights": {
+            "ready": 2
+          }
+        },
+        {
+          "text": "To love them and still keep myself safe.",
+          "weights": {
+            "boundaries": 2
+          }
+        },
+        {
+          "text": "To heal enough that the thought stops hurting so much.",
+          "weights": {
+            "not-yet": 2
+          }
+        },
+        {
+          "text": "To be fully free of resentment, even from a distance.",
+          "weights": {
+            "forgive-not-reconcile": 2
+          }
+        }
       ]
     }
   ],
@@ -85,22 +252,38 @@
     "ready": {
       "name": "Yes, You're Ready",
       "description": "Something in you has softened, and the peace you feel is real. The bitterness has loosened its grip, and you can imagine sitting back down with this person without your stomach turning. That kind of readiness is a gift, and it usually means God has done quiet work in you that you may not have fully noticed. Move forward with open eyes and a hopeful heart. Mephibosheth was lifted from hiding and given a permanent seat at the king's table. Restoration like that is possible.",
-      "scripture": { "text": "Be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ's sake hath forgiven you.", "reference": "Ephesians 4:32" }
+      "scripture": {
+        "text": "and be ye kind one to another, tenderhearted, forgiving each other, even as God also in Christ forgave you.",
+        "reference": "Ephesians 4:32",
+        "translation": "ASV"
+      }
     },
     "boundaries": {
       "name": "Only With Boundaries",
       "description": "You're open to the table, but not without some new rules, and that's wisdom, not weakness. Forgiveness and trust are two different things. One you can give freely, the other gets rebuilt over time and with evidence. Coming back to the table with clear limits protects both you and the relationship. You can extend grace and still refuse to hand yourself back into harm. That balance is exactly where a lot of healthy reconciliation begins.",
-      "scripture": { "text": "Keep thy heart with all diligence; for out of it are the issues of life.", "reference": "Proverbs 4:23" }
+      "scripture": {
+        "text": "Keep thy heart with all diligence; For out of it are the issues of life.",
+        "reference": "Proverbs 4:23",
+        "translation": "ASV"
+      }
     },
     "not-yet": {
       "name": "Not Yet, and That's Okay",
       "description": "The wound is still too fresh to think about sitting back down, and that's nothing to be ashamed of. Forgiveness is often a process, not a single decision, and rushing it would only bury pain that needs to be felt and healed. God is patient with you here. He validates the hurt before He asks anything of you. Give yourself permission to heal first. The table can wait while your heart catches up.",
-      "scripture": { "text": "He healeth the broken in heart, and bindeth up their wounds.", "reference": "Psalm 147:3" }
+      "scripture": {
+        "text": "He healeth the broken in heart, And bindeth up their wounds.",
+        "reference": "Psalm 147:3",
+        "translation": "ASV"
+      }
     },
     "forgive-not-reconcile": {
       "name": "You Could Forgive but Not Reconcile",
       "description": "You've done the harder inner work of releasing the debt, but you've also realized that forgiving someone doesn't mean handing them back access to your life. Those are two separate things, and you're right to hold them apart. Without real change on their side, distance can be the loving and the wise choice. You can wish them well, pray for them, and still keep your seat at that table empty. Freedom from resentment doesn't require reopening the door.",
-      "scripture": { "text": "If it be possible, as much as lieth in you, live peaceably with all men.", "reference": "Romans 12:18" }
+      "scripture": {
+        "text": "If it be possible, as much as in you lieth, be at peace with all men.",
+        "reference": "Romans 12:18",
+        "translation": "ASV"
+      }
     }
   }
 }

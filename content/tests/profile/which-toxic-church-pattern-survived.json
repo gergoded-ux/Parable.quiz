@@ -17,82 +17,268 @@
     {
       "text": "Looking back, what did that church seem to want most from you?",
       "options": [
-        { "text": "Obedience. Questions were treated like rebellion.", "weights": { "control-culture": 3 } },
-        { "text": "Loyalty to one leader, above almost everything else.", "weights": { "celebrity-pastor": 3 } },
-        { "text": "A constant sense that I was never quite good enough.", "weights": { "shame-machine": 3 } },
-        { "text": "Total agreement. Everyone out there was the enemy.", "weights": { "us-vs-them": 3 } }
+        {
+          "text": "Obedience. Questions were treated like rebellion.",
+          "weights": {
+            "control-culture": 3
+          }
+        },
+        {
+          "text": "Loyalty to one leader, above almost everything else.",
+          "weights": {
+            "celebrity-pastor": 3
+          }
+        },
+        {
+          "text": "A constant sense that I was never quite good enough.",
+          "weights": {
+            "shame-machine": 3
+          }
+        },
+        {
+          "text": "Total agreement. Everyone out there was the enemy.",
+          "weights": {
+            "us-vs-them": 3
+          }
+        }
       ]
     },
     {
       "text": "When you brought up a real struggle, the response was usually...",
       "options": [
-        { "text": "Pray harder and have more faith, and stop dwelling on it.", "weights": { "spiritual-bypassing": 3 } },
-        { "text": "A reminder of the rules I'd broken to get there.", "weights": { "shame-machine": 2, "control-culture": 1 } },
-        { "text": "Check your heart and submit to leadership.", "weights": { "control-culture": 3 } },
-        { "text": "Don't air this outside the church. It makes us look bad.", "weights": { "us-vs-them": 2, "celebrity-pastor": 1 } }
+        {
+          "text": "Pray harder and have more faith, and stop dwelling on it.",
+          "weights": {
+            "spiritual-bypassing": 3
+          }
+        },
+        {
+          "text": "A reminder of the rules I'd broken to get there.",
+          "weights": {
+            "shame-machine": 2,
+            "control-culture": 1
+          }
+        },
+        {
+          "text": "Check your heart and submit to leadership.",
+          "weights": {
+            "control-culture": 3
+          }
+        },
+        {
+          "text": "Don't air this outside the church. It makes us look bad.",
+          "weights": {
+            "us-vs-them": 2,
+            "celebrity-pastor": 1
+          }
+        }
       ]
     },
     {
       "text": "How did the leadership tend to handle their own power?",
       "options": [
-        { "text": "One person was basically untouchable and beyond correction.", "weights": { "celebrity-pastor": 3 } },
-        { "text": "Rules covered everything, and they decided what was sin.", "weights": { "control-culture": 3 } },
-        { "text": "They held your failures over you to keep you in line.", "weights": { "shame-machine": 3 } },
-        { "text": "They drew a hard line between us and everyone else.", "weights": { "us-vs-them": 3 } }
+        {
+          "text": "One person was basically untouchable and beyond correction.",
+          "weights": {
+            "celebrity-pastor": 3
+          }
+        },
+        {
+          "text": "Rules covered everything, and they decided what was sin.",
+          "weights": {
+            "control-culture": 3
+          }
+        },
+        {
+          "text": "They held your failures over you to keep you in line.",
+          "weights": {
+            "shame-machine": 3
+          }
+        },
+        {
+          "text": "They drew a hard line between us and everyone else.",
+          "weights": {
+            "us-vs-them": 3
+          }
+        }
       ]
     },
     {
       "text": "What feeling do you remember carrying around most often?",
       "options": [
-        { "text": "Walking on eggshells, afraid to step out of line.", "weights": { "control-culture": 3 } },
-        { "text": "Star-struck one minute, uneasy the next.", "weights": { "celebrity-pastor": 3 } },
-        { "text": "Quietly ashamed, like something was wrong with me.", "weights": { "shame-machine": 3 } },
-        { "text": "On guard, like the world was out to get us.", "weights": { "us-vs-them": 3 } }
+        {
+          "text": "Walking on eggshells, afraid to step out of line.",
+          "weights": {
+            "control-culture": 3
+          }
+        },
+        {
+          "text": "Star-struck one minute, uneasy the next.",
+          "weights": {
+            "celebrity-pastor": 3
+          }
+        },
+        {
+          "text": "Quietly ashamed, like something was wrong with me.",
+          "weights": {
+            "shame-machine": 3
+          }
+        },
+        {
+          "text": "On guard, like the world was out to get us.",
+          "weights": {
+            "us-vs-them": 3
+          }
+        }
       ]
     },
     {
       "text": "How were doubts and hard questions treated?",
       "options": [
-        { "text": "As a threat to be shut down fast.", "weights": { "control-culture": 3 } },
-        { "text": "As proof I wasn't spiritual enough yet.", "weights": { "shame-machine": 3 } },
-        { "text": "As something to slap a Bible verse on and move past.", "weights": { "spiritual-bypassing": 3 } },
-        { "text": "As a sign I was being influenced by the wrong people.", "weights": { "us-vs-them": 3 } }
+        {
+          "text": "As a threat to be shut down fast.",
+          "weights": {
+            "control-culture": 3
+          }
+        },
+        {
+          "text": "As proof I wasn't spiritual enough yet.",
+          "weights": {
+            "shame-machine": 3
+          }
+        },
+        {
+          "text": "As something to slap a Bible verse on and move past.",
+          "weights": {
+            "spiritual-bypassing": 3
+          }
+        },
+        {
+          "text": "As a sign I was being influenced by the wrong people.",
+          "weights": {
+            "us-vs-them": 3
+          }
+        }
       ]
     },
     {
       "text": "What happened to people who decided to leave?",
       "options": [
-        { "text": "They got shunned, like they'd betrayed the family.", "weights": { "us-vs-them": 3 } },
-        { "text": "Leadership painted them as bitter or rebellious.", "weights": { "control-culture": 2, "celebrity-pastor": 1 } },
-        { "text": "They were warned they were stepping out of God's covering.", "weights": { "celebrity-pastor": 2, "control-culture": 1 } },
-        { "text": "They were quietly blamed, like it was their own fault.", "weights": { "shame-machine": 3 } }
+        {
+          "text": "They got shunned, like they'd betrayed the family.",
+          "weights": {
+            "us-vs-them": 3
+          }
+        },
+        {
+          "text": "Leadership painted them as bitter or rebellious.",
+          "weights": {
+            "control-culture": 2,
+            "celebrity-pastor": 1
+          }
+        },
+        {
+          "text": "They were warned they were stepping out of God's covering.",
+          "weights": {
+            "celebrity-pastor": 2,
+            "control-culture": 1
+          }
+        },
+        {
+          "text": "They were quietly blamed, like it was their own fault.",
+          "weights": {
+            "shame-machine": 3
+          }
+        }
       ]
     },
     {
       "text": "Pain and hard emotions in that place were mostly...",
       "options": [
-        { "text": "Spiritualized away. Joy was a command, not a feeling.", "weights": { "spiritual-bypassing": 3 } },
-        { "text": "Evidence you weren't surrendered enough.", "weights": { "shame-machine": 3 } },
-        { "text": "Something to bring to the leader, never to question him.", "weights": { "celebrity-pastor": 3 } },
-        { "text": "A distraction from the real fight against the world.", "weights": { "us-vs-them": 2, "control-culture": 1 } }
+        {
+          "text": "Spiritualized away. Joy was a command, not a feeling.",
+          "weights": {
+            "spiritual-bypassing": 3
+          }
+        },
+        {
+          "text": "Evidence you weren't surrendered enough.",
+          "weights": {
+            "shame-machine": 3
+          }
+        },
+        {
+          "text": "Something to bring to the leader, never to question him.",
+          "weights": {
+            "celebrity-pastor": 3
+          }
+        },
+        {
+          "text": "A distraction from the real fight against the world.",
+          "weights": {
+            "us-vs-them": 2,
+            "control-culture": 1
+          }
+        }
       ]
     },
     {
       "text": "What did you learn to believe about yourself there?",
       "options": [
-        { "text": "That my own judgment couldn't be trusted.", "weights": { "control-culture": 3 } },
-        { "text": "That I was always one wrong move from being unacceptable.", "weights": { "shame-machine": 3 } },
-        { "text": "That my worth came from being close to the right leader.", "weights": { "celebrity-pastor": 3 } },
-        { "text": "That feeling my real feelings was a lack of faith.", "weights": { "spiritual-bypassing": 3 } }
+        {
+          "text": "That my own judgment couldn't be trusted.",
+          "weights": {
+            "control-culture": 3
+          }
+        },
+        {
+          "text": "That I was always one wrong move from being unacceptable.",
+          "weights": {
+            "shame-machine": 3
+          }
+        },
+        {
+          "text": "That my worth came from being close to the right leader.",
+          "weights": {
+            "celebrity-pastor": 3
+          }
+        },
+        {
+          "text": "That feeling my real feelings was a lack of faith.",
+          "weights": {
+            "spiritual-bypassing": 3
+          }
+        }
       ]
     },
     {
       "text": "Now that you're out, what stings the most?",
       "options": [
-        { "text": "How much of my life someone else controlled.", "weights": { "control-culture": 3 } },
-        { "text": "How a whole community revolved around one human.", "weights": { "celebrity-pastor": 3 } },
-        { "text": "How long I believed I was the problem.", "weights": { "shame-machine": 3 } },
-        { "text": "How I never got to just be sad or tired or honest.", "weights": { "spiritual-bypassing": 2, "us-vs-them": 1 } }
+        {
+          "text": "How much of my life someone else controlled.",
+          "weights": {
+            "control-culture": 3
+          }
+        },
+        {
+          "text": "How a whole community revolved around one human.",
+          "weights": {
+            "celebrity-pastor": 3
+          }
+        },
+        {
+          "text": "How long I believed I was the problem.",
+          "weights": {
+            "shame-machine": 3
+          }
+        },
+        {
+          "text": "How I never got to just be sad or tired or honest.",
+          "weights": {
+            "spiritual-bypassing": 2,
+            "us-vs-them": 1
+          }
+        }
       ]
     }
   ],
@@ -100,27 +286,47 @@
     "control-culture": {
       "name": "The Control Culture",
       "description": "You survived a place that ran on control. Your choices, your questions, even your private thoughts were treated as things leadership got to manage, and dissent was framed as rebellion against God. Hear this clearly: a healthy church equips you to walk with God yourself, it doesn't replace your conscience with someone else's rules. Learning to trust your own God-given judgment again isn't pride. It's part of healing.",
-      "scripture": { "text": "It is for freedom that Christ has set us free. Stand firm, then, and do not let yourselves be burdened again by a yoke of slavery.", "reference": "Galatians 5:1" }
+      "scripture": {
+        "text": "For freedom did Christ set us free: stand fast therefore, and be not entangled again in a yoke of bondage.",
+        "reference": "Galatians 5:1",
+        "translation": "ASV"
+      }
     },
     "celebrity-pastor": {
       "name": "The Celebrity Pastor",
       "description": "You came out of a church built around one untouchable personality, where loyalty to the leader quietly took the place of loyalty to Jesus. That's a heavy thing to untangle, because so much got tied to one flawed human. But your faith was never meant to rest on a man. It rests on Christ, who never abuses His authority and never asks you to make Him the center of someone else's spotlight. He can hold what that leader could not.",
-      "scripture": { "text": "What, after all, is Apollos? And what is Paul? Only servants, through whom you came to believe.", "reference": "1 Corinthians 3:5" }
+      "scripture": {
+        "text": "What then is Apollos? and what is Paul? Ministers through whom ye believed; and each as the Lord gave to him.",
+        "reference": "1 Corinthians 3:5",
+        "translation": "ASV"
+      }
     },
     "shame-machine": {
       "name": "The Shame Machine",
       "description": "You survived a system that motivated people through shame, keeping you just insecure enough to stay in line. So you learned to feel like the problem, no matter how hard you tried. Here's the truth that place hid from you: God doesn't lead His children with contempt. He leads with kindness, and there is no condemnation waiting for you in Christ. You were never as unacceptable as they made you feel.",
-      "scripture": { "text": "There is now no condemnation for those who are in Christ Jesus.", "reference": "Romans 8:1" }
+      "scripture": {
+        "text": "There is therefore now no condemnation to them that are in Christ Jesus.",
+        "reference": "Romans 8:1",
+        "translation": "ASV"
+      }
     },
     "us-vs-them": {
       "name": "The Us-vs-Them Bubble",
       "description": "You lived inside a bubble where everyone outside was a threat, and belonging meant agreeing with everything and trusting no one else. Fear was the glue. It's disorienting to step out and realize the world isn't the enemy you were told it was. The real gospel pulls you toward people, not away from them, and God's love reaches far past the walls that group built. You're allowed to breathe out here.",
-      "scripture": { "text": "For God so loved the world that he gave his one and only Son.", "reference": "John 3:16" }
+      "scripture": {
+        "text": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth on him should not perish, but have eternal life.",
+        "reference": "John 3:16",
+        "translation": "ASV"
+      }
     },
     "spiritual-bypassing": {
       "name": "The Spiritual Bypassing",
       "description": "You came from a place that rushed past every hard feeling with a quick verse and a forced smile, where grief and doubt got treated like a lack of faith. So you learned to bury what you actually felt. But God never asks you to fake joy. He sat with weeping people, and a third of the Psalms are honest laments. You don't have to spiritualize your pain anymore. He can handle the real version of you.",
-      "scripture": { "text": "Jesus wept.", "reference": "John 11:35" }
+      "scripture": {
+        "text": "Jesus wept.",
+        "reference": "John 11:35",
+        "translation": "ASV"
+      }
     }
   }
 }

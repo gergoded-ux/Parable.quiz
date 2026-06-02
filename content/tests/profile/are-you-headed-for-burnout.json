@@ -17,82 +17,265 @@
     {
       "text": "How do you feel when you wake up in the morning?",
       "options": [
-        { "text": "Already done before the day even starts.", "weights": { "code-red": 3 } },
-        { "text": "Tired most days, even after a full night's sleep.", "weights": { "flashing-warning": 3 } },
-        { "text": "A little drained, but I can usually shake it off.", "weights": { "early-signs": 3 } },
-        { "text": "Pretty rested and ready to go.", "weights": { "sustainable-pace": 3 } }
+        {
+          "text": "Already done before the day even starts.",
+          "weights": {
+            "code-red": 3
+          }
+        },
+        {
+          "text": "Tired most days, even after a full night's sleep.",
+          "weights": {
+            "flashing-warning": 3
+          }
+        },
+        {
+          "text": "A little drained, but I can usually shake it off.",
+          "weights": {
+            "early-signs": 3
+          }
+        },
+        {
+          "text": "Pretty rested and ready to go.",
+          "weights": {
+            "sustainable-pace": 3
+          }
+        }
       ]
     },
     {
       "text": "How's your patience with the people around you lately?",
       "options": [
-        { "text": "Gone. I snap over the smallest things.", "weights": { "code-red": 3 } },
-        { "text": "Thin. I'm irritable more than I'd like.", "weights": { "flashing-warning": 3 } },
-        { "text": "A bit shorter than usual, but mostly okay.", "weights": { "early-signs": 3 } },
-        { "text": "Steady. I've got margin for people.", "weights": { "stretched-stable": 2, "sustainable-pace": 1 } }
+        {
+          "text": "Gone. I snap over the smallest things.",
+          "weights": {
+            "code-red": 3
+          }
+        },
+        {
+          "text": "Thin. I'm irritable more than I'd like.",
+          "weights": {
+            "flashing-warning": 3
+          }
+        },
+        {
+          "text": "A bit shorter than usual, but mostly okay.",
+          "weights": {
+            "early-signs": 3
+          }
+        },
+        {
+          "text": "Steady. I've got margin for people.",
+          "weights": {
+            "stretched-stable": 2,
+            "sustainable-pace": 1
+          }
+        }
       ]
     },
     {
       "text": "How do you feel about the responsibilities on your plate?",
       "options": [
-        { "text": "Crushed. I dread almost all of it.", "weights": { "code-red": 3 } },
-        { "text": "Overloaded, with a knot of dread some mornings.", "weights": { "flashing-warning": 3 } },
-        { "text": "Full, but still manageable for now.", "weights": { "early-signs": 2, "stretched-stable": 1 } },
-        { "text": "Busy, but it's a load I can actually carry.", "weights": { "stretched-stable": 3 } }
+        {
+          "text": "Crushed. I dread almost all of it.",
+          "weights": {
+            "code-red": 3
+          }
+        },
+        {
+          "text": "Overloaded, with a knot of dread some mornings.",
+          "weights": {
+            "flashing-warning": 3
+          }
+        },
+        {
+          "text": "Full, but still manageable for now.",
+          "weights": {
+            "early-signs": 2,
+            "stretched-stable": 1
+          }
+        },
+        {
+          "text": "Busy, but it's a load I can actually carry.",
+          "weights": {
+            "stretched-stable": 3
+          }
+        }
       ]
     },
     {
       "text": "What's your body been telling you?",
       "options": [
-        { "text": "Headaches, tension, getting sick a lot. It's loud.", "weights": { "code-red": 3 } },
-        { "text": "A few warning signs I keep ignoring.", "weights": { "flashing-warning": 3 } },
-        { "text": "Some tiredness here and there, nothing major yet.", "weights": { "early-signs": 3 } },
-        { "text": "Honestly, it feels pretty good.", "weights": { "sustainable-pace": 3 } }
+        {
+          "text": "Headaches, tension, getting sick a lot. It's loud.",
+          "weights": {
+            "code-red": 3
+          }
+        },
+        {
+          "text": "A few warning signs I keep ignoring.",
+          "weights": {
+            "flashing-warning": 3
+          }
+        },
+        {
+          "text": "Some tiredness here and there, nothing major yet.",
+          "weights": {
+            "early-signs": 3
+          }
+        },
+        {
+          "text": "Honestly, it feels pretty good.",
+          "weights": {
+            "sustainable-pace": 3
+          }
+        }
       ]
     },
     {
       "text": "When was the last time you felt genuinely rested?",
       "options": [
-        { "text": "I genuinely can't remember.", "weights": { "code-red": 3 } },
-        { "text": "It's been a long while now.", "weights": { "flashing-warning": 3 } },
-        { "text": "A few weeks ago, maybe.", "weights": { "early-signs": 3 } },
-        { "text": "Recently. I build rest into my weeks.", "weights": { "sustainable-pace": 3 } }
+        {
+          "text": "I genuinely can't remember.",
+          "weights": {
+            "code-red": 3
+          }
+        },
+        {
+          "text": "It's been a long while now.",
+          "weights": {
+            "flashing-warning": 3
+          }
+        },
+        {
+          "text": "A few weeks ago, maybe.",
+          "weights": {
+            "early-signs": 3
+          }
+        },
+        {
+          "text": "Recently. I build rest into my weeks.",
+          "weights": {
+            "sustainable-pace": 3
+          }
+        }
       ]
     },
     {
       "text": "How do you feel about things you used to enjoy?",
       "options": [
-        { "text": "Numb to all of it. Nothing lands anymore.", "weights": { "code-red": 3 } },
-        { "text": "I've quietly dropped most of them.", "weights": { "flashing-warning": 3 } },
-        { "text": "I still enjoy them, just less often.", "weights": { "early-signs": 3 } },
-        { "text": "I'm still making real time for them.", "weights": { "stretched-stable": 2, "sustainable-pace": 1 } }
+        {
+          "text": "Numb to all of it. Nothing lands anymore.",
+          "weights": {
+            "code-red": 3
+          }
+        },
+        {
+          "text": "I've quietly dropped most of them.",
+          "weights": {
+            "flashing-warning": 3
+          }
+        },
+        {
+          "text": "I still enjoy them, just less often.",
+          "weights": {
+            "early-signs": 3
+          }
+        },
+        {
+          "text": "I'm still making real time for them.",
+          "weights": {
+            "stretched-stable": 2,
+            "sustainable-pace": 1
+          }
+        }
       ]
     },
     {
       "text": "What's your emotional baseline these days?",
       "options": [
-        { "text": "Empty and flat. There's nothing left to give.", "weights": { "code-red": 3 } },
-        { "text": "Frayed and close to tears more than usual.", "weights": { "flashing-warning": 3 } },
-        { "text": "A little worn, but I bounce back okay.", "weights": { "early-signs": 3 } },
-        { "text": "Stable. I feel like myself.", "weights": { "sustainable-pace": 3 } }
+        {
+          "text": "Empty and flat. There's nothing left to give.",
+          "weights": {
+            "code-red": 3
+          }
+        },
+        {
+          "text": "Frayed and close to tears more than usual.",
+          "weights": {
+            "flashing-warning": 3
+          }
+        },
+        {
+          "text": "A little worn, but I bounce back okay.",
+          "weights": {
+            "early-signs": 3
+          }
+        },
+        {
+          "text": "Stable. I feel like myself.",
+          "weights": {
+            "sustainable-pace": 3
+          }
+        }
       ]
     },
     {
       "text": "How's your connection with God in the middle of all this?",
       "options": [
-        { "text": "Distant. I'm too fried to even reach for Him.", "weights": { "code-red": 3 } },
-        { "text": "Strained. I keep meaning to and don't.", "weights": { "flashing-warning": 3 } },
-        { "text": "Okay, though I feel myself drifting a bit.", "weights": { "early-signs": 3 } },
-        { "text": "Close. He's part of my daily rhythm.", "weights": { "sustainable-pace": 3 } }
+        {
+          "text": "Distant. I'm too fried to even reach for Him.",
+          "weights": {
+            "code-red": 3
+          }
+        },
+        {
+          "text": "Strained. I keep meaning to and don't.",
+          "weights": {
+            "flashing-warning": 3
+          }
+        },
+        {
+          "text": "Okay, though I feel myself drifting a bit.",
+          "weights": {
+            "early-signs": 3
+          }
+        },
+        {
+          "text": "Close. He's part of my daily rhythm.",
+          "weights": {
+            "sustainable-pace": 3
+          }
+        }
       ]
     },
     {
       "text": "If a good friend looked at your life right now, they'd say...",
       "options": [
-        { "text": "You need to stop. This isn't sustainable at all.", "weights": { "code-red": 3 } },
-        { "text": "Slow down before you hit a wall.", "weights": { "flashing-warning": 3 } },
-        { "text": "Keep an eye on it. You're getting close to too much.", "weights": { "early-signs": 3 } },
-        { "text": "You've got a lot on, but you're handling it well.", "weights": { "stretched-stable": 3 } }
+        {
+          "text": "You need to stop. This isn't sustainable at all.",
+          "weights": {
+            "code-red": 3
+          }
+        },
+        {
+          "text": "Slow down before you hit a wall.",
+          "weights": {
+            "flashing-warning": 3
+          }
+        },
+        {
+          "text": "Keep an eye on it. You're getting close to too much.",
+          "weights": {
+            "early-signs": 3
+          }
+        },
+        {
+          "text": "You've got a lot on, but you're handling it well.",
+          "weights": {
+            "stretched-stable": 3
+          }
+        }
       ]
     }
   ],
@@ -100,27 +283,47 @@
     "code-red": {
       "name": "Code Red (burnout now)",
       "description": "This is your honest answer, so receive it gently: you're not heading for burnout, you're in it. The exhaustion, the numbness, the snapping, the dread, those aren't signs you're weak. They're signs you've been carrying too much for too long, and your body and soul are waving every flag they have. Please treat this as the stop sign it is. Even Elijah, after his biggest win, collapsed and asked to die, and God's response wasn't a lecture. It was food, sleep, and tender care. Reach out to someone today. You were never meant to run on empty.",
-      "scripture": { "text": "Come to me, all you who are weary and burdened, and I will give you rest.", "reference": "Matthew 11:28" }
+      "scripture": {
+        "text": "Come unto me, all ye that labor and are heavy laden, and I will give you rest.",
+        "reference": "Matthew 11:28",
+        "translation": "ASV"
+      }
     },
     "flashing-warning": {
       "name": "Flashing Warning Lights",
       "description": "The dashboard is lit up, and the warning lights are flashing, but you keep driving past them. The tiredness that sleep won't fix, the dropped hobbies, the dread, those are your body asking you to slow down before something gives. This is a real chance to change course while you still can. You don't have to overhaul your whole life today. Start with one honest no and one real rest. The God who built rest into creation isn't asking you to prove your worth by running yourself dry.",
-      "scripture": { "text": "In vain you rise early and stay up late, toiling for food to eat, for he grants sleep to those he loves.", "reference": "Psalm 127:2" }
+      "scripture": {
+        "text": "It is vain for you to rise up early, To take rest late, To eat the bread of toil; Forso he giveth unto his beloved sleep.",
+        "reference": "Psalm 127:2",
+        "translation": "ASV"
+      }
     },
     "early-signs": {
       "name": "Early Signs",
       "description": "You're not in trouble yet, but the early signs are real, and the fact that you're checking is wise. A little more tiredness, a slightly shorter fuse, less time for what you love, these are the quiet first whispers, and catching them now is so much easier than recovering later. Build in some margin before the load grows. A regular rhythm of rest isn't a luxury you'll get to someday. It's the very thing that keeps you from ending up further down this list.",
-      "scripture": { "text": "Be very careful, then, how you live, not as unwise but as wise, making the most of every opportunity.", "reference": "Ephesians 5:15-16" }
+      "scripture": {
+        "text": "Look therefore carefully how ye walk, not as unwise, but as wise; redeeming the time, because the days are evil.",
+        "reference": "Ephesians 5:15-16",
+        "translation": "ASV"
+      }
     },
     "stretched-stable": {
       "name": "Stretched but Stable",
       "description": "You've got a lot on your plate, more than most, but you're handling it, and that's genuinely good. You feel stretched, sure, but you're still steady, still connected, still yourself. The thing to watch is that stretched seasons have a way of quietly becoming permanent. Enjoy your capacity, and keep an honest eye on the load so a full plate doesn't slowly turn into an overloaded one. You're doing well. Just don't forget to actually rest while you're ahead.",
-      "scripture": { "text": "My grace is sufficient for you, for my power is made perfect in weakness.", "reference": "2 Corinthians 12:9" }
+      "scripture": {
+        "text": "And he hath said unto me, My grace is sufficient for thee: for my power is made perfect in weakness. Most gladly therefore will I rather glory in my weaknesses, that the power of Christ may rest upon me.",
+        "reference": "2 Corinthians 12:9",
+        "translation": "ASV"
+      }
     },
     "sustainable-pace": {
       "name": "Sustainable Pace",
       "description": "You're living at a pace you can actually keep, and that's worth celebrating in a world that treats exhaustion like a badge. You're rested, you've got margin for people, and your connection with God is part of your daily rhythm. This isn't laziness. It's wisdom, and it's exactly the kind of life that lasts. Keep guarding it, because seasons change and the load can sneak up on anyone. You've found something a lot of people are desperate for. Protect it.",
-      "scripture": { "text": "He makes me lie down in green pastures, he leads me beside quiet waters, he refreshes my soul.", "reference": "Psalm 23:2-3" }
+      "scripture": {
+        "text": "He maketh me to lie down in green pastures; He leadeth me beside still waters. He restoreth my soul: He guideth me in the paths of righteousness for his name’s sake.",
+        "reference": "Psalm 23:2-3",
+        "translation": "ASV"
+      }
     }
   }
 }

@@ -6,87 +6,274 @@
   "category": "spiritual-profile",
   "estimatedMinutes": 5,
   "mode": "profile",
-  "dimensions": ["anxious-child", "angry-protector", "people-pleaser", "perfectionist", "one-who-went-numb"],
+  "dimensions": [
+    "anxious-child",
+    "angry-protector",
+    "people-pleaser",
+    "perfectionist",
+    "one-who-went-numb"
+  ],
   "questions": [
     {
       "text": "When stress hits, which response feels most automatic?",
       "options": [
-        { "text": "My mind races and I brace for everything to go wrong.", "weights": { "anxious-child": 2 } },
-        { "text": "I get sharp and ready to defend before anyone can hurt me.", "weights": { "angry-protector": 2 } },
-        { "text": "I scramble to keep everyone around me happy.", "weights": { "people-pleaser": 2 } },
-        { "text": "I shut down and feel almost nothing at all.", "weights": { "one-who-went-numb": 2 } }
+        {
+          "text": "My mind races and I brace for everything to go wrong.",
+          "weights": {
+            "anxious-child": 2
+          }
+        },
+        {
+          "text": "I get sharp and ready to defend before anyone can hurt me.",
+          "weights": {
+            "angry-protector": 2
+          }
+        },
+        {
+          "text": "I scramble to keep everyone around me happy.",
+          "weights": {
+            "people-pleaser": 2
+          }
+        },
+        {
+          "text": "I shut down and feel almost nothing at all.",
+          "weights": {
+            "one-who-went-numb": 2
+          }
+        }
       ]
     },
     {
       "text": "Which fear runs quietly underneath your days?",
       "options": [
-        { "text": "That something bad is always about to happen.", "weights": { "anxious-child": 2 } },
-        { "text": "That if I let my guard down, I will get hurt again.", "weights": { "angry-protector": 2 } },
-        { "text": "That if I disappoint people, they will leave.", "weights": { "people-pleaser": 2 } },
-        { "text": "That I will never measure up no matter what I do.", "weights": { "perfectionist": 2 } }
+        {
+          "text": "That something bad is always about to happen.",
+          "weights": {
+            "anxious-child": 2
+          }
+        },
+        {
+          "text": "That if I let my guard down, I will get hurt again.",
+          "weights": {
+            "angry-protector": 2
+          }
+        },
+        {
+          "text": "That if I disappoint people, they will leave.",
+          "weights": {
+            "people-pleaser": 2
+          }
+        },
+        {
+          "text": "That I will never measure up no matter what I do.",
+          "weights": {
+            "perfectionist": 2
+          }
+        }
       ]
     },
     {
       "text": "How did you learn to survive when you were younger?",
       "options": [
-        { "text": "By staying alert and worrying so nothing caught me off guard.", "weights": { "anxious-child": 2 } },
-        { "text": "By getting tough so no one could push me around.", "weights": { "angry-protector": 2 } },
-        { "text": "By being good, easy, and useful to everyone else.", "weights": { "people-pleaser": 2 } },
-        { "text": "By achieving, so I would finally be enough.", "weights": { "perfectionist": 2 } }
+        {
+          "text": "By staying alert and worrying so nothing caught me off guard.",
+          "weights": {
+            "anxious-child": 2
+          }
+        },
+        {
+          "text": "By getting tough so no one could push me around.",
+          "weights": {
+            "angry-protector": 2
+          }
+        },
+        {
+          "text": "By being good, easy, and useful to everyone else.",
+          "weights": {
+            "people-pleaser": 2
+          }
+        },
+        {
+          "text": "By achieving, so I would finally be enough.",
+          "weights": {
+            "perfectionist": 2
+          }
+        }
       ]
     },
     {
       "text": "What do people not realize about you?",
       "options": [
-        { "text": "How much fear I am managing under the surface.", "weights": { "anxious-child": 2 } },
-        { "text": "That the anger is guarding something soft and scared.", "weights": { "angry-protector": 2 } },
-        { "text": "How exhausted I am from holding everyone up.", "weights": { "people-pleaser": 2 } },
-        { "text": "How harsh the voice in my head really is.", "weights": { "perfectionist": 2, "one-who-went-numb": 1 } }
+        {
+          "text": "How much fear I am managing under the surface.",
+          "weights": {
+            "anxious-child": 2
+          }
+        },
+        {
+          "text": "That the anger is guarding something soft and scared.",
+          "weights": {
+            "angry-protector": 2
+          }
+        },
+        {
+          "text": "How exhausted I am from holding everyone up.",
+          "weights": {
+            "people-pleaser": 2
+          }
+        },
+        {
+          "text": "How harsh the voice in my head really is.",
+          "weights": {
+            "perfectionist": 2,
+            "one-who-went-numb": 1
+          }
+        }
       ]
     },
     {
       "text": "Which sentence sounds most like your inner voice?",
       "options": [
-        { "text": "What if it all falls apart?", "weights": { "anxious-child": 2 } },
-        { "text": "Do not let them in. They will only let you down.", "weights": { "angry-protector": 2 } },
-        { "text": "Make sure no one is upset with you.", "weights": { "people-pleaser": 2 } },
-        { "text": "It is still not good enough. Try harder.", "weights": { "perfectionist": 2 } }
+        {
+          "text": "What if it all falls apart?",
+          "weights": {
+            "anxious-child": 2
+          }
+        },
+        {
+          "text": "Do not let them in. They will only let you down.",
+          "weights": {
+            "angry-protector": 2
+          }
+        },
+        {
+          "text": "Make sure no one is upset with you.",
+          "weights": {
+            "people-pleaser": 2
+          }
+        },
+        {
+          "text": "It is still not good enough. Try harder.",
+          "weights": {
+            "perfectionist": 2
+          }
+        }
       ]
     },
     {
       "text": "How do you handle your own emotions?",
       "options": [
-        { "text": "They overwhelm me. I feel everything intensely.", "weights": { "anxious-child": 2 } },
-        { "text": "I turn the painful ones into anger, fast.", "weights": { "angry-protector": 2 } },
-        { "text": "I set mine aside to manage everyone else's first.", "weights": { "people-pleaser": 2 } },
-        { "text": "Honestly, I have stopped feeling much of anything.", "weights": { "one-who-went-numb": 2 } }
+        {
+          "text": "They overwhelm me. I feel everything intensely.",
+          "weights": {
+            "anxious-child": 2
+          }
+        },
+        {
+          "text": "I turn the painful ones into anger, fast.",
+          "weights": {
+            "angry-protector": 2
+          }
+        },
+        {
+          "text": "I set mine aside to manage everyone else's first.",
+          "weights": {
+            "people-pleaser": 2
+          }
+        },
+        {
+          "text": "Honestly, I have stopped feeling much of anything.",
+          "weights": {
+            "one-who-went-numb": 2
+          }
+        }
       ]
     },
     {
       "text": "What does rest or stillness bring up for you?",
       "options": [
-        { "text": "Anxiety. My mind fills the quiet with worst-case scenarios.", "weights": { "anxious-child": 2 } },
-        { "text": "Restlessness. Staying busy keeps the walls up.", "weights": { "angry-protector": 2 } },
-        { "text": "Guilt, like I should be doing something for someone.", "weights": { "people-pleaser": 2 } },
-        { "text": "Pressure to be productive. Resting feels like failing.", "weights": { "perfectionist": 2 } }
+        {
+          "text": "Anxiety. My mind fills the quiet with worst-case scenarios.",
+          "weights": {
+            "anxious-child": 2
+          }
+        },
+        {
+          "text": "Restlessness. Staying busy keeps the walls up.",
+          "weights": {
+            "angry-protector": 2
+          }
+        },
+        {
+          "text": "Guilt, like I should be doing something for someone.",
+          "weights": {
+            "people-pleaser": 2
+          }
+        },
+        {
+          "text": "Pressure to be productive. Resting feels like failing.",
+          "weights": {
+            "perfectionist": 2
+          }
+        }
       ]
     },
     {
       "text": "What does the tender part of you most need to hear?",
       "options": [
-        { "text": "You are safe now. You do not have to brace anymore.", "weights": { "anxious-child": 2 } },
-        { "text": "You can lower your shield. You are protected.", "weights": { "angry-protector": 2 } },
-        { "text": "You are loved even when someone is disappointed.", "weights": { "people-pleaser": 2 } },
-        { "text": "You are already enough, before you do a single thing.", "weights": { "perfectionist": 2 } }
+        {
+          "text": "You are safe now. You do not have to brace anymore.",
+          "weights": {
+            "anxious-child": 2
+          }
+        },
+        {
+          "text": "You can lower your shield. You are protected.",
+          "weights": {
+            "angry-protector": 2
+          }
+        },
+        {
+          "text": "You are loved even when someone is disappointed.",
+          "weights": {
+            "people-pleaser": 2
+          }
+        },
+        {
+          "text": "You are already enough, before you do a single thing.",
+          "weights": {
+            "perfectionist": 2
+          }
+        }
       ]
     },
     {
       "text": "Which part of you is quietly asking for healing?",
       "options": [
-        { "text": "The anxious child still bracing for danger.", "weights": { "anxious-child": 2 } },
-        { "text": "The angry protector guarding an old wound.", "weights": { "angry-protector": 2 } },
-        { "text": "The people-pleaser worn out from carrying everyone.", "weights": { "people-pleaser": 2 } },
-        { "text": "The one who went numb just to get through.", "weights": { "one-who-went-numb": 2 } }
+        {
+          "text": "The anxious child still bracing for danger.",
+          "weights": {
+            "anxious-child": 2
+          }
+        },
+        {
+          "text": "The angry protector guarding an old wound.",
+          "weights": {
+            "angry-protector": 2
+          }
+        },
+        {
+          "text": "The people-pleaser worn out from carrying everyone.",
+          "weights": {
+            "people-pleaser": 2
+          }
+        },
+        {
+          "text": "The one who went numb just to get through.",
+          "weights": {
+            "one-who-went-numb": 2
+          }
+        }
       ]
     }
   ],
@@ -94,27 +281,47 @@
     "anxious-child": {
       "name": "The Anxious Child",
       "description": "There is a younger part of you that learned to stay on high alert, bracing for danger so nothing could catch you off guard. That child kept you safe once, and it is tired now. You do not have to keep scanning the horizon for the next disaster. God invites that frightened part of you to rest in a safety that does not depend on you watching the door. You are held, and you can finally exhale.",
-      "scripture": { "text": "When I am afraid, I put my trust in you.", "reference": "Psalm 56:3" }
+      "scripture": {
+        "text": "What time I am afraid, I will put my trust in thee.",
+        "reference": "Psalm 56:3",
+        "translation": "ASV"
+      }
     },
     "angry-protector": {
       "name": "The Angry Protector",
       "description": "The anger you carry is not the real you. It is a guard you built to keep a softer, wounded part of you from getting hurt again. That protector worked hard, but it has kept people at a distance you did not really want. You can lower the shield now. God Himself is your defense, and under His protection, the tender part you have been guarding can finally come out and be cared for.",
-      "scripture": { "text": "The Lord is my rock, and my fortress, and my deliverer.", "reference": "Psalm 18:2" }
+      "scripture": {
+        "text": "Jehovah is my rock, and my fortress, and my deliverer; My God, my rock, in whom I will take refuge; My shield, and the horn of my salvation, my high tower.",
+        "reference": "Psalm 18:2",
+        "translation": "ASV"
+      }
     },
     "people-pleaser": {
       "name": "The People-Pleaser",
       "description": "Somewhere along the way you learned that being loved meant keeping everyone happy, so you set yourself aside again and again. That part of you is exhausted from holding everyone up. Here is the truth it needs: you are loved even when someone is disappointed in you. God's love for you was never something you had to earn by being easy or useful. You are allowed to have needs, and you are allowed to disappoint people and still be deeply loved.",
-      "scripture": { "text": "For do I now persuade men, or God? for if I yet pleased men, I should not be the servant of Christ.", "reference": "Galatians 1:10" }
+      "scripture": {
+        "text": "For am I now seeking the favor of men, or of God? or am I striving to please men? if I were still pleasing men, I should not be a servant of Christ.",
+        "reference": "Galatians 1:10",
+        "translation": "ASV"
+      }
     },
     "perfectionist": {
       "name": "The Perfectionist",
       "description": "A part of you decided long ago that you would be enough only if you got everything right, so the inner critic never lets up. That part is worn thin from chasing a bar that keeps moving. You can stop now. God does not love you for your performance, and His grace was never something to earn. You are already enough in His eyes, before you achieve one more thing. Let that truth quiet the harsh voice you have been listening to.",
-      "scripture": { "text": "My grace is sufficient for thee: for my strength is made perfect in weakness.", "reference": "2 Corinthians 12:9" }
+      "scripture": {
+        "text": "And he hath said unto me, My grace is sufficient for thee: for my power is made perfect in weakness. Most gladly therefore will I rather glory in my weaknesses, that the power of Christ may rest upon me.",
+        "reference": "2 Corinthians 12:9",
+        "translation": "ASV"
+      }
     },
     "one-who-went-numb": {
       "name": "The One Who Went Numb",
       "description": "At some point the feelings got to be too much, so a part of you simply switched them off to survive. That numbness protected you, but it also walled you off from joy and connection. It is safe to start feeling again, slowly and gently, with God close by. He can soften a heart that has gone quiet and bring warmth back to places that went cold. You do not have to thaw all at once. He will be patient with you.",
-      "scripture": { "text": "A new heart also will I give you, and a new spirit will I put within you.", "reference": "Ezekiel 36:26" }
+      "scripture": {
+        "text": "A new heart also will I give you, and a new spirit will I put within you; and I will take away the stony heart out of your flesh, and I will give you a heart of flesh.",
+        "reference": "Ezekiel 36:26",
+        "translation": "ASV"
+      }
     }
   }
 }

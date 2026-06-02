@@ -10,73 +10,237 @@
     {
       "text": "When the loss hit, what did it take from you?",
       "options": [
-        { "text": "Almost everything at once. It came in waves I couldn't stop.", "weights": { "job": 3 } },
-        { "text": "A future I'd counted on. I came home emptier than I left.", "weights": { "naomi": 3 } },
-        { "text": "Someone I would have traded my own life to save.", "weights": { "david": 3 } },
-        { "text": "Someone I loved, while I quietly wondered where God was.", "weights": { "mary-and-martha": 3 } }
+        {
+          "text": "Almost everything at once. It came in waves I couldn't stop.",
+          "weights": {
+            "job": 3
+          }
+        },
+        {
+          "text": "A future I'd counted on. I came home emptier than I left.",
+          "weights": {
+            "naomi": 3
+          }
+        },
+        {
+          "text": "Someone I would have traded my own life to save.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "Someone I loved, while I quietly wondered where God was.",
+          "weights": {
+            "mary-and-martha": 3
+          }
+        }
       ]
     },
     {
       "text": "How do you grieve when no one's watching?",
       "options": [
-        { "text": "I sit in the ashes of it and ask the hard questions.", "weights": { "job": 3 } },
-        { "text": "I've gone quiet and a little bitter, if I'm honest.", "weights": { "naomi": 3 } },
-        { "text": "I weep hard and pour it all out without holding back.", "weights": { "david": 2, "jesus": 1 } },
-        { "text": "I let the tears come even though I believe in the hope.", "weights": { "jesus": 3 } }
+        {
+          "text": "I sit in the ashes of it and ask the hard questions.",
+          "weights": {
+            "job": 3
+          }
+        },
+        {
+          "text": "I've gone quiet and a little bitter, if I'm honest.",
+          "weights": {
+            "naomi": 3
+          }
+        },
+        {
+          "text": "I weep hard and pour it all out without holding back.",
+          "weights": {
+            "david": 2,
+            "jesus": 1
+          }
+        },
+        {
+          "text": "I let the tears come even though I believe in the hope.",
+          "weights": {
+            "jesus": 3
+          }
+        }
       ]
     },
     {
       "text": "Which question is closest to the one in your chest?",
       "options": [
-        { "text": "Why would God let this happen to me?", "weights": { "job": 3 } },
-        { "text": "How do I go on when everything I had is gone?", "weights": { "naomi": 3 } },
-        { "text": "Could my prayers have changed it if I'd prayed harder?", "weights": { "david": 3 } },
-        { "text": "Lord, if you'd been here, would this have happened?", "weights": { "mary-and-martha": 3 } }
+        {
+          "text": "Why would God let this happen to me?",
+          "weights": {
+            "job": 3
+          }
+        },
+        {
+          "text": "How do I go on when everything I had is gone?",
+          "weights": {
+            "naomi": 3
+          }
+        },
+        {
+          "text": "Could my prayers have changed it if I'd prayed harder?",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "Lord, if you'd been here, would this have happened?",
+          "weights": {
+            "mary-and-martha": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you do with God in the middle of the pain?",
       "options": [
-        { "text": "I argue with Him. I want answers, and I say so.", "weights": { "job": 3 } },
-        { "text": "I've pulled back. I feel like He dealt harshly with me.", "weights": { "naomi": 3 } },
-        { "text": "I keep coming to Him, even broken, even confused.", "weights": { "mary-and-martha": 3 } },
-        { "text": "I let Him sit close enough to see me cry.", "weights": { "jesus": 3 } }
+        {
+          "text": "I argue with Him. I want answers, and I say so.",
+          "weights": {
+            "job": 3
+          }
+        },
+        {
+          "text": "I've pulled back. I feel like He dealt harshly with me.",
+          "weights": {
+            "naomi": 3
+          }
+        },
+        {
+          "text": "I keep coming to Him, even broken, even confused.",
+          "weights": {
+            "mary-and-martha": 3
+          }
+        },
+        {
+          "text": "I let Him sit close enough to see me cry.",
+          "weights": {
+            "jesus": 3
+          }
+        }
       ]
     },
     {
       "text": "When friends try to comfort you, you wish they'd...",
       "options": [
-        { "text": "Stop explaining my pain and just sit with me.", "weights": { "job": 3 } },
-        { "text": "Understand that I'm not the same person anymore.", "weights": { "naomi": 3 } },
-        { "text": "Let me fall apart instead of rushing me to be okay.", "weights": { "david": 3 } },
-        { "text": "Cry with me instead of trying to fix it.", "weights": { "jesus": 2, "mary-and-martha": 1 } }
+        {
+          "text": "Stop explaining my pain and just sit with me.",
+          "weights": {
+            "job": 3
+          }
+        },
+        {
+          "text": "Understand that I'm not the same person anymore.",
+          "weights": {
+            "naomi": 3
+          }
+        },
+        {
+          "text": "Let me fall apart instead of rushing me to be okay.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "Cry with me instead of trying to fix it.",
+          "weights": {
+            "jesus": 2,
+            "mary-and-martha": 1
+          }
+        }
       ]
     },
     {
       "text": "Which thought sneaks up on you most often?",
       "options": [
-        { "text": "I've lost so much I barely recognize my own life.", "weights": { "job": 3 } },
-        { "text": "Even my name feels wrong now. Call me something sadder.", "weights": { "naomi": 3 } },
-        { "text": "I'd give anything for one more day with them.", "weights": { "david": 3 } },
-        { "text": "I believe in resurrection, and I still ache today.", "weights": { "jesus": 3 } }
+        {
+          "text": "I've lost so much I barely recognize my own life.",
+          "weights": {
+            "job": 3
+          }
+        },
+        {
+          "text": "Even my name feels wrong now. Call me something sadder.",
+          "weights": {
+            "naomi": 3
+          }
+        },
+        {
+          "text": "I'd give anything for one more day with them.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "I believe in resurrection, and I still ache today.",
+          "weights": {
+            "jesus": 3
+          }
+        }
       ]
     },
     {
       "text": "Where do you find even a flicker of hope right now?",
       "options": [
-        { "text": "In trusting God is good even when I can't see it.", "weights": { "job": 3 } },
-        { "text": "Honestly, I'm still waiting for the hope to come back.", "weights": { "naomi": 3 } },
-        { "text": "In knowing I'll see them again, on the other side.", "weights": { "david": 3 } },
-        { "text": "In a Savior who knows loss because He cried over it too.", "weights": { "jesus": 2, "mary-and-martha": 1 } }
+        {
+          "text": "In trusting God is good even when I can't see it.",
+          "weights": {
+            "job": 3
+          }
+        },
+        {
+          "text": "Honestly, I'm still waiting for the hope to come back.",
+          "weights": {
+            "naomi": 3
+          }
+        },
+        {
+          "text": "In knowing I'll see them again, on the other side.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "In a Savior who knows loss because He cried over it too.",
+          "weights": {
+            "jesus": 2,
+            "mary-and-martha": 1
+          }
+        }
       ]
     },
     {
       "text": "If God spoke one sentence to you today, you'd want it to be...",
       "options": [
-        { "text": "I was there the whole time, even in the silence.", "weights": { "job": 3 } },
-        { "text": "Your story isn't over. I'm not finished writing it.", "weights": { "naomi": 3 } },
-        { "text": "They are safe with me now.", "weights": { "david": 3 } },
-        { "text": "I'm weeping with you, and I'm not leaving.", "weights": { "jesus": 2, "mary-and-martha": 1 } }
+        {
+          "text": "I was there the whole time, even in the silence.",
+          "weights": {
+            "job": 3
+          }
+        },
+        {
+          "text": "Your story isn't over. I'm not finished writing it.",
+          "weights": {
+            "naomi": 3
+          }
+        },
+        {
+          "text": "They are safe with me now.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "I'm weeping with you, and I'm not leaving.",
+          "weights": {
+            "jesus": 2,
+            "mary-and-martha": 1
+          }
+        }
       ]
     }
   ],
@@ -84,37 +248,77 @@
     "job": {
       "name": "Job (Lost Everything)",
       "emoji": "🌪️",
-      "traits": ["Shattered", "Honest", "Faithful"],
+      "traits": [
+        "Shattered",
+        "Honest",
+        "Faithful"
+      ],
       "description": "You've lost more than anyone should have to, and you haven't pretended otherwise. Like Job, you bring your raw questions straight to God instead of burying them. That isn't a lack of faith. It's the deepest kind. God never scolded Job for his honesty, and He met him in the storm. He sees every loss you're carrying, and He has not turned away.",
-      "scripture": { "text": "The Lord gave, and the Lord hath taken away; blessed be the name of the Lord.", "reference": "Job 1:21" }
+      "scripture": {
+        "text": "and he said, Naked came I out of my mother’s womb, and naked shall I return thither: Jehovah gave, and Jehovah hath taken away; blessed be the name of Jehovah.",
+        "reference": "Job 1:21",
+        "translation": "ASV"
+      }
     },
     "naomi": {
       "name": "Naomi (Turned Bitter)",
       "emoji": "🍂",
-      "traits": ["Emptied", "Aching", "Weary"],
+      "traits": [
+        "Emptied",
+        "Aching",
+        "Weary"
+      ],
       "description": "You came home from your loss feeling hollowed out, and bitterness crept in where joy used to live. Naomi felt it too. She even asked to be called Mara, which means bitter. But her story didn't end there. God was quietly working through her grief toward a redemption she couldn't yet see. Your emptiness is not the final chapter, and the One who renamed her can rewrite your story too.",
-      "scripture": { "text": "Call me not Naomi, call me Mara: for the Almighty hath dealt very bitterly with me.", "reference": "Ruth 1:20" }
+      "scripture": {
+        "text": "And she said unto them, Call me not Naomi, call me Mara; for the Almighty hath dealt very bitterly with me.",
+        "reference": "Ruth 1:20",
+        "translation": "ASV"
+      }
     },
     "david": {
       "name": "David (Wept for His Child)",
       "emoji": "💧",
-      "traits": ["Tender", "Broken", "Hopeful"],
+      "traits": [
+        "Tender",
+        "Broken",
+        "Hopeful"
+      ],
       "description": "You've wept the way David wept for his son, with your whole body, holding nothing back. You prayed, you pleaded, and still the loss came. But David rose with a quiet, aching hope: he could not bring his child back, yet he believed he would one day go to him. That same hope is yours. The ones you love are not gone forever, and reunion is real.",
-      "scripture": { "text": "I shall go to him, but he shall not return to me.", "reference": "2 Samuel 12:23" }
+      "scripture": {
+        "text": "But now he is dead, wherefore should I fast? can I bring him back again? I shall go to him, but he will not return to me.",
+        "reference": "2 Samuel 12:23",
+        "translation": "ASV"
+      }
     },
     "mary-and-martha": {
       "name": "Mary and Martha (Where Were You, Lord?)",
       "emoji": "🕯️",
-      "traits": ["Wounded", "Searching", "Believing"],
+      "traits": [
+        "Wounded",
+        "Searching",
+        "Believing"
+      ],
       "description": "Your grief carries a question: Lord, if you had been here, this wouldn't have happened. Mary and Martha said those exact words to Jesus, and He didn't rebuke them. He let them be honest, He wept with them, and then He showed them His glory in His own timing. Your confusion is welcome at His feet. He hasn't been absent, and He is closer to your sorrow than you know.",
-      "scripture": { "text": "Lord, if thou hadst been here, my brother had not died.", "reference": "John 11:21" }
+      "scripture": {
+        "text": "Martha therefore said unto Jesus, Lord, if thou hadst been here, my brother had not died.",
+        "reference": "John 11:21",
+        "translation": "ASV"
+      }
     },
     "jesus": {
       "name": "Jesus (Wept at the Tomb)",
       "emoji": "✝️",
-      "traits": ["Compassionate", "Grieving", "Faithful"],
+      "traits": [
+        "Compassionate",
+        "Grieving",
+        "Faithful"
+      ],
       "description": "You hold real hope and real heartbreak at the same time, and you let yourself cry even while you believe. That's exactly what Jesus did at the tomb of His friend. He knew resurrection was coming, and He still wept. Your tears don't cancel your faith. They look just like His. The God you grieve before is not distant from your pain. He has cried these same tears.",
-      "scripture": { "text": "Jesus wept.", "reference": "John 11:35" }
+      "scripture": {
+        "text": "Jesus wept.",
+        "reference": "John 11:35",
+        "translation": "ASV"
+      }
     }
   }
 }

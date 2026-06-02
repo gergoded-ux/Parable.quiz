@@ -19,91 +19,296 @@
     {
       "text": "Your phone buzzes with a vague text: \"Can we talk later?\" What happens first?",
       "options": [
-        { "text": "My mind jumps straight to the worst possible reason.", "weights": { "catastrophizer": 3 } },
-        { "text": "I reread it twenty times trying to decode the tone.", "weights": { "overthinker": 3 } },
-        { "text": "I start planning what I'll say to control the outcome.", "weights": { "controller": 2, "worst-case-planner": 1 } },
-        { "text": "I assume I did something wrong and rush to smooth it over.", "weights": { "people-pleaser": 3 } }
+        {
+          "text": "My mind jumps straight to the worst possible reason.",
+          "weights": {
+            "catastrophizer": 3
+          }
+        },
+        {
+          "text": "I reread it twenty times trying to decode the tone.",
+          "weights": {
+            "overthinker": 3
+          }
+        },
+        {
+          "text": "I start planning what I'll say to control the outcome.",
+          "weights": {
+            "controller": 2,
+            "worst-case-planner": 1
+          }
+        },
+        {
+          "text": "I assume I did something wrong and rush to smooth it over.",
+          "weights": {
+            "people-pleaser": 3
+          }
+        }
       ]
     },
     {
       "text": "When something feels uncertain, your gut move is to...",
       "options": [
-        { "text": "Brace for disaster, because disaster feels likely.", "weights": { "catastrophizer": 3 } },
-        { "text": "Analyze every angle until I've thought myself in circles.", "weights": { "overthinker": 3 } },
-        { "text": "Grab the wheel and manage every detail I can.", "weights": { "controller": 3 } },
-        { "text": "Put it off and hope it sorts itself out.", "weights": { "avoider": 3 } }
+        {
+          "text": "Brace for disaster, because disaster feels likely.",
+          "weights": {
+            "catastrophizer": 3
+          }
+        },
+        {
+          "text": "Analyze every angle until I've thought myself in circles.",
+          "weights": {
+            "overthinker": 3
+          }
+        },
+        {
+          "text": "Grab the wheel and manage every detail I can.",
+          "weights": {
+            "controller": 3
+          }
+        },
+        {
+          "text": "Put it off and hope it sorts itself out.",
+          "weights": {
+            "avoider": 3
+          }
+        }
       ]
     },
     {
       "text": "How does your anxiety usually show up to other people?",
       "options": [
-        { "text": "It mostly doesn't. I look calm and carry it alone.", "weights": { "silent-carrier": 3 } },
-        { "text": "I get visibly tense and start prepping for the worst.", "weights": { "worst-case-planner": 3 } },
-        { "text": "I get controlling and a little snappy about how things are done.", "weights": { "controller": 3 } },
-        { "text": "I overextend myself trying to keep everyone happy.", "weights": { "people-pleaser": 3 } }
+        {
+          "text": "It mostly doesn't. I look calm and carry it alone.",
+          "weights": {
+            "silent-carrier": 3
+          }
+        },
+        {
+          "text": "I get visibly tense and start prepping for the worst.",
+          "weights": {
+            "worst-case-planner": 3
+          }
+        },
+        {
+          "text": "I get controlling and a little snappy about how things are done.",
+          "weights": {
+            "controller": 3
+          }
+        },
+        {
+          "text": "I overextend myself trying to keep everyone happy.",
+          "weights": {
+            "people-pleaser": 3
+          }
+        }
       ]
     },
     {
       "text": "Before a big event, what are you actually doing?",
       "options": [
-        { "text": "Running every catastrophe that could go wrong.", "weights": { "catastrophizer": 3 } },
-        { "text": "Making contingency plans for problems that may never come.", "weights": { "worst-case-planner": 3 } },
-        { "text": "Rehearsing conversations over and over in my head.", "weights": { "overthinker": 3 } },
-        { "text": "Quietly dreading it and saying nothing.", "weights": { "silent-carrier": 3 } }
+        {
+          "text": "Running every catastrophe that could go wrong.",
+          "weights": {
+            "catastrophizer": 3
+          }
+        },
+        {
+          "text": "Making contingency plans for problems that may never come.",
+          "weights": {
+            "worst-case-planner": 3
+          }
+        },
+        {
+          "text": "Rehearsing conversations over and over in my head.",
+          "weights": {
+            "overthinker": 3
+          }
+        },
+        {
+          "text": "Quietly dreading it and saying nothing.",
+          "weights": {
+            "silent-carrier": 3
+          }
+        }
       ]
     },
     {
       "text": "When the fear gets loud, your body wants to...",
       "options": [
-        { "text": "Shut down or hide from the whole thing.", "weights": { "avoider": 3 } },
-        { "text": "Do something, anything, to feel in control again.", "weights": { "controller": 3 } },
-        { "text": "Keep it together so no one knows I'm struggling.", "weights": { "silent-carrier": 3 } },
-        { "text": "Make sure everyone around me is okay first.", "weights": { "people-pleaser": 3 } }
+        {
+          "text": "Shut down or hide from the whole thing.",
+          "weights": {
+            "avoider": 3
+          }
+        },
+        {
+          "text": "Do something, anything, to feel in control again.",
+          "weights": {
+            "controller": 3
+          }
+        },
+        {
+          "text": "Keep it together so no one knows I'm struggling.",
+          "weights": {
+            "silent-carrier": 3
+          }
+        },
+        {
+          "text": "Make sure everyone around me is okay first.",
+          "weights": {
+            "people-pleaser": 3
+          }
+        }
       ]
     },
     {
       "text": "Which thought visits you most at 2am?",
       "options": [
-        { "text": "\"What if the worst thing actually happens?\"", "weights": { "catastrophizer": 3 } },
-        { "text": "\"Did I say the wrong thing earlier?\"", "weights": { "overthinker": 2, "people-pleaser": 1 } },
-        { "text": "\"What's my plan if everything falls apart?\"", "weights": { "worst-case-planner": 3 } },
-        { "text": "\"I can't let anyone see how not-okay I am.\"", "weights": { "silent-carrier": 3 } }
+        {
+          "text": "\"What if the worst thing actually happens?\"",
+          "weights": {
+            "catastrophizer": 3
+          }
+        },
+        {
+          "text": "\"Did I say the wrong thing earlier?\"",
+          "weights": {
+            "overthinker": 2,
+            "people-pleaser": 1
+          }
+        },
+        {
+          "text": "\"What's my plan if everything falls apart?\"",
+          "weights": {
+            "worst-case-planner": 3
+          }
+        },
+        {
+          "text": "\"I can't let anyone see how not-okay I am.\"",
+          "weights": {
+            "silent-carrier": 3
+          }
+        }
       ]
     },
     {
       "text": "Someone offers to help you with what's stressing you. You...",
       "options": [
-        { "text": "Wave it off. I'd rather quietly handle it myself.", "weights": { "silent-carrier": 2, "controller": 1 } },
-        { "text": "Say yes but secretly redo it to my standard.", "weights": { "controller": 3 } },
-        { "text": "Feel guilty for being a burden and downplay it.", "weights": { "people-pleaser": 3 } },
-        { "text": "Avoid the conversation entirely.", "weights": { "avoider": 3 } }
+        {
+          "text": "Wave it off. I'd rather quietly handle it myself.",
+          "weights": {
+            "silent-carrier": 2,
+            "controller": 1
+          }
+        },
+        {
+          "text": "Say yes but secretly redo it to my standard.",
+          "weights": {
+            "controller": 3
+          }
+        },
+        {
+          "text": "Feel guilty for being a burden and downplay it.",
+          "weights": {
+            "people-pleaser": 3
+          }
+        },
+        {
+          "text": "Avoid the conversation entirely.",
+          "weights": {
+            "avoider": 3
+          }
+        }
       ]
     },
     {
       "text": "Your anxiety lies to you most often by saying...",
       "options": [
-        { "text": "\"It's all going to come crashing down.\"", "weights": { "catastrophizer": 3 } },
-        { "text": "\"If you just think harder, you'll feel safe.\"", "weights": { "overthinker": 3 } },
-        { "text": "\"If you control everything, nothing can hurt you.\"", "weights": { "controller": 3 } },
-        { "text": "\"If they're happy with you, you're safe.\"", "weights": { "people-pleaser": 3 } }
+        {
+          "text": "\"It's all going to come crashing down.\"",
+          "weights": {
+            "catastrophizer": 3
+          }
+        },
+        {
+          "text": "\"If you just think harder, you'll feel safe.\"",
+          "weights": {
+            "overthinker": 3
+          }
+        },
+        {
+          "text": "\"If you control everything, nothing can hurt you.\"",
+          "weights": {
+            "controller": 3
+          }
+        },
+        {
+          "text": "\"If they're happy with you, you're safe.\"",
+          "weights": {
+            "people-pleaser": 3
+          }
+        }
       ]
     },
     {
       "text": "When a decision is hanging over you, you tend to...",
       "options": [
-        { "text": "Stall and avoid it until it's almost too late.", "weights": { "avoider": 3 } },
-        { "text": "Map out every possible bad outcome and a backup for each.", "weights": { "worst-case-planner": 3 } },
-        { "text": "Loop through the options endlessly without landing.", "weights": { "overthinker": 3 } },
-        { "text": "Smile through it and bury how anxious I really am.", "weights": { "silent-carrier": 3 } }
+        {
+          "text": "Stall and avoid it until it's almost too late.",
+          "weights": {
+            "avoider": 3
+          }
+        },
+        {
+          "text": "Map out every possible bad outcome and a backup for each.",
+          "weights": {
+            "worst-case-planner": 3
+          }
+        },
+        {
+          "text": "Loop through the options endlessly without landing.",
+          "weights": {
+            "overthinker": 3
+          }
+        },
+        {
+          "text": "Smile through it and bury how anxious I really am.",
+          "weights": {
+            "silent-carrier": 3
+          }
+        }
       ]
     },
     {
       "text": "What would peace actually look like for you?",
       "options": [
-        { "text": "Trusting that even the worst case is held by God.", "weights": { "catastrophizer": 2, "worst-case-planner": 1 } },
-        { "text": "Letting a thought go without solving it first.", "weights": { "overthinker": 3 } },
-        { "text": "Opening my hands and letting God hold the outcome.", "weights": { "controller": 3 } },
-        { "text": "Letting someone see the weight I've been carrying alone.", "weights": { "silent-carrier": 2, "people-pleaser": 1 } }
+        {
+          "text": "Trusting that even the worst case is held by God.",
+          "weights": {
+            "catastrophizer": 2,
+            "worst-case-planner": 1
+          }
+        },
+        {
+          "text": "Letting a thought go without solving it first.",
+          "weights": {
+            "overthinker": 3
+          }
+        },
+        {
+          "text": "Opening my hands and letting God hold the outcome.",
+          "weights": {
+            "controller": 3
+          }
+        },
+        {
+          "text": "Letting someone see the weight I've been carrying alone.",
+          "weights": {
+            "silent-carrier": 2,
+            "people-pleaser": 1
+          }
+        }
       ]
     }
   ],
@@ -111,37 +316,65 @@
     "catastrophizer": {
       "name": "The Catastrophizer",
       "description": "Your mind sprints to the worst outcome before the facts are even in. It feels like preparation, but mostly it just makes you live the disaster twice. Here's the gentle next step: when the spiral starts, name one thing that's true right now. God holds even the worst case, and He's already there in the future you're dreading.",
-      "scripture": { "text": "Do not worry about tomorrow, for tomorrow will worry about itself.", "reference": "Matthew 6:34" }
+      "scripture": {
+        "text": "Be not therefore anxious for the morrow: for the morrow will be anxious for itself. Sufficient unto the day is the evil thereof.",
+        "reference": "Matthew 6:34",
+        "translation": "ASV"
+      }
     },
     "overthinker": {
       "name": "The Overthinker",
       "description": "You replay, rehearse, and analyze until you've thought yourself dizzy. The hard truth is that more thinking rarely brings the safety you're chasing. Try handing one looping thought to God on purpose and leaving it there. You don't have to solve everything to be okay.",
-      "scripture": { "text": "Cast all your anxiety on him because he cares for you.", "reference": "1 Peter 5:7" }
+      "scripture": {
+        "text": "casting all your anxiety upon him, because he careth for you.",
+        "reference": "1 Peter 5:7",
+        "translation": "ASV"
+      }
     },
     "controller": {
       "name": "The Controller",
       "description": "When fear rises, you reach for the wheel. If you can manage every detail, you reason, nothing can hurt you. But the grip is exhausting, and it was never really yours to hold. Practice opening your hands over one thing this week. Peace lives in trust, not in control.",
-      "scripture": { "text": "Trust in the Lord with all your heart and lean not on your own understanding.", "reference": "Proverbs 3:5" }
+      "scripture": {
+        "text": "Trust in Jehovah with all thy heart, And lean not upon thine own understanding:",
+        "reference": "Proverbs 3:5",
+        "translation": "ASV"
+      }
     },
     "people-pleaser": {
       "name": "The People-Pleaser",
       "description": "Your anxiety reads every room and rushes to keep everyone happy, because somewhere you learned that approval equals safety. But you can't earn enough yeses to quiet that fear. You already have the one approval that holds. Let God's view of you be louder than the crowd's.",
-      "scripture": { "text": "Am I now trying to win the approval of human beings, or of God?", "reference": "Galatians 1:10" }
+      "scripture": {
+        "text": "For am I now seeking the favor of men, or of God? or am I striving to please men? if I were still pleasing men, I should not be a servant of Christ.",
+        "reference": "Galatians 1:10",
+        "translation": "ASV"
+      }
     },
     "avoider": {
       "name": "The Avoider",
       "description": "When something feels too big, you go quiet and hope it disappears. Avoidance buys a little relief, then hands you a bigger bill later. You don't have to face the whole thing at once. Take one small, honest step toward what you've been dodging, and bring God into it.",
-      "scripture": { "text": "God has not given us a spirit of fear, but of power and of love and of a sound mind.", "reference": "2 Timothy 1:7" }
+      "scripture": {
+        "text": "For God gave us not a spirit of fearfulness; but of power and love and discipline.",
+        "reference": "2 Timothy 1:7",
+        "translation": "ASV"
+      }
     },
     "worst-case-planner": {
       "name": "The Worst-Case Planner",
       "description": "You feel safest with a backup plan for every disaster, so you're always quietly bracing. Planning isn't the enemy, but living in the contingency steals today. You can prepare wisely and still rest. Some of the safety you're building, God is already providing.",
-      "scripture": { "text": "When I am afraid, I put my trust in you.", "reference": "Psalm 56:3" }
+      "scripture": {
+        "text": "What time I am afraid, I will put my trust in thee.",
+        "reference": "Psalm 56:3",
+        "translation": "ASV"
+      }
     },
     "silent-carrier": {
       "name": "The Silent Carrier",
       "description": "You look calm on the outside while carrying a storm no one sees. You've gotten good at \"I'm fine,\" but carrying it alone is its own kind of heavy. Let one safe person see the real weight this week. You were never meant to hold all of it by yourself.",
-      "scripture": { "text": "Come to me, all you who are weary and burdened, and I will give you rest.", "reference": "Matthew 11:28" }
+      "scripture": {
+        "text": "Come unto me, all ye that labor and are heavy laden, and I will give you rest.",
+        "reference": "Matthew 11:28",
+        "translation": "ASV"
+      }
     }
   }
 }

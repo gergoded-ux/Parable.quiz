@@ -17,82 +17,264 @@
     {
       "text": "What's the first thing you reach for when you feel anything uncomfortable?",
       "options": [
-        { "text": "My phone. I unlock it before I even decide to.", "weights": { "the-phone": 3 } },
-        { "text": "Something to eat or drink, even if I'm not hungry.", "weights": { "the-snack-comfort": 3 } },
-        { "text": "A feed to scroll and disappear into.", "weights": { "the-scroll-compare": 3 } },
-        { "text": "My one go-to escape that numbs it all out.", "weights": { "the-escape-vice": 3 } }
+        {
+          "text": "My phone. I unlock it before I even decide to.",
+          "weights": {
+            "the-phone": 3
+          }
+        },
+        {
+          "text": "Something to eat or drink, even if I'm not hungry.",
+          "weights": {
+            "the-snack-comfort": 3
+          }
+        },
+        {
+          "text": "A feed to scroll and disappear into.",
+          "weights": {
+            "the-scroll-compare": 3
+          }
+        },
+        {
+          "text": "My one go-to escape that numbs it all out.",
+          "weights": {
+            "the-escape-vice": 3
+          }
+        }
       ]
     },
     {
       "text": "Which habit do you secretly suspect has too much hold on you?",
       "options": [
-        { "text": "How much I check, tap, and refresh my phone.", "weights": { "the-phone": 3 } },
-        { "text": "How often I turn to food for comfort.", "weights": { "the-snack-comfort": 3 } },
-        { "text": "How long I scroll and compare my life to others.", "weights": { "the-scroll-compare": 3 } },
-        { "text": "How hard I work to avoid sitting still.", "weights": { "the-overwork": 3 } }
+        {
+          "text": "How much I check, tap, and refresh my phone.",
+          "weights": {
+            "the-phone": 3
+          }
+        },
+        {
+          "text": "How often I turn to food for comfort.",
+          "weights": {
+            "the-snack-comfort": 3
+          }
+        },
+        {
+          "text": "How long I scroll and compare my life to others.",
+          "weights": {
+            "the-scroll-compare": 3
+          }
+        },
+        {
+          "text": "How hard I work to avoid sitting still.",
+          "weights": {
+            "the-overwork": 3
+          }
+        }
       ]
     },
     {
       "text": "When you have an unexpected free hour, you usually...",
       "options": [
-        { "text": "Lose it to my phone without meaning to.", "weights": { "the-phone": 3 } },
-        { "text": "End up snacking or grazing in the kitchen.", "weights": { "the-snack-comfort": 3 } },
-        { "text": "Fall into a scroll-and-compare hole.", "weights": { "the-scroll-compare": 3 } },
-        { "text": "Fill it with more work, because rest feels wrong.", "weights": { "the-overwork": 3 } }
+        {
+          "text": "Lose it to my phone without meaning to.",
+          "weights": {
+            "the-phone": 3
+          }
+        },
+        {
+          "text": "End up snacking or grazing in the kitchen.",
+          "weights": {
+            "the-snack-comfort": 3
+          }
+        },
+        {
+          "text": "Fall into a scroll-and-compare hole.",
+          "weights": {
+            "the-scroll-compare": 3
+          }
+        },
+        {
+          "text": "Fill it with more work, because rest feels wrong.",
+          "weights": {
+            "the-overwork": 3
+          }
+        }
       ]
     },
     {
       "text": "What does this habit usually cost you?",
       "options": [
-        { "text": "Hours I can't account for and a fried attention span.", "weights": { "the-phone": 3 } },
-        { "text": "A heaviness, and guilt I'd rather not feel.", "weights": { "the-snack-comfort": 3 } },
-        { "text": "My joy, because I always come away feeling behind.", "weights": { "the-scroll-compare": 3 } },
-        { "text": "My peace, my rest, and the people I keep putting off.", "weights": { "the-overwork": 2, "the-escape-vice": 1 } }
+        {
+          "text": "Hours I can't account for and a fried attention span.",
+          "weights": {
+            "the-phone": 3
+          }
+        },
+        {
+          "text": "A heaviness, and guilt I'd rather not feel.",
+          "weights": {
+            "the-snack-comfort": 3
+          }
+        },
+        {
+          "text": "My joy, because I always come away feeling behind.",
+          "weights": {
+            "the-scroll-compare": 3
+          }
+        },
+        {
+          "text": "My peace, my rest, and the people I keep putting off.",
+          "weights": {
+            "the-overwork": 2,
+            "the-escape-vice": 1
+          }
+        }
       ]
     },
     {
       "text": "What's the feeling underneath the habit, if you're honest?",
       "options": [
-        { "text": "Restlessness. I can't stand being unstimulated.", "weights": { "the-phone": 3 } },
-        { "text": "A craving for comfort when I feel empty.", "weights": { "the-snack-comfort": 3 } },
-        { "text": "A fear that I'm not measuring up.", "weights": { "the-scroll-compare": 3 } },
-        { "text": "A need to numb out and not feel anything.", "weights": { "the-escape-vice": 3 } }
+        {
+          "text": "Restlessness. I can't stand being unstimulated.",
+          "weights": {
+            "the-phone": 3
+          }
+        },
+        {
+          "text": "A craving for comfort when I feel empty.",
+          "weights": {
+            "the-snack-comfort": 3
+          }
+        },
+        {
+          "text": "A fear that I'm not measuring up.",
+          "weights": {
+            "the-scroll-compare": 3
+          }
+        },
+        {
+          "text": "A need to numb out and not feel anything.",
+          "weights": {
+            "the-escape-vice": 3
+          }
+        }
       ]
     },
     {
       "text": "When you try to cut back, what happens?",
       "options": [
-        { "text": "I last a few hours, then I'm tapping it again.", "weights": { "the-phone": 3 } },
-        { "text": "I do fine until stress hits, then I cave.", "weights": { "the-snack-comfort": 3 } },
-        { "text": "I delete the app, then reinstall it within days.", "weights": { "the-scroll-compare": 3 } },
-        { "text": "I just bury myself in being productive instead.", "weights": { "the-overwork": 3 } }
+        {
+          "text": "I last a few hours, then I'm tapping it again.",
+          "weights": {
+            "the-phone": 3
+          }
+        },
+        {
+          "text": "I do fine until stress hits, then I cave.",
+          "weights": {
+            "the-snack-comfort": 3
+          }
+        },
+        {
+          "text": "I delete the app, then reinstall it within days.",
+          "weights": {
+            "the-scroll-compare": 3
+          }
+        },
+        {
+          "text": "I just bury myself in being productive instead.",
+          "weights": {
+            "the-overwork": 3
+          }
+        }
       ]
     },
     {
       "text": "Which thought sounds most like yours?",
       "options": [
-        { "text": "\"I'd be lost without my phone in my hand.\"", "weights": { "the-phone": 3 } },
-        { "text": "\"Food is the one thing that reliably soothes me.\"", "weights": { "the-snack-comfort": 3 } },
-        { "text": "\"Everyone else is doing better than I am.\"", "weights": { "the-scroll-compare": 3 } },
-        { "text": "\"If I stop moving, I'll have to feel things.\"", "weights": { "the-escape-vice": 2, "the-overwork": 1 } }
+        {
+          "text": "\"I'd be lost without my phone in my hand.\"",
+          "weights": {
+            "the-phone": 3
+          }
+        },
+        {
+          "text": "\"Food is the one thing that reliably soothes me.\"",
+          "weights": {
+            "the-snack-comfort": 3
+          }
+        },
+        {
+          "text": "\"Everyone else is doing better than I am.\"",
+          "weights": {
+            "the-scroll-compare": 3
+          }
+        },
+        {
+          "text": "\"If I stop moving, I'll have to feel things.\"",
+          "weights": {
+            "the-escape-vice": 2,
+            "the-overwork": 1
+          }
+        }
       ]
     },
     {
       "text": "Where does this habit quietly take God's place?",
       "options": [
-        { "text": "It's the first thing I turn to, before prayer ever.", "weights": { "the-phone": 3 } },
-        { "text": "I run to it for comfort instead of running to Him.", "weights": { "the-snack-comfort": 3 } },
-        { "text": "I look to it for my worth instead of to Him.", "weights": { "the-scroll-compare": 3 } },
-        { "text": "I trust my own effort more than I trust Him.", "weights": { "the-overwork": 3 } }
+        {
+          "text": "It's the first thing I turn to, before prayer ever.",
+          "weights": {
+            "the-phone": 3
+          }
+        },
+        {
+          "text": "I run to it for comfort instead of running to Him.",
+          "weights": {
+            "the-snack-comfort": 3
+          }
+        },
+        {
+          "text": "I look to it for my worth instead of to Him.",
+          "weights": {
+            "the-scroll-compare": 3
+          }
+        },
+        {
+          "text": "I trust my own effort more than I trust Him.",
+          "weights": {
+            "the-overwork": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you most want freedom from?",
       "options": [
-        { "text": "The constant pull of the screen.", "weights": { "the-phone": 3 } },
-        { "text": "Using comfort to fill a hole only God can.", "weights": { "the-snack-comfort": 3 } },
-        { "text": "Measuring my life against everyone else's.", "weights": { "the-scroll-compare": 3 } },
-        { "text": "Whatever I use to escape instead of facing things.", "weights": { "the-escape-vice": 3 } }
+        {
+          "text": "The constant pull of the screen.",
+          "weights": {
+            "the-phone": 3
+          }
+        },
+        {
+          "text": "Using comfort to fill a hole only God can.",
+          "weights": {
+            "the-snack-comfort": 3
+          }
+        },
+        {
+          "text": "Measuring my life against everyone else's.",
+          "weights": {
+            "the-scroll-compare": 3
+          }
+        },
+        {
+          "text": "Whatever I use to escape instead of facing things.",
+          "weights": {
+            "the-escape-vice": 3
+          }
+        }
       ]
     }
   ],
@@ -100,27 +282,47 @@
     "the-phone": {
       "name": "The Phone",
       "description": "It's the first thing you reach for and the last thing you put down, and it eats hours you can't even account for. The phone isn't evil, but right now it's running the show, filling every quiet moment before your soul can. Try this: leave it in another room for one stretch each day and let yourself feel the restlessness. That itch is your heart asking for something deeper than a screen. The stillness you're avoiding is exactly where God tends to meet you.",
-      "scripture": { "text": "Be still, and know that I am God.", "reference": "Psalm 46:10" }
+      "scripture": {
+        "text": "Be still, and know that I am God: I will be exalted among the nations, I will be exalted in the earth.",
+        "reference": "Psalm 46:10",
+        "translation": "ASV"
+      }
     },
     "the-snack-comfort": {
       "name": "The Snack/Comfort",
       "description": "When the day gets heavy, you reach for something to eat, not out of hunger but for comfort. There's no shame in that, and you're not weak for it. But food can only ever fill the stomach, never the deeper emptiness underneath. The next time you feel the pull, pause and ask what you're really hungry for. Often it's comfort, rest, or peace that only God can give. Let the craving become a prompt to turn to the One who actually satisfies the soul.",
-      "scripture": { "text": "I am the bread of life. Whoever comes to me will never go hungry.", "reference": "John 6:35" }
+      "scripture": {
+        "text": "Jesus said unto them, I am the bread of life: he that cometh to me shall not hunger, and he that believeth on me shall never thirst.",
+        "reference": "John 6:35",
+        "translation": "ASV"
+      }
     },
     "the-scroll-compare": {
       "name": "The Scroll-Compare",
       "description": "You scroll, you compare, and you come away feeling smaller every time, yet you keep going back. The feed has quietly become the mirror you check your worth in, and it always tells you you're behind. But you're holding your real life up against everyone's highlight reel, and that game is rigged to make you lose. Your value was never up for a vote online. Set the comparison down and let God's view of you be the loudest voice. You're not behind. You're His.",
-      "scripture": { "text": "Each one should test their own actions ... without comparing themselves to someone else.", "reference": "Galatians 6:4" }
+      "scripture": {
+        "text": "But let each man prove his own work, and then shall he have his glorying in regard of himself alone, and not of his neighbor.",
+        "reference": "Galatians 6:4",
+        "translation": "ASV"
+      }
     },
     "the-escape-vice": {
       "name": "The Escape Vice",
       "description": "You've got one reliable way to check out, to numb whatever you don't want to feel. It works for a moment, then leaves you a little more stuck than before. The thing you're escaping doesn't shrink while you hide from it. Here's the gentler path: bring the hard feeling to God instead of burying it. He doesn't flinch at what you're carrying, and He offers a real rest the escape only imitates. You don't have to numb out to survive. You can be held instead.",
-      "scripture": { "text": "Cast all your anxiety on him because he cares for you.", "reference": "1 Peter 5:7" }
+      "scripture": {
+        "text": "casting all your anxiety upon him, because he careth for you.",
+        "reference": "1 Peter 5:7",
+        "translation": "ASV"
+      }
     },
     "the-overwork": {
       "name": "The Overwork",
       "description": "You stay busy because stillness feels unbearable, and somewhere you started believing your worth is your output. So you keep producing, keep proving, and call it responsibility. But God never asked you to earn your place by exhausting yourself. He built rest into the very rhythm of creation and invites you into it. Your value isn't your productivity. Practice stopping on purpose, even when it feels lazy, and let yourself be loved for who you are, not what you get done.",
-      "scripture": { "text": "Come to me, all you who are weary and burdened, and I will give you rest.", "reference": "Matthew 11:28" }
+      "scripture": {
+        "text": "Come unto me, all ye that labor and are heavy laden, and I will give you rest.",
+        "reference": "Matthew 11:28",
+        "translation": "ASV"
+      }
     }
   }
 }

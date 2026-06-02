@@ -6,87 +6,276 @@
   "category": "spiritual-profile",
   "estimatedMinutes": 5,
   "mode": "profile",
-  "dimensions": ["gods-nudge", "your-own-desire", "healthy-mix", "too-tangled"],
+  "dimensions": [
+    "gods-nudge",
+    "your-own-desire",
+    "healthy-mix",
+    "too-tangled"
+  ],
   "questions": [
     {
       "text": "When this idea first showed up, how did it arrive?",
       "options": [
-        { "text": "Quietly, almost out of nowhere, and it has not left since.", "weights": { "gods-nudge": 2 } },
-        { "text": "I wanted it for a while, and then I started calling it a calling.", "weights": { "your-own-desire": 2 } },
-        { "text": "A little of both. I wanted it, and the timing felt strangely set up.", "weights": { "healthy-mix": 2 } },
-        { "text": "Honestly I cannot tell anymore. It is all blurred together.", "weights": { "too-tangled": 2 } }
+        {
+          "text": "Quietly, almost out of nowhere, and it has not left since.",
+          "weights": {
+            "gods-nudge": 2
+          }
+        },
+        {
+          "text": "I wanted it for a while, and then I started calling it a calling.",
+          "weights": {
+            "your-own-desire": 2
+          }
+        },
+        {
+          "text": "A little of both. I wanted it, and the timing felt strangely set up.",
+          "weights": {
+            "healthy-mix": 2
+          }
+        },
+        {
+          "text": "Honestly I cannot tell anymore. It is all blurred together.",
+          "weights": {
+            "too-tangled": 2
+          }
+        }
       ]
     },
     {
       "text": "Does this nudge line up with what Scripture already says?",
       "options": [
-        { "text": "Yes. It fits everything I already know God asks of me.", "weights": { "gods-nudge": 2, "healthy-mix": 1 } },
-        { "text": "Mostly, though I have to do some stretching to make it fit.", "weights": { "your-own-desire": 2 } },
-        { "text": "It fits the spirit of Scripture, and it asks something of me too.", "weights": { "healthy-mix": 2 } },
-        { "text": "I have not actually checked. I just feel strongly about it.", "weights": { "too-tangled": 2 } }
+        {
+          "text": "Yes. It fits everything I already know God asks of me.",
+          "weights": {
+            "gods-nudge": 2,
+            "healthy-mix": 1
+          }
+        },
+        {
+          "text": "Mostly, though I have to do some stretching to make it fit.",
+          "weights": {
+            "your-own-desire": 2
+          }
+        },
+        {
+          "text": "It fits the spirit of Scripture, and it asks something of me too.",
+          "weights": {
+            "healthy-mix": 2
+          }
+        },
+        {
+          "text": "I have not actually checked. I just feel strongly about it.",
+          "weights": {
+            "too-tangled": 2
+          }
+        }
       ]
     },
     {
       "text": "What happens in your gut when you sit quietly and pray about it?",
       "options": [
-        { "text": "A steady peace, even when the answer is not what I wanted.", "weights": { "gods-nudge": 2 } },
-        { "text": "A rush of excitement that fades the second I stop daydreaming.", "weights": { "your-own-desire": 2 } },
-        { "text": "Peace and a few honest questions sitting side by side.", "weights": { "healthy-mix": 2 } },
-        { "text": "Static. Some days yes, some days no, no settled answer.", "weights": { "too-tangled": 2 } }
+        {
+          "text": "A steady peace, even when the answer is not what I wanted.",
+          "weights": {
+            "gods-nudge": 2
+          }
+        },
+        {
+          "text": "A rush of excitement that fades the second I stop daydreaming.",
+          "weights": {
+            "your-own-desire": 2
+          }
+        },
+        {
+          "text": "Peace and a few honest questions sitting side by side.",
+          "weights": {
+            "healthy-mix": 2
+          }
+        },
+        {
+          "text": "Static. Some days yes, some days no, no settled answer.",
+          "weights": {
+            "too-tangled": 2
+          }
+        }
       ]
     },
     {
       "text": "Whose voice are you most afraid this might really be?",
       "options": [
-        { "text": "No fear here. I have tested it and it holds up.", "weights": { "gods-nudge": 2 } },
-        { "text": "My own wanting, dressed up in spiritual language.", "weights": { "your-own-desire": 2, "too-tangled": 1 } },
-        { "text": "I am not afraid, but I keep it open to correction.", "weights": { "healthy-mix": 2 } },
-        { "text": "I genuinely do not know, and that is the hard part.", "weights": { "too-tangled": 2 } }
+        {
+          "text": "No fear here. I have tested it and it holds up.",
+          "weights": {
+            "gods-nudge": 2
+          }
+        },
+        {
+          "text": "My own wanting, dressed up in spiritual language.",
+          "weights": {
+            "your-own-desire": 2,
+            "too-tangled": 1
+          }
+        },
+        {
+          "text": "I am not afraid, but I keep it open to correction.",
+          "weights": {
+            "healthy-mix": 2
+          }
+        },
+        {
+          "text": "I genuinely do not know, and that is the hard part.",
+          "weights": {
+            "too-tangled": 2
+          }
+        }
       ]
     },
     {
       "text": "When you brought it to wise people you trust, what did they say?",
       "options": [
-        { "text": "They confirmed it without me even hinting at the answer I hoped for.", "weights": { "gods-nudge": 2 } },
-        { "text": "I have not asked anyone. I am a little scared of what they will say.", "weights": { "your-own-desire": 2, "too-tangled": 1 } },
-        { "text": "They saw both the good in it and a couple of things to watch.", "weights": { "healthy-mix": 2 } },
-        { "text": "I got mixed answers and now I am more confused than before.", "weights": { "too-tangled": 2 } }
+        {
+          "text": "They confirmed it without me even hinting at the answer I hoped for.",
+          "weights": {
+            "gods-nudge": 2
+          }
+        },
+        {
+          "text": "I have not asked anyone. I am a little scared of what they will say.",
+          "weights": {
+            "your-own-desire": 2,
+            "too-tangled": 1
+          }
+        },
+        {
+          "text": "They saw both the good in it and a couple of things to watch.",
+          "weights": {
+            "healthy-mix": 2
+          }
+        },
+        {
+          "text": "I got mixed answers and now I am more confused than before.",
+          "weights": {
+            "too-tangled": 2
+          }
+        }
       ]
     },
     {
       "text": "Would you still want this if it cost you comfort, money, or applause?",
       "options": [
-        { "text": "Yes. Even if it costs me, I cannot shake the sense I should do it.", "weights": { "gods-nudge": 2 } },
-        { "text": "If I am honest, a lot of the appeal is what I would gain.", "weights": { "your-own-desire": 2 } },
-        { "text": "I would, though I would feel the cost and have to choose it again.", "weights": { "healthy-mix": 2 } },
-        { "text": "I cannot separate the calling from the perks well enough to say.", "weights": { "too-tangled": 2 } }
+        {
+          "text": "Yes. Even if it costs me, I cannot shake the sense I should do it.",
+          "weights": {
+            "gods-nudge": 2
+          }
+        },
+        {
+          "text": "If I am honest, a lot of the appeal is what I would gain.",
+          "weights": {
+            "your-own-desire": 2
+          }
+        },
+        {
+          "text": "I would, though I would feel the cost and have to choose it again.",
+          "weights": {
+            "healthy-mix": 2
+          }
+        },
+        {
+          "text": "I cannot separate the calling from the perks well enough to say.",
+          "weights": {
+            "too-tangled": 2
+          }
+        }
       ]
     },
     {
       "text": "How urgent does it feel to act right now?",
       "options": [
-        { "text": "There is a holy steadiness to it. No panic, just clarity.", "weights": { "gods-nudge": 2 } },
-        { "text": "Very urgent. If I wait, I am scared the chance will vanish.", "weights": { "your-own-desire": 2 } },
-        { "text": "I feel the pull, but I am comfortable waiting for confirmation.", "weights": { "healthy-mix": 2, "gods-nudge": 1 } },
-        { "text": "It swings between now-or-never and total fog.", "weights": { "too-tangled": 2 } }
+        {
+          "text": "There is a holy steadiness to it. No panic, just clarity.",
+          "weights": {
+            "gods-nudge": 2
+          }
+        },
+        {
+          "text": "Very urgent. If I wait, I am scared the chance will vanish.",
+          "weights": {
+            "your-own-desire": 2
+          }
+        },
+        {
+          "text": "I feel the pull, but I am comfortable waiting for confirmation.",
+          "weights": {
+            "healthy-mix": 2,
+            "gods-nudge": 1
+          }
+        },
+        {
+          "text": "It swings between now-or-never and total fog.",
+          "weights": {
+            "too-tangled": 2
+          }
+        }
       ]
     },
     {
       "text": "If God said no to this, how would you take it?",
       "options": [
-        { "text": "I would trust Him. The peace matters more than the outcome.", "weights": { "gods-nudge": 2 } },
-        { "text": "I would be crushed, and probably look for a workaround.", "weights": { "your-own-desire": 2 } },
-        { "text": "Disappointed, but I would believe He sees something I do not.", "weights": { "healthy-mix": 2 } },
-        { "text": "I would not even know if it was really Him saying no.", "weights": { "too-tangled": 2 } }
+        {
+          "text": "I would trust Him. The peace matters more than the outcome.",
+          "weights": {
+            "gods-nudge": 2
+          }
+        },
+        {
+          "text": "I would be crushed, and probably look for a workaround.",
+          "weights": {
+            "your-own-desire": 2
+          }
+        },
+        {
+          "text": "Disappointed, but I would believe He sees something I do not.",
+          "weights": {
+            "healthy-mix": 2
+          }
+        },
+        {
+          "text": "I would not even know if it was really Him saying no.",
+          "weights": {
+            "too-tangled": 2
+          }
+        }
       ]
     },
     {
       "text": "What are you actually asking God for in all this?",
       "options": [
-        { "text": "Courage to obey what I already sense He is asking.", "weights": { "gods-nudge": 2 } },
-        { "text": "A green light for the thing I have already decided I want.", "weights": { "your-own-desire": 2 } },
-        { "text": "Wisdom to keep good desires and His leading in step.", "weights": { "healthy-mix": 2 } },
-        { "text": "Just some clarity. Anything to cut through the noise.", "weights": { "too-tangled": 2 } }
+        {
+          "text": "Courage to obey what I already sense He is asking.",
+          "weights": {
+            "gods-nudge": 2
+          }
+        },
+        {
+          "text": "A green light for the thing I have already decided I want.",
+          "weights": {
+            "your-own-desire": 2
+          }
+        },
+        {
+          "text": "Wisdom to keep good desires and His leading in step.",
+          "weights": {
+            "healthy-mix": 2
+          }
+        },
+        {
+          "text": "Just some clarity. Anything to cut through the noise.",
+          "weights": {
+            "too-tangled": 2
+          }
+        }
       ]
     }
   ],
@@ -94,22 +283,38 @@
     "gods-nudge": {
       "name": "Mostly God's Nudge",
       "description": "This one is carrying the marks of God's leading. It is steady, it survives your hardest questions, and the peace stays put even when the outcome is uncertain. Keep walking slowly and keep listening, but you can trust what you are sensing.",
-      "scripture": { "text": "Your ears shall hear a word behind you, saying, This is the way, walk ye in it.", "reference": "Isaiah 30:21" }
+      "scripture": {
+        "text": "and thine ears shall hear a word behind thee, saying, This is the way, walk ye in it; when ye turn to the right hand, and when ye turn to the left.",
+        "reference": "Isaiah 30:21",
+        "translation": "ASV"
+      }
     },
     "your-own-desire": {
       "name": "Mostly Your Own Desire",
       "description": "There is nothing shameful about wanting something. God gave you desires on purpose. But right now this looks more like your wish than His voice, and that is okay to admit. Hold it open, bring it into the light, and let Him reshape it before you run.",
-      "scripture": { "text": "Delight thyself also in the Lord; and he shall give thee the desires of thine heart.", "reference": "Psalm 37:4" }
+      "scripture": {
+        "text": "Delight thyself also in Jehovah; And he will give thee the desires of thy heart.",
+        "reference": "Psalm 37:4",
+        "translation": "ASV"
+      }
     },
     "healthy-mix": {
       "name": "A Healthy Mix",
       "description": "Your desire and God's leading seem to be moving together, which is actually a beautiful place to be. You are excited and still teachable. Keep that posture. Take the next small step, stay open to a redirect, and trust Him to close the door if it needs closing.",
-      "scripture": { "text": "Commit thy works unto the Lord, and thy thoughts shall be established.", "reference": "Proverbs 16:3" }
+      "scripture": {
+        "text": "Commit thy works unto Jehovah, And thy purposes shall be established.",
+        "reference": "Proverbs 16:3",
+        "translation": "ASV"
+      }
     },
     "too-tangled": {
       "name": "Too Tangled to Tell Yet",
       "description": "You cannot read the signal clearly right now, and forcing a decision in the fog usually makes it worse. That is not a failure. It is an invitation to slow down. Get quiet, bring in one or two wise voices, and let the urgency settle before you choose anything.",
-      "scripture": { "text": "If any of you lack wisdom, let him ask of God, that giveth to all men liberally.", "reference": "James 1:5" }
+      "scripture": {
+        "text": "But if any of you lacketh wisdom, let him ask of God, who giveth to all liberally and upbraideth not; and it shall be given him.",
+        "reference": "James 1:5",
+        "translation": "ASV"
+      }
     }
   }
 }

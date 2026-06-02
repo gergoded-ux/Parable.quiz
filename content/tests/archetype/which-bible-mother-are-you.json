@@ -10,82 +10,264 @@
     {
       "text": "What's the prayer you whisper over your kids most often?",
       "options": [
-        { "text": "\"God, I'm giving them back to You. Use their lives.\"", "weights": { "hannah": 3 } },
-        { "text": "\"Keep them safe when I can't be there to protect them.\"", "weights": { "jochebed": 3 } },
-        { "text": "\"Whatever You're doing in them, I surrender to it.\"", "weights": { "mary": 3 } },
-        { "text": "\"Let the faith I'm teaching them really take root.\"", "weights": { "eunice": 3 } }
+        {
+          "text": "\"God, I'm giving them back to You. Use their lives.\"",
+          "weights": {
+            "hannah": 3
+          }
+        },
+        {
+          "text": "\"Keep them safe when I can't be there to protect them.\"",
+          "weights": {
+            "jochebed": 3
+          }
+        },
+        {
+          "text": "\"Whatever You're doing in them, I surrender to it.\"",
+          "weights": {
+            "mary": 3
+          }
+        },
+        {
+          "text": "\"Let the faith I'm teaching them really take root.\"",
+          "weights": {
+            "eunice": 3
+          }
+        }
       ]
     },
     {
       "text": "How would those closest to you describe your mothering?",
       "options": [
-        { "text": "Always praying, always bringing the family to God first.", "weights": { "hannah": 3 } },
-        { "text": "Fiercely protective, willing to do hard things for my kids.", "weights": { "jochebed": 3 } },
-        { "text": "The steady, wise one others lean on for guidance.", "weights": { "naomi": 3 } },
-        { "text": "The one who never stops teaching and pointing to truth.", "weights": { "eunice": 3 } }
+        {
+          "text": "Always praying, always bringing the family to God first.",
+          "weights": {
+            "hannah": 3
+          }
+        },
+        {
+          "text": "Fiercely protective, willing to do hard things for my kids.",
+          "weights": {
+            "jochebed": 3
+          }
+        },
+        {
+          "text": "The steady, wise one others lean on for guidance.",
+          "weights": {
+            "naomi": 3
+          }
+        },
+        {
+          "text": "The one who never stops teaching and pointing to truth.",
+          "weights": {
+            "eunice": 3
+          }
+        }
       ]
     },
     {
       "text": "What's the hardest part of this season of motherhood for you?",
       "options": [
-        { "text": "Trusting God with a child I desperately want good things for.", "weights": { "hannah": 3 } },
-        { "text": "Feeling like I can't shield them from a scary world.", "weights": { "jochebed": 3 } },
-        { "text": "Surrendering plans for them that didn't go the way I hoped.", "weights": { "mary": 3 } },
-        { "text": "Walking through grief or loss while still showing up for them.", "weights": { "naomi": 3 } }
+        {
+          "text": "Trusting God with a child I desperately want good things for.",
+          "weights": {
+            "hannah": 3
+          }
+        },
+        {
+          "text": "Feeling like I can't shield them from a scary world.",
+          "weights": {
+            "jochebed": 3
+          }
+        },
+        {
+          "text": "Surrendering plans for them that didn't go the way I hoped.",
+          "weights": {
+            "mary": 3
+          }
+        },
+        {
+          "text": "Walking through grief or loss while still showing up for them.",
+          "weights": {
+            "naomi": 3
+          }
+        }
       ]
     },
     {
       "text": "Which moment sounds the most like you?",
       "options": [
-        { "text": "Pouring my heart out to God for my child, tears and all.", "weights": { "hannah": 3 } },
-        { "text": "Making a bold, risky choice to keep my child safe.", "weights": { "jochebed": 3 } },
-        { "text": "Quietly treasuring a moment and keeping it in my heart.", "weights": { "mary": 3 } },
-        { "text": "Mentoring a younger woman or guiding family through hardship.", "weights": { "naomi": 3 } }
+        {
+          "text": "Pouring my heart out to God for my child, tears and all.",
+          "weights": {
+            "hannah": 3
+          }
+        },
+        {
+          "text": "Making a bold, risky choice to keep my child safe.",
+          "weights": {
+            "jochebed": 3
+          }
+        },
+        {
+          "text": "Quietly treasuring a moment and keeping it in my heart.",
+          "weights": {
+            "mary": 3
+          }
+        },
+        {
+          "text": "Mentoring a younger woman or guiding family through hardship.",
+          "weights": {
+            "naomi": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you most want your kids to carry into adulthood?",
       "options": [
-        { "text": "That I trusted God with them more than I clung to control.", "weights": { "hannah": 2, "mary": 1 } },
-        { "text": "That I'd do absolutely anything to protect them.", "weights": { "jochebed": 3 } },
-        { "text": "Wisdom, and a sense that family sticks together.", "weights": { "naomi": 3 } },
-        { "text": "A faith of their own, passed down generation to generation.", "weights": { "eunice": 3 } }
+        {
+          "text": "That I trusted God with them more than I clung to control.",
+          "weights": {
+            "hannah": 2,
+            "mary": 1
+          }
+        },
+        {
+          "text": "That I'd do absolutely anything to protect them.",
+          "weights": {
+            "jochebed": 3
+          }
+        },
+        {
+          "text": "Wisdom, and a sense that family sticks together.",
+          "weights": {
+            "naomi": 3
+          }
+        },
+        {
+          "text": "A faith of their own, passed down generation to generation.",
+          "weights": {
+            "eunice": 3
+          }
+        }
       ]
     },
     {
       "text": "When God asks something hard of you as a mom, how do you respond?",
       "options": [
-        { "text": "I dedicate it back to Him in prayer, even when it costs me.", "weights": { "hannah": 3 } },
-        { "text": "I step out in faith and do the brave thing.", "weights": { "jochebed": 3 } },
-        { "text": "I say, \"May it be to me as You've said,\" and surrender.", "weights": { "mary": 3 } },
-        { "text": "I lean on the wisdom I've gathered and keep walking.", "weights": { "naomi": 3 } }
+        {
+          "text": "I dedicate it back to Him in prayer, even when it costs me.",
+          "weights": {
+            "hannah": 3
+          }
+        },
+        {
+          "text": "I step out in faith and do the brave thing.",
+          "weights": {
+            "jochebed": 3
+          }
+        },
+        {
+          "text": "I say, \"May it be to me as You've said,\" and surrender.",
+          "weights": {
+            "mary": 3
+          }
+        },
+        {
+          "text": "I lean on the wisdom I've gathered and keep walking.",
+          "weights": {
+            "naomi": 3
+          }
+        }
       ]
     },
     {
       "text": "What's your biggest fear for your children?",
       "options": [
-        { "text": "Holding them so tightly I don't let them become who God made them.", "weights": { "hannah": 3 } },
-        { "text": "Not being able to keep them from real danger.", "weights": { "jochebed": 3 } },
-        { "text": "That they'll walk a painful road I can't take for them.", "weights": { "mary": 3 } },
-        { "text": "That the faith won't stick when I'm not around to remind them.", "weights": { "eunice": 3 } }
+        {
+          "text": "Holding them so tightly I don't let them become who God made them.",
+          "weights": {
+            "hannah": 3
+          }
+        },
+        {
+          "text": "Not being able to keep them from real danger.",
+          "weights": {
+            "jochebed": 3
+          }
+        },
+        {
+          "text": "That they'll walk a painful road I can't take for them.",
+          "weights": {
+            "mary": 3
+          }
+        },
+        {
+          "text": "That the faith won't stick when I'm not around to remind them.",
+          "weights": {
+            "eunice": 3
+          }
+        }
       ]
     },
     {
       "text": "Where do you find your strength when motherhood feels like too much?",
       "options": [
-        { "text": "On my knees. Prayer is where I refuel.", "weights": { "hannah": 3 } },
-        { "text": "In quiet trust that God is treasuring this season with me.", "weights": { "mary": 3 } },
-        { "text": "In the long view, knowing God redeems even bitter seasons.", "weights": { "naomi": 3 } },
-        { "text": "In the Scriptures I keep returning to and teaching.", "weights": { "eunice": 3 } }
+        {
+          "text": "On my knees. Prayer is where I refuel.",
+          "weights": {
+            "hannah": 3
+          }
+        },
+        {
+          "text": "In quiet trust that God is treasuring this season with me.",
+          "weights": {
+            "mary": 3
+          }
+        },
+        {
+          "text": "In the long view, knowing God redeems even bitter seasons.",
+          "weights": {
+            "naomi": 3
+          }
+        },
+        {
+          "text": "In the Scriptures I keep returning to and teaching.",
+          "weights": {
+            "eunice": 3
+          }
+        }
       ]
     },
     {
       "text": "If your kids wrote a sentence about you someday, you'd want it to say...",
       "options": [
-        { "text": "\"She prayed us through everything.\"", "weights": { "hannah": 3 } },
-        { "text": "\"She was brave for us when it counted.\"", "weights": { "jochebed": 3 } },
-        { "text": "\"She trusted God even when life didn't make sense.\"", "weights": { "mary": 3 } },
-        { "text": "\"She handed us a faith that became our own.\"", "weights": { "eunice": 2, "naomi": 1 } }
+        {
+          "text": "\"She prayed us through everything.\"",
+          "weights": {
+            "hannah": 3
+          }
+        },
+        {
+          "text": "\"She was brave for us when it counted.\"",
+          "weights": {
+            "jochebed": 3
+          }
+        },
+        {
+          "text": "\"She trusted God even when life didn't make sense.\"",
+          "weights": {
+            "mary": 3
+          }
+        },
+        {
+          "text": "\"She handed us a faith that became our own.\"",
+          "weights": {
+            "eunice": 2,
+            "naomi": 1
+          }
+        }
       ]
     }
   ],
@@ -93,37 +275,77 @@
     "hannah": {
       "name": "Hannah the Prayer Warrior",
       "emoji": "🙏",
-      "traits": ["Praying", "Surrendered", "Faithful"],
+      "traits": [
+        "Praying",
+        "Surrendered",
+        "Faithful"
+      ],
       "description": "You mother on your knees. Like Hannah, you pour your heart out to God for your children and then do the hardest thing of all: you give them back to Him. Your prayers are doing more than you'll ever see this side of heaven. Keep bringing them to the only One who can hold what you can't. The God who answered Hannah hears every word you whisper too.",
-      "scripture": { "text": "I prayed for this child, and the Lord has granted me what I asked of him.", "reference": "1 Samuel 1:27" }
+      "scripture": {
+        "text": "For this child I prayed; and Jehovah hath given me my petition which I asked of him:",
+        "reference": "1 Samuel 1:27",
+        "translation": "ASV"
+      }
     },
     "jochebed": {
       "name": "Jochebed the Brave",
       "emoji": "🧺",
-      "traits": ["Brave", "Protective", "Trusting"],
+      "traits": [
+        "Brave",
+        "Protective",
+        "Trusting"
+      ],
       "description": "You're the mom who will do the bold, risky thing to protect your kids. Like Jochebed, who set her baby in a basket and trusted God with the river, you've learned that fierce love sometimes means letting go and believing He'll carry them where you can't follow. Your courage isn't recklessness. It's faith with its sleeves rolled up. God sees every brave thing you do for them.",
-      "scripture": { "text": "By faith Moses' parents hid him for three months after he was born, because they saw he was no ordinary child, and they were not afraid.", "reference": "Hebrews 11:23" }
+      "scripture": {
+        "text": "By faith Moses, when he was born, was hid three months by his parents, because they saw he was a goodly child; and they were not afraid of the king’s commandment.",
+        "reference": "Hebrews 11:23",
+        "translation": "ASV"
+      }
     },
     "mary": {
       "name": "Mary the Surrendered",
       "emoji": "🤍",
-      "traits": ["Surrendered", "Tender", "Trusting"],
+      "traits": [
+        "Surrendered",
+        "Tender",
+        "Trusting"
+      ],
       "description": "You hold your children with open hands. Like Mary, you've said yes to God's plans for them even when those plans were bigger or harder than you'd have chosen. You treasure the quiet moments and keep them tucked in your heart. That surrender is its own kind of strength. You're trusting a God who loves your kids even more than you do, and that trust is never misplaced.",
-      "scripture": { "text": "I am the Lord's servant, Mary answered. May your word to me be fulfilled.", "reference": "Luke 1:38" }
+      "scripture": {
+        "text": "And Mary said, Behold, the handmaid of the Lord; be it unto me according to thy word. And the angel departed from her.",
+        "reference": "Luke 1:38",
+        "translation": "ASV"
+      }
     },
     "naomi": {
       "name": "Naomi the Mentor",
       "emoji": "🌿",
-      "traits": ["Wise", "Resilient", "Guiding"],
+      "traits": [
+        "Wise",
+        "Resilient",
+        "Guiding"
+      ],
       "description": "You're the steady, wise one people lean on. Like Naomi, you've walked through real loss and come out the other side with hard-won wisdom you now pour into others. You mother not just your own but the ones who need guidance, like Ruth needed hers. Your seasons of bitterness weren't wasted. God turned them into a depth that blesses everyone who walks alongside you.",
-      "scripture": { "text": "Where you go I will go, and where you stay I will stay. Your people will be my people and your God my God.", "reference": "Ruth 1:16" }
+      "scripture": {
+        "text": "And Ruth said, Entreat me not to leave thee, and to return from following after thee, for whither thou goest, I will go; and where thou lodgest, I will lodge; thy people shall be my people, and thy God my God;",
+        "reference": "Ruth 1:16",
+        "translation": "ASV"
+      }
     },
     "eunice": {
       "name": "Eunice the Faith-Passer",
       "emoji": "📖",
-      "traits": ["Teaching", "Devoted", "Faithful"],
+      "traits": [
+        "Teaching",
+        "Devoted",
+        "Faithful"
+      ],
       "description": "You're building faith into your kids one ordinary day at a time. Like Eunice, who passed a sincere faith to her son Timothy, you teach the Scriptures at the kitchen table and live what you say. That steady, generational work matters more than any flashy moment. The faith you're handing down will outlive you. Keep planting. God grows what you sow into those young hearts.",
-      "scripture": { "text": "I am reminded of your sincere faith, which first lived in your grandmother Lois and in your mother Eunice and, I am persuaded, now lives in you also.", "reference": "2 Timothy 1:5" }
+      "scripture": {
+        "text": "having been reminded of the unfeigned faith that is in thee; which dwelt first in thy grandmother Lois, and thy mother Eunice; and, I am persuaded, in thee also.",
+        "reference": "2 Timothy 1:5",
+        "translation": "ASV"
+      }
     }
   }
 }

@@ -6,78 +6,249 @@
   "category": "spiritual-profile",
   "estimatedMinutes": 5,
   "mode": "profile",
-  "dimensions": ["symptom-googler", "worst-diagnosis-jumper", "body-scanner", "reassurance-seeker", "death-fearer", "at-peace"],
+  "dimensions": [
+    "symptom-googler",
+    "worst-diagnosis-jumper",
+    "body-scanner",
+    "reassurance-seeker",
+    "death-fearer",
+    "at-peace"
+  ],
   "questions": [
     {
       "text": "You notice a new ache or sensation in your body. What's your very first move?",
       "options": [
-        { "text": "Pull out my phone and start searching what it could be.", "weights": { "symptom-googler": 2 } },
-        { "text": "My mind jumps straight to the scariest possible diagnosis.", "weights": { "worst-diagnosis-jumper": 2 } },
-        { "text": "Keep poking and checking the spot to see if it's worse.", "weights": { "body-scanner": 2 } },
-        { "text": "Notice it, and trust it's probably nothing.", "weights": { "at-peace": 2 } }
+        {
+          "text": "Pull out my phone and start searching what it could be.",
+          "weights": {
+            "symptom-googler": 2
+          }
+        },
+        {
+          "text": "My mind jumps straight to the scariest possible diagnosis.",
+          "weights": {
+            "worst-diagnosis-jumper": 2
+          }
+        },
+        {
+          "text": "Keep poking and checking the spot to see if it's worse.",
+          "weights": {
+            "body-scanner": 2
+          }
+        },
+        {
+          "text": "Notice it, and trust it's probably nothing.",
+          "weights": {
+            "at-peace": 2
+          }
+        }
       ]
     },
     {
       "text": "How often do you find yourself searching symptoms online?",
       "options": [
-        { "text": "All the time. One search turns into an hour-long rabbit hole.", "weights": { "symptom-googler": 2 } },
-        { "text": "Mostly I skip the search and go straight to fearing the worst.", "weights": { "worst-diagnosis-jumper": 2 } },
-        { "text": "Less searching, more constant monitoring of my own body.", "weights": { "body-scanner": 2 } },
-        { "text": "Rarely. I don't feel the pull to look things up.", "weights": { "at-peace": 2 } }
+        {
+          "text": "All the time. One search turns into an hour-long rabbit hole.",
+          "weights": {
+            "symptom-googler": 2
+          }
+        },
+        {
+          "text": "Mostly I skip the search and go straight to fearing the worst.",
+          "weights": {
+            "worst-diagnosis-jumper": 2
+          }
+        },
+        {
+          "text": "Less searching, more constant monitoring of my own body.",
+          "weights": {
+            "body-scanner": 2
+          }
+        },
+        {
+          "text": "Rarely. I don't feel the pull to look things up.",
+          "weights": {
+            "at-peace": 2
+          }
+        }
       ]
     },
     {
       "text": "When a doctor says you're fine, how long does the relief last?",
       "options": [
-        { "text": "Only until the next twinge sends me back to searching.", "weights": { "symptom-googler": 2 } },
-        { "text": "Not long. Part of me thinks they missed something serious.", "weights": { "worst-diagnosis-jumper": 2 } },
-        { "text": "I feel better only after asking again and again for reassurance.", "weights": { "reassurance-seeker": 2 } },
-        { "text": "A good while. I tend to take their word and move on.", "weights": { "at-peace": 2 } }
+        {
+          "text": "Only until the next twinge sends me back to searching.",
+          "weights": {
+            "symptom-googler": 2
+          }
+        },
+        {
+          "text": "Not long. Part of me thinks they missed something serious.",
+          "weights": {
+            "worst-diagnosis-jumper": 2
+          }
+        },
+        {
+          "text": "I feel better only after asking again and again for reassurance.",
+          "weights": {
+            "reassurance-seeker": 2
+          }
+        },
+        {
+          "text": "A good while. I tend to take their word and move on.",
+          "weights": {
+            "at-peace": 2
+          }
+        }
       ]
     },
     {
       "text": "What thought tends to loop in your head when you don't feel well?",
       "options": [
-        { "text": "Let me look up one more time what this might mean.", "weights": { "symptom-googler": 2 } },
-        { "text": "This is it. This is the serious thing I've been dreading.", "weights": { "worst-diagnosis-jumper": 2 } },
-        { "text": "What if this is the start of how I die?", "weights": { "death-fearer": 2 } },
-        { "text": "Let me text someone and ask if I should be worried.", "weights": { "reassurance-seeker": 2 } }
+        {
+          "text": "Let me look up one more time what this might mean.",
+          "weights": {
+            "symptom-googler": 2
+          }
+        },
+        {
+          "text": "This is it. This is the serious thing I've been dreading.",
+          "weights": {
+            "worst-diagnosis-jumper": 2
+          }
+        },
+        {
+          "text": "What if this is the start of how I die?",
+          "weights": {
+            "death-fearer": 2
+          }
+        },
+        {
+          "text": "Let me text someone and ask if I should be worried.",
+          "weights": {
+            "reassurance-seeker": 2
+          }
+        }
       ]
     },
     {
       "text": "How aware are you of your body on a normal day?",
       "options": [
-        { "text": "Hyper-aware. I notice every flutter, twitch, and pang.", "weights": { "body-scanner": 2 } },
-        { "text": "Aware enough that any change makes me fear the worst fast.", "weights": { "worst-diagnosis-jumper": 2 } },
-        { "text": "Aware mostly because I'm scared of what a symptom might mean.", "weights": { "death-fearer": 2 } },
-        { "text": "Pretty relaxed. I don't track every sensation.", "weights": { "at-peace": 2 } }
+        {
+          "text": "Hyper-aware. I notice every flutter, twitch, and pang.",
+          "weights": {
+            "body-scanner": 2
+          }
+        },
+        {
+          "text": "Aware enough that any change makes me fear the worst fast.",
+          "weights": {
+            "worst-diagnosis-jumper": 2
+          }
+        },
+        {
+          "text": "Aware mostly because I'm scared of what a symptom might mean.",
+          "weights": {
+            "death-fearer": 2
+          }
+        },
+        {
+          "text": "Pretty relaxed. I don't track every sensation.",
+          "weights": {
+            "at-peace": 2
+          }
+        }
       ]
     },
     {
       "text": "Who do you turn to when the worry spikes?",
       "options": [
-        { "text": "The internet. I need information to calm down.", "weights": { "symptom-googler": 2 } },
-        { "text": "A person I trust, and I keep asking until they convince me.", "weights": { "reassurance-seeker": 2 } },
-        { "text": "No one, really. I just spiral about the worst outcome alone.", "weights": { "worst-diagnosis-jumper": 2 } },
-        { "text": "God, mostly. I bring the fear to Him and try to leave it there.", "weights": { "at-peace": 2 } }
+        {
+          "text": "The internet. I need information to calm down.",
+          "weights": {
+            "symptom-googler": 2
+          }
+        },
+        {
+          "text": "A person I trust, and I keep asking until they convince me.",
+          "weights": {
+            "reassurance-seeker": 2
+          }
+        },
+        {
+          "text": "No one, really. I just spiral about the worst outcome alone.",
+          "weights": {
+            "worst-diagnosis-jumper": 2
+          }
+        },
+        {
+          "text": "God, mostly. I bring the fear to Him and try to leave it there.",
+          "weights": {
+            "at-peace": 2
+          }
+        }
       ]
     },
     {
       "text": "Be honest. What's the fear underneath the worry?",
       "options": [
-        { "text": "Not knowing. Searching feels like control over the unknown.", "weights": { "symptom-googler": 2 } },
-        { "text": "That something terrible is already growing inside me.", "weights": { "worst-diagnosis-jumper": 2 } },
-        { "text": "Dying, and leaving the people I love before I'm ready.", "weights": { "death-fearer": 2 } },
-        { "text": "Being alone with the fear and having no one to steady me.", "weights": { "reassurance-seeker": 2 } }
+        {
+          "text": "Not knowing. Searching feels like control over the unknown.",
+          "weights": {
+            "symptom-googler": 2
+          }
+        },
+        {
+          "text": "That something terrible is already growing inside me.",
+          "weights": {
+            "worst-diagnosis-jumper": 2
+          }
+        },
+        {
+          "text": "Dying, and leaving the people I love before I'm ready.",
+          "weights": {
+            "death-fearer": 2
+          }
+        },
+        {
+          "text": "Being alone with the fear and having no one to steady me.",
+          "weights": {
+            "reassurance-seeker": 2
+          }
+        }
       ]
     },
     {
       "text": "What would peace with your body actually look like for you?",
       "options": [
-        { "text": "Closing the search tab and trusting I'll be okay.", "weights": { "symptom-googler": 1, "at-peace": 1 } },
-        { "text": "Feeling a symptom without my mind racing to the grave.", "weights": { "worst-diagnosis-jumper": 1, "death-fearer": 1 } },
-        { "text": "Living in my body without constantly monitoring it.", "weights": { "body-scanner": 1, "at-peace": 1 } },
-        { "text": "Resting in God's care without needing endless reassurance.", "weights": { "reassurance-seeker": 1, "at-peace": 1 } }
+        {
+          "text": "Closing the search tab and trusting I'll be okay.",
+          "weights": {
+            "symptom-googler": 1,
+            "at-peace": 1
+          }
+        },
+        {
+          "text": "Feeling a symptom without my mind racing to the grave.",
+          "weights": {
+            "worst-diagnosis-jumper": 1,
+            "death-fearer": 1
+          }
+        },
+        {
+          "text": "Living in my body without constantly monitoring it.",
+          "weights": {
+            "body-scanner": 1,
+            "at-peace": 1
+          }
+        },
+        {
+          "text": "Resting in God's care without needing endless reassurance.",
+          "weights": {
+            "reassurance-seeker": 1,
+            "at-peace": 1
+          }
+        }
       ]
     }
   ],
@@ -85,32 +256,56 @@
     "symptom-googler": {
       "name": "The Symptom Googler",
       "description": "The moment something feels off, your hand reaches for your phone, and one search turns into a spiral of worst-case results. Searching feels like control, but it usually leaves you more frightened than before. The internet will always offer a scarier answer if you keep looking. Try setting a hard limit, or handing the unknown to God instead of the search bar. You don't have to carry the weight of every maybe.",
-      "scripture": { "text": "Casting all your care upon him; for he careth for you.", "reference": "1 Peter 5:7" }
+      "scripture": {
+        "text": "casting all your anxiety upon him, because he careth for you.",
+        "reference": "1 Peter 5:7",
+        "translation": "ASV"
+      }
     },
     "worst-diagnosis-jumper": {
       "name": "The Worst-Diagnosis Jumper",
       "description": "A small symptom and your mind sprints straight to the most serious thing it could possibly be. The leap happens so fast you barely notice it. Your imagination is vivid, and right now it's working against you, treating a maybe like a certainty. Most of the disasters you rehearse never come. When the leap starts, slow it down and ask what's actually true in this moment. God holds your future, and it's far gentler than your fear makes it look.",
-      "scripture": { "text": "Thou wilt keep him in perfect peace, whose mind is stayed on thee.", "reference": "Isaiah 26:3" }
+      "scripture": {
+        "text": "Thou wilt keep him in perfect peace, whose mind is stayed on thee; because he trusteth in thee.",
+        "reference": "Isaiah 26:3",
+        "translation": "ASV"
+      }
     },
     "body-scanner": {
       "name": "The Body Scanner",
       "description": "You're tuned in to every flutter, ache, and twinge, scanning yourself for signs of trouble. The constant monitoring feels protective, but it actually keeps the alarm bells ringing, because if you look hard enough you'll always find something to worry about. Your body isn't your enemy, and you don't have to stand guard over it every minute. Try gently widening your attention to the life around you. Rest is allowed.",
-      "scripture": { "text": "He giveth power to the faint; and to them that have no might he increaseth strength.", "reference": "Isaiah 40:29" }
+      "scripture": {
+        "text": "He giveth power to the faint; and to him that hath no might he increaseth strength.",
+        "reference": "Isaiah 40:29",
+        "translation": "ASV"
+      }
     },
     "reassurance-seeker": {
       "name": "The Reassurance Seeker",
       "description": "When the worry spikes, you need someone to tell you it's going to be okay, and then you need to hear it again. The relief feels real, but it never quite sticks, so you find yourself asking one more time. The trouble is that reassurance from people runs out, and the fear comes back hungry. There's a steadier place to bring this. God's care for you doesn't fade between texts, and His peace can hold what no amount of asking ever fully will.",
-      "scripture": { "text": "When I am afraid, I will trust in thee.", "reference": "Psalm 56:3" }
+      "scripture": {
+        "text": "What time I am afraid, I will put my trust in thee.",
+        "reference": "Psalm 56:3",
+        "translation": "ASV"
+      }
     },
     "death-fearer": {
       "name": "The Death-Fearer",
       "description": "Underneath the symptoms, the real fear is bigger: dying, and leaving behind the people and the life you love. That fear is heavy, and it's deeply human. It can make every ache feel like a countdown. You weren't meant to carry the question of your own mortality alone. For the believer, death is not the end of the story but the doorway into the presence of the One who made you. He has already gone ahead of you into it. You are held, in this life and beyond it.",
-      "scripture": { "text": "O death, where is thy sting? O grave, where is thy victory?", "reference": "1 Corinthians 15:55" }
+      "scripture": {
+        "text": "O death, where is thy victory? O death, where is thy sting?",
+        "reference": "1 Corinthians 15:55",
+        "translation": "ASV"
+      }
     },
     "at-peace": {
       "name": "Mostly At Peace",
       "description": "You feel symptoms like anyone does, but they don't run your life. You can notice an ache, trust it's probably nothing, and get on with your day without spiraling. That's a healthy, grounded place to be, and it's worth protecting. Keep bringing your worries to God when they do come, and keep refusing to let fear borrow trouble from tomorrow. Your steadiness here is a quiet gift.",
-      "scripture": { "text": "Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself.", "reference": "Matthew 6:34" }
+      "scripture": {
+        "text": "Be not therefore anxious for the morrow: for the morrow will be anxious for itself. Sufficient unto the day is the evil thereof.",
+        "reference": "Matthew 6:34",
+        "translation": "ASV"
+      }
     }
   }
 }

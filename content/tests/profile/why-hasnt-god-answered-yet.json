@@ -16,82 +16,263 @@
     {
       "text": "When you think about the thing you've been praying for, what stands out?",
       "options": [
-        { "text": "I can sense I'm being shaped and stretched in the wait.", "weights": { "preparing-you": 3 } },
-        { "text": "Looking back, some closed doors clearly spared me pain.", "weights": { "protecting-you": 3 } },
-        { "text": "Something shifted, just not the way I asked for.", "weights": { "already-answered": 3 } },
-        { "text": "There's just a long, quiet not-yet I can't rush.", "weights": { "answer-is-wait": 3 } }
+        {
+          "text": "I can sense I'm being shaped and stretched in the wait.",
+          "weights": {
+            "preparing-you": 3
+          }
+        },
+        {
+          "text": "Looking back, some closed doors clearly spared me pain.",
+          "weights": {
+            "protecting-you": 3
+          }
+        },
+        {
+          "text": "Something shifted, just not the way I asked for.",
+          "weights": {
+            "already-answered": 3
+          }
+        },
+        {
+          "text": "There's just a long, quiet not-yet I can't rush.",
+          "weights": {
+            "answer-is-wait": 3
+          }
+        }
       ]
     },
     {
       "text": "How has this season been changing you?",
       "options": [
-        { "text": "It's building patience and character I didn't have before.", "weights": { "preparing-you": 3 } },
-        { "text": "It's slowly revealing why the old path would've hurt me.", "weights": { "protecting-you": 3 } },
-        { "text": "It's teaching me to notice answers I almost missed.", "weights": { "already-answered": 3 } },
-        { "text": "It's mostly teaching me to keep trusting in the silence.", "weights": { "answer-is-wait": 3 } }
+        {
+          "text": "It's building patience and character I didn't have before.",
+          "weights": {
+            "preparing-you": 3
+          }
+        },
+        {
+          "text": "It's slowly revealing why the old path would've hurt me.",
+          "weights": {
+            "protecting-you": 3
+          }
+        },
+        {
+          "text": "It's teaching me to notice answers I almost missed.",
+          "weights": {
+            "already-answered": 3
+          }
+        },
+        {
+          "text": "It's mostly teaching me to keep trusting in the silence.",
+          "weights": {
+            "answer-is-wait": 3
+          }
+        }
       ]
     },
     {
       "text": "Which quiet thought have you had about the delay?",
       "options": [
-        { "text": "\"Maybe I'm not ready for it yet, and He knows that.\"", "weights": { "preparing-you": 3 } },
-        { "text": "\"Maybe He's keeping me from something I can't see.\"", "weights": { "protecting-you": 3 } },
-        { "text": "\"Maybe He already moved, just not how I pictured.\"", "weights": { "already-answered": 3 } },
-        { "text": "\"Maybe the answer right now is simply, wait.\"", "weights": { "answer-is-wait": 3 } }
+        {
+          "text": "\"Maybe I'm not ready for it yet, and He knows that.\"",
+          "weights": {
+            "preparing-you": 3
+          }
+        },
+        {
+          "text": "\"Maybe He's keeping me from something I can't see.\"",
+          "weights": {
+            "protecting-you": 3
+          }
+        },
+        {
+          "text": "\"Maybe He already moved, just not how I pictured.\"",
+          "weights": {
+            "already-answered": 3
+          }
+        },
+        {
+          "text": "\"Maybe the answer right now is simply, wait.\"",
+          "weights": {
+            "answer-is-wait": 3
+          }
+        }
       ]
     },
     {
       "text": "When you look back at past prayers that went unanswered, you feel...",
       "options": [
-        { "text": "Grateful, because the wait grew me into who I am now.", "weights": { "preparing-you": 3 } },
-        { "text": "Relieved, because a no turned out to be a rescue.", "weights": { "protecting-you": 3 } },
-        { "text": "Surprised, because He answered in a way I didn't expect.", "weights": { "already-answered": 3 } },
-        { "text": "Still tender, because some are clearly still in progress.", "weights": { "answer-is-wait": 2, "preparing-you": 1 } }
+        {
+          "text": "Grateful, because the wait grew me into who I am now.",
+          "weights": {
+            "preparing-you": 3
+          }
+        },
+        {
+          "text": "Relieved, because a no turned out to be a rescue.",
+          "weights": {
+            "protecting-you": 3
+          }
+        },
+        {
+          "text": "Surprised, because He answered in a way I didn't expect.",
+          "weights": {
+            "already-answered": 3
+          }
+        },
+        {
+          "text": "Still tender, because some are clearly still in progress.",
+          "weights": {
+            "answer-is-wait": 2,
+            "preparing-you": 1
+          }
+        }
       ]
     },
     {
       "text": "What's the hardest part of where you are right now?",
       "options": [
-        { "text": "Feeling like I'm being refined when I'd rather just have it.", "weights": { "preparing-you": 3 } },
-        { "text": "Not understanding why a good thing got blocked.", "weights": { "protecting-you": 3 } },
-        { "text": "Realizing what I got isn't what I asked for.", "weights": { "already-answered": 3 } },
-        { "text": "The sheer length of the wait with no end in sight.", "weights": { "answer-is-wait": 3 } }
+        {
+          "text": "Feeling like I'm being refined when I'd rather just have it.",
+          "weights": {
+            "preparing-you": 3
+          }
+        },
+        {
+          "text": "Not understanding why a good thing got blocked.",
+          "weights": {
+            "protecting-you": 3
+          }
+        },
+        {
+          "text": "Realizing what I got isn't what I asked for.",
+          "weights": {
+            "already-answered": 3
+          }
+        },
+        {
+          "text": "The sheer length of the wait with no end in sight.",
+          "weights": {
+            "answer-is-wait": 3
+          }
+        }
       ]
     },
     {
       "text": "Which sentence feels truest about your situation?",
       "options": [
-        { "text": "\"God is getting me ready for what's coming.\"", "weights": { "preparing-you": 3 } },
-        { "text": "\"God is shielding me from something I'd regret.\"", "weights": { "protecting-you": 3 } },
-        { "text": "\"God answered, I just wanted a different answer.\"", "weights": { "already-answered": 3 } },
-        { "text": "\"God is asking me to hold on a while longer.\"", "weights": { "answer-is-wait": 3 } }
+        {
+          "text": "\"God is getting me ready for what's coming.\"",
+          "weights": {
+            "preparing-you": 3
+          }
+        },
+        {
+          "text": "\"God is shielding me from something I'd regret.\"",
+          "weights": {
+            "protecting-you": 3
+          }
+        },
+        {
+          "text": "\"God answered, I just wanted a different answer.\"",
+          "weights": {
+            "already-answered": 3
+          }
+        },
+        {
+          "text": "\"God is asking me to hold on a while longer.\"",
+          "weights": {
+            "answer-is-wait": 3
+          }
+        }
       ]
     },
     {
       "text": "When you pray about it now, what comes out?",
       "options": [
-        { "text": "\"Make me into who I need to be for this.\"", "weights": { "preparing-you": 3 } },
-        { "text": "\"I'll trust You even if You're saying no for my good.\"", "weights": { "protecting-you": 3 } },
-        { "text": "\"Help me see the answer You already gave.\"", "weights": { "already-answered": 3 } },
-        { "text": "\"Give me strength to keep waiting on You.\"", "weights": { "answer-is-wait": 3 } }
+        {
+          "text": "\"Make me into who I need to be for this.\"",
+          "weights": {
+            "preparing-you": 3
+          }
+        },
+        {
+          "text": "\"I'll trust You even if You're saying no for my good.\"",
+          "weights": {
+            "protecting-you": 3
+          }
+        },
+        {
+          "text": "\"Help me see the answer You already gave.\"",
+          "weights": {
+            "already-answered": 3
+          }
+        },
+        {
+          "text": "\"Give me strength to keep waiting on You.\"",
+          "weights": {
+            "answer-is-wait": 3
+          }
+        }
       ]
     },
     {
       "text": "What do you sense God might be doing under the surface?",
       "options": [
-        { "text": "Preparing me, like He did Joseph before the throne.", "weights": { "preparing-you": 3 } },
-        { "text": "Protecting me, like a parent steering a child from danger.", "weights": { "protecting-you": 3 } },
-        { "text": "Redirecting me toward something better than my request.", "weights": { "already-answered": 3 } },
-        { "text": "Teaching me to wait on Him without losing heart.", "weights": { "answer-is-wait": 3 } }
+        {
+          "text": "Preparing me, like He did Joseph before the throne.",
+          "weights": {
+            "preparing-you": 3
+          }
+        },
+        {
+          "text": "Protecting me, like a parent steering a child from danger.",
+          "weights": {
+            "protecting-you": 3
+          }
+        },
+        {
+          "text": "Redirecting me toward something better than my request.",
+          "weights": {
+            "already-answered": 3
+          }
+        },
+        {
+          "text": "Teaching me to wait on Him without losing heart.",
+          "weights": {
+            "answer-is-wait": 3
+          }
+        }
       ]
     },
     {
       "text": "What would bring you the most peace right now?",
       "options": [
-        { "text": "Trusting that the delay is making me ready.", "weights": { "preparing-you": 3 } },
-        { "text": "Believing His no is His love, not His absence.", "weights": { "protecting-you": 3 } },
-        { "text": "Eyes to recognize the answer that's already here.", "weights": { "already-answered": 3 } },
-        { "text": "Resting in His timing instead of fighting it.", "weights": { "answer-is-wait": 3 } }
+        {
+          "text": "Trusting that the delay is making me ready.",
+          "weights": {
+            "preparing-you": 3
+          }
+        },
+        {
+          "text": "Believing His no is His love, not His absence.",
+          "weights": {
+            "protecting-you": 3
+          }
+        },
+        {
+          "text": "Eyes to recognize the answer that's already here.",
+          "weights": {
+            "already-answered": 3
+          }
+        },
+        {
+          "text": "Resting in His timing instead of fighting it.",
+          "weights": {
+            "answer-is-wait": 3
+          }
+        }
       ]
     }
   ],
@@ -99,22 +280,38 @@
     "preparing-you": {
       "name": "He's Preparing You",
       "description": "The delay isn't God ignoring you. It's God getting you ready. Joseph waited years in obscurity and prison before he was set over Egypt, and not one of those years was wasted. The wait is building something in you that the gift alone never could. Don't despise the in-between. The person you're becoming here is exactly who you'll need to be when the answer comes.",
-      "scripture": { "text": "Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up.", "reference": "Galatians 6:9" }
+      "scripture": {
+        "text": "And let us not be weary in well-doing: for in due season we shall reap, if we faint not.",
+        "reference": "Galatians 6:9",
+        "translation": "ASV"
+      }
     },
     "protecting-you": {
       "name": "He's Protecting You",
       "description": "Sometimes the most loving answer is the door that won't open. A good parent doesn't give a child everything they beg for, especially when it would hurt them. You may not see the danger yet, but God does, and His no can be a rescue in disguise. Trust that the One who loves you is also wise enough to spare you. A closed door from Him is still His care.",
-      "scripture": { "text": "No good thing does he withhold from those whose walk is blameless.", "reference": "Psalm 84:11" }
+      "scripture": {
+        "text": "For Jehovah God is a sun and a shield: Jehovah will give grace and glory; No good thing will he withhold from them that walk uprightly.",
+        "reference": "Psalm 84:11",
+        "translation": "ASV"
+      }
     },
     "already-answered": {
       "name": "He Already Answered, Just Not How You Hoped",
       "description": "The hard truth is that God may have already moved, just not in the shape you were watching for. You asked for one thing and He offered another, and the disappointment is real. But His answer is rarely random. Ask Him to open your eyes to what He actually gave. There's grace in His version that your version didn't have room for, even when it stings.",
-      "scripture": { "text": "My grace is sufficient for you, for my power is made perfect in weakness.", "reference": "2 Corinthians 12:9" }
+      "scripture": {
+        "text": "And he hath said unto me, My grace is sufficient for thee: for my power is made perfect in weakness. Most gladly therefore will I rather glory in my weaknesses, that the power of Christ may rest upon me.",
+        "reference": "2 Corinthians 12:9",
+        "translation": "ASV"
+      }
     },
     "answer-is-wait": {
       "name": "The Answer Is 'Wait'",
       "description": "Not yes, not no. Just wait. It might be the hardest answer of all, because it asks you to keep trusting with nothing visible to hold. But waiting on God is never the same as God forgetting you. He's at work in the silence. Keep showing up, keep praying, and let the waiting strengthen rather than sour you. Those who wait on Him are renewed, not abandoned.",
-      "scripture": { "text": "Wait for the Lord; be strong and take heart and wait for the Lord.", "reference": "Psalm 27:14" }
+      "scripture": {
+        "text": "Wait for Jehovah: Be strong, and let thy heart take courage; Yea, wait thou for Jehovah.",
+        "reference": "Psalm 27:14",
+        "translation": "ASV"
+      }
     }
   }
 }
