@@ -6,8 +6,13 @@
 export function HomeBackground() {
   return (
     <div aria-hidden className="pointer-events-none fixed inset-0 -z-10">
-      <div className="absolute inset-0 bg-[url('/home-bg.webp')] bg-cover bg-center bg-no-repeat" />
-      <div className="absolute inset-0 bg-gradient-to-b from-cream-1/85 via-cream-1/70 to-cream-1/85" />
+      {/* Set the image via inline style: Tailwind v4 does not reliably generate
+          an arbitrary background-image utility from a quoted URL. */}
+      <div
+        className="absolute inset-0 bg-cover bg-center bg-no-repeat"
+        style={{ backgroundImage: "url('/home-bg.webp')" }}
+      />
+      <div className="absolute inset-0 bg-gradient-to-b from-cream-1/75 via-cream-1/55 to-cream-1/80" />
     </div>
   );
 }
