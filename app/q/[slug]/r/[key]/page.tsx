@@ -7,6 +7,8 @@ import { ResultCard } from '@/components/ResultCard';
 import { ShareBar } from '@/components/ShareBar';
 import { AdSlot } from '@/components/AdSlot';
 import { RelatedQuizzes } from '@/components/RelatedQuizzes';
+import { ResultCardLive } from '@/components/card/ResultCardLive';
+import { cardDataFromResult } from '@/lib/card-data';
 
 export function generateStaticParams() {
   const params: { slug: string; key: string }[] = [];
@@ -49,10 +51,14 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   };
 }
 
-export default async function ResultPage({ params }: { params: Promise<{ slug: string; key: string }> }) {
+export default async function ResultPage({ params, searchParams }: { params: Promise<{ slug: string; key: string }>; searchParams: Promise<{ m?: string }> }) {
   const { slug, key } = await params;
+  const { m } = await searchParams;
   const test = loadTestBySlug(slug);
   if (!test) notFound();
+
+  const matchPct = m != null && m !== '' ? Math.max(0, Math.min(100, parseInt(m, 10) || 0)) : null;
+  const cardData = cardDataFromResult(test, key, matchPct);
 
   const shareUrl = `https://parable.quiz/q/${test.slug}/r/${key}`;
   const ogImageAbs = `https://parable.quiz/og/${test.slug}/${key}`;
@@ -89,6 +95,7 @@ export default async function ResultPage({ params }: { params: Promise<{ slug: s
     <>
       <HomeNav />
       <main className="py-8">
+        <ResultCardLive data={cardData} />
         <ResultCard {...cardProps} />
         <ShareBar url={shareUrl} text={shareText} image={ogImageAbs} />
         <AdSlot slot="post-share" />
