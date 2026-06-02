@@ -4,10 +4,9 @@ import type { Metadata } from 'next';
 import { loadAllTests, loadTestBySlug } from '@/lib/test-loader';
 import { HomeNav } from '@/components/HomeNav';
 import { ResultCard } from '@/components/ResultCard';
-import { ShareBar } from '@/components/ShareBar';
 import { AdSlot } from '@/components/AdSlot';
 import { RelatedQuizzes } from '@/components/RelatedQuizzes';
-import { ResultCardLive } from '@/components/card/ResultCardLive';
+import { ShareableCard } from '@/components/card/ShareableCard';
 import { cardDataFromResult } from '@/lib/card-data';
 
 export function generateStaticParams() {
@@ -63,8 +62,9 @@ export default async function ResultPage({ params, searchParams }: { params: Pro
   const cardData = cardDataFromResult(test, key, matchPct);
   if (!cardData) notFound();
 
-  const shareUrl = `https://parable.quiz/q/${test.slug}/r/${key}`;
-  const ogImageAbs = `https://parable.quiz/og/${test.slug}/${key}`;
+  const mq = matchPct !== null ? `?m=${matchPct}` : '';
+  const shareUrl = `https://parable.quiz/q/${test.slug}/r/${key}${mq}`;
+  const ogImageAbs = `https://parable.quiz/og/${test.slug}/${key}${mq}`;
 
   let cardProps;
   let shareText;
@@ -98,9 +98,8 @@ export default async function ResultPage({ params, searchParams }: { params: Pro
     <>
       <HomeNav />
       <main className="py-8">
-        <ResultCardLive data={cardData} />
+        <ShareableCard data={cardData} shareUrl={shareUrl} shareText={shareText} ogImage={ogImageAbs} />
         <ResultCard {...cardProps} />
-        <ShareBar url={shareUrl} text={shareText} image={ogImageAbs} />
         <AdSlot slot="post-share" />
         <RelatedQuizzes slug={test.slug} />
       </main>

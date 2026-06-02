@@ -2,8 +2,9 @@
 'use client';
 import { useState } from 'react';
 import { track } from '@vercel/analytics';
+import { toPng } from 'html-to-image';
 
-export function ShareBar({ url, text, image }: { url: string; text: string; image?: string }) {
+export function ShareBar({ url, text, image, cardEl }: { url: string; text: string; image?: string; cardEl?: HTMLElement | null }) {
   const [copied, setCopied] = useState(false);
 
   const encUrl = encodeURIComponent(url);
@@ -21,8 +22,29 @@ export function ShareBar({ url, text, image }: { url: string; text: string; imag
     track('share_click', { platform });
   }
 
+  async function shareCard() {
+    if (!cardEl) return;
+    track('share_click', { platform: 'card' });
+    const dataUrl = await toPng(cardEl, { pixelRatio: 3, cacheBust: true });
+    const blob = await (await fetch(dataUrl)).blob();
+    const file = new File([blob], 'parable-card.png', { type: 'image/png' });
+    if (navigator.canShare?.({ files: [file] })) {
+      await navigator.share({ files: [file], text });
+    } else {
+      const a = document.createElement('a');
+      a.href = dataUrl;
+      a.download = 'parable-card.png';
+      a.click();
+    }
+  }
+
   return (
     <div className="flex justify-center gap-3 my-6 max-w-xl mx-auto flex-wrap">
+      {cardEl && (
+        <button onClick={shareCard} className="bg-brown text-white px-5 py-3 rounded-full text-sm font-semibold">
+          ✦ Share my card
+        </button>
+      )}
       <a
         href={`https://pinterest.com/pin/create/button/?url=${encUrl}&media=${encImage}&description=${encText}`}
         target="_blank" rel="noopener noreferrer"
