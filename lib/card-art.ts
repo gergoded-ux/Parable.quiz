@@ -17,7 +17,3 @@ export function artUrl(slug: string, key: string, ext: 'jpg' | 'webp' = 'jpg'): 
 export function frameUrl(frameFile: string): string {
   return `${BASE}/cards/frames/${frameFile}`;
 }
-
-export function starUrl(material: string): string {
-  return `${BASE}/cards/stars/${material}.svg`;
-}

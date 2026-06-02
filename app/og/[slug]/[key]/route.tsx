@@ -80,7 +80,7 @@ export async function GET(req: Request, { params }: { params: Promise<{ slug: st
           {/* image window */}
           <div style={{ width: 560, height: 360, marginTop: 14, borderRadius: 24, overflow: 'hidden', border: '4px solid rgba(212,175,55,.7)', display: 'flex' }}>
             {d.hasArt
-              ? <img width={560} height={360} src={artSrc} style={{ objectFit: 'cover' }} />
+              ? <img width={560} height={360} src={artSrc} style={{ objectFit: 'cover', objectPosition: 'center top' }} />
               : <div style={{ width: 560, height: 360, display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: 180, background: 'linear-gradient(160deg,#fff8ed,#f0dcc4)' }}>{d.emoji}</div>}
           </div>
           <div style={{ display: 'flex', alignItems: 'center', gap: 10, marginTop: 18 }}>

@@ -163,12 +163,32 @@ describe('scoreArchetypeDetailed', () => {
 import { scoreProfileDetailed } from '@/lib/scoring';
 
 describe('scoreProfileDetailed', () => {
-  it('returns the top dimension, its matchPct, and full scores', () => {
-    // reuse profileTest: answers [0,0] -> teaching 67, mercy 100, leadership 0
+  it('returns the top dimension, its raw-share matchPct, and full scores', () => {
+    // reuse profileTest: answers [0,0] -> raw teaching=2, mercy=3, leadership=0 (sum 5)
+    // top=mercy, matchPct=60 (raw share); normalized display scores stay teaching 67, leadership 0
     const r = scoreProfileDetailed(profileTest, [0, 0]);
     expect(r.top).toBe('mercy');
-    expect(r.matchPct).toBe(100);
+    expect(r.matchPct).toBe(60);
     expect(r.scores.teaching).toBe(67);
     expect(r.scores.leadership).toBe(0);
+  });
+  it('matchPct is 100 when all weight lands on one dimension', () => {
+    const lopsided: ProfileTest = {
+      slug: 'lp', title: 'LP', lang: 'en',
+      category: 'spiritual-profile', estimatedMinutes: 1,
+      mode: 'profile',
+      dimensions: ['focus', 'other'],
+      questions: [
+        { text: 'q1', options: [{ text: 'a', weights: { focus: 3 } }, { text: 'b', weights: { other: 2 } }] },
+        { text: 'q2', options: [{ text: 'a', weights: { focus: 2 } }, { text: 'b', weights: { other: 1 } }] },
+      ],
+      results: {
+        focus: { name: 'Focus', description: 'd' },
+        other: { name: 'Other', description: 'd' },
+      },
+    };
+    const r = scoreProfileDetailed(lopsided, [0, 0]); // focus=5, other=0
+    expect(r.top).toBe('focus');
+    expect(r.matchPct).toBe(100);
   });
 });

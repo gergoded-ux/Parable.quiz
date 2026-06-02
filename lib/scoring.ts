@@ -105,8 +105,22 @@ export function scoreArchetypeDetailed(test: ArchetypeTest, answers: number[]): 
 export interface ProfileDetail { top: string; matchPct: number; scores: Record<string, number> }
 
 export function scoreProfileDetailed(test: ProfileTest, answers: number[]): ProfileDetail {
-  const scores = scoreProfile(test, answers); // 0-100 normalized per dimension
-  let top = Object.keys(scores)[0] ?? '';
-  for (const [k, v] of Object.entries(scores)) if (v > (scores[top] ?? -1)) top = k;
-  return { top, matchPct: scores[top] ?? 0, scores };
+  if (answers.length !== test.questions.length) {
+    throw new Error(`Expected ${test.questions.length} answers, got ${answers.length}`);
+  }
+  const raw: Record<string, number> = {};
+  for (const d of test.dimensions) raw[d] = 0;
+  let sum = 0;
+  test.questions.forEach((q, qi) => {
+    const optIdx = answers[qi];
+    if (optIdx < 0 || optIdx >= q.options.length) throw new Error(`Answer index ${optIdx} out of bounds for question ${qi}`);
+    for (const [k, w] of Object.entries(q.options[optIdx].weights)) {
+      if (k in raw) { raw[k] += w; sum += w; }
+    }
+  });
+  let top = test.dimensions[0] ?? '';
+  for (const [k, v] of Object.entries(raw)) if (v > (raw[top] ?? -1)) top = k;
+  const scores = scoreProfile(test, answers); // normalized, for display
+  const matchPct = sum ? Math.round((raw[top] / sum) * 100) : 0;
+  return { top, matchPct, scores };
 }
