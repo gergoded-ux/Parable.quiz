@@ -22,8 +22,9 @@ export function generateStaticParams() {
   return params;
 }
 
-export async function generateMetadata({ params }: { params: Promise<{ slug: string; key: string }> }): Promise<Metadata> {
+export async function generateMetadata({ params, searchParams }: { params: Promise<{ slug: string; key: string }>; searchParams: Promise<{ m?: string }> }): Promise<Metadata> {
   const { slug, key } = await params;
+  const { m } = await searchParams;
   const test = loadTestBySlug(slug);
   if (!test) return {};
   let title = test.title;
@@ -43,7 +44,8 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   } else {
     title = `${key}% · ${test.title}`;
   }
-  const ogImage = `/og/${test.slug}/${key}`;
+  const mq = m ? `?m=${encodeURIComponent(m)}` : '';
+  const ogImage = `/og/${slug}/${key}${mq}`;
   return {
     title, description,
     openGraph: { title, description, images: [ogImage], type: 'article' },
