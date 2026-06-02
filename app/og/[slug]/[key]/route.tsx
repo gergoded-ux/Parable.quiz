@@ -1,48 +1,91 @@
 // app/og/[slug]/[key]/route.tsx
 import { ImageResponse } from 'next/og';
+import { readFileSync } from 'node:fs';
+import { join } from 'node:path';
 import { loadTestBySlug } from '@/lib/test-loader';
+import { cardDataFromResult } from '@/lib/card-data';
+import { CARD, PANEL, nameFontSize } from '@/lib/card-layout';
+import { artUrl } from '@/lib/card-art';
 
+// nodejs runtime so we can readFileSync fonts/frames; NOT force-static (we read ?m=).
 export const runtime = 'nodejs';
-export const dynamic = 'force-static';
 
-export async function GET(_req: Request, { params }: { params: Promise<{ slug: string; key: string }> }) {
+const FONT_DIR = join(process.cwd(), 'public', 'cards', 'fonts');
+const FRAME_DIR = join(process.cwd(), 'public', 'cards', 'frames');
+function font(f: string) {
+  return readFileSync(join(FONT_DIR, f));
+}
+function frameDataUri(file: string) {
+  const b = readFileSync(join(FRAME_DIR, file));
+  return `data:image/png;base64,${b.toString('base64')}`;
+}
+
+export async function GET(req: Request, { params }: { params: Promise<{ slug: string; key: string }> }) {
   const { slug, key } = await params;
+  const url = new URL(req.url);
+  const mRaw = url.searchParams.get('m');
+  const matchPct = mRaw != null && mRaw !== '' ? Math.max(0, Math.min(100, parseInt(mRaw, 10) || 0)) : null;
+
+  const W = CARD.width, H = CARD.height;
   const test = loadTestBySlug(slug);
+  const d = test ? cardDataFromResult(test, key, matchPct) : null;
 
-  let name = test?.title ?? 'Parable';
-  let emoji = '📜';
-  let line = "What's your parable?";
-
-  if (test?.mode === 'archetype' && test.results[key]) {
-    name = test.results[key].name;
-    emoji = test.results[key].emoji;
-    line = `I got ${name} on Parable`;
-  } else if (test?.mode === 'profile' && test.results[key]) {
-    name = test.results[key].name;
-    line = `My top gift: ${name}`;
-  } else if (test?.mode === 'knowledge') {
-    name = `${key}%`;
-    line = `I scored ${key}% on ${test.title}`;
+  // Missing test/result/archetype key -> blank cream card (don't crash).
+  if (!d) {
+    return new ImageResponse(
+      <div style={{ width: '100%', height: '100%', display: 'flex', background: '#fdf5ee' }} />,
+      { width: W, height: H },
+    );
   }
+
+  const name = d.baseName;
+  const nameSize = nameFontSize(name) * 2.8; // live tokens are ~330px-wide; OG is 1080px
+
+  const a = artUrl(slug, key);
+  const artSrc = a.startsWith('http') ? a : url.origin + a;
+  const starColor = (on: boolean) => (on ? CARD.star[d.rarity.material].to : 'rgba(107,68,35,0.25)');
 
   return new ImageResponse(
     (
-      <div
-        style={{
-          width: '100%', height: '100%', display: 'flex', flexDirection: 'column',
-          background: 'linear-gradient(160deg, #fdf5ee 0%, #e8c9a7 100%)',
-          color: '#4a2f15', fontFamily: 'Inter', padding: 60, justifyContent: 'space-between',
-        }}
-      >
-        <div style={{ fontSize: 28, fontWeight: 800, color: '#6b4423' }}>Parable</div>
-        <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', textAlign: 'center' }}>
-          <div style={{ fontSize: 120 }}>{emoji}</div>
-          <div style={{ fontSize: 72, fontWeight: 800, marginTop: 12 }}>{name}</div>
-          <div style={{ fontSize: 28, color: '#4a3c2e', marginTop: 12 }}>{line}</div>
+      <div style={{ width: '100%', height: '100%', display: 'flex',
+        backgroundImage: `url(${frameDataUri(d.rarity.frame)})`, backgroundSize: '1080px 1350px' }}>
+        <div style={{ position: 'absolute', left: PANEL.left, right: PANEL.right, top: PANEL.top, bottom: PANEL.bottom,
+          background: CARD.panel.bg, border: `3px solid ${CARD.panel.border}`, borderRadius: 34,
+          display: 'flex', flexDirection: 'column', alignItems: 'center', padding: '34px 40px 30px 70px' }}>
+          {/* star rail */}
+          <div style={{ position: 'absolute', left: 18, top: 120, display: 'flex', flexDirection: 'column', gap: 10 }}>
+            {Array.from({ length: 5 }, (_, i) => (
+              <div key={i} style={{ fontSize: 34, color: starColor(i < d.rarity.stars), display: 'flex' }}>★</div>
+            ))}
+          </div>
+          <div style={{ fontFamily: 'Cinzel', fontWeight: 700, fontSize: 30, letterSpacing: 6, color: CARD.ink.wm, display: 'flex' }}>PARABLE</div>
+          {/* image window */}
+          <div style={{ width: 560, height: 360, marginTop: 14, borderRadius: 24, overflow: 'hidden', border: '4px solid rgba(212,175,55,.7)', display: 'flex' }}>
+            {d.hasArt
+              ? <img width={560} height={360} src={artSrc} style={{ objectFit: 'cover' }} />
+              : <div style={{ width: 560, height: 360, display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: 180, background: 'linear-gradient(160deg,#fff8ed,#f0dcc4)' }}>{d.emoji}</div>}
+          </div>
+          <div style={{ fontFamily: 'Inter', fontWeight: 800, fontSize: 26, letterSpacing: 6, marginTop: 18, color: d.rarity.accent, display: 'flex' }}>
+            {d.rarity.tier === 'legendary' ? '✦ ' : ''}{d.rarity.label.toUpperCase()}
+          </div>
+          <div style={{ fontFamily: 'Cinzel', fontWeight: 900, fontSize: nameSize, color: CARD.ink.strong, marginTop: 6, textAlign: 'center', display: 'flex' }}>{name}</div>
+          {d.epithet && <div style={{ fontFamily: 'EB Garamond', fontStyle: 'italic', fontSize: 34, color: CARD.ink.soft, marginTop: 4, display: 'flex' }}>{d.epithet}</div>}
+          {d.traits.length > 0 && <div style={{ fontFamily: 'Inter', fontWeight: 700, fontSize: 20, letterSpacing: 2, color: CARD.ink.body, marginTop: 12, textAlign: 'center', display: 'flex' }}>{d.traits.join(' · ').toUpperCase()}</div>}
+          {d.verse.text && <div style={{ fontFamily: 'EB Garamond', fontStyle: 'italic', fontSize: 26, color: CARD.ink.body, marginTop: 22, textAlign: 'center', display: 'flex' }}>&ldquo;{d.verse.text}&rdquo; — {d.verse.reference}{d.verse.translation ? ` (${d.verse.translation})` : ''}</div>}
+          {d.matchPct !== null && <div style={{ fontFamily: 'Inter', fontWeight: 700, fontSize: 20, letterSpacing: 3, color: CARD.ink.mute, marginTop: 'auto', display: 'flex' }}>{d.matchPct}% MATCH</div>}
         </div>
-        <div style={{ fontSize: 22, color: '#8a6a47' }}>parable.quiz</div>
       </div>
     ),
-    { width: 1200, height: 630 }
+    {
+      width: W, height: H,
+      fonts: [
+        { name: 'Cinzel', data: font('Cinzel-Bold.ttf'), weight: 700, style: 'normal' },
+        { name: 'Cinzel', data: font('Cinzel-Black.ttf'), weight: 900, style: 'normal' },
+        { name: 'Inter', data: font('Inter-Regular.ttf'), weight: 400, style: 'normal' },
+        { name: 'Inter', data: font('Inter-Bold.ttf'), weight: 700, style: 'normal' },
+        { name: 'Inter', data: font('Inter-ExtraBold.ttf'), weight: 800, style: 'normal' },
+        { name: 'EB Garamond', data: font('EBGaramond-Italic.ttf'), weight: 400, style: 'italic' },
+      ],
+    },
   );
 }
