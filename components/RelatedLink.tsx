@@ -2,7 +2,7 @@
 'use client';
 import Link from 'next/link';
 import { track } from '@vercel/analytics';
-import { Card, CardContent } from '@/components/ui/card-2';
+import { Card, CardHeader, CardContent, CardTitle, CardDescription } from '@/components/ui/card-2';
 
 export function RelatedLink({
   fromSlug, toSlug, title, emoji, estimatedMinutes,
@@ -19,11 +19,21 @@ export function RelatedLink({
       onClick={() => track('related_quiz_click', { from: fromSlug, to: toSlug })}
       className="block h-full"
     >
-      <Card className="h-full">
-        <CardContent className="p-5">
-          <div className="text-3xl mb-2">{emoji}</div>
-          <div className="text-base font-bold text-brown leading-tight">{title}</div>
-          <div className="text-xs text-ink-mute mt-1">{estimatedMinutes} min</div>
+      <Card className="flex h-full flex-col">
+        <CardHeader className="gap-3">
+          <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-cream-2 text-xl">{emoji}</div>
+          <div className="min-w-0 flex-1">
+            <CardTitle className="text-base leading-snug line-clamp-2">{title}</CardTitle>
+            <CardDescription className="mt-0.5 text-xs">Take another</CardDescription>
+          </div>
+        </CardHeader>
+        <CardContent className="flex flex-1 flex-col">
+          <div className="flex w-full items-center justify-center bg-gradient-to-br from-cream-1 to-rose" style={{ aspectRatio: '3 / 2' }}>
+            <span className="text-6xl drop-shadow-sm">{emoji}</span>
+          </div>
+          <div className="px-4 py-3">
+            <p className="text-sm font-medium text-ink-soft">{estimatedMinutes} min</p>
+          </div>
         </CardContent>
       </Card>
     </Link>
