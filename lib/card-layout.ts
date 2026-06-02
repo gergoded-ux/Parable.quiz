@@ -14,3 +14,17 @@ export const CARD = {
     gold:     { from: '#f6d97a', to: '#c8961f' },
   },
 } as const;
+
+// Panel inset geometry, shared by the live DOM card and the next/og renderer.
+export const PANEL = { left: '16.5%', right: '16.5%', top: '18.5%', bottom: '12%' } as const;
+
+// Banded auto-fit for the result name. Profile names are full sentences
+// (up to ~48 chars), so a single fixed size overflows the title box.
+export function nameFontSize(name: string): number {
+  const n = name.length;
+  if (n <= 8) return 30;
+  if (n <= 14) return 24;
+  if (n <= 22) return 19;
+  if (n <= 34) return 16;
+  return 13;
+}

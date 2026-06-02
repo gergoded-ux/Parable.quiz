@@ -1,23 +1,23 @@
 // components/card/ResultCardLive.tsx
 'use client';
 import { useEffect, useState } from 'react';
-import { CARD } from '@/lib/card-layout';
+import { CARD, PANEL, nameFontSize } from '@/lib/card-layout';
 import { StarRail } from './StarRail';
 import { CardStatArea } from './CardStatArea';
 import { artUrl, frameUrl } from '@/lib/card-art';
 import type { CardData } from '@/lib/card-data';
 
-function displayName(name: string) {
-  const m = name.match(/^(.*?)\s*\(([^)]+)\)\s*$/);
-  return m ? m[1].trim() : name;
-}
-
 export function ResultCardLive({ data, cardRef }: { data: CardData; cardRef?: React.Ref<HTMLDivElement> }) {
   const [revealed, setRevealed] = useState(false);
-  useEffect(() => { const t = setTimeout(() => setRevealed(true), 250); return () => clearTimeout(t); }, []);
+  useEffect(() => {
+    const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    if (reduce) { setRevealed(true); return; }
+    const t = setTimeout(() => setRevealed(true), 250);
+    return () => clearTimeout(t);
+  }, []);
 
-  const name = displayName(data.name);
-  const nameSize = name.length > 10 ? 24 : 30;
+  const name = data.baseName;
+  const nameSize = nameFontSize(name);
   const frame = frameUrl(data.rarity.frame);
 
   return (
@@ -28,7 +28,7 @@ export function ResultCardLive({ data, cardRef }: { data: CardData; cardRef?: Re
         {/* front */}
         <div style={{ position: 'absolute', inset: 0, backfaceVisibility: 'hidden', borderRadius: 14, overflow: 'hidden',
           backgroundImage: `url(${frame})`, backgroundSize: 'cover', boxShadow: '0 10px 26px rgba(80,50,20,.3)' }}>
-          <div style={{ position: 'absolute', left: '16.5%', right: '16.5%', top: '18.5%', bottom: '12%',
+          <div style={{ position: 'absolute', left: PANEL.left, right: PANEL.right, top: PANEL.top, bottom: PANEL.bottom,
             background: CARD.panel.bg, border: `1px solid ${CARD.panel.border}`, borderRadius: 12,
             display: 'flex', flexDirection: 'column', alignItems: 'center', padding: '9px 11px 9px 22px', textAlign: 'center' }}>
             <StarRail filled={data.rarity.stars} material={data.rarity.material} />
@@ -41,8 +41,9 @@ export function ResultCardLive({ data, cardRef }: { data: CardData; cardRef?: Re
             <div style={{ fontFamily: CARD.fonts.body, fontWeight: 800, fontSize: 9.5, letterSpacing: 2.5, marginTop: 6, color: data.rarity.accent }}>
               {data.rarity.tier === 'legendary' ? '✦ ' : ''}{data.rarity.label.toUpperCase()}
             </div>
-            <div style={{ height: 30, display: 'flex', alignItems: 'center' }}>
-              <div style={{ fontFamily: CARD.fonts.display, fontWeight: 900, fontSize: nameSize, color: CARD.ink.strong, lineHeight: 1 }}>{name}</div>
+            <div style={{ minHeight: 34, maxHeight: 44, display: 'flex', alignItems: 'center' }}>
+              <div style={{ fontFamily: CARD.fonts.display, fontWeight: 900, fontSize: nameSize, color: CARD.ink.strong,
+                lineHeight: 1.05, overflow: 'hidden', display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical' }}>{name}</div>
             </div>
             {data.epithet && <div style={{ fontFamily: CARD.fonts.serifItalic, fontStyle: 'italic', fontSize: 12.5, color: CARD.ink.soft }}>{data.epithet}</div>}
             {data.traits.length > 0 && <div style={{ fontFamily: CARD.fonts.body, fontWeight: 700, fontSize: 8.5, letterSpacing: .8, color: CARD.ink.body, marginTop: 5 }}>{data.traits.join(' · ').toUpperCase()}</div>}

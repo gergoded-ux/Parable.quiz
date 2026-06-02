@@ -59,6 +59,7 @@ export default async function ResultPage({ params, searchParams }: { params: Pro
 
   const matchPct = m != null && m !== '' ? Math.max(0, Math.min(100, parseInt(m, 10) || 0)) : null;
   const cardData = cardDataFromResult(test, key, matchPct);
+  if (!cardData) notFound();
 
   const shareUrl = `https://parable.quiz/q/${test.slug}/r/${key}`;
   const ogImageAbs = `https://parable.quiz/og/${test.slug}/${key}`;
