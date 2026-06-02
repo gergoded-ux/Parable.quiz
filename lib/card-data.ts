@@ -26,6 +26,24 @@ function splitName(name: string): { base: string; epithet: string | null } {
   return { base: m[1].trim(), epithet: ep.charAt(0).toUpperCase() + ep.slice(1) };
 }
 
+// For binary "which X are you" archetype quizzes, build a two-row affinity
+// stat (winner% vs other%) so the live card and the OG card render identical
+// bars. Returns undefined when it doesn't apply (non-archetype, no match%,
+// or not exactly two results).
+export function binaryAffinityStat(test: Test, key: string, matchPct: number | null):
+  { heading: string; rows: { label: string; value: number }[]; suffix: string } | undefined {
+  if (test.mode !== 'archetype' || matchPct === null) return undefined;
+  const keys = Object.keys(test.results);
+  if (keys.length !== 2) return undefined;
+  const other = keys.find(k => k !== key);
+  if (!other) return undefined;
+  const nm = (n: string) => n.replace(/\s*\(.*$/, '');
+  return { heading: 'AFFINITY', suffix: '%', rows: [
+    { label: nm(test.results[key].name), value: matchPct },
+    { label: nm(test.results[other].name), value: 100 - matchPct },
+  ]};
+}
+
 export function cardDataFromResult(
   test: Test,
   key: string,

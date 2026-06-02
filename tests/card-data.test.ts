@@ -1,6 +1,6 @@
 // tests/card-data.test.ts
 import { describe, it, expect } from 'vitest';
-import { cardDataFromResult } from '@/lib/card-data';
+import { cardDataFromResult, binaryAffinityStat } from '@/lib/card-data';
 import { loadTestBySlug } from '@/lib/test-loader';
 
 describe('cardDataFromResult', () => {
@@ -21,5 +21,26 @@ describe('cardDataFromResult', () => {
     const cd = cardDataFromResult(test, 'rachel')!;
     expect(cd.matchPct).toBeNull();
     expect(cd.rarity.tier).toBe('common');    // representative default
+  });
+});
+
+describe('binaryAffinityStat', () => {
+  it('builds two affinity rows for a binary archetype quiz', () => {
+    const test = loadTestBySlug('are-you-a-leah-or-a-rachel')!;
+    const stat = binaryAffinityStat(test, 'leah', 88)!;
+    expect(stat.heading).toBe('AFFINITY');
+    expect(stat.suffix).toBe('%');
+    expect(stat.rows).toEqual([
+      { label: 'Leah', value: 88 },
+      { label: 'Rachel', value: 12 },
+    ]);
+  });
+  it('returns undefined when match% is null', () => {
+    const test = loadTestBySlug('are-you-a-leah-or-a-rachel')!;
+    expect(binaryAffinityStat(test, 'leah', null)).toBeUndefined();
+  });
+  it('returns undefined for a non-binary archetype quiz', () => {
+    const test = loadTestBySlug('which-apostle-are-you')!;
+    expect(binaryAffinityStat(test, 'peter', 70)).toBeUndefined();
   });
 });

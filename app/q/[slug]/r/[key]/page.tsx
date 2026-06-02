@@ -7,7 +7,7 @@ import { ResultCard } from '@/components/ResultCard';
 import { AdSlot } from '@/components/AdSlot';
 import { RelatedQuizzes } from '@/components/RelatedQuizzes';
 import { ShareableCard } from '@/components/card/ShareableCard';
-import { cardDataFromResult } from '@/lib/card-data';
+import { cardDataFromResult, binaryAffinityStat } from '@/lib/card-data';
 
 export function generateStaticParams() {
   const params: { slug: string; key: string }[] = [];
@@ -59,7 +59,8 @@ export default async function ResultPage({ params, searchParams }: { params: Pro
   if (!test) notFound();
 
   const matchPct = m != null && m !== '' ? Math.max(0, Math.min(100, parseInt(m, 10) || 0)) : null;
-  const cardData = cardDataFromResult(test, key, matchPct);
+  const stat = binaryAffinityStat(test, key, matchPct);
+  const cardData = cardDataFromResult(test, key, matchPct, stat);
   if (!cardData) notFound();
 
   const mq = matchPct !== null ? `?m=${matchPct}` : '';

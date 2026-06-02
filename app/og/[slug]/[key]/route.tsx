@@ -3,7 +3,7 @@ import { ImageResponse } from 'next/og';
 import { readFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { loadTestBySlug } from '@/lib/test-loader';
-import { cardDataFromResult } from '@/lib/card-data';
+import { cardDataFromResult, binaryAffinityStat } from '@/lib/card-data';
 import { CARD, PANEL, nameFontSizeOg, STAR_PATH } from '@/lib/card-layout';
 import { artUrl } from '@/lib/card-art';
 
@@ -43,7 +43,8 @@ export async function GET(req: Request, { params }: { params: Promise<{ slug: st
 
   const W = CARD.width, H = CARD.height;
   const test = loadTestBySlug(slug);
-  const d = test ? cardDataFromResult(test, key, matchPct) : null;
+  const stat = test ? binaryAffinityStat(test, key, matchPct) : undefined;
+  const d = test ? cardDataFromResult(test, key, matchPct, stat) : null;
 
   // Missing test/result/archetype key -> blank cream card (don't crash).
   if (!d) {
@@ -95,6 +96,21 @@ export async function GET(req: Request, { params }: { params: Promise<{ slug: st
           </div>
           {d.epithet && <div style={{ fontFamily: 'EB Garamond', fontStyle: 'italic', fontSize: 34, color: CARD.ink.soft, marginTop: 4, display: 'flex' }}>{d.epithet}</div>}
           {d.traits.length > 0 && <div style={{ fontFamily: 'Inter', fontWeight: 700, fontSize: 20, letterSpacing: 2, color: CARD.ink.body, marginTop: 12, textAlign: 'center', display: 'flex' }}>{d.traits.join(' · ').toUpperCase()}</div>}
+          {/* affinity bars — mirror the live CardStatArea, scaled for the 1080 canvas */}
+          {d.stat.rows.length > 0 && (
+            <div style={{ width: 560, marginTop: 18, display: 'flex', flexDirection: 'column', gap: 10 }}>
+              <div style={{ fontFamily: 'Inter', fontWeight: 800, fontSize: 22, letterSpacing: 4, color: CARD.ink.mute, display: 'flex' }}>{d.stat.heading}</div>
+              {d.stat.rows.map((row) => (
+                <div key={row.label} style={{ display: 'flex', alignItems: 'center', fontFamily: 'Inter', fontSize: 26, color: CARD.ink.strong }}>
+                  <div style={{ width: 170, textAlign: 'left', fontWeight: 600, display: 'flex' }}>{row.label}</div>
+                  <div style={{ flex: 1, height: 16, background: 'rgba(120,74,13,0.18)', borderRadius: 20, overflow: 'hidden', display: 'flex', marginLeft: 16, marginRight: 16 }}>
+                    <div style={{ width: `${Math.max(0, Math.min(100, row.value))}%`, height: '100%', borderRadius: 20, background: 'linear-gradient(90deg,#b8932f,#6b4423)', display: 'flex' }} />
+                  </div>
+                  <div style={{ width: 70, textAlign: 'right', fontWeight: 800, display: 'flex', justifyContent: 'flex-end' }}>{row.value}{d.stat.suffix}</div>
+                </div>
+              ))}
+            </div>
+          )}
           {d.verse.text && <div style={{ fontFamily: 'EB Garamond', fontStyle: 'italic', fontSize: 26, color: CARD.ink.body, marginTop: 22, textAlign: 'center', display: 'flex' }}>&ldquo;{d.verse.text}&rdquo; — {d.verse.reference}{d.verse.translation ? ` (${d.verse.translation})` : ''}</div>}
           {d.matchPct !== null && <div style={{ fontFamily: 'Inter', fontWeight: 700, fontSize: 20, letterSpacing: 3, color: CARD.ink.mute, marginTop: 'auto', display: 'flex' }}>{d.matchPct}% MATCH</div>}
         </div>
