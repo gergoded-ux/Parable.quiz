@@ -20,19 +20,19 @@ export function RelatedLink({
       className="block h-full"
     >
       <Card className="flex h-full flex-col">
-        <CardHeader className="gap-3">
-          <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-cream-2 text-xl">{emoji}</div>
+        <CardHeader className="gap-2.5 p-3">
+          <div className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-cream-2 text-base">{emoji}</div>
           <div className="min-w-0 flex-1">
-            <CardTitle className="text-base leading-snug line-clamp-2">{title}</CardTitle>
-            <CardDescription className="mt-0.5 text-xs">Take another</CardDescription>
+            <CardTitle className="text-sm leading-snug line-clamp-2">{title}</CardTitle>
+            <CardDescription className="mt-0.5 text-[11px]">Take another</CardDescription>
           </div>
         </CardHeader>
         <CardContent className="flex flex-1 flex-col">
           <div className="flex w-full items-center justify-center bg-gradient-to-br from-cream-1 to-rose" style={{ aspectRatio: '3 / 2' }}>
-            <span className="text-6xl drop-shadow-sm">{emoji}</span>
+            <span className="text-5xl drop-shadow-sm">{emoji}</span>
           </div>
-          <div className="px-4 py-3">
-            <p className="text-sm font-medium text-ink-soft">{estimatedMinutes} min</p>
+          <div className="px-3 py-2.5">
+            <p className="text-xs font-medium text-ink-soft">{estimatedMinutes} min</p>
           </div>
         </CardContent>
       </Card>

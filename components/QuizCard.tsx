@@ -2,6 +2,7 @@
 import Link from 'next/link';
 import type { Test } from '@/lib/schema';
 import { Card, CardHeader, CardContent, CardTitle, CardDescription } from '@/components/ui/card-2';
+import { hasQuizCover, quizCoverUrl } from '@/lib/card-art';
 
 function pickEmoji(t: Test): string {
   if (t.mode === 'archetype') {
@@ -36,23 +37,33 @@ export function QuizCard({ test }: { test: Test }) {
   return (
     <Link href={`/q/${test.slug}`} className="block h-full">
       <Card className="flex h-full flex-col">
-        <CardHeader className="gap-3">
-          <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-cream-2 text-xl">{emoji}</div>
+        <CardHeader className="gap-2.5 p-3">
+          <div className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-cream-2 text-base">{emoji}</div>
           <div className="min-w-0 flex-1">
-            <CardTitle className="text-base leading-snug line-clamp-2">{test.title}</CardTitle>
-            <CardDescription className="mt-0.5 text-xs">{categoryLabel(test)}</CardDescription>
+            <CardTitle className="text-sm leading-snug line-clamp-2">{test.title}</CardTitle>
+            <CardDescription className="mt-0.5 text-[11px]">{categoryLabel(test)}</CardDescription>
           </div>
         </CardHeader>
         <CardContent className="flex flex-1 flex-col">
-          {/* Placeholder cover — swap for per-quiz art later (public/quizzes/<slug>.jpg). */}
-          <div
-            className={`flex w-full items-center justify-center bg-gradient-to-br ${coverGradient(test)}`}
-            style={{ aspectRatio: '3 / 2' }}
-          >
-            <span className="text-6xl drop-shadow-sm">{emoji}</span>
-          </div>
-          <div className="px-4 py-3">
-            <p className="text-sm font-medium text-ink-soft">{describeMeta(test)}</p>
+          {/* Real cover art if present (public/quizzes/<slug>.jpg), else a warm
+              gradient + emoji placeholder. */}
+          {hasQuizCover(test.slug) ? (
+            <img
+              src={quizCoverUrl(test.slug)}
+              alt=""
+              className="w-full object-cover"
+              style={{ aspectRatio: '3 / 2' }}
+            />
+          ) : (
+            <div
+              className={`flex w-full items-center justify-center bg-gradient-to-br ${coverGradient(test)}`}
+              style={{ aspectRatio: '3 / 2' }}
+            >
+              <span className="text-5xl drop-shadow-sm">{emoji}</span>
+            </div>
+          )}
+          <div className="px-3 py-2.5">
+            <p className="text-xs font-medium text-ink-soft">{describeMeta(test)}</p>
           </div>
         </CardContent>
       </Card>

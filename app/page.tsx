@@ -17,8 +17,8 @@ export default function Home() {
         <h1 className="text-4xl md:text-5xl font-extrabold text-brown-dark -tracking-wide mb-3">
           What&rsquo;s your parable?
         </h1>
-        <p className="text-base text-ink-soft mb-3">20 quizzes that reveal what scripture says about you.</p>
-        <div className="text-xs uppercase tracking-widest text-ink-mute">20 QUIZZES · ALWAYS FREE · NO SIGN-UP</div>
+        <p className="text-base text-ink-soft mb-3">{all.length} quizzes that reveal what scripture says about you.</p>
+        <div className="text-xs uppercase tracking-widest text-ink-mute">{all.length} QUIZZES · ALWAYS FREE · NO SIGN-UP</div>
       </header>
 
       <Section id="archetype" title="Most shared this week">
@@ -44,9 +44,9 @@ export default function Home() {
 
 function Section({ id, title, children }: { id: string; title: string; children: React.ReactNode }) {
   return (
-    <section id={id} className="px-8 mt-6">
+    <section id={id} className="px-6 mt-8">
       <h2 className="text-xs uppercase tracking-widest text-brown my-3">{title}</h2>
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-4">{children}</div>
+      <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3">{children}</div>
     </section>
   );
 }
