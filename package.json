@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build:art": "tsx scripts/build-art-manifest.ts",
-    "build": "pnpm build:art && next build",
+    "build:catalog": "tsx scripts/build-catalog.ts",
+    "build": "pnpm build:art && pnpm build:catalog && next build",
     "start": "next start",
     "test": "vitest run",
     "test:watch": "vitest",

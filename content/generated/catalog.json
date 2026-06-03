@@ -1,0 +1,2202 @@
+[
+  {
+    "slug": "which-bible-figure-felt-your-anxiety",
+    "title": "Which Bible Figure Felt Your Kind of Anxiety?",
+    "category": "bible-character",
+    "theme": "anxiety",
+    "mode": "archetype",
+    "status": "live",
+    "hasCover": true,
+    "virality": 90
+  },
+  {
+    "slug": "which-fear-not-moment-is-yours",
+    "title": "Which \"Fear Not\" Bible Moment Is Yours?",
+    "category": "bible-character",
+    "theme": "anxiety",
+    "mode": "archetype",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 86
+  },
+  {
+    "slug": "which-anxious-bible-prayer-sounds-like-you",
+    "title": "Which Anxious Bible Prayer Sounds Like You?",
+    "category": "bible-character",
+    "theme": "anxiety",
+    "mode": "archetype",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 83
+  },
+  {
+    "slug": "which-waiting-season-bible-figure",
+    "title": "Which Bible Figure's Waiting Season Are You In?",
+    "category": "bible-character",
+    "theme": "calling-purpose",
+    "mode": "archetype",
+    "status": "live",
+    "hasCover": true,
+    "virality": 92
+  },
+  {
+    "slug": "which-bible-waiting-room",
+    "title": "Which Waiting Room of the Bible Are You Sitting In?",
+    "category": "bible-character",
+    "theme": "calling-purpose",
+    "mode": "archetype",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 84
+  },
+  {
+    "slug": "which-anointed-but-waiting-hero",
+    "title": "Which Anointed-but-Waiting Hero Are You?",
+    "category": "bible-character",
+    "theme": "calling-purpose",
+    "mode": "archetype",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 83
+  },
+  {
+    "slug": "which-wilderness-season",
+    "title": "Which Wilderness Season Are You In?",
+    "category": "bible-character",
+    "theme": "calling-purpose",
+    "mode": "archetype",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 83
+  },
+  {
+    "slug": "which-decision-maker-bible-figure",
+    "title": "Which Bible Figure Made a Big Decision Like You?",
+    "category": "bible-character",
+    "theme": "calling-purpose",
+    "mode": "archetype",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 82
+  },
+  {
+    "slug": "which-in-between-bible-place",
+    "title": "Which In-Between Place of the Bible Describes You?",
+    "category": "bible-character",
+    "theme": "calling-purpose",
+    "mode": "archetype",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 82
+  },
+  {
+    "slug": "which-bible-figure-wounded-by-religious-leaders",
+    "title": "Which Bible Figure Was Wounded by Religious Leaders Like You?",
+    "category": "bible-character",
+    "theme": "church-hurt",
+    "mode": "archetype",
+    "status": "live",
+    "hasCover": true,
+    "virality": 89
+  },
+  {
+    "slug": "are-you-a-leah-or-a-rachel",
+    "title": "Are You a Leah or a Rachel?",
+    "category": "bible-character",
+    "theme": "comparison-shame",
+    "mode": "archetype",
+    "status": "live",
+    "hasCover": true,
+    "virality": 88
+  },
+  {
+    "slug": "which-bible-temptation-are-you-fighting",
+    "title": "Which Bible Figure's Temptation Are You Fighting?",
+    "category": "bible-character",
+    "theme": "discipleship",
+    "mode": "archetype",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 86
+  },
+  {
+    "slug": "mary-or-martha",
+    "title": "Are You More Mary or Martha?",
+    "category": "bible-character",
+    "theme": "discipleship",
+    "mode": "archetype",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": null
+  },
+  {
+    "slug": "which-beatitude-defines-you",
+    "title": "Which Beatitude Defines You?",
+    "category": "bible-character",
+    "theme": "discipleship",
+    "mode": "archetype",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": null
+  },
+  {
+    "slug": "which-fruit-of-the-spirit-are-you",
+    "title": "Which Fruit of the Spirit Are You?",
+    "category": "bible-character",
+    "theme": "discipleship",
+    "mode": "archetype",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": null
+  },
+  {
+    "slug": "which-doubting-bible-figure-are-you",
+    "title": "Which Doubting Bible Figure Are You?",
+    "category": "bible-character",
+    "theme": "doubt-faith",
+    "mode": "archetype",
+    "status": "live",
+    "hasCover": true,
+    "virality": 92
+  },
+  {
+    "slug": "which-when-god-is-silent-figure-are-you",
+    "title": "Which \"When God Is Silent\" Bible Figure Are You?",
+    "category": "bible-character",
+    "theme": "doubt-faith",
+    "mode": "archetype",
+    "status": "live",
+    "hasCover": true,
+    "virality": 89
+  },
+  {
+    "slug": "which-reluctant-believer-are-you",
+    "title": "Which Reluctant Believer Are You?",
+    "category": "bible-character",
+    "theme": "doubt-faith",
+    "mode": "archetype",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 87
+  },
+  {
+    "slug": "which-forgiven-bible-figure-are-you",
+    "title": "Which Forgiven Bible Figure Are You?",
+    "category": "bible-character",
+    "theme": "forgiveness",
+    "mode": "archetype",
+    "status": "live",
+    "hasCover": false,
+    "virality": 88
+  },
+  {
+    "slug": "which-bible-figures-grudge",
+    "title": "Which Bible Figure's Grudge Are You Carrying?",
+    "category": "bible-character",
+    "theme": "forgiveness",
+    "mode": "archetype",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 85
+  },
+  {
+    "slug": "which-bible-figures-grief-mirrors-yours",
+    "title": "Which Bible Figure's Grief Mirrors Yours?",
+    "category": "bible-character",
+    "theme": "grief-loss",
+    "mode": "archetype",
+    "status": "live",
+    "hasCover": true,
+    "virality": 90
+  },
+  {
+    "slug": "which-lament-prayer-is-yours-right-now",
+    "title": "Which Bible Prayer of Lament Is Yours Right Now?",
+    "category": "bible-character",
+    "theme": "grief-loss",
+    "mode": "archetype",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 86
+  },
+  {
+    "slug": "which-psalm-of-lament-is-your-prayer-today",
+    "title": "Which Psalm of Lament Is Your Prayer Today?",
+    "category": "bible-character",
+    "theme": "grief-loss",
+    "mode": "archetype",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 83
+  },
+  {
+    "slug": "which-grieving-woman-of-the-bible-are-you",
+    "title": "Which Grieving Woman of the Bible Are You?",
+    "category": "bible-character",
+    "theme": "grief-loss",
+    "mode": "archetype",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 82
+  },
+  {
+    "slug": "which-wounded-but-healed-bible-figure",
+    "title": "Which Wounded-but-Healed Bible Figure Are You?",
+    "category": "bible-character",
+    "theme": "healing-wounds",
+    "mode": "archetype",
+    "status": "live",
+    "hasCover": true,
+    "virality": 94
+  },
+  {
+    "slug": "which-healing-encounter-with-jesus",
+    "title": "Which Healing Encounter With Jesus Is Yours?",
+    "category": "bible-character",
+    "theme": "healing-wounds",
+    "mode": "archetype",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 88
+  },
+  {
+    "slug": "which-generational-curse-are-you-called-to-break",
+    "title": "Which Generational Curse Are You Called to Break?",
+    "category": "bible-character",
+    "theme": "healing-wounds",
+    "mode": "archetype",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 87
+  },
+  {
+    "slug": "which-bible-figure-hid-their-wound",
+    "title": "Which Bible Figure Hid Their Wound Like You Do?",
+    "category": "bible-character",
+    "theme": "healing-wounds",
+    "mode": "archetype",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 86
+  },
+  {
+    "slug": "which-bible-betrayal-feels-like-yours",
+    "title": "Which Bible Figure's Betrayal Feels Like Yours?",
+    "category": "bible-character",
+    "theme": "healing-wounds",
+    "mode": "archetype",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 86
+  },
+  {
+    "slug": "which-overlooked-bible-person-are-you",
+    "title": "Which Overlooked Bible Person Are You?",
+    "category": "bible-character",
+    "theme": "identity",
+    "mode": "archetype",
+    "status": "live",
+    "hasCover": true,
+    "virality": 94
+  },
+  {
+    "slug": "older-brother-or-prodigal",
+    "title": "Are You the Older Brother or the Prodigal?",
+    "category": "bible-character",
+    "theme": "identity",
+    "mode": "archetype",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 85
+  },
+  {
+    "slug": "unseen-by-god-moment",
+    "title": "Which \"Unseen by God\" Moment Do You Relate To?",
+    "category": "bible-character",
+    "theme": "loneliness-belonging",
+    "mode": "archetype",
+    "status": "live",
+    "hasCover": true,
+    "virality": 89
+  },
+  {
+    "slug": "found-by-god-story",
+    "title": "Which \"Found by God\" Story Is Yours?",
+    "category": "bible-character",
+    "theme": "loneliness-belonging",
+    "mode": "archetype",
+    "status": "live",
+    "hasCover": true,
+    "virality": 88
+  },
+  {
+    "slug": "outsider-woman-of-the-bible",
+    "title": "Which Outsider Woman of the Bible Are You?",
+    "category": "bible-character",
+    "theme": "loneliness-belonging",
+    "mode": "archetype",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 86
+  },
+  {
+    "slug": "who-sees-you-invisible",
+    "title": "Who Sees You When You Feel Invisible?",
+    "category": "bible-character",
+    "theme": "loneliness-belonging",
+    "mode": "archetype",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 84
+  },
+  {
+    "slug": "bible-friendship-you-long-for",
+    "title": "Which Bible Friendship Do You Long For?",
+    "category": "bible-character",
+    "theme": "loneliness-belonging",
+    "mode": "archetype",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 83
+  },
+  {
+    "slug": "which-money-deadly-sin-are-you",
+    "title": "Which Deadly Sin Is Your Money Tempting You Toward?",
+    "category": "bible-character",
+    "theme": "money-work",
+    "mode": "archetype",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 83
+  },
+  {
+    "slug": "which-bible-parent-are-you",
+    "title": "Which Bible Parent Are You?",
+    "category": "bible-character",
+    "theme": "parenting-family",
+    "mode": "archetype",
+    "status": "live",
+    "hasCover": true,
+    "virality": 89
+  },
+  {
+    "slug": "which-bible-mother-are-you",
+    "title": "Which Bible Mother Are You?",
+    "category": "bible-character",
+    "theme": "parenting-family",
+    "mode": "archetype",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 85
+  },
+  {
+    "slug": "which-bible-family-are-you",
+    "title": "Which Bible Family Are You? (Family Drama Edition)",
+    "category": "bible-character",
+    "theme": "parenting-family",
+    "mode": "archetype",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 82
+  },
+  {
+    "slug": "which-bible-couple-is-your-relationship",
+    "title": "Which Bible Couple Is Your Relationship?",
+    "category": "bible-character",
+    "theme": "relationships-dating",
+    "mode": "archetype",
+    "status": "live",
+    "hasCover": true,
+    "virality": 94
+  },
+  {
+    "slug": "which-bible-money-figure-are-you",
+    "title": "Which Bible Figure's Relationship With Money Are You?",
+    "category": "bible-character",
+    "theme": "relationships-dating",
+    "mode": "archetype",
+    "status": "live",
+    "hasCover": true,
+    "virality": 90
+  },
+  {
+    "slug": "which-bible-power-couple-are-you",
+    "title": "Which Bible Power Couple Are You?",
+    "category": "bible-character",
+    "theme": "relationships-dating",
+    "mode": "archetype",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 83
+  },
+  {
+    "slug": "which-burned-out-bible-hero-are-you",
+    "title": "Which Burned-Out Bible Hero Are You?",
+    "category": "bible-character",
+    "theme": "rest-burnout",
+    "mode": "archetype",
+    "status": "live",
+    "hasCover": true,
+    "virality": 92
+  },
+  {
+    "slug": "which-rhythm-of-jesus-do-you-need",
+    "title": "Which Rhythm of Jesus Do You Most Need?",
+    "category": "bible-character",
+    "theme": "rest-burnout",
+    "mode": "archetype",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 85
+  },
+  {
+    "slug": "whats-your-sabbath-personality",
+    "title": "What's Your Sabbath Personality?",
+    "category": "bible-character",
+    "theme": "rest-burnout",
+    "mode": "archetype",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 82
+  },
+  {
+    "slug": "which-apostle-are-you",
+    "title": "Which Apostle Are You?",
+    "category": "bible-character",
+    "theme": "scripture-archetype",
+    "mode": "archetype",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": null
+  },
+  {
+    "slug": "which-bible-animal-are-you",
+    "title": "Which Bible Animal Are You?",
+    "category": "bible-character",
+    "theme": "scripture-archetype",
+    "mode": "archetype",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": null
+  },
+  {
+    "slug": "which-bible-character-are-you",
+    "title": "Which Bible Character Are You?",
+    "category": "bible-character",
+    "theme": "scripture-archetype",
+    "mode": "archetype",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": null
+  },
+  {
+    "slug": "which-bible-story-are-you-living",
+    "title": "Which Bible Story Are You Living Through Right Now?",
+    "category": "bible-character",
+    "theme": "scripture-archetype",
+    "mode": "archetype",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": null
+  },
+  {
+    "slug": "which-christmas-character-are-you",
+    "title": "Which Christmas Story Character Are You?",
+    "category": "bible-character",
+    "theme": "scripture-archetype",
+    "mode": "archetype",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": null
+  },
+  {
+    "slug": "which-parable-describes-your-life",
+    "title": "Which Parable Describes Your Life Right Now?",
+    "category": "bible-character",
+    "theme": "scripture-archetype",
+    "mode": "archetype",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": null
+  },
+  {
+    "slug": "which-prophet-are-you",
+    "title": "Which Prophet Are You?",
+    "category": "bible-character",
+    "theme": "scripture-archetype",
+    "mode": "archetype",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": null
+  },
+  {
+    "slug": "which-psalm-speaks-to-you",
+    "title": "Which Psalm Speaks To You?",
+    "category": "bible-character",
+    "theme": "scripture-archetype",
+    "mode": "archetype",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": null
+  },
+  {
+    "slug": "which-woman-of-the-bible-are-you",
+    "title": "Which Woman of the Bible Are You?",
+    "category": "bible-character",
+    "theme": "scripture-archetype",
+    "mode": "archetype",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": null
+  },
+  {
+    "slug": "bible-doubters-iq",
+    "title": "Bible Doubters IQ: Who Really Said It?",
+    "category": "bible-iq",
+    "theme": "bible-knowledge",
+    "mode": "knowledge",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 81
+  },
+  {
+    "slug": "genesis-iq",
+    "title": "Genesis IQ",
+    "category": "bible-iq",
+    "theme": "bible-knowledge",
+    "mode": "knowledge",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": null
+  },
+  {
+    "slug": "parables-iq",
+    "title": "Parables IQ",
+    "category": "bible-iq",
+    "theme": "bible-knowledge",
+    "mode": "knowledge",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": null
+  },
+  {
+    "slug": "verse-or-quote",
+    "title": "Verse or Inspirational Quote?",
+    "category": "bible-iq",
+    "theme": "bible-knowledge",
+    "mode": "knowledge",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": null
+  },
+  {
+    "slug": "whats-your-anxiety-style",
+    "title": "What's Your Anxiety Style?",
+    "category": "spiritual-profile",
+    "theme": "anxiety",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 93
+  },
+  {
+    "slug": "do-you-have-high-functioning-anxiety",
+    "title": "Do You Have High-Functioning Anxiety?",
+    "category": "spiritual-profile",
+    "theme": "anxiety",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 92
+  },
+  {
+    "slug": "which-anxiety-verse-for-you",
+    "title": "Which Anxiety Bible Verse Is for You Right Now?",
+    "category": "spiritual-profile",
+    "theme": "anxiety",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 91
+  },
+  {
+    "slug": "whats-your-overthinking-spiral",
+    "title": "What Does Your Overthinking Spiral Look Like?",
+    "category": "spiritual-profile",
+    "theme": "anxiety",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 90
+  },
+  {
+    "slug": "is-it-anxiety-or-a-faith-problem",
+    "title": "Is It Anxiety or Is It a Faith Problem?",
+    "category": "spiritual-profile",
+    "theme": "anxiety",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 89
+  },
+  {
+    "slug": "whats-fueling-your-worry",
+    "title": "What's Fueling Your Worry?",
+    "category": "spiritual-profile",
+    "theme": "anxiety",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 89
+  },
+  {
+    "slug": "why-are-you-so-tired",
+    "title": "Why Are You So Tired?",
+    "category": "spiritual-profile",
+    "theme": "anxiety",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 89
+  },
+  {
+    "slug": "which-fear-is-running-your-life",
+    "title": "Which Fear Is Secretly Running Your Life?",
+    "category": "spiritual-profile",
+    "theme": "anxiety",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 88
+  },
+  {
+    "slug": "attachment-style-christian-relationships",
+    "title": "What's Your Attachment Style in Christian Relationships?",
+    "category": "spiritual-profile",
+    "theme": "anxiety",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 86
+  },
+  {
+    "slug": "which-psalm-for-your-anxiety",
+    "title": "Which Psalm Is for Your Anxiety?",
+    "category": "spiritual-profile",
+    "theme": "anxiety",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 86
+  },
+  {
+    "slug": "how-do-you-react-when-plans-fall-apart",
+    "title": "How Do You React When Plans Fall Apart?",
+    "category": "spiritual-profile",
+    "theme": "anxiety",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 84
+  },
+  {
+    "slug": "whats-your-health-anxiety-pattern",
+    "title": "What's Your Health-Anxiety Pattern?",
+    "category": "spiritual-profile",
+    "theme": "anxiety",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 83
+  },
+  {
+    "slug": "whats-your-hidden-money-fear",
+    "title": "What's Your Hidden Money Fear?",
+    "category": "spiritual-profile",
+    "theme": "anxiety",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 82
+  },
+  {
+    "slug": "whats-your-worry-language",
+    "title": "What's Your Worry Language?",
+    "category": "spiritual-profile",
+    "theme": "anxiety",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 82
+  },
+  {
+    "slug": "are-you-actually-behind-in-life",
+    "title": "Are You Actually Behind in Life?",
+    "category": "spiritual-profile",
+    "theme": "calling-purpose",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 90
+  },
+  {
+    "slug": "why-do-you-feel-stuck",
+    "title": "Why Do You Feel Stuck Right Now?",
+    "category": "spiritual-profile",
+    "theme": "calling-purpose",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 90
+  },
+  {
+    "slug": "what-is-god-preparing-you-for",
+    "title": "What Is God Preparing You For?",
+    "category": "spiritual-profile",
+    "theme": "calling-purpose",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 88
+  },
+  {
+    "slug": "are-you-stuck-in-worst-case-mode",
+    "title": "Are You Stuck in Worst-Case-Scenario Mode?",
+    "category": "spiritual-profile",
+    "theme": "calling-purpose",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 87
+  },
+  {
+    "slug": "whats-your-calling-style",
+    "title": "What's Your God-Given Calling Style?",
+    "category": "spiritual-profile",
+    "theme": "calling-purpose",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 87
+  },
+  {
+    "slug": "which-quarter-life-crisis",
+    "title": "Which Quarter-Life Crisis Are You Having?",
+    "category": "spiritual-profile",
+    "theme": "calling-purpose",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 87
+  },
+  {
+    "slug": "why-hasnt-god-answered-yet",
+    "title": "Why Hasn't God Answered Yet?",
+    "category": "spiritual-profile",
+    "theme": "calling-purpose",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 87
+  },
+  {
+    "slug": "waiting-on-god-or-god-waiting-on-you",
+    "title": "Are You Waiting on God or Is God Waiting on You?",
+    "category": "spiritual-profile",
+    "theme": "calling-purpose",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 86
+  },
+  {
+    "slug": "gods-plan-for-this-season",
+    "title": "What's God's Plan for This Season of Your Life?",
+    "category": "spiritual-profile",
+    "theme": "calling-purpose",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 86
+  },
+  {
+    "slug": "whats-blocking-your-decision",
+    "title": "What's Keeping You From Making the Decision?",
+    "category": "spiritual-profile",
+    "theme": "calling-purpose",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 86
+  },
+  {
+    "slug": "leap-or-keep-waiting",
+    "title": "Should You Make the Leap or Keep Waiting?",
+    "category": "spiritual-profile",
+    "theme": "calling-purpose",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 85
+  },
+  {
+    "slug": "whats-your-inner-healing-next-step",
+    "title": "What's Your Inner-Healing Next Step?",
+    "category": "spiritual-profile",
+    "theme": "calling-purpose",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 85
+  },
+  {
+    "slug": "whats-your-singleness-season",
+    "title": "What's Your Singleness Season?",
+    "category": "spiritual-profile",
+    "theme": "calling-purpose",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 85
+  },
+  {
+    "slug": "why-do-you-feel-purposeless",
+    "title": "Why Do You Feel Purposeless Right Now?",
+    "category": "spiritual-profile",
+    "theme": "calling-purpose",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 85
+  },
+  {
+    "slug": "chasing-or-running-from-calling",
+    "title": "Are You Chasing Your Calling or Running From It?",
+    "category": "spiritual-profile",
+    "theme": "calling-purpose",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 84
+  },
+  {
+    "slug": "whats-your-relationship-with-ambition",
+    "title": "What's Your Relationship With Ambition?",
+    "category": "spiritual-profile",
+    "theme": "calling-purpose",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 84
+  },
+  {
+    "slug": "why-is-your-love-life-stuck",
+    "title": "Why Is Your Love Life Stuck? A Christian Diagnosis",
+    "category": "spiritual-profile",
+    "theme": "calling-purpose",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 84
+  },
+  {
+    "slug": "are-you-a-workaholic-in-disguise",
+    "title": "Are You a Workaholic in Disguise?",
+    "category": "spiritual-profile",
+    "theme": "calling-purpose",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 83
+  },
+  {
+    "slug": "are-you-chasing-money-or-calling",
+    "title": "Are You Chasing Money or Calling?",
+    "category": "spiritual-profile",
+    "theme": "calling-purpose",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 82
+  },
+  {
+    "slug": "whats-your-decision-trap",
+    "title": "What's Your Biggest Decision-Making Trap?",
+    "category": "spiritual-profile",
+    "theme": "calling-purpose",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 81
+  },
+  {
+    "slug": "do-you-have-church-hurt",
+    "title": "Do You Have Church Hurt? (The Honest Test)",
+    "category": "spiritual-profile",
+    "theme": "church-hurt",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 95
+  },
+  {
+    "slug": "whats-your-church-hurt-recovery-stage",
+    "title": "What's Your Church-Hurt Recovery Stage?",
+    "category": "spiritual-profile",
+    "theme": "church-hurt",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 92
+  },
+  {
+    "slug": "whats-your-path-back-to-god",
+    "title": "What's Your Path Back to God After Church Hurt?",
+    "category": "spiritual-profile",
+    "theme": "church-hurt",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 90
+  },
+  {
+    "slug": "is-it-conviction-or-shame",
+    "title": "Is It Conviction or Is It Shame?",
+    "category": "spiritual-profile",
+    "theme": "church-hurt",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 89
+  },
+  {
+    "slug": "do-you-secretly-feel-like-a-fraud-at-church",
+    "title": "Do You Secretly Feel Like a Fraud at Church?",
+    "category": "spiritual-profile",
+    "theme": "church-hurt",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 88
+  },
+  {
+    "slug": "why-cant-you-trust-church-again",
+    "title": "Why Can't You Trust Church Again?",
+    "category": "spiritual-profile",
+    "theme": "church-hurt",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 88
+  },
+  {
+    "slug": "which-faith-deconstruction-stage",
+    "title": "Which Faith-Deconstruction Stage Are You In?",
+    "category": "spiritual-profile",
+    "theme": "church-hurt",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 87
+  },
+  {
+    "slug": "which-toxic-church-pattern-survived",
+    "title": "Which Toxic Church Pattern Did You Survive?",
+    "category": "spiritual-profile",
+    "theme": "church-hurt",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 87
+  },
+  {
+    "slug": "are-you-ready-to-find-a-new-church",
+    "title": "Are You Ready to Find a New Church?",
+    "category": "spiritual-profile",
+    "theme": "church-hurt",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 86
+  },
+  {
+    "slug": "whats-the-real-reason-you-left-church",
+    "title": "What's the Real Reason You Left the Church?",
+    "category": "spiritual-profile",
+    "theme": "church-hurt",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 86
+  },
+  {
+    "slug": "whats-your-comparison-trap",
+    "title": "What's Your Comparison Trap?",
+    "category": "spiritual-profile",
+    "theme": "comparison-shame",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 92
+  },
+  {
+    "slug": "social-media-comparison-type",
+    "title": "What's Your Social-Media Comparison Type?",
+    "category": "spiritual-profile",
+    "theme": "comparison-shame",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 90
+  },
+  {
+    "slug": "is-your-phone-an-idol",
+    "title": "Is Your Phone an Idol? (A Gut-Check Quiz)",
+    "category": "spiritual-profile",
+    "theme": "comparison-shame",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 89
+  },
+  {
+    "slug": "what-shame-story-are-you-living",
+    "title": "What Shame Story Are You Living?",
+    "category": "spiritual-profile",
+    "theme": "comparison-shame",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 89
+  },
+  {
+    "slug": "whats-your-not-enough-story",
+    "title": "What's Your \"Not Enough\" Story?",
+    "category": "spiritual-profile",
+    "theme": "comparison-shame",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 89
+  },
+  {
+    "slug": "are-you-healing-from-purity-culture",
+    "title": "Are You Healing from Purity Culture?",
+    "category": "spiritual-profile",
+    "theme": "comparison-shame",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 86
+  },
+  {
+    "slug": "are-you-jealous-of-others-success",
+    "title": "Are You Secretly Jealous of Others' Success?",
+    "category": "spiritual-profile",
+    "theme": "comparison-shame",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 86
+  },
+  {
+    "slug": "christian-impostor-syndrome",
+    "title": "Do You Have Christian Impostor Syndrome?",
+    "category": "spiritual-profile",
+    "theme": "comparison-shame",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 86
+  },
+  {
+    "slug": "is-it-guilt-or-shame-youre-carrying",
+    "title": "Is It Guilt or Shame You're Carrying?",
+    "category": "spiritual-profile",
+    "theme": "comparison-shame",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 86
+  },
+  {
+    "slug": "is-social-media-making-you-envious",
+    "title": "Is Social Media Making You Envious?",
+    "category": "spiritual-profile",
+    "theme": "comparison-shame",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 84
+  },
+  {
+    "slug": "do-you-need-a-digital-detox",
+    "title": "Do You Need a Digital Detox? (Be Honest)",
+    "category": "spiritual-profile",
+    "theme": "comparison-shame",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 83
+  },
+  {
+    "slug": "what-lie-is-your-shame-telling-you-about-god",
+    "title": "What Lie Is Your Shame Telling You About God?",
+    "category": "spiritual-profile",
+    "theme": "comparison-shame",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 83
+  },
+  {
+    "slug": "what-habit-is-running-your-life",
+    "title": "What Habit Is Quietly Running Your Life?",
+    "category": "spiritual-profile",
+    "theme": "discipleship",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 87
+  },
+  {
+    "slug": "beatitudes-profile",
+    "title": "Beatitudes Profile",
+    "category": "spiritual-profile",
+    "theme": "discipleship",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": null
+  },
+  {
+    "slug": "prayer-style-profile",
+    "title": "Prayer Style Profile",
+    "category": "spiritual-profile",
+    "theme": "discipleship",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": null
+  },
+  {
+    "slug": "spiritual-discipline-recommender",
+    "title": "Spiritual Discipline Recommender",
+    "category": "spiritual-profile",
+    "theme": "discipleship",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": null
+  },
+  {
+    "slug": "spiritual-gifts-profile",
+    "title": "Spiritual Gifts Profile",
+    "category": "spiritual-profile",
+    "theme": "discipleship",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": null
+  },
+  {
+    "slug": "virtues-and-vices-profile",
+    "title": "Virtues & Vices Profile",
+    "category": "spiritual-profile",
+    "theme": "discipleship",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": null
+  },
+  {
+    "slug": "whats-behind-your-spiritual-dryness",
+    "title": "What's Behind Your Spiritual Dryness?",
+    "category": "spiritual-profile",
+    "theme": "doubt-faith",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 91
+  },
+  {
+    "slug": "are-you-angry-at-god",
+    "title": "Are You Angry at God? (And Is That Okay?)",
+    "category": "spiritual-profile",
+    "theme": "doubt-faith",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 90
+  },
+  {
+    "slug": "what-kind-of-doubt-are-you-having",
+    "title": "What Kind of Doubt Are You Actually Having?",
+    "category": "spiritual-profile",
+    "theme": "doubt-faith",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 90
+  },
+  {
+    "slug": "whats-your-parenting-spirit",
+    "title": "What's Your Parenting Spirit?",
+    "category": "spiritual-profile",
+    "theme": "doubt-faith",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 90
+  },
+  {
+    "slug": "why-does-god-feel-silent-right-now",
+    "title": "Why Does God Feel Silent Right Now?",
+    "category": "spiritual-profile",
+    "theme": "doubt-faith",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 90
+  },
+  {
+    "slug": "deconstructing-or-asking-honest-questions",
+    "title": "Are You Deconstructing or Just Asking Honest Questions?",
+    "category": "spiritual-profile",
+    "theme": "doubt-faith",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 89
+  },
+  {
+    "slug": "are-you-in-a-dark-night-of-the-soul",
+    "title": "Are You in a Dark Night of the Soul?",
+    "category": "spiritual-profile",
+    "theme": "doubt-faith",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 88
+  },
+  {
+    "slug": "what-stage-of-the-faith-journey-are-you-in",
+    "title": "What Stage of the Faith Journey Are You In?",
+    "category": "spiritual-profile",
+    "theme": "doubt-faith",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 87
+  },
+  {
+    "slug": "whats-really-driving-your-deconstruction",
+    "title": "What's Really Driving Your Deconstruction?",
+    "category": "spiritual-profile",
+    "theme": "doubt-faith",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 87
+  },
+  {
+    "slug": "closer-to-walking-away-or-coming-back",
+    "title": "Are You Closer to Walking Away or Coming Back?",
+    "category": "spiritual-profile",
+    "theme": "doubt-faith",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 86
+  },
+  {
+    "slug": "is-it-a-sin-to-doubt-what-yours-says",
+    "title": "Is It a Sin to Doubt? (What Your Doubt Says About You)",
+    "category": "spiritual-profile",
+    "theme": "doubt-faith",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 86
+  },
+  {
+    "slug": "why-does-god-feel-hidden",
+    "title": "Why Does God Feel Hidden? (What's Really Going On)",
+    "category": "spiritual-profile",
+    "theme": "doubt-faith",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 86
+  },
+  {
+    "slug": "are-you-allowed-to-be-angry-at-god",
+    "title": "Are You Allowed to Be Angry at God?",
+    "category": "spiritual-profile",
+    "theme": "doubt-faith",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 85
+  },
+  {
+    "slug": "doubt-or-unbelief-which-wrestling",
+    "title": "Doubt or Unbelief: Which Are You Wrestling?",
+    "category": "spiritual-profile",
+    "theme": "doubt-faith",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 85
+  },
+  {
+    "slug": "faith-or-feelings-what-running-on",
+    "title": "Faith or Feelings: What Are You Actually Running On?",
+    "category": "spiritual-profile",
+    "theme": "doubt-faith",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 85
+  },
+  {
+    "slug": "how-far-from-god-do-you-actually-feel",
+    "title": "How Far From God Do You Actually Feel?",
+    "category": "spiritual-profile",
+    "theme": "doubt-faith",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 85
+  },
+  {
+    "slug": "whats-your-doubt-trying-to-tell-you",
+    "title": "What's Your Doubt Trying to Tell You?",
+    "category": "spiritual-profile",
+    "theme": "doubt-faith",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 85
+  },
+  {
+    "slug": "which-faith-crisis-are-you-living-through",
+    "title": "Which Faith Crisis Are You Living Through?",
+    "category": "spiritual-profile",
+    "theme": "doubt-faith",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 85
+  },
+  {
+    "slug": "do-you-believe-god-is-good-when-silent",
+    "title": "Do You Believe God Is Good When He's Silent?",
+    "category": "spiritual-profile",
+    "theme": "doubt-faith",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 84
+  },
+  {
+    "slug": "what-to-do-when-god-feels-silent",
+    "title": "What Should You Do When God Feels Silent?",
+    "category": "spiritual-profile",
+    "theme": "doubt-faith",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 84
+  },
+  {
+    "slug": "which-stage-of-returning-to-god",
+    "title": "Which Stage of Returning to God Are You In?",
+    "category": "spiritual-profile",
+    "theme": "doubt-faith",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 84
+  },
+  {
+    "slug": "why-does-god-feel-so-silent-right-now",
+    "title": "Why Does God Feel So Silent Right Now?",
+    "category": "spiritual-profile",
+    "theme": "doubt-faith",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 84
+  },
+  {
+    "slug": "how-honest-are-you-being-with-god",
+    "title": "How Honest Are You Being With God?",
+    "category": "spiritual-profile",
+    "theme": "doubt-faith",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 83
+  },
+  {
+    "slug": "whats-your-path-back-to-god-after-falling",
+    "title": "What's Your Path Back to God After Falling?",
+    "category": "spiritual-profile",
+    "theme": "doubt-faith",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 82
+  },
+  {
+    "slug": "can-you-forgive-someone-who-isnt-sorry",
+    "title": "Can You Forgive Someone Who Isn't Sorry?",
+    "category": "spiritual-profile",
+    "theme": "forgiveness",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 93
+  },
+  {
+    "slug": "who-do-you-need-to-forgive",
+    "title": "Who Do You Need to Forgive?",
+    "category": "spiritual-profile",
+    "theme": "forgiveness",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 91
+  },
+  {
+    "slug": "whats-fueling-your-bitterness",
+    "title": "What's Fueling Your Bitterness?",
+    "category": "spiritual-profile",
+    "theme": "forgiveness",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 89
+  },
+  {
+    "slug": "whats-keeping-you-stuck-in-unforgiveness",
+    "title": "What's Keeping You Stuck in Unforgiveness?",
+    "category": "spiritual-profile",
+    "theme": "forgiveness",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 88
+  },
+  {
+    "slug": "how-bitter-have-you-become",
+    "title": "How Bitter Have You Become? (Be Honest)",
+    "category": "spiritual-profile",
+    "theme": "forgiveness",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 87
+  },
+  {
+    "slug": "is-your-yes-burning-you-out",
+    "title": "Is Your Yes Burning You Out?",
+    "category": "spiritual-profile",
+    "theme": "forgiveness",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 87
+  },
+  {
+    "slug": "whats-blocking-you-from-receiving-forgiveness",
+    "title": "What's Blocking You From Receiving Forgiveness?",
+    "category": "spiritual-profile",
+    "theme": "forgiveness",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 87
+  },
+  {
+    "slug": "can-god-forgive-this-what-your-answer-reveals",
+    "title": "Can God Forgive This? What Your Answer Reveals",
+    "category": "spiritual-profile",
+    "theme": "forgiveness",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 86
+  },
+  {
+    "slug": "which-source-of-your-anger",
+    "title": "Which Source of Your Anger Runs Deepest?",
+    "category": "spiritual-profile",
+    "theme": "forgiveness",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 86
+  },
+  {
+    "slug": "have-you-committed-the-unforgivable-sin-gentle-check",
+    "title": "Have You Committed the Unforgivable Sin? (A Gentle Check)",
+    "category": "spiritual-profile",
+    "theme": "forgiveness",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 85
+  },
+  {
+    "slug": "could-you-sit-at-the-table",
+    "title": "Could You Sit at the Table With Someone Who Hurt You?",
+    "category": "spiritual-profile",
+    "theme": "forgiveness",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 84
+  },
+  {
+    "slug": "whats-keeping-you-from-forgiving-them",
+    "title": "What's Keeping You From Forgiving Them?",
+    "category": "spiritual-profile",
+    "theme": "forgiveness",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 84
+  },
+  {
+    "slug": "whats-your-self-forgiveness-block",
+    "title": "What's Your Self-Forgiveness Block?",
+    "category": "spiritual-profile",
+    "theme": "forgiveness",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 82
+  },
+  {
+    "slug": "whats-your-grief-style",
+    "title": "What's Your Grief Style?",
+    "category": "spiritual-profile",
+    "theme": "grief-loss",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": false,
+    "virality": 88
+  },
+  {
+    "slug": "where-is-god-in-your-pain-right-now",
+    "title": "Where Is God in Your Pain Right Now?",
+    "category": "spiritual-profile",
+    "theme": "grief-loss",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 87
+  },
+  {
+    "slug": "whats-your-hidden-stage-of-grief",
+    "title": "What's Your Hidden Stage of Grief?",
+    "category": "spiritual-profile",
+    "theme": "grief-loss",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 86
+  },
+  {
+    "slug": "what-does-your-grief-need-to-hear",
+    "title": "What Does Your Grief Need to Hear?",
+    "category": "spiritual-profile",
+    "theme": "grief-loss",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 85
+  },
+  {
+    "slug": "what-kind-of-lost-are-you",
+    "title": "What Kind of Lost Are You?",
+    "category": "spiritual-profile",
+    "theme": "grief-loss",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 84
+  },
+  {
+    "slug": "whats-your-lament-language",
+    "title": "What's Your Lament Language?",
+    "category": "spiritual-profile",
+    "theme": "grief-loss",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 84
+  },
+  {
+    "slug": "are-you-grieving-a-loss-nobody-acknowledges",
+    "title": "Are You Grieving a Loss Nobody Acknowledges?",
+    "category": "spiritual-profile",
+    "theme": "grief-loss",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 83
+  },
+  {
+    "slug": "has-grief-shaken-or-deepened-your-faith",
+    "title": "Has Grief Shaken or Deepened Your Faith?",
+    "category": "spiritual-profile",
+    "theme": "grief-loss",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 83
+  },
+  {
+    "slug": "what-generational-pattern-are-you-breaking",
+    "title": "What Generational Pattern Are You Breaking?",
+    "category": "spiritual-profile",
+    "theme": "healing-wounds",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 93
+  },
+  {
+    "slug": "whats-your-hidden-wound",
+    "title": "What's Your Hidden Wound?",
+    "category": "spiritual-profile",
+    "theme": "healing-wounds",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 93
+  },
+  {
+    "slug": "whats-your-triggered-reaction-style",
+    "title": "What's Your Triggered Reaction Style?",
+    "category": "spiritual-profile",
+    "theme": "healing-wounds",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 90
+  },
+  {
+    "slug": "are-you-a-cycle-breaker",
+    "title": "Are You a Generational Cycle Breaker?",
+    "category": "spiritual-profile",
+    "theme": "healing-wounds",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 89
+  },
+  {
+    "slug": "what-lie-did-your-wound-teach-you",
+    "title": "What Lie Did Your Wound Teach You?",
+    "category": "spiritual-profile",
+    "theme": "healing-wounds",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 89
+  },
+  {
+    "slug": "are-you-healing-or-just-avoiding",
+    "title": "Are You Healing or Just Avoiding?",
+    "category": "spiritual-profile",
+    "theme": "healing-wounds",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 88
+  },
+  {
+    "slug": "which-part-of-you-needs-healing",
+    "title": "Which Part of You Still Needs Healing?",
+    "category": "spiritual-profile",
+    "theme": "healing-wounds",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 86
+  },
+  {
+    "slug": "whats-your-discernment-style",
+    "title": "What's Your Discernment Style?",
+    "category": "spiritual-profile",
+    "theme": "hearing-god",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 89
+  },
+  {
+    "slug": "is-it-god-or-just-you",
+    "title": "Is It God or Is It Just You?",
+    "category": "spiritual-profile",
+    "theme": "hearing-god",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 88
+  },
+  {
+    "slug": "why-cant-you-hear-gods-voice",
+    "title": "Why Can't You Hear God's Voice?",
+    "category": "spiritual-profile",
+    "theme": "hearing-god",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 88
+  },
+  {
+    "slug": "why-arent-your-prayers-being-answered",
+    "title": "Why Aren't Your Prayers Being Answered?",
+    "category": "spiritual-profile",
+    "theme": "hearing-god",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 87
+  },
+  {
+    "slug": "open-door-or-closed-door",
+    "title": "Open Door or Closed Door?",
+    "category": "spiritual-profile",
+    "theme": "hearing-god",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 85
+  },
+  {
+    "slug": "is-your-quiet-time-actually-working",
+    "title": "Is Your Quiet Time Actually Working?",
+    "category": "spiritual-profile",
+    "theme": "hearing-god",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 83
+  },
+  {
+    "slug": "how-do-you-hear-god",
+    "title": "How Do You Hear God?",
+    "category": "spiritual-profile",
+    "theme": "hearing-god",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 82
+  },
+  {
+    "slug": "who-are-you-in-christ",
+    "title": "Who Are You in Christ, Really?",
+    "category": "spiritual-profile",
+    "theme": "identity",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 95
+  },
+  {
+    "slug": "what-lie-about-your-worth",
+    "title": "What Lie About Your Worth Do You Believe?",
+    "category": "spiritual-profile",
+    "theme": "identity",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 93
+  },
+  {
+    "slug": "how-anxious-is-your-attachment-to-god",
+    "title": "How Anxious Is Your Attachment to God?",
+    "category": "spiritual-profile",
+    "theme": "identity",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 88
+  },
+  {
+    "slug": "whats-your-hidden-insecurity",
+    "title": "What's Your Hidden Insecurity?",
+    "category": "spiritual-profile",
+    "theme": "identity",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 87
+  },
+  {
+    "slug": "what-steals-your-worth",
+    "title": "What's Stealing Your Sense of Worth?",
+    "category": "spiritual-profile",
+    "theme": "identity",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 85
+  },
+  {
+    "slug": "inner-critic-favorite-lie",
+    "title": "What's Your Inner Critic's Favorite Lie?",
+    "category": "spiritual-profile",
+    "theme": "identity",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 85
+  },
+  {
+    "slug": "lie-from-the-mirror",
+    "title": "Which Lie From the Mirror Do You Believe?",
+    "category": "spiritual-profile",
+    "theme": "identity",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 84
+  },
+  {
+    "slug": "approval-or-acceptance",
+    "title": "Are You Living From Approval or Acceptance?",
+    "category": "spiritual-profile",
+    "theme": "identity",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 83
+  },
+  {
+    "slug": "whats-your-self-worth-source",
+    "title": "What's Your Self-Worth Source?",
+    "category": "spiritual-profile",
+    "theme": "identity",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 82
+  },
+  {
+    "slug": "which-insecurity-holds-you-back",
+    "title": "Which Insecurity Is Holding You Back?",
+    "category": "spiritual-profile",
+    "theme": "identity",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 82
+  },
+  {
+    "slug": "whats-your-loneliness-pattern",
+    "title": "What's Your Loneliness Pattern?",
+    "category": "spiritual-profile",
+    "theme": "loneliness-belonging",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 90
+  },
+  {
+    "slug": "why-hard-to-make-friends",
+    "title": "Why Is It So Hard for You to Make Friends?",
+    "category": "spiritual-profile",
+    "theme": "loneliness-belonging",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 88
+  },
+  {
+    "slug": "whats-your-belonging-style",
+    "title": "What's Your Belonging Style?",
+    "category": "spiritual-profile",
+    "theme": "loneliness-belonging",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 84
+  },
+  {
+    "slug": "how-you-handle-feeling-left-out",
+    "title": "How Do You Handle Feeling Left Out?",
+    "category": "spiritual-profile",
+    "theme": "loneliness-belonging",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 83
+  },
+  {
+    "slug": "what-your-loneliness-needs",
+    "title": "What Does Your Loneliness Need Right Now?",
+    "category": "spiritual-profile",
+    "theme": "loneliness-belonging",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 82
+  },
+  {
+    "slug": "whats-your-money-spirit",
+    "title": "What's Your Money Spirit?",
+    "category": "spiritual-profile",
+    "theme": "money-work",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": false,
+    "virality": 88
+  },
+  {
+    "slug": "is-it-a-sin-to-want-to-be-rich",
+    "title": "Is It a Sin to Want to Be Rich? (Heart Test)",
+    "category": "spiritual-profile",
+    "theme": "money-work",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 86
+  },
+  {
+    "slug": "whats-your-hustle-culture-trap",
+    "title": "What's Your Hustle-Culture Trap?",
+    "category": "spiritual-profile",
+    "theme": "money-work",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 86
+  },
+  {
+    "slug": "could-you-pass-the-rich-young-ruler-test",
+    "title": "Could You Pass the Rich Young Ruler Test?",
+    "category": "spiritual-profile",
+    "theme": "money-work",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 85
+  },
+  {
+    "slug": "whats-driving-your-spending",
+    "title": "What's Driving Your Spending?",
+    "category": "spiritual-profile",
+    "theme": "money-work",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 84
+  },
+  {
+    "slug": "what-would-jesus-say-about-your-money",
+    "title": "What Would Jesus Say About Your Money?",
+    "category": "spiritual-profile",
+    "theme": "money-work",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 83
+  },
+  {
+    "slug": "gentle-parenting-or-biblical-discipline",
+    "title": "Gentle Parenting or Biblical Discipline: Where Do You Land?",
+    "category": "spiritual-profile",
+    "theme": "parenting-family",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 87
+  },
+  {
+    "slug": "whats-your-self-control-weak-spot",
+    "title": "What's Your Self-Control Weak Spot?",
+    "category": "spiritual-profile",
+    "theme": "parenting-family",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 85
+  },
+  {
+    "slug": "how-do-you-honor-a-difficult-parent",
+    "title": "How Do You Honor a Difficult Parent? A Christian Profile",
+    "category": "spiritual-profile",
+    "theme": "parenting-family",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 84
+  },
+  {
+    "slug": "praying-for-a-prodigal-posture",
+    "title": "What's Your Praying-for-a-Prodigal Posture?",
+    "category": "spiritual-profile",
+    "theme": "parenting-family",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 82
+  },
+  {
+    "slug": "is-he-the-one-christian-discernment",
+    "title": "Is He the One? A Christian Discernment Profile",
+    "category": "spiritual-profile",
+    "theme": "relationships-dating",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 95
+  },
+  {
+    "slug": "whats-your-christian-dating-pattern",
+    "title": "What's Your Christian Dating Pattern?",
+    "category": "spiritual-profile",
+    "theme": "relationships-dating",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 91
+  },
+  {
+    "slug": "whats-your-love-style-biblically",
+    "title": "What's Your Love Style, Biblically?",
+    "category": "spiritual-profile",
+    "theme": "relationships-dating",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": false,
+    "virality": 88
+  },
+  {
+    "slug": "whats-your-marriage-conflict-style",
+    "title": "What's Your Marriage Conflict Style?",
+    "category": "spiritual-profile",
+    "theme": "relationships-dating",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": false,
+    "virality": 88
+  },
+  {
+    "slug": "is-your-marriage-a-roommate-marriage",
+    "title": "Is Your Marriage Becoming a Roommate Marriage?",
+    "category": "spiritual-profile",
+    "theme": "relationships-dating",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 83
+  },
+  {
+    "slug": "do-you-have-mom-burnout",
+    "title": "Do You Have Mom Burnout?",
+    "category": "spiritual-profile",
+    "theme": "rest-burnout",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 90
+  },
+  {
+    "slug": "whats-your-burnout-stage",
+    "title": "What's Your Burnout Stage?",
+    "category": "spiritual-profile",
+    "theme": "rest-burnout",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 90
+  },
+  {
+    "slug": "are-you-actually-resting-or-just-stopping",
+    "title": "Are You Actually Resting or Just Stopping?",
+    "category": "spiritual-profile",
+    "theme": "rest-burnout",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 88
+  },
+  {
+    "slug": "is-your-faith-on-autopilot",
+    "title": "Is Your Faith on Autopilot?",
+    "category": "spiritual-profile",
+    "theme": "rest-burnout",
+    "mode": "profile",
+    "status": "live",
+    "hasCover": true,
+    "virality": 88
+  },
+  {
+    "slug": "burned-out-or-spiritually-dry",
+    "title": "Are You Spiritually Burned Out or Spiritually Dry?",
+    "category": "spiritual-profile",
+    "theme": "rest-burnout",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 87
+  },
+  {
+    "slug": "are-you-headed-for-burnout",
+    "title": "Are You Headed for Burnout? (Warning-Signs Check)",
+    "category": "spiritual-profile",
+    "theme": "rest-burnout",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 86
+  },
+  {
+    "slug": "are-you-carrying-more-than-you-can-hold",
+    "title": "Are You Carrying More Than You Can Hold?",
+    "category": "spiritual-profile",
+    "theme": "rest-burnout",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 85
+  },
+  {
+    "slug": "what-rest-does-your-soul-need",
+    "title": "What Kind of Rest Does Your Soul Need?",
+    "category": "spiritual-profile",
+    "theme": "rest-burnout",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 85
+  },
+  {
+    "slug": "whats-your-path-back-from-burnout",
+    "title": "What's Your Path Back from Burnout?",
+    "category": "spiritual-profile",
+    "theme": "rest-burnout",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 84
+  },
+  {
+    "slug": "which-rest-stealer-is-robbing-your-peace",
+    "title": "Which Rest-Stealer Is Robbing Your Peace?",
+    "category": "spiritual-profile",
+    "theme": "rest-burnout",
+    "mode": "profile",
+    "status": "backlog",
+    "hasCover": false,
+    "virality": 83
+  }
+]
