@@ -244,7 +244,7 @@
         {
           "text": "Tell His brethren to go to Galilee",
           "correct": true,
-          "explanation": "Matthew 28:10 says, \"Go tell my brethren that they go into Galilee, and there shall they see me\" (ASV)."
+          "explanation": "Matthew 28:10 says, \"Go tell my brethren that they depart into Galilee, and there shall they see me\" (ASV)."
         },
         {
           "text": "Bring the priests to the tomb",
@@ -292,7 +292,7 @@
           "explanation": "That was a false rumor spread later. The angel said something very different."
         },
         {
-          "text": "He is not here, for he is risen",
+          "text": "He is not here; for he is risen",
           "correct": true,
           "explanation": "Matthew 28:6 records the angel saying, \"He is not here; for he is risen, even as he said\" (ASV)."
         },
