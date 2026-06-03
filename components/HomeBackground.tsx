@@ -12,7 +12,7 @@ export function HomeBackground() {
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{ backgroundImage: "url('/home-bg.webp')" }}
       />
-      <div className="absolute inset-0 bg-gradient-to-b from-cream-1/75 via-cream-1/55 to-cream-1/80" />
+      <div className="absolute inset-0 bg-gradient-to-b from-cream-1/70 via-cream-1/40 to-cream-1/65" />
     </div>
   );
 }

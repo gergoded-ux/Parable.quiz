@@ -21,8 +21,16 @@
 }
 
 @layer base {
-  html, body {
+  /* The cream gradient lives on <html> so it paints across the whole canvas
+     (incl. the scroll area) WITHOUT covering the fixed home painting. Keep
+     <body> transparent: the home page renders a fixed `-z-10` background
+     layer, and an opaque body background would paint on top of it (a normal
+     -flow background paints above negative-z-index descendants), hiding it. */
+  html {
     background: linear-gradient(180deg, #fdf5ee 0%, #f6e7d8 100%);
+    min-height: 100%;
+  }
+  body {
     color: #2d2a26;
     font-family: var(--font-inter), 'Inter', -apple-system, sans-serif;
     min-height: 100%;
