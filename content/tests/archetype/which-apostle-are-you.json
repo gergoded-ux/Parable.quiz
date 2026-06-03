@@ -10,124 +10,348 @@
     {
       "text": "When a friend tells you they're going through something hard, you...",
       "options": [
-        { "text": "Sit with them in silence. Just being there is enough.",       "weights": { "john": 3 } },
-        { "text": "Ask hard questions to help them see what's really going on.", "weights": { "peter": 3, "thomas": 1 } },
-        { "text": "Pray with them on the spot, out loud, right there.",         "weights": { "andrew": 2, "philip": 1 } },
-        { "text": "Show up with food and practical help before they ask.",       "weights": { "matthew": 2, "bartholomew": 1 } }
+        {
+          "text": "Sit with them in silence. Just being there is enough.",
+          "weights": {
+            "john": 3
+          }
+        },
+        {
+          "text": "Ask hard questions to help them see what's really going on.",
+          "weights": {
+            "peter": 3,
+            "thomas": 1
+          }
+        },
+        {
+          "text": "Pray with them on the spot, out loud, right there.",
+          "weights": {
+            "andrew": 2,
+            "philip": 1
+          }
+        },
+        {
+          "text": "Show up with food and practical help before they ask.",
+          "weights": {
+            "matthew": 2,
+            "bartholomew": 1
+          }
+        }
       ]
     },
     {
       "text": "Your friend group is making a decision. You usually...",
       "options": [
-        { "text": "Speak first, even if I haven't fully thought it through.", "weights": { "peter": 3, "james": 1 } },
-        { "text": "Wait, listen, then make the call quietly.",                  "weights": { "andrew": 2, "matthew": 1 } },
-        { "text": "Push back if something feels off, even when it's awkward.", "weights": { "thomas": 3, "bartholomew": 1 } },
-        { "text": "Look for who hasn't spoken yet and pull them in.",          "weights": { "philip": 2, "john": 1 } }
+        {
+          "text": "Speak first, even if I haven't fully thought it through.",
+          "weights": {
+            "peter": 3,
+            "james": 1
+          }
+        },
+        {
+          "text": "Wait, listen, then make the call quietly.",
+          "weights": {
+            "andrew": 2,
+            "matthew": 1
+          }
+        },
+        {
+          "text": "Push back if something feels off, even when it's awkward.",
+          "weights": {
+            "thomas": 3,
+            "bartholomew": 1
+          }
+        },
+        {
+          "text": "Look for who hasn't spoken yet and pull them in.",
+          "weights": {
+            "philip": 2,
+            "john": 1
+          }
+        }
       ]
     },
     {
       "text": "Pick the trait you secretly know you struggle with most:",
       "options": [
-        { "text": "Doubting things will work out.", "weights": { "thomas": 3 } },
-        { "text": "Speaking before thinking.",      "weights": { "peter": 3 } },
-        { "text": "Wanting to be the favorite.",    "weights": { "john": 2, "james": 1 } },
-        { "text": "Avoiding hard conversations.",   "weights": { "matthew": 2, "philip": 1 } }
+        {
+          "text": "Doubting things will work out.",
+          "weights": {
+            "thomas": 3
+          }
+        },
+        {
+          "text": "Speaking before thinking.",
+          "weights": {
+            "peter": 3
+          }
+        },
+        {
+          "text": "Wanting to be the favorite.",
+          "weights": {
+            "john": 2,
+            "james": 1
+          }
+        },
+        {
+          "text": "Avoiding hard conversations.",
+          "weights": {
+            "matthew": 2,
+            "philip": 1
+          }
+        }
       ]
     },
     {
       "text": "How do you handle being wrong?",
       "options": [
-        { "text": "I apologize right away, sometimes too much.", "weights": { "peter": 3 } },
-        { "text": "I sit with it quietly until I can name what happened.", "weights": { "john": 2, "andrew": 1 } },
-        { "text": "I need to see the evidence before I'll admit it.",      "weights": { "thomas": 3 } },
-        { "text": "I make amends through action, not words.",              "weights": { "matthew": 3, "bartholomew": 1 } }
+        {
+          "text": "I apologize right away, sometimes too much.",
+          "weights": {
+            "peter": 3
+          }
+        },
+        {
+          "text": "I sit with it quietly until I can name what happened.",
+          "weights": {
+            "john": 2,
+            "andrew": 1
+          }
+        },
+        {
+          "text": "I need to see the evidence before I'll admit it.",
+          "weights": {
+            "thomas": 3
+          }
+        },
+        {
+          "text": "I make amends through action, not words.",
+          "weights": {
+            "matthew": 3,
+            "bartholomew": 1
+          }
+        }
       ]
     },
     {
       "text": "Pick the call you'd find hardest to follow:",
       "options": [
-        { "text": "Leave everything and start over.",            "weights": { "peter": 2, "andrew": 1, "james": 1 } },
-        { "text": "Stand near the cross when others run.",        "weights": { "john": 3 } },
-        { "text": "Reach the people no one wants to reach.",      "weights": { "matthew": 3 } },
-        { "text": "Tell strangers about someone they can't see.", "weights": { "philip": 3, "andrew": 1 } }
+        {
+          "text": "Leave everything and start over.",
+          "weights": {
+            "peter": 2,
+            "andrew": 1,
+            "james": 1
+          }
+        },
+        {
+          "text": "Stand near the cross when others run.",
+          "weights": {
+            "john": 3
+          }
+        },
+        {
+          "text": "Reach the people no one wants to reach.",
+          "weights": {
+            "matthew": 3
+          }
+        },
+        {
+          "text": "Tell strangers about someone they can't see.",
+          "weights": {
+            "philip": 3,
+            "andrew": 1
+          }
+        }
       ]
     },
     {
       "text": "What energizes you about faith?",
       "options": [
-        { "text": "Big public moments: preaching, leading, declaring.", "weights": { "peter": 3, "james": 1 } },
-        { "text": "Quiet closeness, long prayer, real listening.",        "weights": { "john": 3 } },
-        { "text": "Bringing one specific person to Jesus.",               "weights": { "andrew": 3, "philip": 1 } },
-        { "text": "Wrestling honestly with the hard questions.",          "weights": { "thomas": 3, "bartholomew": 1 } }
+        {
+          "text": "Big public moments: preaching, leading, declaring.",
+          "weights": {
+            "peter": 3,
+            "james": 1
+          }
+        },
+        {
+          "text": "Quiet closeness, long prayer, real listening.",
+          "weights": {
+            "john": 3
+          }
+        },
+        {
+          "text": "Bringing one specific person to Jesus.",
+          "weights": {
+            "andrew": 3,
+            "philip": 1
+          }
+        },
+        {
+          "text": "Wrestling honestly with the hard questions.",
+          "weights": {
+            "thomas": 3,
+            "bartholomew": 1
+          }
+        }
       ]
     },
     {
       "text": "Your version of a perfect Sunday afternoon:",
       "options": [
-        { "text": "A long meal with old friends.",                "weights": { "matthew": 2, "andrew": 1 } },
-        { "text": "Doing something physical outdoors.",            "weights": { "peter": 2, "james": 2 } },
-        { "text": "A walk and a real conversation.",               "weights": { "philip": 2, "bartholomew": 1 } },
-        { "text": "Reading something dense and beautiful.",        "weights": { "john": 2, "thomas": 1 } }
+        {
+          "text": "A long meal with old friends.",
+          "weights": {
+            "matthew": 2,
+            "andrew": 1
+          }
+        },
+        {
+          "text": "Doing something physical outdoors.",
+          "weights": {
+            "peter": 2,
+            "james": 2
+          }
+        },
+        {
+          "text": "A walk and a real conversation.",
+          "weights": {
+            "philip": 2,
+            "bartholomew": 1
+          }
+        },
+        {
+          "text": "Reading something dense and beautiful.",
+          "weights": {
+            "john": 2,
+            "thomas": 1
+          }
+        }
       ]
     },
     {
       "text": "If you had to describe your faith in one word:",
       "options": [
-        { "text": "Bold.",       "weights": { "peter": 3, "james": 2 } },
-        { "text": "Beloved.",    "weights": { "john": 3 } },
-        { "text": "Honest.",     "weights": { "thomas": 3 } },
-        { "text": "Practical.",  "weights": { "matthew": 2, "andrew": 1 } }
+        {
+          "text": "Bold.",
+          "weights": {
+            "peter": 3,
+            "james": 2
+          }
+        },
+        {
+          "text": "Beloved.",
+          "weights": {
+            "john": 3
+          }
+        },
+        {
+          "text": "Honest.",
+          "weights": {
+            "thomas": 3
+          }
+        },
+        {
+          "text": "Practical.",
+          "weights": {
+            "matthew": 2,
+            "andrew": 1
+          }
+        }
       ]
     }
   ],
   "results": {
     "peter": {
-      "name": "Peter the Bold", "emoji": "🪨",
-      "traits": ["Loyal", "Impulsive", "All-in"],
+      "name": "Peter the Bold",
+      "emoji": "🪨",
+      "traits": [
+        "Loyal",
+        "Impulsive",
+        "All-in"
+      ],
       "description": "Big heart, big mistakes. And Jesus loved you anyway. You're the friend who'd jump out of the boat for someone you care about, even if you sink halfway there.",
       "scriptureRef": "matt-16-18"
     },
     "john": {
-      "name": "John the Beloved", "emoji": "🕊️",
-      "traits": ["Tender", "Steady", "Present"],
+      "name": "John the Beloved",
+      "emoji": "🕊️",
+      "traits": [
+        "Tender",
+        "Steady",
+        "Present"
+      ],
       "description": "You stay close to Jesus when others run. Your love is quiet and unembarrassed. People feel safe being weak around you.",
       "scriptureRef": "john-13-23"
     },
     "james": {
-      "name": "James the Thunder", "emoji": "⚡",
-      "traits": ["Fierce", "Ambitious", "Devoted"],
+      "name": "James the Thunder",
+      "emoji": "⚡",
+      "traits": [
+        "Fierce",
+        "Ambitious",
+        "Devoted"
+      ],
       "description": "You don't do half-measures. When you commit, the room knows it. Jesus called you a 'son of thunder,' and honestly, He wasn't wrong.",
       "scriptureRef": "mark-3-17"
     },
     "andrew": {
-      "name": "Andrew the Gatherer", "emoji": "🎣",
-      "traits": ["Quiet", "Connector", "Generous"],
+      "name": "Andrew the Gatherer",
+      "emoji": "🎣",
+      "traits": [
+        "Quiet",
+        "Connector",
+        "Generous"
+      ],
       "description": "You're the one who finds your brother first. You don't need credit. You bring people to Jesus and then quietly step back.",
       "scriptureRef": "john-1-41"
     },
     "thomas": {
-      "name": "Thomas the Honest", "emoji": "🔍",
-      "traits": ["Skeptical", "Truth-seeking", "Uncompromising"],
+      "name": "Thomas the Honest",
+      "emoji": "🔍",
+      "traits": [
+        "Skeptical",
+        "Truth-seeking",
+        "Uncompromising"
+      ],
       "description": "You need it to be real before you'll call it real. That isn't a flaw. It's the exact reason Jesus came to your room in person.",
       "scriptureRef": "john-20-25"
     },
     "matthew": {
-      "name": "Matthew the Outsider", "emoji": "🪙",
-      "traits": ["Watchful", "Practical", "Redeemed"],
+      "name": "Matthew the Outsider",
+      "emoji": "🪙",
+      "traits": [
+        "Watchful",
+        "Practical",
+        "Redeemed"
+      ],
       "description": "You know what it's like to be excluded, so you make your tables wide. And you write things down, because you want people to remember the truth.",
       "scriptureRef": "matt-9-9"
     },
     "philip": {
-      "name": "Philip the Seeker", "emoji": "🧭",
-      "traits": ["Curious", "Calculating", "Earnest"],
+      "name": "Philip the Seeker",
+      "emoji": "🧭",
+      "traits": [
+        "Curious",
+        "Calculating",
+        "Earnest"
+      ],
       "description": "You run the numbers, then trust Jesus anyway. You're the one who says 'come and see' to the person nobody ever bothered to invite.",
       "scriptureRef": "john-6-7"
     },
     "bartholomew": {
-      "name": "Bartholomew the Sincere", "emoji": "📖",
-      "traits": ["Honest", "Thoughtful", "Without guile"],
+      "name": "Bartholomew the Sincere",
+      "emoji": "📖",
+      "traits": [
+        "Honest",
+        "Thoughtful",
+        "Without guile"
+      ],
       "description": "There's no pretense in you. People might miss how much is going on under the surface, because you don't perform. But Jesus saw you under the fig tree before anyone introduced you.",
       "scriptureRef": "john-1-45"
     }
-  }
+  },
+  "theme": "scripture-archetype"
 }

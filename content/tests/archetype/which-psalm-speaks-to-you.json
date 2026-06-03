@@ -10,124 +10,330 @@
     {
       "text": "What's the loudest thing in your chest right now?",
       "options": [
-        { "text": "Bone-tired and need to be led, not pushed.",      "weights": { "psalm-23": 3 } },
-        { "text": "Guilt that won't loosen its grip.",                "weights": { "psalm-51": 3 } },
-        { "text": "Fear of what's coming.",                          "weights": { "psalm-91": 2, "psalm-27": 1 } },
-        { "text": "Loneliness. I want to be known.",                "weights": { "psalm-139": 3 } }
+        {
+          "text": "Bone-tired and need to be led, not pushed.",
+          "weights": {
+            "psalm-23": 3
+          }
+        },
+        {
+          "text": "Guilt that won't loosen its grip.",
+          "weights": {
+            "psalm-51": 3
+          }
+        },
+        {
+          "text": "Fear of what's coming.",
+          "weights": {
+            "psalm-91": 2,
+            "psalm-27": 1
+          }
+        },
+        {
+          "text": "Loneliness. I want to be known.",
+          "weights": {
+            "psalm-139": 3
+          }
+        }
       ]
     },
     {
       "text": "What posture does your prayer life take this season?",
       "options": [
-        { "text": "Lying down in green pastures.",          "weights": { "psalm-23": 3 } },
-        { "text": "On my face, begging mercy.",             "weights": { "psalm-51": 3 } },
-        { "text": "Curled up under God's wing.",            "weights": { "psalm-91": 3 } },
-        { "text": "Sitting still and finally quiet.",       "weights": { "psalm-46": 3 } }
+        {
+          "text": "Lying down in green pastures.",
+          "weights": {
+            "psalm-23": 3
+          }
+        },
+        {
+          "text": "On my face, begging mercy.",
+          "weights": {
+            "psalm-51": 3
+          }
+        },
+        {
+          "text": "Curled up under God's wing.",
+          "weights": {
+            "psalm-91": 3
+          }
+        },
+        {
+          "text": "Sitting still and finally quiet.",
+          "weights": {
+            "psalm-46": 3
+          }
+        }
       ]
     },
     {
       "text": "Pick the line your soul keeps repeating:",
       "options": [
-        { "text": "Thy word is a lamp unto my feet.",       "weights": { "psalm-119": 3 } },
-        { "text": "I will lift up mine eyes unto the hills.", "weights": { "psalm-121": 3 } },
-        { "text": "The Lord is my light and my salvation.",   "weights": { "psalm-27": 3 } },
-        { "text": "Be still, and know that I am God.",       "weights": { "psalm-46": 3 } }
+        {
+          "text": "Thy word is a lamp unto my feet.",
+          "weights": {
+            "psalm-119": 3
+          }
+        },
+        {
+          "text": "I will lift up mine eyes unto the hills.",
+          "weights": {
+            "psalm-121": 3
+          }
+        },
+        {
+          "text": "The Lord is my light and my salvation.",
+          "weights": {
+            "psalm-27": 3
+          }
+        },
+        {
+          "text": "Be still, and know that I am God.",
+          "weights": {
+            "psalm-46": 3
+          }
+        }
       ]
     },
     {
       "text": "When you need God most, you most want Him to be...",
       "options": [
-        { "text": "My shepherd.",       "weights": { "psalm-23": 3 } },
-        { "text": "My hiding place.",    "weights": { "psalm-91": 3, "psalm-27": 1 } },
-        { "text": "The one who knows me.", "weights": { "psalm-139": 3 } },
-        { "text": "My help.",            "weights": { "psalm-121": 3 } }
+        {
+          "text": "My shepherd.",
+          "weights": {
+            "psalm-23": 3
+          }
+        },
+        {
+          "text": "My hiding place.",
+          "weights": {
+            "psalm-91": 3,
+            "psalm-27": 1
+          }
+        },
+        {
+          "text": "The one who knows me.",
+          "weights": {
+            "psalm-139": 3
+          }
+        },
+        {
+          "text": "My help.",
+          "weights": {
+            "psalm-121": 3
+          }
+        }
       ]
     },
     {
       "text": "Pick the verse you'd want tattooed on your bones:",
       "options": [
-        { "text": "I shall not want.",                                "weights": { "psalm-23": 3 } },
-        { "text": "Create in me a clean heart.",                      "weights": { "psalm-51": 3 } },
-        { "text": "I am fearfully and wonderfully made.",             "weights": { "psalm-139": 3 } },
-        { "text": "My help cometh from the Lord.",                    "weights": { "psalm-121": 3 } }
+        {
+          "text": "I shall not want.",
+          "weights": {
+            "psalm-23": 3
+          }
+        },
+        {
+          "text": "Create in me a clean heart.",
+          "weights": {
+            "psalm-51": 3
+          }
+        },
+        {
+          "text": "I am fearfully and wonderfully made.",
+          "weights": {
+            "psalm-139": 3
+          }
+        },
+        {
+          "text": "My help cometh from the Lord.",
+          "weights": {
+            "psalm-121": 3
+          }
+        }
       ]
     },
     {
       "text": "When you can't sleep, your brain is...",
       "options": [
-        { "text": "Replaying what I did wrong.",                "weights": { "psalm-51": 3 } },
-        { "text": "Spinning over what might go wrong.",        "weights": { "psalm-91": 2, "psalm-27": 1 } },
-        { "text": "Reaching for a word, any word, from God.",   "weights": { "psalm-119": 3 } },
-        { "text": "Refusing to settle.",                       "weights": { "psalm-46": 2, "psalm-23": 1 } }
+        {
+          "text": "Replaying what I did wrong.",
+          "weights": {
+            "psalm-51": 3
+          }
+        },
+        {
+          "text": "Spinning over what might go wrong.",
+          "weights": {
+            "psalm-91": 2,
+            "psalm-27": 1
+          }
+        },
+        {
+          "text": "Reaching for a word, any word, from God.",
+          "weights": {
+            "psalm-119": 3
+          }
+        },
+        {
+          "text": "Refusing to settle.",
+          "weights": {
+            "psalm-46": 2,
+            "psalm-23": 1
+          }
+        }
       ]
     },
     {
       "text": "How do you find peace?",
       "options": [
-        { "text": "In a green field with nothing to prove.",   "weights": { "psalm-23": 3 } },
-        { "text": "In the secret place behind a closed door.", "weights": { "psalm-91": 3 } },
-        { "text": "In silence I finally allow myself to keep.", "weights": { "psalm-46": 3 } },
-        { "text": "In the word, open on my lap.",             "weights": { "psalm-119": 3 } }
+        {
+          "text": "In a green field with nothing to prove.",
+          "weights": {
+            "psalm-23": 3
+          }
+        },
+        {
+          "text": "In the secret place behind a closed door.",
+          "weights": {
+            "psalm-91": 3
+          }
+        },
+        {
+          "text": "In silence I finally allow myself to keep.",
+          "weights": {
+            "psalm-46": 3
+          }
+        },
+        {
+          "text": "In the word, open on my lap.",
+          "weights": {
+            "psalm-119": 3
+          }
+        }
       ]
     },
     {
       "text": "What is your heart asking for this week?",
       "options": [
-        { "text": "Forgiveness and a clean start.",           "weights": { "psalm-51": 3 } },
-        { "text": "Direction, some light on this next step.",    "weights": { "psalm-119": 2, "psalm-121": 1 } },
-        { "text": "Courage to stop being afraid.",           "weights": { "psalm-27": 3 } },
-        { "text": "To be fully seen and still loved.",       "weights": { "psalm-139": 3 } }
+        {
+          "text": "Forgiveness and a clean start.",
+          "weights": {
+            "psalm-51": 3
+          }
+        },
+        {
+          "text": "Direction, some light on this next step.",
+          "weights": {
+            "psalm-119": 2,
+            "psalm-121": 1
+          }
+        },
+        {
+          "text": "Courage to stop being afraid.",
+          "weights": {
+            "psalm-27": 3
+          }
+        },
+        {
+          "text": "To be fully seen and still loved.",
+          "weights": {
+            "psalm-139": 3
+          }
+        }
       ]
     }
   ],
   "results": {
     "psalm-23": {
-      "name": "Psalm 23: The Shepherd's Psalm", "emoji": "🐑",
-      "traits": ["Weary", "Tender", "Trusting"],
+      "name": "Psalm 23: The Shepherd's Psalm",
+      "emoji": "🐑",
+      "traits": [
+        "Weary",
+        "Tender",
+        "Trusting"
+      ],
       "description": "You need to be led, not driven. God is gently asking you to lie down in green pastures and stop performing for a while. He'll restore what's run dry.",
       "scriptureRef": "ps-23-1"
     },
     "psalm-51": {
-      "name": "Psalm 51: The Repentance Psalm", "emoji": "🩹",
-      "traits": ["Honest", "Sorry", "Hopeful"],
+      "name": "Psalm 51: The Repentance Psalm",
+      "emoji": "🩹",
+      "traits": [
+        "Honest",
+        "Sorry",
+        "Hopeful"
+      ],
       "description": "You know exactly where you've fallen, and you're not making excuses for it. Here's the good news: God specializes in clean hearts and fresh starts. He's already running toward you.",
       "scriptureRef": "ps-51-1"
     },
     "psalm-91": {
-      "name": "Psalm 91: The Hiding Place", "emoji": "🛡️",
-      "traits": ["Afraid", "Sheltered", "Held"],
+      "name": "Psalm 91: The Hiding Place",
+      "emoji": "🛡️",
+      "traits": [
+        "Afraid",
+        "Sheltered",
+        "Held"
+      ],
       "description": "You need a hiding place, and there is one. Underneath everything you're walking through is the shadow of the Almighty. He covers you when you can't cover yourself.",
       "scriptureRef": "ps-91-1"
     },
     "psalm-139": {
-      "name": "Psalm 139: The Searched Psalm", "emoji": "💜",
-      "traits": ["Vulnerable", "Known", "Reassured"],
+      "name": "Psalm 139: The Searched Psalm",
+      "emoji": "💜",
+      "traits": [
+        "Vulnerable",
+        "Known",
+        "Reassured"
+      ],
       "description": "You long to be fully known and still wanted. You are. Every dark corner, every hidden joy. He searched the whole of you and stayed.",
       "scriptureRef": "ps-139-1"
     },
     "psalm-119": {
-      "name": "Psalm 119: The Word Lover", "emoji": "📖",
-      "traits": ["Hungry", "Reverent", "Anchored"],
+      "name": "Psalm 119: The Word Lover",
+      "emoji": "📖",
+      "traits": [
+        "Hungry",
+        "Reverent",
+        "Anchored"
+      ],
       "description": "You're hungry for the Word the way you'd be hungry for bread. You need direction, and God lights up the very next step. That's all you have to walk by for now.",
       "scriptureRef": "ps-119-105"
     },
     "psalm-121": {
-      "name": "Psalm 121: The Lifted Eyes", "emoji": "⛰️",
-      "traits": ["Searching", "Tired", "Helped"],
+      "name": "Psalm 121: The Lifted Eyes",
+      "emoji": "⛰️",
+      "traits": [
+        "Searching",
+        "Tired",
+        "Helped"
+      ],
       "description": "You're looking up for help, and you're looking in the right direction. The Maker of heaven and earth is your keeper. He doesn't doze off, and He doesn't quit.",
       "scriptureRef": "ps-121-1"
     },
     "psalm-27": {
-      "name": "Psalm 27: The Courage Psalm", "emoji": "🔦",
-      "traits": ["Brave", "Steady", "Anchored"],
+      "name": "Psalm 27: The Courage Psalm",
+      "emoji": "🔦",
+      "traits": [
+        "Brave",
+        "Steady",
+        "Anchored"
+      ],
       "description": "Fear is on the table, but it's not the loudest thing in the room anymore. The Lord is your light. Once you see Him, the thing you were scared of starts to look a lot smaller.",
       "scriptureRef": "ps-27-1"
     },
     "psalm-46": {
-      "name": "Psalm 46: Be Still", "emoji": "🌊",
-      "traits": ["Quiet", "Surrendered", "Anchored"],
+      "name": "Psalm 46: Be Still",
+      "emoji": "🌊",
+      "traits": [
+        "Quiet",
+        "Surrendered",
+        "Anchored"
+      ],
       "description": "You don't need a strategy right now. You need stillness. God gets louder the moment you stop. Be still, and let Him be God for a minute.",
       "scriptureRef": "ps-46-10"
     }
-  }
+  },
+  "theme": "scripture-archetype"
 }

@@ -10,130 +10,351 @@
     {
       "text": "Friends would describe you as the one who...",
       "options": [
-        { "text": "Makes everyone feel deeply seen.",         "weights": { "love": 3, "kindness": 1 } },
-        { "text": "Lights up the room without trying.",       "weights": { "joy": 3 } },
-        { "text": "Stays calm when everything's on fire.",    "weights": { "peace": 3, "patience": 1 } },
-        { "text": "Always shows up, even when it's hard.",    "weights": { "faithfulness": 3, "love": 1 } }
+        {
+          "text": "Makes everyone feel deeply seen.",
+          "weights": {
+            "love": 3,
+            "kindness": 1
+          }
+        },
+        {
+          "text": "Lights up the room without trying.",
+          "weights": {
+            "joy": 3
+          }
+        },
+        {
+          "text": "Stays calm when everything's on fire.",
+          "weights": {
+            "peace": 3,
+            "patience": 1
+          }
+        },
+        {
+          "text": "Always shows up, even when it's hard.",
+          "weights": {
+            "faithfulness": 3,
+            "love": 1
+          }
+        }
       ]
     },
     {
       "text": "Pick the verse that hits hardest:",
       "options": [
-        { "text": "Love is patient, love is kind.",                "weights": { "love": 3, "kindness": 1 } },
-        { "text": "The joy of the Lord is your strength.",         "weights": { "joy": 3 } },
-        { "text": "Be still, and know that I am God.",             "weights": { "peace": 3 } },
-        { "text": "Be ye therefore merciful.",                    "weights": { "kindness": 2, "goodness": 2 } }
+        {
+          "text": "Love is patient, love is kind.",
+          "weights": {
+            "love": 3,
+            "kindness": 1
+          }
+        },
+        {
+          "text": "The joy of the Lord is your strength.",
+          "weights": {
+            "joy": 3
+          }
+        },
+        {
+          "text": "Be still, and know that I am God.",
+          "weights": {
+            "peace": 3
+          }
+        },
+        {
+          "text": "Be ye therefore merciful.",
+          "weights": {
+            "kindness": 2,
+            "goodness": 2
+          }
+        }
       ]
     },
     {
       "text": "When someone hurts you, your default move is to...",
       "options": [
-        { "text": "Pause and choose grace before reacting.",       "weights": { "patience": 3, "gentleness": 1 } },
-        { "text": "Hold a soft answer even when it costs me.",     "weights": { "gentleness": 3 } },
-        { "text": "Bite my tongue and not let it spiral.",         "weights": { "self-control": 3 } },
-        { "text": "Pray for them and try again tomorrow.",         "weights": { "love": 2, "faithfulness": 1 } }
+        {
+          "text": "Pause and choose grace before reacting.",
+          "weights": {
+            "patience": 3,
+            "gentleness": 1
+          }
+        },
+        {
+          "text": "Hold a soft answer even when it costs me.",
+          "weights": {
+            "gentleness": 3
+          }
+        },
+        {
+          "text": "Bite my tongue and not let it spiral.",
+          "weights": {
+            "self-control": 3
+          }
+        },
+        {
+          "text": "Pray for them and try again tomorrow.",
+          "weights": {
+            "love": 2,
+            "faithfulness": 1
+          }
+        }
       ]
     },
     {
       "text": "Your secret superpower is...",
       "options": [
-        { "text": "Doing the right thing even when no one's watching.", "weights": { "goodness": 3 } },
-        { "text": "Keeping promises long after it's convenient.",       "weights": { "faithfulness": 3 } },
-        { "text": "Not flying off the handle.",                        "weights": { "self-control": 3, "patience": 1 } },
-        { "text": "Bringing peace into chaotic rooms.",                "weights": { "peace": 3 } }
+        {
+          "text": "Doing the right thing even when no one's watching.",
+          "weights": {
+            "goodness": 3
+          }
+        },
+        {
+          "text": "Keeping promises long after it's convenient.",
+          "weights": {
+            "faithfulness": 3
+          }
+        },
+        {
+          "text": "Not flying off the handle.",
+          "weights": {
+            "self-control": 3,
+            "patience": 1
+          }
+        },
+        {
+          "text": "Bringing peace into chaotic rooms.",
+          "weights": {
+            "peace": 3
+          }
+        }
       ]
     },
     {
       "text": "What energy do you bring into a room?",
       "options": [
-        { "text": "Warmth and welcome.",                "weights": { "love": 2, "kindness": 2 } },
-        { "text": "Laughter and lightness.",            "weights": { "joy": 3 } },
-        { "text": "Stillness and safety.",              "weights": { "peace": 2, "gentleness": 1 } },
-        { "text": "Steadiness and resolve.",            "weights": { "faithfulness": 2, "self-control": 1 } }
+        {
+          "text": "Warmth and welcome.",
+          "weights": {
+            "love": 2,
+            "kindness": 2
+          }
+        },
+        {
+          "text": "Laughter and lightness.",
+          "weights": {
+            "joy": 3
+          }
+        },
+        {
+          "text": "Stillness and safety.",
+          "weights": {
+            "peace": 2,
+            "gentleness": 1
+          }
+        },
+        {
+          "text": "Steadiness and resolve.",
+          "weights": {
+            "faithfulness": 2,
+            "self-control": 1
+          }
+        }
       ]
     },
     {
       "text": "Pick the trait you most want to grow in:",
       "options": [
-        { "text": "Slowing down with people.",                "weights": { "patience": 3, "gentleness": 1 } },
-        { "text": "Holding my tongue when I'm right.",        "weights": { "self-control": 3 } },
-        { "text": "Being kind to people who can't repay it.", "weights": { "kindness": 3, "goodness": 1 } },
-        { "text": "Letting joy be louder than fear.",         "weights": { "joy": 3 } }
+        {
+          "text": "Slowing down with people.",
+          "weights": {
+            "patience": 3,
+            "gentleness": 1
+          }
+        },
+        {
+          "text": "Holding my tongue when I'm right.",
+          "weights": {
+            "self-control": 3
+          }
+        },
+        {
+          "text": "Being kind to people who can't repay it.",
+          "weights": {
+            "kindness": 3,
+            "goodness": 1
+          }
+        },
+        {
+          "text": "Letting joy be louder than fear.",
+          "weights": {
+            "joy": 3
+          }
+        }
       ]
     },
     {
       "text": "Where do you feel most yourself?",
       "options": [
-        { "text": "At a long table with the people I love.",       "weights": { "love": 2, "joy": 2 } },
-        { "text": "Somewhere quiet, just me and God.",            "weights": { "peace": 3 } },
-        { "text": "Doing something kind no one will know about.", "weights": { "kindness": 2, "goodness": 2 } },
-        { "text": "Keeping a steady rhythm that anchors others.",  "weights": { "faithfulness": 3 } }
+        {
+          "text": "At a long table with the people I love.",
+          "weights": {
+            "love": 2,
+            "joy": 2
+          }
+        },
+        {
+          "text": "Somewhere quiet, just me and God.",
+          "weights": {
+            "peace": 3
+          }
+        },
+        {
+          "text": "Doing something kind no one will know about.",
+          "weights": {
+            "kindness": 2,
+            "goodness": 2
+          }
+        },
+        {
+          "text": "Keeping a steady rhythm that anchors others.",
+          "weights": {
+            "faithfulness": 3
+          }
+        }
       ]
     },
     {
       "text": "If someone wrote your one-line legacy, you'd hope it said...",
       "options": [
-        { "text": "She loved people well.",          "weights": { "love": 3 } },
-        { "text": "He brought joy into every room.",  "weights": { "joy": 3 } },
-        { "text": "She was a peacemaker.",            "weights": { "peace": 3 } },
-        { "text": "He was faithful to the end.",      "weights": { "faithfulness": 3 } }
+        {
+          "text": "She loved people well.",
+          "weights": {
+            "love": 3
+          }
+        },
+        {
+          "text": "He brought joy into every room.",
+          "weights": {
+            "joy": 3
+          }
+        },
+        {
+          "text": "She was a peacemaker.",
+          "weights": {
+            "peace": 3
+          }
+        },
+        {
+          "text": "He was faithful to the end.",
+          "weights": {
+            "faithfulness": 3
+          }
+        }
       ]
     }
   ],
   "results": {
     "love": {
-      "name": "Love", "emoji": "❤️",
-      "traits": ["Warm", "Generous", "Present"],
+      "name": "Love",
+      "emoji": "❤️",
+      "traits": [
+        "Warm",
+        "Generous",
+        "Present"
+      ],
       "description": "You lead with love and people feel it the second you walk in. You make hospitality a holy thing. Being around you feels like a long table that always has room for one more.",
       "scriptureRef": "gal-5-22-23"
     },
     "joy": {
-      "name": "Joy", "emoji": "😊",
-      "traits": ["Bright", "Resilient", "Hopeful"],
+      "name": "Joy",
+      "emoji": "😊",
+      "traits": [
+        "Bright",
+        "Resilient",
+        "Hopeful"
+      ],
       "description": "Joy in you isn't naive. It's stubborn. You've decided gladness can live right alongside grief, and that decision rubs off on everyone near you.",
       "scriptureRef": "gal-5-22-23"
     },
     "peace": {
-      "name": "Peace", "emoji": "🕊️",
-      "traits": ["Calm", "Grounded", "Reassuring"],
+      "name": "Peace",
+      "emoji": "🕊️",
+      "traits": [
+        "Calm",
+        "Grounded",
+        "Reassuring"
+      ],
       "description": "You're the one whose heart rate the whole room ends up copying. Where you go, anxious shoulders drop. You carry stillness like something you've been trusted to hand out.",
       "scriptureRef": "gal-5-22-23"
     },
     "patience": {
-      "name": "Patience", "emoji": "⏳",
-      "traits": ["Long-suffering", "Steady", "Tender"],
+      "name": "Patience",
+      "emoji": "⏳",
+      "traits": [
+        "Long-suffering",
+        "Steady",
+        "Tender"
+      ],
       "description": "You let people move at their own speed. You don't rush growth, yours or anyone else's. That patience is a slow, quiet kind of miracle.",
       "scriptureRef": "gal-5-22-23"
     },
     "kindness": {
-      "name": "Kindness", "emoji": "🤲",
-      "traits": ["Thoughtful", "Gentle", "Generous"],
+      "name": "Kindness",
+      "emoji": "🤲",
+      "traits": [
+        "Thoughtful",
+        "Gentle",
+        "Generous"
+      ],
       "description": "You notice the small thing nobody else does, and then you actually do something about it. Your kindness is specific. It lands in places people didn't even know were sore.",
       "scriptureRef": "gal-5-22-23"
     },
     "goodness": {
-      "name": "Goodness", "emoji": "🌿",
-      "traits": ["Honest", "Upright", "Trustworthy"],
+      "name": "Goodness",
+      "emoji": "🌿",
+      "traits": [
+        "Honest",
+        "Upright",
+        "Trustworthy"
+      ],
       "description": "You do the right thing in private. You treat the person who can't do anything for you exactly like the person who can. That's rare, and people feel it.",
       "scriptureRef": "gal-5-22-23"
     },
     "faithfulness": {
-      "name": "Faithfulness", "emoji": "🔒",
-      "traits": ["Loyal", "Consistent", "Reliable"],
+      "name": "Faithfulness",
+      "emoji": "🔒",
+      "traits": [
+        "Loyal",
+        "Consistent",
+        "Reliable"
+      ],
       "description": "You keep showing up. The slow Tuesdays and the unglamorous obediences, that's where you live. People trust you because you've been the same person for years.",
       "scriptureRef": "gal-5-22-23"
     },
     "gentleness": {
-      "name": "Gentleness", "emoji": "🌸",
-      "traits": ["Soft", "Humble", "Disarming"],
+      "name": "Gentleness",
+      "emoji": "🌸",
+      "traits": [
+        "Soft",
+        "Humble",
+        "Disarming"
+      ],
       "description": "Your strength is shaped like softness. You can hand someone a hard truth without any edge to it, and that lowers walls faster than any argument ever could.",
       "scriptureRef": "gal-5-22-23"
     },
     "self-control": {
-      "name": "Self-Control", "emoji": "🛡️",
-      "traits": ["Disciplined", "Measured", "Wise"],
+      "name": "Self-Control",
+      "emoji": "🛡️",
+      "traits": [
+        "Disciplined",
+        "Measured",
+        "Wise"
+      ],
       "description": "You've learned to pause. You don't always say what you could, and you don't always do what you want to. That restraint is one of the most underrated kinds of holiness.",
       "scriptureRef": "gal-5-22-23"
     }
-  }
+  },
+  "theme": "discipleship"
 }

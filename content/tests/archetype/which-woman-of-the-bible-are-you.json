@@ -10,124 +10,332 @@
     {
       "text": "At a dinner with people you love, you're usually...",
       "options": [
-        { "text": "Sitting at someone's feet, soaking in every word.",   "weights": { "mary-of-bethany": 3 } },
-        { "text": "In the kitchen, making sure everyone's fed.",         "weights": { "martha": 3 } },
-        { "text": "Asking deep questions across the table.",            "weights": { "priscilla": 2, "deborah": 1 } },
-        { "text": "Quietly noticing who's left out.",                   "weights": { "ruth": 2, "hannah": 1 } }
+        {
+          "text": "Sitting at someone's feet, soaking in every word.",
+          "weights": {
+            "mary-of-bethany": 3
+          }
+        },
+        {
+          "text": "In the kitchen, making sure everyone's fed.",
+          "weights": {
+            "martha": 3
+          }
+        },
+        {
+          "text": "Asking deep questions across the table.",
+          "weights": {
+            "priscilla": 2,
+            "deborah": 1
+          }
+        },
+        {
+          "text": "Quietly noticing who's left out.",
+          "weights": {
+            "ruth": 2,
+            "hannah": 1
+          }
+        }
       ]
     },
     {
       "text": "When God feels far away, you...",
       "options": [
-        { "text": "Pour out your soul until words run out.",   "weights": { "hannah": 3 } },
-        { "text": "Stay loyal to the people He gave you.",     "weights": { "ruth": 3 } },
-        { "text": "Lead the next step anyway, because someone has to.", "weights": { "deborah": 3, "esther": 1 } },
-        { "text": "Sit and listen for the still small voice.",  "weights": { "mary-of-bethany": 2 } }
+        {
+          "text": "Pour out your soul until words run out.",
+          "weights": {
+            "hannah": 3
+          }
+        },
+        {
+          "text": "Stay loyal to the people He gave you.",
+          "weights": {
+            "ruth": 3
+          }
+        },
+        {
+          "text": "Lead the next step anyway, because someone has to.",
+          "weights": {
+            "deborah": 3,
+            "esther": 1
+          }
+        },
+        {
+          "text": "Sit and listen for the still small voice.",
+          "weights": {
+            "mary-of-bethany": 2
+          }
+        }
       ]
     },
     {
       "text": "Pick the season that mirrors your life right now:",
       "options": [
-        { "text": "Praying for something the world says won't come.",     "weights": { "hannah": 3 } },
-        { "text": "Starting over in a place that isn't home.",            "weights": { "ruth": 3 } },
-        { "text": "Standing in a room where speaking up is dangerous.",   "weights": { "esther": 3 } },
-        { "text": "Leading people who depend on me for direction.",       "weights": { "deborah": 3 } }
+        {
+          "text": "Praying for something the world says won't come.",
+          "weights": {
+            "hannah": 3
+          }
+        },
+        {
+          "text": "Starting over in a place that isn't home.",
+          "weights": {
+            "ruth": 3
+          }
+        },
+        {
+          "text": "Standing in a room where speaking up is dangerous.",
+          "weights": {
+            "esther": 3
+          }
+        },
+        {
+          "text": "Leading people who depend on me for direction.",
+          "weights": {
+            "deborah": 3
+          }
+        }
       ]
     },
     {
       "text": "Your love language for God is...",
       "options": [
-        { "text": "Lingering presence.",       "weights": { "mary-of-bethany": 3 } },
-        { "text": "Hands-on service.",         "weights": { "martha": 3 } },
-        { "text": "Honest, tear-soaked prayer.", "weights": { "hannah": 3 } },
-        { "text": "Bold public courage.",       "weights": { "esther": 2, "deborah": 1 } }
+        {
+          "text": "Lingering presence.",
+          "weights": {
+            "mary-of-bethany": 3
+          }
+        },
+        {
+          "text": "Hands-on service.",
+          "weights": {
+            "martha": 3
+          }
+        },
+        {
+          "text": "Honest, tear-soaked prayer.",
+          "weights": {
+            "hannah": 3
+          }
+        },
+        {
+          "text": "Bold public courage.",
+          "weights": {
+            "esther": 2,
+            "deborah": 1
+          }
+        }
       ]
     },
     {
       "text": "How do you handle being underestimated?",
       "options": [
-        { "text": "I lead anyway and let the result speak.",                 "weights": { "deborah": 3 } },
-        { "text": "I teach the people in front of me with patience.",   "weights": { "priscilla": 3 } },
-        { "text": "I trust God knows my name even when no one says it.", "weights": { "hannah": 2, "ruth": 1 } },
-        { "text": "I do the thing the room said was impossible.",       "weights": { "rahab": 3, "esther": 1 } }
+        {
+          "text": "I lead anyway and let the result speak.",
+          "weights": {
+            "deborah": 3
+          }
+        },
+        {
+          "text": "I teach the people in front of me with patience.",
+          "weights": {
+            "priscilla": 3
+          }
+        },
+        {
+          "text": "I trust God knows my name even when no one says it.",
+          "weights": {
+            "hannah": 2,
+            "ruth": 1
+          }
+        },
+        {
+          "text": "I do the thing the room said was impossible.",
+          "weights": {
+            "rahab": 3,
+            "esther": 1
+          }
+        }
       ]
     },
     {
       "text": "Pick the moment of faith you most relate to:",
       "options": [
-        { "text": "Choosing to follow into the unknown.",                "weights": { "ruth": 3 } },
-        { "text": "Walking into the king's court uninvited.",            "weights": { "esther": 3 } },
-        { "text": "Hiding strangers because you believe their God is real.", "weights": { "rahab": 3 } },
-        { "text": "Pulling a stranger aside to teach him more deeply.",  "weights": { "priscilla": 3 } }
+        {
+          "text": "Choosing to follow into the unknown.",
+          "weights": {
+            "ruth": 3
+          }
+        },
+        {
+          "text": "Walking into the king's court uninvited.",
+          "weights": {
+            "esther": 3
+          }
+        },
+        {
+          "text": "Hiding strangers because you believe their God is real.",
+          "weights": {
+            "rahab": 3
+          }
+        },
+        {
+          "text": "Pulling a stranger aside to teach him more deeply.",
+          "weights": {
+            "priscilla": 3
+          }
+        }
       ]
     },
     {
       "text": "When you're stressed, your version of self-care is...",
       "options": [
-        { "text": "Sitting still in a quiet place.",         "weights": { "mary-of-bethany": 3 } },
-        { "text": "Cleaning, cooking, organizing, just keep moving.", "weights": { "martha": 3 } },
-        { "text": "Long, honest prayer.",                    "weights": { "hannah": 3 } },
-        { "text": "A walk with someone wise.",               "weights": { "priscilla": 2, "deborah": 1 } }
+        {
+          "text": "Sitting still in a quiet place.",
+          "weights": {
+            "mary-of-bethany": 3
+          }
+        },
+        {
+          "text": "Cleaning, cooking, organizing, just keep moving.",
+          "weights": {
+            "martha": 3
+          }
+        },
+        {
+          "text": "Long, honest prayer.",
+          "weights": {
+            "hannah": 3
+          }
+        },
+        {
+          "text": "A walk with someone wise.",
+          "weights": {
+            "priscilla": 2,
+            "deborah": 1
+          }
+        }
       ]
     },
     {
       "text": "If your life were a verse, it would say...",
       "options": [
-        { "text": "She has chosen that good part.",                   "weights": { "mary-of-bethany": 3 } },
-        { "text": "Whither thou goest, I will go.",                   "weights": { "ruth": 3 } },
-        { "text": "For such a time as this.",                        "weights": { "esther": 3 } },
-        { "text": "She poured out her soul before the Lord.",        "weights": { "hannah": 3 } }
+        {
+          "text": "She has chosen that good part.",
+          "weights": {
+            "mary-of-bethany": 3
+          }
+        },
+        {
+          "text": "Whither thou goest, I will go.",
+          "weights": {
+            "ruth": 3
+          }
+        },
+        {
+          "text": "For such a time as this.",
+          "weights": {
+            "esther": 3
+          }
+        },
+        {
+          "text": "She poured out her soul before the Lord.",
+          "weights": {
+            "hannah": 3
+          }
+        }
       ]
     }
   ],
   "results": {
     "mary-of-bethany": {
-      "name": "Mary of Bethany", "emoji": "🪔",
-      "traits": ["Devoted", "Attentive", "Still"],
+      "name": "Mary of Bethany",
+      "emoji": "🪔",
+      "traits": [
+        "Devoted",
+        "Attentive",
+        "Still"
+      ],
       "description": "You've chosen the better part. Where others scramble, you sit. People think you're wasting time, right up until they realize you've been with Him the whole while.",
       "scriptureRef": "luke-10-42"
     },
     "martha": {
-      "name": "Martha the Doer", "emoji": "🍞",
-      "traits": ["Capable", "Loyal", "Caring"],
+      "name": "Martha the Doer",
+      "emoji": "🍞",
+      "traits": [
+        "Capable",
+        "Loyal",
+        "Caring"
+      ],
       "description": "Your love shows up as service. You're usually the reason the room is fed and steady. And Jesus is gently inviting you to put the tray down for a minute and just sit with Him.",
       "scriptureRef": "luke-10-41"
     },
     "ruth": {
-      "name": "Ruth the Loyal", "emoji": "🌾",
-      "traits": ["Devoted", "Steady", "Hopeful"],
+      "name": "Ruth the Loyal",
+      "emoji": "🌾",
+      "traits": [
+        "Devoted",
+        "Steady",
+        "Hopeful"
+      ],
       "description": "You'll leave everything familiar to follow the people God's given you. Your faithfulness in the quiet years ends up being part of a story far bigger than you can see right now.",
       "scriptureRef": "ruth-1-16"
     },
     "esther": {
-      "name": "Esther for Such a Time", "emoji": "👑",
-      "traits": ["Courageous", "Strategic", "Sacrificial"],
+      "name": "Esther for Such a Time",
+      "emoji": "👑",
+      "traits": [
+        "Courageous",
+        "Strategic",
+        "Sacrificial"
+      ],
       "description": "You sense the room you're standing in is no accident. When the moment demands courage, you'll walk in, even if it costs you everything.",
       "scriptureRef": "esth-4-14"
     },
     "deborah": {
-      "name": "Deborah the Judge", "emoji": "🌳",
-      "traits": ["Wise", "Decisive", "Bold"],
+      "name": "Deborah the Judge",
+      "emoji": "🌳",
+      "traits": [
+        "Wise",
+        "Decisive",
+        "Bold"
+      ],
       "description": "You lead from the tree, not the throne. People come to you for clarity and you give it without any ego attached. And when the army won't move without you, you go with them.",
       "scriptureRef": "judg-4-9"
     },
     "hannah": {
-      "name": "Hannah in the Temple", "emoji": "🙏",
-      "traits": ["Honest", "Persistent", "Surrendered"],
+      "name": "Hannah in the Temple",
+      "emoji": "🙏",
+      "traits": [
+        "Honest",
+        "Persistent",
+        "Surrendered"
+      ],
       "description": "You bring your tears to God without dressing them up first. People have misread you mid-prayer and assumed the worst. You keep praying anyway, until He answers.",
       "scriptureRef": "1-sam-1-15"
     },
     "rahab": {
-      "name": "Rahab the Brave", "emoji": "🪢",
-      "traits": ["Daring", "Resourceful", "Believing"],
+      "name": "Rahab the Brave",
+      "emoji": "🪢",
+      "traits": [
+        "Daring",
+        "Resourceful",
+        "Believing"
+      ],
       "description": "You don't have a religious resume. What you have is the instinct to recognize the real God when you see Him. You'll risk everything to be on the side of what's true, and grace writes you right into the family tree.",
       "scriptureRef": "josh-2-11"
     },
     "priscilla": {
-      "name": "Priscilla the Teacher", "emoji": "📜",
-      "traits": ["Sharp", "Hospitable", "Discipling"],
+      "name": "Priscilla the Teacher",
+      "emoji": "📜",
+      "traits": [
+        "Sharp",
+        "Hospitable",
+        "Discipling"
+      ],
       "description": "You learn things carefully, then teach them gently. You take people aside and explain it all more fully without ever making them feel small. The church grows because of women like you.",
       "scriptureRef": "acts-18-26"
     }
-  }
+  },
+  "theme": "scripture-archetype"
 }

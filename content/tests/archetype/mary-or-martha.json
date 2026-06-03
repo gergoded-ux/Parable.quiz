@@ -10,51 +10,112 @@
     {
       "text": "Friends are coming over in an hour. You...",
       "options": [
-        { "text": "Tidy the cushions, light a candle, and let the rest go.", "weights": { "mary": 3 } },
-        { "text": "Sweep, cook, set the table, and start panicking.",        "weights": { "martha": 3 } }
+        {
+          "text": "Tidy the cushions, light a candle, and let the rest go.",
+          "weights": {
+            "mary": 3
+          }
+        },
+        {
+          "text": "Sweep, cook, set the table, and start panicking.",
+          "weights": {
+            "martha": 3
+          }
+        }
       ]
     },
     {
       "text": "When you read 'be still,' your honest reaction is...",
       "options": [
-        { "text": "Yes. That's the verse I needed.",                "weights": { "mary": 3 } },
-        { "text": "Okay but who's going to do the dishes?",        "weights": { "martha": 3 } }
+        {
+          "text": "Yes. That's the verse I needed.",
+          "weights": {
+            "mary": 3
+          }
+        },
+        {
+          "text": "Okay but who's going to do the dishes?",
+          "weights": {
+            "martha": 3
+          }
+        }
       ]
     },
     {
       "text": "Pick the bigger temptation:",
       "options": [
-        { "text": "Spiritualizing inaction.",                       "weights": { "mary": 3 } },
-        { "text": "Resenting people who aren't helping.",          "weights": { "martha": 3 } }
+        {
+          "text": "Spiritualizing inaction.",
+          "weights": {
+            "mary": 3
+          }
+        },
+        {
+          "text": "Resenting people who aren't helping.",
+          "weights": {
+            "martha": 3
+          }
+        }
       ]
     },
     {
       "text": "After a long day with Jesus, you'd most want to...",
       "options": [
-        { "text": "Sit a while longer in the quiet.",              "weights": { "mary": 3 } },
-        { "text": "Make Him dinner before He goes.",               "weights": { "martha": 3 } }
+        {
+          "text": "Sit a while longer in the quiet.",
+          "weights": {
+            "mary": 3
+          }
+        },
+        {
+          "text": "Make Him dinner before He goes.",
+          "weights": {
+            "martha": 3
+          }
+        }
       ]
     },
     {
       "text": "If Jesus said your name twice today, the second word would be...",
       "options": [
-        { "text": "'Come.'",                                       "weights": { "mary": 3 } },
-        { "text": "'Rest.'",                                       "weights": { "martha": 3 } }
+        {
+          "text": "'Come.'",
+          "weights": {
+            "mary": 3
+          }
+        },
+        {
+          "text": "'Rest.'",
+          "weights": {
+            "martha": 3
+          }
+        }
       ]
     }
   ],
   "results": {
     "mary": {
-      "name": "Mary at His Feet", "emoji": "🪔",
-      "traits": ["Still", "Devoted", "Listening"],
+      "name": "Mary at His Feet",
+      "emoji": "🪔",
+      "traits": [
+        "Still",
+        "Devoted",
+        "Listening"
+      ],
       "description": "You've learned the secret of the better part. You'd rather sit close than rush around, and that quiet habit is shaping the rest of your life more than you realize.",
       "scriptureRef": "luke-10-42"
     },
     "martha": {
-      "name": "Martha in the Kitchen", "emoji": "🍞",
-      "traits": ["Capable", "Generous", "Hospitable"],
+      "name": "Martha in the Kitchen",
+      "emoji": "🍞",
+      "traits": [
+        "Capable",
+        "Generous",
+        "Hospitable"
+      ],
       "description": "Your love shows up as service, and any room you walk into is better for it. Jesus is calling your name twice. He's not asking you to stop serving, just to come sit with Him a while too.",
       "scriptureRef": "luke-10-41"
     }
-  }
+  },
+  "theme": "discipleship"
 }

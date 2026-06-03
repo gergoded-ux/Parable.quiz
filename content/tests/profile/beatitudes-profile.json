@@ -20,91 +20,293 @@
     {
       "text": "When you walk into prayer this week, what's the truest thing in your chest?",
       "options": [
-        { "text": "I have nothing to bring Him and I know it.", "weights": { "poor-in-spirit": 3 } },
-        { "text": "I'm carrying grief I haven't put down.", "weights": { "mourning": 3 } },
-        { "text": "I want to be clean. Really clean.", "weights": { "pure-in-heart": 3 } },
-        { "text": "I'm starving for things to be made right.", "weights": { "righteousness": 3 } }
+        {
+          "text": "I have nothing to bring Him and I know it.",
+          "weights": {
+            "poor-in-spirit": 3
+          }
+        },
+        {
+          "text": "I'm carrying grief I haven't put down.",
+          "weights": {
+            "mourning": 3
+          }
+        },
+        {
+          "text": "I want to be clean. Really clean.",
+          "weights": {
+            "pure-in-heart": 3
+          }
+        },
+        {
+          "text": "I'm starving for things to be made right.",
+          "weights": {
+            "righteousness": 3
+          }
+        }
       ]
     },
     {
       "text": "How do you handle being wronged lately?",
       "options": [
-        { "text": "Hold my fire. Answer softer than they expect.", "weights": { "meek": 3 } },
-        { "text": "Forgive faster than I want to.", "weights": { "merciful": 3 } },
-        { "text": "Take the hit and stand for what's right anyway.", "weights": { "persecuted": 3 } },
-        { "text": "Pray for peace between us before pride gets a vote.", "weights": { "peacemakers": 3 } }
+        {
+          "text": "Hold my fire. Answer softer than they expect.",
+          "weights": {
+            "meek": 3
+          }
+        },
+        {
+          "text": "Forgive faster than I want to.",
+          "weights": {
+            "merciful": 3
+          }
+        },
+        {
+          "text": "Take the hit and stand for what's right anyway.",
+          "weights": {
+            "persecuted": 3
+          }
+        },
+        {
+          "text": "Pray for peace between us before pride gets a vote.",
+          "weights": {
+            "peacemakers": 3
+          }
+        }
       ]
     },
     {
       "text": "What kind of strength do you most admire?",
       "options": [
-        { "text": "Power held with a soft grip.", "weights": { "meek": 3 } },
-        { "text": "Mercy when payback would be easier.", "weights": { "merciful": 3 } },
-        { "text": "Standing for truth when it costs.", "weights": { "persecuted": 3 } },
-        { "text": "Calm in rooms that want to explode.", "weights": { "peacemakers": 3 } }
+        {
+          "text": "Power held with a soft grip.",
+          "weights": {
+            "meek": 3
+          }
+        },
+        {
+          "text": "Mercy when payback would be easier.",
+          "weights": {
+            "merciful": 3
+          }
+        },
+        {
+          "text": "Standing for truth when it costs.",
+          "weights": {
+            "persecuted": 3
+          }
+        },
+        {
+          "text": "Calm in rooms that want to explode.",
+          "weights": {
+            "peacemakers": 3
+          }
+        }
       ]
     },
     {
       "text": "Which appetite shows up in you the most?",
       "options": [
-        { "text": "I'm hungry for righteousness, in me and around me.", "weights": { "righteousness": 3 } },
-        { "text": "I want a heart that isn't divided.", "weights": { "pure-in-heart": 3 } },
-        { "text": "I want to be the kind of person whose mercy is the first response.", "weights": { "merciful": 3 } },
-        { "text": "I want comfort that actually reaches the place that's hurting.", "weights": { "mourning": 3 } }
+        {
+          "text": "I'm hungry for righteousness, in me and around me.",
+          "weights": {
+            "righteousness": 3
+          }
+        },
+        {
+          "text": "I want a heart that isn't divided.",
+          "weights": {
+            "pure-in-heart": 3
+          }
+        },
+        {
+          "text": "I want to be the kind of person whose mercy is the first response.",
+          "weights": {
+            "merciful": 3
+          }
+        },
+        {
+          "text": "I want comfort that actually reaches the place that's hurting.",
+          "weights": {
+            "mourning": 3
+          }
+        }
       ]
     },
     {
       "text": "Pick the verse that has been quietly preaching to you:",
       "options": [
-        { "text": "Blessed are the poor in spirit, for theirs is the kingdom.", "weights": { "poor-in-spirit": 3 } },
-        { "text": "Blessed are they that mourn, for they shall be comforted.", "weights": { "mourning": 3 } },
-        { "text": "Blessed are the meek, for they shall inherit the earth.", "weights": { "meek": 3 } },
-        { "text": "Blessed are the pure in heart, for they shall see God.", "weights": { "pure-in-heart": 3 } }
+        {
+          "text": "Blessed are the poor in spirit, for theirs is the kingdom.",
+          "weights": {
+            "poor-in-spirit": 3
+          }
+        },
+        {
+          "text": "Blessed are they that mourn, for they shall be comforted.",
+          "weights": {
+            "mourning": 3
+          }
+        },
+        {
+          "text": "Blessed are the meek, for they shall inherit the earth.",
+          "weights": {
+            "meek": 3
+          }
+        },
+        {
+          "text": "Blessed are the pure in heart, for they shall see God.",
+          "weights": {
+            "pure-in-heart": 3
+          }
+        }
       ]
     },
     {
       "text": "What's the most honest version of your prayer right now?",
       "options": [
-        { "text": "I have nothing. Be enough.", "weights": { "poor-in-spirit": 3 } },
-        { "text": "Comfort me. I can't pretend anymore.", "weights": { "mourning": 3 } },
-        { "text": "Fill me. I'm running on empty.", "weights": { "righteousness": 3 } },
-        { "text": "Make me a peacemaker.", "weights": { "peacemakers": 3 } }
+        {
+          "text": "I have nothing. Be enough.",
+          "weights": {
+            "poor-in-spirit": 3
+          }
+        },
+        {
+          "text": "Comfort me. I can't pretend anymore.",
+          "weights": {
+            "mourning": 3
+          }
+        },
+        {
+          "text": "Fill me. I'm running on empty.",
+          "weights": {
+            "righteousness": 3
+          }
+        },
+        {
+          "text": "Make me a peacemaker.",
+          "weights": {
+            "peacemakers": 3
+          }
+        }
       ]
     },
     {
       "text": "When someone hurts you and there are no witnesses, you tend to...",
       "options": [
-        { "text": "Stay quiet, keep my dignity, let God answer.", "weights": { "meek": 3 } },
-        { "text": "Pray for them before I pray for me.", "weights": { "merciful": 3 } },
-        { "text": "Process it with God before I let it harden.", "weights": { "pure-in-heart": 2, "merciful": 1 } },
-        { "text": "Take the cost of doing the right thing anyway.", "weights": { "persecuted": 3 } }
+        {
+          "text": "Stay quiet, keep my dignity, let God answer.",
+          "weights": {
+            "meek": 3
+          }
+        },
+        {
+          "text": "Pray for them before I pray for me.",
+          "weights": {
+            "merciful": 3
+          }
+        },
+        {
+          "text": "Process it with God before I let it harden.",
+          "weights": {
+            "pure-in-heart": 2,
+            "merciful": 1
+          }
+        },
+        {
+          "text": "Take the cost of doing the right thing anyway.",
+          "weights": {
+            "persecuted": 3
+          }
+        }
       ]
     },
     {
       "text": "What season has shaped you most in the last year?",
       "options": [
-        { "text": "Being at the end of myself, and finding Him there.", "weights": { "poor-in-spirit": 3 } },
-        { "text": "Walking through a real loss.", "weights": { "mourning": 3 } },
-        { "text": "Choosing right at a real cost.", "weights": { "persecuted": 3 } },
-        { "text": "Working on what's underneath: my motives, my heart.", "weights": { "pure-in-heart": 3 } }
+        {
+          "text": "Being at the end of myself, and finding Him there.",
+          "weights": {
+            "poor-in-spirit": 3
+          }
+        },
+        {
+          "text": "Walking through a real loss.",
+          "weights": {
+            "mourning": 3
+          }
+        },
+        {
+          "text": "Choosing right at a real cost.",
+          "weights": {
+            "persecuted": 3
+          }
+        },
+        {
+          "text": "Working on what's underneath: my motives, my heart.",
+          "weights": {
+            "pure-in-heart": 3
+          }
+        }
       ]
     },
     {
       "text": "If Jesus described your week, which line would He say?",
       "options": [
-        { "text": "\"Blessed are you who mourn, comfort is coming.\"", "weights": { "mourning": 3 } },
-        { "text": "\"Blessed are you who make peace.\"", "weights": { "peacemakers": 3 } },
-        { "text": "\"Blessed are you who hunger for right.\"", "weights": { "righteousness": 3 } },
-        { "text": "\"Blessed are you who've taken the hit for me.\"", "weights": { "persecuted": 3 } }
+        {
+          "text": "\"Blessed are you who mourn, comfort is coming.\"",
+          "weights": {
+            "mourning": 3
+          }
+        },
+        {
+          "text": "\"Blessed are you who make peace.\"",
+          "weights": {
+            "peacemakers": 3
+          }
+        },
+        {
+          "text": "\"Blessed are you who hunger for right.\"",
+          "weights": {
+            "righteousness": 3
+          }
+        },
+        {
+          "text": "\"Blessed are you who've taken the hit for me.\"",
+          "weights": {
+            "persecuted": 3
+          }
+        }
       ]
     },
     {
       "text": "Which blessing are you quietly aching for right now?",
       "options": [
-        { "text": "To inherit something only God can give.", "weights": { "meek": 3 } },
-        { "text": "To finally see Him clearly.", "weights": { "pure-in-heart": 3 } },
-        { "text": "To be called His child without doubting it.", "weights": { "peacemakers": 3 } },
-        { "text": "To know the kingdom is mine, even when nothing else is.", "weights": { "poor-in-spirit": 2, "persecuted": 1 } }
+        {
+          "text": "To inherit something only God can give.",
+          "weights": {
+            "meek": 3
+          }
+        },
+        {
+          "text": "To finally see Him clearly.",
+          "weights": {
+            "pure-in-heart": 3
+          }
+        },
+        {
+          "text": "To be called His child without doubting it.",
+          "weights": {
+            "peacemakers": 3
+          }
+        },
+        {
+          "text": "To know the kingdom is mine, even when nothing else is.",
+          "weights": {
+            "poor-in-spirit": 2,
+            "persecuted": 1
+          }
+        }
       ]
     }
   ],
@@ -149,5 +351,6 @@
       "description": "You've taken hits for doing the right thing. It's lonely and it hurts. But heaven is on your side, and the reward is greater than anything the cost has taken.",
       "scriptureRef": "matt-5-10"
     }
-  }
+  },
+  "theme": "discipleship"
 }

@@ -20,73 +20,238 @@
     {
       "text": "What's the truest description of your week?",
       "options": [
-        { "text": "Loud. I have not heard myself think.", "weights": { "silence": 3, "sabbath": 1 } },
-        { "text": "Numb. I've been autopiloting through it.", "weights": { "examen": 3 } },
-        { "text": "Hungry. I want more of God and don't know where to start.", "weights": { "lectio-divina": 3 } },
-        { "text": "Tangled. My appetites have been running me.", "weights": { "fasting": 3 } }
+        {
+          "text": "Loud. I have not heard myself think.",
+          "weights": {
+            "silence": 3,
+            "sabbath": 1
+          }
+        },
+        {
+          "text": "Numb. I've been autopiloting through it.",
+          "weights": {
+            "examen": 3
+          }
+        },
+        {
+          "text": "Hungry. I want more of God and don't know where to start.",
+          "weights": {
+            "lectio-divina": 3
+          }
+        },
+        {
+          "text": "Tangled. My appetites have been running me.",
+          "weights": {
+            "fasting": 3
+          }
+        }
       ]
     },
     {
       "text": "Where does your prayer life feel weakest right now?",
       "options": [
-        { "text": "Consistency. I pray when I feel like it, which is rare.", "weights": { "fixed-hour-prayer": 3 } },
-        { "text": "Depth. I'm skimming the Bible instead of feeding on it.", "weights": { "lectio-divina": 3 } },
-        { "text": "Honesty. I'm performing more than I'm processing.", "weights": { "journaling": 3 } },
-        { "text": "Stillness. I can't get quiet enough to hear Him.", "weights": { "silence": 3 } }
+        {
+          "text": "Consistency. I pray when I feel like it, which is rare.",
+          "weights": {
+            "fixed-hour-prayer": 3
+          }
+        },
+        {
+          "text": "Depth. I'm skimming the Bible instead of feeding on it.",
+          "weights": {
+            "lectio-divina": 3
+          }
+        },
+        {
+          "text": "Honesty. I'm performing more than I'm processing.",
+          "weights": {
+            "journaling": 3
+          }
+        },
+        {
+          "text": "Stillness. I can't get quiet enough to hear Him.",
+          "weights": {
+            "silence": 3
+          }
+        }
       ]
     },
     {
       "text": "Pick the rhythm that's been broken in you lately:",
       "options": [
-        { "text": "Rest. I haven't truly stopped in months.", "weights": { "sabbath": 3 } },
-        { "text": "Reflection. I move so fast I never review what God did.", "weights": { "examen": 3 } },
-        { "text": "Generosity. My hands have closed without me noticing.", "weights": { "almsgiving": 3 } },
-        { "text": "Discipline. My body has been calling the shots.", "weights": { "fasting": 3 } }
+        {
+          "text": "Rest. I haven't truly stopped in months.",
+          "weights": {
+            "sabbath": 3
+          }
+        },
+        {
+          "text": "Reflection. I move so fast I never review what God did.",
+          "weights": {
+            "examen": 3
+          }
+        },
+        {
+          "text": "Generosity. My hands have closed without me noticing.",
+          "weights": {
+            "almsgiving": 3
+          }
+        },
+        {
+          "text": "Discipline. My body has been calling the shots.",
+          "weights": {
+            "fasting": 3
+          }
+        }
       ]
     },
     {
       "text": "If God could give you one thing this week, you'd want...",
       "options": [
-        { "text": "His voice, clear and unmistakable, on the thing I'm asking about.", "weights": { "silence": 2, "lectio-divina": 1 } },
-        { "text": "His peace. I haven't stopped long enough to receive it.", "weights": { "sabbath": 3 } },
-        { "text": "His breakthrough. I need Him to move on something stuck.", "weights": { "fasting": 3 } },
-        { "text": "His perspective. I want to see my life the way He sees it.", "weights": { "examen": 3 } }
+        {
+          "text": "His voice, clear and unmistakable, on the thing I'm asking about.",
+          "weights": {
+            "silence": 2,
+            "lectio-divina": 1
+          }
+        },
+        {
+          "text": "His peace. I haven't stopped long enough to receive it.",
+          "weights": {
+            "sabbath": 3
+          }
+        },
+        {
+          "text": "His breakthrough. I need Him to move on something stuck.",
+          "weights": {
+            "fasting": 3
+          }
+        },
+        {
+          "text": "His perspective. I want to see my life the way He sees it.",
+          "weights": {
+            "examen": 3
+          }
+        }
       ]
     },
     {
       "text": "Which sentence stings a little?",
       "options": [
-        { "text": "\"I have not read the Bible slowly in a long time.\"", "weights": { "lectio-divina": 3 } },
-        { "text": "\"I have not given to someone who can't pay me back recently.\"", "weights": { "almsgiving": 3 } },
-        { "text": "\"I have not taken a full day off in weeks.\"", "weights": { "sabbath": 3 } },
-        { "text": "\"I have not journaled what I actually feel in months.\"", "weights": { "journaling": 3 } }
+        {
+          "text": "\"I have not read the Bible slowly in a long time.\"",
+          "weights": {
+            "lectio-divina": 3
+          }
+        },
+        {
+          "text": "\"I have not given to someone who can't pay me back recently.\"",
+          "weights": {
+            "almsgiving": 3
+          }
+        },
+        {
+          "text": "\"I have not taken a full day off in weeks.\"",
+          "weights": {
+            "sabbath": 3
+          }
+        },
+        {
+          "text": "\"I have not journaled what I actually feel in months.\"",
+          "weights": {
+            "journaling": 3
+          }
+        }
       ]
     },
     {
       "text": "What does your phone usage look like?",
       "options": [
-        { "text": "Constant. I check it before I check in with God.", "weights": { "fixed-hour-prayer": 2, "silence": 1 } },
-        { "text": "Numbing. I scroll to avoid feeling things.", "weights": { "journaling": 2, "examen": 1 } },
-        { "text": "Distracting. I can't sit still for an hour without it.", "weights": { "silence": 3 } },
-        { "text": "Driving me. I follow my urges, not my values.", "weights": { "fasting": 2 } }
+        {
+          "text": "Constant. I check it before I check in with God.",
+          "weights": {
+            "fixed-hour-prayer": 2,
+            "silence": 1
+          }
+        },
+        {
+          "text": "Numbing. I scroll to avoid feeling things.",
+          "weights": {
+            "journaling": 2,
+            "examen": 1
+          }
+        },
+        {
+          "text": "Distracting. I can't sit still for an hour without it.",
+          "weights": {
+            "silence": 3
+          }
+        },
+        {
+          "text": "Driving me. I follow my urges, not my values.",
+          "weights": {
+            "fasting": 2
+          }
+        }
       ]
     },
     {
       "text": "Pick the line that names where you actually are:",
       "options": [
-        { "text": "I'm spiritually full but socially closed. I need to give.", "weights": { "almsgiving": 3 } },
-        { "text": "I'm running on prayers I prayed years ago. I need fresh hearing.", "weights": { "fixed-hour-prayer": 3, "lectio-divina": 1 } },
-        { "text": "I'm overstimulated. I need silence more than I need answers.", "weights": { "silence": 3 } },
-        { "text": "I'm out of touch with my own heart. I need to write it out.", "weights": { "journaling": 3 } }
+        {
+          "text": "I'm spiritually full but socially closed. I need to give.",
+          "weights": {
+            "almsgiving": 3
+          }
+        },
+        {
+          "text": "I'm running on prayers I prayed years ago. I need fresh hearing.",
+          "weights": {
+            "fixed-hour-prayer": 3,
+            "lectio-divina": 1
+          }
+        },
+        {
+          "text": "I'm overstimulated. I need silence more than I need answers.",
+          "weights": {
+            "silence": 3
+          }
+        },
+        {
+          "text": "I'm out of touch with my own heart. I need to write it out.",
+          "weights": {
+            "journaling": 3
+          }
+        }
       ]
     },
     {
       "text": "If you imagined your best self a year from now, what would she/he be doing differently?",
       "options": [
-        { "text": "Resting deeply, working from rest instead of toward it.", "weights": { "sabbath": 3 } },
-        { "text": "Praying at set times like the day depends on it, because it does.", "weights": { "fixed-hour-prayer": 3 } },
-        { "text": "Saying no to appetites that used to run them.", "weights": { "fasting": 3 } },
-        { "text": "Giving more than they keep, and not telling anyone.", "weights": { "almsgiving": 3 } }
+        {
+          "text": "Resting deeply, working from rest instead of toward it.",
+          "weights": {
+            "sabbath": 3
+          }
+        },
+        {
+          "text": "Praying at set times like the day depends on it, because it does.",
+          "weights": {
+            "fixed-hour-prayer": 3
+          }
+        },
+        {
+          "text": "Saying no to appetites that used to run them.",
+          "weights": {
+            "fasting": 3
+          }
+        },
+        {
+          "text": "Giving more than they keep, and not telling anyone.",
+          "weights": {
+            "almsgiving": 3
+          }
+        }
       ]
     }
   ],
@@ -125,5 +290,6 @@
       "name": "Try Almsgiving This Week",
       "description": "Pick one person God puts on your mind. Not a charity, a person. Give them something they can't pay back. Cover their meal, fill their gas tank, slide them money with no note. Don't tell anyone. Watch what happens to your heart by Friday."
     }
-  }
+  },
+  "theme": "discipleship"
 }

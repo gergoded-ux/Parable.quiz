@@ -10,118 +10,322 @@
     {
       "text": "When God calls, your first response usually sounds like...",
       "options": [
-        { "text": "Here am I; send me.",                       "weights": { "isaiah": 3 } },
-        { "text": "I'm too young / unqualified for this.",     "weights": { "jeremiah": 3 } },
-        { "text": "I'm going the opposite direction first.",   "weights": { "jonah": 3 } },
-        { "text": "Just give me a quiet cave to hide in.",     "weights": { "elijah": 3 } }
+        {
+          "text": "Here am I; send me.",
+          "weights": {
+            "isaiah": 3
+          }
+        },
+        {
+          "text": "I'm too young / unqualified for this.",
+          "weights": {
+            "jeremiah": 3
+          }
+        },
+        {
+          "text": "I'm going the opposite direction first.",
+          "weights": {
+            "jonah": 3
+          }
+        },
+        {
+          "text": "Just give me a quiet cave to hide in.",
+          "weights": {
+            "elijah": 3
+          }
+        }
       ]
     },
     {
       "text": "What burdens your heart most these days?",
       "options": [
-        { "text": "A people who've forgotten holiness.",       "weights": { "isaiah": 3, "jeremiah": 1 } },
-        { "text": "Watching the city you love drift away.",   "weights": { "jeremiah": 3 } },
-        { "text": "A nation that feels spiritually dead.",     "weights": { "ezekiel": 3 } },
-        { "text": "Love that has gone cold.",                  "weights": { "hosea": 3 } }
+        {
+          "text": "A people who've forgotten holiness.",
+          "weights": {
+            "isaiah": 3,
+            "jeremiah": 1
+          }
+        },
+        {
+          "text": "Watching the city you love drift away.",
+          "weights": {
+            "jeremiah": 3
+          }
+        },
+        {
+          "text": "A nation that feels spiritually dead.",
+          "weights": {
+            "ezekiel": 3
+          }
+        },
+        {
+          "text": "Love that has gone cold.",
+          "weights": {
+            "hosea": 3
+          }
+        }
       ]
     },
     {
       "text": "How do you tend to deliver truth?",
       "options": [
-        { "text": "Poetic, soaring, full of vision.",          "weights": { "isaiah": 3 } },
-        { "text": "Tearful and aching for the people.",       "weights": { "jeremiah": 3 } },
-        { "text": "Bizarre, dramatic, hard to ignore.",       "weights": { "ezekiel": 3 } },
-        { "text": "Through the lived shape of my life.",      "weights": { "hosea": 3 } }
+        {
+          "text": "Poetic, soaring, full of vision.",
+          "weights": {
+            "isaiah": 3
+          }
+        },
+        {
+          "text": "Tearful and aching for the people.",
+          "weights": {
+            "jeremiah": 3
+          }
+        },
+        {
+          "text": "Bizarre, dramatic, hard to ignore.",
+          "weights": {
+            "ezekiel": 3
+          }
+        },
+        {
+          "text": "Through the lived shape of my life.",
+          "weights": {
+            "hosea": 3
+          }
+        }
       ]
     },
     {
       "text": "When God seems silent, you...",
       "options": [
-        { "text": "Pray three times a day with my window open.", "weights": { "daniel": 3 } },
-        { "text": "Run dramatically into the wilderness.",       "weights": { "elijah": 3, "jonah": 1 } },
-        { "text": "Refuse to speak, then can't help speaking.", "weights": { "jeremiah": 3 } },
-        { "text": "Wait for visions to make it make sense.",     "weights": { "ezekiel": 3, "daniel": 1 } }
+        {
+          "text": "Pray three times a day with my window open.",
+          "weights": {
+            "daniel": 3
+          }
+        },
+        {
+          "text": "Run dramatically into the wilderness.",
+          "weights": {
+            "elijah": 3,
+            "jonah": 1
+          }
+        },
+        {
+          "text": "Refuse to speak, then can't help speaking.",
+          "weights": {
+            "jeremiah": 3
+          }
+        },
+        {
+          "text": "Wait for visions to make it make sense.",
+          "weights": {
+            "ezekiel": 3,
+            "daniel": 1
+          }
+        }
       ]
     },
     {
       "text": "Pick the scene that most resonates:",
       "options": [
-        { "text": "A throne room with a seraph and a coal.",   "weights": { "isaiah": 3 } },
-        { "text": "A valley of dry bones standing up.",       "weights": { "ezekiel": 3 } },
-        { "text": "A still small voice in a cave.",          "weights": { "elijah": 3 } },
-        { "text": "Three friends walking out of a furnace.",  "weights": { "daniel": 3 } }
+        {
+          "text": "A throne room with a seraph and a coal.",
+          "weights": {
+            "isaiah": 3
+          }
+        },
+        {
+          "text": "A valley of dry bones standing up.",
+          "weights": {
+            "ezekiel": 3
+          }
+        },
+        {
+          "text": "A still small voice in a cave.",
+          "weights": {
+            "elijah": 3
+          }
+        },
+        {
+          "text": "Three friends walking out of a furnace.",
+          "weights": {
+            "daniel": 3
+          }
+        }
       ]
     },
     {
       "text": "How do you handle hostile rooms?",
       "options": [
-        { "text": "Speak truth even when it gets me hated.",   "weights": { "jeremiah": 3, "isaiah": 1 } },
-        { "text": "Stand firm and refuse to bow.",            "weights": { "daniel": 3 } },
-        { "text": "Get angry, then take a nap under a tree.", "weights": { "elijah": 3, "jonah": 1 } },
-        { "text": "Tell the story God's writing through me.", "weights": { "hosea": 3, "ezekiel": 1 } }
+        {
+          "text": "Speak truth even when it gets me hated.",
+          "weights": {
+            "jeremiah": 3,
+            "isaiah": 1
+          }
+        },
+        {
+          "text": "Stand firm and refuse to bow.",
+          "weights": {
+            "daniel": 3
+          }
+        },
+        {
+          "text": "Get angry, then take a nap under a tree.",
+          "weights": {
+            "elijah": 3,
+            "jonah": 1
+          }
+        },
+        {
+          "text": "Tell the story God's writing through me.",
+          "weights": {
+            "hosea": 3,
+            "ezekiel": 1
+          }
+        }
       ]
     },
     {
       "text": "What does God's mercy look like to you?",
       "options": [
-        { "text": "Mercy over sacrifice, every single time.",  "weights": { "hosea": 3 } },
-        { "text": "Mercy that follows me when I run.",         "weights": { "jonah": 3 } },
-        { "text": "Mercy that shuts the lions' mouths.",       "weights": { "daniel": 3 } },
-        { "text": "Mercy that breathes life into bones.",       "weights": { "ezekiel": 3 } }
+        {
+          "text": "Mercy over sacrifice, every single time.",
+          "weights": {
+            "hosea": 3
+          }
+        },
+        {
+          "text": "Mercy that follows me when I run.",
+          "weights": {
+            "jonah": 3
+          }
+        },
+        {
+          "text": "Mercy that shuts the lions' mouths.",
+          "weights": {
+            "daniel": 3
+          }
+        },
+        {
+          "text": "Mercy that breathes life into bones.",
+          "weights": {
+            "ezekiel": 3
+          }
+        }
       ]
     },
     {
       "text": "Your secret prayer is...",
       "options": [
-        { "text": "Use me. I want to be sent.",                "weights": { "isaiah": 3 } },
-        { "text": "Help me speak when I'd rather quit.",      "weights": { "jeremiah": 3 } },
-        { "text": "Show me Your glory, even a glimpse.",       "weights": { "elijah": 3, "ezekiel": 1 } },
-        { "text": "Help me love the people You love.",        "weights": { "hosea": 2, "jonah": 1 } }
+        {
+          "text": "Use me. I want to be sent.",
+          "weights": {
+            "isaiah": 3
+          }
+        },
+        {
+          "text": "Help me speak when I'd rather quit.",
+          "weights": {
+            "jeremiah": 3
+          }
+        },
+        {
+          "text": "Show me Your glory, even a glimpse.",
+          "weights": {
+            "elijah": 3,
+            "ezekiel": 1
+          }
+        },
+        {
+          "text": "Help me love the people You love.",
+          "weights": {
+            "hosea": 2,
+            "jonah": 1
+          }
+        }
       ]
     }
   ],
   "results": {
     "isaiah": {
-      "name": "Isaiah the Sent", "emoji": "📯",
-      "traits": ["Willing", "Visionary", "Bold"],
+      "name": "Isaiah the Sent",
+      "emoji": "📯",
+      "traits": [
+        "Willing",
+        "Visionary",
+        "Bold"
+      ],
       "description": "You've seen the throne room, even just a glimpse of it, and now small living won't satisfy you anymore. When God asks who'll go, your hand is already up.",
       "scriptureRef": "isa-6-8"
     },
     "jeremiah": {
-      "name": "Jeremiah the Weeping Prophet", "emoji": "💧",
-      "traits": ["Tender", "Burdened", "Persistent"],
+      "name": "Jeremiah the Weeping Prophet",
+      "emoji": "💧",
+      "traits": [
+        "Tender",
+        "Burdened",
+        "Persistent"
+      ],
       "description": "You feel everything God feels about the people. You try to stay quiet, but His word burns in your bones. You couldn't stop speaking even if you wanted to.",
       "scriptureRef": "jer-20-9"
     },
     "ezekiel": {
-      "name": "Ezekiel the Visionary", "emoji": "🦴",
-      "traits": ["Unusual", "Faithful", "Hope-filled"],
+      "name": "Ezekiel the Visionary",
+      "emoji": "🦴",
+      "traits": [
+        "Unusual",
+        "Faithful",
+        "Hope-filled"
+      ],
       "description": "Your imagination is wired for what God can resurrect. You look at dry bones and start prophesying anyway, because you trust the breath is coming.",
       "scriptureRef": "ezek-37-5"
     },
     "daniel": {
-      "name": "Daniel the Steady", "emoji": "🦁",
-      "traits": ["Disciplined", "Principled", "Prayerful"],
+      "name": "Daniel the Steady",
+      "emoji": "🦁",
+      "traits": [
+        "Disciplined",
+        "Principled",
+        "Prayerful"
+      ],
       "description": "You hold the line quietly. In rooms that don't share your values, you keep your window open toward home, and God closes the lions' mouths.",
       "scriptureRef": "dan-6-10"
     },
     "hosea": {
-      "name": "Hosea the Heartbroken", "emoji": "💔",
-      "traits": ["Loving", "Loyal", "Forgiving"],
+      "name": "Hosea the Heartbroken",
+      "emoji": "💔",
+      "traits": [
+        "Loving",
+        "Loyal",
+        "Forgiving"
+      ],
       "description": "You preach with the shape of your life. You've kept loving the very thing that walked out on you, and that's exactly how God says He loves us.",
       "scriptureRef": "hos-6-6"
     },
     "jonah": {
-      "name": "Jonah the Runner", "emoji": "🐟",
-      "traits": ["Reluctant", "Honest", "Faithful in the end"],
+      "name": "Jonah the Runner",
+      "emoji": "🐟",
+      "traits": [
+        "Reluctant",
+        "Honest",
+        "Faithful in the end"
+      ],
       "description": "You'll run a long way before you obey. Deep down you knew God was going to be merciful, and honestly, that made you mad. But the mercy chasing everyone else is chasing you too.",
       "scriptureRef": "jonah-4-2"
     },
     "elijah": {
-      "name": "Elijah at the Cave", "emoji": "🔥",
-      "traits": ["Bold", "Burned-out", "Listening"],
+      "name": "Elijah at the Cave",
+      "emoji": "🔥",
+      "traits": [
+        "Bold",
+        "Burned-out",
+        "Listening"
+      ],
       "description": "You've called down fire and then collapsed under a tree. God meets you out in the wilderness with food and rest, and then a whisper instead of a shout.",
       "scriptureRef": "1-kgs-19-12"
     }
-  }
+  },
+  "theme": "scripture-archetype"
 }

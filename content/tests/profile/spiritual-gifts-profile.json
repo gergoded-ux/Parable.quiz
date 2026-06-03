@@ -24,109 +24,367 @@
     {
       "text": "At a church potluck where a stranger walks in alone, what's your move?",
       "options": [
-        { "text": "I walk over and start a real conversation. They'll leave knowing Jesus loves them.", "weights": { "evangelism": 3, "mercy": 1 } },
-        { "text": "I get them a plate, save them a seat, and quietly make sure they're not forgotten.", "weights": { "service": 3, "mercy": 1 } },
-        { "text": "I sit with them and listen. There's a story under the surface and I want to hear it.", "weights": { "mercy": 3, "discernment": 1 } },
-        { "text": "I pull others over and host the conversation. Let's make this a moment.", "weights": { "leadership": 3, "exhortation": 1 } }
+        {
+          "text": "I walk over and start a real conversation. They'll leave knowing Jesus loves them.",
+          "weights": {
+            "evangelism": 3,
+            "mercy": 1
+          }
+        },
+        {
+          "text": "I get them a plate, save them a seat, and quietly make sure they're not forgotten.",
+          "weights": {
+            "service": 3,
+            "mercy": 1
+          }
+        },
+        {
+          "text": "I sit with them and listen. There's a story under the surface and I want to hear it.",
+          "weights": {
+            "mercy": 3,
+            "discernment": 1
+          }
+        },
+        {
+          "text": "I pull others over and host the conversation. Let's make this a moment.",
+          "weights": {
+            "leadership": 3,
+            "exhortation": 1
+          }
+        }
       ]
     },
     {
       "text": "When a friend texts you in a crisis at midnight, what comes out of you?",
       "options": [
-        { "text": "I drop into prayer and trust God for what only He can do. I know He'll show up.", "weights": { "faith": 3, "healing": 1 } },
-        { "text": "I help them see what's really going on, because Scripture cuts through the fog.", "weights": { "prophecy": 2, "wisdom": 2 } },
-        { "text": "I sit with them in the dark and remind them they're not alone.", "weights": { "mercy": 3 } },
-        { "text": "I show up with a practical plan. What do you need done by morning?", "weights": { "service": 2, "leadership": 1 } }
+        {
+          "text": "I drop into prayer and trust God for what only He can do. I know He'll show up.",
+          "weights": {
+            "faith": 3,
+            "healing": 1
+          }
+        },
+        {
+          "text": "I help them see what's really going on, because Scripture cuts through the fog.",
+          "weights": {
+            "prophecy": 2,
+            "wisdom": 2
+          }
+        },
+        {
+          "text": "I sit with them in the dark and remind them they're not alone.",
+          "weights": {
+            "mercy": 3
+          }
+        },
+        {
+          "text": "I show up with a practical plan. What do you need done by morning?",
+          "weights": {
+            "service": 2,
+            "leadership": 1
+          }
+        }
       ]
     },
     {
       "text": "Which compliment lands deepest on you?",
       "options": [
-        { "text": "\"You helped me actually understand the Bible.\"", "weights": { "teaching": 3 } },
-        { "text": "\"Talking to you felt like God was in the room.\"", "weights": { "prophecy": 2, "discernment": 1 } },
-        { "text": "\"You believed for me when I couldn't.\"", "weights": { "faith": 3, "exhortation": 1 } },
-        { "text": "\"You always know the right thing to do.\"", "weights": { "wisdom": 3 } }
+        {
+          "text": "\"You helped me actually understand the Bible.\"",
+          "weights": {
+            "teaching": 3
+          }
+        },
+        {
+          "text": "\"Talking to you felt like God was in the room.\"",
+          "weights": {
+            "prophecy": 2,
+            "discernment": 1
+          }
+        },
+        {
+          "text": "\"You believed for me when I couldn't.\"",
+          "weights": {
+            "faith": 3,
+            "exhortation": 1
+          }
+        },
+        {
+          "text": "\"You always know the right thing to do.\"",
+          "weights": {
+            "wisdom": 3
+          }
+        }
       ]
     },
     {
       "text": "Money lands in your account unexpectedly. Your honest first thought?",
       "options": [
-        { "text": "Who needs this more than I do? I already have a name in mind.", "weights": { "giving": 3 } },
-        { "text": "I'll put it where the ministry will go further than people see.", "weights": { "giving": 2, "wisdom": 1 } },
-        { "text": "I'll use it to host, feed, and serve people this season.", "weights": { "service": 2, "giving": 1 } },
-        { "text": "I'll fund a mission trip or someone going to the field.", "weights": { "evangelism": 2, "giving": 1 } }
+        {
+          "text": "Who needs this more than I do? I already have a name in mind.",
+          "weights": {
+            "giving": 3
+          }
+        },
+        {
+          "text": "I'll put it where the ministry will go further than people see.",
+          "weights": {
+            "giving": 2,
+            "wisdom": 1
+          }
+        },
+        {
+          "text": "I'll use it to host, feed, and serve people this season.",
+          "weights": {
+            "service": 2,
+            "giving": 1
+          }
+        },
+        {
+          "text": "I'll fund a mission trip or someone going to the field.",
+          "weights": {
+            "evangelism": 2,
+            "giving": 1
+          }
+        }
       ]
     },
     {
       "text": "Sitting in a tense meeting, you usually...",
       "options": [
-        { "text": "Sense what's really happening under the surface before anyone names it.", "weights": { "discernment": 3 } },
-        { "text": "Speak up with the truth no one wants to say.", "weights": { "prophecy": 3 } },
-        { "text": "Find the wise path forward and lay it out calmly.", "weights": { "wisdom": 3 } },
-        { "text": "Step into the gap and lead a way through.", "weights": { "leadership": 3 } }
+        {
+          "text": "Sense what's really happening under the surface before anyone names it.",
+          "weights": {
+            "discernment": 3
+          }
+        },
+        {
+          "text": "Speak up with the truth no one wants to say.",
+          "weights": {
+            "prophecy": 3
+          }
+        },
+        {
+          "text": "Find the wise path forward and lay it out calmly.",
+          "weights": {
+            "wisdom": 3
+          }
+        },
+        {
+          "text": "Step into the gap and lead a way through.",
+          "weights": {
+            "leadership": 3
+          }
+        }
       ]
     },
     {
       "text": "When you teach or explain something, people usually say...",
       "options": [
-        { "text": "\"That finally made sense. I see it now.\"", "weights": { "teaching": 3 } },
-        { "text": "\"You made me want to actually do something.\"", "weights": { "exhortation": 3 } },
-        { "text": "\"You said exactly what I needed to hear.\"", "weights": { "prophecy": 2, "exhortation": 1 } },
-        { "text": "\"I want to know your Jesus.\"", "weights": { "evangelism": 3 } }
+        {
+          "text": "\"That finally made sense. I see it now.\"",
+          "weights": {
+            "teaching": 3
+          }
+        },
+        {
+          "text": "\"You made me want to actually do something.\"",
+          "weights": {
+            "exhortation": 3
+          }
+        },
+        {
+          "text": "\"You said exactly what I needed to hear.\"",
+          "weights": {
+            "prophecy": 2,
+            "exhortation": 1
+          }
+        },
+        {
+          "text": "\"I want to know your Jesus.\"",
+          "weights": {
+            "evangelism": 3
+          }
+        }
       ]
     },
     {
       "text": "What pulls your tears the fastest?",
       "options": [
-        { "text": "Watching someone broken receive real comfort.", "weights": { "mercy": 3, "healing": 1 } },
-        { "text": "Hearing about people who've never heard the gospel.", "weights": { "evangelism": 3 } },
-        { "text": "A wounded person finally getting healed in body or soul.", "weights": { "healing": 3 } },
-        { "text": "Watching God do what only God could do, and being there for it.", "weights": { "faith": 3 } }
+        {
+          "text": "Watching someone broken receive real comfort.",
+          "weights": {
+            "mercy": 3,
+            "healing": 1
+          }
+        },
+        {
+          "text": "Hearing about people who've never heard the gospel.",
+          "weights": {
+            "evangelism": 3
+          }
+        },
+        {
+          "text": "A wounded person finally getting healed in body or soul.",
+          "weights": {
+            "healing": 3
+          }
+        },
+        {
+          "text": "Watching God do what only God could do, and being there for it.",
+          "weights": {
+            "faith": 3
+          }
+        }
       ]
     },
     {
       "text": "When you read the Bible, what tends to happen?",
       "options": [
-        { "text": "I see structure and connections others miss, and I want to unpack it.", "weights": { "teaching": 3 } },
-        { "text": "I feel a fire to call God's people back to Him.", "weights": { "prophecy": 3 } },
-        { "text": "I find the practical word someone needs this week.", "weights": { "exhortation": 2, "wisdom": 1 } },
-        { "text": "I weep at how merciful He is, and I want others to know it.", "weights": { "mercy": 2, "evangelism": 1 } }
+        {
+          "text": "I see structure and connections others miss, and I want to unpack it.",
+          "weights": {
+            "teaching": 3
+          }
+        },
+        {
+          "text": "I feel a fire to call God's people back to Him.",
+          "weights": {
+            "prophecy": 3
+          }
+        },
+        {
+          "text": "I find the practical word someone needs this week.",
+          "weights": {
+            "exhortation": 2,
+            "wisdom": 1
+          }
+        },
+        {
+          "text": "I weep at how merciful He is, and I want others to know it.",
+          "weights": {
+            "mercy": 2,
+            "evangelism": 1
+          }
+        }
       ]
     },
     {
       "text": "Pick the verse that hits your gut hardest:",
       "options": [
-        { "text": "\"How shall they hear without a preacher?\"", "weights": { "evangelism": 3 } },
-        { "text": "\"By his stripes we are healed.\"", "weights": { "healing": 3 } },
-        { "text": "\"Without faith it is impossible to please him.\"", "weights": { "faith": 3 } },
-        { "text": "\"Test the spirits, whether they are of God.\"", "weights": { "discernment": 3 } }
+        {
+          "text": "\"How shall they hear without a preacher?\"",
+          "weights": {
+            "evangelism": 3
+          }
+        },
+        {
+          "text": "\"By his stripes we are healed.\"",
+          "weights": {
+            "healing": 3
+          }
+        },
+        {
+          "text": "\"Without faith it is impossible to please him.\"",
+          "weights": {
+            "faith": 3
+          }
+        },
+        {
+          "text": "\"Test the spirits, whether they are of God.\"",
+          "weights": {
+            "discernment": 3
+          }
+        }
       ]
     },
     {
       "text": "When a project at church needs hands, what slot do you naturally fill?",
       "options": [
-        { "text": "The chair. I'll organize it and get people moving.", "weights": { "leadership": 3 } },
-        { "text": "The doer. Give me the list, I'll knock it out.", "weights": { "service": 3 } },
-        { "text": "The encourager. I'll keep everyone going when energy dips.", "weights": { "exhortation": 3 } },
-        { "text": "The funder. I'd rather quietly cover what's needed.", "weights": { "giving": 3 } }
+        {
+          "text": "The chair. I'll organize it and get people moving.",
+          "weights": {
+            "leadership": 3
+          }
+        },
+        {
+          "text": "The doer. Give me the list, I'll knock it out.",
+          "weights": {
+            "service": 3
+          }
+        },
+        {
+          "text": "The encourager. I'll keep everyone going when energy dips.",
+          "weights": {
+            "exhortation": 3
+          }
+        },
+        {
+          "text": "The funder. I'd rather quietly cover what's needed.",
+          "weights": {
+            "giving": 3
+          }
+        }
       ]
     },
     {
       "text": "Pray for someone in person. What do you sense most often?",
       "options": [
-        { "text": "Heat, peace, sometimes literal change in their body. I expect it.", "weights": { "healing": 3, "faith": 1 } },
-        { "text": "A specific word for them that I didn't plan to say.", "weights": { "prophecy": 3 } },
-        { "text": "Compassion so strong I could cry with them.", "weights": { "mercy": 3 } },
-        { "text": "Quiet clarity about what's really going on with them.", "weights": { "discernment": 3 } }
+        {
+          "text": "Heat, peace, sometimes literal change in their body. I expect it.",
+          "weights": {
+            "healing": 3,
+            "faith": 1
+          }
+        },
+        {
+          "text": "A specific word for them that I didn't plan to say.",
+          "weights": {
+            "prophecy": 3
+          }
+        },
+        {
+          "text": "Compassion so strong I could cry with them.",
+          "weights": {
+            "mercy": 3
+          }
+        },
+        {
+          "text": "Quiet clarity about what's really going on with them.",
+          "weights": {
+            "discernment": 3
+          }
+        }
       ]
     },
     {
       "text": "If you had one free day to serve, what would you actually do?",
       "options": [
-        { "text": "Teach a small group through a hard passage.", "weights": { "teaching": 3 } },
-        { "text": "Knock on doors and share the gospel.", "weights": { "evangelism": 3 } },
-        { "text": "Cook for a family in crisis and fix what's broken at their house.", "weights": { "service": 3, "mercy": 1 } },
-        { "text": "Cover someone's rent anonymously.", "weights": { "giving": 3 } }
+        {
+          "text": "Teach a small group through a hard passage.",
+          "weights": {
+            "teaching": 3
+          }
+        },
+        {
+          "text": "Knock on doors and share the gospel.",
+          "weights": {
+            "evangelism": 3
+          }
+        },
+        {
+          "text": "Cook for a family in crisis and fix what's broken at their house.",
+          "weights": {
+            "service": 3,
+            "mercy": 1
+          }
+        },
+        {
+          "text": "Cover someone's rent anonymously.",
+          "weights": {
+            "giving": 3
+          }
+        }
       ]
     }
   ],
@@ -182,5 +440,6 @@
       "name": "Exhortation",
       "description": "You're a Barnabas. You stand next to people who are about to quit and put courage back in their lungs. You see what they could be in Christ and call it out until they believe it themselves. Keep building people up. It's holy work."
     }
-  }
+  },
+  "theme": "discipleship"
 }

@@ -10,124 +10,336 @@
     {
       "text": "When you face a calling that feels way too big, you...",
       "options": [
-        { "text": "Argue with God about why you're the wrong person.",       "weights": { "moses": 3, "esther": 1 } },
-        { "text": "Quietly say yes and figure out the details later.",        "weights": { "mary": 3, "ruth": 1 } },
-        { "text": "Step up because someone has to, even if it costs you.",   "weights": { "esther": 3, "david": 1 } },
-        { "text": "Keep doing the next right thing and trust the long arc.",  "weights": { "daniel": 2, "joseph": 2 } }
+        {
+          "text": "Argue with God about why you're the wrong person.",
+          "weights": {
+            "moses": 3,
+            "esther": 1
+          }
+        },
+        {
+          "text": "Quietly say yes and figure out the details later.",
+          "weights": {
+            "mary": 3,
+            "ruth": 1
+          }
+        },
+        {
+          "text": "Step up because someone has to, even if it costs you.",
+          "weights": {
+            "esther": 3,
+            "david": 1
+          }
+        },
+        {
+          "text": "Keep doing the next right thing and trust the long arc.",
+          "weights": {
+            "daniel": 2,
+            "joseph": 2
+          }
+        }
       ]
     },
     {
       "text": "What's your relationship with risk?",
       "options": [
-        { "text": "I'll run at the giant if no one else will.",                "weights": { "david": 3 } },
-        { "text": "I'll go where you go. Loyalty is the risk I'll take.",     "weights": { "ruth": 3, "mary": 1 } },
-        { "text": "I'll keep my convictions even when the lions are waiting.", "weights": { "daniel": 3, "esther": 1 } },
-        { "text": "I'll travel anywhere if the gospel is on the line.",        "weights": { "paul": 3 } }
+        {
+          "text": "I'll run at the giant if no one else will.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "I'll go where you go. Loyalty is the risk I'll take.",
+          "weights": {
+            "ruth": 3,
+            "mary": 1
+          }
+        },
+        {
+          "text": "I'll keep my convictions even when the lions are waiting.",
+          "weights": {
+            "daniel": 3,
+            "esther": 1
+          }
+        },
+        {
+          "text": "I'll travel anywhere if the gospel is on the line.",
+          "weights": {
+            "paul": 3
+          }
+        }
       ]
     },
     {
       "text": "Pick the season you most relate to right now:",
       "options": [
-        { "text": "Waiting in a pit I didn't ask for.",                    "weights": { "joseph": 3, "david": 1 } },
-        { "text": "Standing in front of a leader who could end me.",      "weights": { "esther": 3, "moses": 1 } },
-        { "text": "Walking faithfully in a room that doesn't share my values.", "weights": { "daniel": 3 } },
-        { "text": "Starting over in a place that isn't home.",            "weights": { "ruth": 3 } }
+        {
+          "text": "Waiting in a pit I didn't ask for.",
+          "weights": {
+            "joseph": 3,
+            "david": 1
+          }
+        },
+        {
+          "text": "Standing in front of a leader who could end me.",
+          "weights": {
+            "esther": 3,
+            "moses": 1
+          }
+        },
+        {
+          "text": "Walking faithfully in a room that doesn't share my values.",
+          "weights": {
+            "daniel": 3
+          }
+        },
+        {
+          "text": "Starting over in a place that isn't home.",
+          "weights": {
+            "ruth": 3
+          }
+        }
       ]
     },
     {
       "text": "When someone wrongs you, your instinct is to...",
       "options": [
-        { "text": "Write a song about it and hand it to God.",       "weights": { "david": 3 } },
-        { "text": "Forgive them and tell them God meant it for good.", "weights": { "joseph": 3 } },
-        { "text": "Press toward the goal and refuse to look back.",   "weights": { "paul": 3 } },
-        { "text": "Hold the pain quietly and keep showing up.",       "weights": { "mary": 2, "ruth": 1 } }
+        {
+          "text": "Write a song about it and hand it to God.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "Forgive them and tell them God meant it for good.",
+          "weights": {
+            "joseph": 3
+          }
+        },
+        {
+          "text": "Press toward the goal and refuse to look back.",
+          "weights": {
+            "paul": 3
+          }
+        },
+        {
+          "text": "Hold the pain quietly and keep showing up.",
+          "weights": {
+            "mary": 2,
+            "ruth": 1
+          }
+        }
       ]
     },
     {
       "text": "How do you process big feelings?",
       "options": [
-        { "text": "Out loud, in psalms and songs and raw honesty.",         "weights": { "david": 3 } },
-        { "text": "In silence, turning it over in my heart.",            "weights": { "mary": 3 } },
-        { "text": "On my knees, three times a day if I have to.",  "weights": { "daniel": 3 } },
-        { "text": "By writing long letters to the people I love.",   "weights": { "paul": 3 } }
+        {
+          "text": "Out loud, in psalms and songs and raw honesty.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "In silence, turning it over in my heart.",
+          "weights": {
+            "mary": 3
+          }
+        },
+        {
+          "text": "On my knees, three times a day if I have to.",
+          "weights": {
+            "daniel": 3
+          }
+        },
+        {
+          "text": "By writing long letters to the people I love.",
+          "weights": {
+            "paul": 3
+          }
+        }
       ]
     },
     {
       "text": "Which sentence sounds most like you on a hard day?",
       "options": [
-        { "text": "Who am I to do this?",                            "weights": { "moses": 3 } },
-        { "text": "If I perish, I perish.",                          "weights": { "esther": 3 } },
-        { "text": "The Lord is my shepherd.",                       "weights": { "david": 3 } },
-        { "text": "Let it be unto me according to thy word.",       "weights": { "mary": 3 } }
+        {
+          "text": "Who am I to do this?",
+          "weights": {
+            "moses": 3
+          }
+        },
+        {
+          "text": "If I perish, I perish.",
+          "weights": {
+            "esther": 3
+          }
+        },
+        {
+          "text": "The Lord is my shepherd.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "Let it be unto me according to thy word.",
+          "weights": {
+            "mary": 3
+          }
+        }
       ]
     },
     {
       "text": "When God seems silent, you...",
       "options": [
-        { "text": "Keep my window open toward home and pray anyway.", "weights": { "daniel": 3 } },
-        { "text": "Believe He's still writing the rescue.",           "weights": { "joseph": 3, "esther": 1 } },
-        { "text": "Trust the covenant He already made with me.",     "weights": { "ruth": 2, "mary": 1 } },
-        { "text": "Press on and trust the prize is real.",            "weights": { "paul": 3 } }
+        {
+          "text": "Keep my window open toward home and pray anyway.",
+          "weights": {
+            "daniel": 3
+          }
+        },
+        {
+          "text": "Believe He's still writing the rescue.",
+          "weights": {
+            "joseph": 3,
+            "esther": 1
+          }
+        },
+        {
+          "text": "Trust the covenant He already made with me.",
+          "weights": {
+            "ruth": 2,
+            "mary": 1
+          }
+        },
+        {
+          "text": "Press on and trust the prize is real.",
+          "weights": {
+            "paul": 3
+          }
+        }
       ]
     },
     {
       "text": "Pick the gift you'd most want to be remembered for:",
       "options": [
-        { "text": "A heart after God's own heart.",         "weights": { "david": 3 } },
-        { "text": "Courage in the right moment.",          "weights": { "esther": 3 } },
-        { "text": "Faithfulness in exile.",                "weights": { "daniel": 3 } },
-        { "text": "A 'yes' that changed the world quietly.", "weights": { "mary": 3 } }
+        {
+          "text": "A heart after God's own heart.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "Courage in the right moment.",
+          "weights": {
+            "esther": 3
+          }
+        },
+        {
+          "text": "Faithfulness in exile.",
+          "weights": {
+            "daniel": 3
+          }
+        },
+        {
+          "text": "A 'yes' that changed the world quietly.",
+          "weights": {
+            "mary": 3
+          }
+        }
       ]
     }
   ],
   "results": {
     "david": {
-      "name": "David the Songwriter", "emoji": "🎵",
-      "traits": ["Passionate", "Honest", "Brave"],
+      "name": "David the Songwriter",
+      "emoji": "🎵",
+      "traits": [
+        "Passionate",
+        "Honest",
+        "Brave"
+      ],
       "description": "You feel everything loudly and bring it straight to God. You'll run at the giant one day and weep over your own mistakes the next. Through all of it, your heart keeps reaching for His.",
       "scriptureRef": "1-sam-16-7"
     },
     "moses": {
-      "name": "Moses the Reluctant", "emoji": "🔥",
-      "traits": ["Humble", "Stubborn", "Called"],
+      "name": "Moses the Reluctant",
+      "emoji": "🔥",
+      "traits": [
+        "Humble",
+        "Stubborn",
+        "Called"
+      ],
       "description": "You feel underqualified for what God's asking, and you'll argue about it for a while. But once you go, you go all the way. And then the waters part.",
       "scriptureRef": "exod-3-11"
     },
     "esther": {
-      "name": "Esther for Such a Time", "emoji": "👑",
-      "traits": ["Courageous", "Strategic", "Sacrificial"],
+      "name": "Esther for Such a Time",
+      "emoji": "👑",
+      "traits": [
+        "Courageous",
+        "Strategic",
+        "Sacrificial"
+      ],
       "description": "You sense you're in this room for a reason, even when the room is dangerous. When the moment asks for it, you'll risk everything.",
       "scriptureRef": "esth-4-14"
     },
     "ruth": {
-      "name": "Ruth the Loyal", "emoji": "🌾",
-      "traits": ["Devoted", "Steady", "Hopeful"],
+      "name": "Ruth the Loyal",
+      "emoji": "🌾",
+      "traits": [
+        "Devoted",
+        "Steady",
+        "Hopeful"
+      ],
       "description": "Your love doesn't quit when the road turns hard. You'll leave everything familiar to follow the people God's given you. That kind of faithfulness ends up starting a whole new family line.",
       "scriptureRef": "ruth-1-16"
     },
     "daniel": {
-      "name": "Daniel in Exile", "emoji": "🦁",
-      "traits": ["Disciplined", "Principled", "Prayerful"],
+      "name": "Daniel in Exile",
+      "emoji": "🦁",
+      "traits": [
+        "Disciplined",
+        "Principled",
+        "Prayerful"
+      ],
       "description": "You hold the line quietly. In rooms that don't share your values, you keep your window open toward home. And God keeps closing the lions' mouths.",
       "scriptureRef": "dan-6-10"
     },
     "joseph": {
-      "name": "Joseph in the Long Wait", "emoji": "🌈",
-      "traits": ["Resilient", "Forgiving", "Faithful"],
+      "name": "Joseph in the Long Wait",
+      "emoji": "🌈",
+      "traits": [
+        "Resilient",
+        "Forgiving",
+        "Faithful"
+      ],
       "description": "Pit, then prison, then palace. You've learned that God can redeem what other people meant for harm. You forgive in ways that genuinely startle people.",
       "scriptureRef": "gen-50-20"
     },
     "paul": {
-      "name": "Paul on the Road", "emoji": "✉️",
-      "traits": ["Driven", "Articulate", "Relentless"],
+      "name": "Paul on the Road",
+      "emoji": "✉️",
+      "traits": [
+        "Driven",
+        "Articulate",
+        "Relentless"
+      ],
       "description": "Once you saw the light, there was no slowing you down. You'll travel anywhere and write to anyone, and you'll press toward the prize until your last breath.",
       "scriptureRef": "phil-3-14"
     },
     "mary": {
-      "name": "Mary the Yes", "emoji": "🕊️",
-      "traits": ["Surrendered", "Pondering", "Brave"],
+      "name": "Mary the Yes",
+      "emoji": "🕊️",
+      "traits": [
+        "Surrendered",
+        "Pondering",
+        "Brave"
+      ],
       "description": "Your courage is the quiet kind. You said yes to something impossible, then carried it in your heart through every hard moment that followed.",
       "scriptureRef": "luke-1-38"
     }
-  }
+  },
+  "theme": "scripture-archetype"
 }
