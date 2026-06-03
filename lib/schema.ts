@@ -18,6 +18,7 @@ export const TestBase = z.object({
   subtitle: z.string().optional(),
   lang: z.string().default('en'),
   category: z.enum(['bible-character', 'spiritual-profile', 'bible-iq']),
+  theme: z.string().optional(),
   estimatedMinutes: z.number().int().positive(),
 });
 
