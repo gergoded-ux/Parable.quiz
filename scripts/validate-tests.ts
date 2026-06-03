@@ -1,5 +1,6 @@
 // scripts/validate-tests.ts
 import { loadAllTests, isPublished } from '@/lib/test-loader';
+import { isValidTheme } from '@/lib/themes';
 import { getScripture } from '@/lib/scripture';
 import publishedSlugs from '@/content/published.json';
 
@@ -44,6 +45,11 @@ function main() {
           errors++;
         }
       }
+    }
+
+    if (!isValidTheme(t.theme)) {
+      console.error(`❌ ${t.slug} → invalid or missing theme: ${t.theme ?? '(none)'}`);
+      errors++;
     }
   }
 
