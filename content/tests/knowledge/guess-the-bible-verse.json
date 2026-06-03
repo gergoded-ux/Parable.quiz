@@ -1,0 +1,316 @@
+{
+  "slug": "guess-the-bible-verse",
+  "title": "Guess the Bible Verse",
+  "subtitle": "Can you name where these famous verses are found?",
+  "lang": "en",
+  "category": "bible-iq",
+  "theme": "bible-knowledge",
+  "estimatedMinutes": 5,
+  "mode": "knowledge",
+  "questions": [
+    {
+      "text": "\"For God so loved the world, that he gave his only begotten Son, that whosoever believeth on him should not perish, but have eternal life.\" (John 3:16, ASV) Where is this found?",
+      "options": [
+        {
+          "text": "John 3:16",
+          "correct": true,
+          "explanation": "Yes, this is John 3:16, part of Jesus' night conversation with Nicodemus. It may be the most quoted verse in the whole Bible."
+        },
+        {
+          "text": "Romans 5:8",
+          "correct": false,
+          "explanation": "Romans 5:8 is also about God's love, but it speaks of Christ dying for us while we were yet sinners. The wording here is John 3:16."
+        },
+        {
+          "text": "1 John 4:9",
+          "correct": false,
+          "explanation": "1 John 4:9 talks about God sending His Son too, but these exact words come from John 3:16."
+        },
+        {
+          "text": "John 1:14",
+          "correct": false,
+          "explanation": "John 1:14 says the Word became flesh. Close in theme, but not this verse."
+        }
+      ]
+    },
+    {
+      "text": "\"In the beginning God created the heavens and the earth.\" (Genesis 1:1, ASV) Where is this found?",
+      "options": [
+        {
+          "text": "John 1:1",
+          "correct": false,
+          "explanation": "John 1:1 also begins \"In the beginning,\" but it speaks of the Word. This line about creating the heavens and earth opens Genesis."
+        },
+        {
+          "text": "Genesis 1:1",
+          "correct": true,
+          "explanation": "Correct. This is the very first verse of the Bible, the opening of Genesis."
+        },
+        {
+          "text": "Psalm 19:1",
+          "correct": false,
+          "explanation": "Psalm 19:1 says the heavens declare the glory of God. A beautiful verse, but not this one."
+        },
+        {
+          "text": "Hebrews 11:3",
+          "correct": false,
+          "explanation": "Hebrews 11:3 says the worlds were framed by the word of God. The exact opening line, though, is Genesis 1:1."
+        }
+      ]
+    },
+    {
+      "text": "\"Jehovah is my shepherd; I shall not want.\" (Psalm 23:1, ASV) Where is this found?",
+      "options": [
+        {
+          "text": "Psalm 100:3",
+          "correct": false,
+          "explanation": "Psalm 100:3 says we are the sheep of His pasture. Related image, but the shepherd line here opens Psalm 23."
+        },
+        {
+          "text": "John 10:11",
+          "correct": false,
+          "explanation": "John 10:11 is where Jesus calls Himself the good shepherd. This particular verse is from the Psalms."
+        },
+        {
+          "text": "Psalm 23:1",
+          "correct": true,
+          "explanation": "Yes, this opens the beloved Psalm 23. The ASV uses the name Jehovah where many other versions read LORD."
+        },
+        {
+          "text": "Isaiah 40:11",
+          "correct": false,
+          "explanation": "Isaiah 40:11 pictures God feeding His flock like a shepherd. The wording here belongs to Psalm 23."
+        }
+      ]
+    },
+    {
+      "text": "\"Jesus wept.\" (John 11:35, ASV) Where is this found?",
+      "options": [
+        {
+          "text": "Luke 19:41",
+          "correct": false,
+          "explanation": "Luke 19:41 says Jesus wept over Jerusalem, but it does not use these two short words. The famous shortest verse is John 11:35."
+        },
+        {
+          "text": "John 11:35",
+          "correct": true,
+          "explanation": "Correct. This is often called the shortest verse in the Bible. Jesus wept at the tomb of His friend Lazarus."
+        },
+        {
+          "text": "Matthew 26:75",
+          "correct": false,
+          "explanation": "Matthew 26:75 is where Peter wept bitterly after denying Jesus. The two-word verse is John 11:35."
+        },
+        {
+          "text": "Mark 14:72",
+          "correct": false,
+          "explanation": "Mark 14:72 also records Peter weeping. This short verse, though, is from John."
+        }
+      ]
+    },
+    {
+      "text": "\"I can do all things in him that strengtheneth me.\" (Philippians 4:13, ASV) Where is this found?",
+      "options": [
+        {
+          "text": "2 Corinthians 12:9",
+          "correct": false,
+          "explanation": "2 Corinthians 12:9 is about strength being made perfect in weakness. A close cousin, but not this verse."
+        },
+        {
+          "text": "Ephesians 6:10",
+          "correct": false,
+          "explanation": "Ephesians 6:10 says to be strong in the Lord. The line here, about doing all things through Christ's strength, is Philippians 4:13."
+        },
+        {
+          "text": "Isaiah 40:31",
+          "correct": false,
+          "explanation": "Isaiah 40:31 says those who wait on the Lord renew their strength. Different verse, same encouraging theme."
+        },
+        {
+          "text": "Philippians 4:13",
+          "correct": true,
+          "explanation": "Yes. Paul wrote this from prison, in the context of being content in any situation."
+        }
+      ]
+    },
+    {
+      "text": "\"Trust in Jehovah with all thy heart, And lean not upon thine own understanding.\" (Proverbs 3:5, ASV) Where is this found?",
+      "options": [
+        {
+          "text": "Proverbs 3:5",
+          "correct": true,
+          "explanation": "Correct. Proverbs 3:5 leads into verse 6, which promises that God will direct your paths."
+        },
+        {
+          "text": "Psalm 37:5",
+          "correct": false,
+          "explanation": "Psalm 37:5 says to commit your way to the Lord. Similar call to trust, but the wording here is Proverbs 3:5."
+        },
+        {
+          "text": "Jeremiah 17:7",
+          "correct": false,
+          "explanation": "Jeremiah 17:7 blesses the one who trusts in the Lord. A related promise, but not this exact verse."
+        },
+        {
+          "text": "Proverbs 16:3",
+          "correct": false,
+          "explanation": "Proverbs 16:3 says to commit your works to the Lord. Close in spirit, yet this verse is Proverbs 3:5."
+        }
+      ]
+    },
+    {
+      "text": "\"For the wages of sin is death; but the free gift of God is eternal life in Christ Jesus our Lord.\" (Romans 6:23, ASV) Where is this found?",
+      "options": [
+        {
+          "text": "Romans 3:23",
+          "correct": false,
+          "explanation": "Romans 3:23 says all have sinned and fall short of God's glory. A neighbor in the same letter, but not this verse."
+        },
+        {
+          "text": "Romans 5:12",
+          "correct": false,
+          "explanation": "Romans 5:12 speaks of sin and death entering the world. Related theme, but the line about wages and the free gift is Romans 6:23."
+        },
+        {
+          "text": "Romans 6:23",
+          "correct": true,
+          "explanation": "Yes. Romans 6:23 sets the wages of sin against the free gift of eternal life in Christ."
+        },
+        {
+          "text": "Ephesians 2:8",
+          "correct": false,
+          "explanation": "Ephesians 2:8 says we are saved by grace through faith. A wonderful verse on grace, but not this one."
+        }
+      ]
+    },
+    {
+      "text": "\"Jesus saith unto him, I am the way, and the truth, and the life: no one cometh unto the Father, but by me.\" (John 14:6, ASV) Where is this found?",
+      "options": [
+        {
+          "text": "John 10:9",
+          "correct": false,
+          "explanation": "John 10:9 is where Jesus says, \"I am the door.\" Another of His great statements, but not this one."
+        },
+        {
+          "text": "John 8:12",
+          "correct": false,
+          "explanation": "John 8:12 is \"I am the light of the world.\" Same Gospel, different saying. This verse is John 14:6."
+        },
+        {
+          "text": "John 14:6",
+          "correct": true,
+          "explanation": "Correct. Jesus said this to Thomas in the upper room, on the night before the cross."
+        },
+        {
+          "text": "Acts 4:12",
+          "correct": false,
+          "explanation": "Acts 4:12 says there is no other name by which we must be saved. A matching truth, but spoken by Peter, not here."
+        }
+      ]
+    },
+    {
+      "text": "\"Thy word is a lamp unto my feet, And light unto my path.\" (Psalm 119:105, ASV) Where is this found?",
+      "options": [
+        {
+          "text": "Proverbs 6:23",
+          "correct": false,
+          "explanation": "Proverbs 6:23 says the commandment is a lamp. A similar picture, but this exact verse is in Psalm 119."
+        },
+        {
+          "text": "Psalm 119:105",
+          "correct": true,
+          "explanation": "Yes. This well-loved verse sits in the longest chapter of the Bible, a psalm all about God's word."
+        },
+        {
+          "text": "Psalm 19:8",
+          "correct": false,
+          "explanation": "Psalm 19:8 says the commandment of the Lord enlightens the eyes. Close in idea, but not this verse."
+        },
+        {
+          "text": "Matthew 5:14",
+          "correct": false,
+          "explanation": "Matthew 5:14 calls us the light of the world. Different verse, and spoken by Jesus rather than the psalmist."
+        }
+      ]
+    },
+    {
+      "text": "\"for all have sinned, and fall short of the glory of God.\" (Romans 3:23, ASV) Where is this found?",
+      "options": [
+        {
+          "text": "Romans 5:8",
+          "correct": false,
+          "explanation": "Romans 5:8 shows God's love for sinners, but the line about all falling short is Romans 3:23."
+        },
+        {
+          "text": "1 John 1:8",
+          "correct": false,
+          "explanation": "1 John 1:8 warns against claiming we have no sin. A related truth, but not this verse."
+        },
+        {
+          "text": "Isaiah 53:6",
+          "correct": false,
+          "explanation": "Isaiah 53:6 says all we like sheep have gone astray. The same idea in older words, but this exact verse is Romans 3:23."
+        },
+        {
+          "text": "Romans 3:23",
+          "correct": true,
+          "explanation": "Correct. Romans 3:23 is a key verse in Paul's case that everyone needs God's grace."
+        }
+      ]
+    },
+    {
+      "text": "\"Blessed are the peacemakers: for they shall be called sons of God.\" (Matthew 5:9, ASV) Where is this found?",
+      "options": [
+        {
+          "text": "Matthew 5:9",
+          "correct": true,
+          "explanation": "Yes. This is one of the Beatitudes from the Sermon on the Mount. The ASV reads \"sons of God\" here."
+        },
+        {
+          "text": "Romans 12:18",
+          "correct": false,
+          "explanation": "Romans 12:18 urges us to live peaceably with everyone. A related call, but the blessing on peacemakers is Matthew 5:9."
+        },
+        {
+          "text": "James 3:18",
+          "correct": false,
+          "explanation": "James 3:18 speaks of a harvest of righteousness sown in peace. Close in theme, yet not this verse."
+        },
+        {
+          "text": "Luke 6:20",
+          "correct": false,
+          "explanation": "Luke 6:20 begins Luke's set of blessings, but this particular Beatitude about peacemakers is found in Matthew 5:9."
+        }
+      ]
+    }
+  ],
+  "scoring": {
+    "perfectMessage": "Incredible. You know exactly where these verses live!",
+    "gradeBands": [
+      {
+        "min": 0,
+        "max": 39,
+        "label": "Just Browsing",
+        "message": "These verses are worth memorizing. Start with a favorite."
+      },
+      {
+        "min": 40,
+        "max": 69,
+        "label": "Page-Turner",
+        "message": "You're finding your way around the Bible."
+      },
+      {
+        "min": 70,
+        "max": 89,
+        "label": "Sharp Eye",
+        "message": "You know your verses well."
+      },
+      {
+        "min": 90,
+        "max": 100,
+        "label": "Concordance",
+        "message": "Remarkable recall. You know these by heart."
+      }
+    ]
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "slug": "apostle-paul-iq",
+  "title": "Apostle Paul IQ",
+  "subtitle": "From persecutor to apostle. How much do you know about the man who wrote half the New Testament?",
+  "lang": "en",
+  "category": "bible-iq",
+  "theme": "bible-knowledge",
+  "estimatedMinutes": 5,
+  "mode": "knowledge",
+  "questions": [
+    {
+      "text": "What was the apostle Paul's name before his conversion?",
+      "options": [
+        {
+          "text": "Simon",
+          "correct": false,
+          "explanation": "Simon was Peter's earlier name, not Paul's."
+        },
+        {
+          "text": "Saul",
+          "correct": true,
+          "explanation": "He was known as Saul of Tarsus before the Lord met him (Acts 9:1-4)."
+        },
+        {
+          "text": "Silas",
+          "correct": false,
+          "explanation": "Silas was one of Paul's traveling companions, a different man."
+        },
+        {
+          "text": "Stephen",
+          "correct": false,
+          "explanation": "Stephen was the first martyr, killed while Saul looked on."
+        }
+      ]
+    },
+    {
+      "text": "What was Paul doing to the early church before he became a believer?",
+      "options": [
+        {
+          "text": "Quietly ignoring it",
+          "correct": false,
+          "explanation": "Paul did not ignore the church. He actively hunted believers down."
+        },
+        {
+          "text": "Persecuting it and arresting believers",
+          "correct": true,
+          "explanation": "Acts 8:3 says Saul made havoc of the church, dragging men and women off to prison."
+        },
+        {
+          "text": "Funding it in secret",
+          "correct": false,
+          "explanation": "Paul was no secret supporter. He was one of the church's fiercest enemies."
+        },
+        {
+          "text": "Leading it as an elder",
+          "correct": false,
+          "explanation": "He became a leader only after his conversion, not before."
+        }
+      ]
+    },
+    {
+      "text": "Where was Paul headed when he met the risen Jesus in a blinding light?",
+      "options": [
+        {
+          "text": "Jerusalem",
+          "correct": false,
+          "explanation": "Paul was leaving Jerusalem to hunt believers in another city when it happened."
+        },
+        {
+          "text": "Rome",
+          "correct": false,
+          "explanation": "Paul reached Rome much later, near the end of his life, not at his conversion."
+        },
+        {
+          "text": "Damascus",
+          "correct": true,
+          "explanation": "Acts 9:3 says it happened as he neared Damascus, where he meant to arrest believers."
+        },
+        {
+          "text": "Antioch",
+          "correct": false,
+          "explanation": "Antioch was a base for Paul's later missions, not the road of his conversion."
+        }
+      ]
+    },
+    {
+      "text": "What happened to Paul right after he saw the light on the road?",
+      "options": [
+        {
+          "text": "He was struck blind for three days",
+          "correct": true,
+          "explanation": "Acts 9:9 says he could not see for three days, until Ananias came and his sight returned."
+        },
+        {
+          "text": "He fell into a deep sleep",
+          "correct": false,
+          "explanation": "He did not fall asleep. He was left blind for three days."
+        },
+        {
+          "text": "He lost his voice",
+          "correct": false,
+          "explanation": "Paul could still speak. It was his sight that he lost for a time."
+        },
+        {
+          "text": "He fainted and forgot everything",
+          "correct": false,
+          "explanation": "He remembered the encounter clearly. What he lost was his sight, not his memory."
+        }
+      ]
+    },
+    {
+      "text": "What trade did Paul work with his own hands to support himself?",
+      "options": [
+        {
+          "text": "Fishing",
+          "correct": false,
+          "explanation": "Fishing was the trade of Peter, James, and John, not Paul."
+        },
+        {
+          "text": "Tentmaking",
+          "correct": true,
+          "explanation": "Acts 18:3 says Paul was a tentmaker by trade and worked alongside Aquila and Priscilla."
+        },
+        {
+          "text": "Carpentry",
+          "correct": false,
+          "explanation": "Carpentry was the trade of Jesus and Joseph, not Paul."
+        },
+        {
+          "text": "Farming",
+          "correct": false,
+          "explanation": "Paul used farming as an illustration at times, but his trade was making tents."
+        }
+      ]
+    },
+    {
+      "text": "Who was the young man Paul mentored and called his son in the faith?",
+      "options": [
+        {
+          "text": "Barnabas",
+          "correct": false,
+          "explanation": "Barnabas was Paul's partner and a leader in his own right, not his protege."
+        },
+        {
+          "text": "Timothy",
+          "correct": true,
+          "explanation": "Paul called Timothy his own son in the faith and wrote two letters to him."
+        },
+        {
+          "text": "Luke",
+          "correct": false,
+          "explanation": "Luke was a doctor and traveling companion who wrote a Gospel and Acts."
+        },
+        {
+          "text": "Apollos",
+          "correct": false,
+          "explanation": "Apollos was a gifted preacher who worked alongside Paul, but not the one he raised up as a son."
+        }
+      ]
+    },
+    {
+      "text": "Which of these letters in the New Testament did Paul write?",
+      "options": [
+        {
+          "text": "James",
+          "correct": false,
+          "explanation": "The letter of James was written by James, not Paul."
+        },
+        {
+          "text": "Romans",
+          "correct": true,
+          "explanation": "Romans is one of Paul's longest and most well-known letters, written to the church in Rome."
+        },
+        {
+          "text": "First Peter",
+          "correct": false,
+          "explanation": "First Peter came from the apostle Peter, not Paul."
+        },
+        {
+          "text": "Jude",
+          "correct": false,
+          "explanation": "Jude was written by Jude, a brother of James, not by Paul."
+        }
+      ]
+    },
+    {
+      "text": "Paul wrote, \"I can do all things in him that strengtheneth me.\" Which letter is that from?",
+      "options": [
+        {
+          "text": "Galatians",
+          "correct": false,
+          "explanation": "Galatians deals mostly with grace and the law, not this verse."
+        },
+        {
+          "text": "Philippians",
+          "correct": true,
+          "explanation": "That line is Philippians 4:13 (ASV), written while Paul was content even in hardship."
+        },
+        {
+          "text": "Ephesians",
+          "correct": false,
+          "explanation": "Ephesians is rich with teaching, but this verse comes from Philippians."
+        },
+        {
+          "text": "Colossians",
+          "correct": false,
+          "explanation": "Colossians is a close companion letter, yet this particular verse is in Philippians."
+        }
+      ]
+    },
+    {
+      "text": "What hardship did Paul describe as a thorn in the flesh?",
+      "options": [
+        {
+          "text": "A debt he could not repay",
+          "correct": false,
+          "explanation": "The thorn was not about money. It was a personal trouble he asked God to remove."
+        },
+        {
+          "text": "A persistent affliction he pleaded with God to take away",
+          "correct": true,
+          "explanation": "In 2 Corinthians 12:7-9 Paul calls it a thorn in the flesh and says God's grace was sufficient for him."
+        },
+        {
+          "text": "A rival apostle",
+          "correct": false,
+          "explanation": "Paul faced opponents, but the thorn in the flesh was an affliction, not a person."
+        },
+        {
+          "text": "A lost manuscript",
+          "correct": false,
+          "explanation": "The thorn had nothing to do with writings. It was a lasting affliction."
+        }
+      ]
+    },
+    {
+      "text": "Paul faced many dangers on his journeys. Which of these did he go through?",
+      "options": [
+        {
+          "text": "Shipwreck at sea",
+          "correct": true,
+          "explanation": "Acts 27 records a violent storm and shipwreck on Paul's voyage toward Rome."
+        },
+        {
+          "text": "Being eaten by lions",
+          "correct": false,
+          "explanation": "Paul was never thrown to lions. He did, however, survive a shipwreck."
+        },
+        {
+          "text": "Falling from a high tower",
+          "correct": false,
+          "explanation": "That was not part of Paul's story. He endured a shipwreck instead."
+        },
+        {
+          "text": "Drowning in the Jordan",
+          "correct": false,
+          "explanation": "Paul did not drown. He survived the shipwreck on his way to Rome."
+        }
+      ]
+    },
+    {
+      "text": "As a Roman citizen on trial, what did Paul do to take his case to the emperor?",
+      "options": [
+        {
+          "text": "He bribed the governor",
+          "correct": false,
+          "explanation": "Paul did not offer a bribe. He used his legal right as a citizen."
+        },
+        {
+          "text": "He appealed to Caesar",
+          "correct": true,
+          "explanation": "In Acts 25:11 Paul says, \"I appeal unto Caesar,\" using his right as a Roman citizen."
+        },
+        {
+          "text": "He escaped from prison",
+          "correct": false,
+          "explanation": "Paul did not flee. He appealed to Caesar to be heard in Rome."
+        },
+        {
+          "text": "He hired a famous lawyer",
+          "correct": false,
+          "explanation": "Paul spoke for himself and appealed to Caesar rather than hiring a lawyer."
+        }
+      ]
+    },
+    {
+      "text": "On Paul's first missionary journey, who traveled with him as his main companion?",
+      "options": [
+        {
+          "text": "Barnabas",
+          "correct": true,
+          "explanation": "Acts 13:2-4 shows Barnabas set apart with Saul to begin the first missionary journey together."
+        },
+        {
+          "text": "Peter",
+          "correct": false,
+          "explanation": "Peter ministered mostly to Jewish believers and was not Paul's companion on this trip."
+        },
+        {
+          "text": "John the Baptist",
+          "correct": false,
+          "explanation": "John the Baptist had died before Paul's missions began."
+        },
+        {
+          "text": "Matthew",
+          "correct": false,
+          "explanation": "Matthew wrote a Gospel but did not travel with Paul on this journey."
+        }
+      ]
+    }
+  ],
+  "scoring": {
+    "perfectMessage": "Perfect. You know Paul's story from Damascus to Rome.",
+    "gradeBands": [
+      {
+        "min": 0,
+        "max": 39,
+        "label": "Just Meeting Paul",
+        "message": "Paul's life is one of the great stories of the Bible. Read on."
+      },
+      {
+        "min": 40,
+        "max": 69,
+        "label": "Getting Acquainted",
+        "message": "You know the main beats of Paul's life. Keep going."
+      },
+      {
+        "min": 70,
+        "max": 89,
+        "label": "Fellow Traveler",
+        "message": "You know Paul's journey well. Nicely done."
+      },
+      {
+        "min": 90,
+        "max": 100,
+        "label": "Paul Scholar",
+        "message": "From persecutor to apostle, you know it all."
+      }
+    ]
+  }
+}

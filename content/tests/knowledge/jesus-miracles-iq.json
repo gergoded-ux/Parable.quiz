@@ -1,0 +1,316 @@
+{
+  "slug": "jesus-miracles-iq",
+  "title": "Jesus' Miracles IQ",
+  "subtitle": "How well do you know the signs and wonders of Jesus?",
+  "lang": "en",
+  "category": "bible-iq",
+  "estimatedMinutes": 5,
+  "mode": "knowledge",
+  "questions": [
+    {
+      "text": "What was Jesus' first miracle, according to John?",
+      "options": [
+        {
+          "text": "Healing a blind man",
+          "correct": false,
+          "explanation": "Jesus healed the blind on several occasions, but that was not His first sign."
+        },
+        {
+          "text": "Turning water into wine at a wedding",
+          "correct": true,
+          "explanation": "At a wedding in Cana, Jesus turned water into wine, the first of His signs (John 2:11)."
+        },
+        {
+          "text": "Calming a storm",
+          "correct": false,
+          "explanation": "Calming the storm came later in His ministry, not as the first sign."
+        },
+        {
+          "text": "Feeding the five thousand",
+          "correct": false,
+          "explanation": "The feeding of the crowd was a famous miracle, but it came after the wedding at Cana."
+        }
+      ]
+    },
+    {
+      "text": "How did Jesus feed the large crowd of five thousand?",
+      "options": [
+        {
+          "text": "With five loaves and two fish",
+          "correct": true,
+          "explanation": "Jesus took five loaves and two fish, gave thanks, and fed them all (Matthew 14:17-21)."
+        },
+        {
+          "text": "With bread that fell from the sky",
+          "correct": false,
+          "explanation": "Manna fell in Moses' day. Jesus multiplied a boy's small lunch instead."
+        },
+        {
+          "text": "With seven baskets of grain",
+          "correct": false,
+          "explanation": "He started with five loaves and two fish. The leftovers filled twelve baskets."
+        },
+        {
+          "text": "With fish caught from the sea",
+          "correct": false,
+          "explanation": "He did not send the disciples fishing. He multiplied the loaves and fish already there."
+        }
+      ]
+    },
+    {
+      "text": "What did Jesus do during the storm on the Sea of Galilee?",
+      "options": [
+        {
+          "text": "He steered the boat to shore",
+          "correct": false,
+          "explanation": "Jesus did not row to safety. He spoke to the storm itself."
+        },
+        {
+          "text": "He calmed the wind and the waves with a word",
+          "correct": true,
+          "explanation": "Jesus rebuked the wind and said, \"Peace, be still,\" and the sea grew calm (Mark 4:39)."
+        },
+        {
+          "text": "He told the disciples to swim",
+          "correct": false,
+          "explanation": "No one had to swim. Jesus stilled the storm with a command."
+        },
+        {
+          "text": "He prayed until the storm passed on its own",
+          "correct": false,
+          "explanation": "The sea did not calm on its own. Jesus rebuked it directly and it obeyed."
+        }
+      ]
+    },
+    {
+      "text": "Which friend of Jesus did He raise after he had been dead four days?",
+      "options": [
+        {
+          "text": "Lazarus",
+          "correct": true,
+          "explanation": "Jesus called Lazarus out of the tomb after four days, and he came out alive (John 11:43-44)."
+        },
+        {
+          "text": "Nicodemus",
+          "correct": false,
+          "explanation": "Nicodemus came to Jesus by night with questions, but he was not raised from the dead."
+        },
+        {
+          "text": "Zacchaeus",
+          "correct": false,
+          "explanation": "Zacchaeus was the tax collector who climbed a tree to see Jesus, not the man raised from death."
+        },
+        {
+          "text": "Bartimaeus",
+          "correct": false,
+          "explanation": "Bartimaeus was a blind man Jesus healed, not the friend raised after four days."
+        }
+      ]
+    },
+    {
+      "text": "What did Jesus do that astonished the disciples one night out on the lake?",
+      "options": [
+        {
+          "text": "He walked on the water",
+          "correct": true,
+          "explanation": "Jesus came to them walking on the sea, and Peter briefly walked toward Him (Matthew 14:25-29)."
+        },
+        {
+          "text": "He turned the lake to dry land",
+          "correct": false,
+          "explanation": "The lake stayed water. The wonder was that Jesus walked on top of it."
+        },
+        {
+          "text": "He made the boat fly",
+          "correct": false,
+          "explanation": "The boat did not fly. Jesus Himself walked across the water to the disciples."
+        },
+        {
+          "text": "He filled the lake with light",
+          "correct": false,
+          "explanation": "There was no glowing lake. Jesus simply walked on the surface of the water."
+        }
+      ]
+    },
+    {
+      "text": "How did Jesus heal a man who had been blind from birth, according to John 9?",
+      "options": [
+        {
+          "text": "He made clay and put it on the man's eyes",
+          "correct": true,
+          "explanation": "Jesus made clay with spit, anointed his eyes, and told him to wash in a pool (John 9:6-7)."
+        },
+        {
+          "text": "He gave the man new glasses",
+          "correct": false,
+          "explanation": "There were no glasses in that day. Jesus used clay and a washing in the pool."
+        },
+        {
+          "text": "He simply walked past him",
+          "correct": false,
+          "explanation": "Jesus did more than pass by. He made clay and sent the man to wash and see."
+        },
+        {
+          "text": "He prayed over the man for seven days",
+          "correct": false,
+          "explanation": "There was no week of waiting. The man washed once and came back seeing."
+        }
+      ]
+    },
+    {
+      "text": "What did Jesus tell the paralyzed man to do after healing him?",
+      "options": [
+        {
+          "text": "Take up his bed and walk",
+          "correct": true,
+          "explanation": "Jesus said, \"Arise, take up thy bed, and walk,\" and the man got up at once (John 5:8)."
+        },
+        {
+          "text": "Stay in bed and rest",
+          "correct": false,
+          "explanation": "Jesus did the opposite. He told the man to pick up his mat and walk."
+        },
+        {
+          "text": "Wait for the pool to stir",
+          "correct": false,
+          "explanation": "The man had waited by the pool for years. Jesus healed him without it."
+        },
+        {
+          "text": "Go and find a doctor",
+          "correct": false,
+          "explanation": "He needed no doctor after this. Jesus told him to rise and carry his bed."
+        }
+      ]
+    },
+    {
+      "text": "What happened when a woman touched the edge of Jesus' garment in the crowd?",
+      "options": [
+        {
+          "text": "She was healed of a long illness",
+          "correct": true,
+          "explanation": "She had bled for twelve years, and at His touch she was made whole (Mark 5:25-29)."
+        },
+        {
+          "text": "Nothing happened to her",
+          "correct": false,
+          "explanation": "Something did happen. She was healed the moment she touched His garment."
+        },
+        {
+          "text": "She fainted from the crowd",
+          "correct": false,
+          "explanation": "She did not faint. Her years-long illness was healed instantly."
+        },
+        {
+          "text": "She was scolded and sent away",
+          "correct": false,
+          "explanation": "Jesus did not send her away. He called her 'daughter' and affirmed her faith."
+        }
+      ]
+    },
+    {
+      "text": "How many men with leprosy did Jesus heal at once in Luke 17, and how many came back to thank Him?",
+      "options": [
+        {
+          "text": "Ten were healed, and one returned to thank Him",
+          "correct": true,
+          "explanation": "Ten lepers were cleansed, but only one, a Samaritan, came back to give thanks (Luke 17:12-19)."
+        },
+        {
+          "text": "Five were healed, and all five returned",
+          "correct": false,
+          "explanation": "There were ten, and sadly only one of them came back to say thank you."
+        },
+        {
+          "text": "Twelve were healed, and none returned",
+          "correct": false,
+          "explanation": "It was ten men, and one did return to thank Jesus."
+        },
+        {
+          "text": "Three were healed, and two returned",
+          "correct": false,
+          "explanation": "The number was ten healed, with just one grateful man coming back."
+        }
+      ]
+    },
+    {
+      "text": "Whose daughter did Jesus raise from death, telling her to arise?",
+      "options": [
+        {
+          "text": "Jairus, a ruler of the synagogue",
+          "correct": true,
+          "explanation": "Jairus begged Jesus to come, and Jesus raised his young daughter (Mark 5:22-42)."
+        },
+        {
+          "text": "Pilate, the governor",
+          "correct": false,
+          "explanation": "Pilate was the Roman governor at Jesus' trial, not the father of this girl."
+        },
+        {
+          "text": "Herod, the king",
+          "correct": false,
+          "explanation": "Herod ruled the region, but it was Jairus whose daughter Jesus raised."
+        },
+        {
+          "text": "Caiaphas, the high priest",
+          "correct": false,
+          "explanation": "Caiaphas was the high priest who opposed Jesus, not the girl's father."
+        }
+      ]
+    },
+    {
+      "text": "What is the greatest miracle at the center of the Gospel message?",
+      "options": [
+        {
+          "text": "Jesus rising from the dead",
+          "correct": true,
+          "explanation": "On the third day Jesus rose. As the angel said, \"He is not here, for he is risen\" (Matthew 28:6, ASV)."
+        },
+        {
+          "text": "Jesus feeding the four thousand",
+          "correct": false,
+          "explanation": "That feeding was a real miracle, but the resurrection is the heart of the good news."
+        },
+        {
+          "text": "Jesus cursing a fig tree",
+          "correct": false,
+          "explanation": "The fig tree was a sign with a lesson, but the resurrection is the central miracle."
+        },
+        {
+          "text": "Jesus paying tax with a coin from a fish",
+          "correct": false,
+          "explanation": "That was a small wonder of provision. The resurrection stands at the center of it all."
+        }
+      ]
+    }
+  ],
+  "scoring": {
+    "perfectMessage": "You know the wonders of Jesus by heart.",
+    "gradeBands": [
+      {
+        "min": 0,
+        "max": 39,
+        "label": "Onlooker",
+        "message": "A great prompt to read the Gospels and watch the miracles unfold."
+      },
+      {
+        "min": 40,
+        "max": 69,
+        "label": "Witness",
+        "message": "You know many of the signs Jesus did."
+      },
+      {
+        "min": 70,
+        "max": 89,
+        "label": "Believer",
+        "message": "You know the miracles of Jesus very well."
+      },
+      {
+        "min": 90,
+        "max": 100,
+        "label": "Marvel",
+        "message": "Amazing. The signs and wonders of Jesus are clearly familiar ground."
+      }
+    ]
+  },
+  "theme": "bible-knowledge"
+}

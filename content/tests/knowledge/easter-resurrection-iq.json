@@ -1,0 +1,341 @@
+{
+  "slug": "easter-resurrection-iq",
+  "title": "Easter and the Resurrection IQ",
+  "subtitle": "How well do you know the first Easter?",
+  "lang": "en",
+  "category": "bible-iq",
+  "theme": "bible-knowledge",
+  "estimatedMinutes": 5,
+  "mode": "knowledge",
+  "questions": [
+    {
+      "text": "On which day of the week did Jesus rise from the dead?",
+      "options": [
+        {
+          "text": "The Sabbath",
+          "correct": false,
+          "explanation": "The Sabbath was the day Jesus rested in the tomb. The resurrection came the morning after."
+        },
+        {
+          "text": "The first day of the week",
+          "correct": true,
+          "explanation": "All four Gospels agree the women came to the tomb on the first day of the week, which is Sunday."
+        },
+        {
+          "text": "The day of Passover",
+          "correct": false,
+          "explanation": "Passover was tied to the crucifixion week, but the rising itself happened on the first day of the week."
+        },
+        {
+          "text": "The Day of Pentecost",
+          "correct": false,
+          "explanation": "Pentecost came about fifty days later, when the Holy Spirit was given."
+        }
+      ]
+    },
+    {
+      "text": "Who carried Jesus' cross part of the way to the place of crucifixion?",
+      "options": [
+        {
+          "text": "Simon of Cyrene",
+          "correct": true,
+          "explanation": "Mark 15:21 says the soldiers compelled Simon of Cyrene, who was passing by, to bear the cross."
+        },
+        {
+          "text": "Simon Peter",
+          "correct": false,
+          "explanation": "Peter had already denied Jesus three times and was not the one who carried the cross."
+        },
+        {
+          "text": "Joseph of Arimathea",
+          "correct": false,
+          "explanation": "Joseph of Arimathea gave his own tomb for Jesus' burial, but he did not carry the cross."
+        },
+        {
+          "text": "John the disciple",
+          "correct": false,
+          "explanation": "John stood near the cross with Mary, but Simon of Cyrene was forced to carry it."
+        }
+      ]
+    },
+    {
+      "text": "What was the name of the place where Jesus was crucified?",
+      "options": [
+        {
+          "text": "Gethsemane",
+          "correct": false,
+          "explanation": "Gethsemane was the garden where Jesus prayed and was arrested, not where He was crucified."
+        },
+        {
+          "text": "Bethany",
+          "correct": false,
+          "explanation": "Bethany was the village of Mary, Martha, and Lazarus near Jerusalem."
+        },
+        {
+          "text": "Golgotha",
+          "correct": true,
+          "explanation": "John 19:17 calls it Golgotha, which means the place of a skull, also known as Calvary."
+        },
+        {
+          "text": "The Mount of Olives",
+          "correct": false,
+          "explanation": "The Mount of Olives is where Jesus later ascended, not the site of the cross."
+        }
+      ]
+    },
+    {
+      "text": "Who asked Pilate for the body of Jesus so it could be buried?",
+      "options": [
+        {
+          "text": "Nicodemus",
+          "correct": false,
+          "explanation": "Nicodemus helped wrap the body with spices, but he was not the one who asked Pilate for it."
+        },
+        {
+          "text": "Joseph of Arimathea",
+          "correct": true,
+          "explanation": "Mark 15:43 says Joseph of Arimathea went in boldly to Pilate and asked for the body of Jesus."
+        },
+        {
+          "text": "Mary Magdalene",
+          "correct": false,
+          "explanation": "Mary Magdalene came to the tomb on Sunday morning, but a man named Joseph asked Pilate for the body."
+        },
+        {
+          "text": "Judas Iscariot",
+          "correct": false,
+          "explanation": "Judas had already betrayed Jesus and died, so he had no part in the burial."
+        }
+      ]
+    },
+    {
+      "text": "What was used to close the entrance of Jesus' tomb?",
+      "options": [
+        {
+          "text": "A wooden door",
+          "correct": false,
+          "explanation": "Tombs like this were sealed with stone, not wood."
+        },
+        {
+          "text": "A great stone",
+          "correct": true,
+          "explanation": "Matthew 27:60 says Joseph rolled a great stone to the door of the tomb."
+        },
+        {
+          "text": "An iron gate",
+          "correct": false,
+          "explanation": "There was no iron gate. The opening was blocked by a large stone."
+        },
+        {
+          "text": "A curtain",
+          "correct": false,
+          "explanation": "A curtain hung in the temple and was torn at the crucifixion, but the tomb was closed with a stone."
+        }
+      ]
+    },
+    {
+      "text": "Who was the first person to see the risen Jesus, according to John's Gospel?",
+      "options": [
+        {
+          "text": "Peter",
+          "correct": false,
+          "explanation": "Peter ran to the empty tomb, but he did not see the risen Jesus first."
+        },
+        {
+          "text": "Thomas",
+          "correct": false,
+          "explanation": "Thomas saw Jesus later and doubted until he was shown the wounds."
+        },
+        {
+          "text": "Mary Magdalene",
+          "correct": true,
+          "explanation": "In John 20:14-16, Mary Magdalene met the risen Jesus near the tomb and He spoke her name."
+        },
+        {
+          "text": "His mother Mary",
+          "correct": false,
+          "explanation": "The Gospels name Mary Magdalene as the first to see Him, not His mother."
+        }
+      ]
+    },
+    {
+      "text": "When Mary Magdalene first saw Jesus outside the tomb, who did she think He was?",
+      "options": [
+        {
+          "text": "A soldier",
+          "correct": false,
+          "explanation": "She did not mistake Him for a soldier. She thought He worked in the garden."
+        },
+        {
+          "text": "An angel",
+          "correct": false,
+          "explanation": "Mary had already seen angels in the tomb. The man she spoke to she took for someone else."
+        },
+        {
+          "text": "The gardener",
+          "correct": true,
+          "explanation": "John 20:15 says she supposed Him to be the gardener until He called her by name."
+        },
+        {
+          "text": "Peter",
+          "correct": false,
+          "explanation": "She did not think He was Peter. She mistook Him for the keeper of the garden."
+        }
+      ]
+    },
+    {
+      "text": "Which disciple doubted the resurrection until he saw Jesus' wounds?",
+      "options": [
+        {
+          "text": "Thomas",
+          "correct": true,
+          "explanation": "John 20:25 records Thomas saying he would not believe unless he saw and touched the wounds."
+        },
+        {
+          "text": "Philip",
+          "correct": false,
+          "explanation": "Philip asked to see the Father earlier, but the famous doubter was Thomas."
+        },
+        {
+          "text": "Andrew",
+          "correct": false,
+          "explanation": "Andrew is not the disciple who demanded to see the wounds."
+        },
+        {
+          "text": "Matthew",
+          "correct": false,
+          "explanation": "Matthew was a former tax collector, but Thomas was the one who doubted here."
+        }
+      ]
+    },
+    {
+      "text": "On the road to Emmaus, when did the two travelers finally recognize the risen Jesus?",
+      "options": [
+        {
+          "text": "When He first joined them on the road",
+          "correct": false,
+          "explanation": "Luke 24:16 says their eyes were held so they did not know Him at first."
+        },
+        {
+          "text": "When He broke bread with them",
+          "correct": true,
+          "explanation": "Luke 24:30-31 says their eyes were opened and they knew Him as He broke the bread."
+        },
+        {
+          "text": "When He read from the prophets",
+          "correct": false,
+          "explanation": "He did explain the Scriptures to them, but they recognized Him only at the meal."
+        },
+        {
+          "text": "When the angels told them",
+          "correct": false,
+          "explanation": "No angels appeared on the road. They knew Him when He broke bread."
+        }
+      ]
+    },
+    {
+      "text": "What did Jesus tell the women to do after they met Him outside the empty tomb?",
+      "options": [
+        {
+          "text": "Stay and guard the tomb",
+          "correct": false,
+          "explanation": "He did not ask them to guard anything. He sent them to His followers."
+        },
+        {
+          "text": "Tell His brethren to go to Galilee",
+          "correct": true,
+          "explanation": "Matthew 28:10 says, \"Go tell my brethren that they go into Galilee, and there shall they see me\" (ASV)."
+        },
+        {
+          "text": "Bring the priests to the tomb",
+          "correct": false,
+          "explanation": "He never sent them to the priests. He sent them to His disciples."
+        },
+        {
+          "text": "Say nothing to anyone",
+          "correct": false,
+          "explanation": "He told them to go and tell, not to stay silent."
+        }
+      ]
+    },
+    {
+      "text": "How many days after His resurrection did Jesus stay with His followers before ascending?",
+      "options": [
+        {
+          "text": "Three days",
+          "correct": false,
+          "explanation": "Three days was the time in the tomb, not the time before the ascension."
+        },
+        {
+          "text": "Seven days",
+          "correct": false,
+          "explanation": "The book of Acts gives a longer span than a week."
+        },
+        {
+          "text": "Forty days",
+          "correct": true,
+          "explanation": "Acts 1:3 says He showed Himself alive over a period of forty days, speaking of the kingdom of God."
+        },
+        {
+          "text": "Fifty days",
+          "correct": false,
+          "explanation": "Fifty days points to Pentecost, which came after He had already ascended."
+        }
+      ]
+    },
+    {
+      "text": "What did the angel at the tomb tell the women about why it was empty?",
+      "options": [
+        {
+          "text": "The body had been stolen",
+          "correct": false,
+          "explanation": "That was a false rumor spread later. The angel said something very different."
+        },
+        {
+          "text": "He is not here, for he is risen",
+          "correct": true,
+          "explanation": "Matthew 28:6 records the angel saying, \"He is not here; for he is risen, even as he said\" (ASV)."
+        },
+        {
+          "text": "He has gone to Bethany",
+          "correct": false,
+          "explanation": "The angel did not send them to Bethany. The message was that He had risen."
+        },
+        {
+          "text": "He is still in the grave clothes",
+          "correct": false,
+          "explanation": "The grave clothes were left behind, but the angel's point was that He was alive."
+        }
+      ]
+    }
+  ],
+  "scoring": {
+    "perfectMessage": "A perfect score. You know the empty tomb by heart.",
+    "gradeBands": [
+      {
+        "min": 0,
+        "max": 39,
+        "label": "Seeker",
+        "message": "The Easter story is waiting for you. Open the Gospels and start with the last week of Jesus' life."
+      },
+      {
+        "min": 40,
+        "max": 69,
+        "label": "Student",
+        "message": "You know the heart of the story. A few more readings and the details will stick."
+      },
+      {
+        "min": 70,
+        "max": 89,
+        "label": "Scholar",
+        "message": "You know the resurrection well. Strong work."
+      },
+      {
+        "min": 90,
+        "max": 100,
+        "label": "Sage",
+        "message": "Few know the first Easter this clearly. Beautifully done."
+      }
+    ]
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "slug": "book-of-acts-iq",
+  "title": "Book of Acts IQ",
+  "subtitle": "How well do you know the early church's first chapters?",
+  "lang": "en",
+  "category": "bible-iq",
+  "theme": "bible-knowledge",
+  "estimatedMinutes": 5,
+  "mode": "knowledge",
+  "questions": [
+    {
+      "text": "Who wrote the book of Acts?",
+      "options": [
+        {
+          "text": "Luke",
+          "correct": true,
+          "explanation": "Acts opens by referring back to a \"former treatise,\" the Gospel of Luke. Both are addressed to Theophilus, and the author is traditionally Luke, the physician who traveled with Paul."
+        },
+        {
+          "text": "Peter",
+          "correct": false,
+          "explanation": "Peter is a major figure in the first half of Acts, but he didn't write it."
+        },
+        {
+          "text": "Paul",
+          "correct": false,
+          "explanation": "Paul dominates the second half of the story, yet the narrator writes about him in the third person, then later joins as a traveling companion."
+        },
+        {
+          "text": "John",
+          "correct": false,
+          "explanation": "John appears alongside Peter early on, but he is not the author."
+        }
+      ]
+    },
+    {
+      "text": "What happened to the believers on the Day of Pentecost?",
+      "options": [
+        {
+          "text": "They were baptized in the Jordan River",
+          "correct": false,
+          "explanation": "John the Baptist baptized in the Jordan, but Pentecost was a different event entirely."
+        },
+        {
+          "text": "The Holy Spirit came on them with wind and tongues of fire",
+          "correct": true,
+          "explanation": "Acts 2 describes a sound like a rushing wind, tongues like fire resting on each person, and the believers speaking in other languages so the crowd could understand."
+        },
+        {
+          "text": "They saw Jesus ascend into heaven",
+          "correct": false,
+          "explanation": "The ascension happens in Acts 1, before Pentecost."
+        },
+        {
+          "text": "They chose a replacement for Judas",
+          "correct": false,
+          "explanation": "Matthias was chosen in Acts 1, just before Pentecost."
+        }
+      ]
+    },
+    {
+      "text": "Who was chosen to replace Judas among the twelve apostles?",
+      "options": [
+        {
+          "text": "Barnabas",
+          "correct": false,
+          "explanation": "Barnabas was an encourager and a missionary partner of Paul, but he was not the one chosen here."
+        },
+        {
+          "text": "Stephen",
+          "correct": false,
+          "explanation": "Stephen was one of the seven chosen to serve tables, and later the first martyr, but not Judas's replacement."
+        },
+        {
+          "text": "Matthias",
+          "correct": true,
+          "explanation": "In Acts 1:26, the lot fell on Matthias, and he was numbered with the eleven apostles."
+        },
+        {
+          "text": "Silas",
+          "correct": false,
+          "explanation": "Silas became a companion of Paul later in the book, not a replacement for Judas."
+        }
+      ]
+    },
+    {
+      "text": "Who was the first Christian martyr, stoned to death after preaching boldly?",
+      "options": [
+        {
+          "text": "James",
+          "correct": false,
+          "explanation": "James the brother of John was put to death by Herod in Acts 12, but that came after the first martyrdom."
+        },
+        {
+          "text": "Stephen",
+          "correct": true,
+          "explanation": "Acts 7 records Stephen's long sermon and his stoning. As he died he asked the Lord not to hold the sin against them."
+        },
+        {
+          "text": "Philip",
+          "correct": false,
+          "explanation": "Philip the evangelist kept ministering, including to the Ethiopian official. He was not martyred in Acts."
+        },
+        {
+          "text": "Ananias",
+          "correct": false,
+          "explanation": "There are two men named Ananias in Acts, but neither was the first martyr."
+        }
+      ]
+    },
+    {
+      "text": "On the road to Damascus, who was struck blind by a bright light and met the risen Jesus?",
+      "options": [
+        {
+          "text": "Cornelius",
+          "correct": false,
+          "explanation": "Cornelius was a Roman centurion who saw a vision of an angel, a different encounter altogether."
+        },
+        {
+          "text": "Saul, later called Paul",
+          "correct": true,
+          "explanation": "In Acts 9, Saul was traveling to arrest believers when a light flashed and a voice said, \"Saul, Saul, why persecutest thou me?\" He was blinded for three days."
+        },
+        {
+          "text": "Apollos",
+          "correct": false,
+          "explanation": "Apollos was an eloquent teacher from Alexandria, not the man on the Damascus road."
+        },
+        {
+          "text": "Timothy",
+          "correct": false,
+          "explanation": "Timothy joined Paul's missionary work later and is never described having this experience."
+        }
+      ]
+    },
+    {
+      "text": "Who was the first Gentile convert, a centurion visited by Peter?",
+      "options": [
+        {
+          "text": "The Ethiopian eunuch",
+          "correct": false,
+          "explanation": "The Ethiopian official was reached by Philip, not Peter, and he was already a worshiper of God on his way home."
+        },
+        {
+          "text": "Lydia",
+          "correct": false,
+          "explanation": "Lydia was a seller of purple in Philippi, reached later through Paul's ministry."
+        },
+        {
+          "text": "Cornelius",
+          "correct": true,
+          "explanation": "Acts 10 tells of Cornelius, a devout centurion in Caesarea. Peter visited him, and the Holy Spirit fell on his household, opening the door to the Gentiles."
+        },
+        {
+          "text": "The Philippian jailer",
+          "correct": false,
+          "explanation": "The jailer believed after the earthquake in Acts 16, but Cornelius came first."
+        }
+      ]
+    },
+    {
+      "text": "In which city were the disciples first called Christians?",
+      "options": [
+        {
+          "text": "Jerusalem",
+          "correct": false,
+          "explanation": "Jerusalem was the birthplace of the church, but the name Christian started elsewhere."
+        },
+        {
+          "text": "Antioch",
+          "correct": true,
+          "explanation": "Acts 11:26 says the disciples were called Christians first in Antioch, where Barnabas and Saul taught for a whole year."
+        },
+        {
+          "text": "Rome",
+          "correct": false,
+          "explanation": "Rome is where the book ends with Paul under house arrest, but the name began earlier."
+        },
+        {
+          "text": "Ephesus",
+          "correct": false,
+          "explanation": "Ephesus saw a powerful ministry from Paul, but it was not where the name first appeared."
+        }
+      ]
+    },
+    {
+      "text": "Who were Paul's main companions on his first missionary journey?",
+      "options": [
+        {
+          "text": "Barnabas and John Mark",
+          "correct": true,
+          "explanation": "Acts 13 sends out Barnabas and Saul, with John Mark as their helper. John Mark later turned back, which became a point of tension."
+        },
+        {
+          "text": "Peter and John",
+          "correct": false,
+          "explanation": "Peter and John ministered together in Jerusalem and Samaria, not on Paul's first journey."
+        },
+        {
+          "text": "Silas and Timothy",
+          "correct": false,
+          "explanation": "Silas and Timothy joined Paul on later journeys, after the split with Barnabas."
+        },
+        {
+          "text": "Luke and Aquila",
+          "correct": false,
+          "explanation": "Luke and Aquila were part of Paul's wider circle, but not the first-journey team."
+        }
+      ]
+    },
+    {
+      "text": "What happened to Paul and Silas in the Philippian jail at midnight?",
+      "options": [
+        {
+          "text": "An angel carried them out the gate",
+          "correct": false,
+          "explanation": "That was Peter's rescue in Acts 12, a separate jailbreak."
+        },
+        {
+          "text": "They escaped through a window in a basket",
+          "correct": false,
+          "explanation": "Being lowered in a basket happened to Saul over the wall of Damascus, not to Paul and Silas in Philippi."
+        },
+        {
+          "text": "They sang hymns, and an earthquake shook the doors open",
+          "correct": true,
+          "explanation": "Acts 16 says they were praying and singing when an earthquake struck, the doors opened, and the chains came loose. The jailer and his household then believed."
+        },
+        {
+          "text": "They were released the next morning with an apology",
+          "correct": false,
+          "explanation": "An apology did come later when the officials learned Paul was a Roman citizen, but the dramatic moment was the midnight earthquake."
+        }
+      ]
+    },
+    {
+      "text": "In Athens, where did Paul preach his famous sermon about the \"unknown god\"?",
+      "options": [
+        {
+          "text": "The temple of Diana",
+          "correct": false,
+          "explanation": "The temple of Diana was in Ephesus, where a riot broke out over Paul's preaching."
+        },
+        {
+          "text": "The Areopagus, also called Mars' Hill",
+          "correct": true,
+          "explanation": "Acts 17 places Paul on the Areopagus, where he pointed to an altar inscribed to an unknown god and proclaimed the God who made the world."
+        },
+        {
+          "text": "Solomon's porch",
+          "correct": false,
+          "explanation": "Solomon's porch was at the temple in Jerusalem, the setting for earlier preaching."
+        },
+        {
+          "text": "The synagogue in Berea",
+          "correct": false,
+          "explanation": "The Bereans searched the Scriptures daily, but that was a different stop before Athens."
+        }
+      ]
+    },
+    {
+      "text": "How does the book of Acts end?",
+      "options": [
+        {
+          "text": "With Paul's execution in Rome",
+          "correct": false,
+          "explanation": "Acts does not record Paul's death. Tradition places it later, but the book closes before that."
+        },
+        {
+          "text": "With Paul preaching freely in Rome under house arrest",
+          "correct": true,
+          "explanation": "Acts 28 ends with Paul in Rome, welcoming all who came to him and preaching the kingdom of God with boldness, no one forbidding him."
+        },
+        {
+          "text": "With the return of Jesus",
+          "correct": false,
+          "explanation": "The second coming is promised in Acts 1, but the book itself ends with Paul in Rome."
+        },
+        {
+          "text": "With the conversion of the emperor",
+          "correct": false,
+          "explanation": "No emperor is converted in Acts. The book ends with Paul still preaching while waiting for trial."
+        }
+      ]
+    }
+  ],
+  "scoring": {
+    "perfectMessage": "You know the early church inside and out!",
+    "gradeBands": [
+      {
+        "min": 0,
+        "max": 39,
+        "label": "Newcomer",
+        "message": "Acts is a wild ride. Time to read it through."
+      },
+      {
+        "min": 40,
+        "max": 69,
+        "label": "Traveler",
+        "message": "You're following the journey well."
+      },
+      {
+        "min": 70,
+        "max": 89,
+        "label": "Scholar",
+        "message": "You really know the story of the early church."
+      },
+      {
+        "min": 90,
+        "max": 100,
+        "label": "Apostle-level",
+        "message": "Outstanding. You could lead the Bible study."
+      }
+    ]
+  }
+}

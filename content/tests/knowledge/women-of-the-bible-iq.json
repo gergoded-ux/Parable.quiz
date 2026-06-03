@@ -1,0 +1,316 @@
+{
+  "slug": "women-of-the-bible-iq",
+  "title": "Women of the Bible IQ",
+  "subtitle": "How well do you know the women who shaped the story?",
+  "lang": "en",
+  "category": "bible-iq",
+  "theme": "bible-knowledge",
+  "estimatedMinutes": 5,
+  "mode": "knowledge",
+  "questions": [
+    {
+      "text": "Who was the first woman, created by God in the garden?",
+      "options": [
+        {
+          "text": "Sarah",
+          "correct": false,
+          "explanation": "Sarah was Abraham's wife, generations later. She is honored, but she was not the first woman."
+        },
+        {
+          "text": "Eve",
+          "correct": true,
+          "explanation": "Genesis names her Eve because she was \"the mother of all living.\" She was formed from Adam's side in the garden."
+        },
+        {
+          "text": "Hagar",
+          "correct": false,
+          "explanation": "Hagar was Sarah's servant and the mother of Ishmael, but not the first woman."
+        },
+        {
+          "text": "Rebekah",
+          "correct": false,
+          "explanation": "Rebekah was Isaac's wife, much later in Genesis."
+        }
+      ]
+    },
+    {
+      "text": "Which woman left her people, saying \"thy people shall be my people, and thy God my God\"?",
+      "options": [
+        {
+          "text": "Naomi",
+          "correct": false,
+          "explanation": "Naomi was the older woman these words were spoken to. Her daughter-in-law said them as she chose to stay."
+        },
+        {
+          "text": "Orpah",
+          "correct": false,
+          "explanation": "Orpah turned back to her own people, while the other daughter-in-law stayed."
+        },
+        {
+          "text": "Ruth",
+          "correct": true,
+          "explanation": "Ruth the Moabite said this to Naomi in Ruth 1:16. She later married Boaz and became an ancestor of King David."
+        },
+        {
+          "text": "Esther",
+          "correct": false,
+          "explanation": "Esther's story is set in Persia, in a different book entirely."
+        }
+      ]
+    },
+    {
+      "text": "Which queen risked her life to save the Jewish people from Haman's plot?",
+      "options": [
+        {
+          "text": "Esther",
+          "correct": true,
+          "explanation": "Esther approached the king uninvited, knowing it could cost her life, and exposed Haman's plan. Her famous line is \"if I perish, I perish.\""
+        },
+        {
+          "text": "Jezebel",
+          "correct": false,
+          "explanation": "Jezebel was a queen who opposed God's prophets, the opposite of a deliverer."
+        },
+        {
+          "text": "Bathsheba",
+          "correct": false,
+          "explanation": "Bathsheba was the mother of Solomon, but she is not the one who faced down Haman."
+        },
+        {
+          "text": "Vashti",
+          "correct": false,
+          "explanation": "Vashti was the queen before Esther, removed for refusing the king's command."
+        }
+      ]
+    },
+    {
+      "text": "Which woman was a judge and prophetess who led Israel into battle with Barak?",
+      "options": [
+        {
+          "text": "Miriam",
+          "correct": false,
+          "explanation": "Miriam was a prophetess and Moses' sister, but she did not lead Israel as a judge."
+        },
+        {
+          "text": "Deborah",
+          "correct": true,
+          "explanation": "Deborah judged Israel and summoned Barak to fight Sisera. She told him the honor of victory would go to a woman."
+        },
+        {
+          "text": "Huldah",
+          "correct": false,
+          "explanation": "Huldah was a prophetess in the days of King Josiah, but she was not a judge who went to war."
+        },
+        {
+          "text": "Hannah",
+          "correct": false,
+          "explanation": "Hannah was the mother of Samuel, known for her prayer, not for leading armies."
+        }
+      ]
+    },
+    {
+      "text": "Who drove a tent peg through the temple of the enemy commander Sisera?",
+      "options": [
+        {
+          "text": "Jael",
+          "correct": true,
+          "explanation": "In Judges 4, Jael welcomed Sisera into her tent, then drove a peg through his head while he slept, fulfilling Deborah's word."
+        },
+        {
+          "text": "Rahab",
+          "correct": false,
+          "explanation": "Rahab hid the spies in Jericho, a different act of courage."
+        },
+        {
+          "text": "Delilah",
+          "correct": false,
+          "explanation": "Delilah betrayed Samson by uncovering the secret of his strength, but she did not kill Sisera."
+        },
+        {
+          "text": "Abigail",
+          "correct": false,
+          "explanation": "Abigail calmed David's anger with wisdom and gifts. Her story is a different one."
+        }
+      ]
+    },
+    {
+      "text": "Which woman of Jericho hid the Israelite spies and was later spared?",
+      "options": [
+        {
+          "text": "Rahab",
+          "correct": true,
+          "explanation": "Rahab hid the two spies and let them down by a cord. A scarlet rope in her window marked her house to be spared. She is even listed in Jesus' family line."
+        },
+        {
+          "text": "Tamar",
+          "correct": false,
+          "explanation": "There are women named Tamar in Scripture, but none of them hid the spies at Jericho."
+        },
+        {
+          "text": "Dinah",
+          "correct": false,
+          "explanation": "Dinah was a daughter of Jacob, from an earlier story in Genesis."
+        },
+        {
+          "text": "Zipporah",
+          "correct": false,
+          "explanation": "Zipporah was the wife of Moses, not connected to Jericho."
+        }
+      ]
+    },
+    {
+      "text": "Who was the mother of Samuel, and prayed so earnestly that the priest thought she was drunk?",
+      "options": [
+        {
+          "text": "Hannah",
+          "correct": true,
+          "explanation": "In 1 Samuel 1, Hannah prayed silently with moving lips. Eli thought she was drunk, but she was pouring out her heart for a son."
+        },
+        {
+          "text": "Peninnah",
+          "correct": false,
+          "explanation": "Peninnah was the other wife who provoked Hannah, not the praying mother."
+        },
+        {
+          "text": "Elizabeth",
+          "correct": false,
+          "explanation": "Elizabeth was the mother of John the Baptist in the New Testament."
+        },
+        {
+          "text": "Rachel",
+          "correct": false,
+          "explanation": "Rachel longed for children too, but she was the mother of Joseph and Benjamin, not Samuel."
+        }
+      ]
+    },
+    {
+      "text": "Which sisters were close friends of Jesus, one busy serving while the other sat at His feet?",
+      "options": [
+        {
+          "text": "Mary and Martha",
+          "correct": true,
+          "explanation": "In Luke 10, Martha was busy with serving while Mary sat listening. Jesus said Mary had chosen the good part. They were sisters of Lazarus."
+        },
+        {
+          "text": "Leah and Rachel",
+          "correct": false,
+          "explanation": "Leah and Rachel were sisters who married Jacob, far back in Genesis."
+        },
+        {
+          "text": "Mary and Elizabeth",
+          "correct": false,
+          "explanation": "Mary and Elizabeth were relatives, not the two sisters at Bethany."
+        },
+        {
+          "text": "Priscilla and Lydia",
+          "correct": false,
+          "explanation": "Priscilla and Lydia were faithful women in the early church, but they were not sisters of Lazarus."
+        }
+      ]
+    },
+    {
+      "text": "Who was the mother of Jesus?",
+      "options": [
+        {
+          "text": "Mary Magdalene",
+          "correct": false,
+          "explanation": "Mary Magdalene was a devoted follower of Jesus and a witness to the resurrection, but she was not His mother."
+        },
+        {
+          "text": "Mary, wife of Joseph",
+          "correct": true,
+          "explanation": "The angel Gabriel told Mary she would bear a son and call Him Jesus. She was engaged to Joseph at the time."
+        },
+        {
+          "text": "Elizabeth",
+          "correct": false,
+          "explanation": "Elizabeth was Mary's relative and the mother of John the Baptist."
+        },
+        {
+          "text": "Anna",
+          "correct": false,
+          "explanation": "Anna was the elderly prophetess who praised God when the baby Jesus was brought to the temple."
+        }
+      ]
+    },
+    {
+      "text": "Which woman was the first to see the risen Jesus on Easter morning?",
+      "options": [
+        {
+          "text": "Mary the mother of Jesus",
+          "correct": false,
+          "explanation": "Mary the mother of Jesus stood by the cross, but the Gospels name a different woman as the first to see Him risen."
+        },
+        {
+          "text": "Mary Magdalene",
+          "correct": true,
+          "explanation": "In John 20, Mary Magdalene wept at the empty tomb and met Jesus, at first thinking He was the gardener. He sent her to tell the others."
+        },
+        {
+          "text": "Joanna",
+          "correct": false,
+          "explanation": "Joanna was among the women at the tomb, but Mary Magdalene is the one named meeting Jesus first."
+        },
+        {
+          "text": "Salome",
+          "correct": false,
+          "explanation": "Salome came with spices to the tomb, but she was not the first to see the risen Lord."
+        }
+      ]
+    },
+    {
+      "text": "Which businesswoman, a seller of purple cloth, became one of the first believers in Philippi?",
+      "options": [
+        {
+          "text": "Dorcas",
+          "correct": false,
+          "explanation": "Dorcas, also called Tabitha, was known for making clothes for the poor and was raised by Peter. She lived in Joppa, not Philippi."
+        },
+        {
+          "text": "Lydia",
+          "correct": true,
+          "explanation": "Acts 16 introduces Lydia, a seller of purple from Thyatira. The Lord opened her heart, and she and her household were baptized."
+        },
+        {
+          "text": "Phoebe",
+          "correct": false,
+          "explanation": "Phoebe was a servant of the church at Cenchrea whom Paul commended, but she was not the purple seller."
+        },
+        {
+          "text": "Priscilla",
+          "correct": false,
+          "explanation": "Priscilla, with her husband Aquila, taught Apollos. She was a tentmaker by trade, not a seller of purple."
+        }
+      ]
+    }
+  ],
+  "scoring": {
+    "perfectMessage": "You know these women and their stories by heart!",
+    "gradeBands": [
+      {
+        "min": 0,
+        "max": 39,
+        "label": "Just Starting",
+        "message": "So many remarkable women to meet. Keep reading."
+      },
+      {
+        "min": 40,
+        "max": 69,
+        "label": "Learner",
+        "message": "You know quite a few of their stories."
+      },
+      {
+        "min": 70,
+        "max": 89,
+        "label": "Well-Read",
+        "message": "You know the women of Scripture well."
+      },
+      {
+        "min": 90,
+        "max": 100,
+        "label": "Expert",
+        "message": "Wonderful. Few know these stories as you do."
+      }
+    ]
+  }
+}

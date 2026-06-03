@@ -1,0 +1,341 @@
+{
+  "slug": "joseph-in-egypt-iq",
+  "title": "Joseph in Egypt IQ",
+  "subtitle": "From the pit to the palace, how well do you know Joseph's story?",
+  "lang": "en",
+  "category": "bible-iq",
+  "estimatedMinutes": 5,
+  "mode": "knowledge",
+  "questions": [
+    {
+      "text": "Who bought Joseph when he was first brought down to Egypt?",
+      "options": [
+        {
+          "text": "Pharaoh himself",
+          "correct": false,
+          "explanation": "Joseph did not meet Pharaoh until years later, when he interpreted the king's dreams."
+        },
+        {
+          "text": "Potiphar, an officer of Pharaoh",
+          "correct": true,
+          "explanation": "Genesis 39:1 says Potiphar, an officer of Pharaoh and captain of the guard, bought Joseph from the Ishmaelites."
+        },
+        {
+          "text": "The chief baker",
+          "correct": false,
+          "explanation": "The chief baker was a fellow prisoner Joseph met later in jail, not the man who bought him."
+        },
+        {
+          "text": "A merchant in Goshen",
+          "correct": false,
+          "explanation": "Goshen became the home of Joseph's family much later. It was not where he was first sold."
+        }
+      ]
+    },
+    {
+      "text": "Why was Joseph thrown into prison in Egypt?",
+      "options": [
+        {
+          "text": "He was falsely accused by Potiphar's wife",
+          "correct": true,
+          "explanation": "Genesis 39 tells how Potiphar's wife lied about Joseph after he refused her, and he was put in prison."
+        },
+        {
+          "text": "He stole grain from Pharaoh's storehouse",
+          "correct": false,
+          "explanation": "Joseph was the one who later filled the storehouses. He was no thief."
+        },
+        {
+          "text": "He failed to interpret a dream",
+          "correct": false,
+          "explanation": "Joseph interpreted every dream put before him correctly. That was never the charge against him."
+        },
+        {
+          "text": "He led a revolt against Pharaoh",
+          "correct": false,
+          "explanation": "Joseph served faithfully wherever he was placed. There was no revolt."
+        }
+      ]
+    },
+    {
+      "text": "While in prison, whose two dreams did Joseph interpret?",
+      "options": [
+        {
+          "text": "Two of Pharaoh's sons",
+          "correct": false,
+          "explanation": "The dreamers were Pharaoh's servants, not his sons."
+        },
+        {
+          "text": "The chief butler and the chief baker",
+          "correct": true,
+          "explanation": "Genesis 40 describes Pharaoh's chief butler and chief baker, both jailed, each having a dream that Joseph explained."
+        },
+        {
+          "text": "Two Egyptian priests",
+          "correct": false,
+          "explanation": "No priests appear in this part of the story. The two dreamers were Pharaoh's officers."
+        },
+        {
+          "text": "Potiphar and his wife",
+          "correct": false,
+          "explanation": "Potiphar and his wife were back at the house. The prison dreams belonged to the butler and the baker."
+        }
+      ]
+    },
+    {
+      "text": "What did Pharaoh dream about that troubled him so deeply?",
+      "options": [
+        {
+          "text": "A great statue made of gold and clay",
+          "correct": false,
+          "explanation": "That dream belonged to King Nebuchadnezzar in the book of Daniel, not Pharaoh."
+        },
+        {
+          "text": "Seven cows and seven ears of grain",
+          "correct": true,
+          "explanation": "Genesis 41 tells of seven fat cows eaten by seven thin ones, and seven full ears swallowed by seven withered ears."
+        },
+        {
+          "text": "A ladder reaching up to heaven",
+          "correct": false,
+          "explanation": "The ladder was Jacob's dream at Bethel, generations earlier."
+        },
+        {
+          "text": "Stars bowing down to the moon",
+          "correct": false,
+          "explanation": "Joseph himself dreamed of the sun, moon, and stars bowing. Pharaoh's dream was about cows and grain."
+        }
+      ]
+    },
+    {
+      "text": "What did Joseph say the seven good years and seven bad years would be?",
+      "options": [
+        {
+          "text": "Seven years of war, then seven of peace",
+          "correct": false,
+          "explanation": "The dream was about food supply, not war and peace."
+        },
+        {
+          "text": "Seven years of plenty, then seven years of famine",
+          "correct": true,
+          "explanation": "Genesis 41 records that seven years of great plenty would come, followed by seven years of famine across the land."
+        },
+        {
+          "text": "Seven years of rain, then seven of flood",
+          "correct": false,
+          "explanation": "There was no flood here. The hardship was famine after a season of plenty."
+        },
+        {
+          "text": "Seven years of sickness, then seven of healing",
+          "correct": false,
+          "explanation": "Sickness was not part of the dream. It pointed to plenty and then famine."
+        }
+      ]
+    },
+    {
+      "text": "What position did Pharaoh give Joseph after he interpreted the dreams?",
+      "options": [
+        {
+          "text": "Chief priest of Egypt",
+          "correct": false,
+          "explanation": "Joseph was not made a priest. He was given charge over the whole land."
+        },
+        {
+          "text": "Ruler over all the land of Egypt, second only to Pharaoh",
+          "correct": true,
+          "explanation": "Genesis 41 says Pharaoh set Joseph over his house and all the land, keeping only the throne above him."
+        },
+        {
+          "text": "Captain of Pharaoh's army",
+          "correct": false,
+          "explanation": "Joseph's role was governing and storing food, not commanding soldiers."
+        },
+        {
+          "text": "Keeper of the royal vineyard",
+          "correct": false,
+          "explanation": "That was closer to the butler's old job. Joseph was put in charge of the entire nation."
+        }
+      ]
+    },
+    {
+      "text": "Why did Joseph's brothers travel to Egypt?",
+      "options": [
+        {
+          "text": "To find Joseph and apologize",
+          "correct": false,
+          "explanation": "They had no idea Joseph was alive, let alone ruling Egypt. They came for food."
+        },
+        {
+          "text": "To buy grain because of the famine",
+          "correct": true,
+          "explanation": "Genesis 42 says the famine reached Canaan, so Jacob sent his sons to Egypt to buy grain."
+        },
+        {
+          "text": "To trade with Pharaoh for gold",
+          "correct": false,
+          "explanation": "They came hungry, looking for food, not to trade for riches."
+        },
+        {
+          "text": "To escape a war in Canaan",
+          "correct": false,
+          "explanation": "There was no war. The trouble driving them was the famine."
+        }
+      ]
+    },
+    {
+      "text": "When Joseph finally revealed himself, how did he explain what his brothers had done?",
+      "options": [
+        {
+          "text": "He said God meant it for good, to save many lives",
+          "correct": true,
+          "explanation": "Genesis 50:20 (ASV) reads, \"And as for you, ye meant evil against me; but God meant it for good, to bring to pass, as it is this day, to save much people alive.\""
+        },
+        {
+          "text": "He demanded they repay him in silver",
+          "correct": false,
+          "explanation": "Joseph asked for no payment. He pointed instead to God's purpose in it all."
+        },
+        {
+          "text": "He had them arrested for the crime",
+          "correct": false,
+          "explanation": "Joseph wept and forgave his brothers rather than punishing them."
+        },
+        {
+          "text": "He said he had forgotten the whole thing",
+          "correct": false,
+          "explanation": "Joseph remembered clearly, yet he chose to see God's hand at work for good."
+        }
+      ]
+    },
+    {
+      "text": "Where did Joseph settle his father and brothers when they came to Egypt?",
+      "options": [
+        {
+          "text": "In the land of Goshen",
+          "correct": true,
+          "explanation": "Genesis 47 records that Joseph gave his family the land of Goshen, a good area for their flocks."
+        },
+        {
+          "text": "Inside Pharaoh's palace",
+          "correct": false,
+          "explanation": "The family were shepherds, so they were given grazing land in Goshen rather than the palace."
+        },
+        {
+          "text": "On Mount Sinai",
+          "correct": false,
+          "explanation": "Mount Sinai belongs to the Exodus story under Moses, long after Joseph."
+        },
+        {
+          "text": "In the city of Babel",
+          "correct": false,
+          "explanation": "Babel was far away and far earlier in Genesis. Jacob's family settled in Goshen."
+        }
+      ]
+    },
+    {
+      "text": "How old was Joseph when he died, according to Genesis?",
+      "options": [
+        {
+          "text": "70 years old",
+          "correct": false,
+          "explanation": "Joseph lived longer than that. The text gives a specific number at the close of Genesis."
+        },
+        {
+          "text": "110 years old",
+          "correct": true,
+          "explanation": "Genesis 50:26 says Joseph died being a hundred and ten years old, and was put in a coffin in Egypt."
+        },
+        {
+          "text": "120 years old",
+          "correct": false,
+          "explanation": "Moses lived to 120. Joseph's age at death was a hundred and ten."
+        },
+        {
+          "text": "175 years old",
+          "correct": false,
+          "explanation": "That was Abraham's age at death. Joseph died at a hundred and ten."
+        }
+      ]
+    },
+    {
+      "text": "What did Joseph ask his family to do with his bones?",
+      "options": [
+        {
+          "text": "Bury them beside Pharaoh's tomb",
+          "correct": false,
+          "explanation": "Joseph did not want to stay in Egypt forever. He looked ahead to the land God promised."
+        },
+        {
+          "text": "Carry them up out of Egypt when God brought the people out",
+          "correct": true,
+          "explanation": "Genesis 50:25 says Joseph made the children of Israel swear to carry his bones up from Egypt one day."
+        },
+        {
+          "text": "Scatter them over the Nile",
+          "correct": false,
+          "explanation": "There is no such request in the text. Joseph wanted his bones carried to the promised land."
+        },
+        {
+          "text": "Keep them hidden in Goshen",
+          "correct": false,
+          "explanation": "Joseph was not asking to be hidden. He asked to be brought out when the people left Egypt."
+        }
+      ]
+    },
+    {
+      "text": "Looking back over the whole account, what is the big theme of Joseph's life in Egypt?",
+      "options": [
+        {
+          "text": "Revenge against those who hurt him",
+          "correct": false,
+          "explanation": "Joseph had every chance for revenge and chose forgiveness instead."
+        },
+        {
+          "text": "God's faithfulness and providence through hard seasons",
+          "correct": true,
+          "explanation": "From the pit to prison to the palace, the story shows God staying with Joseph and working through every setback."
+        },
+        {
+          "text": "The importance of building tall towers",
+          "correct": false,
+          "explanation": "That belongs to the tower of Babel, a different chapter entirely."
+        },
+        {
+          "text": "How to win battles in war",
+          "correct": false,
+          "explanation": "Joseph's story is not about warfare. It is about trust, forgiveness, and God's quiet care."
+        }
+      ]
+    }
+  ],
+  "scoring": {
+    "perfectMessage": "From the pit to the palace, you know it all!",
+    "gradeBands": [
+      {
+        "min": 0,
+        "max": 39,
+        "label": "Just Starting",
+        "message": "Joseph's story is waiting for you. Give it a read."
+      },
+      {
+        "min": 40,
+        "max": 69,
+        "label": "Getting There",
+        "message": "You know the broad strokes. A reread will fill in the rest."
+      },
+      {
+        "min": 70,
+        "max": 89,
+        "label": "Well Studied",
+        "message": "You clearly know Joseph's journey well."
+      },
+      {
+        "min": 90,
+        "max": 100,
+        "label": "Egypt Expert",
+        "message": "Outstanding. Few know Joseph's story like you do."
+      }
+    ]
+  },
+  "theme": "bible-knowledge"
+}

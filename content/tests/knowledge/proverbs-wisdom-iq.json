@@ -1,0 +1,341 @@
+{
+  "slug": "proverbs-wisdom-iq",
+  "title": "Proverbs Wisdom IQ",
+  "subtitle": "Can you tell a real Proverb from a clever lookalike?",
+  "lang": "en",
+  "category": "bible-iq",
+  "estimatedMinutes": 5,
+  "mode": "knowledge",
+  "questions": [
+    {
+      "text": "Who is traditionally credited with most of the book of Proverbs?",
+      "options": [
+        {
+          "text": "Solomon",
+          "correct": true,
+          "explanation": "Proverbs 1:1 opens with \"The proverbs of Solomon the son of David, king of Israel.\" Solomon is the figure most tied to the book."
+        },
+        {
+          "text": "Moses",
+          "correct": false,
+          "explanation": "Moses is connected with the first five books of the Bible, not the book of Proverbs."
+        },
+        {
+          "text": "David",
+          "correct": false,
+          "explanation": "David, Solomon's father, is mostly tied to the Psalms. Proverbs is credited largely to Solomon."
+        },
+        {
+          "text": "Paul",
+          "correct": false,
+          "explanation": "Paul wrote letters in the New Testament, long after Proverbs was written."
+        }
+      ]
+    },
+    {
+      "text": "Complete this well known Proverb: \"Trust in Jehovah with all thy heart, and ...\"",
+      "options": [
+        {
+          "text": "\"lean not upon thine own understanding\"",
+          "correct": true,
+          "explanation": "Proverbs 3:5 (ASV) reads, \"Trust in Jehovah with all thy heart, and lean not upon thine own understanding.\""
+        },
+        {
+          "text": "\"all your dreams will surely come true\"",
+          "correct": false,
+          "explanation": "This sounds nice, but it is not in Proverbs. The verse calls us not to lean on our own understanding."
+        },
+        {
+          "text": "\"work hard and success will follow\"",
+          "correct": false,
+          "explanation": "That is a modern saying, not the words of Proverbs 3:5."
+        },
+        {
+          "text": "\"never let anyone hold you back\"",
+          "correct": false,
+          "explanation": "This is a common motivational line, not Scripture. The real verse points us away from our own understanding."
+        }
+      ]
+    },
+    {
+      "text": "Which of these is an actual teaching found in the book of Proverbs?",
+      "options": [
+        {
+          "text": "\"God helps those who help themselves\"",
+          "correct": false,
+          "explanation": "This is a popular saying often mistaken for Scripture, but it is not in Proverbs or anywhere in the Bible."
+        },
+        {
+          "text": "\"A soft answer turneth away wrath\"",
+          "correct": true,
+          "explanation": "Proverbs 15:1 (ASV) reads, \"A soft answer turneth away wrath; but a grievous word stirreth up anger.\""
+        },
+        {
+          "text": "\"Everything happens for a reason\"",
+          "correct": false,
+          "explanation": "This is a modern phrase, not a Proverb. The genuine teaching speaks of a soft answer turning away wrath."
+        },
+        {
+          "text": "\"Follow your heart wherever it leads\"",
+          "correct": false,
+          "explanation": "Proverbs actually warns about trusting our own hearts. This saying is not in the book."
+        }
+      ]
+    },
+    {
+      "text": "According to Proverbs, what is the beginning of knowledge?",
+      "options": [
+        {
+          "text": "Hard work and study",
+          "correct": false,
+          "explanation": "Effort matters, but Proverbs points to something deeper as the starting place."
+        },
+        {
+          "text": "The fear of Jehovah",
+          "correct": true,
+          "explanation": "Proverbs 1:7 (ASV) reads, \"The fear of Jehovah is the beginning of knowledge.\""
+        },
+        {
+          "text": "A good education",
+          "correct": false,
+          "explanation": "Schooling has value, yet Proverbs names the fear of Jehovah as the beginning of knowledge."
+        },
+        {
+          "text": "Believing in yourself",
+          "correct": false,
+          "explanation": "That is a modern idea, not the teaching of Proverbs, which points to the fear of Jehovah."
+        }
+      ]
+    },
+    {
+      "text": "Complete this Proverb: \"Pride goeth before destruction, and ...\"",
+      "options": [
+        {
+          "text": "\"a haughty spirit before a fall\"",
+          "correct": true,
+          "explanation": "Proverbs 16:18 (ASV) reads, \"Pride goeth before destruction, and a haughty spirit before a fall.\""
+        },
+        {
+          "text": "\"the humble shall inherit wealth\"",
+          "correct": false,
+          "explanation": "That is not how the verse ends. It speaks of a haughty spirit before a fall."
+        },
+        {
+          "text": "\"trouble follows close behind\"",
+          "correct": false,
+          "explanation": "This is a paraphrase at best. The actual line is about a haughty spirit before a fall."
+        },
+        {
+          "text": "\"only fools refuse to listen\"",
+          "correct": false,
+          "explanation": "Proverbs does talk about fools elsewhere, but this verse ends with a haughty spirit before a fall."
+        }
+      ]
+    },
+    {
+      "text": "Which saying is NOT from the book of Proverbs?",
+      "options": [
+        {
+          "text": "\"A good name is rather to be chosen than great riches\"",
+          "correct": false,
+          "explanation": "This one is real. Proverbs 22:1 (ASV) reads, \"A good name is rather to be chosen than great riches.\""
+        },
+        {
+          "text": "\"Honesty is the best policy\"",
+          "correct": true,
+          "explanation": "This common proverb is not from the Bible. Scripture values honesty, but this exact saying is not in the book of Proverbs."
+        },
+        {
+          "text": "\"He that spareth his rod hateth his son\"",
+          "correct": false,
+          "explanation": "This is genuine. Proverbs 13:24 (ASV) begins, \"He that spareth his rod hateth his son.\""
+        },
+        {
+          "text": "\"A merry heart doeth good like a medicine\"",
+          "correct": false,
+          "explanation": "This one is real too. Proverbs 17:22 (ASV) reads, \"A cheerful heart is a good medicine,\" rendered in older wording as a merry heart doing good like a medicine."
+        }
+      ]
+    },
+    {
+      "text": "Proverbs urges the lazy person to learn from which small creature?",
+      "options": [
+        {
+          "text": "The ant",
+          "correct": true,
+          "explanation": "Proverbs 6:6 (ASV) reads, \"Go to the ant, thou sluggard; consider her ways, and be wise.\""
+        },
+        {
+          "text": "The sparrow",
+          "correct": false,
+          "explanation": "Sparrows appear elsewhere in Scripture, but Proverbs points the sluggard to the ant."
+        },
+        {
+          "text": "The bee",
+          "correct": false,
+          "explanation": "The bee is a fine example of industry, yet the verse names the ant."
+        },
+        {
+          "text": "The spider",
+          "correct": false,
+          "explanation": "The spider is mentioned in Proverbs in another place, but the sluggard is told to consider the ant."
+        }
+      ]
+    },
+    {
+      "text": "What does Proverbs say about a friend's loyalty in hard times?",
+      "options": [
+        {
+          "text": "\"A friend loveth at all times\"",
+          "correct": true,
+          "explanation": "Proverbs 17:17 (ASV) reads, \"A friend loveth at all times; and a brother is born for adversity.\""
+        },
+        {
+          "text": "\"True friends are impossible to find\"",
+          "correct": false,
+          "explanation": "Proverbs is more hopeful than that. It says a friend loves at all times."
+        },
+        {
+          "text": "\"Keep your circle small and trust no one\"",
+          "correct": false,
+          "explanation": "This is a modern saying, not Proverbs, which speaks of a friend who loves at all times."
+        },
+        {
+          "text": "\"A friend is only as good as their last favor\"",
+          "correct": false,
+          "explanation": "That cynical line is not in the book. Proverbs says a friend loves at all times."
+        }
+      ]
+    },
+    {
+      "text": "Complete this Proverb about raising children: \"Train up a child in the way he should go, and ...\"",
+      "options": [
+        {
+          "text": "\"when he is old, he will not depart from it\"",
+          "correct": true,
+          "explanation": "Proverbs 22:6 (ASV) reads, \"Train up a child in the way he should go, And even when he is old he will not depart from it.\""
+        },
+        {
+          "text": "\"he will make you proud one day\"",
+          "correct": false,
+          "explanation": "That is not the verse. It says that when he is old he will not depart from it."
+        },
+        {
+          "text": "\"he will choose his own path in time\"",
+          "correct": false,
+          "explanation": "This is a modern sentiment, not the words of Proverbs 22:6."
+        },
+        {
+          "text": "\"the world will treat him kindly\"",
+          "correct": false,
+          "explanation": "The verse makes no such promise. It speaks of the child not departing from the way when he is old."
+        }
+      ]
+    },
+    {
+      "text": "How does Proverbs describe the path of the righteous?",
+      "options": [
+        {
+          "text": "Like a stormy sea that never settles",
+          "correct": false,
+          "explanation": "That is not the image used. Proverbs compares the righteous path to growing light."
+        },
+        {
+          "text": "Like the dawning light that shines brighter and brighter",
+          "correct": true,
+          "explanation": "Proverbs 4:18 (ASV) reads, \"But the path of the righteous is as the dawning light, that shineth more and more unto the perfect day.\""
+        },
+        {
+          "text": "Like a road that always stays the same",
+          "correct": false,
+          "explanation": "The picture is of growing brightness, not a road that never changes."
+        },
+        {
+          "text": "Like a candle that quickly burns out",
+          "correct": false,
+          "explanation": "Proverbs paints the opposite. The righteous path shines more and more unto the perfect day."
+        }
+      ]
+    },
+    {
+      "text": "Proverbs says, \"A good name is rather to be chosen than ...\" what?",
+      "options": [
+        {
+          "text": "Great riches",
+          "correct": true,
+          "explanation": "Proverbs 22:1 (ASV) reads, \"A good name is rather to be chosen than great riches, and loving favor rather than silver and gold.\""
+        },
+        {
+          "text": "A long life",
+          "correct": false,
+          "explanation": "The verse compares a good name to riches, not to length of days."
+        },
+        {
+          "text": "Many friends",
+          "correct": false,
+          "explanation": "Friends are valued elsewhere, but this verse sets a good name above great riches."
+        },
+        {
+          "text": "High position",
+          "correct": false,
+          "explanation": "The contrast in the verse is with great riches, not with rank or position."
+        }
+      ]
+    },
+    {
+      "text": "What is the main purpose of the book of Proverbs?",
+      "options": [
+        {
+          "text": "To record the history of Israel's kings",
+          "correct": false,
+          "explanation": "History is told in other books. Proverbs is a book of wisdom for daily living."
+        },
+        {
+          "text": "To give wisdom and instruction for living well",
+          "correct": true,
+          "explanation": "Proverbs opens by stating it is written to know wisdom and instruction, and to guide people in living wisely."
+        },
+        {
+          "text": "To list the laws given at Mount Sinai",
+          "correct": false,
+          "explanation": "The Law is found in earlier books. Proverbs offers practical wisdom rather than the Sinai laws."
+        },
+        {
+          "text": "To predict events in the last days",
+          "correct": false,
+          "explanation": "Prophecy of the end appears in other books. Proverbs is focused on wisdom for everyday life."
+        }
+      ]
+    }
+  ],
+  "scoring": {
+    "perfectMessage": "Wise as Solomon himself!",
+    "gradeBands": [
+      {
+        "min": 0,
+        "max": 39,
+        "label": "Just Starting",
+        "message": "Proverbs is full of wisdom worth knowing. Start reading."
+      },
+      {
+        "min": 40,
+        "max": 69,
+        "label": "Growing Wiser",
+        "message": "You know some real Proverbs from the lookalikes. Keep going."
+      },
+      {
+        "min": 70,
+        "max": 89,
+        "label": "Quite Wise",
+        "message": "You know the book of Proverbs well."
+      },
+      {
+        "min": 90,
+        "max": 100,
+        "label": "Wisdom Expert",
+        "message": "Outstanding. You can spot a real Proverb every time."
+      }
+    ]
+  },
+  "theme": "bible-knowledge"
+}

@@ -1,0 +1,316 @@
+{
+  "slug": "jesus-parables-iq",
+  "title": "Parables of Jesus IQ",
+  "subtitle": "The lost sheep, the prodigal son, the sower. How well do you know the stories Jesus told?",
+  "lang": "en",
+  "category": "bible-iq",
+  "theme": "bible-knowledge",
+  "estimatedMinutes": 5,
+  "mode": "knowledge",
+  "questions": [
+    {
+      "text": "In the parable of the Good Samaritan, who passed by the wounded man before the Samaritan stopped to help?",
+      "options": [
+        {
+          "text": "A priest and a Levite",
+          "correct": true,
+          "explanation": "In Luke 10:31-32 both a priest and a Levite saw the man and passed by on the other side."
+        },
+        {
+          "text": "A soldier and a tax collector",
+          "correct": false,
+          "explanation": "No soldier or tax collector appears in this parable. It was a priest and a Levite."
+        },
+        {
+          "text": "Two fishermen",
+          "correct": false,
+          "explanation": "Fishermen are not part of this story. The ones who passed by were a priest and a Levite."
+        },
+        {
+          "text": "A Pharisee and a scribe",
+          "correct": false,
+          "explanation": "Though Jesus told the parable to a lawyer, the men who walked past were a priest and a Levite."
+        }
+      ]
+    },
+    {
+      "text": "In the parable of the prodigal son, how did the father respond when his lost son came home?",
+      "options": [
+        {
+          "text": "He turned him away",
+          "correct": false,
+          "explanation": "The father did the opposite. He welcomed his son with open arms."
+        },
+        {
+          "text": "He ran to him and threw a feast",
+          "correct": true,
+          "explanation": "In Luke 15:20-23 the father ran to his son, kissed him, and killed the fatted calf to celebrate."
+        },
+        {
+          "text": "He made him work off his debt",
+          "correct": false,
+          "explanation": "The son offered to be a servant, but the father restored him as a son instead."
+        },
+        {
+          "text": "He sent him to live with the servants",
+          "correct": false,
+          "explanation": "The father put a robe and ring on him and treated him as a son, not a servant."
+        }
+      ]
+    },
+    {
+      "text": "In the parable of the sower, what happened to the seed that fell on rocky ground?",
+      "options": [
+        {
+          "text": "The birds ate it at once",
+          "correct": false,
+          "explanation": "The birds ate the seed that fell by the wayside, not the seed on rocky ground."
+        },
+        {
+          "text": "It sprang up fast but withered when the sun came up",
+          "correct": true,
+          "explanation": "In Matthew 13:5-6 the seed on stony ground sprang up quickly but had no root, so the sun scorched it."
+        },
+        {
+          "text": "It was choked by thorns",
+          "correct": false,
+          "explanation": "The thorns choked the seed that fell among them, not the seed on rocky ground."
+        },
+        {
+          "text": "It produced a hundredfold",
+          "correct": false,
+          "explanation": "Only the seed on good ground produced a great harvest."
+        }
+      ]
+    },
+    {
+      "text": "In the parable of the lost sheep, how many sheep did the shepherd leave to find the one that wandered off?",
+      "options": [
+        {
+          "text": "Ninety-nine",
+          "correct": true,
+          "explanation": "In Luke 15:4 the shepherd leaves the ninety and nine to go after the one that is lost."
+        },
+        {
+          "text": "Forty-nine",
+          "correct": false,
+          "explanation": "The number in the parable is ninety-nine, not forty-nine."
+        },
+        {
+          "text": "Twelve",
+          "correct": false,
+          "explanation": "Twelve points to the disciples, not the flock in this parable."
+        },
+        {
+          "text": "Seventy",
+          "correct": false,
+          "explanation": "Seventy were sent out in another passage, but the flock here numbered ninety-nine."
+        }
+      ]
+    },
+    {
+      "text": "In the parable of the mustard seed, what does the tiny seed grow into?",
+      "options": [
+        {
+          "text": "A field of wheat",
+          "correct": false,
+          "explanation": "Wheat belongs to a different parable. The mustard seed becomes a tree."
+        },
+        {
+          "text": "A great tree where birds rest in its branches",
+          "correct": true,
+          "explanation": "In Matthew 13:32 the smallest of seeds grows into a tree, and the birds come and lodge in its branches."
+        },
+        {
+          "text": "A vine full of grapes",
+          "correct": false,
+          "explanation": "The vine is its own picture in John 15. Here the mustard seed grows into a tree."
+        },
+        {
+          "text": "A patch of thorns",
+          "correct": false,
+          "explanation": "Thorns appear in the parable of the sower, not here. The mustard seed becomes a tree."
+        }
+      ]
+    },
+    {
+      "text": "In the parable of the ten virgins, what did the five wise ones bring that the foolish ones forgot?",
+      "options": [
+        {
+          "text": "Extra oil for their lamps",
+          "correct": true,
+          "explanation": "In Matthew 25:4 the wise took oil in their vessels with their lamps, but the foolish did not."
+        },
+        {
+          "text": "Gifts for the bridegroom",
+          "correct": false,
+          "explanation": "The parable is about readiness, not gifts. The wise brought extra oil."
+        },
+        {
+          "text": "Their wedding garments",
+          "correct": false,
+          "explanation": "A wedding garment appears in a different parable. Here the key item was oil."
+        },
+        {
+          "text": "Bread for the feast",
+          "correct": false,
+          "explanation": "No bread is mentioned. The wise virgins brought extra oil for their lamps."
+        }
+      ]
+    },
+    {
+      "text": "In the parable of the talents, what did the servant who received one talent do with it?",
+      "options": [
+        {
+          "text": "He doubled it through trade",
+          "correct": false,
+          "explanation": "The servants with five and two talents doubled theirs. The one-talent servant did not."
+        },
+        {
+          "text": "He gave it to the poor",
+          "correct": false,
+          "explanation": "The parable does not say he gave it away. He hid it."
+        },
+        {
+          "text": "He buried it in the ground",
+          "correct": true,
+          "explanation": "In Matthew 25:18 the servant dug in the earth and hid his lord's money."
+        },
+        {
+          "text": "He lost it to thieves",
+          "correct": false,
+          "explanation": "No thieves took it. He buried it himself out of fear."
+        }
+      ]
+    },
+    {
+      "text": "What is the main point Jesus made with the parable of the unforgiving servant?",
+      "options": [
+        {
+          "text": "Save your money carefully",
+          "correct": false,
+          "explanation": "This parable is about mercy, not money management."
+        },
+        {
+          "text": "Forgive others as you have been forgiven",
+          "correct": true,
+          "explanation": "In Matthew 18:32-35 the servant was forgiven a huge debt but refused to forgive a small one, and Jesus warned us to forgive from the heart."
+        },
+        {
+          "text": "Work harder than your neighbor",
+          "correct": false,
+          "explanation": "The parable is not about working hard. It is about showing mercy."
+        },
+        {
+          "text": "Always obey the king",
+          "correct": false,
+          "explanation": "The lesson is about forgiveness toward others, not simply obeying authority."
+        }
+      ]
+    },
+    {
+      "text": "In the parable of the wheat and the tares, what did the owner tell his servants to do with the weeds growing among the wheat?",
+      "options": [
+        {
+          "text": "Pull them up right away",
+          "correct": false,
+          "explanation": "The owner said not to pull them yet, in case the wheat came up with them."
+        },
+        {
+          "text": "Let both grow together until the harvest",
+          "correct": true,
+          "explanation": "In Matthew 13:30 the owner says to let both grow together, then separate them at harvest time."
+        },
+        {
+          "text": "Burn the whole field",
+          "correct": false,
+          "explanation": "Only the tares were to be burned, and only at the harvest, not the whole field."
+        },
+        {
+          "text": "Replant the field with new seed",
+          "correct": false,
+          "explanation": "There was no replanting. The owner let the wheat and tares grow until harvest."
+        }
+      ]
+    },
+    {
+      "text": "In the parable of the pearl of great price, what did the merchant do to obtain the one valuable pearl?",
+      "options": [
+        {
+          "text": "He sold all that he had to buy it",
+          "correct": true,
+          "explanation": "In Matthew 13:46 the merchant found one pearl of great price and sold all he had to buy it."
+        },
+        {
+          "text": "He traded a field for it",
+          "correct": false,
+          "explanation": "A field shows up in the parable just before this one. The merchant sold everything for the pearl."
+        },
+        {
+          "text": "He found it for free in a net",
+          "correct": false,
+          "explanation": "The net belongs to a different parable. The merchant paid everything for the pearl."
+        },
+        {
+          "text": "He borrowed money to buy it",
+          "correct": false,
+          "explanation": "He did not borrow. He sold all he owned to gain the pearl."
+        }
+      ]
+    },
+    {
+      "text": "Why did Jesus often teach the crowds using parables?",
+      "options": [
+        {
+          "text": "Because He could not speak plainly",
+          "correct": false,
+          "explanation": "Jesus could speak plainly. He chose parables on purpose to reveal truth to those ready to hear."
+        },
+        {
+          "text": "To teach spiritual truths through everyday stories",
+          "correct": true,
+          "explanation": "Jesus used familiar pictures like seeds, sheep, and coins to open up the truths of the kingdom (Matthew 13:34-35)."
+        },
+        {
+          "text": "To entertain the Roman officials",
+          "correct": false,
+          "explanation": "His parables were not entertainment for officials. They taught the truths of God's kingdom."
+        },
+        {
+          "text": "Because the law required it",
+          "correct": false,
+          "explanation": "No law required parables. Jesus used them as a way to teach deep truth simply."
+        }
+      ]
+    }
+  ],
+  "scoring": {
+    "perfectMessage": "Perfect. You know the stories Jesus told by heart.",
+    "gradeBands": [
+      {
+        "min": 0,
+        "max": 39,
+        "label": "New Listener",
+        "message": "The parables reward a slow, careful read. Dive back in."
+      },
+      {
+        "min": 40,
+        "max": 69,
+        "label": "Following Along",
+        "message": "You know the famous ones. Keep exploring the rest."
+      },
+      {
+        "min": 70,
+        "max": 89,
+        "label": "Close Reader",
+        "message": "You know these stories well. Well done."
+      },
+      {
+        "min": 90,
+        "max": 100,
+        "label": "Storyteller",
+        "message": "You could retell every one of these parables yourself."
+      }
+    ]
+  }
+}

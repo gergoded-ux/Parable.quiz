@@ -1,0 +1,316 @@
+{
+  "slug": "how-well-do-you-know-the-ten-commandments",
+  "title": "How Well Do You Know the Ten Commandments?",
+  "subtitle": "Ten rules, one mountain, and a whole lot of history.",
+  "lang": "en",
+  "category": "bible-iq",
+  "theme": "bible-knowledge",
+  "estimatedMinutes": 5,
+  "mode": "knowledge",
+  "questions": [
+    {
+      "text": "On which mountain did God give Moses the Ten Commandments?",
+      "options": [
+        {
+          "text": "Mount Sinai",
+          "correct": true,
+          "explanation": "Exodus 19 and 20 place the giving of the Law at Mount Sinai, where God came down in fire and smoke."
+        },
+        {
+          "text": "Mount Carmel",
+          "correct": false,
+          "explanation": "Mount Carmel is where Elijah faced the prophets of Baal, long after Moses."
+        },
+        {
+          "text": "Mount Ararat",
+          "correct": false,
+          "explanation": "Mount Ararat is where Noah's ark came to rest, not where the Law was given."
+        },
+        {
+          "text": "Mount of Olives",
+          "correct": false,
+          "explanation": "The Mount of Olives belongs to the Gospels and the life of Jesus."
+        }
+      ]
+    },
+    {
+      "text": "What were the Ten Commandments written on?",
+      "options": [
+        {
+          "text": "A scroll of papyrus",
+          "correct": false,
+          "explanation": "They were not written on a scroll. They were carved into stone."
+        },
+        {
+          "text": "Two tablets of stone",
+          "correct": true,
+          "explanation": "Exodus 31:18 says God gave Moses two tables of stone, written with the finger of God."
+        },
+        {
+          "text": "A bronze plate",
+          "correct": false,
+          "explanation": "There was no bronze plate. The commandments were on stone tablets."
+        },
+        {
+          "text": "The walls of the tabernacle",
+          "correct": false,
+          "explanation": "The tabernacle came later, and the commandments were carried inside it on stone tablets."
+        }
+      ]
+    },
+    {
+      "text": "What is the first commandment?",
+      "options": [
+        {
+          "text": "Thou shalt not steal",
+          "correct": false,
+          "explanation": "That command comes later in the list, not first."
+        },
+        {
+          "text": "Thou shalt have no other gods before me",
+          "correct": true,
+          "explanation": "Exodus 20:3 says, \"Thou shalt have no other gods before me\" (ASV)."
+        },
+        {
+          "text": "Honour thy father and thy mother",
+          "correct": false,
+          "explanation": "Honoring parents is a commandment, but it is not the first one."
+        },
+        {
+          "text": "Remember the sabbath day",
+          "correct": false,
+          "explanation": "The sabbath command is important, but it is not the first."
+        }
+      ]
+    },
+    {
+      "text": "Which commandment forbids making and bowing down to idols or carved images?",
+      "options": [
+        {
+          "text": "The second commandment",
+          "correct": true,
+          "explanation": "Exodus 20:4-5 forbids making a graven image and bowing down to it, which is the second commandment."
+        },
+        {
+          "text": "The fifth commandment",
+          "correct": false,
+          "explanation": "The fifth commandment is about honoring father and mother, not idols."
+        },
+        {
+          "text": "The eighth commandment",
+          "correct": false,
+          "explanation": "The eighth commandment is about not stealing."
+        },
+        {
+          "text": "The tenth commandment",
+          "correct": false,
+          "explanation": "The tenth commandment is about coveting, not making idols."
+        }
+      ]
+    },
+    {
+      "text": "The commandment about the sabbath day tells the people to do what?",
+      "options": [
+        {
+          "text": "Keep it holy and rest from work",
+          "correct": true,
+          "explanation": "Exodus 20:8-10 says to remember the sabbath, keep it holy, and do no work on it."
+        },
+        {
+          "text": "Offer a lamb every morning",
+          "correct": false,
+          "explanation": "Daily offerings were part of other laws. The sabbath command was about rest."
+        },
+        {
+          "text": "Travel to the temple",
+          "correct": false,
+          "explanation": "The command was to rest and keep the day holy, not to travel anywhere."
+        },
+        {
+          "text": "Fast for the whole day",
+          "correct": false,
+          "explanation": "The sabbath was about rest, not fasting."
+        }
+      ]
+    },
+    {
+      "text": "Which commandment comes with a promise of long life?",
+      "options": [
+        {
+          "text": "Thou shalt not kill",
+          "correct": false,
+          "explanation": "This command is vital, but it does not carry the promise of long days in the land."
+        },
+        {
+          "text": "Honour thy father and thy mother",
+          "correct": true,
+          "explanation": "Exodus 20:12 says to honor your father and mother, that your days may be long in the land."
+        },
+        {
+          "text": "Thou shalt not steal",
+          "correct": false,
+          "explanation": "This command stands on its own without the promise of long life."
+        },
+        {
+          "text": "Thou shalt not covet",
+          "correct": false,
+          "explanation": "The promise of long life is tied to honoring parents, not to coveting."
+        }
+      ]
+    },
+    {
+      "text": "Which of these is one of the Ten Commandments?",
+      "options": [
+        {
+          "text": "Thou shalt not lie with thy neighbor's ox",
+          "correct": false,
+          "explanation": "That is not a commandment. The list says do not covet your neighbor's possessions, including his ox."
+        },
+        {
+          "text": "Thou shalt not bear false witness against thy neighbour",
+          "correct": true,
+          "explanation": "Exodus 20:16 says, \"Thou shalt not bear false witness against thy neighbor\" (ASV)."
+        },
+        {
+          "text": "Thou shalt give a tenth of all thou hast",
+          "correct": false,
+          "explanation": "Tithing appears elsewhere in the Law, but it is not one of the ten."
+        },
+        {
+          "text": "Thou shalt love thy neighbor as thyself",
+          "correct": false,
+          "explanation": "That command is from Leviticus 19:18 and was quoted by Jesus, but it is not in the list of ten."
+        }
+      ]
+    },
+    {
+      "text": "Which command warns against wrongly using the name of God?",
+      "options": [
+        {
+          "text": "Thou shalt not take the name of the LORD thy God in vain",
+          "correct": true,
+          "explanation": "Exodus 20:7 says not to take the name of the LORD your God in vain."
+        },
+        {
+          "text": "Thou shalt not commit adultery",
+          "correct": false,
+          "explanation": "Adultery is its own commandment and is not about God's name."
+        },
+        {
+          "text": "Thou shalt not steal",
+          "correct": false,
+          "explanation": "Stealing is a separate commandment with nothing to do with God's name."
+        },
+        {
+          "text": "Remember the sabbath day",
+          "correct": false,
+          "explanation": "The sabbath command is about resting, not about the use of God's name."
+        }
+      ]
+    },
+    {
+      "text": "The tenth commandment is about which sin of the heart?",
+      "options": [
+        {
+          "text": "Pride",
+          "correct": false,
+          "explanation": "Pride is a sin Scripture warns about, but the tenth commandment names a different one."
+        },
+        {
+          "text": "Coveting what belongs to your neighbor",
+          "correct": true,
+          "explanation": "Exodus 20:17 says not to covet your neighbor's house, wife, servants, or anything that is his."
+        },
+        {
+          "text": "Anger",
+          "correct": false,
+          "explanation": "Anger is addressed elsewhere, but the tenth commandment is about coveting."
+        },
+        {
+          "text": "Laziness",
+          "correct": false,
+          "explanation": "Laziness is not the subject. The tenth commandment forbids coveting."
+        }
+      ]
+    },
+    {
+      "text": "What did Moses do with the first set of tablets when he came down and saw the golden calf?",
+      "options": [
+        {
+          "text": "He hid them in the ark",
+          "correct": false,
+          "explanation": "He did not hide them. In his anger he broke them."
+        },
+        {
+          "text": "He broke them",
+          "correct": true,
+          "explanation": "Exodus 32:19 says Moses' anger waxed hot, and he cast the tables out of his hands and brake them at the foot of the mount."
+        },
+        {
+          "text": "He read them aloud to the people",
+          "correct": false,
+          "explanation": "He did not read them first. Seeing the calf, he threw the tablets down and broke them."
+        },
+        {
+          "text": "He gave them to Aaron",
+          "correct": false,
+          "explanation": "He did not hand them to Aaron. He shattered them in anger over the calf."
+        }
+      ]
+    },
+    {
+      "text": "After the first tablets were broken, where did the second set end up being kept?",
+      "options": [
+        {
+          "text": "In the ark of the covenant",
+          "correct": true,
+          "explanation": "Deuteronomy 10:5 says Moses put the tables in the ark he had made, and there they remained."
+        },
+        {
+          "text": "On the altar of incense",
+          "correct": false,
+          "explanation": "The altar of incense had its own purpose. The tablets went into the ark."
+        },
+        {
+          "text": "In Moses' tent",
+          "correct": false,
+          "explanation": "They were not stored in a tent. They were placed in the ark of the covenant."
+        },
+        {
+          "text": "Buried at Mount Sinai",
+          "correct": false,
+          "explanation": "Nothing was buried at Sinai. The tablets were carried in the ark."
+        }
+      ]
+    }
+  ],
+  "scoring": {
+    "perfectMessage": "A perfect score. You know all ten by heart.",
+    "gradeBands": [
+      {
+        "min": 0,
+        "max": 39,
+        "label": "Seeker",
+        "message": "Worth a fresh look. You can read the whole list in Exodus 20."
+      },
+      {
+        "min": 40,
+        "max": 69,
+        "label": "Student",
+        "message": "You know the big ideas. A little more reading and the order will stick."
+      },
+      {
+        "min": 70,
+        "max": 89,
+        "label": "Scholar",
+        "message": "You know the commandments well. Solid work."
+      },
+      {
+        "min": 90,
+        "max": 100,
+        "label": "Sage",
+        "message": "Few know the Law this well. Wonderfully done."
+      }
+    ]
+  }
+}

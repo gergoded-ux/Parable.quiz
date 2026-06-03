@@ -1,0 +1,316 @@
+{
+  "slug": "how-well-do-you-know-moses",
+  "title": "How Well Do You Know Moses?",
+  "subtitle": "From the basket to the burning bush to the Promised Land.",
+  "lang": "en",
+  "category": "bible-iq",
+  "estimatedMinutes": 5,
+  "mode": "knowledge",
+  "questions": [
+    {
+      "text": "As a baby, where was Moses hidden to save his life?",
+      "options": [
+        {
+          "text": "In a cave",
+          "correct": false,
+          "explanation": "Caves shelter others in the Bible, but baby Moses was hidden in the river."
+        },
+        {
+          "text": "In a basket among the reeds of the Nile",
+          "correct": true,
+          "explanation": "His mother placed him in a basket coated with pitch and set it among the reeds (Exodus 2:3)."
+        },
+        {
+          "text": "In a temple",
+          "correct": false,
+          "explanation": "There was no temple yet in Moses' day, and he was hidden by the river."
+        },
+        {
+          "text": "In a well",
+          "correct": false,
+          "explanation": "Wells matter in other Bible stories, but Moses was floated on the Nile in a basket."
+        }
+      ]
+    },
+    {
+      "text": "Who found baby Moses and raised him?",
+      "options": [
+        {
+          "text": "An Egyptian farmer",
+          "correct": false,
+          "explanation": "Moses grew up in the palace, not on a farm."
+        },
+        {
+          "text": "Pharaoh's daughter",
+          "correct": true,
+          "explanation": "Pharaoh's daughter found him at the river and raised him as her own son (Exodus 2:5-10)."
+        },
+        {
+          "text": "His brother Aaron",
+          "correct": false,
+          "explanation": "Aaron was Moses' brother, but a princess drew him from the water."
+        },
+        {
+          "text": "A shepherd in Midian",
+          "correct": false,
+          "explanation": "Moses met shepherds in Midian much later, as a grown man fleeing Egypt."
+        }
+      ]
+    },
+    {
+      "text": "From what did God speak to call Moses to lead Israel?",
+      "options": [
+        {
+          "text": "A pillar of cloud",
+          "correct": false,
+          "explanation": "The pillar of cloud led Israel later in the wilderness, after the exodus began."
+        },
+        {
+          "text": "A whirlwind",
+          "correct": false,
+          "explanation": "God spoke to Job from a whirlwind, but Moses was called from a bush."
+        },
+        {
+          "text": "A burning bush",
+          "correct": true,
+          "explanation": "The bush was on fire yet not burned up, and God called to Moses from inside it (Exodus 3:2-4)."
+        },
+        {
+          "text": "A bright star",
+          "correct": false,
+          "explanation": "A star guided the wise men to Jesus, not Moses to his calling."
+        }
+      ]
+    },
+    {
+      "text": "Who did God send to be Moses' spokesman before Pharaoh?",
+      "options": [
+        {
+          "text": "Aaron, his brother",
+          "correct": true,
+          "explanation": "Moses felt slow of speech, so God sent his brother Aaron to speak for him (Exodus 4:14-16)."
+        },
+        {
+          "text": "Joshua",
+          "correct": false,
+          "explanation": "Joshua was Moses' helper and successor, but Aaron was the spokesman."
+        },
+        {
+          "text": "Miriam",
+          "correct": false,
+          "explanation": "Miriam was Moses' sister and a prophetess, but Aaron spoke before Pharaoh."
+        },
+        {
+          "text": "Caleb",
+          "correct": false,
+          "explanation": "Caleb was a faithful spy later on, not Moses' spokesman."
+        }
+      ]
+    },
+    {
+      "text": "How many plagues did God send on Egypt?",
+      "options": [
+        {
+          "text": "Seven",
+          "correct": false,
+          "explanation": "Seven is close, but the full count of plagues was higher."
+        },
+        {
+          "text": "Ten",
+          "correct": true,
+          "explanation": "Ten plagues struck Egypt, ending with the death of the firstborn (Exodus 7 through 12)."
+        },
+        {
+          "text": "Twelve",
+          "correct": false,
+          "explanation": "Twelve matters for the tribes of Israel, but the plagues numbered ten."
+        },
+        {
+          "text": "Three",
+          "correct": false,
+          "explanation": "There were far more than three. Egypt suffered ten plagues in all."
+        }
+      ]
+    },
+    {
+      "text": "What was the final plague that made Pharaoh let Israel go?",
+      "options": [
+        {
+          "text": "Locusts",
+          "correct": false,
+          "explanation": "Locusts were one of the plagues, but not the last one."
+        },
+        {
+          "text": "Hail",
+          "correct": false,
+          "explanation": "Hail came earlier in the sequence, not at the end."
+        },
+        {
+          "text": "The death of the firstborn",
+          "correct": true,
+          "explanation": "The tenth plague struck down the firstborn of Egypt, and that is when Pharaoh let Israel go (Exodus 12:29-31)."
+        },
+        {
+          "text": "Frogs",
+          "correct": false,
+          "explanation": "Frogs were an early plague, far from the final one."
+        }
+      ]
+    },
+    {
+      "text": "What body of water did God part so Israel could escape Egypt on dry ground?",
+      "options": [
+        {
+          "text": "The Jordan River",
+          "correct": false,
+          "explanation": "The Jordan was parted later, under Joshua, as Israel entered the Promised Land."
+        },
+        {
+          "text": "The Red Sea",
+          "correct": true,
+          "explanation": "God parted the Red Sea, and Israel walked across on dry ground (Exodus 14:21-22)."
+        },
+        {
+          "text": "The Sea of Galilee",
+          "correct": false,
+          "explanation": "The Sea of Galilee belongs to the Gospel stories of Jesus, not the exodus."
+        },
+        {
+          "text": "The Dead Sea",
+          "correct": false,
+          "explanation": "The Dead Sea is not where the crossing happened. It was the Red Sea."
+        }
+      ]
+    },
+    {
+      "text": "On what mountain did Moses receive the Ten Commandments?",
+      "options": [
+        {
+          "text": "Mount Carmel",
+          "correct": false,
+          "explanation": "Mount Carmel is where Elijah faced the prophets of Baal, much later."
+        },
+        {
+          "text": "Mount Nebo",
+          "correct": false,
+          "explanation": "Mount Nebo is where Moses later viewed the Promised Land, not where he got the Law."
+        },
+        {
+          "text": "Mount Sinai",
+          "correct": true,
+          "explanation": "Moses received the commandments on Mount Sinai, also called Horeb (Exodus 19 and 20)."
+        },
+        {
+          "text": "Mount Zion",
+          "correct": false,
+          "explanation": "Mount Zion is tied to Jerusalem in later Scripture, not to the giving of the Law."
+        }
+      ]
+    },
+    {
+      "text": "What did the Israelites make and worship while Moses was on the mountain?",
+      "options": [
+        {
+          "text": "A bronze serpent",
+          "correct": false,
+          "explanation": "The bronze serpent came later as a means of healing, not as an idol they crafted here."
+        },
+        {
+          "text": "A golden calf",
+          "correct": true,
+          "explanation": "While Moses was away, the people made a golden calf and worshiped it (Exodus 32:1-4)."
+        },
+        {
+          "text": "A stone altar to the true God",
+          "correct": false,
+          "explanation": "This was idolatry, not faithful worship. They made a golden calf."
+        },
+        {
+          "text": "A silver throne",
+          "correct": false,
+          "explanation": "There was no silver throne. The idol they made was a golden calf."
+        }
+      ]
+    },
+    {
+      "text": "How many years did Israel wander in the wilderness?",
+      "options": [
+        {
+          "text": "Ten years",
+          "correct": false,
+          "explanation": "It was longer than ten years in the wilderness."
+        },
+        {
+          "text": "Forty years",
+          "correct": true,
+          "explanation": "Israel wandered forty years until that generation had passed (Numbers 14:33-34)."
+        },
+        {
+          "text": "Seven years",
+          "correct": false,
+          "explanation": "Seven years is too short for the wilderness journey, which lasted forty."
+        },
+        {
+          "text": "One hundred years",
+          "correct": false,
+          "explanation": "A hundred years is far too long. The wandering lasted forty years."
+        }
+      ]
+    },
+    {
+      "text": "Did Moses himself enter the Promised Land?",
+      "options": [
+        {
+          "text": "No, he saw it from a mountain but did not enter",
+          "correct": true,
+          "explanation": "Moses viewed the land from Mount Nebo but died there without crossing in (Deuteronomy 34:1-5)."
+        },
+        {
+          "text": "Yes, he led the people across the Jordan",
+          "correct": false,
+          "explanation": "Joshua led the people across the Jordan. Moses had already died."
+        },
+        {
+          "text": "Yes, he settled in Jericho",
+          "correct": false,
+          "explanation": "Moses never settled in the land. He only saw it from a distance."
+        },
+        {
+          "text": "No, he turned back to Egypt instead",
+          "correct": false,
+          "explanation": "Moses did not return to Egypt. He died in the land of Moab, in sight of Canaan."
+        }
+      ]
+    }
+  ],
+  "scoring": {
+    "perfectMessage": "You know the life of Moses like a true guide.",
+    "gradeBands": [
+      {
+        "min": 0,
+        "max": 39,
+        "label": "Wanderer",
+        "message": "A good moment to revisit Exodus and the journey of Moses."
+      },
+      {
+        "min": 40,
+        "max": 69,
+        "label": "Traveler",
+        "message": "You know the main stops on Moses' road."
+      },
+      {
+        "min": 70,
+        "max": 89,
+        "label": "Guide",
+        "message": "You know the story of Moses very well."
+      },
+      {
+        "min": 90,
+        "max": 100,
+        "label": "Deliverer",
+        "message": "Incredible. You could lead the tour from the Nile to Nebo."
+      }
+    ]
+  },
+  "theme": "bible-knowledge"
+}

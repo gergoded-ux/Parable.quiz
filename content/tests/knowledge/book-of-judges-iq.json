@@ -1,0 +1,341 @@
+{
+  "slug": "book-of-judges-iq",
+  "title": "Book of Judges IQ",
+  "subtitle": "Deborah, Gideon, Samson and more. How well do you know the judges?",
+  "lang": "en",
+  "category": "bible-iq",
+  "estimatedMinutes": 5,
+  "mode": "knowledge",
+  "questions": [
+    {
+      "text": "What was the role of a judge in the book of Judges?",
+      "options": [
+        {
+          "text": "A king who ruled from a throne",
+          "correct": false,
+          "explanation": "Israel had no king yet in this period. The judges were raised up to lead and deliver, not to reign as kings."
+        },
+        {
+          "text": "A leader God raised up to rescue Israel from their enemies",
+          "correct": true,
+          "explanation": "Throughout the book, God raises up judges to deliver His people when they cry out for help."
+        },
+        {
+          "text": "A priest who offered sacrifices",
+          "correct": false,
+          "explanation": "Priests had their own role. The judges were deliverers and leaders rather than priests."
+        },
+        {
+          "text": "A scribe who copied the law",
+          "correct": false,
+          "explanation": "The judges were not copyists. They led Israel in times of trouble."
+        }
+      ]
+    },
+    {
+      "text": "Which judge was a woman who also served as a prophetess?",
+      "options": [
+        {
+          "text": "Deborah",
+          "correct": true,
+          "explanation": "Judges 4 introduces Deborah as a prophetess who judged Israel and went into battle alongside Barak."
+        },
+        {
+          "text": "Delilah",
+          "correct": false,
+          "explanation": "Delilah was the woman who betrayed Samson. She was not a judge of Israel."
+        },
+        {
+          "text": "Jael",
+          "correct": false,
+          "explanation": "Jael bravely struck down the enemy commander Sisera, but she was not a judge herself."
+        },
+        {
+          "text": "Ruth",
+          "correct": false,
+          "explanation": "Ruth has her own book and story. She does not appear as a judge."
+        }
+      ]
+    },
+    {
+      "text": "How did Gideon test whether God was really calling him?",
+      "options": [
+        {
+          "text": "He climbed a mountain to look for a sign",
+          "correct": false,
+          "explanation": "Gideon stayed near home for his test. He used a fleece of wool, not a mountain."
+        },
+        {
+          "text": "He laid out a fleece of wool and watched for dew",
+          "correct": true,
+          "explanation": "Judges 6 tells how Gideon asked for dew on the fleece but not the ground, then the reverse, to be sure of God's call."
+        },
+        {
+          "text": "He cast lots with stones",
+          "correct": false,
+          "explanation": "The well known sign Gideon asked for was the fleece and the dew, not casting lots."
+        },
+        {
+          "text": "He fasted for forty days",
+          "correct": false,
+          "explanation": "There is no forty day fast here. Gideon's test was the fleece."
+        }
+      ]
+    },
+    {
+      "text": "God told Gideon his army was too large. How many men did Gideon keep for the battle?",
+      "options": [
+        {
+          "text": "3,000",
+          "correct": false,
+          "explanation": "The final number was far smaller, chosen so the victory would clearly be God's work."
+        },
+        {
+          "text": "300",
+          "correct": true,
+          "explanation": "Judges 7 says God reduced Gideon's army to three hundred men so Israel could not boast in its own strength."
+        },
+        {
+          "text": "10,000",
+          "correct": false,
+          "explanation": "Ten thousand remained at one stage, but God trimmed the number further down to three hundred."
+        },
+        {
+          "text": "100",
+          "correct": false,
+          "explanation": "The number was three hundred, not one hundred."
+        }
+      ]
+    },
+    {
+      "text": "What unusual weapons did Gideon's small band carry into battle?",
+      "options": [
+        {
+          "text": "Trumpets and torches hidden in pitchers",
+          "correct": true,
+          "explanation": "Judges 7 describes the men holding trumpets and torches inside empty pitchers, then breaking them to startle the enemy camp."
+        },
+        {
+          "text": "Spears and shields of bronze",
+          "correct": false,
+          "explanation": "The surprise of the attack came from trumpets and torches, not ordinary weapons."
+        },
+        {
+          "text": "Slings and smooth stones",
+          "correct": false,
+          "explanation": "Smooth stones belong to David and Goliath. Gideon's men used trumpets and torches in jars."
+        },
+        {
+          "text": "Bows and flaming arrows",
+          "correct": false,
+          "explanation": "There were no flaming arrows here. The weapons were trumpets and torches hidden in pitchers."
+        }
+      ]
+    },
+    {
+      "text": "Which judge made a rash vow that brought great sorrow to his own family?",
+      "options": [
+        {
+          "text": "Othniel",
+          "correct": false,
+          "explanation": "Othniel was the first judge and delivered Israel, but the rash vow belongs to Jephthah."
+        },
+        {
+          "text": "Jephthah",
+          "correct": true,
+          "explanation": "Judges 11 records Jephthah's vow before battle, which led to deep grief when his daughter met him on his return."
+        },
+        {
+          "text": "Ehud",
+          "correct": false,
+          "explanation": "Ehud was the left handed judge who defeated Eglon. The tragic vow was Jephthah's."
+        },
+        {
+          "text": "Samson",
+          "correct": false,
+          "explanation": "Samson had his own troubles, but the rash vow about his family was made by Jephthah."
+        }
+      ]
+    },
+    {
+      "text": "Samson was set apart from birth as a Nazirite. What was a key sign of that vow?",
+      "options": [
+        {
+          "text": "He could never speak in public",
+          "correct": false,
+          "explanation": "Speaking was never forbidden. A central sign of his vow was his uncut hair."
+        },
+        {
+          "text": "His hair was never to be cut",
+          "correct": true,
+          "explanation": "Judges 13 says no razor was to come on his head, for he would be a Nazirite to God from birth."
+        },
+        {
+          "text": "He had to wear a golden crown",
+          "correct": false,
+          "explanation": "There was no crown. The visible sign of Samson's vow was his uncut hair."
+        },
+        {
+          "text": "He could never leave his hometown",
+          "correct": false,
+          "explanation": "Samson traveled often. The mark of his vow was his hair, not staying home."
+        }
+      ]
+    },
+    {
+      "text": "Who coaxed the secret of Samson's strength out of him?",
+      "options": [
+        {
+          "text": "Deborah",
+          "correct": false,
+          "explanation": "Deborah was a faithful judge of Israel, not the woman who betrayed Samson."
+        },
+        {
+          "text": "Delilah",
+          "correct": true,
+          "explanation": "Judges 16 tells how Delilah pressed Samson until he revealed that his strength was tied to his hair."
+        },
+        {
+          "text": "Jael",
+          "correct": false,
+          "explanation": "Jael acted against the enemy commander Sisera in a different account, not against Samson."
+        },
+        {
+          "text": "Rahab",
+          "correct": false,
+          "explanation": "Rahab helped the spies in the book of Joshua. She has no part in Samson's story."
+        }
+      ]
+    },
+    {
+      "text": "How did Samson finally defeat the Philistines at the end of his life?",
+      "options": [
+        {
+          "text": "He led an army against their city",
+          "correct": false,
+          "explanation": "Samson acted alone at the end. His final victory came in their temple, not on a battlefield."
+        },
+        {
+          "text": "He pushed down the pillars of their temple",
+          "correct": true,
+          "explanation": "Judges 16 describes Samson, his strength returned, pushing apart the temple pillars so the building fell on the crowd."
+        },
+        {
+          "text": "He poisoned their water supply",
+          "correct": false,
+          "explanation": "There is no poisoning in the account. He brought down the temple by its pillars."
+        },
+        {
+          "text": "He set fire to their fields",
+          "correct": false,
+          "explanation": "Samson did once send foxes through their fields, but his final act was pulling down the temple."
+        }
+      ]
+    },
+    {
+      "text": "Which judge was known for being left-handed and slipped a hidden message to a king?",
+      "options": [
+        {
+          "text": "Gideon",
+          "correct": false,
+          "explanation": "Gideon is known for the fleece and the three hundred men, not for being left handed."
+        },
+        {
+          "text": "Ehud",
+          "correct": true,
+          "explanation": "Judges 3 describes Ehud, a left handed man, who told King Eglon he had a secret message and then delivered Israel."
+        },
+        {
+          "text": "Barak",
+          "correct": false,
+          "explanation": "Barak fought alongside Deborah. The left handed judge with the secret message was Ehud."
+        },
+        {
+          "text": "Samson",
+          "correct": false,
+          "explanation": "Samson was famous for his strength, not for being left handed."
+        }
+      ]
+    },
+    {
+      "text": "What sad cycle keeps repeating throughout the book of Judges?",
+      "options": [
+        {
+          "text": "The people sin, suffer, cry out, and God sends a deliverer",
+          "correct": true,
+          "explanation": "The book turns again and again on this cycle of falling away, oppression, crying out, and rescue through a judge."
+        },
+        {
+          "text": "Kings rise and fall one after another",
+          "correct": false,
+          "explanation": "Israel had no king during this time. The cycle was about sin, suffering, and deliverance."
+        },
+        {
+          "text": "The temple is built and torn down repeatedly",
+          "correct": false,
+          "explanation": "The temple was not yet built. The repeating pattern is the cycle of sin and rescue."
+        },
+        {
+          "text": "Prophets are sent and ignored each generation",
+          "correct": false,
+          "explanation": "The recurring theme is the cycle of falling into sin and being delivered by a judge, not a string of ignored prophets."
+        }
+      ]
+    },
+    {
+      "text": "How does the book of Judges often describe the spiritual condition of Israel?",
+      "options": [
+        {
+          "text": "Everyone did that which was right in his own eyes",
+          "correct": true,
+          "explanation": "Judges 21:25 (ASV) reads, \"In those days there was no king in Israel: every man did that which was right in his own eyes.\""
+        },
+        {
+          "text": "The people walked faithfully all their days",
+          "correct": false,
+          "explanation": "The book paints a far harder picture, with the people drifting from God again and again."
+        },
+        {
+          "text": "Israel was ruled by a wise and godly king",
+          "correct": false,
+          "explanation": "There was no king in this era. The book even notes that fact."
+        },
+        {
+          "text": "The whole nation kept the law without fail",
+          "correct": false,
+          "explanation": "Far from it. The book repeatedly shows the people doing what was right in their own eyes."
+        }
+      ]
+    }
+  ],
+  "scoring": {
+    "perfectMessage": "You judged that quiz perfectly!",
+    "gradeBands": [
+      {
+        "min": 0,
+        "max": 39,
+        "label": "Just Beginning",
+        "message": "The judges are full of bold stories. Dive in."
+      },
+      {
+        "min": 40,
+        "max": 69,
+        "label": "Coming Along",
+        "message": "You know some of the judges. A reread will round it out."
+      },
+      {
+        "min": 70,
+        "max": 89,
+        "label": "Well Versed",
+        "message": "You know the judges and their stories well."
+      },
+      {
+        "min": 90,
+        "max": 100,
+        "label": "Judges Expert",
+        "message": "Outstanding. You really know this part of the story."
+      }
+    ]
+  },
+  "theme": "bible-knowledge"
+}

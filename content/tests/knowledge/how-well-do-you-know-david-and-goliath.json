@@ -1,0 +1,341 @@
+{
+  "slug": "how-well-do-you-know-david-and-goliath",
+  "title": "How Well Do You Know David and Goliath?",
+  "subtitle": "The shepherd, the giant, and one famous stone.",
+  "lang": "en",
+  "category": "bible-iq",
+  "theme": "bible-knowledge",
+  "estimatedMinutes": 5,
+  "mode": "knowledge",
+  "questions": [
+    {
+      "text": "Which army did Goliath fight for?",
+      "options": [
+        {
+          "text": "The Philistines",
+          "correct": true,
+          "explanation": "1 Samuel 17:4 says the champion came out of the camp of the Philistines, and his name was Goliath."
+        },
+        {
+          "text": "The Egyptians",
+          "correct": false,
+          "explanation": "Egypt was Israel's old enemy from the Exodus, but Goliath was a Philistine."
+        },
+        {
+          "text": "The Amalekites",
+          "correct": false,
+          "explanation": "The Amalekites fought Israel too, but Goliath belonged to the Philistine army."
+        },
+        {
+          "text": "The Assyrians",
+          "correct": false,
+          "explanation": "Assyria rose to power later. In David's day the threat was the Philistines."
+        }
+      ]
+    },
+    {
+      "text": "What was Goliath's hometown?",
+      "options": [
+        {
+          "text": "Gath",
+          "correct": true,
+          "explanation": "1 Samuel 17:4 names him Goliath, of Gath, one of the chief Philistine cities."
+        },
+        {
+          "text": "Gaza",
+          "correct": false,
+          "explanation": "Gaza was a Philistine city, but Goliath came from Gath."
+        },
+        {
+          "text": "Jericho",
+          "correct": false,
+          "explanation": "Jericho was an Israelite city famous for its fallen walls, not Goliath's home."
+        },
+        {
+          "text": "Bethlehem",
+          "correct": false,
+          "explanation": "Bethlehem was David's hometown, not the giant's."
+        }
+      ]
+    },
+    {
+      "text": "What work was David doing for his father before he faced Goliath?",
+      "options": [
+        {
+          "text": "Keeping sheep",
+          "correct": true,
+          "explanation": "1 Samuel 17:15 says David went back and forth from Saul to feed his father's sheep at Bethlehem."
+        },
+        {
+          "text": "Fishing",
+          "correct": false,
+          "explanation": "David was a shepherd, not a fisherman."
+        },
+        {
+          "text": "Building houses",
+          "correct": false,
+          "explanation": "David was tending his father's flock, not building."
+        },
+        {
+          "text": "Serving as a soldier",
+          "correct": false,
+          "explanation": "His older brothers were in the army, but David was still keeping sheep at home."
+        }
+      ]
+    },
+    {
+      "text": "Why did David come to the battle line in the first place?",
+      "options": [
+        {
+          "text": "He was sent to bring food to his brothers",
+          "correct": true,
+          "explanation": "1 Samuel 17:17-18 says Jesse sent David with grain and bread for his brothers and cheese for their commander."
+        },
+        {
+          "text": "He was drafted into the army",
+          "correct": false,
+          "explanation": "David was not drafted. His father sent him to check on his brothers and bring them food."
+        },
+        {
+          "text": "He wanted to challenge Goliath",
+          "correct": false,
+          "explanation": "He came as an errand boy with supplies, then heard Goliath's taunts once he arrived."
+        },
+        {
+          "text": "The king summoned him to fight",
+          "correct": false,
+          "explanation": "Saul did not summon him to fight. David volunteered after he saw the standoff."
+        }
+      ]
+    },
+    {
+      "text": "Who was the king of Israel during this battle?",
+      "options": [
+        {
+          "text": "Saul",
+          "correct": true,
+          "explanation": "Saul was Israel's first king and led the army that stood frozen before Goliath in 1 Samuel 17."
+        },
+        {
+          "text": "David",
+          "correct": false,
+          "explanation": "David would become king later. At this point he was still a young shepherd."
+        },
+        {
+          "text": "Solomon",
+          "correct": false,
+          "explanation": "Solomon was David's son and reigned generations of stories later."
+        },
+        {
+          "text": "Samuel",
+          "correct": false,
+          "explanation": "Samuel was the prophet who anointed Saul and David, but he was not the king."
+        }
+      ]
+    },
+    {
+      "text": "What did King Saul offer David to wear into the fight?",
+      "options": [
+        {
+          "text": "His own armor",
+          "correct": true,
+          "explanation": "1 Samuel 17:38 says Saul put his own armor on David, with a helmet of brass and a coat of mail."
+        },
+        {
+          "text": "A new robe",
+          "correct": false,
+          "explanation": "Saul offered armor for battle, not a robe."
+        },
+        {
+          "text": "A lion's skin",
+          "correct": false,
+          "explanation": "There was no lion's skin. Saul gave David his own armor, which David then took off."
+        },
+        {
+          "text": "A golden crown",
+          "correct": false,
+          "explanation": "Saul did not give him a crown. He offered his armor, which David found too clumsy."
+        }
+      ]
+    },
+    {
+      "text": "How many smooth stones did David choose from the brook?",
+      "options": [
+        {
+          "text": "One",
+          "correct": false,
+          "explanation": "He took more than one, even though he only needed a single throw."
+        },
+        {
+          "text": "Three",
+          "correct": false,
+          "explanation": "Close, but the text gives a different number."
+        },
+        {
+          "text": "Five",
+          "correct": true,
+          "explanation": "1 Samuel 17:40 says David chose five smooth stones out of the brook and put them in his shepherd's bag."
+        },
+        {
+          "text": "Seven",
+          "correct": false,
+          "explanation": "Seven shows up often in Scripture, but here David gathered five stones."
+        }
+      ]
+    },
+    {
+      "text": "What weapon did David use to bring Goliath down?",
+      "options": [
+        {
+          "text": "A bow and arrow",
+          "correct": false,
+          "explanation": "David was not an archer in this story. He used a sling."
+        },
+        {
+          "text": "A spear",
+          "correct": false,
+          "explanation": "Goliath carried a huge spear, but David did not fight with one."
+        },
+        {
+          "text": "A sling and a stone",
+          "correct": true,
+          "explanation": "1 Samuel 17:49-50 says David struck the Philistine with a sling and a stone, and there was no sword in his hand."
+        },
+        {
+          "text": "A sword",
+          "correct": false,
+          "explanation": "David had no sword when he knocked Goliath down. He used a sling first."
+        }
+      ]
+    },
+    {
+      "text": "Where did the stone strike Goliath?",
+      "options": [
+        {
+          "text": "In the chest",
+          "correct": false,
+          "explanation": "The stone did not hit his chest, which his armor protected."
+        },
+        {
+          "text": "In the forehead",
+          "correct": true,
+          "explanation": "1 Samuel 17:49 says the stone sank into his forehead, and he fell on his face to the earth."
+        },
+        {
+          "text": "In the knee",
+          "correct": false,
+          "explanation": "The blow that felled him struck his forehead, not his knee."
+        },
+        {
+          "text": "In the shoulder",
+          "correct": false,
+          "explanation": "The stone hit his forehead, the one place his heavy armor left open."
+        }
+      ]
+    },
+    {
+      "text": "After Goliath fell, what did David use to cut off the giant's head?",
+      "options": [
+        {
+          "text": "His own sword",
+          "correct": false,
+          "explanation": "David had no sword of his own. He grabbed the giant's."
+        },
+        {
+          "text": "Goliath's own sword",
+          "correct": true,
+          "explanation": "1 Samuel 17:51 says David took Goliath's sword and cut off his head with it."
+        },
+        {
+          "text": "A spear from Saul",
+          "correct": false,
+          "explanation": "He did not borrow a spear. He used the sword that belonged to Goliath."
+        },
+        {
+          "text": "A shepherd's staff",
+          "correct": false,
+          "explanation": "A staff could not do this. David used the giant's own sword."
+        }
+      ]
+    },
+    {
+      "text": "In David's own words, in whose name did he say he came against Goliath?",
+      "options": [
+        {
+          "text": "In the name of the LORD of hosts",
+          "correct": true,
+          "explanation": "1 Samuel 17:45 says David came in the name of Jehovah of hosts, the God of the armies of Israel."
+        },
+        {
+          "text": "In the name of King Saul",
+          "correct": false,
+          "explanation": "David trusted God, not Saul, and said so plainly before the fight."
+        },
+        {
+          "text": "In the name of his father Jesse",
+          "correct": false,
+          "explanation": "David did not invoke his father. He came in the name of the LORD of hosts."
+        },
+        {
+          "text": "In his own name",
+          "correct": false,
+          "explanation": "David made clear the victory was not about himself but about God."
+        }
+      ]
+    },
+    {
+      "text": "When the Philistines saw their champion was dead, what did they do?",
+      "options": [
+        {
+          "text": "They surrendered to Saul",
+          "correct": false,
+          "explanation": "They did not surrender. They turned and ran."
+        },
+        {
+          "text": "They fled",
+          "correct": true,
+          "explanation": "1 Samuel 17:51 says when the Philistines saw their champion was dead, they fled."
+        },
+        {
+          "text": "They sent out another giant",
+          "correct": false,
+          "explanation": "No second giant came forward. The army ran away."
+        },
+        {
+          "text": "They made peace with Israel",
+          "correct": false,
+          "explanation": "There was no peace treaty. The Philistines fled and Israel pursued them."
+        }
+      ]
+    }
+  ],
+  "scoring": {
+    "perfectMessage": "A perfect score. Not one stone missed.",
+    "gradeBands": [
+      {
+        "min": 0,
+        "max": 39,
+        "label": "Shepherd Boy",
+        "message": "The story is worth a fresh read. Find it in 1 Samuel 17 and watch a giant fall."
+      },
+      {
+        "min": 40,
+        "max": 69,
+        "label": "Stone Slinger",
+        "message": "You know the heart of the story. A little more reading and the details will click."
+      },
+      {
+        "min": 70,
+        "max": 89,
+        "label": "Giant Slayer",
+        "message": "You know this battle well. Strong aim."
+      },
+      {
+        "min": 90,
+        "max": 100,
+        "label": "King in the Making",
+        "message": "Few know David's fight this well. Truly impressive."
+      }
+    ]
+  }
+}

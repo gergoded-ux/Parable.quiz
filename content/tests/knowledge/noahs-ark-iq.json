@@ -1,0 +1,341 @@
+{
+  "slug": "noahs-ark-iq",
+  "title": "Noah's Ark IQ",
+  "subtitle": "One boat, two of every kind, forty days of rain.",
+  "lang": "en",
+  "category": "bible-iq",
+  "theme": "bible-knowledge",
+  "estimatedMinutes": 5,
+  "mode": "knowledge",
+  "questions": [
+    {
+      "text": "Why did God decide to send the flood?",
+      "options": [
+        {
+          "text": "The earth was full of violence and wickedness",
+          "correct": true,
+          "explanation": "Genesis 6:11-13 says the earth was corrupt and filled with violence, so God determined to end it."
+        },
+        {
+          "text": "The people had built a great tower",
+          "correct": false,
+          "explanation": "The tower of Babel came after the flood, not before it."
+        },
+        {
+          "text": "A famine had ruined the land",
+          "correct": false,
+          "explanation": "There was no famine here. The flood came because of the earth's wickedness."
+        },
+        {
+          "text": "The people refused to pay tribute",
+          "correct": false,
+          "explanation": "Tribute had nothing to do with it. The cause was widespread evil."
+        }
+      ]
+    },
+    {
+      "text": "What material was Noah told to build the ark from?",
+      "options": [
+        {
+          "text": "Cedar",
+          "correct": false,
+          "explanation": "Cedar was used for later buildings like the temple, but the ark used a different wood."
+        },
+        {
+          "text": "Gopher wood",
+          "correct": true,
+          "explanation": "Genesis 6:14 says, \"Make thee an ark of gopher wood\" (ASV)."
+        },
+        {
+          "text": "Acacia wood",
+          "correct": false,
+          "explanation": "Acacia wood was used for the ark of the covenant, not Noah's ark."
+        },
+        {
+          "text": "Olive wood",
+          "correct": false,
+          "explanation": "Olive trees gave the dove its leaf, but the ark was made of gopher wood."
+        }
+      ]
+    },
+    {
+      "text": "How many people were saved on the ark?",
+      "options": [
+        {
+          "text": "Two",
+          "correct": false,
+          "explanation": "Two was the number for many animals, not for the people aboard."
+        },
+        {
+          "text": "Four",
+          "correct": false,
+          "explanation": "Close, but the count of people was higher than four."
+        },
+        {
+          "text": "Eight",
+          "correct": true,
+          "explanation": "Noah, his wife, his three sons, and their wives made eight. 1 Peter 3:20 confirms eight souls were saved."
+        },
+        {
+          "text": "Twelve",
+          "correct": false,
+          "explanation": "Twelve points to the tribes of Israel, not the family on the ark."
+        }
+      ]
+    },
+    {
+      "text": "What were the names of Noah's three sons?",
+      "options": [
+        {
+          "text": "Cain, Abel, and Seth",
+          "correct": false,
+          "explanation": "Those were sons of Adam and Eve, generations before Noah."
+        },
+        {
+          "text": "Shem, Ham, and Japheth",
+          "correct": true,
+          "explanation": "Genesis 6:10 names Noah's three sons as Shem, Ham, and Japheth."
+        },
+        {
+          "text": "Isaac, Ishmael, and Esau",
+          "correct": false,
+          "explanation": "Those names belong to the family of Abraham, much later in Genesis."
+        },
+        {
+          "text": "Reuben, Simeon, and Levi",
+          "correct": false,
+          "explanation": "Those were sons of Jacob, not sons of Noah."
+        }
+      ]
+    },
+    {
+      "text": "How many of each kind of clean animal did Noah bring onto the ark?",
+      "options": [
+        {
+          "text": "Two of every clean animal",
+          "correct": false,
+          "explanation": "Two was the rule for the unclean animals. Clean animals had a larger number."
+        },
+        {
+          "text": "Seven of each clean kind",
+          "correct": true,
+          "explanation": "Genesis 7:2 tells Noah to take clean beasts by sevens, the male and his female."
+        },
+        {
+          "text": "Ten of each clean kind",
+          "correct": false,
+          "explanation": "The number for clean animals was seven, not ten."
+        },
+        {
+          "text": "One of each clean kind",
+          "correct": false,
+          "explanation": "One animal could not continue its kind. Clean animals came by sevens."
+        }
+      ]
+    },
+    {
+      "text": "How many days and nights did the rain fall?",
+      "options": [
+        {
+          "text": "Seven",
+          "correct": false,
+          "explanation": "Seven days passed before the rain began, but the rain itself lasted longer."
+        },
+        {
+          "text": "Forty",
+          "correct": true,
+          "explanation": "Genesis 7:12 says the rain was upon the earth forty days and forty nights."
+        },
+        {
+          "text": "A hundred and fifty",
+          "correct": false,
+          "explanation": "The waters stayed high for a hundred and fifty days, but the rain fell for forty."
+        },
+        {
+          "text": "Three hundred",
+          "correct": false,
+          "explanation": "That number is too high. The rain lasted forty days and nights."
+        }
+      ]
+    },
+    {
+      "text": "Where did the ark come to rest when the waters went down?",
+      "options": [
+        {
+          "text": "The mountains of Ararat",
+          "correct": true,
+          "explanation": "Genesis 8:4 says the ark rested upon the mountains of Ararat."
+        },
+        {
+          "text": "Mount Sinai",
+          "correct": false,
+          "explanation": "Mount Sinai is where Moses received the Law, not where the ark landed."
+        },
+        {
+          "text": "Mount Nebo",
+          "correct": false,
+          "explanation": "Mount Nebo is where Moses viewed the promised land, far from the ark's resting place."
+        },
+        {
+          "text": "The hills of Bethel",
+          "correct": false,
+          "explanation": "Bethel was a later worship site. The ark rested on the mountains of Ararat."
+        }
+      ]
+    },
+    {
+      "text": "Which bird did Noah send out first to check if the waters had gone down?",
+      "options": [
+        {
+          "text": "A dove",
+          "correct": false,
+          "explanation": "The dove came later. Noah sent out a different bird first."
+        },
+        {
+          "text": "A raven",
+          "correct": true,
+          "explanation": "Genesis 8:7 says Noah sent forth a raven, which went to and fro until the waters were dried up."
+        },
+        {
+          "text": "An eagle",
+          "correct": false,
+          "explanation": "No eagle was sent. The first bird out was a raven."
+        },
+        {
+          "text": "A sparrow",
+          "correct": false,
+          "explanation": "There was no sparrow in this account. Noah first sent a raven."
+        }
+      ]
+    },
+    {
+      "text": "What did the dove bring back that showed the waters had gone down?",
+      "options": [
+        {
+          "text": "A fish",
+          "correct": false,
+          "explanation": "The dove did not bring a fish. It returned with a sign from the land."
+        },
+        {
+          "text": "An olive leaf",
+          "correct": true,
+          "explanation": "Genesis 8:11 says the dove came back with an olive leaf plucked off, so Noah knew the waters had abated."
+        },
+        {
+          "text": "A grain of wheat",
+          "correct": false,
+          "explanation": "It was not wheat. The dove returned with a fresh olive leaf in its beak."
+        },
+        {
+          "text": "A small stone",
+          "correct": false,
+          "explanation": "A stone would prove nothing. The dove brought back an olive leaf."
+        }
+      ]
+    },
+    {
+      "text": "What did Noah do first after he came out of the ark?",
+      "options": [
+        {
+          "text": "He planted a vineyard",
+          "correct": false,
+          "explanation": "Noah did plant a vineyard, but that came a little later, not first."
+        },
+        {
+          "text": "He built an altar and offered sacrifices",
+          "correct": true,
+          "explanation": "Genesis 8:20 says Noah built an altar unto the LORD and offered burnt offerings on it."
+        },
+        {
+          "text": "He started building a city",
+          "correct": false,
+          "explanation": "Noah did not build a city. His first act was to build an altar and worship."
+        },
+        {
+          "text": "He set out to find other survivors",
+          "correct": false,
+          "explanation": "There were no other survivors to find. Noah's first act was to build an altar."
+        }
+      ]
+    },
+    {
+      "text": "What sign did God give as the token of His covenant never to flood the whole earth again?",
+      "options": [
+        {
+          "text": "A rainbow in the cloud",
+          "correct": true,
+          "explanation": "Genesis 9:13 says, \"I do set my bow in the cloud, and it shall be for a token of a covenant\" (ASV)."
+        },
+        {
+          "text": "A bright star",
+          "correct": false,
+          "explanation": "A star marked other moments in Scripture, but the flood covenant sign was the rainbow."
+        },
+        {
+          "text": "A pillar of cloud",
+          "correct": false,
+          "explanation": "The pillar of cloud guided Israel in the Exodus. The covenant sign here was the rainbow."
+        },
+        {
+          "text": "A burning bush",
+          "correct": false,
+          "explanation": "The burning bush was Moses' encounter with God, not the sign of the flood covenant."
+        }
+      ]
+    },
+    {
+      "text": "How old did Noah live to be?",
+      "options": [
+        {
+          "text": "600 years",
+          "correct": false,
+          "explanation": "Noah was 600 when the flood came, but he lived much longer after that."
+        },
+        {
+          "text": "800 years",
+          "correct": false,
+          "explanation": "Close, but the text gives a higher total for his full life."
+        },
+        {
+          "text": "950 years",
+          "correct": true,
+          "explanation": "Genesis 9:29 says all the days of Noah were nine hundred and fifty years, and he died."
+        },
+        {
+          "text": "120 years",
+          "correct": false,
+          "explanation": "The number 120 appears in Genesis 6:3 as a limit on human days, but Noah himself lived to 950."
+        }
+      ]
+    }
+  ],
+  "scoring": {
+    "perfectMessage": "A perfect score. You weathered every question.",
+    "gradeBands": [
+      {
+        "min": 0,
+        "max": 39,
+        "label": "Landlubber",
+        "message": "The story is worth another read. You can find it in Genesis 6 through 9."
+      },
+      {
+        "min": 40,
+        "max": 69,
+        "label": "Deckhand",
+        "message": "You know the big beats. A little more reading and the details will stick."
+      },
+      {
+        "min": 70,
+        "max": 89,
+        "label": "First Mate",
+        "message": "You know the flood story well. Nice work."
+      },
+      {
+        "min": 90,
+        "max": 100,
+        "label": "Master of the Ark",
+        "message": "Few know Noah's voyage this well. Truly impressive."
+      }
+    ]
+  }
+}

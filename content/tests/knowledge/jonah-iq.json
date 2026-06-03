@@ -1,0 +1,316 @@
+{
+  "slug": "jonah-iq",
+  "title": "Jonah IQ",
+  "subtitle": "How well do you know the runaway prophet?",
+  "lang": "en",
+  "category": "bible-iq",
+  "theme": "bible-knowledge",
+  "estimatedMinutes": 5,
+  "mode": "knowledge",
+  "questions": [
+    {
+      "text": "To which city did God first tell Jonah to go and preach?",
+      "options": [
+        {
+          "text": "Tarshish",
+          "correct": false,
+          "explanation": "Tarshish was the place Jonah fled toward, in the opposite direction. It was not where God sent him."
+        },
+        {
+          "text": "Nineveh",
+          "correct": true,
+          "explanation": "Jonah 1:2 says, \"Arise, go to Nineveh, that great city, and cry against it.\" Nineveh was the capital of Assyria."
+        },
+        {
+          "text": "Babylon",
+          "correct": false,
+          "explanation": "Babylon plays a big role elsewhere in Scripture, but it is not where Jonah was sent."
+        },
+        {
+          "text": "Joppa",
+          "correct": false,
+          "explanation": "Joppa was the port where Jonah boarded a ship to run away, not his assigned destination."
+        }
+      ]
+    },
+    {
+      "text": "Instead of obeying, where did Jonah try to flee?",
+      "options": [
+        {
+          "text": "Toward Tarshish",
+          "correct": true,
+          "explanation": "Jonah 1:3 says he rose up to flee unto Tarshish, going down to Joppa and boarding a ship to run from the presence of the Lord."
+        },
+        {
+          "text": "Toward Egypt",
+          "correct": false,
+          "explanation": "Egypt is a common refuge in the Bible, but Jonah set his sights on Tarshish, far to the west by sea."
+        },
+        {
+          "text": "Toward Jerusalem",
+          "correct": false,
+          "explanation": "Jonah did not flee toward Jerusalem. He headed for the sea instead."
+        },
+        {
+          "text": "Toward Damascus",
+          "correct": false,
+          "explanation": "Damascus is not part of Jonah's flight. He boarded a ship bound for Tarshish."
+        }
+      ]
+    },
+    {
+      "text": "What happened at sea while Jonah was fleeing?",
+      "options": [
+        {
+          "text": "A thick fog hid the ship for days",
+          "correct": false,
+          "explanation": "The trouble was not fog. It was a violent storm sent by the Lord."
+        },
+        {
+          "text": "A great storm arose and threatened to break the ship",
+          "correct": true,
+          "explanation": "Jonah 1:4 says the Lord sent out a great wind, and there was a mighty tempest, so the ship was likely to be broken."
+        },
+        {
+          "text": "Pirates boarded and took the cargo",
+          "correct": false,
+          "explanation": "There are no pirates in Jonah. The danger came from a God-sent storm."
+        },
+        {
+          "text": "The ship ran aground on rocks",
+          "correct": false,
+          "explanation": "The ship did not run aground. It was caught in a fierce storm at sea."
+        }
+      ]
+    },
+    {
+      "text": "What did the sailors do to try to calm the storm?",
+      "options": [
+        {
+          "text": "They sacrificed a goat on the deck",
+          "correct": false,
+          "explanation": "They did offer a sacrifice to the Lord later, but only after the storm had stopped, not to calm it."
+        },
+        {
+          "text": "They threw Jonah into the sea",
+          "correct": true,
+          "explanation": "After casting lots that fell on Jonah, and at his own word, the sailors took him up and cast him into the sea, and the raging stopped (Jonah 1:15)."
+        },
+        {
+          "text": "They turned the ship back to shore",
+          "correct": false,
+          "explanation": "They rowed hard to reach land but could not, so they finally cast Jonah overboard."
+        },
+        {
+          "text": "They lowered all the sails and waited",
+          "correct": false,
+          "explanation": "They lightened the ship by throwing cargo overboard, but the calm came when Jonah went into the sea."
+        }
+      ]
+    },
+    {
+      "text": "What did God prepare to swallow Jonah?",
+      "options": [
+        {
+          "text": "A great fish",
+          "correct": true,
+          "explanation": "Jonah 1:17 says, \"the LORD had prepared a great fish to swallow up Jonah.\" He was inside it three days and three nights."
+        },
+        {
+          "text": "A whale named Leviathan",
+          "correct": false,
+          "explanation": "The text says a great fish, not a whale, and it is not named. Leviathan appears in other passages."
+        },
+        {
+          "text": "A sea serpent",
+          "correct": false,
+          "explanation": "Jonah was swallowed by a great fish that God prepared, not a serpent."
+        },
+        {
+          "text": "A giant squid",
+          "correct": false,
+          "explanation": "The Bible simply calls it a great fish. A squid is not mentioned."
+        }
+      ]
+    },
+    {
+      "text": "How long was Jonah inside the great fish?",
+      "options": [
+        {
+          "text": "Three days and three nights",
+          "correct": true,
+          "explanation": "Jonah 1:17 gives the span as three days and three nights. Jesus later pointed to this as a sign."
+        },
+        {
+          "text": "Seven days",
+          "correct": false,
+          "explanation": "The number was three days and three nights, not seven."
+        },
+        {
+          "text": "One day",
+          "correct": false,
+          "explanation": "It was longer than a day. The text says three days and three nights."
+        },
+        {
+          "text": "Forty days",
+          "correct": false,
+          "explanation": "Forty days was the warning Jonah later preached to Nineveh, not the time in the fish."
+        }
+      ]
+    },
+    {
+      "text": "What did Jonah do inside the fish?",
+      "options": [
+        {
+          "text": "He slept the whole time",
+          "correct": false,
+          "explanation": "Jonah slept earlier, down in the ship during the storm. Inside the fish he prayed."
+        },
+        {
+          "text": "He prayed to the Lord",
+          "correct": true,
+          "explanation": "Jonah 2 is his prayer from inside the fish. He cried out in his distress, and the Lord heard him."
+        },
+        {
+          "text": "He complained against the sailors",
+          "correct": false,
+          "explanation": "Inside the fish, Jonah turned to prayer, not blame."
+        },
+        {
+          "text": "He wrote a letter to Nineveh",
+          "correct": false,
+          "explanation": "There is no letter. Jonah prayed, and then was delivered to preach in person."
+        }
+      ]
+    },
+    {
+      "text": "After being delivered, how many days did Jonah say Nineveh had before judgment?",
+      "options": [
+        {
+          "text": "Three days",
+          "correct": false,
+          "explanation": "Three days and three nights was his time in the fish, not the warning to Nineveh."
+        },
+        {
+          "text": "Ten days",
+          "correct": false,
+          "explanation": "The number Jonah preached was forty, not ten."
+        },
+        {
+          "text": "Forty days",
+          "correct": true,
+          "explanation": "Jonah 3:4 records his message: \"Yet forty days, and Nineveh shall be overthrown.\""
+        },
+        {
+          "text": "One hundred days",
+          "correct": false,
+          "explanation": "Jonah gave a forty-day warning, not a hundred."
+        }
+      ]
+    },
+    {
+      "text": "How did the people of Nineveh respond to Jonah's preaching?",
+      "options": [
+        {
+          "text": "They mocked him and drove him out",
+          "correct": false,
+          "explanation": "Far from mocking him, the people of Nineveh took the warning seriously."
+        },
+        {
+          "text": "They ignored the message completely",
+          "correct": false,
+          "explanation": "They did not ignore it. The whole city repented."
+        },
+        {
+          "text": "They believed God and repented in sackcloth",
+          "correct": true,
+          "explanation": "Jonah 3 says the people believed God, proclaimed a fast, and put on sackcloth, from the greatest to the least. Even the king stepped down from his throne."
+        },
+        {
+          "text": "They made Jonah their king",
+          "correct": false,
+          "explanation": "They did not crown Jonah. They humbled themselves before God, and He spared the city."
+        }
+      ]
+    },
+    {
+      "text": "How did Jonah feel when God spared Nineveh?",
+      "options": [
+        {
+          "text": "He was angry and displeased",
+          "correct": true,
+          "explanation": "Jonah 4:1 says it displeased Jonah exceedingly, and he was very angry. He even said he would rather die than see his enemies spared."
+        },
+        {
+          "text": "He threw a feast to celebrate",
+          "correct": false,
+          "explanation": "Jonah did not celebrate. He was deeply upset that God showed mercy."
+        },
+        {
+          "text": "He immediately went home content",
+          "correct": false,
+          "explanation": "Jonah did not leave content. He sat outside the city, angry and waiting to see what would happen."
+        },
+        {
+          "text": "He asked to preach in more cities",
+          "correct": false,
+          "explanation": "Jonah did not ask for more work. He was grieved that Nineveh was spared."
+        }
+      ]
+    },
+    {
+      "text": "What plant did God provide to give Jonah shade, only to let it wither the next day?",
+      "options": [
+        {
+          "text": "A fig tree",
+          "correct": false,
+          "explanation": "The plant was a gourd, not a fig tree."
+        },
+        {
+          "text": "A gourd",
+          "correct": true,
+          "explanation": "Jonah 4:6 says the Lord prepared a gourd to shade Jonah's head. The next day a worm struck it, and it withered, teaching Jonah about God's compassion."
+        },
+        {
+          "text": "A vine of grapes",
+          "correct": false,
+          "explanation": "It was a gourd that grew up over Jonah, not a grapevine."
+        },
+        {
+          "text": "A cedar",
+          "correct": false,
+          "explanation": "A cedar is a tall tree, but the plant in Jonah's story was a fast-growing gourd."
+        }
+      ]
+    }
+  ],
+  "scoring": {
+    "perfectMessage": "You know Jonah's whole journey, start to finish!",
+    "gradeBands": [
+      {
+        "min": 0,
+        "max": 39,
+        "label": "Setting Sail",
+        "message": "Jonah is a short read with a big lesson. Give it a try."
+      },
+      {
+        "min": 40,
+        "max": 69,
+        "label": "On Board",
+        "message": "You're tracking the story well."
+      },
+      {
+        "min": 70,
+        "max": 89,
+        "label": "Seasoned",
+        "message": "You really know the runaway prophet."
+      },
+      {
+        "min": 90,
+        "max": 100,
+        "label": "Prophet-level",
+        "message": "Excellent. You caught every twist."
+      }
+    ]
+  }
+}

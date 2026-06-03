@@ -1,0 +1,341 @@
+{
+  "slug": "name-the-books-of-the-bible",
+  "title": "Name the Books of the Bible",
+  "subtitle": "Sixty-six books, two testaments. How many can you place in order?",
+  "lang": "en",
+  "category": "bible-iq",
+  "theme": "bible-knowledge",
+  "estimatedMinutes": 5,
+  "mode": "knowledge",
+  "questions": [
+    {
+      "text": "What is the first book of the Bible?",
+      "options": [
+        {
+          "text": "Genesis",
+          "correct": true,
+          "explanation": "Genesis opens the Bible with creation and the early stories of God's people."
+        },
+        {
+          "text": "Exodus",
+          "correct": false,
+          "explanation": "Exodus is the second book, telling of Israel's escape from Egypt."
+        },
+        {
+          "text": "Matthew",
+          "correct": false,
+          "explanation": "Matthew is the first book of the New Testament, not the whole Bible."
+        },
+        {
+          "text": "Psalms",
+          "correct": false,
+          "explanation": "Psalms sits in the middle of the Old Testament, not at the start."
+        }
+      ]
+    },
+    {
+      "text": "How many books are in the whole Bible?",
+      "options": [
+        {
+          "text": "50",
+          "correct": false,
+          "explanation": "The Bible has more than fifty books across both testaments."
+        },
+        {
+          "text": "66",
+          "correct": true,
+          "explanation": "Most Protestant Bibles hold 66 books, 39 in the Old Testament and 27 in the New."
+        },
+        {
+          "text": "72",
+          "correct": false,
+          "explanation": "That number is too high for the standard 66-book Bible."
+        },
+        {
+          "text": "40",
+          "correct": false,
+          "explanation": "Forty is closer to the number of human authors, not the number of books."
+        }
+      ]
+    },
+    {
+      "text": "Which book is the first one in the New Testament?",
+      "options": [
+        {
+          "text": "Acts",
+          "correct": false,
+          "explanation": "Acts comes after the four Gospels, telling of the early church."
+        },
+        {
+          "text": "John",
+          "correct": false,
+          "explanation": "John is the fourth Gospel, not the first New Testament book."
+        },
+        {
+          "text": "Matthew",
+          "correct": true,
+          "explanation": "Matthew opens the New Testament and traces Jesus back to Abraham and David."
+        },
+        {
+          "text": "Romans",
+          "correct": false,
+          "explanation": "Romans is one of Paul's letters and comes well after the Gospels."
+        }
+      ]
+    },
+    {
+      "text": "Which of these is one of the four Gospels?",
+      "options": [
+        {
+          "text": "Galatians",
+          "correct": false,
+          "explanation": "Galatians is a letter Paul wrote, not a Gospel."
+        },
+        {
+          "text": "Luke",
+          "correct": true,
+          "explanation": "Luke is one of the four Gospels, along with Matthew, Mark, and John."
+        },
+        {
+          "text": "Hebrews",
+          "correct": false,
+          "explanation": "Hebrews is a letter about Jesus as our high priest, not a Gospel account."
+        },
+        {
+          "text": "Joshua",
+          "correct": false,
+          "explanation": "Joshua is an Old Testament book of history, not a Gospel."
+        }
+      ]
+    },
+    {
+      "text": "What is the very last book of the Bible?",
+      "options": [
+        {
+          "text": "Jude",
+          "correct": false,
+          "explanation": "Jude is a short letter near the end, but it is not the last book."
+        },
+        {
+          "text": "Revelation",
+          "correct": true,
+          "explanation": "Revelation closes the Bible with John's vision of the end and the new heaven and earth."
+        },
+        {
+          "text": "Malachi",
+          "correct": false,
+          "explanation": "Malachi is the last book of the Old Testament, not the whole Bible."
+        },
+        {
+          "text": "Acts",
+          "correct": false,
+          "explanation": "Acts sits early in the New Testament, far from the final book."
+        }
+      ]
+    },
+    {
+      "text": "How many books make up the Old Testament?",
+      "options": [
+        {
+          "text": "27",
+          "correct": false,
+          "explanation": "Twenty-seven is the count for the New Testament, not the Old."
+        },
+        {
+          "text": "39",
+          "correct": true,
+          "explanation": "The Old Testament holds 39 books, from Genesis through Malachi."
+        },
+        {
+          "text": "12",
+          "correct": false,
+          "explanation": "Twelve is the number of the Minor Prophets, just one section of the Old Testament."
+        },
+        {
+          "text": "66",
+          "correct": false,
+          "explanation": "Sixty-six is the total for the whole Bible, both testaments together."
+        }
+      ]
+    },
+    {
+      "text": "Which group of books comes first in the Old Testament?",
+      "options": [
+        {
+          "text": "The Gospels",
+          "correct": false,
+          "explanation": "The Gospels belong to the New Testament, not the Old."
+        },
+        {
+          "text": "The Prophets",
+          "correct": false,
+          "explanation": "The prophetic books come later in the Old Testament, after history and poetry."
+        },
+        {
+          "text": "The five books of the Law",
+          "correct": true,
+          "explanation": "Genesis through Deuteronomy, often called the Law or the Pentateuch, open the Old Testament."
+        },
+        {
+          "text": "The letters of Paul",
+          "correct": false,
+          "explanation": "Paul's letters are in the New Testament, written long after the Old Testament was complete."
+        }
+      ]
+    },
+    {
+      "text": "Which book of the Bible has 150 chapters and is the longest by chapter count?",
+      "options": [
+        {
+          "text": "Isaiah",
+          "correct": false,
+          "explanation": "Isaiah is long with 66 chapters, but it has fewer than Psalms."
+        },
+        {
+          "text": "Psalms",
+          "correct": true,
+          "explanation": "Psalms has 150 chapters, the most of any book in the Bible."
+        },
+        {
+          "text": "Genesis",
+          "correct": false,
+          "explanation": "Genesis has 50 chapters, far fewer than Psalms."
+        },
+        {
+          "text": "Matthew",
+          "correct": false,
+          "explanation": "Matthew has 28 chapters, well short of the 150 in Psalms."
+        }
+      ]
+    },
+    {
+      "text": "Which of these books was written by the apostle Paul?",
+      "options": [
+        {
+          "text": "Philippians",
+          "correct": true,
+          "explanation": "Philippians is one of Paul's letters, written to the church at Philippi."
+        },
+        {
+          "text": "James",
+          "correct": false,
+          "explanation": "James was written by James, not Paul."
+        },
+        {
+          "text": "Revelation",
+          "correct": false,
+          "explanation": "Revelation came through John, not Paul."
+        },
+        {
+          "text": "Genesis",
+          "correct": false,
+          "explanation": "Genesis is an Old Testament book, written long before Paul lived."
+        }
+      ]
+    },
+    {
+      "text": "Which book comes right after the four Gospels in the New Testament?",
+      "options": [
+        {
+          "text": "Romans",
+          "correct": false,
+          "explanation": "Romans comes after Acts, as the first of Paul's letters."
+        },
+        {
+          "text": "Acts",
+          "correct": true,
+          "explanation": "Acts follows the Gospels and tells how the early church began and grew."
+        },
+        {
+          "text": "Revelation",
+          "correct": false,
+          "explanation": "Revelation is the final book, not the one right after the Gospels."
+        },
+        {
+          "text": "Hebrews",
+          "correct": false,
+          "explanation": "Hebrews sits later among the letters, well after Acts."
+        }
+      ]
+    },
+    {
+      "text": "The last twelve books of the Old Testament are often called what?",
+      "options": [
+        {
+          "text": "The Minor Prophets",
+          "correct": true,
+          "explanation": "Hosea through Malachi are called the Minor Prophets, named for their shorter length, not lesser importance."
+        },
+        {
+          "text": "The Gospels",
+          "correct": false,
+          "explanation": "The Gospels are in the New Testament and tell the life of Jesus."
+        },
+        {
+          "text": "The Books of Law",
+          "correct": false,
+          "explanation": "The Books of Law are the first five books, not the last twelve."
+        },
+        {
+          "text": "The Wisdom Books",
+          "correct": false,
+          "explanation": "The Wisdom Books, like Proverbs and Job, sit in the middle of the Old Testament."
+        }
+      ]
+    },
+    {
+      "text": "Which book of the Bible is named after a woman and tells her story?",
+      "options": [
+        {
+          "text": "Daniel",
+          "correct": false,
+          "explanation": "Daniel is named after a man, the prophet who served in Babylon."
+        },
+        {
+          "text": "Ruth",
+          "correct": true,
+          "explanation": "Ruth is named for the Moabite woman whose loyalty placed her in the line of King David."
+        },
+        {
+          "text": "Joel",
+          "correct": false,
+          "explanation": "Joel is a prophetic book named after the man who wrote it."
+        },
+        {
+          "text": "Amos",
+          "correct": false,
+          "explanation": "Amos is named after the herdsman prophet, not a woman."
+        }
+      ]
+    }
+  ],
+  "scoring": {
+    "perfectMessage": "Perfect. You could rebuild the table of contents from memory.",
+    "gradeBands": [
+      {
+        "min": 0,
+        "max": 39,
+        "label": "Browsing",
+        "message": "The table of contents is a great place to start. Give it a look."
+      },
+      {
+        "min": 40,
+        "max": 69,
+        "label": "Finding Your Way",
+        "message": "You know your way around most of the Bible. Keep going."
+      },
+      {
+        "min": 70,
+        "max": 89,
+        "label": "Well Versed",
+        "message": "You know the books and their order well. Nice work."
+      },
+      {
+        "min": 90,
+        "max": 100,
+        "label": "Librarian",
+        "message": "You know these 66 books like the back of your hand."
+      }
+    ]
+  }
+}

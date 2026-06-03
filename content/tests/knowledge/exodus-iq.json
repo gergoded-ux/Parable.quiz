@@ -1,0 +1,341 @@
+{
+  "slug": "exodus-iq",
+  "title": "Exodus IQ",
+  "subtitle": "From the burning bush to the parted sea, how well do you know it?",
+  "lang": "en",
+  "category": "bible-iq",
+  "estimatedMinutes": 5,
+  "mode": "knowledge",
+  "questions": [
+    {
+      "text": "How was baby Moses saved from Pharaoh's order to kill the Hebrew boys?",
+      "options": [
+        {
+          "text": "He was hidden in a basket among the reeds of the river",
+          "correct": true,
+          "explanation": "Exodus 2 says his mother made an ark of bulrushes and placed him among the reeds by the river's bank."
+        },
+        {
+          "text": "He was raised in secret by shepherds",
+          "correct": false,
+          "explanation": "Moses did become a shepherd later in Midian, but as a baby he was hidden in a basket on the river."
+        },
+        {
+          "text": "An angel carried him to safety",
+          "correct": false,
+          "explanation": "There is no angel in this scene. His mother hid him in a basket and his sister watched over him."
+        },
+        {
+          "text": "He was smuggled out of Egypt by traders",
+          "correct": false,
+          "explanation": "Moses stayed in Egypt and was actually raised in Pharaoh's own household."
+        }
+      ]
+    },
+    {
+      "text": "Who found baby Moses and raised him?",
+      "options": [
+        {
+          "text": "Pharaoh's daughter",
+          "correct": true,
+          "explanation": "Exodus 2 tells how Pharaoh's daughter found the basket at the river and raised the child as her own."
+        },
+        {
+          "text": "A Hebrew midwife",
+          "correct": false,
+          "explanation": "The midwives Shiphrah and Puah feared God and spared the boys, but it was Pharaoh's daughter who raised Moses."
+        },
+        {
+          "text": "His brother Aaron",
+          "correct": false,
+          "explanation": "Aaron was Moses' brother, not the one who found and raised him."
+        },
+        {
+          "text": "An Egyptian priest",
+          "correct": false,
+          "explanation": "No priest is mentioned here. Pharaoh's daughter drew him from the water and raised him."
+        }
+      ]
+    },
+    {
+      "text": "How did God first speak to Moses in the wilderness?",
+      "options": [
+        {
+          "text": "Through a dream at night",
+          "correct": false,
+          "explanation": "God spoke to others through dreams elsewhere, but Moses met God at a burning bush."
+        },
+        {
+          "text": "From a bush that burned but was not consumed",
+          "correct": true,
+          "explanation": "Exodus 3 describes the bush burning with fire yet not consumed, and God calling to Moses from it."
+        },
+        {
+          "text": "Through the high priest",
+          "correct": false,
+          "explanation": "There was no priesthood yet at this point. God spoke directly from the burning bush."
+        },
+        {
+          "text": "By writing on a stone tablet",
+          "correct": false,
+          "explanation": "Stone tablets came later at Sinai. The first encounter was at the burning bush."
+        }
+      ]
+    },
+    {
+      "text": "When Moses asked God's name, what did God say?",
+      "options": [
+        {
+          "text": "\"I AM THAT I AM\"",
+          "correct": true,
+          "explanation": "Exodus 3:14 (ASV) reads, \"And God said unto Moses, I AM THAT I AM: and he said, Thus shalt thou say unto the children of Israel, I AM hath sent me unto you.\""
+        },
+        {
+          "text": "\"I am the God of thunder\"",
+          "correct": false,
+          "explanation": "That is not how God answered. The name given was tied to His eternal being, I AM."
+        },
+        {
+          "text": "\"My name is hidden from men\"",
+          "correct": false,
+          "explanation": "God did reveal His name to Moses rather than hiding it."
+        },
+        {
+          "text": "\"Call me the Most High alone\"",
+          "correct": false,
+          "explanation": "Most High is a title used elsewhere, but the answer at the bush was I AM THAT I AM."
+        }
+      ]
+    },
+    {
+      "text": "Who did God send to help Moses speak to Pharaoh?",
+      "options": [
+        {
+          "text": "His sister Miriam",
+          "correct": false,
+          "explanation": "Miriam was a prophetess and led the women in song, but the spokesman God appointed was Aaron."
+        },
+        {
+          "text": "His brother Aaron",
+          "correct": true,
+          "explanation": "Exodus 4 says Aaron, Moses' brother, would speak for him because Moses felt slow of speech."
+        },
+        {
+          "text": "Joshua, his servant",
+          "correct": false,
+          "explanation": "Joshua served Moses and led Israel later, but he was not the appointed spokesman to Pharaoh."
+        },
+        {
+          "text": "Jethro, his father-in-law",
+          "correct": false,
+          "explanation": "Jethro gave Moses wise advice on judging the people, but Aaron was his voice before Pharaoh."
+        }
+      ]
+    },
+    {
+      "text": "How many plagues did God send on Egypt?",
+      "options": [
+        {
+          "text": "Seven",
+          "correct": false,
+          "explanation": "There were more than seven. The full count is given across several chapters of Exodus."
+        },
+        {
+          "text": "Ten",
+          "correct": true,
+          "explanation": "Exodus 7 through 12 describes ten plagues, ending with the death of the firstborn."
+        },
+        {
+          "text": "Twelve",
+          "correct": false,
+          "explanation": "Twelve is the number of the tribes of Israel, not the plagues. There were ten plagues."
+        },
+        {
+          "text": "Three",
+          "correct": false,
+          "explanation": "Three is far too few. Egypt was struck with ten plagues in all."
+        }
+      ]
+    },
+    {
+      "text": "What was the final plague on Egypt?",
+      "options": [
+        {
+          "text": "A swarm of locusts",
+          "correct": false,
+          "explanation": "Locusts were one of the earlier plagues, not the last one."
+        },
+        {
+          "text": "The death of the firstborn",
+          "correct": true,
+          "explanation": "Exodus 12 records the death of every firstborn in Egypt as the final and most severe plague."
+        },
+        {
+          "text": "Three days of darkness",
+          "correct": false,
+          "explanation": "The darkness was the ninth plague. The tenth and final one was the death of the firstborn."
+        },
+        {
+          "text": "Water turned to blood",
+          "correct": false,
+          "explanation": "Water turning to blood was the very first plague, not the last."
+        }
+      ]
+    },
+    {
+      "text": "What were the Israelites told to put on their doorposts so the plague of death would pass over them?",
+      "options": [
+        {
+          "text": "Oil from the olive press",
+          "correct": false,
+          "explanation": "It was not oil. God told them to use the blood of the Passover lamb."
+        },
+        {
+          "text": "The blood of a lamb",
+          "correct": true,
+          "explanation": "Exodus 12 instructs them to put the blood of the lamb on the two side posts and the lintel of their houses."
+        },
+        {
+          "text": "Ashes from the fire",
+          "correct": false,
+          "explanation": "Ashes are not mentioned here. The sign on the doorposts was the blood of the lamb."
+        },
+        {
+          "text": "A written word from Moses",
+          "correct": false,
+          "explanation": "No writing was placed on the doors. The mark that brought protection was the lamb's blood."
+        }
+      ]
+    },
+    {
+      "text": "What body of water did God part so Israel could escape Pharaoh's army?",
+      "options": [
+        {
+          "text": "The Jordan River",
+          "correct": false,
+          "explanation": "The Jordan was parted later under Joshua. The escape from Egypt was through the Red Sea."
+        },
+        {
+          "text": "The Red Sea",
+          "correct": true,
+          "explanation": "Exodus 14 describes the waters of the Red Sea dividing so Israel walked through on dry ground."
+        },
+        {
+          "text": "The Sea of Galilee",
+          "correct": false,
+          "explanation": "The Sea of Galilee appears in the Gospels, far from the Exodus route."
+        },
+        {
+          "text": "The Nile River",
+          "correct": false,
+          "explanation": "The Nile turned to blood in the first plague, but the great crossing was at the Red Sea."
+        }
+      ]
+    },
+    {
+      "text": "What did God give the people each morning to eat in the wilderness?",
+      "options": [
+        {
+          "text": "Bread baked by the Egyptians",
+          "correct": false,
+          "explanation": "They had left Egypt behind. God provided food in a new and surprising way."
+        },
+        {
+          "text": "Manna",
+          "correct": true,
+          "explanation": "Exodus 16 tells how manna appeared on the ground each morning like a small round thing for the people to gather."
+        },
+        {
+          "text": "Fish from the sea",
+          "correct": false,
+          "explanation": "They remembered the fish of Egypt, but in the wilderness God gave manna instead."
+        },
+        {
+          "text": "Honey from the rocks",
+          "correct": false,
+          "explanation": "The daily provision was manna. Honey was a picture of the promised land, not the wilderness bread."
+        }
+      ]
+    },
+    {
+      "text": "On which mountain did God give Moses the Ten Commandments?",
+      "options": [
+        {
+          "text": "Mount Carmel",
+          "correct": false,
+          "explanation": "Mount Carmel is where Elijah faced the prophets of Baal much later."
+        },
+        {
+          "text": "Mount Sinai",
+          "correct": true,
+          "explanation": "Exodus 19 and 20 place the giving of the commandments at Mount Sinai, where God came down in fire and smoke."
+        },
+        {
+          "text": "Mount Moriah",
+          "correct": false,
+          "explanation": "Mount Moriah is where Abraham went to offer Isaac, back in Genesis."
+        },
+        {
+          "text": "Mount Ararat",
+          "correct": false,
+          "explanation": "Mount Ararat is where Noah's ark came to rest. The Law was given at Sinai."
+        }
+      ]
+    },
+    {
+      "text": "What was the first of the Ten Commandments?",
+      "options": [
+        {
+          "text": "Remember the sabbath day",
+          "correct": false,
+          "explanation": "Keeping the sabbath is one of the commandments, but it is not the first one."
+        },
+        {
+          "text": "Thou shalt have no other gods before me",
+          "correct": true,
+          "explanation": "Exodus 20:3 (ASV) reads, \"Thou shalt have no other gods before me.\""
+        },
+        {
+          "text": "Thou shalt not steal",
+          "correct": false,
+          "explanation": "Not stealing is one of the commandments, but it comes later in the list."
+        },
+        {
+          "text": "Honor thy father and thy mother",
+          "correct": false,
+          "explanation": "Honoring parents is a commandment too, yet the first one is about having no other gods before God."
+        }
+      ]
+    }
+  ],
+  "scoring": {
+    "perfectMessage": "You parted that quiz like the Red Sea!",
+    "gradeBands": [
+      {
+        "min": 0,
+        "max": 39,
+        "label": "New to It",
+        "message": "The Exodus is a great read. Start at chapter one."
+      },
+      {
+        "min": 40,
+        "max": 69,
+        "label": "On the Way",
+        "message": "You know the highlights. A reread will lock in the details."
+      },
+      {
+        "min": 70,
+        "max": 89,
+        "label": "Strong Recall",
+        "message": "You know the journey out of Egypt well."
+      },
+      {
+        "min": 90,
+        "max": 100,
+        "label": "Exodus Expert",
+        "message": "Outstanding. You know this story inside and out."
+      }
+    ]
+  },
+  "theme": "bible-knowledge"
+}

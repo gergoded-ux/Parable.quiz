@@ -1,0 +1,316 @@
+{
+  "slug": "how-well-do-you-know-the-ten-plagues",
+  "title": "The Ten Plagues IQ",
+  "subtitle": "Frogs, locusts, darkness. How much of the Exodus story do you really remember?",
+  "lang": "en",
+  "category": "bible-iq",
+  "theme": "bible-knowledge",
+  "estimatedMinutes": 5,
+  "mode": "knowledge",
+  "questions": [
+    {
+      "text": "What was the very first plague God sent on Egypt?",
+      "options": [
+        {
+          "text": "The water turned to blood",
+          "correct": true,
+          "explanation": "In Exodus 7:20 the water of the Nile turned to blood, and that was plague number one."
+        },
+        {
+          "text": "Frogs everywhere",
+          "correct": false,
+          "explanation": "Frogs came next, as the second plague, after the river turned to blood."
+        },
+        {
+          "text": "Total darkness",
+          "correct": false,
+          "explanation": "Darkness was the ninth plague, near the very end."
+        },
+        {
+          "text": "A swarm of locusts",
+          "correct": false,
+          "explanation": "Locusts were the eighth plague, long after the first."
+        }
+      ]
+    },
+    {
+      "text": "Who did God send to confront Pharaoh and demand that Israel be let go?",
+      "options": [
+        {
+          "text": "Joshua",
+          "correct": false,
+          "explanation": "Joshua led Israel much later, after Moses died, not during the plagues."
+        },
+        {
+          "text": "Moses, with his brother Aaron",
+          "correct": true,
+          "explanation": "God sent Moses, and Aaron went with him as his spokesman before Pharaoh (Exodus 4:14-16)."
+        },
+        {
+          "text": "Abraham",
+          "correct": false,
+          "explanation": "Abraham lived generations earlier and never set foot in Pharaoh's court during the Exodus."
+        },
+        {
+          "text": "Joseph",
+          "correct": false,
+          "explanation": "Joseph rose to power in Egypt long before, but he was not part of the plagues."
+        }
+      ]
+    },
+    {
+      "text": "What happened when Aaron threw down his rod before Pharaoh?",
+      "options": [
+        {
+          "text": "It bloomed with flowers",
+          "correct": false,
+          "explanation": "Aaron's rod budded later in the wilderness (Numbers 17), not here in Pharaoh's court."
+        },
+        {
+          "text": "It turned into a serpent",
+          "correct": true,
+          "explanation": "Exodus 7:10 says the rod became a serpent, and it swallowed up the serpents of Pharaoh's magicians."
+        },
+        {
+          "text": "It split the ground open",
+          "correct": false,
+          "explanation": "The ground swallowing rebels happens later with Korah, not with Aaron's rod here."
+        },
+        {
+          "text": "It caught fire",
+          "correct": false,
+          "explanation": "The rod did not burn. It turned into a serpent."
+        }
+      ]
+    },
+    {
+      "text": "Which plague brought painful boils on the people and the animals?",
+      "options": [
+        {
+          "text": "The plague of hail",
+          "correct": false,
+          "explanation": "Hail was a different plague that struck down crops and livestock left in the fields."
+        },
+        {
+          "text": "The plague of flies",
+          "correct": false,
+          "explanation": "Flies filled the houses, but they did not cause the boils."
+        },
+        {
+          "text": "The plague of boils",
+          "correct": true,
+          "explanation": "Exodus 9:9-10 describes ashes thrown toward heaven that became boils breaking out on man and beast."
+        },
+        {
+          "text": "The plague of lice",
+          "correct": false,
+          "explanation": "Lice came earlier and covered man and beast, but they were not boils."
+        }
+      ]
+    },
+    {
+      "text": "During the plague of darkness, what did the Israelites have in their homes?",
+      "options": [
+        {
+          "text": "Nothing different, they sat in the dark too",
+          "correct": false,
+          "explanation": "The darkness did not touch them the way it touched Egypt."
+        },
+        {
+          "text": "Light in their dwellings",
+          "correct": true,
+          "explanation": "Exodus 10:23 says the Egyptians sat in thick darkness, but the children of Israel had light in their dwellings."
+        },
+        {
+          "text": "Pillars of fire in every house",
+          "correct": false,
+          "explanation": "The pillar of fire guided Israel later in the wilderness, not during this plague."
+        },
+        {
+          "text": "Lamps given to them by Pharaoh",
+          "correct": false,
+          "explanation": "Pharaoh gave them nothing. The light in their homes came from God."
+        }
+      ]
+    },
+    {
+      "text": "What was the final and most severe plague?",
+      "options": [
+        {
+          "text": "The death of the firstborn",
+          "correct": true,
+          "explanation": "Exodus 12:29 records that the firstborn of Egypt died at midnight, from Pharaoh's son to the captive's son."
+        },
+        {
+          "text": "A great earthquake",
+          "correct": false,
+          "explanation": "There was no earthquake among the ten plagues."
+        },
+        {
+          "text": "The Nile drying up",
+          "correct": false,
+          "explanation": "The Nile turned to blood as the first plague, but it did not dry up as the last."
+        },
+        {
+          "text": "Fire falling from the sky",
+          "correct": false,
+          "explanation": "Hail mixed with fire came earlier, but the final plague was the death of the firstborn."
+        }
+      ]
+    },
+    {
+      "text": "What did God tell Israel to put on their doorposts so the destroyer would pass over them?",
+      "options": [
+        {
+          "text": "Oil from the lampstand",
+          "correct": false,
+          "explanation": "The sign on the doors was blood, not oil."
+        },
+        {
+          "text": "The blood of a lamb",
+          "correct": true,
+          "explanation": "Exodus 12:7 told them to strike the blood on the two side posts and the upper door post of their houses."
+        },
+        {
+          "text": "Ashes from the altar",
+          "correct": false,
+          "explanation": "Ashes were used in the plague of boils, not on the doorposts."
+        },
+        {
+          "text": "Salt and bread",
+          "correct": false,
+          "explanation": "They ate unleavened bread that night, but the sign on the door was the lamb's blood."
+        }
+      ]
+    },
+    {
+      "text": "What did the plague of frogs do to the land of Egypt?",
+      "options": [
+        {
+          "text": "The frogs ate all the crops",
+          "correct": false,
+          "explanation": "Locusts devoured the crops later. The frogs simply overran everything."
+        },
+        {
+          "text": "The frogs covered the land, even the houses and beds",
+          "correct": true,
+          "explanation": "Exodus 8:3-4 says the frogs went up into the houses, the bedchambers, and the kneading troughs."
+        },
+        {
+          "text": "The frogs poisoned the water",
+          "correct": false,
+          "explanation": "The water was already struck in the first plague. The frogs came out of it, but did not poison it."
+        },
+        {
+          "text": "The frogs only stayed by the river",
+          "correct": false,
+          "explanation": "They did not stay by the river. They spread into homes and beds across Egypt."
+        }
+      ]
+    },
+    {
+      "text": "Whose magicians copied some of the early plagues with their secret arts?",
+      "options": [
+        {
+          "text": "The kings of Canaan",
+          "correct": false,
+          "explanation": "Canaan was not part of this story. The magicians served Pharaoh in Egypt."
+        },
+        {
+          "text": "The priests of Babylon",
+          "correct": false,
+          "explanation": "Babylon comes much later in the Bible and had nothing to do with the plagues."
+        },
+        {
+          "text": "Pharaoh's magicians",
+          "correct": true,
+          "explanation": "Exodus 7:11 says Pharaoh's wise men and sorcerers copied some signs, until they could not keep up with God."
+        },
+        {
+          "text": "The elders of Israel",
+          "correct": false,
+          "explanation": "Israel's elders followed Moses. They did not work against God's plagues."
+        }
+      ]
+    },
+    {
+      "text": "How did Pharaoh finally respond after the last plague?",
+      "options": [
+        {
+          "text": "He let Israel go",
+          "correct": true,
+          "explanation": "In Exodus 12:31 Pharaoh called for Moses and Aaron by night and told them to rise up and go."
+        },
+        {
+          "text": "He had Moses arrested",
+          "correct": false,
+          "explanation": "Pharaoh did not arrest Moses. He sent the people away."
+        },
+        {
+          "text": "He ignored Moses completely",
+          "correct": false,
+          "explanation": "He could not ignore the death of his own firstborn. He finally relented."
+        },
+        {
+          "text": "He offered to share his throne",
+          "correct": false,
+          "explanation": "Pharaoh never offered his throne. He simply let the people leave."
+        }
+      ]
+    },
+    {
+      "text": "What lasting feast did God give Israel to remember this night of deliverance?",
+      "options": [
+        {
+          "text": "The Day of Atonement",
+          "correct": false,
+          "explanation": "The Day of Atonement is a separate holy day about cleansing from sin, not the Exodus night."
+        },
+        {
+          "text": "The Feast of Tabernacles",
+          "correct": false,
+          "explanation": "Tabernacles recalls Israel living in booths in the wilderness, not the night of the firstborn."
+        },
+        {
+          "text": "The Passover",
+          "correct": true,
+          "explanation": "Exodus 12:14 says this day would be a memorial, kept as a feast forever. We call it the Passover."
+        },
+        {
+          "text": "Pentecost",
+          "correct": false,
+          "explanation": "Pentecost came fifty days later and marked a different event in Israel's calendar."
+        }
+      ]
+    }
+  ],
+  "scoring": {
+    "perfectMessage": "Perfect. You know the Exodus inside and out.",
+    "gradeBands": [
+      {
+        "min": 0,
+        "max": 39,
+        "label": "Just Starting",
+        "message": "Time to revisit Exodus. The story is worth it."
+      },
+      {
+        "min": 40,
+        "max": 69,
+        "label": "Getting There",
+        "message": "You remember the big moments. Keep reading."
+      },
+      {
+        "min": 70,
+        "max": 89,
+        "label": "Well Read",
+        "message": "You know the plagues well. Nicely done."
+      },
+      {
+        "min": 90,
+        "max": 100,
+        "label": "Exodus Expert",
+        "message": "Pharaoh never stood a chance against your memory."
+      }
+    ]
+  }
+}

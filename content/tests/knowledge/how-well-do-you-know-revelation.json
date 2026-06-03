@@ -1,0 +1,316 @@
+{
+  "slug": "how-well-do-you-know-revelation",
+  "title": "How Well Do You Know Revelation?",
+  "subtitle": "Test your grip on the Bible's final, vivid book.",
+  "lang": "en",
+  "category": "bible-iq",
+  "estimatedMinutes": 5,
+  "mode": "knowledge",
+  "questions": [
+    {
+      "text": "Who is traditionally named as the writer of Revelation, the one who received the vision?",
+      "options": [
+        {
+          "text": "Paul",
+          "correct": false,
+          "explanation": "Paul wrote many letters, but Revelation names its writer as John."
+        },
+        {
+          "text": "John",
+          "correct": true,
+          "explanation": "The book opens as the revelation given to John, the servant of God (Revelation 1:1)."
+        },
+        {
+          "text": "Peter",
+          "correct": false,
+          "explanation": "Peter wrote two letters in the New Testament, but not Revelation."
+        },
+        {
+          "text": "Luke",
+          "correct": false,
+          "explanation": "Luke wrote a Gospel and the book of Acts, not Revelation."
+        }
+      ]
+    },
+    {
+      "text": "On what island was John when he received the vision?",
+      "options": [
+        {
+          "text": "Cyprus",
+          "correct": false,
+          "explanation": "Cyprus appears in the book of Acts on Paul's journeys, not in Revelation."
+        },
+        {
+          "text": "Crete",
+          "correct": false,
+          "explanation": "Crete shows up in Paul's travels and the letter to Titus, not here."
+        },
+        {
+          "text": "Patmos",
+          "correct": true,
+          "explanation": "John says he was on the island called Patmos for the word of God (Revelation 1:9)."
+        },
+        {
+          "text": "Malta",
+          "correct": false,
+          "explanation": "Malta is where Paul was shipwrecked in Acts, not where John saw his vision."
+        }
+      ]
+    },
+    {
+      "text": "How many churches are addressed in the letters near the start of Revelation?",
+      "options": [
+        {
+          "text": "Three",
+          "correct": false,
+          "explanation": "There are more than three. The letters go to seven churches."
+        },
+        {
+          "text": "Seven",
+          "correct": true,
+          "explanation": "John writes to seven churches in Asia, like Ephesus, Smyrna, and Laodicea (Revelation 1:11)."
+        },
+        {
+          "text": "Ten",
+          "correct": false,
+          "explanation": "Ten is too many. The letters are sent to seven churches."
+        },
+        {
+          "text": "Twelve",
+          "correct": false,
+          "explanation": "Twelve fits the tribes and the apostles, but the churches here number seven."
+        }
+      ]
+    },
+    {
+      "text": "How is Jesus often pictured in Revelation, as a slain yet living animal?",
+      "options": [
+        {
+          "text": "A lion",
+          "correct": false,
+          "explanation": "Jesus is called the Lion of the tribe of Judah, but the slain figure is the Lamb."
+        },
+        {
+          "text": "A dove",
+          "correct": false,
+          "explanation": "The dove pictures the Spirit at Jesus' baptism, not the Lamb of Revelation."
+        },
+        {
+          "text": "A Lamb",
+          "correct": true,
+          "explanation": "John sees a Lamb that had been slain yet stands alive, worthy to open the scroll (Revelation 5:6)."
+        },
+        {
+          "text": "An eagle",
+          "correct": false,
+          "explanation": "An eagle appears among the living creatures, but Jesus is shown as the Lamb."
+        }
+      ]
+    },
+    {
+      "text": "How many seals are on the scroll that the Lamb opens?",
+      "options": [
+        {
+          "text": "Three",
+          "correct": false,
+          "explanation": "There are more than three. The scroll has seven seals."
+        },
+        {
+          "text": "Five",
+          "correct": false,
+          "explanation": "Five is short of the count. The scroll is sealed with seven seals."
+        },
+        {
+          "text": "Seven",
+          "correct": true,
+          "explanation": "The scroll is sealed with seven seals, and the Lamb opens each one (Revelation 5:1)."
+        },
+        {
+          "text": "Twelve",
+          "correct": false,
+          "explanation": "Twelve is a key number elsewhere, but the seals number seven."
+        }
+      ]
+    },
+    {
+      "text": "The four riders released as seals are opened are often called the Four Horsemen of what?",
+      "options": [
+        {
+          "text": "The Apocalypse",
+          "correct": true,
+          "explanation": "The four riders are commonly called the Four Horsemen of the Apocalypse (Revelation 6:1-8)."
+        },
+        {
+          "text": "The Exodus",
+          "correct": false,
+          "explanation": "The Exodus is the story of Moses leading Israel out of Egypt, not these riders."
+        },
+        {
+          "text": "The Kingdom",
+          "correct": false,
+          "explanation": "That phrase does not name the riders. They are the Horsemen of the Apocalypse."
+        },
+        {
+          "text": "The Covenant",
+          "correct": false,
+          "explanation": "The covenant points to God's promises, not to the four riders."
+        }
+      ]
+    },
+    {
+      "text": "What did the angels sound to announce waves of judgment in Revelation?",
+      "options": [
+        {
+          "text": "Harps",
+          "correct": false,
+          "explanation": "Harps are played in worship scenes, but the judgments are announced by trumpets."
+        },
+        {
+          "text": "Seven trumpets",
+          "correct": true,
+          "explanation": "Seven angels were given seven trumpets, and each sounding brought judgment (Revelation 8:6)."
+        },
+        {
+          "text": "Bells",
+          "correct": false,
+          "explanation": "Bells are not part of this scene. Seven angels sounded seven trumpets."
+        },
+        {
+          "text": "Drums",
+          "correct": false,
+          "explanation": "There are no drums here. The angels blew seven trumpets."
+        }
+      ]
+    },
+    {
+      "text": "What number is called the number of the beast in Revelation 13?",
+      "options": [
+        {
+          "text": "777",
+          "correct": false,
+          "explanation": "Seven is a number of completeness in the Bible, but the beast's number is different."
+        },
+        {
+          "text": "666",
+          "correct": true,
+          "explanation": "Revelation 13:18 gives the number of the beast as six hundred and sixty-six."
+        },
+        {
+          "text": "144",
+          "correct": false,
+          "explanation": "The number 144 connects to the sealed servants of God, not the beast."
+        },
+        {
+          "text": "1260",
+          "correct": false,
+          "explanation": "The number 1260 marks a span of days in the visions, not the beast's number."
+        }
+      ]
+    },
+    {
+      "text": "What is the final battle named in Revelation 16, gathered at a place called by that name?",
+      "options": [
+        {
+          "text": "Armageddon",
+          "correct": true,
+          "explanation": "The kings are gathered to a place called Armageddon (Revelation 16:16)."
+        },
+        {
+          "text": "Babylon",
+          "correct": false,
+          "explanation": "Babylon is the great city that falls in Revelation, not the name of this battlefield."
+        },
+        {
+          "text": "Gomorrah",
+          "correct": false,
+          "explanation": "Gomorrah was destroyed in Genesis, far from the visions of Revelation."
+        },
+        {
+          "text": "Jericho",
+          "correct": false,
+          "explanation": "Jericho fell in the days of Joshua, not in the final battle of Revelation."
+        }
+      ]
+    },
+    {
+      "text": "What does John see coming down out of heaven near the end, prepared like a bride?",
+      "options": [
+        {
+          "text": "A golden throne",
+          "correct": false,
+          "explanation": "A throne is at the center of God's presence, but what descends is the holy city."
+        },
+        {
+          "text": "The new Jerusalem",
+          "correct": true,
+          "explanation": "John sees the holy city, new Jerusalem, coming down adorned as a bride (Revelation 21:2)."
+        },
+        {
+          "text": "A great mountain",
+          "correct": false,
+          "explanation": "A mountain is where John is carried to view the city, but the city itself comes down."
+        },
+        {
+          "text": "A sealed ark",
+          "correct": false,
+          "explanation": "The ark appears earlier in a vision, but the bride-like city is the new Jerusalem."
+        }
+      ]
+    },
+    {
+      "text": "In the new Jerusalem, what does God promise to do with every tear?",
+      "options": [
+        {
+          "text": "Wipe away every tear, with no more death or pain",
+          "correct": true,
+          "explanation": "Revelation 21:4 (ASV) says God shall wipe away every tear, and \"death shall be no more.\""
+        },
+        {
+          "text": "Count every tear in a book",
+          "correct": false,
+          "explanation": "God knows our sorrows, but here the promise is that He wipes every tear away."
+        },
+        {
+          "text": "Leave tears as they are",
+          "correct": false,
+          "explanation": "Tears do not remain. God promises to wipe them all away."
+        },
+        {
+          "text": "Turn tears into rivers",
+          "correct": false,
+          "explanation": "There is a river of life in the city, but the tears themselves are wiped away."
+        }
+      ]
+    }
+  ],
+  "scoring": {
+    "perfectMessage": "You know the book of Revelation through and through.",
+    "gradeBands": [
+      {
+        "min": 0,
+        "max": 39,
+        "label": "Newcomer",
+        "message": "A great reason to read Revelation slowly and carefully."
+      },
+      {
+        "min": 40,
+        "max": 69,
+        "label": "Reader",
+        "message": "You know the main images of Revelation."
+      },
+      {
+        "min": 70,
+        "max": 89,
+        "label": "Interpreter",
+        "message": "You know your way through this vivid book."
+      },
+      {
+        "min": 90,
+        "max": 100,
+        "label": "Visionary",
+        "message": "Remarkable. The visions of Revelation are clearly familiar to you."
+      }
+    ]
+  },
+  "theme": "bible-knowledge"
+}

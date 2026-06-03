@@ -1,0 +1,316 @@
+{
+  "slug": "how-well-do-you-know-the-gospels",
+  "title": "How Well Do You Know the Gospels?",
+  "subtitle": "Test your grip on the four accounts of Jesus' life.",
+  "lang": "en",
+  "category": "bible-iq",
+  "estimatedMinutes": 5,
+  "mode": "knowledge",
+  "questions": [
+    {
+      "text": "How many Gospels are there in the New Testament?",
+      "options": [
+        {
+          "text": "Three",
+          "correct": false,
+          "explanation": "Three would leave one of the writers out, and all four have their own book."
+        },
+        {
+          "text": "Four",
+          "correct": true,
+          "explanation": "Matthew, Mark, Luke, and John each tell the story of Jesus in their own way."
+        },
+        {
+          "text": "Five",
+          "correct": false,
+          "explanation": "There are only four Gospels. The book of Acts follows them, but it is not a Gospel."
+        },
+        {
+          "text": "Seven",
+          "correct": false,
+          "explanation": "Seven is a number that shows up a lot in the Bible, but there are just four Gospels."
+        }
+      ]
+    },
+    {
+      "text": "Which Gospel is the shortest and moves the fastest?",
+      "options": [
+        {
+          "text": "Matthew",
+          "correct": false,
+          "explanation": "Matthew is long and full of Jesus' teaching, like the Sermon on the Mount."
+        },
+        {
+          "text": "Mark",
+          "correct": true,
+          "explanation": "Mark is the briefest Gospel and keeps the action moving, often using the word 'straightway.'"
+        },
+        {
+          "text": "Luke",
+          "correct": false,
+          "explanation": "Luke is the longest Gospel and even opens by saying he set things in order carefully."
+        },
+        {
+          "text": "John",
+          "correct": false,
+          "explanation": "John is unique and reflective, but Mark is the shortest of the four."
+        }
+      ]
+    },
+    {
+      "text": "Which Gospel opens with the words, \"In the beginning was the Word\"?",
+      "options": [
+        {
+          "text": "Matthew",
+          "correct": false,
+          "explanation": "Matthew opens with a genealogy tracing Jesus back to Abraham."
+        },
+        {
+          "text": "Mark",
+          "correct": false,
+          "explanation": "Mark opens with John the Baptist preparing the way, not with the Word."
+        },
+        {
+          "text": "John",
+          "correct": true,
+          "explanation": "John 1:1 (ASV) begins, \"In the beginning was the Word, and the Word was with God, and the Word was God.\""
+        },
+        {
+          "text": "Luke",
+          "correct": false,
+          "explanation": "Luke opens with a note to a man named Theophilus, then moves to the birth stories."
+        }
+      ]
+    },
+    {
+      "text": "Who baptized Jesus in the Jordan River?",
+      "options": [
+        {
+          "text": "Peter",
+          "correct": false,
+          "explanation": "Peter was one of Jesus' disciples, called later in the story."
+        },
+        {
+          "text": "John the Baptist",
+          "correct": true,
+          "explanation": "John baptized Jesus in the Jordan, and the Spirit came down like a dove (Matthew 3:13-17)."
+        },
+        {
+          "text": "Andrew",
+          "correct": false,
+          "explanation": "Andrew was Peter's brother and a follower of Jesus, not the one who baptized Him."
+        },
+        {
+          "text": "Elijah",
+          "correct": false,
+          "explanation": "Elijah lived centuries earlier. Some thought John came in the spirit of Elijah, but it was John who baptized Jesus."
+        }
+      ]
+    },
+    {
+      "text": "How many disciples did Jesus choose as His apostles?",
+      "options": [
+        {
+          "text": "Seven",
+          "correct": false,
+          "explanation": "Seven men were later chosen to serve tables in Acts, but the apostles were more."
+        },
+        {
+          "text": "Ten",
+          "correct": false,
+          "explanation": "Ten leaves two of the apostles out of the count."
+        },
+        {
+          "text": "Twelve",
+          "correct": true,
+          "explanation": "Jesus chose twelve apostles, a number that echoes the twelve tribes of Israel (Mark 3:14)."
+        },
+        {
+          "text": "Seventy",
+          "correct": false,
+          "explanation": "Jesus also sent out seventy others, but His inner circle of apostles was twelve."
+        }
+      ]
+    },
+    {
+      "text": "On which mountain did Jesus give the teaching that includes the Beatitudes?",
+      "options": [
+        {
+          "text": "Mount Sinai",
+          "correct": false,
+          "explanation": "Mount Sinai is where Moses received the Law, long before Jesus."
+        },
+        {
+          "text": "The Mount of Olives",
+          "correct": false,
+          "explanation": "The Mount of Olives appears later, near Jesus' final days, but not for the Beatitudes."
+        },
+        {
+          "text": "A mountain, in what we call the Sermon on the Mount",
+          "correct": true,
+          "explanation": "Matthew 5:1-2 says Jesus went up a mountain and began to teach, giving the Beatitudes."
+        },
+        {
+          "text": "Mount Carmel",
+          "correct": false,
+          "explanation": "Mount Carmel is where Elijah faced the prophets of Baal in the Old Testament."
+        }
+      ]
+    },
+    {
+      "text": "Which Gospel is traditionally linked with a doctor and pays close attention to the poor and outsiders?",
+      "options": [
+        {
+          "text": "Luke",
+          "correct": true,
+          "explanation": "Luke is tied to a physician of that name (Colossians 4:14) and often highlights the lowly and the lost."
+        },
+        {
+          "text": "Mark",
+          "correct": false,
+          "explanation": "Mark is fast and action-driven, but it is Luke who is linked with a doctor."
+        },
+        {
+          "text": "Matthew",
+          "correct": false,
+          "explanation": "Matthew was a tax collector and wrote with a Jewish audience in mind."
+        },
+        {
+          "text": "John",
+          "correct": false,
+          "explanation": "John focuses on who Jesus is, with long talks and seven signs."
+        }
+      ]
+    },
+    {
+      "text": "Who betrayed Jesus to the religious leaders?",
+      "options": [
+        {
+          "text": "Thomas",
+          "correct": false,
+          "explanation": "Thomas doubted the resurrection at first, but he did not betray Jesus."
+        },
+        {
+          "text": "Judas Iscariot",
+          "correct": true,
+          "explanation": "Judas handed Jesus over for thirty pieces of silver (Matthew 26:14-16)."
+        },
+        {
+          "text": "Peter",
+          "correct": false,
+          "explanation": "Peter denied knowing Jesus three times, but Judas was the betrayer."
+        },
+        {
+          "text": "Bartholomew",
+          "correct": false,
+          "explanation": "Bartholomew was one of the twelve, but he was not the betrayer."
+        }
+      ]
+    },
+    {
+      "text": "What did Peter do three times on the night Jesus was arrested?",
+      "options": [
+        {
+          "text": "Healed the sick",
+          "correct": false,
+          "explanation": "That night was about fear, not healing. The healings came later in Acts."
+        },
+        {
+          "text": "Denied that he knew Jesus",
+          "correct": true,
+          "explanation": "Peter denied Jesus three times before the rooster crowed, just as Jesus had said (Luke 22:54-62)."
+        },
+        {
+          "text": "Fell asleep in the garden",
+          "correct": false,
+          "explanation": "Peter did fall asleep in the garden, but the thing he did three times was deny Jesus."
+        },
+        {
+          "text": "Walked on water",
+          "correct": false,
+          "explanation": "Peter walked on water earlier in Jesus' ministry, not on the night of the arrest."
+        }
+      ]
+    },
+    {
+      "text": "Who was the Roman governor who allowed Jesus to be crucified?",
+      "options": [
+        {
+          "text": "Herod the Great",
+          "correct": false,
+          "explanation": "Herod the Great ruled at Jesus' birth and ordered the killing of the infants in Bethlehem."
+        },
+        {
+          "text": "Caesar Augustus",
+          "correct": false,
+          "explanation": "Caesar Augustus called for the census around Jesus' birth, but he was far away in Rome."
+        },
+        {
+          "text": "Pontius Pilate",
+          "correct": true,
+          "explanation": "Pilate questioned Jesus, washed his hands, and handed Him over to be crucified (Matthew 27:24-26)."
+        },
+        {
+          "text": "Felix",
+          "correct": false,
+          "explanation": "Felix was a later governor who heard Paul's case in the book of Acts."
+        }
+      ]
+    },
+    {
+      "text": "What did the women find when they came to Jesus' tomb on the first day of the week?",
+      "options": [
+        {
+          "text": "The stone rolled away and the tomb empty",
+          "correct": true,
+          "explanation": "They found the stone rolled back and were told, \"He is not here, for he is risen\" (Matthew 28:6, ASV)."
+        },
+        {
+          "text": "Soldiers guarding a sealed door",
+          "correct": false,
+          "explanation": "Guards had been posted, but by morning the stone was rolled away and the tomb was open."
+        },
+        {
+          "text": "Jesus still wrapped in the cloths",
+          "correct": false,
+          "explanation": "The grave cloths were left behind, but Jesus' body was gone. He had risen."
+        },
+        {
+          "text": "An empty garden with no tomb",
+          "correct": false,
+          "explanation": "The tomb was right there. What was missing was the body of Jesus."
+        }
+      ]
+    }
+  ],
+  "scoring": {
+    "perfectMessage": "You know the Gospels inside and out.",
+    "gradeBands": [
+      {
+        "min": 0,
+        "max": 39,
+        "label": "Seeker",
+        "message": "A great reason to read the Gospels start to finish."
+      },
+      {
+        "min": 40,
+        "max": 69,
+        "label": "Student",
+        "message": "You know the big moments of Jesus' story."
+      },
+      {
+        "min": 70,
+        "max": 89,
+        "label": "Scholar",
+        "message": "You really know your way around the four Gospels."
+      },
+      {
+        "min": 90,
+        "max": 100,
+        "label": "Sage",
+        "message": "Outstanding. The Gospels are clearly your home turf."
+      }
+    ]
+  },
+  "theme": "bible-knowledge"
+}
