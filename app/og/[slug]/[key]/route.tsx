@@ -2,7 +2,7 @@
 import { ImageResponse } from 'next/og';
 import { readFileSync } from 'node:fs';
 import { join } from 'node:path';
-import { loadTestBySlug } from '@/lib/test-loader';
+import { loadTestBySlug, isPublished } from '@/lib/test-loader';
 import { cardDataFromResult, binaryAffinityStat } from '@/lib/card-data';
 import { CARD, PANEL, nameFontSizeOg, STAR_PATH } from '@/lib/card-layout';
 import { artUrl } from '@/lib/card-art';
@@ -42,7 +42,8 @@ export async function GET(req: Request, { params }: { params: Promise<{ slug: st
   const matchPct = mRaw != null && mRaw !== '' ? Math.max(0, Math.min(100, parseInt(mRaw, 10) || 0)) : null;
 
   const W = CARD.width, H = CARD.height;
-  const test = loadTestBySlug(slug);
+  // Backlog quizzes have no live card (falls through to the blank-card guard).
+  const test = isPublished(slug) ? loadTestBySlug(slug) : null;
   const stat = test ? binaryAffinityStat(test, key, matchPct) : undefined;
   const d = test ? cardDataFromResult(test, key, matchPct, stat) : null;
 

@@ -1,15 +1,19 @@
 // app/page.tsx
-import { loadAllTests } from '@/lib/test-loader';
+import { loadPublishedTests } from '@/lib/test-loader';
 import { QuizCard } from '@/components/QuizCard';
 import { HomeNav } from '@/components/HomeNav';
 import { HomeBackground } from '@/components/HomeBackground';
 import { AdSlot } from '@/components/AdSlot';
 
 export default function Home() {
-  const all = loadAllTests();
-  const archetype = all.filter(t => t.mode === 'archetype');
-  const profile   = all.filter(t => t.mode === 'profile');
-  const knowledge = all.filter(t => t.mode === 'knowledge');
+  // Live quizzes only (content/published.json), in launch-priority order.
+  const all = loadPublishedTests();
+  const featured = all.slice(0, 6);
+  const featuredSlugs = new Set(featured.map(t => t.slug));
+  const rest = all.filter(t => !featuredSlugs.has(t.slug));
+  const archetype = rest.filter(t => t.mode === 'archetype');
+  const profile   = rest.filter(t => t.mode === 'profile');
+  const knowledge = rest.filter(t => t.mode === 'knowledge');
 
   return (
     <>
@@ -23,19 +27,31 @@ export default function Home() {
         <div className="text-xs uppercase tracking-widest text-ink-mute">{all.length} QUIZZES · ALWAYS FREE · NO SIGN-UP</div>
       </header>
 
-      <Section id="archetype" title="Most shared this week">
-        {archetype.slice(0, 6).map(t => <QuizCard key={t.slug} test={t} />)}
-      </Section>
+      {featured.length > 0 && (
+        <Section id="featured" title="Most shared this week">
+          {featured.map(t => <QuizCard key={t.slug} test={t} />)}
+        </Section>
+      )}
 
       <AdSlot slot="home-mid" />
 
-      <Section id="profile" title="Spiritual profiles · deeper dives">
-        {profile.map(t => <QuizCard key={t.slug} test={t} />)}
-      </Section>
+      {archetype.length > 0 && (
+        <Section id="archetype" title="Bible character quizzes">
+          {archetype.map(t => <QuizCard key={t.slug} test={t} />)}
+        </Section>
+      )}
 
-      <Section id="knowledge" title="Bible IQ · how well do you know scripture?">
-        {knowledge.map(t => <QuizCard key={t.slug} test={t} />)}
-      </Section>
+      {profile.length > 0 && (
+        <Section id="profile" title="Spiritual profiles · deeper dives">
+          {profile.map(t => <QuizCard key={t.slug} test={t} />)}
+        </Section>
+      )}
+
+      {knowledge.length > 0 && (
+        <Section id="knowledge" title="Bible IQ · how well do you know scripture?">
+          {knowledge.map(t => <QuizCard key={t.slug} test={t} />)}
+        </Section>
+      )}
 
       <footer className="px-8 py-8 text-center text-xs text-ink-mute">
         © Parable · <a href="/about">About</a> · <a href="/privacy">Privacy</a>

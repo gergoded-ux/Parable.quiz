@@ -1,7 +1,7 @@
 // app/q/[slug]/r/[key]/page.tsx
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
-import { loadAllTests, loadTestBySlug } from '@/lib/test-loader';
+import { loadPublishedTests, loadTestBySlug, isPublished } from '@/lib/test-loader';
 import { HomeNav } from '@/components/HomeNav';
 import { ResultCard } from '@/components/ResultCard';
 import { AdSlot } from '@/components/AdSlot';
@@ -11,7 +11,7 @@ import { cardDataFromResult, binaryAffinityStat } from '@/lib/card-data';
 
 export function generateStaticParams() {
   const params: { slug: string; key: string }[] = [];
-  for (const t of loadAllTests()) {
+  for (const t of loadPublishedTests()) {
     if (t.mode === 'archetype' || t.mode === 'profile') {
       Object.keys(t.results).forEach(key => params.push({ slug: t.slug, key }));
     } else {
@@ -25,7 +25,7 @@ export async function generateMetadata({ params, searchParams }: { params: Promi
   const { slug, key } = await params;
   const { m } = await searchParams;
   const test = loadTestBySlug(slug);
-  if (!test) return {};
+  if (!test || !isPublished(slug)) return {};
   let title = test.title;
   let description = `Take ${test.title} on Parable.`;
   if (test.mode === 'archetype') {
@@ -56,7 +56,7 @@ export default async function ResultPage({ params, searchParams }: { params: Pro
   const { slug, key } = await params;
   const { m } = await searchParams;
   const test = loadTestBySlug(slug);
-  if (!test) notFound();
+  if (!test || !isPublished(slug)) notFound();
 
   const matchPct = m != null && m !== '' ? Math.max(0, Math.min(100, parseInt(m, 10) || 0)) : null;
   const stat = binaryAffinityStat(test, key, matchPct);

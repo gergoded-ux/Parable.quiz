@@ -1,11 +1,11 @@
 // app/sitemap.ts
 import type { MetadataRoute } from 'next';
-import { loadAllTests } from '@/lib/test-loader';
+import { loadPublishedTests } from '@/lib/test-loader';
 
 const BASE = 'https://parable.quiz';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const tests = loadAllTests();
+  const tests = loadPublishedTests();
   const out: MetadataRoute.Sitemap = [
     { url: BASE, changeFrequency: 'weekly', priority: 1 },
     { url: `${BASE}/about`, changeFrequency: 'yearly', priority: 0.3 },

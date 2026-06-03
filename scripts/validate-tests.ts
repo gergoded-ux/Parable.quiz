@@ -1,10 +1,22 @@
 // scripts/validate-tests.ts
-import { loadAllTests } from '@/lib/test-loader';
+import { loadAllTests, isPublished } from '@/lib/test-loader';
 import { getScripture } from '@/lib/scripture';
+import publishedSlugs from '@/content/published.json';
 
 function main() {
   const tests = loadAllTests();
   let errors = 0;
+
+  // Every slug in the published allowlist must resolve to a real quiz, or it
+  // would silently vanish from the live site.
+  const known = new Set(tests.map(t => t.slug));
+  for (const slug of publishedSlugs as string[]) {
+    if (!known.has(slug)) {
+      console.error(`❌ published.json → "${slug}" has no matching quiz file`);
+      errors++;
+    }
+  }
+  const liveCount = tests.filter(t => isPublished(t.slug)).length;
 
   for (const t of tests) {
     if (t.mode === 'archetype') {
@@ -35,7 +47,7 @@ function main() {
     }
   }
 
-  console.log(`✅ Validated ${tests.length} test(s)`);
+  console.log(`✅ Validated ${tests.length} test(s) · ${liveCount} live, ${tests.length - liveCount} backlog`);
   if (errors > 0) {
     console.error(`💥 ${errors} validation error(s)`);
     process.exit(1);
