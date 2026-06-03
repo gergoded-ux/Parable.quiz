@@ -1,0 +1,349 @@
+{
+  "slug": "which-bible-queen-are-you",
+  "title": "Which Old Testament Queen Are You?",
+  "subtitle": "From the brave to the infamous, which crown fits you?",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 4,
+  "mode": "archetype",
+  "theme": "scripture-archetype",
+  "questions": [
+    {
+      "text": "When a hard moment lands in your lap, what rises first?",
+      "options": [
+        {
+          "text": "Maybe I was placed here on purpose, for this exact moment.",
+          "weights": {
+            "esther": 3
+          }
+        },
+        {
+          "text": "I will not be paraded around against my will.",
+          "weights": {
+            "vashti": 3
+          }
+        },
+        {
+          "text": "I will get what I want, whatever it takes.",
+          "weights": {
+            "jezebel": 3
+          }
+        },
+        {
+          "text": "I am curious. I have to go see the truth for myself.",
+          "weights": {
+            "sheba": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "People who know you well would call you...",
+      "options": [
+        {
+          "text": "Brave, even when my voice is shaking.",
+          "weights": {
+            "esther": 3
+          }
+        },
+        {
+          "text": "Strong-willed and not easily pushed around.",
+          "weights": {
+            "vashti": 3,
+            "jezebel": 1
+          }
+        },
+        {
+          "text": "Quietly resilient through things that broke me.",
+          "weights": {
+            "bathsheba": 3
+          }
+        },
+        {
+          "text": "Wise, always asking the deeper questions.",
+          "weights": {
+            "sheba": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "What do you most want from the people in power around you?",
+      "options": [
+        {
+          "text": "A chance to speak up for those who cannot.",
+          "weights": {
+            "esther": 3
+          }
+        },
+        {
+          "text": "Respect for my own dignity and my own no.",
+          "weights": {
+            "vashti": 3
+          }
+        },
+        {
+          "text": "To finally be heard after being used and silenced.",
+          "weights": {
+            "bathsheba": 3
+          }
+        },
+        {
+          "text": "Honest answers and proof I can test myself.",
+          "weights": {
+            "sheba": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Which struggle feels closest to your own?",
+      "options": [
+        {
+          "text": "Fear of stepping forward when so much is at stake.",
+          "weights": {
+            "esther": 3
+          }
+        },
+        {
+          "text": "Wanting control so badly it can lead me wrong.",
+          "weights": {
+            "jezebel": 3
+          }
+        },
+        {
+          "text": "Carrying grief from things that were done to me.",
+          "weights": {
+            "bathsheba": 3
+          }
+        },
+        {
+          "text": "A restless heart that is never quite satisfied.",
+          "weights": {
+            "sheba": 3,
+            "vashti": 1
+          }
+        }
+      ]
+    },
+    {
+      "text": "How do you handle a king, a boss, or anyone over you?",
+      "options": [
+        {
+          "text": "I prepare, I pray, then I make my appeal with grace.",
+          "weights": {
+            "esther": 3
+          }
+        },
+        {
+          "text": "I hold my boundary even if it costs me everything.",
+          "weights": {
+            "vashti": 3
+          }
+        },
+        {
+          "text": "I will scheme and pressure until things go my way.",
+          "weights": {
+            "jezebel": 3
+          }
+        },
+        {
+          "text": "I show up with hard questions and watch how they answer.",
+          "weights": {
+            "sheba": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "What would you want said at the end of your story?",
+      "options": [
+        {
+          "text": "She risked herself to save her people.",
+          "weights": {
+            "esther": 3
+          }
+        },
+        {
+          "text": "She refused to be treated as less than she was.",
+          "weights": {
+            "vashti": 3
+          }
+        },
+        {
+          "text": "She rose from what hurt her and raised up a king.",
+          "weights": {
+            "bathsheba": 3
+          }
+        },
+        {
+          "text": "She traveled far to seek wisdom and praised God for it.",
+          "weights": {
+            "sheba": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Which quiet prayer sounds most like yours?",
+      "options": [
+        {
+          "text": "Give me courage for the room I am afraid to enter.",
+          "weights": {
+            "esther": 3
+          }
+        },
+        {
+          "text": "Help me know my worth and hold my ground.",
+          "weights": {
+            "vashti": 3
+          }
+        },
+        {
+          "text": "Heal the part of me that was wounded by power.",
+          "weights": {
+            "bathsheba": 3
+          }
+        },
+        {
+          "text": "Lead me to truth, even when I have to travel for it.",
+          "weights": {
+            "sheba": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Be honest, where do you sometimes go wrong?",
+      "options": [
+        {
+          "text": "I wait too long, frozen by what it might cost me.",
+          "weights": {
+            "esther": 3,
+            "bathsheba": 1
+          }
+        },
+        {
+          "text": "My will gets so strong I stop listening to anyone.",
+          "weights": {
+            "jezebel": 3
+          }
+        },
+        {
+          "text": "My pride can keep me from bending when I should.",
+          "weights": {
+            "vashti": 3
+          }
+        },
+        {
+          "text": "I chase the next answer and forget to rest in what I found.",
+          "weights": {
+            "sheba": 3
+          }
+        }
+      ]
+    }
+  ],
+  "results": {
+    "esther": {
+      "name": "Esther the Courageous",
+      "emoji": "👑",
+      "traits": [
+        "Brave",
+        "Faithful",
+        "Selfless"
+      ],
+      "description": "You feel the fear and you walk toward the hard thing anyway. You have a way of using whatever place you have been given to protect people who cannot protect themselves. God may have set you exactly where you are for a moment just like this one.",
+      "scripture": {
+        "text": "For if thou altogether holdest thy peace at this time, then will relief and deliverance arise to the Jews from another place, but thou and thy father's house will perish: and who knoweth whether thou art not come to the kingdom for such a time as this?",
+        "reference": "Esther 4:14",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Who knoweth whether thou art not come to the kingdom for such a time as this?",
+        "reference": "Esther 4:14",
+        "translation": "ASV"
+      }
+    },
+    "vashti": {
+      "name": "Vashti the Unbowed",
+      "emoji": "🛡️",
+      "traits": [
+        "Dignified",
+        "Strong-willed",
+        "Bold"
+      ],
+      "description": "You know your own worth, and you will not perform for anyone who refuses to honor it. Saying no can cost you, and sometimes it has, but you would rather keep your dignity than buy approval. There is real strength in the boundaries you hold.",
+      "scripture": {
+        "text": "But the queen Vashti refused to come at the king's commandment by the chamberlains: therefore was the king very wroth, and his anger burned in him.",
+        "reference": "Esther 1:12",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Strength and dignity are her clothing.",
+        "reference": "Proverbs 31:25",
+        "translation": "ASV"
+      }
+    },
+    "jezebel": {
+      "name": "Jezebel the Willful",
+      "emoji": "🌹",
+      "traits": [
+        "Determined",
+        "Influential",
+        "Intense"
+      ],
+      "description": "You are a force, and when you set your mind on something it usually happens. That same drive can run right past wisdom when you stop listening to anyone but yourself. Your story is a tender warning that influence without surrender can take you somewhere you never meant to go.",
+      "scripture": {
+        "text": "And it came to pass, as if it had been a light thing for him to walk in the sins of Jeroboam the son of Nebat, that he took to wife Jezebel the daughter of Ethbaal king of the Sidonians.",
+        "reference": "1 Kings 16:31",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Pride goeth before destruction.",
+        "reference": "Proverbs 16:18",
+        "translation": "ASV"
+      }
+    },
+    "bathsheba": {
+      "name": "Bathsheba the Resilient",
+      "emoji": "🤍",
+      "traits": [
+        "Resilient",
+        "Tender",
+        "Honored"
+      ],
+      "description": "You have lived through things that were done to you, not chosen by you, and you carry that grief with quiet strength. Your story did not end at the place where it hurt. God lifted you, you raised up a king, and your name still belongs in the line that led to Jesus.",
+      "scripture": {
+        "text": "Then Bath-sheba bowed with her face to the earth, and did obeisance to the king. And the king said, What wouldest thou?",
+        "reference": "1 Kings 1:16",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "He raiseth up the poor out of the dust.",
+        "reference": "1 Samuel 2:8",
+        "translation": "ASV"
+      }
+    },
+    "sheba": {
+      "name": "The Queen of Sheba the Seeker",
+      "emoji": "✨",
+      "traits": [
+        "Curious",
+        "Wise",
+        "Honest"
+      ],
+      "description": "You are not the kind to take things on hearsay. When you hear of something good, you travel the distance to test it for yourself. That hungry, honest search for truth is what led this queen straight to wisdom, and it left her praising God.",
+      "scripture": {
+        "text": "And when the queen of Sheba heard of the fame of Solomon concerning the name of Jehovah, she came to prove him with hard questions.",
+        "reference": "1 Kings 10:1",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "She came to prove him with hard questions.",
+        "reference": "1 Kings 10:1",
+        "translation": "ASV"
+      }
+    }
+  }
+}

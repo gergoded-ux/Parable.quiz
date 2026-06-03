@@ -1,0 +1,371 @@
+{
+  "slug": "which-tribe-of-israel-are-you",
+  "title": "Which Tribe of Israel Are You?",
+  "subtitle": "Twelve sons, twelve blessings. Which one carries your name?",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 4,
+  "mode": "archetype",
+  "theme": "scripture-archetype",
+  "questions": [
+    {
+      "text": "When your people are in trouble, what role do you naturally take?",
+      "options": [
+        {
+          "text": "I step out front and lead, even when it scares me.",
+          "weights": {
+            "judah": 3
+          }
+        },
+        {
+          "text": "I draw close to God and carry the holy things for everyone.",
+          "weights": {
+            "levi": 3
+          }
+        },
+        {
+          "text": "I stay loyal to the few I love and fight fierce for them.",
+          "weights": {
+            "benjamin": 3
+          }
+        },
+        {
+          "text": "I keep things growing and provide so no one goes without.",
+          "weights": {
+            "joseph": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Which compliment would mean the most to you?",
+      "options": [
+        {
+          "text": "You have the heart of a leader, and people follow you.",
+          "weights": {
+            "judah": 3,
+            "reuben": 1
+          }
+        },
+        {
+          "text": "You make holy things feel close and real to me.",
+          "weights": {
+            "levi": 3
+          }
+        },
+        {
+          "text": "You are fruitful. Good things grow wherever you go.",
+          "weights": {
+            "joseph": 3
+          }
+        },
+        {
+          "text": "You see things clearly and your call is just.",
+          "weights": {
+            "dan": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Pick the animal that feels most like you:",
+      "options": [
+        {
+          "text": "A lion, calm and unafraid until it is time to rise.",
+          "weights": {
+            "judah": 3
+          }
+        },
+        {
+          "text": "A wolf, quick, loyal, and fierce for the pack.",
+          "weights": {
+            "benjamin": 3
+          }
+        },
+        {
+          "text": "A serpent by the path, watchful and clever.",
+          "weights": {
+            "dan": 3
+          }
+        },
+        {
+          "text": "A strong ox or sturdy donkey, built to carry the load.",
+          "weights": {
+            "reuben": 3,
+            "joseph": 1
+          }
+        }
+      ]
+    },
+    {
+      "text": "What is your biggest struggle in your own words?",
+      "options": [
+        {
+          "text": "I want to lead well and own up when I get it wrong.",
+          "weights": {
+            "judah": 3
+          }
+        },
+        {
+          "text": "I can be unsteady, strong one day and shaky the next.",
+          "weights": {
+            "reuben": 3
+          }
+        },
+        {
+          "text": "My zeal runs hot and sometimes spills over.",
+          "weights": {
+            "levi": 3,
+            "benjamin": 1
+          }
+        },
+        {
+          "text": "I carry old wounds from people who meant me harm.",
+          "weights": {
+            "joseph": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "How do you want to be remembered?",
+      "options": [
+        {
+          "text": "As the one whose family line led to the King.",
+          "weights": {
+            "judah": 3
+          }
+        },
+        {
+          "text": "As the one who stood between God and the people.",
+          "weights": {
+            "levi": 3
+          }
+        },
+        {
+          "text": "As the one who fed others in the famine years.",
+          "weights": {
+            "joseph": 3
+          }
+        },
+        {
+          "text": "As the one who judged fairly and defended the small.",
+          "weights": {
+            "dan": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Your loved ones would say you are the most...",
+      "options": [
+        {
+          "text": "Courageous one, the first to go when no one else will.",
+          "weights": {
+            "judah": 3
+          }
+        },
+        {
+          "text": "Devoted one, never far from prayer and worship.",
+          "weights": {
+            "levi": 3
+          }
+        },
+        {
+          "text": "Protective one, beloved and always close to home.",
+          "weights": {
+            "benjamin": 3
+          }
+        },
+        {
+          "text": "Forgiving one, who refuses to repay hurt with hurt.",
+          "weights": {
+            "joseph": 3,
+            "reuben": 1
+          }
+        }
+      ]
+    },
+    {
+      "text": "Which sentence sounds most like a prayer you have prayed?",
+      "options": [
+        {
+          "text": "Lord, make me brave enough to lead the way.",
+          "weights": {
+            "judah": 3
+          }
+        },
+        {
+          "text": "Steady me, God. I do not want to be unstable anymore.",
+          "weights": {
+            "reuben": 3
+          }
+        },
+        {
+          "text": "Keep me near You. Let me carry Your presence.",
+          "weights": {
+            "levi": 3
+          }
+        },
+        {
+          "text": "Help me forgive what was meant for evil.",
+          "weights": {
+            "joseph": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "What do you bring to a community?",
+      "options": [
+        {
+          "text": "Direction. People look to me to make the hard call.",
+          "weights": {
+            "judah": 3,
+            "dan": 1
+          }
+        },
+        {
+          "text": "Loyalty. I will stand by my people to the very end.",
+          "weights": {
+            "benjamin": 3
+          }
+        },
+        {
+          "text": "Provision. I make sure there is enough for tomorrow.",
+          "weights": {
+            "joseph": 3
+          }
+        },
+        {
+          "text": "Fairness. I weigh things honestly and speak up for justice.",
+          "weights": {
+            "dan": 3
+          }
+        }
+      ]
+    }
+  ],
+  "results": {
+    "judah": {
+      "name": "Judah the Lionhearted",
+      "emoji": "🦁",
+      "traits": [
+        "Brave",
+        "Leading",
+        "Honest"
+      ],
+      "description": "You carry a quiet strength that other people lean on without even asking. You are not perfect, and you know it, but you own your story and keep stepping forward. God built a kingdom through this tribe, and the King Himself came from it.",
+      "scripture": {
+        "text": "Judah is a lion's whelp; from the prey, my son, thou art gone up: he stooped down, he couched as a lion, and as a lioness; who shall rouse him up?",
+        "reference": "Genesis 49:9",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Judah is a lion's whelp.",
+        "reference": "Genesis 49:9",
+        "translation": "ASV"
+      }
+    },
+    "levi": {
+      "name": "Levi the Set-Apart",
+      "emoji": "🕊️",
+      "traits": [
+        "Devoted",
+        "Worshipful",
+        "Zealous"
+      ],
+      "description": "You feel most yourself when you are close to God, carrying His presence into ordinary rooms. Your heart runs warm, sometimes a little too warm, but that fire is what makes worship real around you. You were made to stand in the gap for others.",
+      "scripture": {
+        "text": "And of Levi he said, Thy Thummim and thy Urim are with thy godly one, whom thou didst prove at Massah, with whom thou didst strive at the waters of Meribah.",
+        "reference": "Deuteronomy 33:8",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "They shall teach Jacob thine ordinances.",
+        "reference": "Deuteronomy 33:10",
+        "translation": "ASV"
+      }
+    },
+    "benjamin": {
+      "name": "Benjamin the Beloved",
+      "emoji": "🐺",
+      "traits": [
+        "Loyal",
+        "Fierce",
+        "Treasured"
+      ],
+      "description": "You love hard and you love close, and the people inside your circle never doubt where they stand with you. You will fight for them like a wolf for the pack. You were the youngest and the most cherished, and you carry that belovedness into everything you do.",
+      "scripture": {
+        "text": "Benjamin is a wolf that raveneth: in the morning he shall devour the prey, and at even he shall divide the spoil.",
+        "reference": "Genesis 49:27",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "The beloved of Jehovah shall dwell in safety by him.",
+        "reference": "Deuteronomy 33:12",
+        "translation": "ASV"
+      }
+    },
+    "joseph": {
+      "name": "Joseph the Fruitful",
+      "emoji": "🌿",
+      "traits": [
+        "Resilient",
+        "Forgiving",
+        "Generous"
+      ],
+      "description": "Life has handed you some real betrayal, and somehow you keep growing anyway. You feed the people around you out of the very places that once tried to break you. What others meant for harm, God keeps turning into a harvest.",
+      "scripture": {
+        "text": "Joseph is a fruitful bough, a fruitful bough by a fountain; his branches run over the wall.",
+        "reference": "Genesis 49:22",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Joseph is a fruitful bough.",
+        "reference": "Genesis 49:22",
+        "translation": "ASV"
+      }
+    },
+    "reuben": {
+      "name": "Reuben the Firstborn",
+      "emoji": "🌊",
+      "traits": [
+        "Tender",
+        "Strong",
+        "Growing"
+      ],
+      "description": "You have real strength and a soft heart, but steadiness has not always come easy for you. You know what it is to mean well and still stumble. The good news is that God is not finished steadying you, and your tender conscience is a gift, not a flaw.",
+      "scripture": {
+        "text": "Reuben, thou art my first-born, my might, and the beginning of my strength; the pre-eminence of dignity, and the pre-eminence of power.",
+        "reference": "Genesis 49:3",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Let Reuben live, and not die.",
+        "reference": "Deuteronomy 33:6",
+        "translation": "ASV"
+      }
+    },
+    "dan": {
+      "name": "Dan the Just",
+      "emoji": "⚖️",
+      "traits": [
+        "Discerning",
+        "Fair",
+        "Watchful"
+      ],
+      "description": "You read situations clearly and you cannot stand to see the small or the overlooked get trampled. People trust you to weigh things honestly and call it straight. Your name means judgment, and you carry a real heart for what is right.",
+      "scripture": {
+        "text": "Dan shall judge his people, as one of the tribes of Israel.",
+        "reference": "Genesis 49:16",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Dan shall judge his people.",
+        "reference": "Genesis 49:16",
+        "translation": "ASV"
+      }
+    }
+  }
+}

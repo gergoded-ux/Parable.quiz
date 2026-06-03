@@ -1,0 +1,391 @@
+{
+  "slug": "which-day-of-creation-are-you",
+  "title": "Which Day of Creation Are You?",
+  "subtitle": "God made the world in seven moves. Which day of creation is most like you?",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 4,
+  "mode": "archetype",
+  "theme": "scripture-archetype",
+  "questions": [
+    {
+      "text": "What do people say you bring into a room?",
+      "options": [
+        {
+          "text": "Light. Things just feel clearer when I'm around.",
+          "weights": {
+            "day1": 3
+          }
+        },
+        {
+          "text": "Space to breathe. I help people find room to think.",
+          "weights": {
+            "day2": 3
+          }
+        },
+        {
+          "text": "Growth. People and ideas tend to flourish near me.",
+          "weights": {
+            "day3": 3
+          }
+        },
+        {
+          "text": "Calm. I'm the one who helps everyone finally rest.",
+          "weights": {
+            "day7": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Which role feels most natural to you?",
+      "options": [
+        {
+          "text": "Being a steady source of warmth and direction.",
+          "weights": {
+            "day4": 3
+          }
+        },
+        {
+          "text": "Bringing life and movement wherever I go.",
+          "weights": {
+            "day5": 3
+          }
+        },
+        {
+          "text": "Caring for living things and the people around me.",
+          "weights": {
+            "day6": 3
+          }
+        },
+        {
+          "text": "Drawing a clear line between what is and isn't okay.",
+          "weights": {
+            "day1": 3,
+            "day2": 1
+          }
+        }
+      ]
+    },
+    {
+      "text": "Pick the image that feels most like you:",
+      "options": [
+        {
+          "text": "The first ray of dawn breaking the darkness.",
+          "weights": {
+            "day1": 3
+          }
+        },
+        {
+          "text": "A wide-open sky over a quiet sea.",
+          "weights": {
+            "day2": 3
+          }
+        },
+        {
+          "text": "A green hillside bursting with trees and fruit.",
+          "weights": {
+            "day3": 3
+          }
+        },
+        {
+          "text": "A sky full of stars, the moon keeping watch.",
+          "weights": {
+            "day4": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "And one more image, which is most you?",
+      "options": [
+        {
+          "text": "A sea full of fish and a sky full of birds.",
+          "weights": {
+            "day5": 3
+          }
+        },
+        {
+          "text": "A meadow of animals with people walking among them.",
+          "weights": {
+            "day6": 3
+          }
+        },
+        {
+          "text": "A still, golden afternoon with nothing left to do.",
+          "weights": {
+            "day7": 3
+          }
+        },
+        {
+          "text": "A lamp lit in a dark window.",
+          "weights": {
+            "day1": 3,
+            "day4": 1
+          }
+        }
+      ]
+    },
+    {
+      "text": "What do your closest people rely on you for?",
+      "options": [
+        {
+          "text": "Bringing clarity when everything feels murky.",
+          "weights": {
+            "day1": 3
+          }
+        },
+        {
+          "text": "Creating boundaries that keep everyone safe.",
+          "weights": {
+            "day2": 3
+          }
+        },
+        {
+          "text": "Helping their dreams take root and actually grow.",
+          "weights": {
+            "day3": 3
+          }
+        },
+        {
+          "text": "Showing up faithfully, season after season.",
+          "weights": {
+            "day4": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Which describes your inner pace?",
+      "options": [
+        {
+          "text": "Lively and free, always in motion.",
+          "weights": {
+            "day5": 3
+          }
+        },
+        {
+          "text": "Grounded and nurturing, tending what's in front of me.",
+          "weights": {
+            "day6": 3
+          }
+        },
+        {
+          "text": "Unhurried. I've made peace with stopping to rest.",
+          "weights": {
+            "day7": 3
+          }
+        },
+        {
+          "text": "Reliable, like clockwork others can set their lives by.",
+          "weights": {
+            "day4": 3,
+            "day7": 1
+          }
+        }
+      ]
+    },
+    {
+      "text": "What do you most want your life to give the world?",
+      "options": [
+        {
+          "text": "Hope, the first light after a long dark night.",
+          "weights": {
+            "day1": 3
+          }
+        },
+        {
+          "text": "Order and peace where there used to be chaos.",
+          "weights": {
+            "day2": 3
+          }
+        },
+        {
+          "text": "Beauty and abundance that keeps on giving.",
+          "weights": {
+            "day3": 3,
+            "day5": 1
+          }
+        },
+        {
+          "text": "A reminder that rest is holy too.",
+          "weights": {
+            "day7": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Which truth lands deepest for you?",
+      "options": [
+        {
+          "text": "Let there be light. Darkness never gets the last word.",
+          "weights": {
+            "day1": 3
+          }
+        },
+        {
+          "text": "Every living thing is made to be fruitful and multiply.",
+          "weights": {
+            "day5": 3
+          }
+        },
+        {
+          "text": "People are made in God's own image, and it is very good.",
+          "weights": {
+            "day6": 3
+          }
+        },
+        {
+          "text": "Even God rested, and blessed the day He did.",
+          "weights": {
+            "day7": 3,
+            "day2": 1
+          }
+        }
+      ]
+    }
+  ],
+  "results": {
+    "day1": {
+      "name": "Day One: Light",
+      "emoji": "🌅",
+      "traits": [
+        "Hopeful",
+        "Clarifying",
+        "Bright"
+      ],
+      "description": "You are the first light after a long dark night. When God spoke light into being, He separated it from the darkness, and that's exactly what you do for people. You bring clarity to confusion and hope to heavy seasons. Wherever you go, things feel a little less dark. You're a living reminder that darkness never gets the final word.",
+      "scripture": {
+        "text": "And God said, Let there be light: and there was light.",
+        "reference": "Genesis 1:3",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Let there be light: and there was light.",
+        "reference": "Genesis 1:3",
+        "translation": "ASV"
+      }
+    },
+    "day2": {
+      "name": "Day Two: Sky and Sea",
+      "emoji": "☁️",
+      "traits": [
+        "Calm",
+        "Grounding",
+        "Spacious"
+      ],
+      "description": "You are the one who makes room. On the second day God set the waters in their place and opened up the wide sky between them, and you have that same gift for creating space and order. You bring boundaries that help people breathe and feel safe. In a crowded, noisy world, you are a wide-open sky where others can finally exhale.",
+      "scripture": {
+        "text": "And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters.",
+        "reference": "Genesis 1:6",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "And God called the firmament Heaven.",
+        "reference": "Genesis 1:8",
+        "translation": "ASV"
+      }
+    },
+    "day3": {
+      "name": "Day Three: Land and Growing Things",
+      "emoji": "🌱",
+      "traits": [
+        "Nurturing",
+        "Fruitful",
+        "Patient"
+      ],
+      "description": "You are where things grow. On the third day the dry land appeared and the earth burst into green, and you carry that same flourishing energy. You help dreams take root and people blossom into who they're meant to be. You're patient with the slow work of growth, and the world is more beautiful and more abundant because of the way you tend it.",
+      "scripture": {
+        "text": "And the earth brought forth grass, herbs yielding seed after their kind, and trees bearing fruit, wherein is the seed thereof, after their kind: and God saw that it was good.",
+        "reference": "Genesis 1:12",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Let the earth put forth grass.",
+        "reference": "Genesis 1:11",
+        "translation": "ASV"
+      }
+    },
+    "day4": {
+      "name": "Day Four: Sun, Moon and Stars",
+      "emoji": "✨",
+      "traits": [
+        "Faithful",
+        "Steady",
+        "Guiding"
+      ],
+      "description": "You are a constant light others can navigate by. On the fourth day God hung the sun, moon, and stars to mark the seasons and guide the days, and you bring that same dependable rhythm. People set their lives by your faithfulness. Whether in the brightness of day or the dark of night, you keep showing up, season after season, lighting the way for everyone around you.",
+      "scripture": {
+        "text": "And God said, Let there be lights in the firmament of heaven to divide the day from the night; and let them be for signs, and for seasons, and for days and years.",
+        "reference": "Genesis 1:14",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Let them be for signs, and for seasons.",
+        "reference": "Genesis 1:14",
+        "translation": "ASV"
+      }
+    },
+    "day5": {
+      "name": "Day Five: Sea Creatures and Birds",
+      "emoji": "🐦",
+      "traits": [
+        "Lively",
+        "Free",
+        "Joyful"
+      ],
+      "description": "You are life in motion. On the fifth day God filled the seas with swimming things and the skies with birds, and told them all to be fruitful and multiply. You carry that same joyful, free-flowing energy. You bring movement and aliveness wherever you go, and you remind tired people what it feels like to soar a little. The world is more alive because you're in it.",
+      "scripture": {
+        "text": "And God created the great sea-monsters, and every living creature that moveth, wherewith the waters swarmed, after their kind, and every winged bird after its kind: and God saw that it was good.",
+        "reference": "Genesis 1:21",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Be fruitful, and multiply.",
+        "reference": "Genesis 1:22",
+        "translation": "ASV"
+      }
+    },
+    "day6": {
+      "name": "Day Six: Animals and Humankind",
+      "emoji": "🌿",
+      "traits": [
+        "Caring",
+        "Grounded",
+        "Image-bearing"
+      ],
+      "description": "You are the crown of the week, made to care and to bear God's image. On the sixth day God made the animals and then people, in His own likeness, and looked at it all and called it very good. You carry deep tenderness for living things and for the people around you. You're a reminder that human life is sacred, and that God looks at you and calls you very good.",
+      "scripture": {
+        "text": "And God created man in his own image, in the image of God created he him; male and female created he them.",
+        "reference": "Genesis 1:27",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "And, behold, it was very good.",
+        "reference": "Genesis 1:31",
+        "translation": "ASV"
+      }
+    },
+    "day7": {
+      "name": "Day Seven: Rest",
+      "emoji": "🕊️",
+      "traits": [
+        "Restful",
+        "Peaceful",
+        "Present"
+      ],
+      "description": "You are holy rest in a restless world. On the seventh day God finished His work and rested, and He blessed that day and made it sacred. You've made peace with stopping, and you give other people permission to slow down too. Your calm is a gift. You remind everyone that we are not loved for what we produce, and that rest itself can be holy.",
+      "scripture": {
+        "text": "And God blessed the seventh day, and hallowed it; because that in it he rested from all his work which God had created and made.",
+        "reference": "Genesis 2:3",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "And he rested on the seventh day.",
+        "reference": "Genesis 2:2",
+        "translation": "ASV"
+      }
+    }
+  }
+}

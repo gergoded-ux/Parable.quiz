@@ -1,0 +1,347 @@
+{
+  "slug": "which-bible-feast-are-you",
+  "title": "Which Bible Feast Are You?",
+  "subtitle": "Every feast God gave Israel carries a different kind of meaning. One of them mirrors the season your heart is in. Let's find your feast.",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 4,
+  "mode": "archetype",
+  "questions": [
+    {
+      "text": "What word best captures where you are right now?",
+      "options": [
+        {
+          "text": "Rescued. I'm looking back on what God brought me out of.",
+          "weights": {
+            "passover": 3
+          }
+        },
+        {
+          "text": "Empowered. Something new is being poured into me.",
+          "weights": {
+            "pentecost": 3
+          }
+        },
+        {
+          "text": "Grateful. I just want to dwell with God and rest.",
+          "weights": {
+            "tabernacles": 3
+          }
+        },
+        {
+          "text": "Alert. I sense it's time to wake up and pay attention.",
+          "weights": {
+            "trumpets": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "What's the spiritual work happening in you lately?",
+      "options": [
+        {
+          "text": "Remembering how God spared me when I had no way out.",
+          "weights": {
+            "passover": 3
+          }
+        },
+        {
+          "text": "Being filled with fresh fire after a dry stretch.",
+          "weights": {
+            "pentecost": 3
+          }
+        },
+        {
+          "text": "Honest cleansing. I want to come clean before God.",
+          "weights": {
+            "day-of-atonement": 3
+          }
+        },
+        {
+          "text": "Learning to be content in a temporary, unsettled season.",
+          "weights": {
+            "tabernacles": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Which moment with God would move you most right now?",
+      "options": [
+        {
+          "text": "Realizing His mercy passed over me when judgment was near.",
+          "weights": {
+            "passover": 3
+          }
+        },
+        {
+          "text": "Feeling His Spirit rush in and change everything.",
+          "weights": {
+            "pentecost": 3
+          }
+        },
+        {
+          "text": "Walking away truly clean, every sin washed away.",
+          "weights": {
+            "day-of-atonement": 3
+          }
+        },
+        {
+          "text": "Hearing a trumpet call you back to what matters.",
+          "weights": {
+            "trumpets": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "How do you most want to relate to God this season?",
+      "options": [
+        {
+          "text": "With deep gratitude for being delivered.",
+          "weights": {
+            "passover": 3
+          }
+        },
+        {
+          "text": "Open and expectant, ready to receive His power.",
+          "weights": {
+            "pentecost": 3
+          }
+        },
+        {
+          "text": "Settled and near, simply dwelling in His presence.",
+          "weights": {
+            "tabernacles": 3
+          }
+        },
+        {
+          "text": "Awake and ready, like something is about to shift.",
+          "weights": {
+            "trumpets": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "What does your heart need to do most?",
+      "options": [
+        {
+          "text": "Remember the rescue and stop living like I'm still trapped.",
+          "weights": {
+            "passover": 3
+          }
+        },
+        {
+          "text": "Make things right and finally let the guilt go.",
+          "weights": {
+            "day-of-atonement": 3
+          }
+        },
+        {
+          "text": "Rest under God's shelter instead of striving.",
+          "weights": {
+            "tabernacles": 3
+          }
+        },
+        {
+          "text": "Snap out of the fog and turn back to God.",
+          "weights": {
+            "trumpets": 3,
+            "day-of-atonement": 1
+          }
+        }
+      ]
+    },
+    {
+      "text": "Which scene feels closest to your soul today?",
+      "options": [
+        {
+          "text": "Blood on the doorposts, and the angel passing over.",
+          "weights": {
+            "passover": 3
+          }
+        },
+        {
+          "text": "A rushing wind and tongues of fire filling a room.",
+          "weights": {
+            "pentecost": 3
+          }
+        },
+        {
+          "text": "A simple booth under the stars, dwelling with God.",
+          "weights": {
+            "tabernacles": 3
+          }
+        },
+        {
+          "text": "A loud trumpet blast breaking the silence.",
+          "weights": {
+            "trumpets": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "What kind of grace are you reaching for?",
+      "options": [
+        {
+          "text": "Deliverance, getting out from under something heavy.",
+          "weights": {
+            "passover": 3
+          }
+        },
+        {
+          "text": "Power, the strength to actually live this out.",
+          "weights": {
+            "pentecost": 3
+          }
+        },
+        {
+          "text": "Forgiveness, the kind that makes me clean again.",
+          "weights": {
+            "day-of-atonement": 3
+          }
+        },
+        {
+          "text": "A wake-up call, a reminder to come back to Him.",
+          "weights": {
+            "trumpets": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "What would you most love to hear God say?",
+      "options": [
+        {
+          "text": "You are free. I brought you out for good.",
+          "weights": {
+            "passover": 3
+          }
+        },
+        {
+          "text": "Receive My Spirit. I'm filling you afresh.",
+          "weights": {
+            "pentecost": 3
+          }
+        },
+        {
+          "text": "You are clean. Every sin is covered.",
+          "weights": {
+            "day-of-atonement": 3
+          }
+        },
+        {
+          "text": "Come and dwell with Me. You can rest now.",
+          "weights": {
+            "tabernacles": 3
+          }
+        }
+      ]
+    }
+  ],
+  "results": {
+    "passover": {
+      "name": "Passover (Deliverance and Mercy)",
+      "emoji": "🐑",
+      "traits": [
+        "Rescued",
+        "Grateful",
+        "Remembering"
+      ],
+      "description": "You are in a season of looking back and realizing just how much God brought you out of. Passover was the night the blood on the doorposts turned away judgment and freedom finally came. Your story carries that same mercy. You were spared, you were delivered, and you do not have to keep living like you are still in chains. Let gratitude lead you forward.",
+      "scripture": {
+        "text": "And the blood shall be to you for a token upon the houses where ye are: and when I see the blood, I will pass over you, and there shall no plague be upon you to destroy you, when I smite the land of Egypt.",
+        "reference": "Exodus 12:13",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "When I see the blood, I will pass over you.",
+        "reference": "Exodus 12:13",
+        "translation": "ASV"
+      }
+    },
+    "pentecost": {
+      "name": "Pentecost (Fresh Fire and Power)",
+      "emoji": "🔥",
+      "traits": [
+        "Empowered",
+        "Expectant",
+        "Filled"
+      ],
+      "description": "You are ready for something new from God, a fresh filling after a long, dry stretch. Pentecost is when the Spirit came rushing in like wind and fire and changed everything. That same Spirit is available to you, not as a one-time event but as a daily source of power and life. Stay open, stay expectant, and let Him fill you again.",
+      "scripture": {
+        "text": "And they were all filled with the Holy Spirit, and began to speak with other tongues, as the Spirit gave them utterance.",
+        "reference": "Acts 2:4",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "And they were all filled with the Holy Spirit.",
+        "reference": "Acts 2:4",
+        "translation": "ASV"
+      }
+    },
+    "tabernacles": {
+      "name": "Tabernacles (Dwelling and Rest)",
+      "emoji": "⛺",
+      "traits": [
+        "Grateful",
+        "Settled",
+        "Resting"
+      ],
+      "description": "You are craving nearness to God and a rest that goes deeper than just slowing down. Tabernacles was the feast where Israel lived in simple booths to remember that God dwelt with them through every wandering season. Even when life feels temporary and unsettled, He is with you under the same shelter. You can stop striving and simply dwell with the One who never leaves.",
+      "scripture": {
+        "text": "Ye shall dwell in booths seven days; all that are home-born in Israel shall dwell in booths;",
+        "reference": "Leviticus 23:42",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Ye shall dwell in booths seven days.",
+        "reference": "Leviticus 23:42",
+        "translation": "ASV"
+      }
+    },
+    "trumpets": {
+      "name": "Trumpets (Awakening and Return)",
+      "emoji": "📯",
+      "traits": [
+        "Alert",
+        "Awakening",
+        "Turning back"
+      ],
+      "description": "You can feel it, that quiet nudge to wake up and turn your attention back to God. Trumpets was a feast of holy noise, a blast meant to stir people out of drift and call them to attention. This is your wake-up call, and it is a kind one. God is not shouting to shame you. He is sounding the trumpet to bring you home before anything is lost.",
+      "scripture": {
+        "text": "Speak unto the children of Israel, saying, In the seventh month, on the first day of the month, shall be a solemn rest unto you, a memorial of blowing of trumpets, a holy convocation.",
+        "reference": "Leviticus 23:24",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "A solemn rest unto you, a memorial of blowing of trumpets.",
+        "reference": "Leviticus 23:24",
+        "translation": "ASV"
+      }
+    },
+    "day-of-atonement": {
+      "name": "Day of Atonement (Cleansing and Forgiveness)",
+      "emoji": "🕊️",
+      "traits": [
+        "Honest",
+        "Humbled",
+        "Made clean"
+      ],
+      "description": "You are longing to come clean and finally lay down the guilt you have been carrying. The Day of Atonement was the most sacred day of the year, the one when sin was covered and the people were made clean before God. That is exactly what your heart needs right now. Bring it all into the open, because He is the God who washes away what you cannot fix yourself.",
+      "scripture": {
+        "text": "for on this day shall atonement be made for you, to cleanse you; from all your sins shall ye be clean before Jehovah.",
+        "reference": "Leviticus 16:30",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "From all your sins shall ye be clean before Jehovah.",
+        "reference": "Leviticus 16:30",
+        "translation": "ASV"
+      }
+    }
+  },
+  "theme": "scripture-archetype"
+}

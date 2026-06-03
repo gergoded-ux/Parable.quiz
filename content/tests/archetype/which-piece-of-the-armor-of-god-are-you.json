@@ -1,0 +1,371 @@
+{
+  "slug": "which-piece-of-the-armor-of-god-are-you",
+  "title": "Which Piece of the Armor of God Are You?",
+  "subtitle": "Paul says to put on the whole armor. Find out which piece you carry most naturally.",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 4,
+  "mode": "archetype",
+  "questions": [
+    {
+      "text": "When life gets shaky, what holds you together?",
+      "options": [
+        {
+          "text": "Honesty. I refuse to live a lie, no matter the cost.",
+          "weights": {
+            "belt-of-truth": 3
+          }
+        },
+        {
+          "text": "Knowing I'm right with God, not because I earned it.",
+          "weights": {
+            "breastplate-of-righteousness": 3
+          }
+        },
+        {
+          "text": "Trusting God even when I can't see the outcome.",
+          "weights": {
+            "shield-of-faith": 3
+          }
+        },
+        {
+          "text": "Holding onto what God has actually said.",
+          "weights": {
+            "sword-of-the-spirit": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Which spiritual attack hits you hardest?",
+      "options": [
+        {
+          "text": "Confusion and half-truths that twist what's real.",
+          "weights": {
+            "belt-of-truth": 3
+          }
+        },
+        {
+          "text": "Accusation, that nagging voice saying I'm not good enough.",
+          "weights": {
+            "breastplate-of-righteousness": 2,
+            "helmet-of-salvation": 1
+          }
+        },
+        {
+          "text": "Doubt, those fiery darts of what if it's all falling apart.",
+          "weights": {
+            "shield-of-faith": 3
+          }
+        },
+        {
+          "text": "Fear about whether I'm truly saved and secure.",
+          "weights": {
+            "helmet-of-salvation": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Friends would say you're the one who...",
+      "options": [
+        {
+          "text": "Tells the truth even when it's uncomfortable.",
+          "weights": {
+            "belt-of-truth": 3
+          }
+        },
+        {
+          "text": "Brings peace and shows up with the gospel wherever you go.",
+          "weights": {
+            "shoes-of-the-gospel-of-peace": 3
+          }
+        },
+        {
+          "text": "Keeps believing for the impossible when others quit.",
+          "weights": {
+            "shield-of-faith": 3
+          }
+        },
+        {
+          "text": "Always has a verse ready for the moment.",
+          "weights": {
+            "sword-of-the-spirit": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "What anchors your identity most?",
+      "options": [
+        {
+          "text": "That I belong to the truth and I walk in it.",
+          "weights": {
+            "belt-of-truth": 3
+          }
+        },
+        {
+          "text": "That I've been made righteous and my heart is guarded.",
+          "weights": {
+            "breastplate-of-righteousness": 3
+          }
+        },
+        {
+          "text": "That my salvation is settled, so my mind can rest.",
+          "weights": {
+            "helmet-of-salvation": 3
+          }
+        },
+        {
+          "text": "That I'm sent to carry good news of peace to others.",
+          "weights": {
+            "shoes-of-the-gospel-of-peace": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "How do you usually push back against the enemy?",
+      "options": [
+        {
+          "text": "I name the lie and replace it with what's actually true.",
+          "weights": {
+            "belt-of-truth": 2,
+            "sword-of-the-spirit": 1
+          }
+        },
+        {
+          "text": "I stay ready to bring calm and good news into the chaos.",
+          "weights": {
+            "shoes-of-the-gospel-of-peace": 3
+          }
+        },
+        {
+          "text": "I lift up faith and watch the fiery darts go out.",
+          "weights": {
+            "shield-of-faith": 3
+          }
+        },
+        {
+          "text": "I speak Scripture out loud, the word of God itself.",
+          "weights": {
+            "sword-of-the-spirit": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Where do you feel strongest in your walk with God?",
+      "options": [
+        {
+          "text": "Living with integrity, nothing hidden.",
+          "weights": {
+            "belt-of-truth": 3
+          }
+        },
+        {
+          "text": "Resting in grace instead of trying to earn my standing.",
+          "weights": {
+            "breastplate-of-righteousness": 3
+          }
+        },
+        {
+          "text": "Bringing peace into rooms full of tension.",
+          "weights": {
+            "shoes-of-the-gospel-of-peace": 3
+          }
+        },
+        {
+          "text": "Standing firm in faith when everything says give up.",
+          "weights": {
+            "shield-of-faith": 2,
+            "helmet-of-salvation": 1
+          }
+        }
+      ]
+    },
+    {
+      "text": "What's your role when your community is under pressure?",
+      "options": [
+        {
+          "text": "I keep everyone grounded in what's real and honest.",
+          "weights": {
+            "belt-of-truth": 3
+          }
+        },
+        {
+          "text": "I'm the calm one, bringing peace and good news.",
+          "weights": {
+            "shoes-of-the-gospel-of-peace": 3
+          }
+        },
+        {
+          "text": "I cover others with faith when their belief runs thin.",
+          "weights": {
+            "shield-of-faith": 3
+          }
+        },
+        {
+          "text": "I remind everyone of the promises God has spoken.",
+          "weights": {
+            "sword-of-the-spirit": 2,
+            "helmet-of-salvation": 1
+          }
+        }
+      ]
+    },
+    {
+      "text": "What do you most want to be true of you in the battle?",
+      "options": [
+        {
+          "text": "That I stood firm, fully honest, with my guard up.",
+          "weights": {
+            "belt-of-truth": 2,
+            "breastplate-of-righteousness": 1
+          }
+        },
+        {
+          "text": "That my mind stayed protected and at peace.",
+          "weights": {
+            "helmet-of-salvation": 3
+          }
+        },
+        {
+          "text": "That my faith never let a single dart through.",
+          "weights": {
+            "shield-of-faith": 3
+          }
+        },
+        {
+          "text": "That I fought with God's word and nothing else.",
+          "weights": {
+            "sword-of-the-spirit": 3
+          }
+        }
+      ]
+    }
+  ],
+  "results": {
+    "belt-of-truth": {
+      "name": "The Belt of Truth",
+      "emoji": "🎗️",
+      "traits": [
+        "Honest",
+        "Grounded",
+        "Steady"
+      ],
+      "description": "You're the one who holds everything together with plain honesty. Just as the belt secured the soldier's whole uniform, your commitment to truth keeps you steady when lies swirl around you. You can't stand pretending, and that integrity is a real strength. Keep girding yourself with what's true, because everything else in the armor depends on it.",
+      "scripture": {
+        "text": "Stand therefore, having girded your loins with truth, and having put on the breastplate of righteousness,",
+        "reference": "Ephesians 6:14",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Stand therefore, having girded your loins with truth.",
+        "reference": "Ephesians 6:14",
+        "translation": "ASV"
+      }
+    },
+    "breastplate-of-righteousness": {
+      "name": "The Breastplate of Righteousness",
+      "emoji": "🛡️",
+      "traits": [
+        "Guarded",
+        "Grace-rooted",
+        "Resilient"
+      ],
+      "description": "You guard your heart well, and you've learned your standing with God isn't something you earn but something He gave you. Like the breastplate protecting the chest, your security in His righteousness shields you from accusation. When that voice says you're not enough, you know the truth. You're covered, and your heart is safe behind grace.",
+      "scripture": {
+        "text": "Stand therefore, having girded your loins with truth, and having put on the breastplate of righteousness,",
+        "reference": "Ephesians 6:14",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "having put on the breastplate of righteousness.",
+        "reference": "Ephesians 6:14",
+        "translation": "ASV"
+      }
+    },
+    "shoes-of-the-gospel-of-peace": {
+      "name": "The Shoes of the Gospel of Peace",
+      "emoji": "👟",
+      "traits": [
+        "Peaceful",
+        "Ready",
+        "Sent"
+      ],
+      "description": "You bring calm wherever you walk, and you're always ready to carry good news into the room. Like the soldier's firm-footed sandals, your peace gives you steady footing in shaky places. People feel safer when you're around. Keep going where you're sent, because feet that carry the gospel of peace leave a mark everywhere they land.",
+      "scripture": {
+        "text": "and having shod your feet with the preparation of the gospel of peace;",
+        "reference": "Ephesians 6:15",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "having shod your feet with the preparation of the gospel of peace.",
+        "reference": "Ephesians 6:15",
+        "translation": "ASV"
+      }
+    },
+    "shield-of-faith": {
+      "name": "The Shield of Faith",
+      "emoji": "🔥",
+      "traits": [
+        "Trusting",
+        "Tenacious",
+        "Protective"
+      ],
+      "description": "You keep believing when everything says quit, and your faith doesn't just protect you, it covers the people around you too. Like the shield that quenches every fiery dart, your trust in God stops doubt and fear before they land. When others run low on belief, you raise your shield for them. Hold it high. Faith like yours puts out the flames.",
+      "scripture": {
+        "text": "withal taking up the shield of faith, wherewith ye shall be able to quench all the fiery darts of the evil one.",
+        "reference": "Ephesians 6:16",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Taking up the shield of faith, wherewith ye shall be able to quench all the fiery darts.",
+        "reference": "Ephesians 6:16",
+        "translation": "ASV"
+      }
+    },
+    "helmet-of-salvation": {
+      "name": "The Helmet of Salvation",
+      "emoji": "⛑️",
+      "traits": [
+        "Assured",
+        "Clear-minded",
+        "Hopeful"
+      ],
+      "description": "Your strength is a settled mind. You've learned to guard your thoughts with the certainty that you belong to God, and that hope keeps fear from taking over. Like the helmet protecting the head, your assurance of salvation shields how you think. When doubt comes for your peace of mind, you remember who you are. Keep your head covered in that hope.",
+      "scripture": {
+        "text": "And take the helmet of salvation, and the sword of the Spirit, which is the word of God:",
+        "reference": "Ephesians 6:17",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "And take the helmet of salvation.",
+        "reference": "Ephesians 6:17",
+        "translation": "ASV"
+      }
+    },
+    "sword-of-the-spirit": {
+      "name": "The Sword of the Spirit",
+      "emoji": "⚔️",
+      "traits": [
+        "Bold",
+        "Word-filled",
+        "Discerning"
+      ],
+      "description": "You fight back with Scripture, and you know the word of God is the one weapon in the armor meant for taking ground. Like a soldier's sword, you wield what God has spoken to cut through lies and fear. When the enemy whispers, you answer with truth that's written. Keep the word close and keep it sharp, because it never returns empty.",
+      "scripture": {
+        "text": "And take the helmet of salvation, and the sword of the Spirit, which is the word of God:",
+        "reference": "Ephesians 6:17",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "the sword of the Spirit, which is the word of God.",
+        "reference": "Ephesians 6:17",
+        "translation": "ASV"
+      }
+    }
+  },
+  "theme": "scripture-archetype"
+}

@@ -1,0 +1,327 @@
+{
+  "slug": "which-patriarch-are-you",
+  "title": "Which Patriarch Are You?",
+  "subtitle": "The founding fathers of faith each carried a different legacy. Find out which one is yours.",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 4,
+  "mode": "archetype",
+  "questions": [
+    {
+      "text": "God asks you to step into the unknown. Your gut reaction?",
+      "options": [
+        {
+          "text": "I'll go, even without knowing where I'm headed.",
+          "weights": {
+            "abraham": 3
+          }
+        },
+        {
+          "text": "I'll stay faithful right here and trust His promise.",
+          "weights": {
+            "isaac": 3
+          }
+        },
+        {
+          "text": "I'll wrestle it out with God until I get an answer.",
+          "weights": {
+            "jacob": 3
+          }
+        },
+        {
+          "text": "I'll hold onto the dream He gave me, wherever it leads.",
+          "weights": {
+            "joseph": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "How would people describe your faith?",
+      "options": [
+        {
+          "text": "Pioneering. I'll believe God for the impossible.",
+          "weights": {
+            "abraham": 3
+          }
+        },
+        {
+          "text": "Quiet and steady. I don't need the spotlight.",
+          "weights": {
+            "isaac": 3
+          }
+        },
+        {
+          "text": "Scrappy and honest. I've fought for every bit of it.",
+          "weights": {
+            "jacob": 3
+          }
+        },
+        {
+          "text": "Resilient. It's been tested hard and held.",
+          "weights": {
+            "joseph": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "What's your relationship with waiting?",
+      "options": [
+        {
+          "text": "I've waited decades for a promise and still believed.",
+          "weights": {
+            "abraham": 3
+          }
+        },
+        {
+          "text": "I'm patient. I can wait without making a fuss.",
+          "weights": {
+            "isaac": 3
+          }
+        },
+        {
+          "text": "Waiting is hard. I'd rather scheme my way forward.",
+          "weights": {
+            "jacob": 3
+          }
+        },
+        {
+          "text": "I've waited in some dark places, but God had a plan.",
+          "weights": {
+            "joseph": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Your family relationships are best described as...",
+      "options": [
+        {
+          "text": "I'm laying a foundation for generations after me.",
+          "weights": {
+            "abraham": 3
+          }
+        },
+        {
+          "text": "Mostly peaceful. I follow in my father's footsteps.",
+          "weights": {
+            "isaac": 3
+          }
+        },
+        {
+          "text": "Complicated. There's rivalry and history to mend.",
+          "weights": {
+            "jacob": 3
+          }
+        },
+        {
+          "text": "Painful, but I've chosen to forgive what they did.",
+          "weights": {
+            "joseph": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "When you mess up, what's your pattern?",
+      "options": [
+        {
+          "text": "I've taken matters into my own hands and learned from it.",
+          "weights": {
+            "abraham": 2,
+            "jacob": 1
+          }
+        },
+        {
+          "text": "I tend to repeat my parents' old mistakes.",
+          "weights": {
+            "isaac": 3
+          }
+        },
+        {
+          "text": "I've deceived to get ahead, then had to face the cost.",
+          "weights": {
+            "jacob": 3
+          }
+        },
+        {
+          "text": "Honestly, my struggle has been other people's wrong, not mine.",
+          "weights": {
+            "joseph": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "What does an encounter with God look like for you?",
+      "options": [
+        {
+          "text": "A covenant promise that reshapes my whole future.",
+          "weights": {
+            "abraham": 3
+          }
+        },
+        {
+          "text": "A quiet reassurance: fear not, I am with you.",
+          "weights": {
+            "isaac": 3
+          }
+        },
+        {
+          "text": "An all-night wrestling match I refuse to walk away from.",
+          "weights": {
+            "jacob": 3
+          }
+        },
+        {
+          "text": "A dream that hints at a purpose bigger than today.",
+          "weights": {
+            "joseph": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "What's the test that defines your story?",
+      "options": [
+        {
+          "text": "Being asked to surrender the very thing I love most.",
+          "weights": {
+            "abraham": 3
+          }
+        },
+        {
+          "text": "Staying faithful and unremarkable while God blesses me.",
+          "weights": {
+            "isaac": 3
+          }
+        },
+        {
+          "text": "Coming home to face the family I once ran from.",
+          "weights": {
+            "jacob": 3
+          }
+        },
+        {
+          "text": "Choosing good toward people who meant me real harm.",
+          "weights": {
+            "joseph": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "What legacy do you most want to leave?",
+      "options": [
+        {
+          "text": "A faith so bold it blesses every generation after me.",
+          "weights": {
+            "abraham": 3
+          }
+        },
+        {
+          "text": "A quiet, faithful life that simply kept the promise going.",
+          "weights": {
+            "isaac": 3
+          }
+        },
+        {
+          "text": "A transformed name, proof that God can change a person.",
+          "weights": {
+            "jacob": 3
+          }
+        },
+        {
+          "text": "A story where God turned real evil into good for many.",
+          "weights": {
+            "joseph": 3
+          }
+        }
+      ]
+    }
+  ],
+  "results": {
+    "abraham": {
+      "name": "Abraham the Pioneer",
+      "emoji": "🌌",
+      "traits": [
+        "Faith-filled",
+        "Obedient",
+        "Promise-keeper"
+      ],
+      "description": "You're willing to go before you can see, and that kind of faith is rare. Like Abraham, you'll trust God into the unknown and believe Him for things that look impossible. You've waited long and sometimes tried to help God along, but He counts your faith as righteousness. Keep stepping out. You're laying a foundation that will bless people long after you.",
+      "scripture": {
+        "text": "And he believed in Jehovah; and he reckoned it to him for righteousness.",
+        "reference": "Genesis 15:6",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "And he believed in Jehovah; and he reckoned it to him for righteousness.",
+        "reference": "Genesis 15:6",
+        "translation": "ASV"
+      }
+    },
+    "isaac": {
+      "name": "Isaac the Faithful",
+      "emoji": "🌾",
+      "traits": [
+        "Steady",
+        "Patient",
+        "Peaceable"
+      ],
+      "description": "You don't need to be the loud one to be faithful. Isaac lived a quieter life between two larger-than-life figures, and he simply kept the promise going. You carry that same steady trust, content to follow where God has already led. When you feel overlooked, remember His words to Isaac: fear not, I am with you. Your faithfulness matters more than you know.",
+      "scripture": {
+        "text": "And Jehovah appeared unto him the same night, and said, I am the God of Abraham thy father: fear not, for I am with thee, and will bless thee, and multiply thy seed for my servant Abraham's sake.",
+        "reference": "Genesis 26:24",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Fear not, for I am with thee, and will bless thee.",
+        "reference": "Genesis 26:24",
+        "translation": "ASV"
+      }
+    },
+    "jacob": {
+      "name": "Jacob the Wrestler",
+      "emoji": "🤼",
+      "traits": [
+        "Tenacious",
+        "Honest",
+        "Transformed"
+      ],
+      "description": "You don't let go easily, and you'll wrestle with God until you get an answer. Jacob's story is messy, full of striving and old mistakes, but it ends with a new name and a changed man. That's your hope too. God meets the scrappers and the schemers, and He doesn't leave them as He found them. Hold on through the struggle. He's making you into someone new.",
+      "scripture": {
+        "text": "And he said, Thy name shall be called no more Jacob, but Israel: for thou hast striven with God and with men, and hast prevailed.",
+        "reference": "Genesis 32:28",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Thou hast striven with God and with men, and hast prevailed.",
+        "reference": "Genesis 32:28",
+        "translation": "ASV"
+      }
+    },
+    "joseph": {
+      "name": "Joseph the Dreamer",
+      "emoji": "🌟",
+      "traits": [
+        "Resilient",
+        "Forgiving",
+        "Faithful in the dark"
+      ],
+      "description": "You've been through things that should have made you bitter, and instead you've held onto God and onto hope. Like Joseph, you can look back at real betrayal and still see God's hand weaving good through it. Your story isn't over in the pit or the prison. Keep forgiving, keep trusting, because what others meant for harm, God is quietly turning into good.",
+      "scripture": {
+        "text": "And as for you, ye meant evil against me; but God meant it for good, to bring to pass, as it is this day, to save much people alive.",
+        "reference": "Genesis 50:20",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Ye meant evil against me; but God meant it for good.",
+        "reference": "Genesis 50:20",
+        "translation": "ASV"
+      }
+    }
+  },
+  "theme": "scripture-archetype"
+}

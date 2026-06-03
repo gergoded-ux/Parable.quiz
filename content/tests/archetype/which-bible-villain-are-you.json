@@ -1,0 +1,348 @@
+{
+  "slug": "which-bible-villain-are-you",
+  "title": "Which Bible Villain Are You?",
+  "subtitle": "A playful look at your shadow side. Grace is still bigger.",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 4,
+  "mode": "archetype",
+  "theme": "scripture-archetype",
+  "questions": [
+    {
+      "text": "Be honest. When things go wrong, your bad habit is...",
+      "options": [
+        {
+          "text": "Cutting a quiet deal that helps me first.",
+          "weights": {
+            "judas": 3
+          }
+        },
+        {
+          "text": "Digging in my heels even when I am clearly wrong.",
+          "weights": {
+            "pharaoh": 3
+          }
+        },
+        {
+          "text": "Getting my way by any means necessary.",
+          "weights": {
+            "jezebel": 3
+          }
+        },
+        {
+          "text": "Talking big and trash-talking the competition.",
+          "weights": {
+            "goliath": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Someone smaller than you is winning. You feel...",
+      "options": [
+        {
+          "text": "Insulted. Who do they think they are?",
+          "weights": {
+            "goliath": 3
+          }
+        },
+        {
+          "text": "Threatened. I need to lock this down now.",
+          "weights": {
+            "herod": 3
+          }
+        },
+        {
+          "text": "Annoyed. I will just go around the rules.",
+          "weights": {
+            "jezebel": 3
+          }
+        },
+        {
+          "text": "Stubborn. I refuse to back down on principle.",
+          "weights": {
+            "pharaoh": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Your toxic trait in one word:",
+      "options": [
+        {
+          "text": "Greedy.",
+          "weights": {
+            "judas": 3
+          }
+        },
+        {
+          "text": "Stubborn.",
+          "weights": {
+            "pharaoh": 3
+          }
+        },
+        {
+          "text": "Controlling.",
+          "weights": {
+            "jezebel": 3
+          }
+        },
+        {
+          "text": "Cocky.",
+          "weights": {
+            "goliath": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "How do you handle a threat to your position?",
+      "options": [
+        {
+          "text": "Quietly sell out whoever is in my way.",
+          "weights": {
+            "judas": 3
+          }
+        },
+        {
+          "text": "Harden up and double down, every time.",
+          "weights": {
+            "pharaoh": 3
+          }
+        },
+        {
+          "text": "Send a threatening message and make them sweat.",
+          "weights": {
+            "jezebel": 3,
+            "herod": 1
+          }
+        },
+        {
+          "text": "Overreact to protect what is mine.",
+          "weights": {
+            "herod": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "What is your relationship with control?",
+      "options": [
+        {
+          "text": "I like to manage the money and the plan.",
+          "weights": {
+            "judas": 3
+          }
+        },
+        {
+          "text": "I do not let anyone tell me what to do.",
+          "weights": {
+            "pharaoh": 3
+          }
+        },
+        {
+          "text": "If I want it done, I will pull the strings myself.",
+          "weights": {
+            "jezebel": 3
+          }
+        },
+        {
+          "text": "I keep a paranoid grip on my title.",
+          "weights": {
+            "herod": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Pick the line that sounds the most like you:",
+      "options": [
+        {
+          "text": "What is in it for me?",
+          "weights": {
+            "judas": 3
+          }
+        },
+        {
+          "text": "I do not know him, and I will not listen.",
+          "weights": {
+            "pharaoh": 3
+          }
+        },
+        {
+          "text": "Leave it to me. I will handle it.",
+          "weights": {
+            "jezebel": 3
+          }
+        },
+        {
+          "text": "Come here and say that to my face.",
+          "weights": {
+            "goliath": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Where does your downfall usually start?",
+      "options": [
+        {
+          "text": "Loving money a little too much.",
+          "weights": {
+            "judas": 3
+          }
+        },
+        {
+          "text": "A hard heart that will not bend.",
+          "weights": {
+            "pharaoh": 3
+          }
+        },
+        {
+          "text": "Power without a conscience attached.",
+          "weights": {
+            "jezebel": 3
+          }
+        },
+        {
+          "text": "Underestimating the small thing in front of me.",
+          "weights": {
+            "goliath": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Last one. The good news for your shadow side is...",
+      "options": [
+        {
+          "text": "Even a betrayer was offered a seat at the table.",
+          "weights": {
+            "judas": 3
+          }
+        },
+        {
+          "text": "A hard heart can still be softened.",
+          "weights": {
+            "pharaoh": 3
+          }
+        },
+        {
+          "text": "It is never too late to use my influence for good.",
+          "weights": {
+            "jezebel": 3
+          }
+        },
+        {
+          "text": "The giants I fear are smaller than I think.",
+          "weights": {
+            "goliath": 3,
+            "herod": 1
+          }
+        }
+      ]
+    }
+  ],
+  "results": {
+    "judas": {
+      "name": "The Judas in You",
+      "emoji": "💰",
+      "traits": [
+        "Money-minded",
+        "Calculating",
+        "Quietly self-serving"
+      ],
+      "description": "Your shadow side keeps one eye on what is in it for you. You can talk yourself into a deal that helps you and quietly costs someone else. Here is the gracious part. Even the one who sold out his friend was offered bread at the same table, right up to the end. Your bent toward looking out for number one can be redeemed into real generosity. The door back is always open.",
+      "scripture": {
+        "text": "and said, What are ye willing to give me, and I will deliver him unto you? And they weighed unto him thirty pieces of silver.",
+        "reference": "Matthew 26:15",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "What are ye willing to give me, and I will deliver him unto you?",
+        "reference": "Matthew 26:15",
+        "translation": "ASV"
+      }
+    },
+    "pharaoh": {
+      "name": "The Pharaoh in You",
+      "emoji": "🪨",
+      "traits": [
+        "Stubborn",
+        "Proud",
+        "Slow to budge"
+      ],
+      "description": "Your shadow side digs in. Once you have decided, you would rather harden up than admit you were wrong, even when the evidence is piling up around you. The hopeful news is that a hard heart is not a permanent thing. It can be softened, one honest moment at a time. Your firmness can become real backbone for good once you let God be the one who is actually in charge.",
+      "scripture": {
+        "text": "And Pharaoh said, Who is Jehovah, that I should hearken unto his voice to let Israel go? I know not Jehovah, and moreover I will not let Israel go.",
+        "reference": "Exodus 5:2",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Who is Jehovah, that I should hearken unto his voice?",
+        "reference": "Exodus 5:2",
+        "translation": "ASV"
+      }
+    },
+    "jezebel": {
+      "name": "The Jezebel in You",
+      "emoji": "🐍",
+      "traits": [
+        "Strong-willed",
+        "Persuasive",
+        "Used to getting your way"
+      ],
+      "description": "Your shadow side likes to pull the strings. You are influential and bold, and when you want something done, you can be tempted to go around the rules to get it. That same drive is a gift waiting to be aimed somewhere good. Influence with a conscience attached is a powerful thing. It is never too late to use your strength to lift people up instead of running them over.",
+      "scripture": {
+        "text": "Then Jezebel sent a messenger unto Elijah, saying, So let the gods do to me, and more also, if I make not thy life as the life of one of them by to-morrow about this time.",
+        "reference": "I Kings 19:2",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Then Jezebel sent a messenger unto Elijah.",
+        "reference": "I Kings 19:2",
+        "translation": "ASV"
+      }
+    },
+    "goliath": {
+      "name": "The Goliath in You",
+      "emoji": "🗿",
+      "traits": [
+        "Loud",
+        "Confident",
+        "A little too sure of yourself"
+      ],
+      "description": "Your shadow side talks big. You have got real presence, and you are not shy about it, but you can underestimate the quiet thing in front of you. Pride goes before a sling and a stone. The good news is that confidence is not the problem. Confidence in the right place is. Stay humble about the small stuff, and your boldness becomes courage instead of a target.",
+      "scripture": {
+        "text": "And the Philistine said to David, Come to me, and I will give thy flesh unto the birds of the heavens, and to the beasts of the field.",
+        "reference": "I Samuel 17:44",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "And there went out a champion out of the camp of the Philistines, named Goliath.",
+        "reference": "I Samuel 17:4",
+        "translation": "ASV"
+      }
+    },
+    "herod": {
+      "name": "The Herod in You",
+      "emoji": "👑",
+      "traits": [
+        "Insecure",
+        "Territorial",
+        "Easily threatened"
+      ],
+      "description": "Your shadow side holds a paranoid grip on what is yours. The moment something feels like a threat, you can overreact to protect your spot. Underneath the bluster is usually plain old fear. The kind thing to remember is that you do not have to guard your throne so tightly. The giants you are bracing against are smaller than they look, and there is freedom in loosening your hands.",
+      "scripture": {
+        "text": "And when Herod the king heard it, he was troubled, and all Jerusalem with him.",
+        "reference": "Matthew 2:3",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "And when Herod the king heard it, he was troubled.",
+        "reference": "Matthew 2:3",
+        "translation": "ASV"
+      }
+    }
+  }
+}

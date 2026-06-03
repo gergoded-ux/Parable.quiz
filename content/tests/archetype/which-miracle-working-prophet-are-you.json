@@ -1,0 +1,348 @@
+{
+  "slug": "which-miracle-working-prophet-are-you",
+  "title": "Which Miracle-Working Prophet Are You?",
+  "subtitle": "God moved through their hands. Whose anointing matches yours?",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 4,
+  "mode": "archetype",
+  "theme": "scripture-archetype",
+  "questions": [
+    {
+      "text": "When God asks you to do something huge, your gut reaction is...",
+      "options": [
+        {
+          "text": "Who am I to do this? But okay, I will go.",
+          "weights": {
+            "moses": 3
+          }
+        },
+        {
+          "text": "Let everyone see that God is real, right here, right now.",
+          "weights": {
+            "elijah": 3
+          }
+        },
+        {
+          "text": "Give me more of Your Spirit so I can carry it.",
+          "weights": {
+            "elisha": 3
+          }
+        },
+        {
+          "text": "I will take the risk and step out, ready or not.",
+          "weights": {
+            "peter": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "How do you tend to lead people?",
+      "options": [
+        {
+          "text": "Out of hard places and toward freedom.",
+          "weights": {
+            "moses": 3
+          }
+        },
+        {
+          "text": "By confronting what is false and calling them back to God.",
+          "weights": {
+            "elijah": 3
+          }
+        },
+        {
+          "text": "By staying close, serving, and quietly meeting needs.",
+          "weights": {
+            "elisha": 3
+          }
+        },
+        {
+          "text": "By taking the message to people no one else will reach.",
+          "weights": {
+            "paul": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "What kind of miracle stirs your heart the most?",
+      "options": [
+        {
+          "text": "A whole sea splitting so people can walk free.",
+          "weights": {
+            "moses": 3
+          }
+        },
+        {
+          "text": "Fire falling from heaven to silence every doubt.",
+          "weights": {
+            "elijah": 3
+          }
+        },
+        {
+          "text": "Small, tender wonders that meet ordinary people.",
+          "weights": {
+            "elisha": 3
+          }
+        },
+        {
+          "text": "A broken body standing up and walking again.",
+          "weights": {
+            "peter": 3,
+            "paul": 1
+          }
+        }
+      ]
+    },
+    {
+      "text": "Which struggle do you know best?",
+      "options": [
+        {
+          "text": "Feeling unqualified and slow to speak.",
+          "weights": {
+            "moses": 3
+          }
+        },
+        {
+          "text": "Big highs followed by burnout and hiding.",
+          "weights": {
+            "elijah": 3
+          }
+        },
+        {
+          "text": "Living in someone else's shadow before my own time came.",
+          "weights": {
+            "elisha": 3
+          }
+        },
+        {
+          "text": "A past I am not proud of that God still redeemed.",
+          "weights": {
+            "paul": 3,
+            "peter": 1
+          }
+        }
+      ]
+    },
+    {
+      "text": "When fear hits, what gets you through?",
+      "options": [
+        {
+          "text": "Remembering that God will fight for me.",
+          "weights": {
+            "moses": 3
+          }
+        },
+        {
+          "text": "Keeping my eyes on Jesus so I do not sink.",
+          "weights": {
+            "peter": 3
+          }
+        },
+        {
+          "text": "Knowing nothing can separate me from His love.",
+          "weights": {
+            "paul": 3
+          }
+        },
+        {
+          "text": "Getting alone to hear His still, small voice.",
+          "weights": {
+            "elijah": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "What do you want your hands to be known for?",
+      "options": [
+        {
+          "text": "Lifting up so that God brings the breakthrough.",
+          "weights": {
+            "moses": 3
+          }
+        },
+        {
+          "text": "Building an altar where God shows up in power.",
+          "weights": {
+            "elijah": 3
+          }
+        },
+        {
+          "text": "Carrying a double portion into the next generation.",
+          "weights": {
+            "elisha": 3
+          }
+        },
+        {
+          "text": "Reaching out and saying, in His name, rise up.",
+          "weights": {
+            "peter": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Which sentence sounds most like your testimony?",
+      "options": [
+        {
+          "text": "I argued with God, but He used me anyway.",
+          "weights": {
+            "moses": 3
+          }
+        },
+        {
+          "text": "I have failed badly, and grace put me back to work.",
+          "weights": {
+            "peter": 3
+          }
+        },
+        {
+          "text": "I was the last person you would expect God to choose.",
+          "weights": {
+            "paul": 3
+          }
+        },
+        {
+          "text": "I asked for more of God, and He poured it out.",
+          "weights": {
+            "elisha": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "How do you handle a crowd that does not believe?",
+      "options": [
+        {
+          "text": "I keep obeying God and let Him part the waters.",
+          "weights": {
+            "moses": 3
+          }
+        },
+        {
+          "text": "I challenge them boldly and let God answer with fire.",
+          "weights": {
+            "elijah": 3
+          }
+        },
+        {
+          "text": "I just keep serving, and the wonders speak for themselves.",
+          "weights": {
+            "elisha": 3
+          }
+        },
+        {
+          "text": "I reason, I preach, and I trust God to do the rest.",
+          "weights": {
+            "paul": 3
+          }
+        }
+      ]
+    }
+  ],
+  "results": {
+    "moses": {
+      "name": "Moses the Deliverer",
+      "emoji": "🌊",
+      "traits": [
+        "Humble",
+        "Persevering",
+        "Faithful"
+      ],
+      "description": "You never felt qualified for the calling, and yet here you are, leading people toward freedom. You have learned to lift up your hands and let God do what only He can do. When the way forward looks impossible, He still parts the sea in front of you.",
+      "scripture": {
+        "text": "And Moses stretched out his hand over the sea; and Jehovah caused the sea to go back by a strong east wind all the night, and made the sea dry land, and the waters were divided.",
+        "reference": "Exodus 14:21",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Jehovah will fight for you, and ye shall hold your peace.",
+        "reference": "Exodus 14:14",
+        "translation": "ASV"
+      }
+    },
+    "elijah": {
+      "name": "Elijah the Fire-Caller",
+      "emoji": "🔥",
+      "traits": [
+        "Bold",
+        "Passionate",
+        "Tender-hearted"
+      ],
+      "description": "You are not afraid to stand alone and call people back to the real God. When you pray, you expect heaven to answer, and it often does. You also know the crash that comes after the mountaintop, and God meets you there too, with rest and a gentle whisper.",
+      "scripture": {
+        "text": "Then the fire of Jehovah fell, and consumed the burnt-offering, and the wood, and the stones, and the dust, and licked up the water that was in the trench.",
+        "reference": "1 Kings 18:38",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Jehovah, he is God.",
+        "reference": "1 Kings 18:39",
+        "translation": "ASV"
+      }
+    },
+    "elisha": {
+      "name": "Elisha the Double-Portion",
+      "emoji": "💧",
+      "traits": [
+        "Devoted",
+        "Generous",
+        "Faithful"
+      ],
+      "description": "You asked God for more, not for yourself, but so you could pour it out on others. You served faithfully in the background before your own season came. Now your gift shows up in tender, practical miracles that meet ordinary people right where they are.",
+      "scripture": {
+        "text": "And it came to pass, when they were gone over, that Elijah said unto Elisha, Ask what I shall do for thee, before I am taken from thee. And Elisha said, I pray thee, let a double portion of thy spirit be upon me.",
+        "reference": "2 Kings 2:9",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Let a double portion of thy spirit be upon me.",
+        "reference": "2 Kings 2:9",
+        "translation": "ASV"
+      }
+    },
+    "peter": {
+      "name": "Peter the Bold Risk-Taker",
+      "emoji": "⚓",
+      "traits": [
+        "Courageous",
+        "Passionate",
+        "Restored"
+      ],
+      "description": "You are the one who steps out of the boat. You feel things deeply and act fast, and yes, sometimes you stumble. But God took your failures and built something powerful out of them. In His name, healing flows right through your reaching hands.",
+      "scripture": {
+        "text": "But Peter said, Silver and gold have I none; but what I have, that give I thee. In the name of Jesus Christ of Nazareth, walk.",
+        "reference": "Acts 3:6",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "In the name of Jesus Christ of Nazareth, walk.",
+        "reference": "Acts 3:6",
+        "translation": "ASV"
+      }
+    },
+    "paul": {
+      "name": "Paul the Unlikely Apostle",
+      "emoji": "✉️",
+      "traits": [
+        "Transformed",
+        "Bold",
+        "Tireless"
+      ],
+      "description": "You were the last person anyone expected God to use, and that is exactly the point. Grace turned your whole life around and sent you to reach people no one else would. God works wonders through hands that once did harm, and your story proves it.",
+      "scripture": {
+        "text": "And God wrought special miracles by the hands of Paul.",
+        "reference": "Acts 19:11",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "God wrought special miracles by the hands of Paul.",
+        "reference": "Acts 19:11",
+        "translation": "ASV"
+      }
+    }
+  }
+}

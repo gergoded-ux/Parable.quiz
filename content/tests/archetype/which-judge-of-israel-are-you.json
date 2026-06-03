@@ -1,0 +1,353 @@
+{
+  "slug": "which-judge-of-israel-are-you",
+  "title": "Which Judge of Israel Are You?",
+  "subtitle": "God raised up the most unlikely deliverers. Find out which one you're most like.",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 4,
+  "mode": "archetype",
+  "questions": [
+    {
+      "text": "God taps you to rescue people who got themselves into this mess. You...",
+      "options": [
+        {
+          "text": "Step up quietly and get to work without much fuss.",
+          "weights": {
+            "othniel": 3
+          }
+        },
+        {
+          "text": "Ask for a sign first. Are You sure it's me?",
+          "weights": {
+            "gideon": 3
+          }
+        },
+        {
+          "text": "Feel the Spirit stir and act on raw instinct.",
+          "weights": {
+            "samson": 3
+          }
+        },
+        {
+          "text": "Call everyone together and lead the charge.",
+          "weights": {
+            "deborah": 2,
+            "jephthah": 1
+          }
+        }
+      ]
+    },
+    {
+      "text": "What's the hardest part of your backstory?",
+      "options": [
+        {
+          "text": "I had to prove myself before anyone took me seriously.",
+          "weights": {
+            "othniel": 3
+          }
+        },
+        {
+          "text": "I came from the least, smallest, most overlooked corner.",
+          "weights": {
+            "gideon": 3
+          }
+        },
+        {
+          "text": "I was rejected by my own family before I was ever needed.",
+          "weights": {
+            "jephthah": 3
+          }
+        },
+        {
+          "text": "People doubted I belonged in leadership at all.",
+          "weights": {
+            "deborah": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "How do you make a big decision under pressure?",
+      "options": [
+        {
+          "text": "Steady and faithful. I just do the next right thing.",
+          "weights": {
+            "othniel": 3
+          }
+        },
+        {
+          "text": "Cautiously, with lots of confirmation along the way.",
+          "weights": {
+            "gideon": 3
+          }
+        },
+        {
+          "text": "Fast and bold, sometimes before I've thought it through.",
+          "weights": {
+            "samson": 2,
+            "jephthah": 1
+          }
+        },
+        {
+          "text": "I seek God, get clarity, then move others to follow.",
+          "weights": {
+            "deborah": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Your relationship with God right now feels most like...",
+      "options": [
+        {
+          "text": "The Spirit of the Lord comes upon me and I just go.",
+          "weights": {
+            "othniel": 2,
+            "samson": 1
+          }
+        },
+        {
+          "text": "Me asking, Lord, are You really with me?",
+          "weights": {
+            "gideon": 3
+          }
+        },
+        {
+          "text": "Powerful in public, but messy when no one's looking.",
+          "weights": {
+            "samson": 3
+          }
+        },
+        {
+          "text": "A real partnership. I listen, then I lead.",
+          "weights": {
+            "deborah": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "What's your blind spot as a leader?",
+      "options": [
+        {
+          "text": "Honestly not much. I'm steady, which can look unremarkable.",
+          "weights": {
+            "othniel": 3
+          }
+        },
+        {
+          "text": "I hesitate so long the moment almost passes.",
+          "weights": {
+            "gideon": 3
+          }
+        },
+        {
+          "text": "My passions get the better of me at the worst times.",
+          "weights": {
+            "samson": 3
+          }
+        },
+        {
+          "text": "I make rash promises trying to secure the outcome.",
+          "weights": {
+            "jephthah": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "When the Spirit of the Lord comes on you, it looks like...",
+      "options": [
+        {
+          "text": "Quiet resolve. I go out and the victory follows.",
+          "weights": {
+            "othniel": 3
+          }
+        },
+        {
+          "text": "A sudden boldness that surprises even me.",
+          "weights": {
+            "gideon": 2,
+            "jephthah": 1
+          }
+        },
+        {
+          "text": "A burst of strength I can physically feel.",
+          "weights": {
+            "samson": 3
+          }
+        },
+        {
+          "text": "Wisdom to know exactly when and how to act.",
+          "weights": {
+            "deborah": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Which line sounds most like a prayer you've prayed?",
+      "options": [
+        {
+          "text": "Lord, give me the strength to deliver these people.",
+          "weights": {
+            "othniel": 2,
+            "samson": 1
+          }
+        },
+        {
+          "text": "If You're really with me, show me one more time.",
+          "weights": {
+            "gideon": 3
+          }
+        },
+        {
+          "text": "God, remember me and use me even after I've failed.",
+          "weights": {
+            "samson": 3
+          }
+        },
+        {
+          "text": "Lord, give the victory into our hands today.",
+          "weights": {
+            "jephthah": 2,
+            "deborah": 1
+          }
+        }
+      ]
+    },
+    {
+      "text": "What do you most want your story to prove?",
+      "options": [
+        {
+          "text": "That a faithful, ordinary person can change everything.",
+          "weights": {
+            "othniel": 3
+          }
+        },
+        {
+          "text": "That God uses the weak and the scared on purpose.",
+          "weights": {
+            "gideon": 3
+          }
+        },
+        {
+          "text": "That grace can redeem even a flawed, complicated life.",
+          "weights": {
+            "samson": 2,
+            "jephthah": 1
+          }
+        },
+        {
+          "text": "That the outsider nobody wanted was the one God chose.",
+          "weights": {
+            "jephthah": 3
+          }
+        }
+      ]
+    }
+  ],
+  "results": {
+    "deborah": {
+      "name": "Deborah the Wise Judge",
+      "emoji": "🌴",
+      "traits": [
+        "Discerning",
+        "Courageous",
+        "God-led"
+      ],
+      "description": "People come to you to untangle what they can't figure out alone, and you have the nerve to act on what God shows you. Like Deborah, you lead from a place of listening, and you call others up into their courage when they're stalling. You don't wait for permission to rise. You step out, trusting that the Lord has already gone ahead of you.",
+      "scripture": {
+        "text": "And Deborah, a prophetess, the wife of Lappidoth, she judged Israel at that time.",
+        "reference": "Judges 4:4",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Is not Jehovah gone out before thee?",
+        "reference": "Judges 4:14",
+        "translation": "ASV"
+      }
+    },
+    "gideon": {
+      "name": "Gideon the Cautious",
+      "emoji": "🌾",
+      "traits": [
+        "Hesitant",
+        "Humble",
+        "Brave in the end"
+      ],
+      "description": "You tend to feel like the smallest one in the room, the least likely pick. But God called Gideon a mighty man of valor while he was still hiding, and He was patient with every fleece and every question. Your need for reassurance isn't weakness to Him. He delights in taking the timid and the doubtful and winning a victory only He could explain.",
+      "scripture": {
+        "text": "And the angel of Jehovah appeared unto him, and said unto him, Jehovah is with thee, thou mighty man of valor.",
+        "reference": "Judges 6:12",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Jehovah is with thee, thou mighty man of valor.",
+        "reference": "Judges 6:12",
+        "translation": "ASV"
+      }
+    },
+    "samson": {
+      "name": "Samson the Flawed Strongman",
+      "emoji": "💪",
+      "traits": [
+        "Gifted",
+        "Passionate",
+        "Redeemable"
+      ],
+      "description": "You carry real power and a real struggle in the same hands. Samson was unstoppable against his enemies but undone by his own appetites, and yet his story doesn't end in defeat. When he cried out one last time, God answered. That's the hope you can hold: your gifts still matter, and grace can write a redemptive ending even after you've stumbled.",
+      "scripture": {
+        "text": "And Samson called unto Jehovah, and said, O Lord Jehovah, remember me, I pray thee, and strengthen me, I pray thee, only this once, O God.",
+        "reference": "Judges 16:28",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Remember me, and strengthen me, I pray thee, only this once.",
+        "reference": "Judges 16:28",
+        "translation": "ASV"
+      }
+    },
+    "othniel": {
+      "name": "Othniel the Faithful First",
+      "emoji": "⚔️",
+      "traits": [
+        "Steady",
+        "Dependable",
+        "Spirit-empowered"
+      ],
+      "description": "You're the quietly faithful one who simply shows up and does what needs doing. Othniel was Israel's first judge, and his story has no scandal, just obedience that brought rest to a whole nation. That kind of steadiness rarely gets the spotlight, but God notices. When His Spirit comes upon a faithful, ordinary life like yours, it changes everything.",
+      "scripture": {
+        "text": "And the Spirit of Jehovah came upon him, and he judged Israel; and he went out to war.",
+        "reference": "Judges 3:10",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "And the Spirit of Jehovah came upon him.",
+        "reference": "Judges 3:10",
+        "translation": "ASV"
+      }
+    },
+    "jephthah": {
+      "name": "Jephthah the Outsider",
+      "emoji": "🏹",
+      "traits": [
+        "Resilient",
+        "Determined",
+        "Once-rejected"
+      ],
+      "description": "You know what it's like to be pushed out by your own people and then suddenly needed. Jephthah was cast aside, yet God still chose him to deliver Israel. His story carries both honor and a hard lesson about rash vows made under pressure. Your past rejection doesn't disqualify you. God can call the very one others threw away and give the victory into your hands.",
+      "scripture": {
+        "text": "Then the Spirit of Jehovah came upon Jephthah.",
+        "reference": "Judges 11:29",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Then the Spirit of Jehovah came upon Jephthah.",
+        "reference": "Judges 11:29",
+        "translation": "ASV"
+      }
+    }
+  },
+  "theme": "scripture-archetype"
+}

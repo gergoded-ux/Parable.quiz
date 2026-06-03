@@ -1,0 +1,347 @@
+{
+  "slug": "which-i-am-statement-of-jesus-are-you",
+  "title": "Which I AM Statement of Jesus Are You?",
+  "subtitle": "Jesus described Himself in seven tender ways. One of them meets you right where you are today. Let's find which I AM is speaking to you.",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 4,
+  "mode": "archetype",
+  "questions": [
+    {
+      "text": "What is your soul most hungry for these days?",
+      "options": [
+        {
+          "text": "Something that actually fills me up and lasts.",
+          "weights": {
+            "bread-of-life": 3
+          }
+        },
+        {
+          "text": "Direction. I feel lost in the dark.",
+          "weights": {
+            "light-of-the-world": 3
+          }
+        },
+        {
+          "text": "To be cared for by someone who won't leave.",
+          "weights": {
+            "good-shepherd": 3
+          }
+        },
+        {
+          "text": "Hope that death and endings aren't the final word.",
+          "weights": {
+            "resurrection-and-life": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Where do you feel emptiest right now?",
+      "options": [
+        {
+          "text": "I keep reaching for things that never satisfy.",
+          "weights": {
+            "bread-of-life": 3
+          }
+        },
+        {
+          "text": "I can't see my next step clearly at all.",
+          "weights": {
+            "light-of-the-world": 3
+          }
+        },
+        {
+          "text": "I feel like I'm wandering with no one watching out for me.",
+          "weights": {
+            "good-shepherd": 3
+          }
+        },
+        {
+          "text": "I'm grieving, and I need life to feel possible again.",
+          "weights": {
+            "resurrection-and-life": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Which sentence sounds most like your inner ache?",
+      "options": [
+        {
+          "text": "Nothing seems to be enough lately.",
+          "weights": {
+            "bread-of-life": 3
+          }
+        },
+        {
+          "text": "I just want to know I'm not on my own.",
+          "weights": {
+            "good-shepherd": 3
+          }
+        },
+        {
+          "text": "I feel cut off, like I've lost my source.",
+          "weights": {
+            "true-vine": 3
+          }
+        },
+        {
+          "text": "I'm walking through a shadow I can't see past.",
+          "weights": {
+            "light-of-the-world": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "How are you doing with your sense of fruitfulness?",
+      "options": [
+        {
+          "text": "Dry. I'm trying so hard but nothing's growing.",
+          "weights": {
+            "true-vine": 3
+          }
+        },
+        {
+          "text": "Starving for real nourishment, not just busyness.",
+          "weights": {
+            "bread-of-life": 3
+          }
+        },
+        {
+          "text": "Confused about which way even leads to good fruit.",
+          "weights": {
+            "light-of-the-world": 3,
+            "true-vine": 1
+          }
+        },
+        {
+          "text": "Honestly, I just feel scattered and unguided.",
+          "weights": {
+            "good-shepherd": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "What kind of reassurance from Jesus would mean the most?",
+      "options": [
+        {
+          "text": "Come to Me and you'll never go hungry again.",
+          "weights": {
+            "bread-of-life": 3
+          }
+        },
+        {
+          "text": "Follow Me and you won't walk in darkness.",
+          "weights": {
+            "light-of-the-world": 3
+          }
+        },
+        {
+          "text": "I know My own by name, and I lay down My life for them.",
+          "weights": {
+            "good-shepherd": 3
+          }
+        },
+        {
+          "text": "Stay close to Me and you will bear much fruit.",
+          "weights": {
+            "true-vine": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "When you picture Jesus drawing near, what do you see?",
+      "options": [
+        {
+          "text": "Him breaking bread and handing it straight to me.",
+          "weights": {
+            "bread-of-life": 3
+          }
+        },
+        {
+          "text": "A light cutting through the fog I've been in.",
+          "weights": {
+            "light-of-the-world": 3
+          }
+        },
+        {
+          "text": "Him carrying me back home on His shoulders.",
+          "weights": {
+            "good-shepherd": 3
+          }
+        },
+        {
+          "text": "Him calling life back into something I thought was dead.",
+          "weights": {
+            "resurrection-and-life": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "What's the heaviest fear underneath it all?",
+      "options": [
+        {
+          "text": "That I'll always feel this empty.",
+          "weights": {
+            "bread-of-life": 3
+          }
+        },
+        {
+          "text": "That the loss I've faced is the end of the story.",
+          "weights": {
+            "resurrection-and-life": 3
+          }
+        },
+        {
+          "text": "That I'm too far gone to bear any fruit.",
+          "weights": {
+            "true-vine": 3
+          }
+        },
+        {
+          "text": "That no one is really looking out for me.",
+          "weights": {
+            "good-shepherd": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "What would you love to whisper back to Jesus today?",
+      "options": [
+        {
+          "text": "You are the bread I keep coming back for.",
+          "weights": {
+            "bread-of-life": 3
+          }
+        },
+        {
+          "text": "Be the light for the step right in front of me.",
+          "weights": {
+            "light-of-the-world": 3
+          }
+        },
+        {
+          "text": "I hear Your voice. Lead me home.",
+          "weights": {
+            "good-shepherd": 3
+          }
+        },
+        {
+          "text": "Keep me connected to You. I can't grow apart from You.",
+          "weights": {
+            "true-vine": 3
+          }
+        }
+      ]
+    }
+  ],
+  "results": {
+    "bread-of-life": {
+      "name": "I Am the Bread of Life",
+      "emoji": "🍞",
+      "traits": [
+        "Hungry",
+        "Seeking",
+        "Being filled"
+      ],
+      "description": "You have been reaching for things that never quite satisfy, and your soul is quietly starving for something real. Jesus said He is the bread of life, the one who fills the deep hunger nothing else can touch. You do not have to keep chasing empty things. Come to Him, again and again, and find that He is the meal your heart was made for.",
+      "scripture": {
+        "text": "Jesus said unto them, I am the bread of life: he that cometh to me shall not hunger, and he that believeth on me shall never thirst.",
+        "reference": "John 6:35",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "I am the bread of life.",
+        "reference": "John 6:35",
+        "translation": "ASV"
+      }
+    },
+    "light-of-the-world": {
+      "name": "I Am the Light of the World",
+      "emoji": "🕯️",
+      "traits": [
+        "Searching",
+        "Hopeful",
+        "Finding the way"
+      ],
+      "description": "You are walking through a season where the path ahead is hard to see, and the dark feels heavy. Jesus said He is the light of the world, and those who follow Him do not have to stumble through the shadows alone. You may not see the whole road yet, but you do not need to. Stay close to Him and there will be enough light for the very next step.",
+      "scripture": {
+        "text": "Again therefore Jesus spake unto them, saying, I am the light of the world: he that followeth me shall not walk in the darkness, but shall have the light of life.",
+        "reference": "John 8:12",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "I am the light of the world.",
+        "reference": "John 8:12",
+        "translation": "ASV"
+      }
+    },
+    "good-shepherd": {
+      "name": "I Am the Good Shepherd",
+      "emoji": "🐑",
+      "traits": [
+        "Cared for",
+        "Known",
+        "Led home"
+      ],
+      "description": "You long to be watched over by someone who will not wander off when things get hard. Jesus said He is the good shepherd, the one who knows His own by name and lays down His very life for them. You are not a number to Him and you are not on your own. He is the kind of shepherd who goes out after the one, and that one is you.",
+      "scripture": {
+        "text": "I am the good shepherd: the good shepherd layeth down his life for the sheep.",
+        "reference": "John 10:11",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "I am the good shepherd.",
+        "reference": "John 10:11",
+        "translation": "ASV"
+      }
+    },
+    "resurrection-and-life": {
+      "name": "I Am the Resurrection and the Life",
+      "emoji": "🌅",
+      "traits": [
+        "Grieving",
+        "Holding on",
+        "Coming alive"
+      ],
+      "description": "You are carrying a loss or an ending that feels final, and you need to believe life can begin again. Jesus said He is the resurrection and the life, standing at the edge of death itself and refusing to let it have the last word. Whatever feels buried in your story, He is the God who calls dead things back to life. Hope is not naive when He is the one holding it.",
+      "scripture": {
+        "text": "Jesus said unto her, I am the resurrection, and the life: he that believeth on me, though he die, yet shall he live;",
+        "reference": "John 11:25",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "I am the resurrection, and the life.",
+        "reference": "John 11:25",
+        "translation": "ASV"
+      }
+    },
+    "true-vine": {
+      "name": "I Am the True Vine",
+      "emoji": "🍇",
+      "traits": [
+        "Striving",
+        "Returning",
+        "Staying connected"
+      ],
+      "description": "You have been trying hard to produce something good, and you are starting to feel dry and worn out from the effort. Jesus said He is the true vine, and the secret to real fruit is not gritting your teeth but staying connected to Him. You were never meant to grow on your own strength. Abide in Him, rest in Him, and watch what grows when you stop striving and start staying close.",
+      "scripture": {
+        "text": "I am the true vine, and my Father is the husbandman.",
+        "reference": "John 15:1",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "I am the true vine.",
+        "reference": "John 15:1",
+        "translation": "ASV"
+      }
+    }
+  },
+  "theme": "scripture-archetype"
+}

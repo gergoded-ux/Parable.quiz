@@ -1,0 +1,348 @@
+{
+  "slug": "which-biblically-accurate-angel-are-you",
+  "title": "Which Biblically Accurate Angel Are You?",
+  "subtitle": "Forget the chubby cherubs. The real ones are wild. Which are you?",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 4,
+  "mode": "archetype",
+  "theme": "scripture-archetype",
+  "questions": [
+    {
+      "text": "In a room full of people, you are usually...",
+      "options": [
+        {
+          "text": "Lost in awe, just wanting to praise something bigger.",
+          "weights": {
+            "seraphim": 3
+          }
+        },
+        {
+          "text": "Quietly guarding what is sacred and shouldn't be touched.",
+          "weights": {
+            "cherubim": 3
+          }
+        },
+        {
+          "text": "Watching everything at once, never missing a detail.",
+          "weights": {
+            "ophanim": 3
+          }
+        },
+        {
+          "text": "Stepping up to protect the people who can't protect themselves.",
+          "weights": {
+            "michael": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "How do friends describe you?",
+      "options": [
+        {
+          "text": "On fire. My passion warms up the whole room.",
+          "weights": {
+            "seraphim": 3
+          }
+        },
+        {
+          "text": "A protector. I keep the things that matter safe.",
+          "weights": {
+            "cherubim": 3
+          }
+        },
+        {
+          "text": "All-seeing. Nothing gets past me.",
+          "weights": {
+            "ophanim": 3
+          }
+        },
+        {
+          "text": "The one who delivers the news everyone is waiting for.",
+          "weights": {
+            "gabriel": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Pick the description that gives you chills:",
+      "options": [
+        {
+          "text": "Six wings, covered face, crying holy without stopping.",
+          "weights": {
+            "seraphim": 3
+          }
+        },
+        {
+          "text": "A guardian with a flaming sword at the gate.",
+          "weights": {
+            "cherubim": 3
+          }
+        },
+        {
+          "text": "Wheels within wheels, rims full of eyes.",
+          "weights": {
+            "ophanim": 3
+          }
+        },
+        {
+          "text": "The great prince who stands up for his people.",
+          "weights": {
+            "michael": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "What role do you naturally fall into?",
+      "options": [
+        {
+          "text": "The worshiper. I set the tone of reverence.",
+          "weights": {
+            "seraphim": 3
+          }
+        },
+        {
+          "text": "The keeper. I guard the holy ground.",
+          "weights": {
+            "cherubim": 3
+          }
+        },
+        {
+          "text": "The watcher. I see and I move with purpose.",
+          "weights": {
+            "ophanim": 3
+          }
+        },
+        {
+          "text": "The messenger. I carry the word that changes things.",
+          "weights": {
+            "gabriel": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "When God needs something done, you are the one who...",
+      "options": [
+        {
+          "text": "Burns hot enough to purify what is unclean.",
+          "weights": {
+            "seraphim": 3
+          }
+        },
+        {
+          "text": "Stands at the threshold so nothing unholy slips through.",
+          "weights": {
+            "cherubim": 3
+          }
+        },
+        {
+          "text": "Goes wherever the Spirit goes, instantly.",
+          "weights": {
+            "ophanim": 3
+          }
+        },
+        {
+          "text": "Fights the battle no one else will take on.",
+          "weights": {
+            "michael": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "How do you handle conflict?",
+      "options": [
+        {
+          "text": "I rise above it and keep my eyes on what's holy.",
+          "weights": {
+            "seraphim": 3
+          }
+        },
+        {
+          "text": "I hold the line and refuse to let anything cross it.",
+          "weights": {
+            "cherubim": 3,
+            "michael": 1
+          }
+        },
+        {
+          "text": "I stay alert and ready to move the moment it's time.",
+          "weights": {
+            "ophanim": 3
+          }
+        },
+        {
+          "text": "I face it head on. Somebody has to stand up.",
+          "weights": {
+            "michael": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "What is your love language toward God?",
+      "options": [
+        {
+          "text": "Endless praise. Holy, holy, holy.",
+          "weights": {
+            "seraphim": 3
+          }
+        },
+        {
+          "text": "Faithful guarding of what He calls sacred.",
+          "weights": {
+            "cherubim": 3
+          }
+        },
+        {
+          "text": "Total readiness to go the second He says go.",
+          "weights": {
+            "ophanim": 3
+          }
+        },
+        {
+          "text": "Delivering His good news so people can have hope.",
+          "weights": {
+            "gabriel": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "When you show up, people usually feel...",
+      "options": [
+        {
+          "text": "Swept up into something far bigger than themselves.",
+          "weights": {
+            "seraphim": 3
+          }
+        },
+        {
+          "text": "Safe, like something precious is being protected.",
+          "weights": {
+            "cherubim": 3
+          }
+        },
+        {
+          "text": "Seen, like nothing about them is hidden.",
+          "weights": {
+            "ophanim": 3
+          }
+        },
+        {
+          "text": "Reassured, like the words fear not were made for them.",
+          "weights": {
+            "gabriel": 3,
+            "michael": 1
+          }
+        }
+      ]
+    }
+  ],
+  "results": {
+    "seraphim": {
+      "name": "The Seraphim",
+      "emoji": "🔥",
+      "traits": [
+        "Burning",
+        "Reverent",
+        "Worship-driven"
+      ],
+      "description": "You are the burning ones, the worshipers closest to the throne. Your whole being is wired for awe, and you cannot help but cry holy when you sense how big God really is. Six wings, a covered face, a voice that fills the temple. Your passion is contagious. When you adore God out loud, you pull everyone around you up into something greater.",
+      "scripture": {
+        "text": "Above him stood the seraphim: each one had six wings; with twain he covered his face, and with twain he covered his feet, and with twain he did fly.",
+        "reference": "Isaiah 6:2",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Holy, holy, holy, is Jehovah of hosts: the whole earth is full of his glory.",
+        "reference": "Isaiah 6:3",
+        "translation": "ASV"
+      }
+    },
+    "cherubim": {
+      "name": "The Cherubim",
+      "emoji": "⚔️",
+      "traits": [
+        "Guarding",
+        "Steadfast",
+        "Set apart"
+      ],
+      "description": "Forget the soft little babies on greeting cards. The real cherubim stand at the gate of Eden with a flaming sword, guarding what is holy. That is you. You are the keeper, the one who protects sacred ground and will not let just anything cross the line. Your loyalty runs deep. People feel safe near you because they know you take what matters seriously.",
+      "scripture": {
+        "text": "So he drove out the man; and he placed at the east of the garden of Eden the Cherubim, and the flame of a sword which turned every way, to keep the way of the tree of life.",
+        "reference": "Genesis 3:24",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "He placed the Cherubim, and the flame of a sword, to keep the way of the tree of life.",
+        "reference": "Genesis 3:24",
+        "translation": "ASV"
+      }
+    },
+    "ophanim": {
+      "name": "The Ophanim (Wheels)",
+      "emoji": "🛞",
+      "traits": [
+        "All-seeing",
+        "Ready",
+        "Always in motion"
+      ],
+      "description": "You are the wheels within wheels, rims covered in eyes, moving wherever the Spirit moves. Nothing gets past you. You see everything, you stay alert, and you go the instant it is time. People might find you a little intense, but that awareness is a gift. You notice what others miss, and you are ready to move before anyone else has caught up.",
+      "scripture": {
+        "text": "The appearance of the wheels and their work was like unto a beryl: and they four had one likeness; and their appearance and their work was as it were a wheel within a wheel.",
+        "reference": "Ezekiel 1:16",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Whithersoever the spirit was to go, they went.",
+        "reference": "Ezekiel 1:20",
+        "translation": "ASV"
+      }
+    },
+    "michael": {
+      "name": "Michael the Archangel",
+      "emoji": "🛡️",
+      "traits": [
+        "Brave",
+        "Protective",
+        "A natural defender"
+      ],
+      "description": "You are the warrior, the great prince who stands up for his people when the fight comes. You do not look away from a battle that needs fighting, and you put yourself between the people you love and whatever threatens them. Your courage makes others brave. When you stand up, others realize they can stand too.",
+      "scripture": {
+        "text": "And at that time shall Michael stand up, the great prince who standeth for the children of thy people.",
+        "reference": "Daniel 12:1",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Michael, one of the chief princes, came to help me.",
+        "reference": "Daniel 10:13",
+        "translation": "ASV"
+      }
+    },
+    "gabriel": {
+      "name": "Gabriel the Messenger",
+      "emoji": "📯",
+      "traits": [
+        "Trusted",
+        "Hope-bringing",
+        "Clear-spoken"
+      ],
+      "description": "You are the one who carries the message that changes everything. When God has good news to deliver, He sends you, because people trust your voice. You show up and the room shifts. You have a gift for making fear not feel believable. Your words land, and they leave people with hope they did not have before.",
+      "scripture": {
+        "text": "And the angel answering said unto him, I am Gabriel, that stand in the presence of God; and I was sent to speak unto thee, and to bring thee these good tidings.",
+        "reference": "Luke 1:19",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "I am Gabriel, that stand in the presence of God.",
+        "reference": "Luke 1:19",
+        "translation": "ASV"
+      }
+    }
+  }
+}

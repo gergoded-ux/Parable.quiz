@@ -1,0 +1,369 @@
+{
+  "slug": "which-plague-of-egypt-are-you",
+  "title": "Which Plague of Egypt Are You?",
+  "subtitle": "Ten plagues hit Egypt, and let's be honest, each one has a personality. Which one matches your energy? Mostly for fun.",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 4,
+  "mode": "archetype",
+  "questions": [
+    {
+      "text": "How do you make an entrance?",
+      "options": [
+        {
+          "text": "Dramatic and impossible to ignore from the very first second.",
+          "weights": {
+            "blood": 3
+          }
+        },
+        {
+          "text": "Suddenly everywhere at once, somehow.",
+          "weights": {
+            "frogs": 3
+          }
+        },
+        {
+          "text": "Quiet. I just lower the whole room's energy by showing up.",
+          "weights": {
+            "darkness": 3
+          }
+        },
+        {
+          "text": "Loud, fast, and slightly chaotic.",
+          "weights": {
+            "hail": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Your friends would say your superpower is...",
+      "options": [
+        {
+          "text": "Making a statement nobody forgets.",
+          "weights": {
+            "blood": 3
+          }
+        },
+        {
+          "text": "Multiplying. One of me becomes a whole crowd.",
+          "weights": {
+            "frogs": 3
+          }
+        },
+        {
+          "text": "Showing up in groups and clearing the place out.",
+          "weights": {
+            "locusts": 3
+          }
+        },
+        {
+          "text": "Bringing the noise wherever I go.",
+          "weights": {
+            "hail": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Pick your vibe at a party:",
+      "options": [
+        {
+          "text": "The bold one everyone's talking about.",
+          "weights": {
+            "blood": 3
+          }
+        },
+        {
+          "text": "The one who brought way too many friends.",
+          "weights": {
+            "frogs": 3,
+            "locusts": 1
+          }
+        },
+        {
+          "text": "The one hiding in the dim corner, recharging.",
+          "weights": {
+            "darkness": 3
+          }
+        },
+        {
+          "text": "The one who eats all the snacks before anyone else.",
+          "weights": {
+            "locusts": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "How do you handle someone being stubborn with you?",
+      "options": [
+        {
+          "text": "I escalate. Politely, but I escalate.",
+          "weights": {
+            "blood": 3,
+            "hail": 1
+          }
+        },
+        {
+          "text": "I keep showing up until they finally cave.",
+          "weights": {
+            "frogs": 3
+          }
+        },
+        {
+          "text": "I go silent and let the tension do the work.",
+          "weights": {
+            "darkness": 3
+          }
+        },
+        {
+          "text": "I come in heavy and shake things up.",
+          "weights": {
+            "hail": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "What's your idea of a big impact?",
+      "options": [
+        {
+          "text": "One unforgettable, jaw-dropping moment.",
+          "weights": {
+            "blood": 3
+          }
+        },
+        {
+          "text": "Total takeover. Leave nothing behind.",
+          "weights": {
+            "locusts": 3
+          }
+        },
+        {
+          "text": "Stopping everything cold so people finally pay attention.",
+          "weights": {
+            "darkness": 3
+          }
+        },
+        {
+          "text": "A storm so loud nobody can look away.",
+          "weights": {
+            "hail": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Honestly, what's your weakness?",
+      "options": [
+        {
+          "text": "I can be a bit much. I know.",
+          "weights": {
+            "blood": 2,
+            "frogs": 1
+          }
+        },
+        {
+          "text": "I don't know when to stop multiplying.",
+          "weights": {
+            "frogs": 3
+          }
+        },
+        {
+          "text": "I shut down and disappear when it gets heavy.",
+          "weights": {
+            "darkness": 3
+          }
+        },
+        {
+          "text": "I'm the most intense one in the room, and it's a lot.",
+          "weights": {
+            "firstborn": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Which line is most you?",
+      "options": [
+        {
+          "text": "Go big or go home.",
+          "weights": {
+            "blood": 3
+          }
+        },
+        {
+          "text": "The more the merrier. Way more.",
+          "weights": {
+            "frogs": 3
+          }
+        },
+        {
+          "text": "I'll just be over here in the dark, thanks.",
+          "weights": {
+            "darkness": 3
+          }
+        },
+        {
+          "text": "When I show up, things change for good.",
+          "weights": {
+            "firstborn": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Last one: what's your role in the group?",
+      "options": [
+        {
+          "text": "The one who kicks everything off.",
+          "weights": {
+            "blood": 3
+          }
+        },
+        {
+          "text": "The crew that rolls in deep and takes over.",
+          "weights": {
+            "locusts": 3
+          }
+        },
+        {
+          "text": "The wild card that shakes up the whole plan.",
+          "weights": {
+            "hail": 3
+          }
+        },
+        {
+          "text": "The grand finale everyone remembers.",
+          "weights": {
+            "firstborn": 3
+          }
+        }
+      ]
+    }
+  ],
+  "results": {
+    "blood": {
+      "name": "The Nile Turned to Blood",
+      "emoji": "🩸",
+      "traits": [
+        "Bold",
+        "Dramatic",
+        "Unforgettable"
+      ],
+      "description": "You are the opening act nobody forgets, the one who turns the whole river red and makes everyone sit up straight. The first plague set the tone for everything that came after, and that is so you. You do not do subtle. When you make a point, the whole room knows it, and honestly, the world could use a little of your fearless flair.",
+      "scripture": {
+        "text": "Thus saith Jehovah, In this thou shalt know that I am Jehovah: behold, I will smite with the rod that is in my hand upon the waters which are in the river, and they shall be turned to blood.",
+        "reference": "Exodus 7:17",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "The waters which are in the river shall be turned to blood.",
+        "reference": "Exodus 7:17",
+        "translation": "ASV"
+      }
+    },
+    "frogs": {
+      "name": "The Plague of Frogs",
+      "emoji": "🐸",
+      "traits": [
+        "Persistent",
+        "Everywhere",
+        "Lovable"
+      ],
+      "description": "Somehow you are always everywhere at once, and people cannot quite figure out how you pulled it off. The frogs came up and covered the whole land, into every house, every bed, every bowl. That is your energy, friendly, relentless, and impossible to escape in the best way. You show up and you keep showing up, and the world is a livelier place for it.",
+      "scripture": {
+        "text": "And Aaron stretched out his hand over the waters of Egypt; and the frogs came up, and covered the land of Egypt.",
+        "reference": "Exodus 8:6",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "The frogs came up, and covered the land of Egypt.",
+        "reference": "Exodus 8:6",
+        "translation": "ASV"
+      }
+    },
+    "darkness": {
+      "name": "The Plague of Darkness",
+      "emoji": "🌑",
+      "traits": [
+        "Mysterious",
+        "Calm",
+        "Low-key"
+      ],
+      "description": "You are the quiet one who changes the whole mood just by walking in, no fireworks required. The darkness that covered Egypt was so thick people could feel it, and you have that same understated power. You do not need to be loud to be felt. You are the introvert plague, recharging in the dim corner while everyone else wonders where the energy went.",
+      "scripture": {
+        "text": "And Moses stretched forth his hand toward heaven; and there was a thick darkness in all the land of Egypt three days;",
+        "reference": "Exodus 10:22",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "There was a thick darkness in all the land of Egypt three days.",
+        "reference": "Exodus 10:22",
+        "translation": "ASV"
+      }
+    },
+    "hail": {
+      "name": "The Plague of Hail",
+      "emoji": "⛈️",
+      "traits": [
+        "Intense",
+        "Loud",
+        "Electric"
+      ],
+      "description": "You are pure storm energy, the one who rolls in with thunder and fire and refuses to be ignored. The hail came down with lightning running along the ground, and that is exactly your kind of dramatic. You bring the noise, the spark, and the chaos that somehow gets everyone moving. Things are never boring when you are in the forecast.",
+      "scripture": {
+        "text": "And Moses stretched forth his rod toward heaven: and Jehovah sent thunder and hail, and fire ran down unto the earth; and Jehovah rained hail upon the land of Egypt.",
+        "reference": "Exodus 9:23",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Jehovah sent thunder and hail, and fire ran down unto the earth.",
+        "reference": "Exodus 9:23",
+        "translation": "ASV"
+      }
+    },
+    "locusts": {
+      "name": "The Plague of Locusts",
+      "emoji": "🦗",
+      "traits": [
+        "Unstoppable",
+        "Hungry",
+        "Team player"
+      ],
+      "description": "You never roll up alone, you bring the whole crew and take over the place. The locusts came in on the east wind and covered every inch of ground, and that is your group-project superpower. You are social, thorough, and the first to clear the snack table. When you and your people show up together, nothing gets left behind.",
+      "scripture": {
+        "text": "And Moses stretched forth his rod over the land of Egypt, and Jehovah brought an east wind upon the land all that day, and all the night; and when it was morning, the east wind brought the locusts.",
+        "reference": "Exodus 10:13",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "The east wind brought the locusts.",
+        "reference": "Exodus 10:13",
+        "translation": "ASV"
+      }
+    },
+    "firstborn": {
+      "name": "The Final Plague",
+      "emoji": "🌙",
+      "traits": [
+        "Intense",
+        "Pivotal",
+        "Unforgettable"
+      ],
+      "description": "You are the grand finale, the one who shows up when everything is on the line and changes the story for good. The tenth plague was the turning point that finally set a whole nation free, and the people who trusted the lamb's blood were kept safe through it. That is your kind of impact, weighty and unforgettable. You do not show up for small moments, you show up for the ones that matter most.",
+      "scripture": {
+        "text": "And it came to pass at midnight, that Jehovah smote all the first-born in the land of Egypt, from the first-born of Pharaoh that sat on his throne unto the first-born of the captive that was in the dungeon; and all the first-born of cattle.",
+        "reference": "Exodus 12:29",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "And it came to pass at midnight, that Jehovah smote all the first-born in the land of Egypt.",
+        "reference": "Exodus 12:29",
+        "translation": "ASV"
+      }
+    }
+  },
+  "theme": "scripture-archetype"
+}

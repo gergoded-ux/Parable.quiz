@@ -1,0 +1,352 @@
+{
+  "slug": "which-bible-warrior-are-you",
+  "title": "Which Bible Warrior Are You?",
+  "subtitle": "Every fighter of faith led a different way. Find out whose courage matches yours.",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 4,
+  "mode": "archetype",
+  "questions": [
+    {
+      "text": "A battle you can't avoid is coming. What steadies you most?",
+      "options": [
+        {
+          "text": "A clear command from God and the courage to obey it.",
+          "weights": {
+            "joshua": 3
+          }
+        },
+        {
+          "text": "One more sign that He's really with me before I move.",
+          "weights": {
+            "gideon": 3
+          }
+        },
+        {
+          "text": "Remembering the smaller battles God already brought me through.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "A quiet word from God when nobody else can hear it.",
+          "weights": {
+            "deborah": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "How do people tend to describe your strength?",
+      "options": [
+        {
+          "text": "Steady and disciplined. I finish what I start.",
+          "weights": {
+            "joshua": 3
+          }
+        },
+        {
+          "text": "Surprising. Nobody expected it from someone like me.",
+          "weights": {
+            "gideon": 2,
+            "david": 1
+          }
+        },
+        {
+          "text": "Raw and physical. I can carry a lot.",
+          "weights": {
+            "samson": 3
+          }
+        },
+        {
+          "text": "Wise. People come to me to figure out what to do.",
+          "weights": {
+            "deborah": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "What's your biggest struggle in a fight?",
+      "options": [
+        {
+          "text": "Trusting the plan when the odds look impossible.",
+          "weights": {
+            "joshua": 2,
+            "gideon": 1
+          }
+        },
+        {
+          "text": "Fear and second-guessing. I need reassurance.",
+          "weights": {
+            "gideon": 3
+          }
+        },
+        {
+          "text": "My own appetites. My weakness is more personal than the enemy.",
+          "weights": {
+            "samson": 3
+          }
+        },
+        {
+          "text": "Getting others to step up when I already see the way.",
+          "weights": {
+            "deborah": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "God hands you a strategy that makes no military sense. You...",
+      "options": [
+        {
+          "text": "March around the walls anyway. He said it, so I'll do it.",
+          "weights": {
+            "joshua": 3
+          }
+        },
+        {
+          "text": "Shrink the army down to almost nothing if that's the call.",
+          "weights": {
+            "gideon": 3
+          }
+        },
+        {
+          "text": "Run at the giant with whatever's already in my hand.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "Call up the troops and tell them God already set the time.",
+          "weights": {
+            "deborah": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Where does your courage actually come from?",
+      "options": [
+        {
+          "text": "God's promise that He will never leave me or fail me.",
+          "weights": {
+            "joshua": 3
+          }
+        },
+        {
+          "text": "Knowing the battle belongs to the Lord, not to me.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "A strength I feel surge up when I need it most.",
+          "weights": {
+            "samson": 3
+          }
+        },
+        {
+          "text": "Confidence that God Himself goes out ahead of me.",
+          "weights": {
+            "deborah": 2,
+            "joshua": 1
+          }
+        }
+      ]
+    },
+    {
+      "text": "After a big victory, what do you do?",
+      "options": [
+        {
+          "text": "Build a memorial so we never forget what God did.",
+          "weights": {
+            "joshua": 3
+          }
+        },
+        {
+          "text": "Give Him all the credit so nobody thinks I did it alone.",
+          "weights": {
+            "gideon": 2,
+            "david": 1
+          }
+        },
+        {
+          "text": "Pour my heart out in a song of praise.",
+          "weights": {
+            "david": 2,
+            "deborah": 1
+          }
+        },
+        {
+          "text": "Lead everyone in worship before we celebrate.",
+          "weights": {
+            "deborah": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "What's most likely to take you down?",
+      "options": [
+        {
+          "text": "Honestly, very little. I keep my eyes fixed and finish strong.",
+          "weights": {
+            "joshua": 3
+          }
+        },
+        {
+          "text": "My own doubt creeping back in.",
+          "weights": {
+            "gideon": 3
+          }
+        },
+        {
+          "text": "A private compromise that no enemy could ever force.",
+          "weights": {
+            "samson": 3
+          }
+        },
+        {
+          "text": "Carrying everyone else's hesitation on my own shoulders.",
+          "weights": {
+            "deborah": 2,
+            "david": 1
+          }
+        }
+      ]
+    },
+    {
+      "text": "What do you most want said of you when the fighting is done?",
+      "options": [
+        {
+          "text": "That I was strong, courageous, and never turned aside.",
+          "weights": {
+            "joshua": 3
+          }
+        },
+        {
+          "text": "That God used my weakness to win something huge.",
+          "weights": {
+            "gideon": 3
+          }
+        },
+        {
+          "text": "That I was a person after God's own heart.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "That I rose up when no one else would.",
+          "weights": {
+            "deborah": 3
+          }
+        }
+      ]
+    }
+  ],
+  "results": {
+    "joshua": {
+      "name": "Joshua the Bold",
+      "emoji": "🛡️",
+      "traits": [
+        "Courageous",
+        "Disciplined",
+        "Faithful"
+      ],
+      "description": "You don't need every detail figured out before you obey. When God says move, you move, even when the walls in front of you look impossible. Like Joshua, your strength is a quiet, steady kind that finishes what it starts. Keep listening for His command, because the same God who promised to go with him goes with you too.",
+      "scripture": {
+        "text": "Have not I commanded thee? Be strong and of good courage; be not affrighted, neither be thou dismayed: for Jehovah thy God is with thee whithersoever thou goest.",
+        "reference": "Joshua 1:9",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Be strong and of good courage; for Jehovah thy God is with thee.",
+        "reference": "Joshua 1:9",
+        "translation": "ASV"
+      }
+    },
+    "gideon": {
+      "name": "Gideon the Unlikely",
+      "emoji": "🌾",
+      "traits": [
+        "Hesitant",
+        "Honest",
+        "Brave in the end"
+      ],
+      "description": "You don't feel like a warrior, and that's exactly the point. God called Gideon a mighty man of valor while he was hiding, and He kept being patient with every question and every fleece. Your doubts don't disqualify you. God loves to take the person who feels least equipped and win something no one can explain away but Him.",
+      "scripture": {
+        "text": "And the angel of Jehovah appeared unto him, and said unto him, Jehovah is with thee, thou mighty man of valor.",
+        "reference": "Judges 6:12",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Jehovah is with thee, thou mighty man of valor.",
+        "reference": "Judges 6:12",
+        "translation": "ASV"
+      }
+    },
+    "david": {
+      "name": "David the Giant-Slayer",
+      "emoji": "🪨",
+      "traits": [
+        "Faith-filled",
+        "Bold",
+        "Wholehearted"
+      ],
+      "description": "You've learned that courage isn't about your size, it's about whose battle you're fighting. Like David facing Goliath, you run toward the thing everyone else is afraid of because you remember what God has already done. The fight belongs to the Lord, and you carry that confidence into every impossible standoff. Stay close to His heart and keep swinging.",
+      "scripture": {
+        "text": "Then said David to the Philistine, Thou comest to me with a sword, and with a spear, and with a javelin: but I come to thee in the name of Jehovah of hosts, the God of the armies of Israel, whom thou hast defied.",
+        "reference": "1 Samuel 17:45",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "I come to thee in the name of Jehovah of hosts.",
+        "reference": "1 Samuel 17:45",
+        "translation": "ASV"
+      }
+    },
+    "samson": {
+      "name": "Samson the Strong",
+      "emoji": "💪",
+      "traits": [
+        "Powerful",
+        "Passionate",
+        "Learning surrender"
+      ],
+      "description": "Your strength is real, and so is the struggle that comes with it. Samson could break any chain an enemy made, but his hardest battles were the private ones. Here's the grace in his story: even after he failed, God answered his last cry and used him again. Your power means most when it's surrendered, and it's never too late to give it back to the One who gave it.",
+      "scripture": {
+        "text": "And Samson called unto Jehovah, and said, O Lord Jehovah, remember me, I pray thee, and strengthen me, I pray thee, only this once, O God.",
+        "reference": "Judges 16:28",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Remember me, and strengthen me, I pray thee, only this once.",
+        "reference": "Judges 16:28",
+        "translation": "ASV"
+      }
+    },
+    "deborah": {
+      "name": "Deborah the Leader",
+      "emoji": "🌴",
+      "traits": [
+        "Wise",
+        "Decisive",
+        "God-led"
+      ],
+      "description": "People bring you their hardest questions because you carry both wisdom and nerve. Like Deborah, you can hear God clearly and then move others to act on it, even when they're hesitant. You don't wait around for someone braver to show up. You rise. Keep leading from that place of listening, because the Lord goes out ahead of the ones who follow His word.",
+      "scripture": {
+        "text": "And Deborah said unto Barak, Up; for this is the day in which Jehovah hath delivered Sisera into thy hand: is not Jehovah gone out before thee?",
+        "reference": "Judges 4:14",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Is not Jehovah gone out before thee?",
+        "reference": "Judges 4:14",
+        "translation": "ASV"
+      }
+    }
+  },
+  "theme": "scripture-archetype"
+}

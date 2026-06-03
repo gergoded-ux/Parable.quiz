@@ -1,0 +1,371 @@
+{
+  "slug": "which-bible-city-are-you",
+  "title": "Which Bible City Are You?",
+  "subtitle": "Every city in Scripture carries its own story. Which one is yours?",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 4,
+  "mode": "archetype",
+  "theme": "scripture-archetype",
+  "questions": [
+    {
+      "text": "How would your friends sum up your energy?",
+      "options": [
+        {
+          "text": "Big-hearted and central. Life seems to happen around me.",
+          "weights": {
+            "jerusalem": 3
+          }
+        },
+        {
+          "text": "Small and humble, but something big started in me.",
+          "weights": {
+            "bethlehem": 3
+          }
+        },
+        {
+          "text": "Overlooked and underestimated, and totally fine with it.",
+          "weights": {
+            "nazareth": 3
+          }
+        },
+        {
+          "text": "Resilient. I've had walls come down and I'm still standing.",
+          "weights": {
+            "jericho": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "What's your relationship with being noticed?",
+      "options": [
+        {
+          "text": "People expect a lot from me, and I feel that weight.",
+          "weights": {
+            "jerusalem": 3
+          }
+        },
+        {
+          "text": "I'm easy to skip over, but God planted something here anyway.",
+          "weights": {
+            "bethlehem": 3,
+            "nazareth": 1
+          }
+        },
+        {
+          "text": "People doubt anything good can come from me. Watch me.",
+          "weights": {
+            "nazareth": 3
+          }
+        },
+        {
+          "text": "I've been written off before. Mercy still found me.",
+          "weights": {
+            "nineveh": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "When change comes, how do you respond?",
+      "options": [
+        {
+          "text": "I take a hard look in the mirror and actually turn around.",
+          "weights": {
+            "nineveh": 3
+          }
+        },
+        {
+          "text": "I trust the process, even when it makes no sense yet.",
+          "weights": {
+            "jericho": 3
+          }
+        },
+        {
+          "text": "I hold steady and keep being faithful where I'm planted.",
+          "weights": {
+            "nazareth": 3,
+            "bethlehem": 1
+          }
+        },
+        {
+          "text": "I make peace with where I am, even if it isn't home.",
+          "weights": {
+            "babylon": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Pick the scene that resonates most:",
+      "options": [
+        {
+          "text": "A great city on a hill that everyone streams toward.",
+          "weights": {
+            "jerusalem": 3
+          }
+        },
+        {
+          "text": "A quiet stable where the whole world quietly changed.",
+          "weights": {
+            "bethlehem": 3
+          }
+        },
+        {
+          "text": "Trumpets, a shout, and walls crumbling to the ground.",
+          "weights": {
+            "jericho": 3
+          }
+        },
+        {
+          "text": "Exiles by a river, learning to sing in a strange land.",
+          "weights": {
+            "babylon": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "What do people come to you for?",
+      "options": [
+        {
+          "text": "A gathering place. I bring everyone together.",
+          "weights": {
+            "jerusalem": 3
+          }
+        },
+        {
+          "text": "Quiet hope. Big things start small with me.",
+          "weights": {
+            "bethlehem": 3
+          }
+        },
+        {
+          "text": "A safe place to grow before the world is watching.",
+          "weights": {
+            "nazareth": 3
+          }
+        },
+        {
+          "text": "Proof that it's never too late to change.",
+          "weights": {
+            "nineveh": 3,
+            "jericho": 1
+          }
+        }
+      ]
+    },
+    {
+      "text": "How do you handle being in a hard, faraway season?",
+      "options": [
+        {
+          "text": "I bloom where I'm planted and seek the good of the place.",
+          "weights": {
+            "babylon": 3
+          }
+        },
+        {
+          "text": "I keep my convictions, even under pressure to bend.",
+          "weights": {
+            "babylon": 1,
+            "nazareth": 3
+          }
+        },
+        {
+          "text": "I wait on God's timing and watch the walls fall.",
+          "weights": {
+            "jericho": 3
+          }
+        },
+        {
+          "text": "I gather people and remind them God is near.",
+          "weights": {
+            "jerusalem": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "What's the truest thing about your story?",
+      "options": [
+        {
+          "text": "God dwells with me, even after everything I've been through.",
+          "weights": {
+            "jerusalem": 3
+          }
+        },
+        {
+          "text": "The smallest beginning held the biggest promise.",
+          "weights": {
+            "bethlehem": 3
+          }
+        },
+        {
+          "text": "I turned around, and grace was already waiting.",
+          "weights": {
+            "nineveh": 3
+          }
+        },
+        {
+          "text": "Even in exile, God had good plans for me.",
+          "weights": {
+            "babylon": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Which blessing means the most to you?",
+      "options": [
+        {
+          "text": "Peace. The kind people pray over a beloved city.",
+          "weights": {
+            "jerusalem": 3
+          }
+        },
+        {
+          "text": "Being the unlikely place a Savior comes from.",
+          "weights": {
+            "bethlehem": 3
+          }
+        },
+        {
+          "text": "Walls falling by faith, not by force.",
+          "weights": {
+            "jericho": 3
+          }
+        },
+        {
+          "text": "Mercy bigger than anything I ever deserved.",
+          "weights": {
+            "nineveh": 3,
+            "babylon": 1
+          }
+        }
+      ]
+    }
+  ],
+  "results": {
+    "jerusalem": {
+      "name": "Jerusalem (the city of God)",
+      "emoji": "🏙️",
+      "traits": [
+        "Central",
+        "Devoted",
+        "Resilient"
+      ],
+      "description": "You're a gathering place. People stream toward you, and you carry the weight of being where so much happens. Like Jerusalem, you've known both glory and heartbreak, yet God keeps choosing to dwell with you. You hold others together, and the prayer that fits you best is the one people have prayed over this city for ages: peace, deep and lasting peace.",
+      "scripture": {
+        "text": "Pray for the peace of Jerusalem: They shall prosper that love thee.",
+        "reference": "Psalm 122:6",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Pray for the peace of Jerusalem.",
+        "reference": "Psalm 122:6",
+        "translation": "ASV"
+      }
+    },
+    "bethlehem": {
+      "name": "Bethlehem (the small beginning)",
+      "emoji": "⭐",
+      "traits": [
+        "Humble",
+        "Hope-filled",
+        "Quietly Significant"
+      ],
+      "description": "You're small in your own eyes, but God starts enormous things in you. Bethlehem was little among the towns of Judah, and still it gave the world a Savior. You don't need the spotlight to matter. The quiet, hidden places of your life are exactly where God loves to begin. Never underestimate the size of what He is growing in you.",
+      "scripture": {
+        "text": "But thou, Beth-lehem Ephrathah, which art little to be among the thousands of Judah, out of thee shall one come forth unto me that is to be ruler in Israel.",
+        "reference": "Micah 5:2",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Out of thee shall one come forth unto me that is to be ruler.",
+        "reference": "Micah 5:2",
+        "translation": "ASV"
+      }
+    },
+    "nazareth": {
+      "name": "Nazareth (the underestimated)",
+      "emoji": "🪵",
+      "traits": [
+        "Humble",
+        "Faithful",
+        "Steady"
+      ],
+      "description": "People wonder if anything good can come from you, and then you surprise them. Nazareth was the overlooked town where Jesus quietly grew up, faithful in the ordinary years before anyone was watching. You don't need to prove yourself to the doubters. You just keep showing up, growing in secret, until the day your story speaks for itself.",
+      "scripture": {
+        "text": "And Nathanael said unto him, Can any good thing come out of Nazareth? Philip saith unto him, Come and see.",
+        "reference": "John 1:46",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Can any good thing come out of Nazareth?",
+        "reference": "John 1:46",
+        "translation": "ASV"
+      }
+    },
+    "jericho": {
+      "name": "Jericho (the walls come down)",
+      "emoji": "📯",
+      "traits": [
+        "Resilient",
+        "Patient",
+        "Faith-filled"
+      ],
+      "description": "You know what it is to watch walls fall, not by force but by faith. Jericho's defenses came down after a long, strange wait and one obedient shout. You've learned to trust God's timing even when His instructions don't make sense yet. The barrier in front of you isn't permanent. Keep marching, keep believing, and watch what He brings down.",
+      "scripture": {
+        "text": "By faith the walls of Jericho fell down, after they had been compassed about for seven days.",
+        "reference": "Hebrews 11:30",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "By faith the walls of Jericho fell down.",
+        "reference": "Hebrews 11:30",
+        "translation": "ASV"
+      }
+    },
+    "nineveh": {
+      "name": "Nineveh (the second chance)",
+      "emoji": "🔄",
+      "traits": [
+        "Repentant",
+        "Humble",
+        "Open"
+      ],
+      "description": "You're living proof that it's never too late to turn around. Nineveh was the city everyone expected God to give up on, and instead it became the place where a whole people repented and found mercy. You don't pretend to have it all together. You're honest enough to change course, and you've discovered that grace is always bigger than your worst chapter.",
+      "scripture": {
+        "text": "And the people of Nineveh believed God; and they proclaimed a fast, and put on sackcloth, from the greatest of them even to the least of them.",
+        "reference": "Jonah 3:5",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "And the people of Nineveh believed God.",
+        "reference": "Jonah 3:5",
+        "translation": "ASV"
+      }
+    },
+    "babylon": {
+      "name": "Babylon (faithful in exile)",
+      "emoji": "🌿",
+      "traits": [
+        "Resilient",
+        "Hopeful",
+        "Grounded"
+      ],
+      "description": "You've learned to live faithfully even when you're far from home. Babylon was the place of exile, yet God told His people to settle in, seek its good, and trust His plans for their future. You bloom where you're planted, you keep your convictions under pressure, and you hold onto hope. Even in the strange land, God has thoughts of peace for you.",
+      "scripture": {
+        "text": "For I know the thoughts that I think toward you, saith Jehovah, thoughts of peace, and not of evil, to give you hope in your latter end.",
+        "reference": "Jeremiah 29:11",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Thoughts of peace, and not of evil, to give you hope.",
+        "reference": "Jeremiah 29:11",
+        "translation": "ASV"
+      }
+    }
+  }
+}

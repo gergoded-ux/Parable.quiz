@@ -1,0 +1,348 @@
+{
+  "slug": "which-bible-king-are-you",
+  "title": "Which Bible King Are You?",
+  "subtitle": "From the wise to the tragic, which crown fits your head?",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 4,
+  "mode": "archetype",
+  "theme": "scripture-archetype",
+  "questions": [
+    {
+      "text": "You are handed real responsibility. Your first feeling is...",
+      "options": [
+        {
+          "text": "Nervous. Honestly, I would rather hide for a minute.",
+          "weights": {
+            "saul": 3
+          }
+        },
+        {
+          "text": "Ready. I have been preparing for this in private.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "Overwhelmed. I just want the wisdom to do it right.",
+          "weights": {
+            "solomon": 3
+          }
+        },
+        {
+          "text": "Steady. I will pray about it before I move.",
+          "weights": {
+            "hezekiah": 3,
+            "josiah": 1
+          }
+        }
+      ]
+    },
+    {
+      "text": "When you mess up, you tend to...",
+      "options": [
+        {
+          "text": "Make excuses first, then admit it once I am cornered.",
+          "weights": {
+            "saul": 3
+          }
+        },
+        {
+          "text": "Break wide open and pour my heart out to God.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "Overthink it and chase too many things at once.",
+          "weights": {
+            "solomon": 3
+          }
+        },
+        {
+          "text": "Go back to the rules and get things right again.",
+          "weights": {
+            "josiah": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "What do people most admire about you?",
+      "options": [
+        {
+          "text": "I look the part. I have real presence.",
+          "weights": {
+            "saul": 3
+          }
+        },
+        {
+          "text": "My heart. People feel how much I love God.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "My mind. People come to me for advice.",
+          "weights": {
+            "solomon": 3
+          }
+        },
+        {
+          "text": "My faith under pressure. I do not fold.",
+          "weights": {
+            "hezekiah": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "A crisis hits with no clear way out. You...",
+      "options": [
+        {
+          "text": "Panic a little and act before I should.",
+          "weights": {
+            "saul": 3
+          }
+        },
+        {
+          "text": "Face it head on, even if I look small doing it.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "Spread the problem out and study every angle.",
+          "weights": {
+            "solomon": 3
+          }
+        },
+        {
+          "text": "Take it straight to God and lay it all out.",
+          "weights": {
+            "hezekiah": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Pick the win that would mean the most to you:",
+      "options": [
+        {
+          "text": "Settling a dispute so wisely that everyone is stunned.",
+          "weights": {
+            "solomon": 3
+          }
+        },
+        {
+          "text": "Standing up to the giant nobody else would face.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "Watching an impossible threat fall away overnight.",
+          "weights": {
+            "hezekiah": 3
+          }
+        },
+        {
+          "text": "Rediscovering something lost and bringing it back to life.",
+          "weights": {
+            "josiah": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Your weak spot is most likely...",
+      "options": [
+        {
+          "text": "Caring too much what people think of me.",
+          "weights": {
+            "saul": 3
+          }
+        },
+        {
+          "text": "Letting my passions run ahead of my wisdom.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "Having it all and still feeling restless inside.",
+          "weights": {
+            "solomon": 3
+          }
+        },
+        {
+          "text": "A bit of pride sneaking in after a big success.",
+          "weights": {
+            "hezekiah": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "What kind of legacy do you want to leave?",
+      "options": [
+        {
+          "text": "A heart that stayed soft toward God to the end.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "Wisdom and words people still quote.",
+          "weights": {
+            "solomon": 3
+          }
+        },
+        {
+          "text": "A faith that held firm when it was tested.",
+          "weights": {
+            "hezekiah": 3
+          }
+        },
+        {
+          "text": "A people who came back to the truth because of me.",
+          "weights": {
+            "josiah": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "How young were you when you started leading?",
+      "options": [
+        {
+          "text": "Older, and still learning as I went.",
+          "weights": {
+            "saul": 3
+          }
+        },
+        {
+          "text": "Young and scrappy, anointed before anyone took me seriously.",
+          "weights": {
+            "david": 3
+          }
+        },
+        {
+          "text": "Young enough to feel like a child in a big role.",
+          "weights": {
+            "solomon": 3,
+            "josiah": 1
+          }
+        },
+        {
+          "text": "Just a kid, but I knew right from wrong early.",
+          "weights": {
+            "josiah": 3
+          }
+        }
+      ]
+    }
+  ],
+  "results": {
+    "saul": {
+      "name": "Saul the Reluctant",
+      "emoji": "👑",
+      "traits": [
+        "Tall and striking",
+        "Insecure",
+        "People-pleasing"
+      ],
+      "description": "You look like a leader and you carry real presence, but inside you wrestle with what people think. When you were chosen, you actually hid. Your story is a warning you can learn from. Obedience matters more than looking good, and a soft answer to God beats a clever excuse every time. There is still grace for the king who admits he was afraid.",
+      "scripture": {
+        "text": "And Saul said unto Samuel, I have sinned; for I have transgressed the commandment of Jehovah, and thy words, because I feared the people, and obeyed their voice.",
+        "reference": "I Samuel 15:24",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "I have sinned, because I feared the people, and obeyed their voice.",
+        "reference": "I Samuel 15:24",
+        "translation": "ASV"
+      }
+    },
+    "david": {
+      "name": "David the Wholehearted",
+      "emoji": "🎶",
+      "traits": [
+        "Passionate",
+        "Brave",
+        "Quick to repent"
+      ],
+      "description": "You feel everything deeply and you love God out loud. You will face the giant nobody else will, and when you fall, you do not hide it. You bring the whole mess to God and ask Him to make your heart clean again. That honesty is why you are called a person after God's own heart. Your passion can trip you up, but it always brings you back home.",
+      "scripture": {
+        "text": "I have found David the son of Jesse, a man after my heart, who shall do all my will.",
+        "reference": "Acts 13:22",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Create in me a clean heart, O God; And renew a right spirit within me.",
+        "reference": "Psalms 51:10",
+        "translation": "ASV"
+      }
+    },
+    "solomon": {
+      "name": "Solomon the Wise",
+      "emoji": "🦉",
+      "traits": [
+        "Brilliant",
+        "Thoughtful",
+        "A little restless"
+      ],
+      "description": "You are the one people come to for answers. When you could have asked for anything, you asked for an understanding heart, and you got more wisdom than anyone around you. Your gift is real. Just watch the restlessness. You can have everything and still feel like something is missing, and the cure is keeping your heart anchored where it belongs.",
+      "scripture": {
+        "text": "Give thy servant therefore an understanding heart to judge thy people, that I may discern between good and evil; for who is able to judge this thy great people?",
+        "reference": "I Kings 3:9",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "The fear of Jehovah is the beginning of knowledge.",
+        "reference": "Proverbs 1:7",
+        "translation": "ASV"
+      }
+    },
+    "hezekiah": {
+      "name": "Hezekiah the Faithful",
+      "emoji": "🙏",
+      "traits": [
+        "Trusting",
+        "Prayerful",
+        "Resolute"
+      ],
+      "description": "When the pressure comes, you do not spin out. You take the threat straight to God and spread it before Him. You trusted Him like few others did, and you held your ground when the odds were impossible. Keep an eye on pride after a big win. The same God who answered your prayer is the one who deserves the credit.",
+      "scripture": {
+        "text": "He trusted in Jehovah, the God of Israel; so that after him was none like him among all the kings of Judah, nor among them that were before him.",
+        "reference": "II Kings 18:5",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "He trusted in Jehovah, the God of Israel.",
+        "reference": "II Kings 18:5",
+        "translation": "ASV"
+      }
+    },
+    "josiah": {
+      "name": "Josiah the Reformer",
+      "emoji": "📖",
+      "traits": [
+        "Earnest",
+        "Tender-hearted",
+        "All in"
+      ],
+      "description": "You knew right from wrong early, and you were not afraid to clean house. You found something precious that had been lost and you brought it back to the center of everything. When you turn, you turn with your whole heart, soul, and might. People come back to the truth because of how seriously you take it.",
+      "scripture": {
+        "text": "And like unto him was there no king before him, that turned to Jehovah with all his heart, and with all his soul, and with all his might, according to all the law of Moses; neither after him arose there any like him.",
+        "reference": "II Kings 23:25",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "He began to seek after the God of David his father.",
+        "reference": "II Chronicles 34:3",
+        "translation": "ASV"
+      }
+    }
+  }
+}

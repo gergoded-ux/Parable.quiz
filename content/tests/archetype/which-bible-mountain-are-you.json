@@ -1,0 +1,371 @@
+{
+  "slug": "which-bible-mountain-are-you",
+  "title": "Which Bible Mountain Are You?",
+  "subtitle": "Every mountain in Scripture has its own kind of holy. Which one is yours?",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 4,
+  "mode": "archetype",
+  "theme": "scripture-archetype",
+  "questions": [
+    {
+      "text": "How do people tend to experience you when they first meet you?",
+      "options": [
+        {
+          "text": "A little intense. I carry weight, and people feel it.",
+          "weights": {
+            "sinai": 3
+          }
+        },
+        {
+          "text": "Steady and safe. I'm the one people land on after a storm.",
+          "weights": {
+            "ararat": 3
+          }
+        },
+        {
+          "text": "Bold and a bit dramatic. I don't do lukewarm.",
+          "weights": {
+            "carmel": 3
+          }
+        },
+        {
+          "text": "Gentle and warm. People relax around me.",
+          "weights": {
+            "beatitudes": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "What do you value most in your walk with God?",
+      "options": [
+        {
+          "text": "Clear standards. I want to know what He asks of me.",
+          "weights": {
+            "sinai": 3,
+            "carmel": 1
+          }
+        },
+        {
+          "text": "A place to rest after everything I've come through.",
+          "weights": {
+            "ararat": 3
+          }
+        },
+        {
+          "text": "His unmistakable presence, the kind you can't argue with.",
+          "weights": {
+            "zion": 3
+          }
+        },
+        {
+          "text": "Hope for what comes next, even when I can't see it yet.",
+          "weights": {
+            "olives": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "When your faith is tested, what does that usually look like?",
+      "options": [
+        {
+          "text": "I'm asked to surrender the thing I love most, and I do.",
+          "weights": {
+            "zion": 3
+          }
+        },
+        {
+          "text": "I have to take a public stand while everyone watches.",
+          "weights": {
+            "carmel": 3,
+            "sinai": 1
+          }
+        },
+        {
+          "text": "I have to wait out a long flood and trust it ends.",
+          "weights": {
+            "ararat": 3
+          }
+        },
+        {
+          "text": "I have to keep believing a promise that hasn't arrived.",
+          "weights": {
+            "olives": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Pick the moment that stirs something in you:",
+      "options": [
+        {
+          "text": "Thunder, smoke, and the voice of God shaking the ground.",
+          "weights": {
+            "sinai": 3
+          }
+        },
+        {
+          "text": "Fire falling from heaven and settling every doubt.",
+          "weights": {
+            "carmel": 3
+          }
+        },
+        {
+          "text": "A dove returning with an olive leaf in its beak.",
+          "weights": {
+            "ararat": 3
+          }
+        },
+        {
+          "text": "A crowd sitting on a grassy slope, drinking in every word.",
+          "weights": {
+            "beatitudes": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "What do your closest people count on you for?",
+      "options": [
+        {
+          "text": "Telling them the hard truth they actually need.",
+          "weights": {
+            "sinai": 3,
+            "carmel": 1
+          }
+        },
+        {
+          "text": "Being the calm after their world has fallen apart.",
+          "weights": {
+            "ararat": 3
+          }
+        },
+        {
+          "text": "Comforting them and blessing the part of them nobody else sees.",
+          "weights": {
+            "beatitudes": 3
+          }
+        },
+        {
+          "text": "Reminding them their story isn't finished yet.",
+          "weights": {
+            "olives": 3,
+            "zion": 1
+          }
+        }
+      ]
+    },
+    {
+      "text": "How do you handle a decisive, do-or-die moment?",
+      "options": [
+        {
+          "text": "I draw a clear line and ask people to choose a side.",
+          "weights": {
+            "carmel": 3
+          }
+        },
+        {
+          "text": "I trust God to provide right at the last possible second.",
+          "weights": {
+            "zion": 3
+          }
+        },
+        {
+          "text": "I hold the line on what's right, even alone.",
+          "weights": {
+            "sinai": 3
+          }
+        },
+        {
+          "text": "I bless people, then hand the outcome to heaven.",
+          "weights": {
+            "olives": 3,
+            "beatitudes": 1
+          }
+        }
+      ]
+    },
+    {
+      "text": "What's the prayer underneath most of your prayers?",
+      "options": [
+        {
+          "text": "Make me holy. Set me apart for You.",
+          "weights": {
+            "sinai": 3
+          }
+        },
+        {
+          "text": "Let me rest. I've carried this long enough.",
+          "weights": {
+            "ararat": 3
+          }
+        },
+        {
+          "text": "Let everyone see that You alone are God.",
+          "weights": {
+            "carmel": 3
+          }
+        },
+        {
+          "text": "Make me a place where the hurting feel blessed.",
+          "weights": {
+            "beatitudes": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Which sentence feels most like home to you?",
+      "options": [
+        {
+          "text": "On the mountain of the Lord, it will be provided.",
+          "weights": {
+            "zion": 3
+          }
+        },
+        {
+          "text": "He will come back the same way He left.",
+          "weights": {
+            "olives": 3
+          }
+        },
+        {
+          "text": "The flood receded, and there was solid ground.",
+          "weights": {
+            "ararat": 3
+          }
+        },
+        {
+          "text": "Blessed are the ones the world overlooks.",
+          "weights": {
+            "beatitudes": 3
+          }
+        }
+      ]
+    }
+  ],
+  "results": {
+    "sinai": {
+      "name": "Mount Sinai (the holy fire)",
+      "emoji": "🔥",
+      "traits": [
+        "Reverent",
+        "Principled",
+        "Weighty"
+      ],
+      "description": "You carry a holy seriousness that other people can feel in the room. God meets you in the thunder and the smoke, and you'd rather know exactly what He asks of you than settle for something comfortable and vague. Just remember that the same mountain that gave the Law was also where God came down to be near. Your standards are an invitation to His presence, not a wall against it.",
+      "scripture": {
+        "text": "And mount Sinai, the whole of it, smoked, because Jehovah descended upon it in fire; and the smoke thereof ascended as the smoke of a furnace, and the whole mount quaked greatly.",
+        "reference": "Exodus 19:18",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Jehovah descended upon it in fire.",
+        "reference": "Exodus 19:18",
+        "translation": "ASV"
+      }
+    },
+    "ararat": {
+      "name": "Mount Ararat (the resting place)",
+      "emoji": "🕊️",
+      "traits": [
+        "Steady",
+        "Hopeful",
+        "Safe"
+      ],
+      "description": "You are where people land when the flood finally stops. You've ridden out long seasons of waiting, and you know that God remembers His own and that the waters always recede in the end. People feel safe with you because you've learned that the storm is not the whole story. Solid ground always comes.",
+      "scripture": {
+        "text": "And the ark rested in the seventh month, on the seventeenth day of the month, upon the mountains of Ararat.",
+        "reference": "Genesis 8:4",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "And God remembered Noah.",
+        "reference": "Genesis 8:1",
+        "translation": "ASV"
+      }
+    },
+    "carmel": {
+      "name": "Mount Carmel (the showdown)",
+      "emoji": "⚡",
+      "traits": [
+        "Bold",
+        "Decisive",
+        "Faith-filled"
+      ],
+      "description": "You don't do lukewarm, and you won't let the people you love stay on the fence either. Like Elijah on Carmel, you're willing to make a stand and let God settle the question once and for all. Your boldness invites people to choose. When the fire falls, it's not about proving you were right. It's about everyone finally knowing who God is.",
+      "scripture": {
+        "text": "And when all the people saw it, they fell on their faces: and they said, Jehovah, he is God; Jehovah, he is God.",
+        "reference": "1 Kings 18:39",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Jehovah, he is God.",
+        "reference": "1 Kings 18:39",
+        "translation": "ASV"
+      }
+    },
+    "zion": {
+      "name": "Mount Zion (the place of provision)",
+      "emoji": "🏛️",
+      "traits": [
+        "Trusting",
+        "Surrendered",
+        "Devoted"
+      ],
+      "description": "You've climbed the hill where Abraham raised the knife and where the temple later stood, the place where God provides at the very last moment. You know what it is to lay down the thing you love most and trust that He will meet you there. That kind of surrender is hard, but on your mountain, it always turns into provision. He sees, and He provides.",
+      "scripture": {
+        "text": "And Abraham called the name of that place Jehovah-jireh: as it is said to this day, In the mount of Jehovah it shall be provided.",
+        "reference": "Genesis 22:14",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "In the mount of Jehovah it shall be provided.",
+        "reference": "Genesis 22:14",
+        "translation": "ASV"
+      }
+    },
+    "olives": {
+      "name": "Mount of Olives (the hope of return)",
+      "emoji": "🌱",
+      "traits": [
+        "Expectant",
+        "Faithful",
+        "Forward-looking"
+      ],
+      "description": "You live with one eye on the promise that hasn't arrived yet. This is the hill where Jesus ascended and where the angels said He would come back the same way. You hold hope for what's next even when you can't see it, and you help other people remember their story isn't over. The waiting is real, but so is the return.",
+      "scripture": {
+        "text": "This Jesus, who was received up from you into heaven, shall so come in like manner as ye beheld him going into heaven.",
+        "reference": "Acts 1:11",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "His feet shall stand in that day upon the mount of Olives.",
+        "reference": "Zechariah 14:4",
+        "translation": "ASV"
+      }
+    },
+    "beatitudes": {
+      "name": "The Mount of the Beatitudes (the blessing)",
+      "emoji": "🌿",
+      "traits": [
+        "Tender",
+        "Gentle",
+        "Comforting"
+      ],
+      "description": "You are a soft place in a loud world. On this gentle slope Jesus blessed the poor in spirit, the mourners, and the meek, and that's exactly who you reach for too. People relax around you because you see the ones everyone else walks past. The blessing you carry is for the overlooked, and you give it freely.",
+      "scripture": {
+        "text": "Blessed are the poor in spirit: for theirs is the kingdom of heaven.",
+        "reference": "Matthew 5:3",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Blessed are the pure in heart: for they shall see God.",
+        "reference": "Matthew 5:8",
+        "translation": "ASV"
+      }
+    }
+  }
+}

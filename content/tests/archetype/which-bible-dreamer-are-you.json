@@ -1,0 +1,348 @@
+{
+  "slug": "which-bible-dreamer-are-you",
+  "title": "Which Bible Dreamer Are You?",
+  "subtitle": "God still speaks in the night. Whose dream sounds like yours?",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 4,
+  "mode": "archetype",
+  "theme": "scripture-archetype",
+  "questions": [
+    {
+      "text": "When you sense God is showing you something, what is it usually about?",
+      "options": [
+        {
+          "text": "A future calling that feels way bigger than me right now.",
+          "weights": {
+            "joseph": 3
+          }
+        },
+        {
+          "text": "The meaning behind something confusing in front of me.",
+          "weights": {
+            "daniel": 3
+          }
+        },
+        {
+          "text": "That God is near me, even in a lonely place.",
+          "weights": {
+            "jacob": 3
+          }
+        },
+        {
+          "text": "A warning that something is not right.",
+          "weights": {
+            "pilateswife": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "People come to you most often for...",
+      "options": [
+        {
+          "text": "Vision. I can picture where things are going.",
+          "weights": {
+            "joseph": 3
+          }
+        },
+        {
+          "text": "Interpretation. I help them make sense of the mystery.",
+          "weights": {
+            "daniel": 3
+          }
+        },
+        {
+          "text": "Wisdom. They want me to help them choose well.",
+          "weights": {
+            "solomon": 3
+          }
+        },
+        {
+          "text": "Discernment. I notice the warning others miss.",
+          "weights": {
+            "pilateswife": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "If God offered you anything tonight, you would ask for...",
+      "options": [
+        {
+          "text": "The faith to trust the big thing He has put in my heart.",
+          "weights": {
+            "joseph": 3
+          }
+        },
+        {
+          "text": "Wisdom to lead the people in front of me well.",
+          "weights": {
+            "solomon": 3
+          }
+        },
+        {
+          "text": "To simply know He is with me wherever I go.",
+          "weights": {
+            "jacob": 3
+          }
+        },
+        {
+          "text": "Eyes to see what is really going on around me.",
+          "weights": {
+            "daniel": 3,
+            "pilateswife": 1
+          }
+        }
+      ]
+    },
+    {
+      "text": "Which season are you most familiar with?",
+      "options": [
+        {
+          "text": "Being misunderstood for the dream I am carrying.",
+          "weights": {
+            "joseph": 3
+          }
+        },
+        {
+          "text": "Standing in a hard place and staying faithful anyway.",
+          "weights": {
+            "daniel": 3
+          }
+        },
+        {
+          "text": "Running, lonely, and surprised God showed up there.",
+          "weights": {
+            "jacob": 3
+          }
+        },
+        {
+          "text": "Being handed responsibility I did not feel ready for.",
+          "weights": {
+            "solomon": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "How do you respond when a warning stirs inside you?",
+      "options": [
+        {
+          "text": "I speak up, even if no one wants to hear it.",
+          "weights": {
+            "pilateswife": 3
+          }
+        },
+        {
+          "text": "I pray for wisdom before I make a single move.",
+          "weights": {
+            "solomon": 3,
+            "daniel": 1
+          }
+        },
+        {
+          "text": "I hold onto the promise and keep going.",
+          "weights": {
+            "joseph": 3
+          }
+        },
+        {
+          "text": "I look for what God is really saying underneath it.",
+          "weights": {
+            "daniel": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "What do you most want your life to point to?",
+      "options": [
+        {
+          "text": "That God redeems even the years that were stolen.",
+          "weights": {
+            "joseph": 3
+          }
+        },
+        {
+          "text": "That there is a God in heaven who reveals secrets.",
+          "weights": {
+            "daniel": 3
+          }
+        },
+        {
+          "text": "That heaven and earth are closer than we think.",
+          "weights": {
+            "jacob": 3
+          }
+        },
+        {
+          "text": "That asking God for wisdom changes everything.",
+          "weights": {
+            "solomon": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Be honest about your weak spot:",
+      "options": [
+        {
+          "text": "I can talk about my dream before people are ready to hear it.",
+          "weights": {
+            "joseph": 3
+          }
+        },
+        {
+          "text": "I overthink the meaning of everything around me.",
+          "weights": {
+            "daniel": 3
+          }
+        },
+        {
+          "text": "I bargain with God instead of just trusting Him.",
+          "weights": {
+            "jacob": 3
+          }
+        },
+        {
+          "text": "I get the wisdom but do not always live by it.",
+          "weights": {
+            "solomon": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Pick the moment that moves you most:",
+      "options": [
+        {
+          "text": "A young dreamer rising to save the very family that hurt him.",
+          "weights": {
+            "joseph": 3
+          }
+        },
+        {
+          "text": "A faithful man reading a mystery no one else could.",
+          "weights": {
+            "daniel": 3
+          }
+        },
+        {
+          "text": "A ladder reaching from a lonely ground all the way to heaven.",
+          "weights": {
+            "jacob": 3
+          }
+        },
+        {
+          "text": "A new leader asking only for an understanding heart.",
+          "weights": {
+            "solomon": 3
+          }
+        }
+      ]
+    }
+  ],
+  "results": {
+    "joseph": {
+      "name": "Joseph the Dreamer",
+      "emoji": "🌟",
+      "traits": [
+        "Visionary",
+        "Resilient",
+        "Hopeful"
+      ],
+      "description": "You carry dreams that feel too big to say out loud, and not everyone gets them yet. You have been doubted, maybe even wounded by your own people, and still the dream has not died in you. God has a way of using the long, hard road to bring the very thing He promised.",
+      "scripture": {
+        "text": "And they said one to another, Behold, this dreamer cometh.",
+        "reference": "Genesis 37:19",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Behold, this dreamer cometh.",
+        "reference": "Genesis 37:19",
+        "translation": "ASV"
+      }
+    },
+    "daniel": {
+      "name": "Daniel the Interpreter",
+      "emoji": "🔮",
+      "traits": [
+        "Discerning",
+        "Faithful",
+        "Wise"
+      ],
+      "description": "You are the one who sees the meaning under the surface. While everyone else stays confused, you quietly ask God and He shows you. You stay faithful in pressure-filled places, and your gift always points back to the God in heaven who reveals what is hidden.",
+      "scripture": {
+        "text": "But there is a God in heaven that revealeth secrets, and he hath made known to the king Nebuchadnezzar what shall be in the latter days.",
+        "reference": "Daniel 2:28",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "There is a God in heaven that revealeth secrets.",
+        "reference": "Daniel 2:28",
+        "translation": "ASV"
+      }
+    },
+    "jacob": {
+      "name": "Jacob at the Ladder",
+      "emoji": "🪜",
+      "traits": [
+        "Searching",
+        "Surprised by grace",
+        "Honest"
+      ],
+      "description": "You have known what it is to feel alone, maybe even on the run from your own mistakes. And right there, in the last place you expected, God met you. You are learning that heaven is closer than you thought, and He was with you even when you did not know it.",
+      "scripture": {
+        "text": "And he dreamed; and, behold, a ladder set up on the earth, and the top of it reached to heaven; and, behold, the angels of God ascending and descending on it.",
+        "reference": "Genesis 28:12",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Surely Jehovah is in this place; and I knew it not.",
+        "reference": "Genesis 28:16",
+        "translation": "ASV"
+      }
+    },
+    "solomon": {
+      "name": "Solomon the Wisdom-Seeker",
+      "emoji": "🦉",
+      "traits": [
+        "Thoughtful",
+        "Humble",
+        "Discerning"
+      ],
+      "description": "When God asked what you wanted, you did not reach for riches or status. You asked for an understanding heart so you could lead people well. That instinct to choose wisdom over everything else is rare, and God delights to honor it.",
+      "scripture": {
+        "text": "Give thy servant therefore an understanding heart to judge thy people, that I may discern between good and evil; for who is able to judge this thy great people?",
+        "reference": "1 Kings 3:9",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Give thy servant therefore an understanding heart.",
+        "reference": "1 Kings 3:9",
+        "translation": "ASV"
+      }
+    },
+    "pilateswife": {
+      "name": "Pilate's Wife and the Warning",
+      "emoji": "⚠️",
+      "traits": [
+        "Perceptive",
+        "Courageous",
+        "Truthful"
+      ],
+      "description": "You feel things before others do, and when something is wrong you cannot stay quiet about it. You will speak the warning even when it is not yours to fix and no one wants to listen. That sensitivity to truth is a gift, and the world needs the people brave enough to name it.",
+      "scripture": {
+        "text": "And while he was sitting on the judgment-seat, his wife sent unto him, saying, Have thou nothing to do with that righteous man; for I have suffered many things this day in a dream because of him.",
+        "reference": "Matthew 27:19",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Have thou nothing to do with that righteous man.",
+        "reference": "Matthew 27:19",
+        "translation": "ASV"
+      }
+    }
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "slug": "which-bible-miracle-are-you",
+  "title": "Which Miracle of Jesus Are You?",
+  "subtitle": "Jesus worked wonders in wildly different ways. Which one mirrors you?",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 4,
+  "mode": "archetype",
+  "theme": "scripture-archetype",
+  "questions": [
+    {
+      "text": "How do friends usually describe the way you show up?",
+      "options": [
+        {
+          "text": "I quietly make ordinary moments feel special.",
+          "weights": {
+            "wine": 3
+          }
+        },
+        {
+          "text": "I'm the calm one when everything is falling apart.",
+          "weights": {
+            "storm": 3
+          }
+        },
+        {
+          "text": "I make sure nobody around me goes without.",
+          "weights": {
+            "feeding": 3
+          }
+        },
+        {
+          "text": "I show up with hope when others have given up.",
+          "weights": {
+            "lazarus": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "When a problem lands in your lap, your instinct is to...",
+      "options": [
+        {
+          "text": "Take what little there is and quietly make it more than enough.",
+          "weights": {
+            "feeding": 3,
+            "wine": 1
+          }
+        },
+        {
+          "text": "Speak peace into the chaos and steady everyone down.",
+          "weights": {
+            "storm": 3
+          }
+        },
+        {
+          "text": "Step out and do the thing that looks impossible.",
+          "weights": {
+            "walking": 3
+          }
+        },
+        {
+          "text": "Believe for the outcome long after it seems too late.",
+          "weights": {
+            "lazarus": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Which kind of faith feels most like yours?",
+      "options": [
+        {
+          "text": "Trusting God with the small, hidden details of life.",
+          "weights": {
+            "wine": 3
+          }
+        },
+        {
+          "text": "Trusting He's awake even when He seems silent.",
+          "weights": {
+            "storm": 3
+          }
+        },
+        {
+          "text": "Bold, risky faith that steps off the boat.",
+          "weights": {
+            "walking": 3
+          }
+        },
+        {
+          "text": "Faith that keeps hoping in front of a sealed tomb.",
+          "weights": {
+            "lazarus": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Pick the scene you'd most want to have witnessed:",
+      "options": [
+        {
+          "text": "Plain water poured out as the finest wine.",
+          "weights": {
+            "wine": 3
+          }
+        },
+        {
+          "text": "A roaring sea going dead calm at one word.",
+          "weights": {
+            "storm": 3
+          }
+        },
+        {
+          "text": "Footsteps on top of the waves in the dark.",
+          "weights": {
+            "walking": 3
+          }
+        },
+        {
+          "text": "A dead man walking out of the grave.",
+          "weights": {
+            "lazarus": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "What's your relationship with risk?",
+      "options": [
+        {
+          "text": "I'll step out boldly, even if I might sink.",
+          "weights": {
+            "walking": 3
+          }
+        },
+        {
+          "text": "I stay calm and let the panic pass through me.",
+          "weights": {
+            "storm": 3,
+            "wine": 1
+          }
+        },
+        {
+          "text": "I'd rather organize the chaos so everyone is cared for.",
+          "weights": {
+            "feeding": 3
+          }
+        },
+        {
+          "text": "I'll wait in the hard place and trust for the turnaround.",
+          "weights": {
+            "lazarus": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Someone you love is overwhelmed. You...",
+      "options": [
+        {
+          "text": "Bring food and a warm table and let them exhale.",
+          "weights": {
+            "feeding": 3
+          }
+        },
+        {
+          "text": "Sit with them in the storm and say, peace, be still.",
+          "weights": {
+            "storm": 3
+          }
+        },
+        {
+          "text": "Turn the dreary moment into something they'll remember.",
+          "weights": {
+            "wine": 3
+          }
+        },
+        {
+          "text": "Keep speaking life until hope comes back to them.",
+          "weights": {
+            "lazarus": 3,
+            "feeding": 1
+          }
+        }
+      ]
+    },
+    {
+      "text": "How do you handle running low, on energy, money, or margin?",
+      "options": [
+        {
+          "text": "I share what I have and somehow it stretches.",
+          "weights": {
+            "feeding": 3
+          }
+        },
+        {
+          "text": "I focus on the one steady voice and keep my eyes there.",
+          "weights": {
+            "walking": 3
+          }
+        },
+        {
+          "text": "I trust God to surprise me with abundance.",
+          "weights": {
+            "wine": 3
+          }
+        },
+        {
+          "text": "I refuse to call it the end. New life is coming.",
+          "weights": {
+            "lazarus": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "What do you most want people to walk away believing?",
+      "options": [
+        {
+          "text": "God cares about your joy, right down to the wine running out.",
+          "weights": {
+            "wine": 3
+          }
+        },
+        {
+          "text": "Even the wind and the waves obey Him.",
+          "weights": {
+            "storm": 3
+          }
+        },
+        {
+          "text": "There's always more than enough in His hands.",
+          "weights": {
+            "feeding": 3
+          }
+        },
+        {
+          "text": "He is the resurrection. It's never too late.",
+          "weights": {
+            "lazarus": 3,
+            "walking": 1
+          }
+        }
+      ]
+    }
+  ],
+  "results": {
+    "wine": {
+      "name": "Water Into Wine",
+      "emoji": "🍷",
+      "traits": [
+        "Joyful",
+        "Generous",
+        "Quietly Faithful"
+      ],
+      "description": "You are proof that God cares about the small, human stuff, even a wedding running out of wine. You take ordinary moments and quietly make them better, and you trust Him with the details nobody else notices. Your gift is gladness. When you walk in, the dreary thing becomes a little more beautiful, and people taste that God is good.",
+      "scripture": {
+        "text": "This beginning of his signs did Jesus in Cana of Galilee, and manifested his glory; and his disciples believed on him.",
+        "reference": "John 2:11",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "And manifested his glory; and his disciples believed on him.",
+        "reference": "John 2:11",
+        "translation": "ASV"
+      }
+    },
+    "storm": {
+      "name": "Calming the Storm",
+      "emoji": "🌊",
+      "traits": [
+        "Calm",
+        "Steady",
+        "Reassuring"
+      ],
+      "description": "You're the peace in other people's panic. When the boat is taking on water and everyone is sure they're going under, you're the one who stays steady and reminds them God is not asleep at the wheel. Your calm is contagious. You carry the kind of trust that can look a storm in the face and still say, peace, be still.",
+      "scripture": {
+        "text": "And he awoke, and rebuked the wind, and said unto the sea, Peace, be still. And the wind ceased, and there was a great calm.",
+        "reference": "Mark 4:39",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Peace, be still.",
+        "reference": "Mark 4:39",
+        "translation": "ASV"
+      }
+    },
+    "walking": {
+      "name": "Walking on Water",
+      "emoji": "👣",
+      "traits": [
+        "Bold",
+        "Daring",
+        "Faith-stretching"
+      ],
+      "description": "You're the one who actually gets out of the boat. You'd rather risk sinking than stay safe and dry, and your bold faith pulls other people past their fear too. When you start to slip, you've learned the secret is to keep your eyes on Jesus and reach for His hand. He always catches you, and He's still calling you to come.",
+      "scripture": {
+        "text": "And he said, Come. And Peter went down from the boat, and walked upon the waters to come to Jesus.",
+        "reference": "Matthew 14:29",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Be of good cheer; it is I; be not afraid.",
+        "reference": "Matthew 14:27",
+        "translation": "ASV"
+      }
+    },
+    "feeding": {
+      "name": "Feeding the 5000",
+      "emoji": "🍞",
+      "traits": [
+        "Generous",
+        "Caring",
+        "Resourceful"
+      ],
+      "description": "You make sure nobody goes without. You're the one who sees the hungry crowd and the one small lunch and trusts God to stretch it, and somehow there's always enough. Your generosity makes people feel held and fed, body and soul. In your hands, the little that you have keeps multiplying, with baskets left over.",
+      "scripture": {
+        "text": "Jesus therefore took the loaves; and having given thanks, he distributed to them that were set down; likewise also of the fishes as much as they would.",
+        "reference": "John 6:11",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "And filled twelve baskets with broken pieces.",
+        "reference": "John 6:13",
+        "translation": "ASV"
+      }
+    },
+    "lazarus": {
+      "name": "Raising Lazarus",
+      "emoji": "🌅",
+      "traits": [
+        "Hopeful",
+        "Persevering",
+        "Believing"
+      ],
+      "description": "You believe in resurrection, even standing in front of a sealed tomb. When everyone else says it's over and too late, you keep hoping for new life. You've learned that God's timing isn't our timing, but His delays are never the end of the story. You carry the kind of faith that calls life out of dead places, because you know who the resurrection is.",
+      "scripture": {
+        "text": "Jesus said unto her, I am the resurrection, and the life: he that believeth on me, though he die, yet shall he live.",
+        "reference": "John 11:25",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Lazarus, come forth.",
+        "reference": "John 11:43",
+        "translation": "ASV"
+      }
+    }
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "slug": "which-name-of-god-are-you",
+  "title": "Which Name of God Are You Clinging To?",
+  "subtitle": "The God of the Bible has many names, and one of them is the exact thing your heart needs today. Let's find the one you are holding onto.",
+  "lang": "en",
+  "category": "bible-character",
+  "estimatedMinutes": 4,
+  "mode": "archetype",
+  "questions": [
+    {
+      "text": "What are you most aching for from God right now?",
+      "options": [
+        {
+          "text": "Provision. I'm staring at a need I can't meet on my own.",
+          "weights": {
+            "jehovah-jireh": 3
+          }
+        },
+        {
+          "text": "To be noticed. I feel like nobody really sees me.",
+          "weights": {
+            "el-roi": 3
+          }
+        },
+        {
+          "text": "Healing. Something in me or my body needs to mend.",
+          "weights": {
+            "jehovah-rapha": 3
+          }
+        },
+        {
+          "text": "Peace. My mind won't stop spinning.",
+          "weights": {
+            "jehovah-shalom": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "When life feels too big, what reassurance settles you most?",
+      "options": [
+        {
+          "text": "That God is more than enough for whatever comes.",
+          "weights": {
+            "el-shaddai": 3
+          }
+        },
+        {
+          "text": "That He will make a way I can't see yet.",
+          "weights": {
+            "jehovah-jireh": 3
+          }
+        },
+        {
+          "text": "That He is watching me, even in the hidden places.",
+          "weights": {
+            "el-roi": 3
+          }
+        },
+        {
+          "text": "That He can calm the storm inside me.",
+          "weights": {
+            "jehovah-shalom": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Which quiet prayer slips out of you most often?",
+      "options": [
+        {
+          "text": "Lord, please provide. I don't know how this gets paid for.",
+          "weights": {
+            "jehovah-jireh": 3,
+            "el-shaddai": 1
+          }
+        },
+        {
+          "text": "Do You even see me down here?",
+          "weights": {
+            "el-roi": 3
+          }
+        },
+        {
+          "text": "Touch this wound. I'm tired of hurting.",
+          "weights": {
+            "jehovah-rapha": 3
+          }
+        },
+        {
+          "text": "Give me peace I can actually feel.",
+          "weights": {
+            "jehovah-shalom": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Where do you feel the most worn down?",
+      "options": [
+        {
+          "text": "In my wallet and my worry about the future.",
+          "weights": {
+            "jehovah-jireh": 3
+          }
+        },
+        {
+          "text": "In feeling invisible, overlooked, unimportant.",
+          "weights": {
+            "el-roi": 3
+          }
+        },
+        {
+          "text": "In a body or a heart that just hasn't healed.",
+          "weights": {
+            "jehovah-rapha": 3
+          }
+        },
+        {
+          "text": "In how small I feel against everything I'm facing.",
+          "weights": {
+            "el-shaddai": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "What kind of story do you most need to believe about God?",
+      "options": [
+        {
+          "text": "He shows up with exactly what's needed, right on time.",
+          "weights": {
+            "jehovah-jireh": 3
+          }
+        },
+        {
+          "text": "He finds the forgotten ones out in the wilderness.",
+          "weights": {
+            "el-roi": 3
+          }
+        },
+        {
+          "text": "He still mends broken things and broken people.",
+          "weights": {
+            "jehovah-rapha": 3,
+            "jehovah-shalom": 1
+          }
+        },
+        {
+          "text": "Nothing is too hard for Him. Nothing.",
+          "weights": {
+            "el-shaddai": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "How would you finish this sentence: \"I just need God to be my...\"",
+      "options": [
+        {
+          "text": "Provider, because I've run out of options.",
+          "weights": {
+            "jehovah-jireh": 3
+          }
+        },
+        {
+          "text": "Healer, because I can't fix this myself.",
+          "weights": {
+            "jehovah-rapha": 3
+          }
+        },
+        {
+          "text": "Peace, because the anxiety is loud.",
+          "weights": {
+            "jehovah-shalom": 3
+          }
+        },
+        {
+          "text": "Strength, because I am completely out of mine.",
+          "weights": {
+            "el-shaddai": 3,
+            "el-roi": 1
+          }
+        }
+      ]
+    },
+    {
+      "text": "Which moment would bring you to tears in the best way?",
+      "options": [
+        {
+          "text": "An unexpected provision landing right when you needed it.",
+          "weights": {
+            "jehovah-jireh": 3
+          }
+        },
+        {
+          "text": "Someone saying, I see you, and meaning it.",
+          "weights": {
+            "el-roi": 3
+          }
+        },
+        {
+          "text": "Waking up and realizing the old ache finally lifted.",
+          "weights": {
+            "jehovah-rapha": 3
+          }
+        },
+        {
+          "text": "A calm washing over you when nothing else has changed.",
+          "weights": {
+            "jehovah-shalom": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "What do you want to remember the next time fear creeps in?",
+      "options": [
+        {
+          "text": "On the mountain, He provides.",
+          "weights": {
+            "jehovah-jireh": 3
+          }
+        },
+        {
+          "text": "He is the God who truly sees me.",
+          "weights": {
+            "el-roi": 3
+          }
+        },
+        {
+          "text": "He is Almighty, and I am held by Him.",
+          "weights": {
+            "el-shaddai": 3
+          }
+        },
+        {
+          "text": "He is my peace, even here.",
+          "weights": {
+            "jehovah-shalom": 3
+          }
+        }
+      ]
+    }
+  ],
+  "results": {
+    "jehovah-jireh": {
+      "name": "Jehovah-Jireh (The Lord Will Provide)",
+      "emoji": "🌄",
+      "traits": [
+        "Trusting",
+        "Hopeful",
+        "Waiting on provision"
+      ],
+      "description": "You are standing at the edge of a need you cannot meet on your own, and you are learning to look up instead of just looking around. This is the name Abraham gave God on the mountain, right when there seemed to be no way forward and God provided one anyway. He sees what you are carrying. Keep trusting Him on the climb, because provision often shows up at the very last turn.",
+      "scripture": {
+        "text": "And Abraham called the name of that place Jehovah-jireh: as it is said to this day, In the mount of Jehovah it shall be provided.",
+        "reference": "Genesis 22:14",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "In the mount of Jehovah it shall be provided.",
+        "reference": "Genesis 22:14",
+        "translation": "ASV"
+      }
+    },
+    "el-roi": {
+      "name": "El Roi (The God Who Sees Me)",
+      "emoji": "👁️",
+      "traits": [
+        "Overlooked",
+        "Tender",
+        "Deeply seen"
+      ],
+      "description": "You know the ache of feeling invisible, of wondering if anyone really notices you at all. This is the name Hagar gave God when she was alone and cast out in the wilderness, and He met her there. You are not forgotten. The same God found her in her lowest moment, and He sees you in yours, right down to the things no one else knows.",
+      "scripture": {
+        "text": "And she called the name of Jehovah that spake unto her, Thou art a God that seeth: for she said, Have I even here looked after him that seeth me?",
+        "reference": "Genesis 16:13",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Thou art a God that seeth.",
+        "reference": "Genesis 16:13",
+        "translation": "ASV"
+      }
+    },
+    "el-shaddai": {
+      "name": "El Shaddai (God Almighty)",
+      "emoji": "⛰️",
+      "traits": [
+        "Dependent",
+        "Steadied",
+        "Held by power"
+      ],
+      "description": "You feel small against the size of what you are facing, and honestly, that is not a bad place to be. This is the name God spoke over Abram when the promise felt impossible. He is not a little bit strong. He is Almighty, more than enough for the thing that feels too big for you. You can lean your whole weight on a God like that.",
+      "scripture": {
+        "text": "And when Abram was ninety years old and nine, Jehovah appeared to Abram, and said unto him, I am God Almighty; walk before me, and be thou perfect.",
+        "reference": "Genesis 17:1",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "I am God Almighty; walk before me.",
+        "reference": "Genesis 17:1",
+        "translation": "ASV"
+      }
+    },
+    "jehovah-rapha": {
+      "name": "Jehovah-Rapha (The Lord Who Heals)",
+      "emoji": "🩹",
+      "traits": [
+        "Wounded",
+        "Mending",
+        "Held in healing"
+      ],
+      "description": "Something in you is waiting to mend, whether it is your body, your heart, or a memory that still stings. This is the name God revealed right after He turned bitter water sweet, telling His people He is the one who heals. He has not lost interest in your wound. Bring it to Him honestly, because healing is part of who He is, not just something He does.",
+      "scripture": {
+        "text": "and he said, If thou wilt diligently hearken to the voice of Jehovah thy God, and wilt do that which is right in his eyes, and wilt give ear to his commandments, and keep all his statutes, I will put none of the diseases upon thee, which I have put upon the Egyptians: for I am Jehovah that healeth thee.",
+        "reference": "Exodus 15:26",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "I am Jehovah that healeth thee.",
+        "reference": "Exodus 15:26",
+        "translation": "ASV"
+      }
+    },
+    "jehovah-shalom": {
+      "name": "Jehovah-Shalom (The Lord Is Peace)",
+      "emoji": "🕊️",
+      "traits": [
+        "Anxious",
+        "Quieting",
+        "Settling into peace"
+      ],
+      "description": "Your mind runs fast and your heart rarely gets to rest, and you are longing for a calm that actually lasts. This is the name Gideon gave God when he was afraid and unsure, building an altar and calling it the Lord is peace. The peace you need is not a feeling you have to manufacture. It is a Person you get to lean into, even before anything around you changes.",
+      "scripture": {
+        "text": "Then Gideon built an altar there unto Jehovah, and called it Jehovah-shalom: unto this day it is yet in Ophrah of the Abiezrites.",
+        "reference": "Judges 6:24",
+        "translation": "ASV"
+      },
+      "cardVerse": {
+        "text": "Gideon built an altar there unto Jehovah, and called it Jehovah-shalom.",
+        "reference": "Judges 6:24",
+        "translation": "ASV"
+      }
+    }
+  },
+  "theme": "scripture-archetype"
+}
