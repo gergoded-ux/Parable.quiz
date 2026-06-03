@@ -3,6 +3,7 @@
 import Link from 'next/link';
 import { track } from '@vercel/analytics';
 import { Card, CardHeader, CardContent, CardTitle, CardDescription } from '@/components/ui/card-2';
+import { FitText } from '@/components/FitText';
 
 export function RelatedLink({
   fromSlug, toSlug, title, emoji, estimatedMinutes,
@@ -23,7 +24,7 @@ export function RelatedLink({
         <CardHeader className="gap-2.5 p-3">
           <div className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-cream-2 text-base">{emoji}</div>
           <div className="min-w-0 flex-1">
-            <CardTitle className="text-sm leading-snug line-clamp-2">{title}</CardTitle>
+            <CardTitle><FitText text={title} max={15} min={5} /></CardTitle>
             <CardDescription className="mt-0.5 text-[11px]">Take another</CardDescription>
           </div>
         </CardHeader>
