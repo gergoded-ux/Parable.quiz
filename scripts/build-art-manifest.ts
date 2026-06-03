@@ -27,12 +27,13 @@ function main() {
   }
   have.sort();
 
-  // Quiz cover images: public/quizzes/<slug>.(jpg|webp|png) -> "slug"
+  // Quiz cover images: public/quizzes/<slug>.(jpg|webp|png) -> full filename
+  // (keep the extension so the renderer can build the exact URL — covers may be
+  // .png, .jpg, or .webp).
   const covers: string[] = [];
   if (existsSync(COVER_ROOT)) {
     for (const f of readdirSync(COVER_ROOT)) {
-      const m = f.match(/^(.+)\.(jpg|jpeg|webp|png)$/i);
-      if (m) covers.push(m[1]);
+      if (/\.(jpg|jpeg|webp|png)$/i.test(f)) covers.push(f);
     }
   }
   covers.sort();

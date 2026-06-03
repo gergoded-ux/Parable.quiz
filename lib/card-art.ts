@@ -6,20 +6,25 @@ import coverManifest from '@/content/generated/cover-manifest.json';
 // base URL later (e.g. https://cdn.example.com) with no trailing slash.
 const BASE = (process.env.CARD_ART_BASE ?? '').replace(/\/$/, '');
 const HAVE = new Set(manifest as string[]);
-const HAVE_COVERS = new Set(coverManifest as string[]);
+// Map quiz slug -> actual cover filename (with extension), so covers can be
+// .png/.jpg/.webp without the renderer guessing the extension.
+const COVER_BY_SLUG = new Map<string, string>(
+  (coverManifest as string[]).map((f) => [f.replace(/\.(jpg|jpeg|webp|png)$/i, ''), f]),
+);
 
 export function hasIllustration(slug: string, key: string): boolean {
   return HAVE.has(`${slug}/${key}`);
 }
 
-// Quiz-pick cover image at public/quizzes/<slug>.jpg (landscape). Cards fall
+// Quiz-pick cover image at public/quizzes/<slug>.<ext> (landscape). Cards fall
 // back to a gradient + emoji when a quiz has no cover yet.
 export function hasQuizCover(slug: string): boolean {
-  return HAVE_COVERS.has(slug);
+  return COVER_BY_SLUG.has(slug);
 }
 
-export function quizCoverUrl(slug: string, ext: 'jpg' | 'webp' = 'jpg'): string {
-  return `${BASE}/quizzes/${slug}.${ext}`;
+export function quizCoverUrl(slug: string): string {
+  const file = COVER_BY_SLUG.get(slug);
+  return file ? `${BASE}/quizzes/${file}` : '';
 }
 
 export function artUrl(slug: string, key: string, ext: 'jpg' | 'webp' = 'jpg'): string {
