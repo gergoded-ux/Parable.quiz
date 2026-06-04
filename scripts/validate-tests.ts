@@ -2,6 +2,7 @@
 import { loadAllTests, isPublished } from '@/lib/test-loader';
 import { isValidTheme } from '@/lib/themes';
 import { getScripture } from '@/lib/scripture';
+import { isValidRewardArt } from '@/lib/reward-art';
 import publishedSlugs from '@/content/published.json';
 
 function main() {
@@ -50,6 +51,15 @@ function main() {
     if (!isValidTheme(t.theme)) {
       console.error(`❌ ${t.slug} → invalid or missing theme: ${t.theme ?? '(none)'}`);
       errors++;
+    }
+
+    if ((t.mode === 'archetype' || t.mode === 'profile') && isPublished(t.slug)) {
+      for (const [key, r] of Object.entries(t.results)) {
+        if (!isValidRewardArt((r as { rewardArt?: string }).rewardArt)) {
+          console.error(`❌ ${t.slug} → result "${key}" → invalid or missing rewardArt`);
+          errors++;
+        }
+      }
     }
   }
 
