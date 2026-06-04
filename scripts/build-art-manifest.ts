@@ -21,7 +21,7 @@ function main() {
       if (!statSync(dir).isDirectory()) continue;
       for (const f of readdirSync(dir)) {
         const m = f.match(/^(.+)\.(jpg|jpeg|webp|png)$/i);
-        if (m) have.push(`${slug}/${m[1]}`);
+        if (m) have.push(`${slug}/${f}`);   // full filename incl. extension
       }
     }
   }
