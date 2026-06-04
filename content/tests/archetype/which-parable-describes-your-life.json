@@ -254,7 +254,8 @@
         "Loved"
       ],
       "description": "You're walking home after a long time away, and the Father is already running. You don't need a polished speech. You just need the nerve to keep walking toward His arms.",
-      "scriptureRef": "luke-15-20"
+      "scriptureRef": "luke-15-20",
+      "rewardArt": "scene"
     },
     "good-samaritan": {
       "name": "The Good Samaritan",
@@ -265,7 +266,8 @@
         "Hands-on"
       ],
       "description": "You see the person everyone else walked past. Your love isn't theoretical. It bandages wounds and pays the bill and comes back the next day to check in. That's the kingdom in real time.",
-      "scriptureRef": "luke-10-33"
+      "scriptureRef": "luke-10-33",
+      "rewardArt": "scene"
     },
     "sower": {
       "name": "The Sower's Good Soil",
@@ -276,7 +278,8 @@
         "Fruitful"
       ],
       "description": "The Word is finally landing on ground that's been broken open. Don't let the slow pace scare you. Your fruit is coming, and it's coming in thirties and sixties and hundreds.",
-      "scriptureRef": "matt-13-23"
+      "scriptureRef": "matt-13-23",
+      "rewardArt": "scene"
     },
     "mustard-seed": {
       "name": "The Mustard Seed",
@@ -287,7 +290,8 @@
         "Becoming"
       ],
       "description": "Right now your faith feels tiny, almost embarrassingly so. But this is the season where God grows whole trees from things you can barely see.",
-      "scriptureRef": "matt-13-32"
+      "scriptureRef": "matt-13-32",
+      "rewardArt": "scene"
     },
     "lost-sheep": {
       "name": "The Lost Sheep Carried Home",
@@ -298,7 +302,8 @@
         "Rejoiced-over"
       ],
       "description": "You don't have to find your way back. He came after you. He's carrying you on His shoulders and rejoicing the whole way home. Let Him.",
-      "scriptureRef": "luke-15-5"
+      "scriptureRef": "luke-15-5",
+      "rewardArt": "scene"
     },
     "talents": {
       "name": "The Faithful Steward",
@@ -309,7 +314,8 @@
         "Trusted"
       ],
       "description": "You're using what God put in your hand instead of burying it out of fear. The reward isn't more stuff. It's more of Him saying 'well done.'",
-      "scriptureRef": "matt-25-21"
+      "scriptureRef": "matt-25-21",
+      "rewardArt": "scene"
     },
     "pharisee-and-tax-collector": {
       "name": "The Tax Collector at the Back",
@@ -320,7 +326,8 @@
         "Mercy-soaked"
       ],
       "description": "You won't even lift your eyes, and that's the exact posture God justifies. The simplest prayer in scripture is the one you've been praying: God, be merciful to me.",
-      "scriptureRef": "luke-18-13"
+      "scriptureRef": "luke-18-13",
+      "rewardArt": "scene"
     }
   },
   "theme": "scripture-archetype"

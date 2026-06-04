@@ -257,7 +257,8 @@
         "Still"
       ],
       "description": "You've chosen the better part. Where others scramble, you sit. People think you're wasting time, right up until they realize you've been with Him the whole while.",
-      "scriptureRef": "luke-10-42"
+      "scriptureRef": "luke-10-42",
+      "rewardArt": "character"
     },
     "martha": {
       "name": "Martha the Doer",
@@ -268,7 +269,8 @@
         "Caring"
       ],
       "description": "Your love shows up as service. You're usually the reason the room is fed and steady. And Jesus is gently inviting you to put the tray down for a minute and just sit with Him.",
-      "scriptureRef": "luke-10-41"
+      "scriptureRef": "luke-10-41",
+      "rewardArt": "character"
     },
     "ruth": {
       "name": "Ruth the Loyal",
@@ -279,7 +281,8 @@
         "Hopeful"
       ],
       "description": "You'll leave everything familiar to follow the people God's given you. Your faithfulness in the quiet years ends up being part of a story far bigger than you can see right now.",
-      "scriptureRef": "ruth-1-16"
+      "scriptureRef": "ruth-1-16",
+      "rewardArt": "character"
     },
     "esther": {
       "name": "Esther for Such a Time",
@@ -290,7 +293,8 @@
         "Sacrificial"
       ],
       "description": "You sense the room you're standing in is no accident. When the moment demands courage, you'll walk in, even if it costs you everything.",
-      "scriptureRef": "esth-4-14"
+      "scriptureRef": "esth-4-14",
+      "rewardArt": "character"
     },
     "deborah": {
       "name": "Deborah the Judge",
@@ -301,7 +305,8 @@
         "Bold"
       ],
       "description": "You lead from the tree, not the throne. People come to you for clarity and you give it without any ego attached. And when the army won't move without you, you go with them.",
-      "scriptureRef": "judg-4-9"
+      "scriptureRef": "judg-4-9",
+      "rewardArt": "character"
     },
     "hannah": {
       "name": "Hannah in the Temple",
@@ -312,7 +317,8 @@
         "Surrendered"
       ],
       "description": "You bring your tears to God without dressing them up first. People have misread you mid-prayer and assumed the worst. You keep praying anyway, until He answers.",
-      "scriptureRef": "1-sam-1-15"
+      "scriptureRef": "1-sam-1-15",
+      "rewardArt": "character"
     },
     "rahab": {
       "name": "Rahab the Brave",
@@ -323,7 +329,8 @@
         "Believing"
       ],
       "description": "You don't have a religious resume. What you have is the instinct to recognize the real God when you see Him. You'll risk everything to be on the side of what's true, and grace writes you right into the family tree.",
-      "scriptureRef": "josh-2-11"
+      "scriptureRef": "josh-2-11",
+      "rewardArt": "character"
     },
     "priscilla": {
       "name": "Priscilla the Teacher",
@@ -334,7 +341,8 @@
         "Discipling"
       ],
       "description": "You learn things carefully, then teach them gently. You take people aside and explain it all more fully without ever making them feel small. The church grows because of women like you.",
-      "scriptureRef": "acts-18-26"
+      "scriptureRef": "acts-18-26",
+      "rewardArt": "character"
     }
   },
   "theme": "scripture-archetype"

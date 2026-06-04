@@ -258,7 +258,8 @@
         "text": "How long, O Jehovah? wilt thou forget me for ever? How long wilt thou hide thy face from me?",
         "reference": "Psalm 13:1",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "safe-community": {
       "name": "Through a Safe Small Community",
@@ -267,7 +268,8 @@
         "text": "Two are better than one, because they have a good reward for their labor. For if they fall, the one will lift up his fellow; but woe to him that is alone when he falleth, and hath not another to lift him up.",
         "reference": "Ecclesiastes 4:9-10",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "rediscovering-jesus": {
       "name": "Through Rediscovering Jesus Apart From Religion",
@@ -276,7 +278,8 @@
         "text": "Come unto me, all ye that labor and are heavy laden, and I will give you rest.",
         "reference": "Matthew 11:28",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "therapy-and-time": {
       "name": "Through Therapy and Time",
@@ -285,7 +288,8 @@
         "text": "He healeth the broken in heart, And bindeth up their wounds.",
         "reference": "Psalm 147:3",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "finding-the-door": {
       "name": "Still Finding the Door",
@@ -294,7 +298,8 @@
         "text": "And ye shall seek me, and find me, when ye shall search for me with all your heart.",
         "reference": "Jeremiah 29:13",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "church-hurt"

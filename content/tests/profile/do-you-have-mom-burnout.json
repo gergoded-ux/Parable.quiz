@@ -321,7 +321,8 @@
         "text": "Come unto me, all ye that labor and are heavy laden, and I will give you rest.",
         "reference": "Matthew 11:28",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "touched-out-and-overstimulated": {
       "name": "Touched-Out and Overstimulated",
@@ -330,7 +331,8 @@
         "text": "But he withdrew himself in the deserts, and prayed.",
         "reference": "Luke 5:16",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "resentful-and-guilty": {
       "name": "Resentful and Guilty",
@@ -339,7 +341,8 @@
         "text": "There is therefore now no condemnation to them that are in Christ Jesus.",
         "reference": "Romans 8:1",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "stretched-thin": {
       "name": "Stretched Thin",
@@ -348,7 +351,8 @@
         "text": "Bear ye one another’s burdens, and so fulfil the law of Christ.",
         "reference": "Galatians 6:2",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "tired-but-holding-on": {
       "name": "Tired but Holding On",
@@ -357,7 +361,8 @@
         "text": "I can do all things in him that strengtheneth me.",
         "reference": "Philippians 4:13",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "in-a-good-rhythm": {
       "name": "In a Good Rhythm",
@@ -366,7 +371,8 @@
         "text": "Strength and dignity are her clothing; And she laugheth at the time to come.",
         "reference": "Proverbs 31:25",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "rest-burnout"

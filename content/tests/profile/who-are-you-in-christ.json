@@ -317,7 +317,8 @@
         "text": "Ye did not choose me, but I chose you, and appointed you, that ye should go and bear fruit, and that your fruit should abide: that whatsoever ye shall ask of the Father in my name, he may give it you.",
         "reference": "John 15:16",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "beloved": {
       "name": "Beloved",
@@ -326,7 +327,8 @@
         "text": "Jehovah thy God is in the midst of thee, a mighty one who will save; he will rejoice over thee with joy; he will rest in his love; he will joy over thee with singing.",
         "reference": "Zephaniah 3:17",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "redeemed": {
       "name": "Redeemed",
@@ -335,7 +337,8 @@
         "text": "in whom we have our redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace,",
         "reference": "Ephesians 1:7",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "sealed-and-secure": {
       "name": "Sealed and Secure",
@@ -344,7 +347,8 @@
         "text": "and I give unto them eternal life; and they shall never perish, and no one shall snatch them out of my hand.",
         "reference": "John 10:28",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "identity"

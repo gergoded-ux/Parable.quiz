@@ -263,7 +263,8 @@
         "text": "Who knoweth whether thou art not come to the kingdom for such a time as this?",
         "reference": "Esther 4:14",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "vashti": {
       "name": "Vashti the Unbowed",
@@ -283,7 +284,8 @@
         "text": "Strength and dignity are her clothing.",
         "reference": "Proverbs 31:25",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "jezebel": {
       "name": "Jezebel the Willful",
@@ -303,7 +305,8 @@
         "text": "Pride goeth before destruction.",
         "reference": "Proverbs 16:18",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "bathsheba": {
       "name": "Bathsheba the Resilient",
@@ -323,7 +326,8 @@
         "text": "He raiseth up the poor out of the dust.",
         "reference": "1 Samuel 2:8",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "sheba": {
       "name": "The Queen of Sheba the Seeker",
@@ -343,7 +347,8 @@
         "text": "She came to prove him with hard questions.",
         "reference": "1 Kings 10:1",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     }
   }
 }

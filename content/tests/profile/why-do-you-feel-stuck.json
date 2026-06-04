@@ -317,7 +317,8 @@
         "text": "Wait for Jehovah: Be strong, and let thy heart take courage; Yea, wait thou for Jehovah.",
         "reference": "Psalm 27:14",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "stuck-in-fear": {
       "name": "Stuck in Fear",
@@ -326,7 +327,8 @@
         "text": "Have not I commanded thee? Be strong and of good courage; be not affrighted, neither be thou dismayed: for Jehovah thy God is with thee whithersoever thou goest.",
         "reference": "Joshua 1:9",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "stuck-in-comparison": {
       "name": "Stuck in Comparison",
@@ -335,7 +337,8 @@
         "text": "Therefore let us also, seeing we are compassed about with so great a cloud of witnesses, lay aside every weight, and the sin which doth so easily beset us, and let us run with patience the race that is set before us,",
         "reference": "Hebrews 12:1",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "stuck-in-burnout": {
       "name": "Stuck in Burnout",
@@ -344,7 +347,8 @@
         "text": "Come unto me, all ye that labor and are heavy laden, and I will give you rest.",
         "reference": "Matthew 11:28",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "stuck-in-disobedience": {
       "name": "Stuck in Disobedience",
@@ -353,7 +357,8 @@
         "text": "But be ye doers of the word, and not hearers only, deluding your own selves.",
         "reference": "James 1:22",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "calling-purpose"

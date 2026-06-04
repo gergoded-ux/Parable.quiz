@@ -103,7 +103,8 @@
         "Listening"
       ],
       "description": "You've learned the secret of the better part. You'd rather sit close than rush around, and that quiet habit is shaping the rest of your life more than you realize.",
-      "scriptureRef": "luke-10-42"
+      "scriptureRef": "luke-10-42",
+      "rewardArt": "character"
     },
     "martha": {
       "name": "Martha in the Kitchen",
@@ -114,7 +115,8 @@
         "Hospitable"
       ],
       "description": "Your love shows up as service, and any room you walk into is better for it. Jesus is calling your name twice. He's not asking you to stop serving, just to come sit with Him a while too.",
-      "scriptureRef": "luke-10-41"
+      "scriptureRef": "luke-10-41",
+      "rewardArt": "character"
     }
   },
   "theme": "discipleship"

@@ -284,7 +284,8 @@
         "text": "Yea, though I walk through the valley of the shadow of death, I will fear no evil; for thou art with me; Thy rod and thy staff, they comfort me.",
         "reference": "Psalm 23:4",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "spiritual-burnout": {
       "name": "Spiritual Burnout (Not the Same)",
@@ -293,7 +294,8 @@
         "text": "And he lay down and slept under a juniper-tree; and, behold, an angel touched him, and said unto him, Arise and eat.",
         "reference": "1 Kings 19:5",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "depression-mask": {
       "name": "Depression Wearing a Spiritual Mask",
@@ -302,7 +304,8 @@
         "text": "Jehovah is nigh unto them that are of a broken heart, And saveth such as are of a contrite spirit.",
         "reference": "Psalm 34:18",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "dry-season": {
       "name": "A Dry Season (Normal)",
@@ -311,7 +314,8 @@
         "text": "For his anger is but for a moment; His favor is for a life-time: Weeping may tarry for the night, But joy cometh in the morning.",
         "reference": "Psalm 30:5",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "conviction-avoiding": {
       "name": "Conviction You're Avoiding",
@@ -320,7 +324,8 @@
         "text": "If we confess our sins, he is faithful and righteous to forgive us our sins, and to cleanse us from all unrighteousness.",
         "reference": "1 John 1:9",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "doubt-faith"

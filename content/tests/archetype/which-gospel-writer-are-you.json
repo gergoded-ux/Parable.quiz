@@ -261,7 +261,8 @@
         "text": "Follow me. And he arose, and followed him.",
         "reference": "Matthew 9:9",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "mark": {
       "name": "Mark the Fast Mover",
@@ -281,7 +282,8 @@
         "text": "And straightway they left the nets, and followed him.",
         "reference": "Mark 1:18",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "luke": {
       "name": "Luke the Careful Witness",
@@ -301,7 +303,8 @@
         "text": "For the Son of man came to seek and to save that which was lost.",
         "reference": "Luke 19:10",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "john": {
       "name": "John the Beloved",
@@ -321,7 +324,8 @@
         "text": "A new commandment I give unto you, that ye love one another.",
         "reference": "John 13:34",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     }
   }
 }

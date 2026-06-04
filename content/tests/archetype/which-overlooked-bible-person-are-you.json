@@ -255,7 +255,8 @@
         "text": "And Jehovah saw that Leah was hated, and he opened her womb: but Rachel was barren.",
         "reference": "Genesis 29:31",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "hagar": {
       "name": "Hagar (the cast-out one)",
@@ -270,7 +271,8 @@
         "text": "And she called the name of Jehovah that spake unto her, Thou art a God that seeth: for she said, Have I even here looked after him that seeth me?",
         "reference": "Genesis 16:13",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "mephibosheth": {
       "name": "Mephibosheth (the forgotten one)",
@@ -285,7 +287,8 @@
         "text": "And David said unto him, Fear not; for I will surely show thee kindness for Jonathan thy father’s sake, and will restore thee all the land of Saul thy father; and thou shalt eat bread at my table continually.",
         "reference": "2 Samuel 9:7",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "zacchaeus": {
       "name": "Zacchaeus (the outsider)",
@@ -300,7 +303,8 @@
         "text": "And when Jesus came to the place, he looked up, and said unto him, Zacchæus, make haste, and come down; for to-day I must abide at thy house.",
         "reference": "Luke 19:5",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     }
   },
   "theme": "identity"

@@ -264,7 +264,8 @@
         "text": "Stand therefore, having girded your loins with truth.",
         "reference": "Ephesians 6:14",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "object"
     },
     "breastplate-of-righteousness": {
       "name": "The Breastplate of Righteousness",
@@ -284,7 +285,8 @@
         "text": "having put on the breastplate of righteousness.",
         "reference": "Ephesians 6:14",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "object"
     },
     "shoes-of-the-gospel-of-peace": {
       "name": "The Shoes of the Gospel of Peace",
@@ -304,7 +306,8 @@
         "text": "having shod your feet with the preparation of the gospel of peace.",
         "reference": "Ephesians 6:15",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "object"
     },
     "shield-of-faith": {
       "name": "The Shield of Faith",
@@ -324,7 +327,8 @@
         "text": "Taking up the shield of faith, wherewith ye shall be able to quench all the fiery darts.",
         "reference": "Ephesians 6:16",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "object"
     },
     "helmet-of-salvation": {
       "name": "The Helmet of Salvation",
@@ -344,7 +348,8 @@
         "text": "And take the helmet of salvation.",
         "reference": "Ephesians 6:17",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "object"
     },
     "sword-of-the-spirit": {
       "name": "The Sword of the Spirit",
@@ -364,7 +369,8 @@
         "text": "the sword of the Spirit, which is the word of God.",
         "reference": "Ephesians 6:17",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "object"
     }
   },
   "theme": "scripture-archetype"

@@ -288,7 +288,8 @@
         "text": "Come unto me, all ye that labor and are heavy laden, and I will give you rest.",
         "reference": "Matthew 11:28",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "curator": {
       "name": "The Curator",
@@ -297,7 +298,8 @@
         "text": "For am I now seeking the favor of men, or of God? or am I striving to please men? if I were still pleasing men, I should not be a servant of Christ.",
         "reference": "Galatians 1:10",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "lurker-comparer": {
       "name": "The Lurker-Comparer",
@@ -306,7 +308,8 @@
         "text": "I will give thanks unto thee; for I am fearfully and wonderfully made: Wonderful are thy works; And that my soul knoweth right well.",
         "reference": "Psalm 139:14",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "fomo-feeler": {
       "name": "The FOMO Feeler",
@@ -315,7 +318,8 @@
         "text": "Be ye free from the love of money; content with such things as ye have: for himself hath said, I will in no wise fail thee, neither will I in any wise forsake thee.",
         "reference": "Hebrews 13:5",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "comparison-shame"

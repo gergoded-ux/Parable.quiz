@@ -255,7 +255,8 @@
         "text": "Trust in him at all times, ye people; Pour out your heart before him: God is a refuge for us. [Selah",
         "reference": "Psalm 62:8",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "wrestling-honestly": {
       "name": "Yes, and You're Wrestling Honestly",
@@ -264,7 +265,8 @@
         "text": "And he said, Let me go, for the day breaketh. And he said, I will not let thee go, except thou bless me.",
         "reference": "Genesis 32:26",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "more-disappointed": {
       "name": "More Disappointed Than Angry",
@@ -273,7 +275,8 @@
         "text": "My God, my God, why hast thou forsaken me? Why art thou sofar from helping me, and from the words of my groaning?",
         "reference": "Psalm 22:1",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "numb-and-distant": {
       "name": "Numb and Distant Right Now",
@@ -282,7 +285,8 @@
         "text": "Jehovah is nigh unto them that are of a broken heart, And saveth such as are of a contrite spirit.",
         "reference": "Psalm 34:18",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "doubt-faith"

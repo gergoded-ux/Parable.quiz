@@ -313,7 +313,8 @@
         "text": "O Jehovah, thou hast searched me, and knownme.",
         "reference": "Psalm 139:1",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "social-loneliness": {
       "name": "Social Loneliness",
@@ -322,7 +323,8 @@
         "text": "God setteth the solitary in families: He bringeth out the prisoners into prosperity; But the rebellious dwell in a parched land.",
         "reference": "Psalm 68:6",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "existential-loneliness": {
       "name": "Existential Loneliness",
@@ -331,7 +333,8 @@
         "text": "And she called the name of Jehovah that spake unto her, Thou art a God that seeth: for she said, Have I even here looked after him that seeth me?",
         "reference": "Genesis 16:13",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "situational-loneliness": {
       "name": "Situational Loneliness",
@@ -340,7 +343,8 @@
         "text": "And Jehovah, he it is that doth go before thee; he will be with thee, he will not fail thee, neither forsake thee: fear not, neither be dismayed.",
         "reference": "Deuteronomy 31:8",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "loneliness-belonging"

@@ -287,7 +287,8 @@
         "text": "And Jesus said, Father, forgive them; for they know not what they do. And parting his garments among them, they cast lots.",
         "reference": "Luke 23:34",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "forgiveness-vs-reconciliation": {
       "name": "You're Confusing Forgiveness With Reconciliation",
@@ -296,7 +297,8 @@
         "text": "If it be possible, as much as in you lieth, be at peace with all men.",
         "reference": "Romans 12:18",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "waiting-on-apology": {
       "name": "You're Waiting on an Apology That May Never Come",
@@ -305,7 +307,8 @@
         "text": "casting all your anxiety upon him, because he careth for you.",
         "reference": "1 Peter 5:7",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "wound-still-aches": {
       "name": "You've Forgiven but the Wound Still Aches",
@@ -314,7 +317,8 @@
         "text": "He healeth the broken in heart, And bindeth up their wounds.",
         "reference": "Psalm 147:3",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "forgiveness"

@@ -288,7 +288,8 @@
         "text": "Jehovah appeared of old unto me, saying, Yea, I have loved thee with an everlasting love: therefore with lovingkindness have I drawn thee.",
         "reference": "Jeremiah 31:3",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "avoidant": {
       "name": "Avoidant",
@@ -297,7 +298,8 @@
         "text": "Draw nigh to God, and he will draw nigh to you. Cleanse your hands, ye sinners; and purify your hearts, ye doubleminded.",
         "reference": "James 4:8",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "earning-it": {
       "name": "Earning-It",
@@ -306,7 +308,8 @@
         "text": "for by grace have ye been saved through faith; and that not of yourselves, it is the gift of God;",
         "reference": "Ephesians 2:8",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "growing-secure": {
       "name": "Growing Secure",
@@ -315,7 +318,8 @@
         "text": "that Christ may dwell in your hearts through faith; to the end that ye, being rooted and grounded in love, may be strong to apprehend with all the saints what is the breadth and length and height and depth,",
         "reference": "Ephesians 3:17-18",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "securely-attached": {
       "name": "Securely Attached",
@@ -324,7 +328,8 @@
         "text": "And we know and have believed the love which God hath in us. God is love; and he that abideth in love abideth in God, and God abideth in him.",
         "reference": "1 John 4:16",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "identity"

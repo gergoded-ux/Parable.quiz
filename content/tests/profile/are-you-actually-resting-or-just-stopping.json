@@ -285,7 +285,8 @@
         "text": "Be still, and know that I am God: I will be exalted among the nations, I will be exalted in the earth.",
         "reference": "Psalm 46:10",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "crash-and-burn": {
       "name": "Crash-and-Burn Rest",
@@ -294,7 +295,8 @@
         "text": "It is vain for you to rise up early, To take rest late, To eat the bread of toil; Forso he giveth unto his beloved sleep.",
         "reference": "Psalm 127:2",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "guilty-rest": {
       "name": "Guilty Rest",
@@ -303,7 +305,8 @@
         "text": "And on the seventh day God finished his work which he had made; and he rested on the seventh day from all his work which he had made.",
         "reference": "Genesis 2:2",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "productive-rest": {
       "name": "Productive 'Rest'",
@@ -312,7 +315,8 @@
         "text": "And he saith unto them, Come ye yourselves apart into a desert place, and rest a while. For there were many coming and going, and they had no leisure so much as to eat.",
         "reference": "Mark 6:31",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "true-sabbath-rest": {
       "name": "True Sabbath Rest",
@@ -321,7 +325,8 @@
         "text": "Come unto me, all ye that labor and are heavy laden, and I will give you rest.",
         "reference": "Matthew 11:28",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "rest-burnout"

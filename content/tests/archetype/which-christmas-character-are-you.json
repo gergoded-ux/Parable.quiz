@@ -253,7 +253,8 @@
         "Brave"
       ],
       "description": "Your courage is quiet. You said yes to something impossible and then carried it in your heart through every hard moment that followed. So much of the story rests on women like you.",
-      "scriptureRef": "luke-1-38"
+      "scriptureRef": "luke-1-38",
+      "rewardArt": "character"
     },
     "joseph": {
       "name": "Joseph the Steady",
@@ -264,7 +265,8 @@
         "Protective"
       ],
       "description": "You don't get the big speeches, but you do exactly what the angel said. Your obedience is the quiet shelter that someone else's calling gets to rest on.",
-      "scriptureRef": "matt-1-24"
+      "scriptureRef": "matt-1-24",
+      "rewardArt": "character"
     },
     "wise-men": {
       "name": "The Wise Men",
@@ -275,7 +277,8 @@
         "Generous"
       ],
       "description": "You follow signs other people ignore. You travel a long way to worship, and when you finally find Him, you hold nothing back. Gold, frankincense, myrrh, all of it.",
-      "scriptureRef": "matt-2-11"
+      "scriptureRef": "matt-2-11",
+      "rewardArt": "character"
     },
     "shepherds": {
       "name": "The Shepherds",
@@ -286,7 +289,8 @@
         "Chosen anyway"
       ],
       "description": "You're at work, doing the unglamorous job nobody notices, when the sky cracks open. Heaven announces the biggest news of all time to people just like you, and you can't help running to tell the rest of us.",
-      "scriptureRef": "luke-2-15"
+      "scriptureRef": "luke-2-15",
+      "rewardArt": "character"
     },
     "innkeeper": {
       "name": "The Innkeeper",
@@ -297,7 +301,8 @@
         "Welcoming"
       ],
       "description": "You don't have it all together. Your inn is full, your week is full, and you almost missed Him completely. But you found a space, even if it was only a manger, and the kingdom moved right in.",
-      "scriptureRef": "luke-2-7"
+      "scriptureRef": "luke-2-7",
+      "rewardArt": "character"
     },
     "angel": {
       "name": "The Announcing Angel",
@@ -308,7 +313,8 @@
         "Heralding"
       ],
       "description": "You can't help announcing good news. You walk into rooms ready to say 'fear not,' because you've actually seen what God is doing and somebody has to tell people.",
-      "scriptureRef": "luke-2-10"
+      "scriptureRef": "luke-2-10",
+      "rewardArt": "character"
     }
   },
   "theme": "scripture-archetype"

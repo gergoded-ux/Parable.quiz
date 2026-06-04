@@ -255,7 +255,8 @@
         "text": "He that maketh many friends doeth it to his own destruction; But there is a friend that sticketh closer than a brother.",
         "reference": "Proverbs 18:24",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "fear-first-move": {
       "name": "You Fear the First Move",
@@ -264,7 +265,8 @@
         "text": "For God gave us not a spirit of fearfulness; but of power and love and discipline.",
         "reference": "2 Timothy 1:7",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "keep-it-surface": {
       "name": "You Keep It Surface",
@@ -273,7 +275,8 @@
         "text": "Bear ye one another’s burdens, and so fulfil the law of Christ.",
         "reference": "Galatians 6:2",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "spread-too-thin": {
       "name": "You're Spread Too Thin",
@@ -282,7 +285,8 @@
         "text": "For everything there is a season, and a time for every purpose under heaven:",
         "reference": "Ecclesiastes 3:1",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "loneliness-belonging"

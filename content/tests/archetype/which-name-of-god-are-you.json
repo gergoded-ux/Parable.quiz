@@ -262,7 +262,8 @@
         "text": "In the mount of Jehovah it shall be provided.",
         "reference": "Genesis 22:14",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "el-roi": {
       "name": "El Roi (The God Who Sees Me)",
@@ -282,7 +283,8 @@
         "text": "Thou art a God that seeth.",
         "reference": "Genesis 16:13",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "el-shaddai": {
       "name": "El Shaddai (God Almighty)",
@@ -302,7 +304,8 @@
         "text": "I am God Almighty; walk before me.",
         "reference": "Genesis 17:1",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "jehovah-rapha": {
       "name": "Jehovah-Rapha (The Lord Who Heals)",
@@ -322,7 +325,8 @@
         "text": "I am Jehovah that healeth thee.",
         "reference": "Exodus 15:26",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "jehovah-shalom": {
       "name": "Jehovah-Shalom (The Lord Is Peace)",
@@ -342,7 +346,8 @@
         "text": "Gideon built an altar there unto Jehovah, and called it Jehovah-shalom.",
         "reference": "Judges 6:24",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "scripture-archetype"

@@ -289,7 +289,8 @@
         "text": "Where no wise guidance is, the people falleth; But in the multitude of counsellors there is safety.",
         "reference": "Proverbs 11:14",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "peace-waiter": {
       "name": "The Peace-Waiter",
@@ -298,7 +299,8 @@
         "text": "And let the peace of Christ rule in your hearts, to the which also ye were called in one body; and be ye thankful.",
         "reference": "Colossians 3:15",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "open-door-walker": {
       "name": "The Open-Door Walker",
@@ -307,7 +309,8 @@
         "text": "A man’s heart deviseth his way; But Jehovah directeth his steps.",
         "reference": "Proverbs 16:9",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "scripture-first": {
       "name": "The Scripture-First",
@@ -316,7 +319,8 @@
         "text": "Thy word is a lamp unto my feet, And light unto my path.",
         "reference": "Psalm 119:105",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "bold-mover": {
       "name": "The Bold Mover",
@@ -325,7 +329,8 @@
         "text": "Have not I commanded thee? Be strong and of good courage; be not affrighted, neither be thou dismayed: for Jehovah thy God is with thee whithersoever thou goest.",
         "reference": "Joshua 1:9",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "hearing-god"

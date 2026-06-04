@@ -254,7 +254,8 @@
         "text": "Thou numberest my wanderings: Put thou my tears into thy bottle; Are they not in thy book?",
         "reference": "Psalm 56:8",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "quiet-carrier": {
       "name": "Quiet Carrier",
@@ -263,7 +264,8 @@
         "text": "Jehovah is nigh unto them that are of a broken heart, And saveth such as are of a contrite spirit.",
         "reference": "Psalm 34:18",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "busy-doer": {
       "name": "Busy Doer",
@@ -272,7 +274,8 @@
         "text": "Come unto me, all ye that labor and are heavy laden, and I will give you rest.",
         "reference": "Matthew 11:28",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "hidden-griever": {
       "name": "Hidden Griever",
@@ -281,7 +284,8 @@
         "text": "Cast thy burden upon Jehovah, and he will sustain thee: He will never suffer the righteous to be moved.",
         "reference": "Psalm 55:22",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "grief-loss"

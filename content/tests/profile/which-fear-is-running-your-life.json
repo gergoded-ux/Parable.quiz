@@ -288,7 +288,8 @@
         "text": "For a righteous man falleth seven times, and riseth up again; But the wicked are overthrown by calamity.",
         "reference": "Proverbs 24:16",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "fear-of-rejection": {
       "name": "Fear of Rejection",
@@ -297,7 +298,8 @@
         "text": "When my father and my mother forsake me, Then Jehovah will take me up.",
         "reference": "Psalm 27:10",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "fear-of-the-unknown": {
       "name": "Fear of the Unknown",
@@ -306,7 +308,8 @@
         "text": "For I know the thoughts that I think toward you, saith Jehovah, thoughts of peace, and not of evil, to give you hope in your latter end.",
         "reference": "Jeremiah 29:11",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "fear-of-losing-someone": {
       "name": "Fear of Losing Someone",
@@ -315,7 +318,8 @@
         "text": "For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers, nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord.",
         "reference": "Romans 8:38-39",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "fear-of-not-mattering": {
       "name": "Fear of Not Mattering",
@@ -324,7 +328,8 @@
         "text": "but the very hairs of your head are all numbered. Fear not therefore: ye are of more value than many sparrows.",
         "reference": "Matthew 10:30-31",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "fear-of-death": {
       "name": "Fear of Death",
@@ -333,7 +338,8 @@
         "text": "and the Living one; and I was dead, and behold, I am alive for evermore, and I have the keys of death and of Hades.",
         "reference": "Revelation 1:18",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "fear-of-disappointing-god": {
       "name": "Fear of Disappointing God",
@@ -342,7 +348,8 @@
         "text": "Jehovah thy God is in the midst of thee, a mighty one who will save; he will rejoice over thee with joy; he will rest in his love; he will joy over thee with singing.",
         "reference": "Zephaniah 3:17",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "anxiety"

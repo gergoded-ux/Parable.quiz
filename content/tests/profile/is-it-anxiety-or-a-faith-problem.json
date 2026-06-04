@@ -258,7 +258,8 @@
         "text": "casting all your anxiety upon him, because he careth for you.",
         "reference": "1 Peter 5:7",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "a-mix": {
       "name": "A Mix You Can Untangle",
@@ -267,7 +268,8 @@
         "text": "But if any of you lacketh wisdom, let him ask of God, who giveth to all liberally and upbraideth not; and it shall be given him.",
         "reference": "James 1:5",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "spiritual-battle": {
       "name": "Mostly Spiritual Battle",
@@ -276,7 +278,8 @@
         "text": "And the peace of God, which passeth all understanding, shall guard your hearts and your thoughts in Christ Jesus.",
         "reference": "Philippians 4:7",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "seek-support": {
       "name": "Time to Seek Support",
@@ -285,7 +288,8 @@
         "text": "Bear ye one another’s burdens, and so fulfil the law of Christ.",
         "reference": "Galatians 6:2",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "too-hard-on-yourself": {
       "name": "You're Being Too Hard on Yourself",
@@ -294,7 +298,8 @@
         "text": "Like as a father pitieth his children, So Jehovah pitieth them that fear him.",
         "reference": "Psalm 103:13",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "anxiety"

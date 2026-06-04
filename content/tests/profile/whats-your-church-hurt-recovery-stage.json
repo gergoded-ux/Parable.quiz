@@ -257,7 +257,8 @@
         "text": "Jehovah is nigh unto them that are of a broken heart, And saveth such as are of a contrite spirit.",
         "reference": "Psalm 34:18",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "naming-what-happened": {
       "name": "Naming What Happened",
@@ -266,7 +267,8 @@
         "text": "and ye shall know the truth, and the truth shall make you free.",
         "reference": "John 8:32",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "setting-boundaries": {
       "name": "Setting Boundaries",
@@ -275,7 +277,8 @@
         "text": "Keep thy heart with all diligence; For out of it are the issues of life.",
         "reference": "Proverbs 4:23",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "grieving-the-loss": {
       "name": "Grieving the Loss",
@@ -284,7 +287,8 @@
         "text": "Blessed are they that mourn: for they shall be comforted.",
         "reference": "Matthew 5:4",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "rebuilding-trust": {
       "name": "Cautiously Rebuilding Trust",
@@ -293,7 +297,8 @@
         "text": "being confident of this very thing, that he who began a good work in you will perfect it until the day of Jesus Christ:",
         "reference": "Philippians 1:6",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "church-hurt"

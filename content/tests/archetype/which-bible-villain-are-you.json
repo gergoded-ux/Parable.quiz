@@ -262,7 +262,8 @@
         "text": "What are ye willing to give me, and I will deliver him unto you?",
         "reference": "Matthew 26:15",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "pharaoh": {
       "name": "The Pharaoh in You",
@@ -282,7 +283,8 @@
         "text": "Who is Jehovah, that I should hearken unto his voice?",
         "reference": "Exodus 5:2",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "jezebel": {
       "name": "The Jezebel in You",
@@ -302,7 +304,8 @@
         "text": "Then Jezebel sent a messenger unto Elijah.",
         "reference": "1 Kings 19:2",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "goliath": {
       "name": "The Goliath in You",
@@ -322,7 +325,8 @@
         "text": "And there went out a champion out of the camp of the Philistines, named Goliath.",
         "reference": "1 Samuel 17:4",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "herod": {
       "name": "The Herod in You",
@@ -342,7 +346,8 @@
         "text": "And when Herod the king heard it, he was troubled.",
         "reference": "Matthew 2:3",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     }
   }
 }

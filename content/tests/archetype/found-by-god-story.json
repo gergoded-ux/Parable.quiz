@@ -254,7 +254,8 @@
         "text": "for this my son was dead, and is alive again; he was lost, and is found. And they began to be merry.",
         "reference": "Luke 15:24",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "zacchaeus": {
       "name": "Zacchaeus in the Tree",
@@ -269,7 +270,8 @@
         "text": "And when Jesus came to the place, he looked up, and said unto him, Zacchæus, make haste, and come down; for to-day I must abide at thy house.",
         "reference": "Luke 19:5",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "lost-sheep": {
       "name": "The Lost Sheep",
@@ -284,7 +286,8 @@
         "text": "And when he cometh home, he calleth together his friends and his neighbors, saying unto them, Rejoice with me, for I have found my sheep which was lost.",
         "reference": "Luke 15:6",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "woman-at-the-well": {
       "name": "The Woman at the Well",
@@ -299,7 +302,8 @@
         "text": "Come, see a man, who told me all things that ever I did: can this be the Christ?",
         "reference": "John 4:29",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     }
   },
   "theme": "loneliness-belonging"

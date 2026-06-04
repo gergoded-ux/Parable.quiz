@@ -288,7 +288,8 @@
         "text": "Jehovah is nigh unto them that are of a broken heart, And saveth such as are of a contrite spirit.",
         "reference": "Psalm 34:18",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "snap": {
       "name": "The Snap (Fight)",
@@ -297,7 +298,8 @@
         "text": "Ye knowthis, my beloved brethren. But let every man be swift to hear, slow to speak, slow to wrath:",
         "reference": "James 1:19",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "vanish": {
       "name": "The Vanish (Flight)",
@@ -306,7 +308,8 @@
         "text": "Be strong and of good courage, fear not, nor be affrighted at them: for Jehovah thy God, he it is that doth go with thee; he will not fail thee, nor forsake thee.",
         "reference": "Deuteronomy 31:6",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "people-please": {
       "name": "The People-Please (Fawn)",
@@ -315,7 +318,8 @@
         "text": "For am I now seeking the favor of men, or of God? or am I striving to please men? if I were still pleasing men, I should not be a servant of Christ.",
         "reference": "Galatians 1:10",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "spiral": {
       "name": "The Spiral (Overthink)",
@@ -324,7 +328,8 @@
         "text": "Thou wilt keep him in perfect peace, whose mind is stayed on thee; because he trusteth in thee.",
         "reference": "Isaiah 26:3",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "healing-wounds"

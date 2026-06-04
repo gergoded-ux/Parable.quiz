@@ -265,7 +265,8 @@
         "text": "Judah is a lion's whelp.",
         "reference": "Genesis 49:9",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "levi": {
       "name": "Levi the Set-Apart",
@@ -285,7 +286,8 @@
         "text": "They shall teach Jacob thine ordinances.",
         "reference": "Deuteronomy 33:10",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "benjamin": {
       "name": "Benjamin the Beloved",
@@ -305,7 +307,8 @@
         "text": "The beloved of Jehovah shall dwell in safety by him.",
         "reference": "Deuteronomy 33:12",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "joseph": {
       "name": "Joseph the Fruitful",
@@ -325,7 +328,8 @@
         "text": "Joseph is a fruitful bough.",
         "reference": "Genesis 49:22",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "reuben": {
       "name": "Reuben the Firstborn",
@@ -345,7 +349,8 @@
         "text": "Let Reuben live, and not die.",
         "reference": "Deuteronomy 33:6",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "dan": {
       "name": "Dan the Just",
@@ -365,7 +370,8 @@
         "text": "Dan shall judge his people.",
         "reference": "Genesis 49:16",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   }
 }

@@ -259,7 +259,8 @@
         "text": "And Jesus looking upon him loved him, and said unto him, One thing thou lackest: go, sell whatsoever thou hast, and give to the poor, and thou shalt have treasure in heaven: and come, follow me.",
         "reference": "Mark 10:21",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "zacchaeus": {
       "name": "Zacchaeus",
@@ -274,7 +275,8 @@
         "text": "And Zacchæus stood, and said unto the Lord, Behold, Lord, the half of my goods I give to the poor; and if I have wrongfully exacted aught of any man, I restore fourfold.",
         "reference": "Luke 19:8",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "widow-two-coins": {
       "name": "The Widow With Two Coins",
@@ -289,7 +291,8 @@
         "text": "And he called unto him his disciples, and said unto them, Verily I say unto you, This poor widow cast in more than all they that are casting into the treasury:",
         "reference": "Mark 12:43",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "job": {
       "name": "Job",
@@ -304,7 +307,8 @@
         "text": "and he said, Naked came I out of my mother’s womb, and naked shall I return thither: Jehovah gave, and Jehovah hath taken away; blessed be the name of Jehovah.",
         "reference": "Job 1:21",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "solomon": {
       "name": "Solomon",
@@ -319,7 +323,8 @@
         "text": "He that loveth silver shall not be satisfied with silver; nor he that loveth abundance, with increase: this also is vanity.",
         "reference": "Ecclesiastes 5:10",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     }
   },
   "theme": "relationships-dating"

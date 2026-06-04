@@ -284,7 +284,8 @@
         "text": "I will give thanks unto thee; for I am fearfully and wonderfully made: Wonderful are thy works; And that my soul knoweth right well.",
         "reference": "Psalm 139:14",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "i-am-not-enough": {
       "name": "I Am Not Enough",
@@ -293,7 +294,8 @@
         "text": "And he hath said unto me, My grace is sufficient for thee: for my power is made perfect in weakness. Most gladly therefore will I rather glory in my weaknesses, that the power of Christ may rest upon me.",
         "reference": "2 Corinthians 12:9",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "if-they-knew-theyd-leave": {
       "name": "If They Knew, They'd Leave",
@@ -302,7 +304,8 @@
         "text": "O Jehovah, thou hast searched me, and knownme.",
         "reference": "Psalm 139:1",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "i-am-beyond-repair": {
       "name": "I Am Beyond Repair",
@@ -311,7 +314,8 @@
         "text": "If we confess our sins, he is faithful and righteous to forgive us our sins, and to cleanse us from all unrighteousness.",
         "reference": "1 John 1:9",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "comparison-shame"

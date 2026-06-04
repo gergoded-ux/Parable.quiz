@@ -317,7 +317,8 @@
         "text": "Draw nigh to God, and he will draw nigh to you. Cleanse your hands, ye sinners; and purify your hearts, ye doubleminded.",
         "reference": "James 4:8",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "speaking-through-scripture": {
       "name": "He's Speaking Through Scripture (not feelings)",
@@ -326,7 +327,8 @@
         "text": "Thy word is a lamp unto my feet, And light unto my path.",
         "reference": "Psalm 119:105",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "dark-night": {
       "name": "The Dark Night (deliberate withdrawal)",
@@ -335,7 +337,8 @@
         "text": "Be ye free from the love of money; content with such things as ye have: for himself hath said, I will in no wise fail thee, neither will I in any wise forsake thee.",
         "reference": "Hebrews 13:5",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "noise-crowded-him-out": {
       "name": "Noise Has Crowded Him Out",
@@ -344,7 +347,8 @@
         "text": "Be still, and know that I am God: I will be exalted among the nations, I will be exalted in the earth.",
         "reference": "Psalm 46:10",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "already-answered": {
       "name": "He Already Answered, You Didn't Recognize It",
@@ -353,7 +357,8 @@
         "text": "and thine ears shall hear a word behind thee, saying, This is the way, walk ye in it; when ye turn to the right hand, and when ye turn to the left.",
         "reference": "Isaiah 30:21",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "doubt-faith"

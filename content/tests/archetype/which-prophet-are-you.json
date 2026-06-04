@@ -258,7 +258,8 @@
         "Bold"
       ],
       "description": "You've seen the throne room, even just a glimpse of it, and now small living won't satisfy you anymore. When God asks who'll go, your hand is already up.",
-      "scriptureRef": "isa-6-8"
+      "scriptureRef": "isa-6-8",
+      "rewardArt": "character"
     },
     "jeremiah": {
       "name": "Jeremiah the Weeping Prophet",
@@ -269,7 +270,8 @@
         "Persistent"
       ],
       "description": "You feel everything God feels about the people. You try to stay quiet, but His word burns in your bones. You couldn't stop speaking even if you wanted to.",
-      "scriptureRef": "jer-20-9"
+      "scriptureRef": "jer-20-9",
+      "rewardArt": "character"
     },
     "ezekiel": {
       "name": "Ezekiel the Visionary",
@@ -280,7 +282,8 @@
         "Hope-filled"
       ],
       "description": "Your imagination is wired for what God can resurrect. You look at dry bones and start prophesying anyway, because you trust the breath is coming.",
-      "scriptureRef": "ezek-37-5"
+      "scriptureRef": "ezek-37-5",
+      "rewardArt": "character"
     },
     "daniel": {
       "name": "Daniel the Steady",
@@ -291,7 +294,8 @@
         "Prayerful"
       ],
       "description": "You hold the line quietly. In rooms that don't share your values, you keep your window open toward home, and God closes the lions' mouths.",
-      "scriptureRef": "dan-6-10"
+      "scriptureRef": "dan-6-10",
+      "rewardArt": "character"
     },
     "hosea": {
       "name": "Hosea the Heartbroken",
@@ -302,7 +306,8 @@
         "Forgiving"
       ],
       "description": "You preach with the shape of your life. You've kept loving the very thing that walked out on you, and that's exactly how God says He loves us.",
-      "scriptureRef": "hos-6-6"
+      "scriptureRef": "hos-6-6",
+      "rewardArt": "character"
     },
     "jonah": {
       "name": "Jonah the Runner",
@@ -313,7 +318,8 @@
         "Faithful in the end"
       ],
       "description": "You'll run a long way before you obey. Deep down you knew God was going to be merciful, and honestly, that made you mad. But the mercy chasing everyone else is chasing you too.",
-      "scriptureRef": "jonah-4-2"
+      "scriptureRef": "jonah-4-2",
+      "rewardArt": "character"
     },
     "elijah": {
       "name": "Elijah at the Cave",
@@ -324,7 +330,8 @@
         "Listening"
       ],
       "description": "You've called down fire and then collapsed under a tree. God meets you out in the wilderness with food and rest, and then a whisper instead of a shout.",
-      "scriptureRef": "1-kgs-19-12"
+      "scriptureRef": "1-kgs-19-12",
+      "rewardArt": "character"
     }
   },
   "theme": "scripture-archetype"

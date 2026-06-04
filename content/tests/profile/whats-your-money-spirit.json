@@ -290,7 +290,8 @@
         "text": "Lay not up for yourselves treasures upon the earth, where moth and rust consume, and where thieves break through and steal: but lay up for yourselves treasures in heaven, where neither moth nor rust doth consume, and where thieves do not break through nor steal:",
         "reference": "Matthew 6:19-20",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "giver": {
       "name": "The Giver",
@@ -299,7 +300,8 @@
         "text": "Let each man do according as he hath purposed in his heart: not grudgingly, or of necessity: for God loveth a cheerful giver.",
         "reference": "2 Corinthians 9:7",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "worrier": {
       "name": "The Worrier",
@@ -308,7 +310,8 @@
         "text": "Therefore I say unto you, Be not anxious for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. Is not the life more than the food, and the body than the raiment?",
         "reference": "Matthew 6:25",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "free-spender": {
       "name": "The Free Spender",
@@ -317,7 +320,8 @@
         "text": "But the fruit of the Spirit is love, joy, peace, longsuffering, kindness, goodness, faithfulness, meekness, self-control; against such there is no law.",
         "reference": "Galatians 5:22-23",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "steward": {
       "name": "The Steward",
@@ -326,7 +330,8 @@
         "text": "Here, moreover, it is required in stewards, that a man be found faithful.",
         "reference": "1 Corinthians 4:2",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "money-work"

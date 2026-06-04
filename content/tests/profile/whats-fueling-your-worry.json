@@ -258,7 +258,8 @@
         "text": "Be not therefore anxious for the morrow: for the morrow will be anxious for itself. Sufficient unto the day is the evil thereof.",
         "reference": "Matthew 6:34",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "fear-of-losing-control": {
       "name": "Fear of Losing Control",
@@ -267,7 +268,8 @@
         "text": "In nothing be anxious; but in everything by prayer and supplication with thanksgiving let your requests be made known unto God.",
         "reference": "Philippians 4:6",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "fear-of-not-being-enough": {
       "name": "Fear of Not Being Enough",
@@ -276,7 +278,8 @@
         "text": "And he hath said unto me, My grace is sufficient for thee: for my power is made perfect in weakness. Most gladly therefore will I rather glory in my weaknesses, that the power of Christ may rest upon me.",
         "reference": "2 Corinthians 12:9",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "fear-of-abandonment": {
       "name": "Fear of Abandonment",
@@ -285,7 +288,8 @@
         "text": "Be ye free from the love of money; content with such things as ye have: for himself hath said, I will in no wise fail thee, neither will I in any wise forsake thee.",
         "reference": "Hebrews 13:5",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "fear-of-worst": {
       "name": "Fear of the Worst Happening",
@@ -294,7 +298,8 @@
         "text": "What time I am afraid, I will put my trust in thee.",
         "reference": "Psalm 56:3",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "fear-of-failing-god": {
       "name": "Fear of Failing God",
@@ -303,7 +308,8 @@
         "text": "There is therefore now no condemnation to them that are in Christ Jesus.",
         "reference": "Romans 8:1",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "anxiety"

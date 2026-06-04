@@ -286,7 +286,8 @@
         "text": "Wherefore if any man is in Christ, he is a new creature: the old things are passed away; behold, they are become new.",
         "reference": "2 Corinthians 5:17",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "reluctant-cycle-breaker": {
       "name": "Reluctant Cycle Breaker",
@@ -295,7 +296,8 @@
         "text": "And he hath said unto me, My grace is sufficient for thee: for my power is made perfect in weakness. Most gladly therefore will I rather glory in my weaknesses, that the power of Christ may rest upon me.",
         "reference": "2 Corinthians 12:9",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "healing-but-tired": {
       "name": "Healing-but-Tired",
@@ -304,7 +306,8 @@
         "text": "Come unto me, all ye that labor and are heavy laden, and I will give you rest.",
         "reference": "Matthew 11:28",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "still-in-the-cycle": {
       "name": "Still-in-the-Cycle",
@@ -313,7 +316,8 @@
         "text": "I can do all things in him that strengtheneth me.",
         "reference": "Philippians 4:13",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "healing-wounds"

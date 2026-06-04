@@ -163,7 +163,8 @@
         "text": "Jehovah hath looked upon my affliction.",
         "reference": "Genesis 29:32",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "rachel": {
       "name": "Rachel (loved but striving)",
@@ -183,7 +184,8 @@
         "text": "I will in no wise fail thee, neither forsake thee.",
         "reference": "Hebrews 13:5",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     }
   },
   "theme": "comparison-shame"

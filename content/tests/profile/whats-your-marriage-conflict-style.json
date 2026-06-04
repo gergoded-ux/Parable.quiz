@@ -286,7 +286,8 @@
         "text": "Ye knowthis, my beloved brethren. But let every man be swift to hear, slow to speak, slow to wrath:",
         "reference": "James 1:19",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "pursuer": {
       "name": "The Pursuer",
@@ -295,7 +296,8 @@
         "text": "A soft answer turneth away wrath; But a grievous word stirreth up anger.",
         "reference": "Proverbs 15:1",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "peacemaker": {
       "name": "The Peacemaker",
@@ -304,7 +306,8 @@
         "text": "but speaking truth in love, may grow up in all things into him, who is the head, even Christ;",
         "reference": "Ephesians 4:15",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "score-keeper": {
       "name": "The Score-Keeper",
@@ -313,7 +316,8 @@
         "text": "Love suffereth long, and is kind; love envieth not; love vaunteth not itself, is not puffed up, doth not behave itself unseemly, seeketh not its own, is not provoked, taketh not account of evil;",
         "reference": "1 Corinthians 13:4-5",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "avoider": {
       "name": "The Avoider",
@@ -322,7 +326,8 @@
         "text": "Be ye angry, and sin not: let not the sun go down upon your wrath:",
         "reference": "Ephesians 4:26",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "relationships-dating"

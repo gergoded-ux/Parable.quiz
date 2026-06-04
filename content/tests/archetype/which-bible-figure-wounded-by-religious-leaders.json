@@ -291,7 +291,8 @@
         "text": "Jesus heard that they had cast him out; and finding him, he said, Dost thou believe on the Son of God?",
         "reference": "John 9:35",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "jeremiah": {
       "name": "Jeremiah",
@@ -306,7 +307,8 @@
         "text": "But Jehovah is with me as a mighty one and a terrible: therefore my persecutors shall stumble, and they shall not prevail; they shall be utterly put to shame, because they have not dealt wisely, even with an everlasting dishonor which shall never be forgotten.",
         "reference": "Jeremiah 20:11",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "david": {
       "name": "David",
@@ -321,7 +323,8 @@
         "text": "Jehovah judge between me and thee, and Jehovah avenge me of thee; but my hand shall not be upon thee.",
         "reference": "1 Samuel 24:12",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "hannah": {
       "name": "Hannah",
@@ -336,7 +339,8 @@
         "text": "And she was in bitterness of soul, and prayed unto Jehovah, and wept sore.",
         "reference": "1 Samuel 1:10",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "jesus": {
       "name": "Jesus Himself",
@@ -351,7 +355,8 @@
         "text": "He was despised, and rejected of men; a man of sorrows, and acquainted with grief: and as one from whom men hide their face he was despised; and we esteemed him not.",
         "reference": "Isaiah 53:3",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     }
   },
   "theme": "church-hurt"

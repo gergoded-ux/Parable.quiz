@@ -258,7 +258,8 @@
         "text": "In nothing be anxious; but in everything by prayer and supplication with thanksgiving let your requests be made known unto God. And the peace of God, which passeth all understanding, shall guard your hearts and your thoughts in Christ Jesus.",
         "reference": "Philippians 4:6-7",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "matthew-6": {
       "name": "Matthew 6:34 (Worried About Tomorrow)",
@@ -267,7 +268,8 @@
         "text": "Be not therefore anxious for the morrow: for the morrow will be anxious for itself. Sufficient unto the day is the evil thereof.",
         "reference": "Matthew 6:34",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "first-peter-5": {
       "name": "1 Peter 5:7 (Carrying Too Much)",
@@ -276,7 +278,8 @@
         "text": "casting all your anxiety upon him, because he careth for you.",
         "reference": "1 Peter 5:7",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "isaiah-41": {
       "name": "Isaiah 41:10 (Scared and Alone)",
@@ -285,7 +288,8 @@
         "text": "fear thou not, for I am with thee; be not dismayed, for I am thy God; I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness.",
         "reference": "Isaiah 41:10",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "psalm-94": {
       "name": "Psalm 94:19 (Spiraling Thoughts)",
@@ -294,7 +298,8 @@
         "text": "In the multitude of my thoughts within me Thy comforts delight my soul.",
         "reference": "Psalm 94:19",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "john-14": {
       "name": "John 14:27 (Can't Find Peace)",
@@ -303,7 +308,8 @@
         "text": "Peace I leave with you; my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be fearful.",
         "reference": "John 14:27",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "psalm-56": {
       "name": "Psalm 56:3 (Afraid Right Now)",
@@ -312,7 +318,8 @@
         "text": "What time I am afraid, I will put my trust in thee.",
         "reference": "Psalm 56:3",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "anxiety"

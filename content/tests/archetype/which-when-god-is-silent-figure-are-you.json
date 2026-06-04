@@ -261,7 +261,8 @@
         "text": "Behold, he will slay me; I have no hope: Nevertheless I will maintain my ways before him.",
         "reference": "Job 13:15",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "habakkuk": {
       "name": "Habakkuk",
@@ -276,7 +277,8 @@
         "text": "I will stand upon my watch, and set me upon the tower, and will look forth to see what he will speak with me, and what I shall answer concerning my complaint.",
         "reference": "Habakkuk 2:1",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "asaph": {
       "name": "Asaph",
@@ -291,7 +293,8 @@
         "text": "Whom have I in heavenbut thee? And there is none upon earth that I desire besides thee.",
         "reference": "Psalm 73:25",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "hannah": {
       "name": "Hannah",
@@ -306,7 +309,8 @@
         "text": "And Hannah answered and said, No, my lord, I am a woman of a sorrowful spirit: I have drunk neither wine nor strong drink, but I poured out my soul before Jehovah.",
         "reference": "1 Samuel 1:15",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "elijah": {
       "name": "Elijah",
@@ -321,7 +325,8 @@
         "text": "and after the earthquake a fire; but Jehovah was not in the fire: and after the fire a still small voice.",
         "reference": "1 Kings 19:12",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "david-in-the-cave": {
       "name": "David in the Cave",
@@ -336,7 +341,8 @@
         "text": "I cried unto thee, O Jehovah; I said, Thou art my refuge, My portion in the land of the living.",
         "reference": "Psalm 142:5",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     }
   },
   "theme": "doubt-faith"

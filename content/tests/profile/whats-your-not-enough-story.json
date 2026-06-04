@@ -285,7 +285,8 @@
         "text": "but God chose the foolish things of the world, that he might put to shame them that are wise; and God chose the weak things of the world, that he might put to shame the things that are strong;",
         "reference": "1 Corinthians 1:27",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "not-holy-enough": {
       "name": "Not Holy Enough",
@@ -294,7 +295,8 @@
         "text": "But God commendeth his own love toward us, in that, while we were yet sinners, Christ died for us.",
         "reference": "Romans 5:8",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "not-successful-enough": {
       "name": "Not Successful Enough",
@@ -303,7 +305,8 @@
         "text": "Jehovah thy God is in the midst of thee, a mighty one who will save; he will rejoice over thee with joy; he will rest in his love; he will joy over thee with singing.",
         "reference": "Zephaniah 3:17",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "not-wanted-enough": {
       "name": "Not Wanted Enough",
@@ -312,7 +315,8 @@
         "text": "even as he chose us in him before the foundation of the world, that we should be holy and without blemish before him in love:",
         "reference": "Ephesians 1:4",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "comparison-shame"

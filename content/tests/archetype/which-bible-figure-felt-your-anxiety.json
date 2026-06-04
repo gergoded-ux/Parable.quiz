@@ -294,7 +294,8 @@
         "text": "But the Lord answered and said unto her, Martha, Martha, thou art anxious and troubled about many things: but one thing is needful: for Mary hath chosen the good part, which shall not be taken away from her.",
         "reference": "Luke 10:41-42",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "david": {
       "name": "David",
@@ -309,7 +310,8 @@
         "text": "What time I am afraid, I will put my trust in thee.",
         "reference": "Psalm 56:3",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "hannah": {
       "name": "Hannah",
@@ -324,7 +326,8 @@
         "text": "Count not thy handmaid for a wicked woman; for out of the abundance of my complaint and my provocation have I spoken hitherto.",
         "reference": "1 Samuel 1:16",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "peter": {
       "name": "Peter",
@@ -339,7 +342,8 @@
         "text": "And immediately Jesus stretched forth his hand, and took hold of him, and saith unto him, O thou of little faith, wherefore didst thou doubt?",
         "reference": "Matthew 14:31",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "elijah": {
       "name": "Elijah",
@@ -354,7 +358,8 @@
         "text": "But he himself went a day’s journey into the wilderness, and came and sat down under a juniper-tree: and he requested for himself that he might die, and said, It is enough; now, O Jehovah, take away my life; for I am not better than my fathers. And he lay down and slept under a juniper-tree; and, behold, an angel touched him, and said unto him, Arise and eat.",
         "reference": "1 Kings 19:4-5",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "job": {
       "name": "Job",
@@ -369,7 +374,8 @@
         "text": "But he knoweth the way that I take; When he hath tried me, I shall come forth as gold.",
         "reference": "Job 23:10",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "jonah": {
       "name": "Jonah",
@@ -384,7 +390,8 @@
         "text": "And he said, I called by reason of mine affliction unto Jehovah, And he answered me; Out of the belly of Sheol cried I, And thou heardest my voice.",
         "reference": "Jonah 2:2",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     }
   },
   "theme": "anxiety"

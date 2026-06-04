@@ -284,7 +284,8 @@
         "text": "And as for you, ye meant evil against me; but God meant it for good, to bring to pass, as it is this day, to save much people alive.",
         "reference": "Genesis 50:20",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "naomi": {
       "name": "Naomi (Bitter, Then Renamed)",
@@ -299,7 +300,8 @@
         "text": "And the women said unto Naomi, Blessed be Jehovah, who hath not left thee this day without a near kinsman; and let his name be famous in Israel.",
         "reference": "Ruth 4:14",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "bleeding-woman": {
       "name": "The Bleeding Woman (Suffering, Then Touched)",
@@ -314,7 +316,8 @@
         "text": "And he said unto her, Daughter, thy faith hath made thee whole; go in peace, and be whole of thy plague.",
         "reference": "Mark 5:34",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "mephibosheth": {
       "name": "Mephibosheth (Crippled, Then Seated at the Table)",
@@ -329,7 +332,8 @@
         "text": "And David said unto him, Fear not; for I will surely show thee kindness for Jonathan thy father’s sake, and will restore thee all the land of Saul thy father; and thou shalt eat bread at my table continually.",
         "reference": "2 Samuel 9:7",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "paul": {
       "name": "Paul (The Persecutor Made Apostle)",
@@ -344,7 +348,8 @@
         "text": "Faithful is the saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief:",
         "reference": "1 Timothy 1:15",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "hagar": {
       "name": "Hagar (Cast Out, Seen by God)",
@@ -359,7 +364,8 @@
         "text": "And she called the name of Jehovah that spake unto her, Thou art a God that seeth: for she said, Have I even here looked after him that seeth me?",
         "reference": "Genesis 16:13",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     }
   },
   "theme": "healing-wounds"

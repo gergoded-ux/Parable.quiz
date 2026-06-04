@@ -285,7 +285,8 @@
         "text": "Then saith he to Thomas, Reach hither thy finger, and see my hands; and reach hither thy hand, and put it into my side: and be not faithless, but believing.",
         "reference": "John 20:27",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "john-the-baptist": {
       "name": "John the Baptist in prison (are you the one?)",
@@ -300,7 +301,8 @@
         "text": "and said unto him, Art thou he that cometh, or look we for another?",
         "reference": "Matthew 11:3",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "gideon": {
       "name": "Gideon (lays out a fleece)",
@@ -315,7 +317,8 @@
         "text": "And the angel of Jehovah appeared unto him, and said unto him, Jehovah is with thee, thou mighty man of valor.",
         "reference": "Judges 6:12",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "mark-9-father": {
       "name": "The father of Mark 9 (help my unbelief)",
@@ -330,7 +333,8 @@
         "text": "Straightway the father of the child cried out, and said, I believe; help thou mine unbelief.",
         "reference": "Mark 9:24",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "job": {
       "name": "Job (demands an answer)",
@@ -345,7 +349,8 @@
         "text": "Behold, he will slay me; I have no hope: Nevertheless I will maintain my ways before him.",
         "reference": "Job 13:15",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "sarah": {
       "name": "Sarah (laughs in disbelief)",
@@ -360,7 +365,8 @@
         "text": "Is anything too hard for Jehovah? At the set time I will return unto thee, when the season cometh round, and Sarah shall have a son.",
         "reference": "Genesis 18:14",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     }
   },
   "theme": "doubt-faith"

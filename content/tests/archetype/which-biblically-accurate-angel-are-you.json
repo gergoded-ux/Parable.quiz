@@ -262,7 +262,8 @@
         "text": "Holy, holy, holy, is Jehovah of hosts: the whole earth is full of his glory.",
         "reference": "Isaiah 6:3",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "creature"
     },
     "cherubim": {
       "name": "The Cherubim",
@@ -282,7 +283,8 @@
         "text": "The flame of a sword which turned every way, to keep the way of the tree of life.",
         "reference": "Genesis 3:24",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "creature"
     },
     "ophanim": {
       "name": "The Ophanim (Wheels)",
@@ -302,7 +304,8 @@
         "text": "Whithersoever the spirit was to go, they went.",
         "reference": "Ezekiel 1:20",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "creature"
     },
     "michael": {
       "name": "Michael the Archangel",
@@ -322,7 +325,8 @@
         "text": "Michael, one of the chief princes, came to help me.",
         "reference": "Daniel 10:13",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "creature"
     },
     "gabriel": {
       "name": "Gabriel the Messenger",
@@ -342,7 +346,8 @@
         "text": "I am Gabriel, that stand in the presence of God.",
         "reference": "Luke 1:19",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "creature"
     }
   }
 }

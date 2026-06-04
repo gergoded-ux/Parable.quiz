@@ -257,7 +257,8 @@
         "text": "He maketh me to lie down in green pastures; He leadeth me beside still waters. He restoreth my soul: He guideth me in the paths of righteousness for his name’s sake.",
         "reference": "Psalm 23:2-3",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "hidden-sin-static": {
       "name": "Hidden Sin Static",
@@ -266,7 +267,8 @@
         "text": "If we confess our sins, he is faithful and righteous to forgive us our sins, and to cleanse us from all unrighteousness.",
         "reference": "1 John 1:9",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "dark-night": {
       "name": "The Dark Night (God is weaning, not leaving)",
@@ -275,7 +277,8 @@
         "text": "When thou passest through the waters, I will be with thee; and through the rivers, they shall not overflow thee: when thou walkest through the fire, thou shalt not be burned, neither shall the flame kindle upon thee.",
         "reference": "Isaiah 43:2",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "distraction-drift": {
       "name": "Distraction Drift",
@@ -284,7 +287,8 @@
         "text": "Be still, and know that I am God: I will be exalted among the nations, I will be exalted in the earth.",
         "reference": "Psalm 46:10",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "unprocessed-grief": {
       "name": "Unprocessed Grief",
@@ -293,7 +297,8 @@
         "text": "Thou numberest my wanderings: Put thou my tears into thy bottle; Are they not in thy book?",
         "reference": "Psalm 56:8",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "doubt-faith"

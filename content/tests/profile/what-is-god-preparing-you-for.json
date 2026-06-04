@@ -286,7 +286,8 @@
         "text": "His lord said unto him, Well done, good and faithful servant: thou hast been faithful over a few things, I will set thee over many things; enter thou into the joy of thy lord.",
         "reference": "Matthew 25:21",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "season-of-rest": {
       "name": "A Season of Rest",
@@ -295,7 +296,8 @@
         "text": "Come unto me, all ye that labor and are heavy laden, and I will give you rest.",
         "reference": "Matthew 11:28",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "hidden-influence": {
       "name": "A Hidden Influence",
@@ -304,7 +306,8 @@
         "text": "For if thou altogether holdest thy peace at this time, then will relief and deliverance arise to the Jews from another place, but thou and thy father’s house will perish: and who knoweth whether thou art not come to the kingdom for such a time as this?",
         "reference": "Esther 4:14",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "hard-but-holy-calling": {
       "name": "A Hard but Holy Calling",
@@ -313,7 +316,8 @@
         "text": "I can do all things in him that strengtheneth me.",
         "reference": "Philippians 4:13",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "cant-see-yet": {
       "name": "Something You Can't See Yet",
@@ -322,7 +326,8 @@
         "text": "(for we walk by faith, not by sight);",
         "reference": "2 Corinthians 5:7",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "calling-purpose"

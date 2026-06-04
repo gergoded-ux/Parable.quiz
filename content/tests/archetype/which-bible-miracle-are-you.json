@@ -264,7 +264,8 @@
         "text": "And manifested his glory; and his disciples believed on him.",
         "reference": "John 2:11",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "scene"
     },
     "storm": {
       "name": "Calming the Storm",
@@ -284,7 +285,8 @@
         "text": "Peace, be still.",
         "reference": "Mark 4:39",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "scene"
     },
     "walking": {
       "name": "Walking on Water",
@@ -304,7 +306,8 @@
         "text": "Be of good cheer; it is I; be not afraid.",
         "reference": "Matthew 14:27",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "scene"
     },
     "feeding": {
       "name": "Feeding the 5000",
@@ -324,7 +327,8 @@
         "text": "And filled twelve baskets with broken pieces.",
         "reference": "John 6:13",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "scene"
     },
     "lazarus": {
       "name": "Raising Lazarus",
@@ -344,7 +348,8 @@
         "text": "Lazarus, come forth.",
         "reference": "John 11:43",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "scene"
     }
   }
 }

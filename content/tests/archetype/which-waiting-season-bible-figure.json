@@ -286,7 +286,8 @@
         "text": "The keeper of the prison looked not to anything that was under his hand, because Jehovah was with him; and that which he did, Jehovah made it to prosper.",
         "reference": "Genesis 39:23",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "david": {
       "name": "David Anointed but Not Yet King",
@@ -301,7 +302,8 @@
         "text": "Wait for Jehovah: Be strong, and let thy heart take courage; Yea, wait thou for Jehovah.",
         "reference": "Psalm 27:14",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "abraham": {
       "name": "Abraham Waiting for Isaac",
@@ -316,7 +318,8 @@
         "text": "Who in hope believed against hope, to the end that he might become a father of many nations, according to that which had been spoken, So shall thy seed be.",
         "reference": "Romans 4:18",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "moses": {
       "name": "Moses in Midian",
@@ -331,7 +334,8 @@
         "text": "Be still, and know that I am God: I will be exalted among the nations, I will be exalted in the earth.",
         "reference": "Psalm 46:10",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "hannah": {
       "name": "Hannah Praying for a Child",
@@ -346,7 +350,8 @@
         "text": "For this child I prayed; and Jehovah hath given me my petition which I asked of him:",
         "reference": "1 Samuel 1:27",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "sarah": {
       "name": "Sarah Past Hope",
@@ -361,7 +366,8 @@
         "text": "Is anything too hard for Jehovah? At the set time I will return unto thee, when the season cometh round, and Sarah shall have a son.",
         "reference": "Genesis 18:14",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     }
   },
   "theme": "calling-purpose"

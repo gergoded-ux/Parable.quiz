@@ -255,7 +255,8 @@
         "Trusting"
       ],
       "description": "You need to be led, not driven. God is gently asking you to lie down in green pastures and stop performing for a while. He'll restore what's run dry.",
-      "scriptureRef": "ps-23-1"
+      "scriptureRef": "ps-23-1",
+      "rewardArt": "symbol"
     },
     "psalm-51": {
       "name": "Psalm 51: The Repentance Psalm",
@@ -266,7 +267,8 @@
         "Hopeful"
       ],
       "description": "You know exactly where you've fallen, and you're not making excuses for it. Here's the good news: God specializes in clean hearts and fresh starts. He's already running toward you.",
-      "scriptureRef": "ps-51-1"
+      "scriptureRef": "ps-51-1",
+      "rewardArt": "symbol"
     },
     "psalm-91": {
       "name": "Psalm 91: The Hiding Place",
@@ -277,7 +279,8 @@
         "Held"
       ],
       "description": "You need a hiding place, and there is one. Underneath everything you're walking through is the shadow of the Almighty. He covers you when you can't cover yourself.",
-      "scriptureRef": "ps-91-1"
+      "scriptureRef": "ps-91-1",
+      "rewardArt": "symbol"
     },
     "psalm-139": {
       "name": "Psalm 139: The Searched Psalm",
@@ -288,7 +291,8 @@
         "Reassured"
       ],
       "description": "You long to be fully known and still wanted. You are. Every dark corner, every hidden joy. He searched the whole of you and stayed.",
-      "scriptureRef": "ps-139-1"
+      "scriptureRef": "ps-139-1",
+      "rewardArt": "symbol"
     },
     "psalm-119": {
       "name": "Psalm 119: The Word Lover",
@@ -299,7 +303,8 @@
         "Anchored"
       ],
       "description": "You're hungry for the Word the way you'd be hungry for bread. You need direction, and God lights up the very next step. That's all you have to walk by for now.",
-      "scriptureRef": "ps-119-105"
+      "scriptureRef": "ps-119-105",
+      "rewardArt": "symbol"
     },
     "psalm-121": {
       "name": "Psalm 121: The Lifted Eyes",
@@ -310,7 +315,8 @@
         "Helped"
       ],
       "description": "You're looking up for help, and you're looking in the right direction. The Maker of heaven and earth is your keeper. He doesn't doze off, and He doesn't quit.",
-      "scriptureRef": "ps-121-1"
+      "scriptureRef": "ps-121-1",
+      "rewardArt": "symbol"
     },
     "psalm-27": {
       "name": "Psalm 27: The Courage Psalm",
@@ -321,7 +327,8 @@
         "Anchored"
       ],
       "description": "Fear is on the table, but it's not the loudest thing in the room anymore. The Lord is your light. Once you see Him, the thing you were scared of starts to look a lot smaller.",
-      "scriptureRef": "ps-27-1"
+      "scriptureRef": "ps-27-1",
+      "rewardArt": "symbol"
     },
     "psalm-46": {
       "name": "Psalm 46: Be Still",
@@ -332,7 +339,8 @@
         "Anchored"
       ],
       "description": "You don't need a strategy right now. You need stillness. God gets louder the moment you stop. Be still, and let Him be God for a minute.",
-      "scriptureRef": "ps-46-10"
+      "scriptureRef": "ps-46-10",
+      "rewardArt": "symbol"
     }
   },
   "theme": "scripture-archetype"

@@ -262,7 +262,8 @@
         "text": "The waters which are in the river, and they shall be turned to blood.",
         "reference": "Exodus 7:17",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "scene"
     },
     "frogs": {
       "name": "The Plague of Frogs",
@@ -282,7 +283,8 @@
         "text": "The frogs came up, and covered the land of Egypt.",
         "reference": "Exodus 8:6",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "scene"
     },
     "darkness": {
       "name": "The Plague of Darkness",
@@ -302,7 +304,8 @@
         "text": "There was a thick darkness in all the land of Egypt three days.",
         "reference": "Exodus 10:22",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "scene"
     },
     "hail": {
       "name": "The Plague of Hail",
@@ -322,7 +325,8 @@
         "text": "Jehovah sent thunder and hail, and fire ran down unto the earth.",
         "reference": "Exodus 9:23",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "scene"
     },
     "locusts": {
       "name": "The Plague of Locusts",
@@ -342,7 +346,8 @@
         "text": "The east wind brought the locusts.",
         "reference": "Exodus 10:13",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "scene"
     },
     "firstborn": {
       "name": "The Final Plague",
@@ -362,7 +367,8 @@
         "text": "And it came to pass at midnight, that Jehovah smote all the first-born in the land of Egypt.",
         "reference": "Exodus 12:29",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "scene"
     }
   },
   "theme": "scripture-archetype"

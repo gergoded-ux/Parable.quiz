@@ -315,7 +315,8 @@
         "text": "Whoso findeth a wife findeth a good thing, And obtaineth favor of Jehovah.",
         "reference": "Proverbs 18:22",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "yellow-pray-and-watch": {
       "name": "Yellow: Pray and Watch",
@@ -324,7 +325,8 @@
         "text": "The simple believeth every word; But the prudent man looketh well to his going.",
         "reference": "Proverbs 14:15",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "red-walk-away": {
       "name": "Red: Walk Away",
@@ -333,7 +335,8 @@
         "text": "Keep thy heart with all diligence; For out of it are the issues of life.",
         "reference": "Proverbs 4:23",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "not-yet-keep-growing": {
       "name": "Not Yet: Keep Growing",
@@ -342,7 +345,8 @@
         "text": "For everything there is a season, and a time for every purpose under heaven:",
         "reference": "Ecclesiastes 3:1",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "relationships-dating"

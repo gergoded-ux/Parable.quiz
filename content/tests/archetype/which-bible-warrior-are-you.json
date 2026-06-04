@@ -265,7 +265,8 @@
         "text": "Be strong and of good courage; be not affrighted, neither be thou dismayed.",
         "reference": "Joshua 1:9",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "gideon": {
       "name": "Gideon the Unlikely",
@@ -285,7 +286,8 @@
         "text": "Jehovah is with thee, thou mighty man of valor.",
         "reference": "Judges 6:12",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "david": {
       "name": "David the Giant-Slayer",
@@ -305,7 +307,8 @@
         "text": "I come to thee in the name of Jehovah of hosts.",
         "reference": "1 Samuel 17:45",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "samson": {
       "name": "Samson the Strong",
@@ -325,7 +328,8 @@
         "text": "Remember me, I pray thee, and strengthen me, I pray thee, only this once.",
         "reference": "Judges 16:28",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "deborah": {
       "name": "Deborah the Leader",
@@ -345,7 +349,8 @@
         "text": "Is not Jehovah gone out before thee?",
         "reference": "Judges 4:14",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     }
   },
   "theme": "scripture-archetype"

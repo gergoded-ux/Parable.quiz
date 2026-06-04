@@ -287,7 +287,8 @@
         "text": "Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls.",
         "reference": "Matthew 11:29",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "performance-mode": {
       "name": "Performance Mode",
@@ -296,7 +297,8 @@
         "text": "This people honoreth me with their lips; But their heart is far from me.",
         "reference": "Matthew 15:8",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "comfortable-coasting": {
       "name": "Comfortable Coasting",
@@ -305,7 +307,8 @@
         "text": "But I have this against thee, that thou didst leave thy first love.",
         "reference": "Revelation 2:4",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "numb-but-showing-up": {
       "name": "Numb but Showing Up",
@@ -314,7 +317,8 @@
         "text": "Behold, he will slay me; I have no hope: Nevertheless I will maintain my ways before him.",
         "reference": "Job 13:15",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "genuinely-resting": {
       "name": "Genuinely Resting (It's Okay)",
@@ -323,7 +327,8 @@
         "text": "Abide in me, and I in you. As the branch cannot bear fruit of itself, except it abide in the vine; so neither can ye, except ye abide in me.",
         "reference": "John 15:4",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "rest-burnout"

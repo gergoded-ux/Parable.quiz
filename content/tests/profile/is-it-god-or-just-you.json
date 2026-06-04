@@ -287,7 +287,8 @@
         "text": "and thine ears shall hear a word behind thee, saying, This is the way, walk ye in it; when ye turn to the right hand, and when ye turn to the left.",
         "reference": "Isaiah 30:21",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "your-own-desire": {
       "name": "Mostly Your Own Desire",
@@ -296,7 +297,8 @@
         "text": "Delight thyself also in Jehovah; And he will give thee the desires of thy heart.",
         "reference": "Psalm 37:4",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "healthy-mix": {
       "name": "A Healthy Mix",
@@ -305,7 +307,8 @@
         "text": "Commit thy works unto Jehovah, And thy purposes shall be established.",
         "reference": "Proverbs 16:3",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "too-tangled": {
       "name": "Too Tangled to Tell Yet",
@@ -314,7 +317,8 @@
         "text": "But if any of you lacketh wisdom, let him ask of God, who giveth to all liberally and upbraideth not; and it shall be given him.",
         "reference": "James 1:5",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "hearing-god"

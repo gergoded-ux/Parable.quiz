@@ -258,7 +258,8 @@
         "text": "and he said, Naked came I out of my mother’s womb, and naked shall I return thither: Jehovah gave, and Jehovah hath taken away; blessed be the name of Jehovah.",
         "reference": "Job 1:21",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "naomi": {
       "name": "Naomi (Turned Bitter)",
@@ -273,7 +274,8 @@
         "text": "And she said unto them, Call me not Naomi, call me Mara; for the Almighty hath dealt very bitterly with me.",
         "reference": "Ruth 1:20",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "david": {
       "name": "David (Wept for His Child)",
@@ -288,7 +290,8 @@
         "text": "But now he is dead, wherefore should I fast? can I bring him back again? I shall go to him, but he will not return to me.",
         "reference": "2 Samuel 12:23",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "mary-and-martha": {
       "name": "Mary and Martha (Where Were You, Lord?)",
@@ -303,7 +306,8 @@
         "text": "Martha therefore said unto Jesus, Lord, if thou hadst been here, my brother had not died.",
         "reference": "John 11:21",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "jesus": {
       "name": "Jesus (Wept at the Tomb)",
@@ -318,7 +322,8 @@
         "text": "Jesus wept.",
         "reference": "John 11:35",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     }
   },
   "theme": "grief-loss"

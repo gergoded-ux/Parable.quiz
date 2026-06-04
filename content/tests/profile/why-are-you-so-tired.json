@@ -257,7 +257,8 @@
         "text": "He restoreth my soul: He guideth me in the paths of righteousness for his name’s sake.",
         "reference": "Psalm 23:3",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "people-pleasing-drain": {
       "name": "People-Pleasing Drain",
@@ -266,7 +267,8 @@
         "text": "For am I now seeking the favor of men, or of God? or am I striving to please men? if I were still pleasing men, I should not be a servant of Christ.",
         "reference": "Galatians 1:10",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "hustle-burnout": {
       "name": "Hustle Burnout",
@@ -275,7 +277,8 @@
         "text": "It is vain for you to rise up early, To take rest late, To eat the bread of toil; Forso he giveth unto his beloved sleep.",
         "reference": "Psalm 127:2",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "carrying-others-weight": {
       "name": "Carrying Others' Weight",
@@ -284,7 +287,8 @@
         "text": "casting all your anxiety upon him, because he careth for you.",
         "reference": "1 Peter 5:7",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "decision-fatigue": {
       "name": "Decision Fatigue",
@@ -293,7 +297,8 @@
         "text": "Trust in Jehovah with all thy heart, And lean not upon thine own understanding: In all thy ways acknowledge him, And he will direct thy paths.",
         "reference": "Proverbs 3:5-6",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "physically-run-down": {
       "name": "Just Physically Run-Down",
@@ -302,7 +307,8 @@
         "text": "And he saith unto them, Come ye yourselves apart into a desert place, and rest a while. For there were many coming and going, and they had no leisure so much as to eat.",
         "reference": "Mark 6:31",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "anxiety"

@@ -318,7 +318,8 @@
         "text": "I will give thanks unto thee; for I am fearfully and wonderfully made: Wonderful are thy works; And that my soul knoweth right well.",
         "reference": "Psalm 139:14",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "im-not-enough": {
       "name": "'I'm Not Enough'",
@@ -327,7 +328,8 @@
         "text": "For we are his workmanship, created in Christ Jesus for good works, which God afore prepared that we should walk in them.",
         "reference": "Ephesians 2:10",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "its-not-safe-to-trust": {
       "name": "'It's Not Safe to Trust'",
@@ -336,7 +338,8 @@
         "text": "He will cover thee with his pinions, And under his wings shalt thou take refuge: His truth is a shield and a buckler.",
         "reference": "Psalm 91:4",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "its-all-my-fault": {
       "name": "'It's All My Fault'",
@@ -345,7 +348,8 @@
         "text": "Jehovah is nigh unto them that are of a broken heart, And saveth such as are of a contrite spirit.",
         "reference": "Psalm 34:18",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "i-have-to-earn-love": {
       "name": "'I Have to Earn Love'",
@@ -354,7 +358,8 @@
         "text": "But God commendeth his own love toward us, in that, while we were yet sinners, Christ died for us.",
         "reference": "Romans 5:8",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "healing-wounds"

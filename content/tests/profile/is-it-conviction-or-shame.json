@@ -283,7 +283,8 @@
         "text": "For godly sorrow worketh repentance unto salvation, a repentance which bringeth no regret: but the sorrow of the world worketh death.",
         "reference": "2 Corinthians 7:10",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "toxic-shame": {
       "name": "Toxic Shame From People",
@@ -292,7 +293,8 @@
         "text": "There is therefore now no condemnation to them that are in Christ Jesus.",
         "reference": "Romans 8:1",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "tangled-mix": {
       "name": "A Tangled Mix",
@@ -301,7 +303,8 @@
         "text": "For God gave us not a spirit of fearfulness; but of power and love and discipline.",
         "reference": "2 Timothy 1:7",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "old-voice": {
       "name": "An Old Voice That Isn't God's",
@@ -310,7 +313,8 @@
         "text": "Jehovah is merciful and gracious, Slow to anger, and abundant in lovingkindness.",
         "reference": "Psalm 103:8",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "church-hurt"

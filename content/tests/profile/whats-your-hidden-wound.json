@@ -286,7 +286,8 @@
         "text": "Be ye free from the love of money; content with such things as ye have: for himself hath said, I will in no wise fail thee, neither will I in any wise forsake thee.",
         "reference": "Hebrews 13:5",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "rejection-wound": {
       "name": "The Rejection Wound",
@@ -295,7 +296,8 @@
         "text": "even as he chose us in him before the foundation of the world, that we should be holy and without blemish before him in love:",
         "reference": "Ephesians 1:4",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "betrayal-wound": {
       "name": "The Betrayal Wound",
@@ -304,7 +306,8 @@
         "text": "But the Lord is faithful, who shall establish you, and guard you from the evil one.",
         "reference": "2 Thessalonians 3:3",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "not-enough-wound": {
       "name": "The Not-Enough Wound",
@@ -313,7 +316,8 @@
         "text": "Behold what manner of love the Father hath bestowed upon us, that we should be called children of God; and such we are. For this cause the world knoweth us not, because it knew him not.",
         "reference": "1 John 3:1",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "injustice-wound": {
       "name": "The Injustice Wound",
@@ -322,7 +326,8 @@
         "text": "Avenge not yourselves, beloved, but give place unto the wrath of God: for it is written, Vengeance belongeth unto me; I will recompense, saith the Lord.",
         "reference": "Romans 12:19",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "healing-wounds"

@@ -323,7 +323,8 @@
         "text": "Come unto me, all ye that labor and are heavy laden, and I will give you rest.",
         "reference": "Matthew 11:28",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "cynical-and-detached": {
       "name": "Cynical and Detached",
@@ -332,7 +333,8 @@
         "text": "He restoreth my soul: He guideth me in the paths of righteousness for his name’s sake.",
         "reference": "Psalm 23:3",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "surviving-on-fumes": {
       "name": "Surviving on Fumes",
@@ -341,7 +343,8 @@
         "text": "And he hath said unto me, My grace is sufficient for thee: for my power is made perfect in weakness. Most gladly therefore will I rather glory in my weaknesses, that the power of Christ may rest upon me.",
         "reference": "2 Corinthians 12:9",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "stretched-but-okay": {
       "name": "Stretched but Okay",
@@ -350,7 +353,8 @@
         "text": "Be still, and know that I am God: I will be exalted among the nations, I will be exalted in the earth.",
         "reference": "Psalm 46:10",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "recovering": {
       "name": "Recovering",
@@ -359,7 +363,8 @@
         "text": "but they that wait for Jehovah shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; they shall walk, and not faint.",
         "reference": "Isaiah 40:31",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "healthy-rhythm": {
       "name": "Healthy Rhythm",
@@ -368,7 +373,8 @@
         "text": "He maketh me to lie down in green pastures; He leadeth me beside still waters.",
         "reference": "Psalm 23:2",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "rest-burnout"

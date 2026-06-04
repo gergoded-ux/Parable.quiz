@@ -288,7 +288,8 @@
         "text": "A soft answer turneth away wrath; But a grievous word stirreth up anger.",
         "reference": "Proverbs 15:1",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "absent-parent-cycle": {
       "name": "The Absent-Parent Cycle",
@@ -297,7 +298,8 @@
         "text": "When my father and my mother forsake me, Then Jehovah will take me up.",
         "reference": "Psalm 27:10",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "addiction-cycle": {
       "name": "The Addiction Cycle",
@@ -306,7 +308,8 @@
         "text": "For freedom did Christ set us free: stand fast therefore, and be not entangled again in a yoke of bondage.",
         "reference": "Galatians 5:1",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "poverty-fear-cycle": {
       "name": "The Poverty-Fear Cycle",
@@ -315,7 +318,8 @@
         "text": "And my God shall supply every need of yours according to his riches in glory in Christ Jesus.",
         "reference": "Philippians 4:19",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "silence-and-shame-cycle": {
       "name": "The Silence-and-Shame Cycle",
@@ -324,7 +328,8 @@
         "text": "and ye shall know the truth, and the truth shall make you free.",
         "reference": "John 8:32",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "healing-wounds"

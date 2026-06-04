@@ -265,7 +265,8 @@
         "text": "Pray for the peace of Jerusalem.",
         "reference": "Psalm 122:6",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "place"
     },
     "bethlehem": {
       "name": "Bethlehem (the small beginning)",
@@ -285,7 +286,8 @@
         "text": "Out of thee shall one come forth unto me that is to be ruler.",
         "reference": "Micah 5:2",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "place"
     },
     "nazareth": {
       "name": "Nazareth (the underestimated)",
@@ -305,7 +307,8 @@
         "text": "Can any good thing come out of Nazareth?",
         "reference": "John 1:46",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "place"
     },
     "jericho": {
       "name": "Jericho (the walls come down)",
@@ -325,7 +328,8 @@
         "text": "By faith the walls of Jericho fell down.",
         "reference": "Hebrews 11:30",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "place"
     },
     "nineveh": {
       "name": "Nineveh (the second chance)",
@@ -345,7 +349,8 @@
         "text": "And the people of Nineveh believed God.",
         "reference": "Jonah 3:5",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "place"
     },
     "babylon": {
       "name": "Babylon (faithful in exile)",
@@ -365,7 +370,8 @@
         "text": "Thoughts of peace, and not of evil, to give you hope.",
         "reference": "Jeremiah 29:11",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "place"
     }
   }
 }

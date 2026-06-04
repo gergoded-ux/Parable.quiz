@@ -287,7 +287,8 @@
         "text": "In the multitude of my thoughts within me Thy comforts delight my soul.",
         "reference": "Psalm 94:19",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "quiet-overwhelm": {
       "name": "Quiet Overwhelm",
@@ -296,7 +297,8 @@
         "text": "Come unto me, all ye that labor and are heavy laden, and I will give you rest.",
         "reference": "Matthew 11:28",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "productive-panic": {
       "name": "Productive Panic",
@@ -305,7 +307,8 @@
         "text": "It is vain for you to rise up early, To take rest late, To eat the bread of toil; Forso he giveth unto his beloved sleep.",
         "reference": "Psalm 127:2",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "capable-mask": {
       "name": "The Capable Mask",
@@ -314,7 +317,8 @@
         "text": "Cast thy burden upon Jehovah, and he will sustain thee: He will never suffer the righteous to be moved.",
         "reference": "Psalm 55:22",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "mostly-at-peace": {
       "name": "Mostly At Peace",
@@ -323,7 +327,8 @@
         "text": "Thou wilt keep him in perfect peace, whose mind is stayed on thee; because he trusteth in thee.",
         "reference": "Isaiah 26:3",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "anxiety"

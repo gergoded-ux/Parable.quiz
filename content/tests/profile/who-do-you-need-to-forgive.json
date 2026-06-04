@@ -328,7 +328,8 @@
         "text": "When my father and my mother forsake me, Then Jehovah will take me up.",
         "reference": "Psalm 27:10",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "former-friend": {
       "name": "A Former Friend",
@@ -337,7 +338,8 @@
         "text": "A friend loveth at all times; And a brother is born for adversity.",
         "reference": "Proverbs 17:17",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "church-or-pastor": {
       "name": "A Church or Pastor",
@@ -346,7 +348,8 @@
         "text": "Jehovah is nigh unto them that are of a broken heart, And saveth such as are of a contrite spirit.",
         "reference": "Psalm 34:18",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "ex": {
       "name": "An Ex",
@@ -355,7 +358,8 @@
         "text": "He healeth the broken in heart, And bindeth up their wounds.",
         "reference": "Psalm 147:3",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "yourself": {
       "name": "Yourself",
@@ -364,7 +368,8 @@
         "text": "There is therefore now no condemnation to them that are in Christ Jesus.",
         "reference": "Romans 8:1",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "god": {
       "name": "God (Honestly)",
@@ -373,7 +378,8 @@
         "text": "casting all your anxiety upon him, because he careth for you.",
         "reference": "1 Peter 5:7",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "forgiveness"

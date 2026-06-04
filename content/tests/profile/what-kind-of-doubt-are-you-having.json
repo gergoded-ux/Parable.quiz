@@ -317,7 +317,8 @@
         "text": "Come now, and let us reason together, saith Jehovah: though your sins be as scarlet, they shall be as white as snow; though they be red like crimson, they shall be as wool.",
         "reference": "Isaiah 1:18",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "emotional": {
       "name": "Emotional Doubt",
@@ -326,7 +327,8 @@
         "text": "Jehovah is nigh unto them that are of a broken heart, And saveth such as are of a contrite spirit.",
         "reference": "Psalm 34:18",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "moral-volitional": {
       "name": "Moral / Volitional Doubt",
@@ -335,7 +337,8 @@
         "text": "If any man willeth to do his will, he shall know of the teaching, whether it is of God, or whether I speak from myself.",
         "reference": "John 7:17",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "relational": {
       "name": "Relational Doubt (someone hurt you)",
@@ -344,7 +347,8 @@
         "text": "Jehovah is my rock, and my fortress, and my deliverer; My God, my rock, in whom I will take refuge; My shield, and the horn of my salvation, my high tower.",
         "reference": "Psalm 18:2",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "circumstantial": {
       "name": "Circumstantial Doubt (suffering shook you)",
@@ -353,7 +357,8 @@
         "text": "Yea, though I walk through the valley of the shadow of death, I will fear no evil; for thou art with me; Thy rod and thy staff, they comfort me.",
         "reference": "Psalm 23:4",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "doubt-faith"

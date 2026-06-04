@@ -253,7 +253,8 @@
         "Open"
       ],
       "description": "You know you don't have it all together, and that's exactly where the kingdom lives. The end of yourself is the place where Jesus turns out to be enough.",
-      "scriptureRef": "matt-5-3"
+      "scriptureRef": "matt-5-3",
+      "rewardArt": "symbol"
     },
     "mourning": {
       "name": "The One Who Mourns",
@@ -264,7 +265,8 @@
         "Comforted"
       ],
       "description": "You're carrying real grief, and you're not pretending it's fine. Jesus calls that blessed. Not because grief is good, but because comfort is coming and it has your name on it.",
-      "scriptureRef": "matt-5-4"
+      "scriptureRef": "matt-5-4",
+      "rewardArt": "symbol"
     },
     "meek": {
       "name": "The Meek",
@@ -275,7 +277,8 @@
         "Restrained"
       ],
       "description": "You hold power with a soft grip. People mistake it for weakness, but it's real strength under control, and you'll inherit more than the loud ones ever will.",
-      "scriptureRef": "matt-5-5"
+      "scriptureRef": "matt-5-5",
+      "rewardArt": "symbol"
     },
     "righteousness": {
       "name": "Hungry for Righteousness",
@@ -286,7 +289,8 @@
         "Filled"
       ],
       "description": "You're starved for things to be made right, in you and in the world around you. That hunger isn't a flaw. It's the appetite God Himself is going to fill.",
-      "scriptureRef": "matt-5-6"
+      "scriptureRef": "matt-5-6",
+      "rewardArt": "symbol"
     },
     "merciful": {
       "name": "The Merciful",
@@ -297,7 +301,8 @@
         "Soft"
       ],
       "description": "You give mercy faster than people expect. You've been forgiven much, so you forgive much, and the same mercy you've poured out is rolling right back to you.",
-      "scriptureRef": "matt-5-7"
+      "scriptureRef": "matt-5-7",
+      "rewardArt": "symbol"
     },
     "pure-in-heart": {
       "name": "Pure in Heart",
@@ -308,7 +313,8 @@
         "Clear"
       ],
       "description": "You're learning to want one thing instead of ten. That undivided heart is going to see God in places other people miss Him entirely.",
-      "scriptureRef": "matt-5-8"
+      "scriptureRef": "matt-5-8",
+      "rewardArt": "symbol"
     },
     "peacemakers": {
       "name": "The Peacemaker",
@@ -319,7 +325,8 @@
         "Bridging"
       ],
       "description": "You walk into tense rooms and lower the temperature. You'll take the awkward seat in the middle if it means two people get reconciled, and that's exactly what gets you called a child of God.",
-      "scriptureRef": "matt-5-9"
+      "scriptureRef": "matt-5-9",
+      "rewardArt": "symbol"
     },
     "persecuted": {
       "name": "Persecuted for Right",
@@ -330,7 +337,8 @@
         "Steady"
       ],
       "description": "You've taken hits for doing the right thing. It's lonely and it hurts. But Jesus says heaven is on your side, and the reward is bigger than the cost.",
-      "scriptureRef": "matt-5-10"
+      "scriptureRef": "matt-5-10",
+      "rewardArt": "symbol"
     }
   },
   "theme": "discipleship"

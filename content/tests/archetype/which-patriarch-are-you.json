@@ -260,7 +260,8 @@
         "text": "And he believed in Jehovah; and he reckoned it to him for righteousness.",
         "reference": "Genesis 15:6",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "isaac": {
       "name": "Isaac the Faithful",
@@ -280,7 +281,8 @@
         "text": "Fear not, for I am with thee, and will bless thee.",
         "reference": "Genesis 26:24",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "jacob": {
       "name": "Jacob the Wrestler",
@@ -300,7 +302,8 @@
         "text": "Thou hast striven with God and with men, and hast prevailed.",
         "reference": "Genesis 32:28",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "joseph": {
       "name": "Joseph the Dreamer",
@@ -320,7 +323,8 @@
         "text": "Ye meant evil against me; but God meant it for good.",
         "reference": "Genesis 50:20",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     }
   },
   "theme": "scripture-archetype"

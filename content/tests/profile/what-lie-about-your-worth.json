@@ -313,7 +313,8 @@
         "text": "I will give thanks unto thee; for I am fearfully and wonderfully made: Wonderful are thy works; And that my soul knoweth right well.",
         "reference": "Psalm 139:14",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "im-not-enough": {
       "name": "The \"I'm Not Enough\" Lie",
@@ -322,7 +323,8 @@
         "text": "And he hath said unto me, My grace is sufficient for thee: for my power is made perfect in weakness. Most gladly therefore will I rather glory in my weaknesses, that the power of Christ may rest upon me.",
         "reference": "2 Corinthians 12:9",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "im-unlovable": {
       "name": "The \"I'm Unlovable\" Lie",
@@ -331,7 +333,8 @@
         "text": "Jehovah appeared of old unto me, saying, Yea, I have loved thee with an everlasting love: therefore with lovingkindness have I drawn thee.",
         "reference": "Jeremiah 31:3",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "i-have-to-earn-it": {
       "name": "The \"I Have to Earn It\" Lie",
@@ -340,7 +343,8 @@
         "text": "for by grace have ye been saved through faith; and that not of yourselves, it is the gift of God;",
         "reference": "Ephesians 2:8",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "identity"

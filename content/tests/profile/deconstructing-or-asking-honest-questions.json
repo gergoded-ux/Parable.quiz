@@ -294,7 +294,8 @@
         "text": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you:",
         "reference": "Matthew 7:7",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "deconstruction-toward-rebuilding": {
       "name": "Deconstruction Toward Rebuilding",
@@ -303,7 +304,8 @@
         "text": "For other foundation can no man lay than that which is laid, which is Jesus Christ.",
         "reference": "1 Corinthians 3:11",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "deconstruction-toward-exit": {
       "name": "Deconstruction Toward Exit",
@@ -312,7 +314,8 @@
         "text": "Simon Peter answered him, Lord, to whom shall we go? thou hast the words of eternal life.",
         "reference": "John 6:68",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "faith-crisis": {
       "name": "Faith Crisis (pain-driven)",
@@ -321,7 +324,8 @@
         "text": "My God, my God, why hast thou forsaken me? Why art thou sofar from helping me, and from the words of my groaning?",
         "reference": "Psalm 22:1",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "stuck-in-the-rubble": {
       "name": "Stuck in the Rubble",
@@ -330,7 +334,8 @@
         "text": "Jehovah is nigh unto them that are of a broken heart, And saveth such as are of a contrite spirit.",
         "reference": "Psalm 34:18",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "doubt-faith"

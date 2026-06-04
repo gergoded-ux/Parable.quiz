@@ -289,7 +289,8 @@
         "text": "And Ruth said, Entreat me not to leave thee, and to return from following after thee, for whither thou goest, I will go; and where thou lodgest, I will lodge; thy people shall be my people, and thy God my God;",
         "reference": "Ruth 1:16",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "sacrificial-lover": {
       "name": "Sacrificial Lover (Hosea)",
@@ -298,7 +299,8 @@
         "text": "We love, because he first loved us.",
         "reference": "1 John 4:19",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "partner-in-mission": {
       "name": "Partner-in-Mission (Priscilla)",
@@ -307,7 +309,8 @@
         "text": "Two are better than one, because they have a good reward for their labor.",
         "reference": "Ecclesiastes 4:9",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "devoted-protector": {
       "name": "Devoted Protector (Boaz)",
@@ -316,7 +319,8 @@
         "text": "Jehovah recompense thy work, and a full reward be given thee of Jehovah, the God of Israel, under whose wings thou art come to take refuge.",
         "reference": "Ruth 2:12",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "healing-in-progress": {
       "name": "Healing-in-Progress",
@@ -325,7 +329,8 @@
         "text": "He healeth the broken in heart, And bindeth up their wounds.",
         "reference": "Psalm 147:3",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "relationships-dating"

@@ -273,7 +273,8 @@
         "All-in"
       ],
       "description": "Big heart, big mistakes. And Jesus loved you anyway. You're the friend who'd jump out of the boat for someone you care about, even if you sink halfway there.",
-      "scriptureRef": "matt-16-18"
+      "scriptureRef": "matt-16-18",
+      "rewardArt": "character"
     },
     "john": {
       "name": "John the Beloved",
@@ -284,7 +285,8 @@
         "Present"
       ],
       "description": "You stay close to Jesus when others run. Your love is quiet and unembarrassed. People feel safe being weak around you.",
-      "scriptureRef": "john-13-23"
+      "scriptureRef": "john-13-23",
+      "rewardArt": "character"
     },
     "james": {
       "name": "James the Thunder",
@@ -295,7 +297,8 @@
         "Devoted"
       ],
       "description": "You don't do half-measures. When you commit, the room knows it. Jesus called you a 'son of thunder,' and honestly, He wasn't wrong.",
-      "scriptureRef": "mark-3-17"
+      "scriptureRef": "mark-3-17",
+      "rewardArt": "character"
     },
     "andrew": {
       "name": "Andrew the Gatherer",
@@ -306,7 +309,8 @@
         "Generous"
       ],
       "description": "You're the one who finds your brother first. You don't need credit. You bring people to Jesus and then quietly step back.",
-      "scriptureRef": "john-1-41"
+      "scriptureRef": "john-1-41",
+      "rewardArt": "character"
     },
     "thomas": {
       "name": "Thomas the Honest",
@@ -317,7 +321,8 @@
         "Uncompromising"
       ],
       "description": "You need it to be real before you'll call it real. That isn't a flaw. It's the exact reason Jesus came to your room in person.",
-      "scriptureRef": "john-20-25"
+      "scriptureRef": "john-20-25",
+      "rewardArt": "character"
     },
     "matthew": {
       "name": "Matthew the Outsider",
@@ -328,7 +333,8 @@
         "Redeemed"
       ],
       "description": "You know what it's like to be excluded, so you make your tables wide. And you write things down, because you want people to remember the truth.",
-      "scriptureRef": "matt-9-9"
+      "scriptureRef": "matt-9-9",
+      "rewardArt": "character"
     },
     "philip": {
       "name": "Philip the Seeker",
@@ -339,7 +345,8 @@
         "Earnest"
       ],
       "description": "You run the numbers, then trust Jesus anyway. You're the one who says 'come and see' to the person nobody ever bothered to invite.",
-      "scriptureRef": "john-6-7"
+      "scriptureRef": "john-6-7",
+      "rewardArt": "character"
     },
     "bartholomew": {
       "name": "Bartholomew the Sincere",
@@ -350,7 +357,8 @@
         "Without guile"
       ],
       "description": "There's no pretense in you. People might miss how much is going on under the surface, because you don't perform. But Jesus saw you under the fig tree before anyone introduced you.",
-      "scriptureRef": "john-1-45"
+      "scriptureRef": "john-1-45",
+      "rewardArt": "character"
     }
   },
   "theme": "scripture-archetype"

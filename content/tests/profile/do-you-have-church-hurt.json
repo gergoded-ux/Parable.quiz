@@ -313,7 +313,8 @@
         "text": "Jehovah is nigh unto them that are of a broken heart, And saveth such as are of a contrite spirit.",
         "reference": "Psalm 34:18",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "spirit-of-offense": {
       "name": "A Spirit of Offense, Not Abuse",
@@ -322,7 +323,8 @@
         "text": "The discretion of a man maketh him slow to anger; And it is his glory to pass over a transgression.",
         "reference": "Proverbs 19:11",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "survived-spiritual-abuse": {
       "name": "Survived Spiritual Abuse",
@@ -331,7 +333,8 @@
         "text": "He will feed his flock like a shepherd, he will gather the lambs in his arm, and carry them in his bosom, and will gently lead those that have their young.",
         "reference": "Isaiah 40:11",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "mostly-healed": {
       "name": "Mostly Healed, a Few Triggers Left",
@@ -340,7 +343,8 @@
         "text": "He healeth the broken in heart, And bindeth up their wounds.",
         "reference": "Psalm 147:3",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "church-hurt"

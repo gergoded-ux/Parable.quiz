@@ -255,7 +255,8 @@
         "text": "But let each man prove his own work, and then shall he have his glorying in regard of himself alone, and not of his neighbor.",
         "reference": "Galatians 6:4",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "silent-scorekeeper": {
       "name": "The Silent Scorekeeper",
@@ -264,7 +265,8 @@
         "text": "Let us not become vainglorious, provoking one another, envying one another.",
         "reference": "Galatians 5:26",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "never-measures-up": {
       "name": "The Never-Measures-Up",
@@ -273,7 +275,8 @@
         "text": "I will give thanks unto thee; for I am fearfully and wonderfully made: Wonderful are thy works; And that my soul knoweth right well.",
         "reference": "Psalm 139:14",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "secret-competitor": {
       "name": "The Secret Competitor",
@@ -282,7 +285,8 @@
         "text": "doing nothing through faction or through vainglory, but in lowliness of mind each counting other better than himself;",
         "reference": "Philippians 2:3",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "comparison-shame"

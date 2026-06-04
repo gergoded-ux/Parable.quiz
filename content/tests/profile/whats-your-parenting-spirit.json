@@ -291,7 +291,8 @@
         "text": "He will feed his flock like a shepherd, he will gather the lambs in his arm, and carry them in his bosom, and will gently lead those that have their young.",
         "reference": "Isaiah 40:11",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "firm-anchor": {
       "name": "The Firm Anchor",
@@ -300,7 +301,8 @@
         "text": "And, ye fathers, provoke not your children to wrath: but nurture them in the chastening and admonition of the Lord.",
         "reference": "Ephesians 6:4",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "grace-first": {
       "name": "The Grace-First Parent",
@@ -309,7 +311,8 @@
         "text": "Like as a father pitieth his children, So Jehovah pitieth them that fear him.",
         "reference": "Psalm 103:13",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "anxious-perfectionist": {
       "name": "The Anxious Perfectionist",
@@ -318,7 +321,8 @@
         "text": "And he hath said unto me, My grace is sufficient for thee: for my power is made perfect in weakness. Most gladly therefore will I rather glory in my weaknesses, that the power of Christ may rest upon me.",
         "reference": "2 Corinthians 12:9",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "recovering-strict": {
       "name": "The Recovering Strict Parent",
@@ -327,7 +331,8 @@
         "text": "It is of Jehovah’s lovingkindnesses that we are not consumed, because his compassions fail not. They are new every morning; great is thy faithfulness.",
         "reference": "Lamentations 3:22-23",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "doubt-faith"

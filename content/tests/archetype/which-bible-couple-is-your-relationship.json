@@ -284,7 +284,8 @@
         "text": "And he said, Blessed be thou of Jehovah, my daughter: thou hast showed more kindness in the latter end than at the beginning, inasmuch as thou followedst not young men, whether poor or rich.",
         "reference": "Ruth 3:10",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "priscilla-and-aquila": {
       "name": "Priscilla and Aquila",
@@ -299,7 +300,8 @@
         "text": "Salute Prisca and Aquila my fellow-workers in Christ Jesus,",
         "reference": "Romans 16:3",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "hosea-and-gomer": {
       "name": "Hosea and Gomer",
@@ -314,7 +316,8 @@
         "text": "And I will betroth thee unto me for ever; yea, I will betroth thee unto me in righteousness, and in justice, and in lovingkindness, and in mercies.",
         "reference": "Hosea 2:19",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "jacob-and-rachel": {
       "name": "Jacob and Rachel",
@@ -329,7 +332,8 @@
         "text": "And Jacob served seven years for Rachel; and they seemed unto him but a few days, for the love he had to her.",
         "reference": "Genesis 29:20",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "abigail-and-nabal": {
       "name": "Abigail and Nabal",
@@ -344,7 +348,8 @@
         "text": "and blessed be thy discretion, and blessed be thou, that hast kept me this day from bloodguiltiness, and from avenging myself with mine own hand.",
         "reference": "1 Samuel 25:33",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "abraham-and-sarah": {
       "name": "Abraham and Sarah",
@@ -359,7 +364,8 @@
         "text": "Is anything too hard for Jehovah? At the set time I will return unto thee, when the season cometh round, and Sarah shall have a son.",
         "reference": "Genesis 18:14",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     }
   },
   "theme": "relationships-dating"

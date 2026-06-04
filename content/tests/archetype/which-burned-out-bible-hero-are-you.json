@@ -288,7 +288,8 @@
         "text": "But he himself went a day’s journey into the wilderness, and came and sat down under a juniper-tree: and he requested for himself that he might die, and said, It is enough; now, O Jehovah, take away my life; for I am not better than my fathers.",
         "reference": "1 Kings 19:4",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "moses": {
       "name": "Moses (carrying everyone alone)",
@@ -303,7 +304,8 @@
         "text": "I am not able to bear all this people alone, because it is too heavy for me.",
         "reference": "Numbers 11:14",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "martha": {
       "name": "Martha (busy and resentful)",
@@ -318,7 +320,8 @@
         "text": "But the Lord answered and said unto her, Martha, Martha, thou art anxious and troubled about many things:",
         "reference": "Luke 10:41",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "jonah": {
       "name": "Jonah (done and bitter)",
@@ -333,7 +336,8 @@
         "text": "Therefore now, O Jehovah, take, I beseech thee, my life from me; for it is better for me to die than to live.",
         "reference": "Jonah 4:3",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "jeremiah": {
       "name": "Jeremiah (weary of the work)",
@@ -348,7 +352,8 @@
         "text": "And if I say, I will not make mention of him, nor speak any more in his name, then there is in my heart as it were a burning fire shut up in my bones, and I am weary with forbearing, and I cannot contain.",
         "reference": "Jeremiah 20:9",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "naomi": {
       "name": "Naomi (empty and grieving)",
@@ -363,7 +368,8 @@
         "text": "I went out full, and Jehovah hath brought me home again empty; why call ye me Naomi, seeing Jehovah hath testified against me, and the Almighty hath afflicted me?",
         "reference": "Ruth 1:21",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     }
   },
   "theme": "rest-burnout"

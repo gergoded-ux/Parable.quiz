@@ -285,7 +285,8 @@
         "text": "All things are lawful for me; but not all things are expedient. All things are lawful for me; but I will not be brought under the power of any.",
         "reference": "1 Corinthians 6:12",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "tempted": {
       "name": "Tempted",
@@ -294,7 +295,8 @@
         "text": "There hath no temptation taken you but such as man can bear: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation make also the way of escape, that ye may be able to endure it.",
         "reference": "1 Corinthians 10:13",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "tethered": {
       "name": "Tethered",
@@ -303,7 +305,8 @@
         "text": "for where thy treasure is, there will thy heart be also.",
         "reference": "Matthew 6:21",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "fully-captured": {
       "name": "Fully Captured",
@@ -312,7 +315,8 @@
         "text": "For freedom did Christ set us free: stand fast therefore, and be not entangled again in a yoke of bondage.",
         "reference": "Galatians 5:1",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "comparison-shame"

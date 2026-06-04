@@ -284,7 +284,8 @@
         "text": "He saith unto him the third time, Simon, son of John, lovest thou me? Peter was grieved because he said unto him the third time, Lovest thou me? And he said unto him, Lord, thou knowest all things; thou knowest that I love thee. Jesus saith unto him, Feed my sheep.",
         "reference": "John 21:17",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "paul": {
       "name": "Paul (Former Enemy)",
@@ -299,7 +300,8 @@
         "text": "Faithful is the saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief:",
         "reference": "1 Timothy 1:15",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "prodigal": {
       "name": "The Prodigal (Came Home)",
@@ -314,7 +316,8 @@
         "text": "And he arose, and came to his father. But while he was yet afar off, his father saw him, and was moved with compassion, and ran, and fell on his neck, and kissed him.",
         "reference": "Luke 15:20",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "woman-caught-in-adultery": {
       "name": "The Woman Caught in Adultery (No Condemnation)",
@@ -329,7 +332,8 @@
         "text": "And she said, No man, Lord. And Jesus said, Neither do I condemn thee: go thy way; from henceforth sin no more.]",
         "reference": "John 8:11",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "david": {
       "name": "David (After the Fall)",
@@ -344,7 +348,8 @@
         "text": "Create in me a clean heart, O God; And renew a right spirit within me.",
         "reference": "Psalm 51:10",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     }
   },
   "theme": "forgiveness"

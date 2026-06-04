@@ -266,7 +266,8 @@
         "text": "Is not Jehovah gone out before thee?",
         "reference": "Judges 4:14",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "gideon": {
       "name": "Gideon the Cautious",
@@ -286,7 +287,8 @@
         "text": "Jehovah is with thee, thou mighty man of valor.",
         "reference": "Judges 6:12",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "samson": {
       "name": "Samson the Flawed Strongman",
@@ -306,7 +308,8 @@
         "text": "Remember me, I pray thee, and strengthen me, I pray thee, only this once.",
         "reference": "Judges 16:28",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "othniel": {
       "name": "Othniel the Faithful First",
@@ -326,7 +329,8 @@
         "text": "And the Spirit of Jehovah came upon him.",
         "reference": "Judges 3:10",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "jephthah": {
       "name": "Jephthah the Outsider",
@@ -346,7 +350,8 @@
         "text": "Then the Spirit of Jehovah came upon Jephthah.",
         "reference": "Judges 11:29",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     }
   },
   "theme": "scripture-archetype"

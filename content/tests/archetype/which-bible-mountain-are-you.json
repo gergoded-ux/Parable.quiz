@@ -265,7 +265,8 @@
         "text": "Jehovah descended upon it in fire.",
         "reference": "Exodus 19:18",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "place"
     },
     "ararat": {
       "name": "Mount Ararat (the resting place)",
@@ -285,7 +286,8 @@
         "text": "And God remembered Noah.",
         "reference": "Genesis 8:1",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "place"
     },
     "carmel": {
       "name": "Mount Carmel (the showdown)",
@@ -305,7 +307,8 @@
         "text": "Jehovah, he is God.",
         "reference": "1 Kings 18:39",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "place"
     },
     "zion": {
       "name": "Mount Zion (the place of provision)",
@@ -325,7 +328,8 @@
         "text": "In the mount of Jehovah it shall be provided.",
         "reference": "Genesis 22:14",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "place"
     },
     "olives": {
       "name": "Mount of Olives (the hope of return)",
@@ -345,7 +349,8 @@
         "text": "His feet shall stand in that day upon the mount of Olives.",
         "reference": "Zechariah 14:4",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "place"
     },
     "beatitudes": {
       "name": "The Mount of the Beatitudes (the blessing)",
@@ -365,7 +370,8 @@
         "text": "Blessed are the pure in heart: for they shall see God.",
         "reference": "Matthew 5:8",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "place"
     }
   }
 }

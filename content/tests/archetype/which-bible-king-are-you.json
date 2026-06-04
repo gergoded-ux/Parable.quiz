@@ -262,7 +262,8 @@
         "text": "Because I feared the people, and obeyed their voice.",
         "reference": "1 Samuel 15:24",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "david": {
       "name": "David the Wholehearted",
@@ -282,7 +283,8 @@
         "text": "Create in me a clean heart, O God; And renew a right spirit within me.",
         "reference": "Psalm 51:10",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "solomon": {
       "name": "Solomon the Wise",
@@ -302,7 +304,8 @@
         "text": "The fear of Jehovah is the beginning of knowledge.",
         "reference": "Proverbs 1:7",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "hezekiah": {
       "name": "Hezekiah the Faithful",
@@ -322,7 +325,8 @@
         "text": "He trusted in Jehovah, the God of Israel.",
         "reference": "2 Kings 18:5",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     },
     "josiah": {
       "name": "Josiah the Reformer",
@@ -342,7 +346,8 @@
         "text": "He began to seek after the God of David his father.",
         "reference": "2 Chronicles 34:3",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "character"
     }
   }
 }

@@ -260,7 +260,8 @@
         "text": "When I see the blood, I will pass over you.",
         "reference": "Exodus 12:13",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "scene"
     },
     "pentecost": {
       "name": "Pentecost (Fresh Fire and Power)",
@@ -280,7 +281,8 @@
         "text": "And they were all filled with the Holy Spirit.",
         "reference": "Acts 2:4",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "scene"
     },
     "tabernacles": {
       "name": "Tabernacles (Dwelling and Rest)",
@@ -300,7 +302,8 @@
         "text": "Ye shall dwell in booths seven days.",
         "reference": "Leviticus 23:42",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "scene"
     },
     "trumpets": {
       "name": "Trumpets (Awakening and Return)",
@@ -320,7 +323,8 @@
         "text": "A solemn rest unto you, a memorial of blowing of trumpets.",
         "reference": "Leviticus 23:24",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "scene"
     },
     "day-of-atonement": {
       "name": "Day of Atonement (Cleansing and Forgiveness)",
@@ -340,7 +344,8 @@
         "text": "From all your sins shall ye be clean before Jehovah.",
         "reference": "Leviticus 16:30",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "scene"
     }
   },
   "theme": "scripture-archetype"

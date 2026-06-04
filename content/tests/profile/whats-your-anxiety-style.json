@@ -320,7 +320,8 @@
         "text": "Be not therefore anxious for the morrow: for the morrow will be anxious for itself. Sufficient unto the day is the evil thereof.",
         "reference": "Matthew 6:34",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "overthinker": {
       "name": "The Overthinker",
@@ -329,7 +330,8 @@
         "text": "casting all your anxiety upon him, because he careth for you.",
         "reference": "1 Peter 5:7",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "controller": {
       "name": "The Controller",
@@ -338,7 +340,8 @@
         "text": "Trust in Jehovah with all thy heart, And lean not upon thine own understanding:",
         "reference": "Proverbs 3:5",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "people-pleaser": {
       "name": "The People-Pleaser",
@@ -347,7 +350,8 @@
         "text": "For am I now seeking the favor of men, or of God? or am I striving to please men? if I were still pleasing men, I should not be a servant of Christ.",
         "reference": "Galatians 1:10",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "avoider": {
       "name": "The Avoider",
@@ -356,7 +360,8 @@
         "text": "For God gave us not a spirit of fearfulness; but of power and love and discipline.",
         "reference": "2 Timothy 1:7",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "worst-case-planner": {
       "name": "The Worst-Case Planner",
@@ -365,7 +370,8 @@
         "text": "What time I am afraid, I will put my trust in thee.",
         "reference": "Psalm 56:3",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "silent-carrier": {
       "name": "The Silent Carrier",
@@ -374,7 +380,8 @@
         "text": "Come unto me, all ye that labor and are heavy laden, and I will give you rest.",
         "reference": "Matthew 11:28",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "anxiety"

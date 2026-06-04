@@ -251,7 +251,8 @@
         "Walking"
       ],
       "description": "You're stuck between what was and what's coming, and God is about to split a sea you've been staring at for weeks. Hold your peace. He's fighting for you.",
-      "scriptureRef": "exod-14-14"
+      "scriptureRef": "exod-14-14",
+      "rewardArt": "scene"
     },
     "wilderness": {
       "name": "Wilderness Season",
@@ -262,7 +263,8 @@
         "Forming"
       ],
       "description": "This isn't punishment. It's formation. God is using the dry place to show you what's in your heart and to teach you how to live on manna instead of certainty.",
-      "scriptureRef": "deut-8-2"
+      "scriptureRef": "deut-8-2",
+      "rewardArt": "scene"
     },
     "lions-den": {
       "name": "In the Lions' Den",
@@ -273,7 +275,8 @@
         "Rescued"
       ],
       "description": "You're in a room that should have ended you, and you kept your knees bent toward home anyway. God is sending the angel who shuts the mouths that wanted to eat you alive.",
-      "scriptureRef": "dan-6-22"
+      "scriptureRef": "dan-6-22",
+      "rewardArt": "scene"
     },
     "resurrection": {
       "name": "Resurrection Morning",
@@ -284,7 +287,8 @@
         "Astonished"
       ],
       "description": "You watched something die. A dream, a relationship, a version of yourself you thought was gone for good. Now God is rolling the stone away, and He wants you to see exactly who has the power to raise it.",
-      "scriptureRef": "john-11-25"
+      "scriptureRef": "john-11-25",
+      "rewardArt": "scene"
     },
     "burning-bush": {
       "name": "At the Burning Bush",
@@ -295,7 +299,8 @@
         "Reluctant"
       ],
       "description": "God is calling you by name in a place you never expected to hear from Him. Take off your shoes. Then go ahead and argue about it, the way every prophet has. He'll still send you.",
-      "scriptureRef": "exod-3-5"
+      "scriptureRef": "exod-3-5",
+      "rewardArt": "scene"
     },
     "pentecost": {
       "name": "Pentecost Power",
@@ -306,7 +311,8 @@
         "Sent"
       ],
       "description": "The Spirit is filling rooms you thought were empty. You've been waiting in an upper room, and now you're being sent out with words and courage you didn't have a week ago.",
-      "scriptureRef": "acts-2-4"
+      "scriptureRef": "acts-2-4",
+      "rewardArt": "scene"
     },
     "storm-at-sea": {
       "name": "Storm on the Sea of Galilee",
@@ -317,7 +323,8 @@
         "Held"
       ],
       "description": "The waves are louder than your prayers, and you're starting to wonder if Jesus is asleep. He's in the boat with you. When He stands up, the storm sits down.",
-      "scriptureRef": "mark-4-39"
+      "scriptureRef": "mark-4-39",
+      "rewardArt": "scene"
     }
   },
   "theme": "scripture-archetype"

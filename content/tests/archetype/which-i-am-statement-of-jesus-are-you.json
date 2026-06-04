@@ -260,7 +260,8 @@
         "text": "I am the bread of life.",
         "reference": "John 6:35",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "light-of-the-world": {
       "name": "I Am the Light of the World",
@@ -280,7 +281,8 @@
         "text": "I am the light of the world.",
         "reference": "John 8:12",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "good-shepherd": {
       "name": "I Am the Good Shepherd",
@@ -300,7 +302,8 @@
         "text": "I am the good shepherd.",
         "reference": "John 10:11",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "resurrection-and-life": {
       "name": "I Am the Resurrection and the Life",
@@ -320,7 +323,8 @@
         "text": "I am the resurrection, and the life.",
         "reference": "John 11:25",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     },
     "true-vine": {
       "name": "I Am the True Vine",
@@ -340,7 +344,8 @@
         "text": "I am the true vine.",
         "reference": "John 15:1",
         "translation": "ASV"
-      }
+      },
+      "rewardArt": "symbol"
     }
   },
   "theme": "scripture-archetype"
