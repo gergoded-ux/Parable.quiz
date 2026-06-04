@@ -24,17 +24,6 @@
   {
     "quizSlug": "found-by-god-story",
     "quizTitle": "Which \"Found by God\" Story Is Yours?",
-    "resultKey": "lost-sheep",
-    "resultName": "The Lost Sheep",
-    "rewardArt": "character",
-    "category": "bible-character",
-    "status": "live",
-    "hasImage": false,
-    "path": "public/results/found-by-god-story/lost-sheep.png"
-  },
-  {
-    "quizSlug": "found-by-god-story",
-    "quizTitle": "Which \"Found by God\" Story Is Yours?",
     "resultKey": "prodigal",
     "resultName": "The Prodigal Who Came Home",
     "rewardArt": "character",
@@ -1025,17 +1014,6 @@
   {
     "quizSlug": "which-christmas-character-are-you",
     "quizTitle": "Which Christmas Story Character Are You?",
-    "resultKey": "angel",
-    "resultName": "The Announcing Angel",
-    "rewardArt": "character",
-    "category": "bible-character",
-    "status": "live",
-    "hasImage": false,
-    "path": "public/results/which-christmas-character-are-you/angel.png"
-  },
-  {
-    "quizSlug": "which-christmas-character-are-you",
-    "quizTitle": "Which Christmas Story Character Are You?",
     "resultKey": "innkeeper",
     "resultName": "The Innkeeper",
     "rewardArt": "character",
@@ -1815,6 +1793,17 @@
     "path": "public/results/which-wounded-but-healed-bible-figure/paul.png"
   },
   {
+    "quizSlug": "found-by-god-story",
+    "quizTitle": "Which \"Found by God\" Story Is Yours?",
+    "resultKey": "lost-sheep",
+    "resultName": "The Lost Sheep",
+    "rewardArt": "creature",
+    "category": "bible-character",
+    "status": "live",
+    "hasImage": false,
+    "path": "public/results/found-by-god-story/lost-sheep.png"
+  },
+  {
     "quizSlug": "which-bible-animal-are-you",
     "quizTitle": "Which Bible Animal Are You?",
     "resultKey": "donkey",
@@ -1945,6 +1934,17 @@
     "status": "live",
     "hasImage": false,
     "path": "public/results/which-biblically-accurate-angel-are-you/seraphim.png"
+  },
+  {
+    "quizSlug": "which-christmas-character-are-you",
+    "quizTitle": "Which Christmas Story Character Are You?",
+    "resultKey": "angel",
+    "resultName": "The Announcing Angel",
+    "rewardArt": "creature",
+    "category": "bible-character",
+    "status": "live",
+    "hasImage": false,
+    "path": "public/results/which-christmas-character-are-you/angel.png"
   },
   {
     "quizSlug": "which-piece-of-the-armor-of-god-are-you",

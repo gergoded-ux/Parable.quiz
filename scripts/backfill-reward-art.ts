@@ -32,7 +32,10 @@ const QUIZ_TYPE: Record<string, RewardArt> = {
 };
 
 // Per-result exceptions inside a mixed quiz: key is "slug/resultKey".
-const OVERRIDES: Record<string, RewardArt> = {};
+const OVERRIDES: Record<string, RewardArt> = {
+  'which-christmas-character-are-you/angel': 'creature', // the announcing angel
+  'found-by-god-story/lost-sheep': 'creature',           // the lost sheep (an animal)
+};
 
 function main() {
   const unresolved: string[] = [];
