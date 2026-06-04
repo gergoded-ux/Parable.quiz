@@ -125,7 +125,7 @@
     "category": "bible-character",
     "theme": "discipleship",
     "mode": "archetype",
-    "status": "backlog",
+    "status": "live",
     "hasCover": false,
     "virality": null
   },
@@ -135,7 +135,7 @@
     "category": "bible-character",
     "theme": "discipleship",
     "mode": "archetype",
-    "status": "backlog",
+    "status": "live",
     "hasCover": false,
     "virality": null
   },
@@ -145,7 +145,7 @@
     "category": "bible-character",
     "theme": "discipleship",
     "mode": "archetype",
-    "status": "backlog",
+    "status": "live",
     "hasCover": false,
     "virality": null
   },
@@ -186,7 +186,7 @@
     "theme": "forgiveness",
     "mode": "archetype",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 88
   },
   {
@@ -665,7 +665,7 @@
     "category": "bible-character",
     "theme": "scripture-archetype",
     "mode": "archetype",
-    "status": "backlog",
+    "status": "live",
     "hasCover": false,
     "virality": null
   },
@@ -675,7 +675,7 @@
     "category": "bible-character",
     "theme": "scripture-archetype",
     "mode": "archetype",
-    "status": "backlog",
+    "status": "live",
     "hasCover": false,
     "virality": null
   },
@@ -685,7 +685,7 @@
     "category": "bible-character",
     "theme": "scripture-archetype",
     "mode": "archetype",
-    "status": "backlog",
+    "status": "live",
     "hasCover": false,
     "virality": null
   },
@@ -695,7 +695,7 @@
     "category": "bible-character",
     "theme": "scripture-archetype",
     "mode": "archetype",
-    "status": "backlog",
+    "status": "live",
     "hasCover": false,
     "virality": null
   },
@@ -705,7 +705,7 @@
     "category": "bible-character",
     "theme": "scripture-archetype",
     "mode": "archetype",
-    "status": "backlog",
+    "status": "live",
     "hasCover": false,
     "virality": null
   },
@@ -715,7 +715,7 @@
     "category": "bible-character",
     "theme": "scripture-archetype",
     "mode": "archetype",
-    "status": "backlog",
+    "status": "live",
     "hasCover": false,
     "virality": null
   },
@@ -725,7 +725,7 @@
     "category": "bible-character",
     "theme": "scripture-archetype",
     "mode": "archetype",
-    "status": "backlog",
+    "status": "live",
     "hasCover": false,
     "virality": null
   },
@@ -735,7 +735,7 @@
     "category": "bible-character",
     "theme": "scripture-archetype",
     "mode": "archetype",
-    "status": "backlog",
+    "status": "live",
     "hasCover": false,
     "virality": null
   },
@@ -745,7 +745,7 @@
     "category": "bible-character",
     "theme": "scripture-archetype",
     "mode": "archetype",
-    "status": "backlog",
+    "status": "live",
     "hasCover": false,
     "virality": null
   },
@@ -1986,7 +1986,7 @@
     "theme": "grief-loss",
     "mode": "profile",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 88
   },
   {
@@ -2356,7 +2356,7 @@
     "theme": "money-work",
     "mode": "profile",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 88
   },
   {
@@ -2476,7 +2476,7 @@
     "theme": "relationships-dating",
     "mode": "profile",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 88
   },
   {
@@ -2486,7 +2486,7 @@
     "theme": "relationships-dating",
     "mode": "profile",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 88
   },
   {
