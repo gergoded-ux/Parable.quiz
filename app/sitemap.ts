@@ -2,7 +2,7 @@
 import type { MetadataRoute } from 'next';
 import { loadPublishedTests } from '@/lib/test-loader';
 
-const BASE = 'https://parable.quiz';
+const BASE = 'https://eikonia.art';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const tests = loadPublishedTests();

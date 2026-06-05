@@ -27,7 +27,7 @@ export async function generateMetadata({ params, searchParams }: { params: Promi
   const test = loadTestBySlug(slug);
   if (!test || !isPublished(slug)) return {};
   let title = test.title;
-  let description = `Take ${test.title} on Parable.`;
+  let description = `Take ${test.title} on Eikonia.`;
   if (test.mode === 'archetype') {
     const r = test.results[key];
     if (r) {
@@ -64,8 +64,8 @@ export default async function ResultPage({ params, searchParams }: { params: Pro
   if (!cardData) notFound();
 
   const mq = matchPct !== null ? `?m=${matchPct}` : '';
-  const shareUrl = `https://parable.quiz/q/${test.slug}/r/${key}${mq}`;
-  const ogImageAbs = `https://parable.quiz/og/${test.slug}/${key}${mq}`;
+  const shareUrl = `https://eikonia.art/q/${test.slug}/r/${key}${mq}`;
+  const ogImageAbs = `https://eikonia.art/og/${test.slug}/${key}${mq}`;
 
   let cardProps;
   let shareText;
@@ -74,7 +74,7 @@ export default async function ResultPage({ params, searchParams }: { params: Pro
     const r = test.results[key];
     if (!r) notFound();
     cardProps = { mode: 'archetype' as const, name: r.name, emoji: r.emoji, traits: r.traits, description: r.description, scriptureRef: r.scriptureRef, scripture: r.scripture };
-    shareText = `I got "${r.name}" on Parable — what's yours?`;
+    shareText = `I got "${r.name}" on Eikonia. What's yours?`;
   } else if (test.mode === 'profile') {
     const r = test.results[key];
     if (!r) notFound();
@@ -83,7 +83,7 @@ export default async function ResultPage({ params, searchParams }: { params: Pro
       scriptureRef: r.scriptureRef, scripture: r.scripture,
       topDimensions: [{ dimension: key, score: 100, label: r.name }],
     };
-    shareText = `I got "${r.name}" on Parable — what's yours?`;
+    shareText = `I got "${r.name}" on Eikonia. What's yours?`;
   } else {
     const percent = parseInt(key, 10);
     if (isNaN(percent)) notFound();
@@ -92,7 +92,7 @@ export default async function ResultPage({ params, searchParams }: { params: Pro
     const total = test.questions.length;
     const correct = Math.round((percent / 100) * total);
     cardProps = { mode: 'knowledge' as const, percent, correct, total, bandLabel: band.label, message: band.message };
-    shareText = `I scored ${percent}% on ${test.title}. Try it on Parable!`;
+    shareText = `I scored ${percent}% on ${test.title}. Try it on Eikonia!`;
   }
 
   return (

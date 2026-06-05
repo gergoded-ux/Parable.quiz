@@ -6,7 +6,7 @@ import { motion } from "framer-motion";
 
 import { cn } from "@/lib/utils";
 
-// Adapted for Parable's warm design system (the project is not a stock shadcn
+// Adapted for Eikonia's warm design system (the project is not a stock shadcn
 // install): shadcn tokens like `bg-card` / `text-muted-foreground` don't exist
 // here, so the base styles use the project's own tokens (white, rose, brown,
 // ink) defined in app/globals.css. The animated hover-lift is preserved.

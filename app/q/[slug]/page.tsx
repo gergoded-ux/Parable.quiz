@@ -17,7 +17,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   if (!test || !isPublished(slug)) return {};
   return {
     title: test.title,
-    description: test.subtitle ?? `Take the ${test.title} quiz on Parable.`,
+    description: test.subtitle ?? `Take the ${test.title} quiz on Eikonia.`,
     openGraph: { title: test.title, type: 'website' },
   };
 }

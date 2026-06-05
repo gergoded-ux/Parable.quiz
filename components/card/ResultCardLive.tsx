@@ -32,7 +32,7 @@ export function ResultCardLive({ data, cardRef }: { data: CardData; cardRef?: Re
             background: CARD.panel.bg, border: `1px solid ${CARD.panel.border}`, borderRadius: 12,
             display: 'flex', flexDirection: 'column', alignItems: 'center', padding: '9px 11px 9px 22px', textAlign: 'center' }}>
             <StarRail filled={data.rarity.stars} material={data.rarity.material} />
-            <div style={{ fontFamily: CARD.fonts.display, fontWeight: 700, fontSize: 10, letterSpacing: 3, color: CARD.ink.wm }}>PARABLE</div>
+            <div style={{ fontFamily: CARD.fonts.display, fontWeight: 700, fontSize: 10, letterSpacing: 3, color: CARD.ink.wm }}>EIKONIA</div>
             <div style={{ width: 130, height: 130, margin: '4px auto 0', borderRadius: 10, overflow: 'hidden', border: '1.5px solid rgba(212,175,55,.7)' }}>
               {data.hasArt
                 ? <img src={artUrl(data.slug, data.artKey)} alt="" crossOrigin="anonymous" style={{ width: '100%', height: '100%', objectFit: 'cover', objectPosition: 'center 20%' }} />

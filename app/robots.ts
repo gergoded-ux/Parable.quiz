@@ -4,6 +4,6 @@ import type { MetadataRoute } from 'next';
 export default function robots(): MetadataRoute.Robots {
   return {
     rules: [{ userAgent: '*', allow: '/' }],
-    sitemap: 'https://parable.quiz/sitemap.xml',
+    sitemap: 'https://eikonia.art/sitemap.xml',
   };
 }

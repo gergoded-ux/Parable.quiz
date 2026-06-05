@@ -77,7 +77,7 @@ export async function GET(req: Request, { params }: { params: Promise<{ slug: st
               </svg>
             ))}
           </div>
-          <div style={{ fontFamily: 'Cinzel', fontWeight: 700, fontSize: 30, letterSpacing: 6, color: CARD.ink.wm, display: 'flex' }}>PARABLE</div>
+          <div style={{ fontFamily: 'Cinzel', fontWeight: 700, fontSize: 30, letterSpacing: 6, color: CARD.ink.wm, display: 'flex' }}>EIKONIA</div>
           {/* image window */}
           <div style={{ width: 470, height: 470, marginTop: 14, borderRadius: 24, overflow: 'hidden', border: '4px solid rgba(212,175,55,.7)', display: 'flex' }}>
             {d.hasArt

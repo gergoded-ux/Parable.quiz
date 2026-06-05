@@ -28,14 +28,14 @@ export function ShareBar({ url, text, image, cardEl, showCardShare }: { url: str
     try {
       const blob = await toBlob(cardEl, { pixelRatio: 3, cacheBust: true });
       if (!blob) throw new Error('snapshot failed');
-      const file = new File([blob], 'parable-card.png', { type: 'image/png' });
+      const file = new File([blob], 'eikonia-card.png', { type: 'image/png' });
       if (navigator.canShare?.({ files: [file] })) {
         await navigator.share({ files: [file], text });
       } else {
         const href = URL.createObjectURL(blob);
         const a = document.createElement('a');
         a.href = href;
-        a.download = 'parable-card.png';
+        a.download = 'eikonia-card.png';
         a.click();
         URL.revokeObjectURL(href);
       }

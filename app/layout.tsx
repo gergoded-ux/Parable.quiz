@@ -4,6 +4,7 @@ import { Inter } from 'next/font/google';
 import { Analytics } from '@vercel/analytics/react';
 import { SpeedInsights } from '@vercel/speed-insights/next';
 import './globals.css';
+import { SiteFooter } from '@/components/SiteFooter';
 
 const inter = Inter({
   subsets: ['latin'],
@@ -11,10 +12,10 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: { default: "Parable — What's your parable?", template: '%s · Parable' },
-  description: '20 quizzes that reveal what scripture says about you. Always free, no sign-up.',
-  metadataBase: new URL('https://parable.quiz'),
-  openGraph: { siteName: 'Parable', type: 'website' },
+  title: { default: "Eikonia: What's your reflection?", template: '%s · Eikonia' },
+  description: 'Free Christian quizzes that reveal what scripture says about you. No sign-up.',
+  metadataBase: new URL('https://eikonia.art'),
+  openGraph: { siteName: 'Eikonia', type: 'website' },
   twitter: { card: 'summary_large_image' },
 };
 
@@ -23,6 +24,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="en" className={inter.variable}>
       <body>
         {children}
+        <SiteFooter />
         <Analytics />
         <SpeedInsights />
       </body>

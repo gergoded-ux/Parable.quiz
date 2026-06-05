@@ -21,7 +21,7 @@ export default function Home() {
       <HomeNav />
       <header className="text-center py-16 px-8">
         <h1 className="text-4xl md:text-5xl font-extrabold text-brown-dark -tracking-wide mb-3">
-          What&rsquo;s your parable?
+          What&rsquo;s your reflection?
         </h1>
         <p className="text-base text-ink-soft mb-3">{all.length} quizzes that reveal what scripture says about you.</p>
         <div className="text-xs uppercase tracking-widest text-ink-mute">{all.length} QUIZZES · ALWAYS FREE · NO SIGN-UP</div>
@@ -53,9 +53,6 @@ export default function Home() {
         </Section>
       )}
 
-      <footer className="px-8 py-8 text-center text-xs text-ink-mute">
-        © Parable · <a href="/about">About</a> · <a href="/privacy">Privacy</a>
-      </footer>
     </>
   );
 }
