@@ -29,7 +29,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/found-by-god-story/prodigal.png"
   },
   {
@@ -40,7 +40,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/found-by-god-story/woman-at-the-well.png"
   },
   {
@@ -51,7 +51,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/found-by-god-story/zacchaeus.png"
   },
   {
@@ -62,7 +62,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/mary-or-martha/martha.png"
   },
   {
@@ -73,7 +73,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/mary-or-martha/mary.png"
   },
   {
@@ -84,7 +84,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/unseen-by-god-moment/david-in-the-caves.png"
   },
   {
@@ -95,7 +95,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/unseen-by-god-moment/elijah-under-the-broom-tree.png"
   },
   {
@@ -106,7 +106,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/unseen-by-god-moment/hagar-in-the-wilderness.png"
   },
   {
@@ -117,7 +117,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/unseen-by-god-moment/hannah-at-the-temple.png"
   },
   {
@@ -128,7 +128,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-apostle-are-you/andrew.png"
   },
   {
@@ -139,7 +139,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-apostle-are-you/bartholomew.png"
   },
   {
@@ -150,7 +150,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-apostle-are-you/james.png"
   },
   {
@@ -161,7 +161,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-apostle-are-you/john.png"
   },
   {
@@ -172,7 +172,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-apostle-are-you/matthew.png"
   },
   {
@@ -183,7 +183,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-apostle-are-you/peter.png"
   },
   {
@@ -194,7 +194,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-apostle-are-you/philip.png"
   },
   {
@@ -205,7 +205,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-apostle-are-you/thomas.png"
   },
   {
@@ -216,7 +216,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-character-are-you/daniel.png"
   },
   {
@@ -227,7 +227,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-character-are-you/david.png"
   },
   {
@@ -238,7 +238,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-character-are-you/esther.png"
   },
   {
@@ -249,7 +249,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-character-are-you/joseph.png"
   },
   {
@@ -260,7 +260,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-character-are-you/mary.png"
   },
   {
@@ -271,7 +271,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-character-are-you/moses.png"
   },
   {
@@ -282,7 +282,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-character-are-you/paul.png"
   },
   {
@@ -293,7 +293,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-character-are-you/ruth.png"
   },
   {
@@ -304,7 +304,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-couple-is-your-relationship/abigail-and-nabal.png"
   },
   {
@@ -315,7 +315,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-couple-is-your-relationship/abraham-and-sarah.png"
   },
   {
@@ -326,7 +326,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-couple-is-your-relationship/hosea-and-gomer.png"
   },
   {
@@ -337,7 +337,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-couple-is-your-relationship/jacob-and-rachel.png"
   },
   {
@@ -348,7 +348,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-couple-is-your-relationship/priscilla-and-aquila.png"
   },
   {
@@ -359,7 +359,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-couple-is-your-relationship/ruth-and-boaz.png"
   },
   {
@@ -370,7 +370,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-dreamer-are-you/daniel.png"
   },
   {
@@ -381,7 +381,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-dreamer-are-you/jacob.png"
   },
   {
@@ -392,7 +392,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-dreamer-are-you/joseph.png"
   },
   {
@@ -403,7 +403,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-dreamer-are-you/pilateswife.png"
   },
   {
@@ -414,7 +414,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-dreamer-are-you/solomon.png"
   },
   {
@@ -502,7 +502,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-figure-wounded-by-religious-leaders/david.png"
   },
   {
@@ -513,7 +513,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-figure-wounded-by-religious-leaders/hannah.png"
   },
   {
@@ -524,7 +524,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-figure-wounded-by-religious-leaders/jeremiah.png"
   },
   {
@@ -535,7 +535,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-figure-wounded-by-religious-leaders/jesus.png"
   },
   {
@@ -546,7 +546,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-figure-wounded-by-religious-leaders/man-born-blind.png"
   },
   {
@@ -557,7 +557,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-figures-grief-mirrors-yours/david.png"
   },
   {
@@ -568,7 +568,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-figures-grief-mirrors-yours/jesus.png"
   },
   {
@@ -579,7 +579,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-figures-grief-mirrors-yours/job.png"
   },
   {
@@ -590,7 +590,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-figures-grief-mirrors-yours/mary-and-martha.png"
   },
   {
@@ -601,7 +601,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-figures-grief-mirrors-yours/naomi.png"
   },
   {
@@ -612,7 +612,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-king-are-you/david.png"
   },
   {
@@ -623,7 +623,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-king-are-you/hezekiah.png"
   },
   {
@@ -634,7 +634,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-king-are-you/josiah.png"
   },
   {
@@ -645,7 +645,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-king-are-you/saul.png"
   },
   {
@@ -656,7 +656,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-king-are-you/solomon.png"
   },
   {
@@ -667,7 +667,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-money-figure-are-you/job.png"
   },
   {
@@ -678,7 +678,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-money-figure-are-you/rich-young-ruler.png"
   },
   {
@@ -689,7 +689,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-money-figure-are-you/solomon.png"
   },
   {
@@ -700,7 +700,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-money-figure-are-you/widow-two-coins.png"
   },
   {
@@ -711,7 +711,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-money-figure-are-you/zacchaeus.png"
   },
   {
@@ -722,7 +722,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-parent-are-you/david.png"
   },
   {
@@ -733,7 +733,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-parent-are-you/eli.png"
   },
   {
@@ -744,7 +744,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-parent-are-you/eunice-and-lois.png"
   },
   {
@@ -755,7 +755,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-parent-are-you/hannah.png"
   },
   {
@@ -766,7 +766,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-parent-are-you/jochebed.png"
   },
   {
@@ -777,7 +777,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-parent-are-you/mary.png"
   },
   {
@@ -788,7 +788,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-queen-are-you/bathsheba.png"
   },
   {
@@ -799,7 +799,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-queen-are-you/esther.png"
   },
   {
@@ -810,7 +810,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-queen-are-you/jezebel.png"
   },
   {
@@ -821,7 +821,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-queen-are-you/sheba.png"
   },
   {
@@ -832,7 +832,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-queen-are-you/vashti.png"
   },
   {
@@ -843,7 +843,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-villain-are-you/goliath.png"
   },
   {
@@ -854,7 +854,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-villain-are-you/herod.png"
   },
   {
@@ -865,7 +865,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-villain-are-you/jezebel.png"
   },
   {
@@ -876,7 +876,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-villain-are-you/judas.png"
   },
   {
@@ -887,7 +887,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-villain-are-you/pharaoh.png"
   },
   {
@@ -898,7 +898,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-warrior-are-you/david.png"
   },
   {
@@ -909,7 +909,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-warrior-are-you/deborah.png"
   },
   {
@@ -920,7 +920,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-warrior-are-you/gideon.png"
   },
   {
@@ -931,7 +931,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-warrior-are-you/joshua.png"
   },
   {
@@ -942,7 +942,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-warrior-are-you/samson.png"
   },
   {
@@ -953,7 +953,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-burned-out-bible-hero-are-you/elijah.png"
   },
   {
@@ -964,7 +964,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-burned-out-bible-hero-are-you/jeremiah.png"
   },
   {
@@ -975,7 +975,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-burned-out-bible-hero-are-you/jonah.png"
   },
   {
@@ -986,7 +986,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-burned-out-bible-hero-are-you/martha.png"
   },
   {
@@ -997,7 +997,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-burned-out-bible-hero-are-you/moses.png"
   },
   {
@@ -1008,7 +1008,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-burned-out-bible-hero-are-you/naomi.png"
   },
   {
@@ -1019,7 +1019,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-christmas-character-are-you/innkeeper.png"
   },
   {
@@ -1030,7 +1030,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-christmas-character-are-you/joseph.png"
   },
   {
@@ -1041,7 +1041,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-christmas-character-are-you/mary.png"
   },
   {
@@ -1052,7 +1052,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-christmas-character-are-you/shepherds.png"
   },
   {
@@ -1063,7 +1063,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-christmas-character-are-you/wise-men.png"
   },
   {
@@ -1074,7 +1074,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-doubting-bible-figure-are-you/gideon.png"
   },
   {
@@ -1085,7 +1085,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-doubting-bible-figure-are-you/job.png"
   },
   {
@@ -1096,7 +1096,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-doubting-bible-figure-are-you/john-the-baptist.png"
   },
   {
@@ -1107,7 +1107,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-doubting-bible-figure-are-you/mark-9-father.png"
   },
   {
@@ -1118,7 +1118,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-doubting-bible-figure-are-you/sarah.png"
   },
   {
@@ -1129,7 +1129,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-doubting-bible-figure-are-you/thomas.png"
   },
   {
@@ -1140,7 +1140,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-forgiven-bible-figure-are-you/david.png"
   },
   {
@@ -1151,7 +1151,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-forgiven-bible-figure-are-you/paul.png"
   },
   {
@@ -1162,7 +1162,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-forgiven-bible-figure-are-you/peter.png"
   },
   {
@@ -1173,7 +1173,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-forgiven-bible-figure-are-you/prodigal.png"
   },
   {
@@ -1184,7 +1184,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-forgiven-bible-figure-are-you/woman-caught-in-adultery.png"
   },
   {
@@ -1195,7 +1195,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-gospel-writer-are-you/john.png"
   },
   {
@@ -1206,7 +1206,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-gospel-writer-are-you/luke.png"
   },
   {
@@ -1217,7 +1217,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-gospel-writer-are-you/mark.png"
   },
   {
@@ -1228,7 +1228,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-gospel-writer-are-you/matthew.png"
   },
   {
@@ -1239,7 +1239,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-judge-of-israel-are-you/deborah.png"
   },
   {
@@ -1250,7 +1250,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-judge-of-israel-are-you/gideon.png"
   },
   {
@@ -1261,7 +1261,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-judge-of-israel-are-you/jephthah.png"
   },
   {
@@ -1272,7 +1272,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-judge-of-israel-are-you/othniel.png"
   },
   {
@@ -1283,7 +1283,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-judge-of-israel-are-you/samson.png"
   },
   {
@@ -1294,7 +1294,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-miracle-working-prophet-are-you/elijah.png"
   },
   {
@@ -1305,7 +1305,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-miracle-working-prophet-are-you/elisha.png"
   },
   {
@@ -1316,7 +1316,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-miracle-working-prophet-are-you/moses.png"
   },
   {
@@ -1327,7 +1327,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-miracle-working-prophet-are-you/paul.png"
   },
   {
@@ -1338,7 +1338,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-miracle-working-prophet-are-you/peter.png"
   },
   {
@@ -1349,7 +1349,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-overlooked-bible-person-are-you/hagar.png"
   },
   {
@@ -1360,7 +1360,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-overlooked-bible-person-are-you/leah.png"
   },
   {
@@ -1371,7 +1371,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-overlooked-bible-person-are-you/mephibosheth.png"
   },
   {
@@ -1382,7 +1382,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-overlooked-bible-person-are-you/zacchaeus.png"
   },
   {
@@ -1393,7 +1393,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-patriarch-are-you/abraham.png"
   },
   {
@@ -1404,7 +1404,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-patriarch-are-you/isaac.png"
   },
   {
@@ -1415,7 +1415,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-patriarch-are-you/jacob.png"
   },
   {
@@ -1426,7 +1426,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-patriarch-are-you/joseph.png"
   },
   {
@@ -1437,7 +1437,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-prophet-are-you/daniel.png"
   },
   {
@@ -1448,7 +1448,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-prophet-are-you/elijah.png"
   },
   {
@@ -1459,7 +1459,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-prophet-are-you/ezekiel.png"
   },
   {
@@ -1470,7 +1470,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-prophet-are-you/hosea.png"
   },
   {
@@ -1481,7 +1481,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-prophet-are-you/isaiah.png"
   },
   {
@@ -1492,7 +1492,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-prophet-are-you/jeremiah.png"
   },
   {
@@ -1503,7 +1503,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-prophet-are-you/jonah.png"
   },
   {
@@ -1514,7 +1514,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-waiting-season-bible-figure/abraham.png"
   },
   {
@@ -1525,7 +1525,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-waiting-season-bible-figure/david.png"
   },
   {
@@ -1536,7 +1536,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-waiting-season-bible-figure/hannah.png"
   },
   {
@@ -1547,7 +1547,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-waiting-season-bible-figure/joseph.png"
   },
   {
@@ -1558,7 +1558,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-waiting-season-bible-figure/moses.png"
   },
   {
@@ -1569,7 +1569,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-waiting-season-bible-figure/sarah.png"
   },
   {
@@ -1580,7 +1580,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-when-god-is-silent-figure-are-you/asaph.png"
   },
   {
@@ -1591,7 +1591,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-when-god-is-silent-figure-are-you/david-in-the-cave.png"
   },
   {
@@ -1602,7 +1602,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-when-god-is-silent-figure-are-you/elijah.png"
   },
   {
@@ -1613,7 +1613,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-when-god-is-silent-figure-are-you/habakkuk.png"
   },
   {
@@ -1624,7 +1624,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-when-god-is-silent-figure-are-you/hannah.png"
   },
   {
@@ -1635,7 +1635,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-when-god-is-silent-figure-are-you/job.png"
   },
   {
@@ -1646,7 +1646,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-woman-of-the-bible-are-you/deborah.png"
   },
   {
@@ -1657,7 +1657,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-woman-of-the-bible-are-you/esther.png"
   },
   {
@@ -1668,7 +1668,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-woman-of-the-bible-are-you/hannah.png"
   },
   {
@@ -1679,7 +1679,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-woman-of-the-bible-are-you/martha.png"
   },
   {
@@ -1690,7 +1690,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-woman-of-the-bible-are-you/mary-of-bethany.png"
   },
   {
@@ -1701,7 +1701,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-woman-of-the-bible-are-you/priscilla.png"
   },
   {
@@ -1712,7 +1712,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-woman-of-the-bible-are-you/rahab.png"
   },
   {
@@ -1723,7 +1723,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-woman-of-the-bible-are-you/ruth.png"
   },
   {
@@ -1734,7 +1734,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-wounded-but-healed-bible-figure/bleeding-woman.png"
   },
   {
@@ -1745,7 +1745,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-wounded-but-healed-bible-figure/hagar.png"
   },
   {
@@ -1756,7 +1756,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-wounded-but-healed-bible-figure/joseph.png"
   },
   {
@@ -1767,7 +1767,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-wounded-but-healed-bible-figure/mephibosheth.png"
   },
   {
@@ -1778,7 +1778,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-wounded-but-healed-bible-figure/naomi.png"
   },
   {
@@ -1789,7 +1789,7 @@
     "rewardArt": "character",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-wounded-but-healed-bible-figure/paul.png"
   },
   {
@@ -1800,7 +1800,7 @@
     "rewardArt": "creature",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/found-by-god-story/lost-sheep.png"
   },
   {
@@ -1811,7 +1811,7 @@
     "rewardArt": "creature",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-animal-are-you/donkey.png"
   },
   {
@@ -1822,7 +1822,7 @@
     "rewardArt": "creature",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-animal-are-you/dove.png"
   },
   {
@@ -1833,7 +1833,7 @@
     "rewardArt": "creature",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-animal-are-you/eagle.png"
   },
   {
@@ -1844,7 +1844,7 @@
     "rewardArt": "creature",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-animal-are-you/lamb.png"
   },
   {
@@ -1855,7 +1855,7 @@
     "rewardArt": "creature",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-animal-are-you/lion-of-judah.png"
   },
   {
@@ -1866,7 +1866,7 @@
     "rewardArt": "creature",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-animal-are-you/serpent.png"
   },
   {
@@ -1877,7 +1877,7 @@
     "rewardArt": "creature",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-animal-are-you/sheep.png"
   },
   {
@@ -1888,7 +1888,7 @@
     "rewardArt": "creature",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-biblically-accurate-angel-are-you/cherubim.png"
   },
   {
@@ -1899,7 +1899,7 @@
     "rewardArt": "creature",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-biblically-accurate-angel-are-you/gabriel.png"
   },
   {
@@ -1910,7 +1910,7 @@
     "rewardArt": "creature",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-biblically-accurate-angel-are-you/michael.png"
   },
   {
@@ -1921,7 +1921,7 @@
     "rewardArt": "creature",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-biblically-accurate-angel-are-you/ophanim.png"
   },
   {
@@ -1932,7 +1932,7 @@
     "rewardArt": "creature",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-biblically-accurate-angel-are-you/seraphim.png"
   },
   {
@@ -1943,7 +1943,7 @@
     "rewardArt": "creature",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-christmas-character-are-you/angel.png"
   },
   {
@@ -1954,7 +1954,7 @@
     "rewardArt": "object",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-piece-of-the-armor-of-god-are-you/belt-of-truth.png"
   },
   {
@@ -1965,7 +1965,7 @@
     "rewardArt": "object",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-piece-of-the-armor-of-god-are-you/breastplate-of-righteousness.png"
   },
   {
@@ -1976,7 +1976,7 @@
     "rewardArt": "object",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-piece-of-the-armor-of-god-are-you/helmet-of-salvation.png"
   },
   {
@@ -1987,7 +1987,7 @@
     "rewardArt": "object",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-piece-of-the-armor-of-god-are-you/shield-of-faith.png"
   },
   {
@@ -1998,7 +1998,7 @@
     "rewardArt": "object",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-piece-of-the-armor-of-god-are-you/shoes-of-the-gospel-of-peace.png"
   },
   {
@@ -2009,7 +2009,7 @@
     "rewardArt": "object",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-piece-of-the-armor-of-god-are-you/sword-of-the-spirit.png"
   },
   {
@@ -2020,7 +2020,7 @@
     "rewardArt": "place",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-city-are-you/babylon.png"
   },
   {
@@ -2031,7 +2031,7 @@
     "rewardArt": "place",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-city-are-you/bethlehem.png"
   },
   {
@@ -2042,7 +2042,7 @@
     "rewardArt": "place",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-city-are-you/jericho.png"
   },
   {
@@ -2053,7 +2053,7 @@
     "rewardArt": "place",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-city-are-you/jerusalem.png"
   },
   {
@@ -2064,7 +2064,7 @@
     "rewardArt": "place",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-city-are-you/nazareth.png"
   },
   {
@@ -2075,7 +2075,7 @@
     "rewardArt": "place",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-city-are-you/nineveh.png"
   },
   {
@@ -2086,7 +2086,7 @@
     "rewardArt": "place",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-mountain-are-you/ararat.png"
   },
   {
@@ -2097,7 +2097,7 @@
     "rewardArt": "place",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-mountain-are-you/beatitudes.png"
   },
   {
@@ -2108,7 +2108,7 @@
     "rewardArt": "place",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-mountain-are-you/carmel.png"
   },
   {
@@ -2119,7 +2119,7 @@
     "rewardArt": "place",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-mountain-are-you/olives.png"
   },
   {
@@ -2130,7 +2130,7 @@
     "rewardArt": "place",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-mountain-are-you/sinai.png"
   },
   {
@@ -2141,8 +2141,261 @@
     "rewardArt": "place",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-mountain-are-you/zion.png"
+  },
+  {
+    "quizSlug": "apostle-paul-iq",
+    "quizTitle": "Apostle Paul IQ",
+    "resultKey": "card",
+    "resultName": "Score card",
+    "rewardArt": "scene",
+    "category": "bible-iq",
+    "status": "live",
+    "hasImage": true,
+    "path": "public/results/apostle-paul-iq/card.png"
+  },
+  {
+    "quizSlug": "bible-doubters-iq",
+    "quizTitle": "Bible Doubters IQ: Who Really Said It?",
+    "resultKey": "card",
+    "resultName": "Score card",
+    "rewardArt": "scene",
+    "category": "bible-iq",
+    "status": "live",
+    "hasImage": true,
+    "path": "public/results/bible-doubters-iq/card.png"
+  },
+  {
+    "quizSlug": "book-of-acts-iq",
+    "quizTitle": "Book of Acts IQ",
+    "resultKey": "card",
+    "resultName": "Score card",
+    "rewardArt": "scene",
+    "category": "bible-iq",
+    "status": "live",
+    "hasImage": true,
+    "path": "public/results/book-of-acts-iq/card.png"
+  },
+  {
+    "quizSlug": "book-of-judges-iq",
+    "quizTitle": "Book of Judges IQ",
+    "resultKey": "card",
+    "resultName": "Score card",
+    "rewardArt": "scene",
+    "category": "bible-iq",
+    "status": "live",
+    "hasImage": true,
+    "path": "public/results/book-of-judges-iq/card.png"
+  },
+  {
+    "quizSlug": "easter-resurrection-iq",
+    "quizTitle": "Easter and the Resurrection IQ",
+    "resultKey": "card",
+    "resultName": "Score card",
+    "rewardArt": "scene",
+    "category": "bible-iq",
+    "status": "live",
+    "hasImage": true,
+    "path": "public/results/easter-resurrection-iq/card.png"
+  },
+  {
+    "quizSlug": "exodus-iq",
+    "quizTitle": "Exodus IQ",
+    "resultKey": "card",
+    "resultName": "Score card",
+    "rewardArt": "scene",
+    "category": "bible-iq",
+    "status": "live",
+    "hasImage": true,
+    "path": "public/results/exodus-iq/card.png"
+  },
+  {
+    "quizSlug": "genesis-iq",
+    "quizTitle": "Genesis IQ",
+    "resultKey": "card",
+    "resultName": "Score card",
+    "rewardArt": "scene",
+    "category": "bible-iq",
+    "status": "live",
+    "hasImage": true,
+    "path": "public/results/genesis-iq/card.png"
+  },
+  {
+    "quizSlug": "guess-the-bible-verse",
+    "quizTitle": "Guess the Bible Verse",
+    "resultKey": "card",
+    "resultName": "Score card",
+    "rewardArt": "scene",
+    "category": "bible-iq",
+    "status": "live",
+    "hasImage": true,
+    "path": "public/results/guess-the-bible-verse/card.png"
+  },
+  {
+    "quizSlug": "how-well-do-you-know-david-and-goliath",
+    "quizTitle": "How Well Do You Know David and Goliath?",
+    "resultKey": "card",
+    "resultName": "Score card",
+    "rewardArt": "scene",
+    "category": "bible-iq",
+    "status": "live",
+    "hasImage": true,
+    "path": "public/results/how-well-do-you-know-david-and-goliath/card.png"
+  },
+  {
+    "quizSlug": "how-well-do-you-know-moses",
+    "quizTitle": "How Well Do You Know Moses?",
+    "resultKey": "card",
+    "resultName": "Score card",
+    "rewardArt": "scene",
+    "category": "bible-iq",
+    "status": "live",
+    "hasImage": true,
+    "path": "public/results/how-well-do-you-know-moses/card.png"
+  },
+  {
+    "quizSlug": "how-well-do-you-know-revelation",
+    "quizTitle": "How Well Do You Know Revelation?",
+    "resultKey": "card",
+    "resultName": "Score card",
+    "rewardArt": "scene",
+    "category": "bible-iq",
+    "status": "live",
+    "hasImage": true,
+    "path": "public/results/how-well-do-you-know-revelation/card.png"
+  },
+  {
+    "quizSlug": "how-well-do-you-know-the-gospels",
+    "quizTitle": "How Well Do You Know the Gospels?",
+    "resultKey": "card",
+    "resultName": "Score card",
+    "rewardArt": "scene",
+    "category": "bible-iq",
+    "status": "live",
+    "hasImage": true,
+    "path": "public/results/how-well-do-you-know-the-gospels/card.png"
+  },
+  {
+    "quizSlug": "how-well-do-you-know-the-ten-commandments",
+    "quizTitle": "How Well Do You Know the Ten Commandments?",
+    "resultKey": "card",
+    "resultName": "Score card",
+    "rewardArt": "scene",
+    "category": "bible-iq",
+    "status": "live",
+    "hasImage": true,
+    "path": "public/results/how-well-do-you-know-the-ten-commandments/card.png"
+  },
+  {
+    "quizSlug": "how-well-do-you-know-the-ten-plagues",
+    "quizTitle": "The Ten Plagues IQ",
+    "resultKey": "card",
+    "resultName": "Score card",
+    "rewardArt": "scene",
+    "category": "bible-iq",
+    "status": "live",
+    "hasImage": true,
+    "path": "public/results/how-well-do-you-know-the-ten-plagues/card.png"
+  },
+  {
+    "quizSlug": "jesus-miracles-iq",
+    "quizTitle": "Jesus' Miracles IQ",
+    "resultKey": "card",
+    "resultName": "Score card",
+    "rewardArt": "scene",
+    "category": "bible-iq",
+    "status": "live",
+    "hasImage": true,
+    "path": "public/results/jesus-miracles-iq/card.png"
+  },
+  {
+    "quizSlug": "jesus-parables-iq",
+    "quizTitle": "Parables of Jesus IQ",
+    "resultKey": "card",
+    "resultName": "Score card",
+    "rewardArt": "scene",
+    "category": "bible-iq",
+    "status": "live",
+    "hasImage": true,
+    "path": "public/results/jesus-parables-iq/card.png"
+  },
+  {
+    "quizSlug": "jonah-iq",
+    "quizTitle": "Jonah IQ",
+    "resultKey": "card",
+    "resultName": "Score card",
+    "rewardArt": "scene",
+    "category": "bible-iq",
+    "status": "live",
+    "hasImage": true,
+    "path": "public/results/jonah-iq/card.png"
+  },
+  {
+    "quizSlug": "joseph-in-egypt-iq",
+    "quizTitle": "Joseph in Egypt IQ",
+    "resultKey": "card",
+    "resultName": "Score card",
+    "rewardArt": "scene",
+    "category": "bible-iq",
+    "status": "live",
+    "hasImage": true,
+    "path": "public/results/joseph-in-egypt-iq/card.png"
+  },
+  {
+    "quizSlug": "name-the-books-of-the-bible",
+    "quizTitle": "Name the Books of the Bible",
+    "resultKey": "card",
+    "resultName": "Score card",
+    "rewardArt": "scene",
+    "category": "bible-iq",
+    "status": "live",
+    "hasImage": true,
+    "path": "public/results/name-the-books-of-the-bible/card.png"
+  },
+  {
+    "quizSlug": "noahs-ark-iq",
+    "quizTitle": "Noah's Ark IQ",
+    "resultKey": "card",
+    "resultName": "Score card",
+    "rewardArt": "scene",
+    "category": "bible-iq",
+    "status": "live",
+    "hasImage": true,
+    "path": "public/results/noahs-ark-iq/card.png"
+  },
+  {
+    "quizSlug": "parables-iq",
+    "quizTitle": "Parables IQ",
+    "resultKey": "card",
+    "resultName": "Score card",
+    "rewardArt": "scene",
+    "category": "bible-iq",
+    "status": "live",
+    "hasImage": true,
+    "path": "public/results/parables-iq/card.png"
+  },
+  {
+    "quizSlug": "proverbs-wisdom-iq",
+    "quizTitle": "Proverbs Wisdom IQ",
+    "resultKey": "card",
+    "resultName": "Score card",
+    "rewardArt": "scene",
+    "category": "bible-iq",
+    "status": "live",
+    "hasImage": true,
+    "path": "public/results/proverbs-wisdom-iq/card.png"
+  },
+  {
+    "quizSlug": "verse-or-quote",
+    "quizTitle": "Verse or Inspirational Quote?",
+    "resultKey": "card",
+    "resultName": "Score card",
+    "rewardArt": "scene",
+    "category": "bible-iq",
+    "status": "live",
+    "hasImage": true,
+    "path": "public/results/verse-or-quote/card.png"
   },
   {
     "quizSlug": "which-bible-feast-are-you",
@@ -2152,7 +2405,7 @@
     "rewardArt": "scene",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-feast-are-you/day-of-atonement.png"
   },
   {
@@ -2163,7 +2416,7 @@
     "rewardArt": "scene",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-feast-are-you/passover.png"
   },
   {
@@ -2174,7 +2427,7 @@
     "rewardArt": "scene",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-feast-are-you/pentecost.png"
   },
   {
@@ -2185,7 +2438,7 @@
     "rewardArt": "scene",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-feast-are-you/tabernacles.png"
   },
   {
@@ -2196,7 +2449,7 @@
     "rewardArt": "scene",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-feast-are-you/trumpets.png"
   },
   {
@@ -2207,7 +2460,7 @@
     "rewardArt": "scene",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-miracle-are-you/feeding.png"
   },
   {
@@ -2218,7 +2471,7 @@
     "rewardArt": "scene",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-miracle-are-you/lazarus.png"
   },
   {
@@ -2229,7 +2482,7 @@
     "rewardArt": "scene",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-miracle-are-you/storm.png"
   },
   {
@@ -2240,7 +2493,7 @@
     "rewardArt": "scene",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-miracle-are-you/walking.png"
   },
   {
@@ -2251,7 +2504,7 @@
     "rewardArt": "scene",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-miracle-are-you/wine.png"
   },
   {
@@ -2262,7 +2515,7 @@
     "rewardArt": "scene",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-story-are-you-living/burning-bush.png"
   },
   {
@@ -2273,7 +2526,7 @@
     "rewardArt": "scene",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-story-are-you-living/exodus.png"
   },
   {
@@ -2284,7 +2537,7 @@
     "rewardArt": "scene",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-story-are-you-living/lions-den.png"
   },
   {
@@ -2295,7 +2548,7 @@
     "rewardArt": "scene",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-story-are-you-living/pentecost.png"
   },
   {
@@ -2306,7 +2559,7 @@
     "rewardArt": "scene",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-story-are-you-living/resurrection.png"
   },
   {
@@ -2317,7 +2570,7 @@
     "rewardArt": "scene",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-story-are-you-living/storm-at-sea.png"
   },
   {
@@ -2328,7 +2581,7 @@
     "rewardArt": "scene",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-bible-story-are-you-living/wilderness.png"
   },
   {
@@ -2339,7 +2592,7 @@
     "rewardArt": "scene",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-day-of-creation-are-you/day1.png"
   },
   {
@@ -2350,7 +2603,7 @@
     "rewardArt": "scene",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-day-of-creation-are-you/day2.png"
   },
   {
@@ -2361,7 +2614,7 @@
     "rewardArt": "scene",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-day-of-creation-are-you/day3.png"
   },
   {
@@ -2372,7 +2625,7 @@
     "rewardArt": "scene",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-day-of-creation-are-you/day4.png"
   },
   {
@@ -2383,7 +2636,7 @@
     "rewardArt": "scene",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-day-of-creation-are-you/day5.png"
   },
   {
@@ -2394,7 +2647,7 @@
     "rewardArt": "scene",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-day-of-creation-are-you/day6.png"
   },
   {
@@ -2405,7 +2658,7 @@
     "rewardArt": "scene",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-day-of-creation-are-you/day7.png"
   },
   {
@@ -2416,7 +2669,7 @@
     "rewardArt": "scene",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-parable-describes-your-life/good-samaritan.png"
   },
   {
@@ -2427,7 +2680,7 @@
     "rewardArt": "scene",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-parable-describes-your-life/lost-sheep.png"
   },
   {
@@ -2438,7 +2691,7 @@
     "rewardArt": "scene",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-parable-describes-your-life/mustard-seed.png"
   },
   {
@@ -2449,7 +2702,7 @@
     "rewardArt": "scene",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-parable-describes-your-life/pharisee-and-tax-collector.png"
   },
   {
@@ -2460,7 +2713,7 @@
     "rewardArt": "scene",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-parable-describes-your-life/prodigal-son.png"
   },
   {
@@ -2471,7 +2724,7 @@
     "rewardArt": "scene",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-parable-describes-your-life/sower.png"
   },
   {
@@ -2482,7 +2735,7 @@
     "rewardArt": "scene",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-parable-describes-your-life/talents.png"
   },
   {
@@ -2493,7 +2746,7 @@
     "rewardArt": "scene",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-plague-of-egypt-are-you/blood.png"
   },
   {
@@ -2504,7 +2757,7 @@
     "rewardArt": "scene",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-plague-of-egypt-are-you/darkness.png"
   },
   {
@@ -2515,7 +2768,7 @@
     "rewardArt": "scene",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-plague-of-egypt-are-you/firstborn.png"
   },
   {
@@ -2526,7 +2779,7 @@
     "rewardArt": "scene",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-plague-of-egypt-are-you/frogs.png"
   },
   {
@@ -2537,7 +2790,7 @@
     "rewardArt": "scene",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-plague-of-egypt-are-you/hail.png"
   },
   {
@@ -2548,8 +2801,19 @@
     "rewardArt": "scene",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-plague-of-egypt-are-you/locusts.png"
+  },
+  {
+    "quizSlug": "women-of-the-bible-iq",
+    "quizTitle": "Women of the Bible IQ",
+    "resultKey": "card",
+    "resultName": "Score card",
+    "rewardArt": "scene",
+    "category": "bible-iq",
+    "status": "live",
+    "hasImage": true,
+    "path": "public/results/women-of-the-bible-iq/card.png"
   },
   {
     "quizSlug": "are-you-a-cycle-breaker",
@@ -2559,7 +2823,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/are-you-a-cycle-breaker/born-cycle-breaker.png"
   },
   {
@@ -2570,7 +2834,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/are-you-a-cycle-breaker/healing-but-tired.png"
   },
   {
@@ -2581,7 +2845,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/are-you-a-cycle-breaker/reluctant-cycle-breaker.png"
   },
   {
@@ -2592,7 +2856,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/are-you-a-cycle-breaker/still-in-the-cycle.png"
   },
   {
@@ -2603,7 +2867,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/are-you-actually-behind-in-life/comparison-has-lied-to-you.png"
   },
   {
@@ -2614,7 +2878,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/are-you-actually-behind-in-life/genuinely-drifting.png"
   },
   {
@@ -2625,7 +2889,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/are-you-actually-behind-in-life/in-a-hidden-prep-season.png"
   },
   {
@@ -2636,7 +2900,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/are-you-actually-behind-in-life/right-on-gods-timeline.png"
   },
   {
@@ -2647,7 +2911,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/are-you-actually-resting-or-just-stopping/crash-and-burn.png"
   },
   {
@@ -2658,7 +2922,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/are-you-actually-resting-or-just-stopping/guilty-rest.png"
   },
   {
@@ -2669,7 +2933,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/are-you-actually-resting-or-just-stopping/numb-scrolling.png"
   },
   {
@@ -2680,7 +2944,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/are-you-actually-resting-or-just-stopping/productive-rest.png"
   },
   {
@@ -2691,7 +2955,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/are-you-actually-resting-or-just-stopping/true-sabbath-rest.png"
   },
   {
@@ -2702,7 +2966,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/are-you-angry-at-god/hiding-it.png"
   },
   {
@@ -2713,7 +2977,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/are-you-angry-at-god/more-disappointed.png"
   },
   {
@@ -2724,7 +2988,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/are-you-angry-at-god/numb-and-distant.png"
   },
   {
@@ -2735,7 +2999,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/are-you-angry-at-god/wrestling-honestly.png"
   },
   {
@@ -2746,7 +3010,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/are-you-in-a-dark-night-of-the-soul/classic-dark-night.png"
   },
   {
@@ -2757,7 +3021,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/are-you-in-a-dark-night-of-the-soul/conviction-avoiding.png"
   },
   {
@@ -2768,7 +3032,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/are-you-in-a-dark-night-of-the-soul/depression-mask.png"
   },
   {
@@ -2779,7 +3043,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/are-you-in-a-dark-night-of-the-soul/dry-season.png"
   },
   {
@@ -2790,7 +3054,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/are-you-in-a-dark-night-of-the-soul/spiritual-burnout.png"
   },
   {
@@ -2801,7 +3065,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/can-you-forgive-someone-who-isnt-sorry/forgiveness-vs-reconciliation.png"
   },
   {
@@ -2812,7 +3076,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/can-you-forgive-someone-who-isnt-sorry/ready-to-release.png"
   },
   {
@@ -2823,7 +3087,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/can-you-forgive-someone-who-isnt-sorry/waiting-on-apology.png"
   },
   {
@@ -2834,7 +3098,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/can-you-forgive-someone-who-isnt-sorry/wound-still-aches.png"
   },
   {
@@ -2845,7 +3109,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/deconstructing-or-asking-honest-questions/deconstruction-toward-exit.png"
   },
   {
@@ -2856,7 +3120,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/deconstructing-or-asking-honest-questions/deconstruction-toward-rebuilding.png"
   },
   {
@@ -2867,7 +3131,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/deconstructing-or-asking-honest-questions/faith-crisis.png"
   },
   {
@@ -2878,7 +3142,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/deconstructing-or-asking-honest-questions/healthy-questioning.png"
   },
   {
@@ -2889,7 +3153,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/deconstructing-or-asking-honest-questions/stuck-in-the-rubble.png"
   },
   {
@@ -2900,7 +3164,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/do-you-have-church-hurt/carrying-real-church-hurt.png"
   },
   {
@@ -2911,7 +3175,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/do-you-have-church-hurt/mostly-healed.png"
   },
   {
@@ -2922,7 +3186,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/do-you-have-church-hurt/spirit-of-offense.png"
   },
   {
@@ -2933,7 +3197,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/do-you-have-church-hurt/survived-spiritual-abuse.png"
   },
   {
@@ -2944,7 +3208,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/do-you-have-high-functioning-anxiety/capable-mask.png"
   },
   {
@@ -2955,7 +3219,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/do-you-have-high-functioning-anxiety/hidden-high-functioning.png"
   },
   {
@@ -2966,7 +3230,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/do-you-have-high-functioning-anxiety/mostly-at-peace.png"
   },
   {
@@ -2977,7 +3241,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/do-you-have-high-functioning-anxiety/productive-panic.png"
   },
   {
@@ -2988,7 +3252,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/do-you-have-high-functioning-anxiety/quiet-overwhelm.png"
   },
   {
@@ -2999,7 +3263,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/do-you-have-mom-burnout/burned-out-and-running-on-empty.png"
   },
   {
@@ -3010,7 +3274,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/do-you-have-mom-burnout/in-a-good-rhythm.png"
   },
   {
@@ -3021,7 +3285,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/do-you-have-mom-burnout/resentful-and-guilty.png"
   },
   {
@@ -3032,7 +3296,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/do-you-have-mom-burnout/stretched-thin.png"
   },
   {
@@ -3043,7 +3307,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/do-you-have-mom-burnout/tired-but-holding-on.png"
   },
   {
@@ -3054,7 +3318,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/do-you-have-mom-burnout/touched-out-and-overstimulated.png"
   },
   {
@@ -3065,7 +3329,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/do-you-secretly-feel-like-a-fraud-at-church/the-burned-out-server.png"
   },
   {
@@ -3076,7 +3340,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/do-you-secretly-feel-like-a-fraud-at-church/the-impostor.png"
   },
   {
@@ -3087,7 +3351,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/do-you-secretly-feel-like-a-fraud-at-church/the-performer.png"
   },
   {
@@ -3098,7 +3362,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/do-you-secretly-feel-like-a-fraud-at-church/the-quiet-doubter.png"
   },
   {
@@ -3109,7 +3373,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/do-you-secretly-feel-like-a-fraud-at-church/the-real-deal.png"
   },
   {
@@ -3120,7 +3384,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/how-anxious-is-your-attachment-to-god/anxiously-attached.png"
   },
   {
@@ -3131,7 +3395,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/how-anxious-is-your-attachment-to-god/avoidant.png"
   },
   {
@@ -3142,7 +3406,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/how-anxious-is-your-attachment-to-god/earning-it.png"
   },
   {
@@ -3153,7 +3417,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/how-anxious-is-your-attachment-to-god/growing-secure.png"
   },
   {
@@ -3164,7 +3428,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/how-anxious-is-your-attachment-to-god/securely-attached.png"
   },
   {
@@ -3175,7 +3439,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/is-he-the-one-christian-discernment/green-light-pursue.png"
   },
   {
@@ -3186,7 +3450,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/is-he-the-one-christian-discernment/not-yet-keep-growing.png"
   },
   {
@@ -3197,7 +3461,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/is-he-the-one-christian-discernment/red-walk-away.png"
   },
   {
@@ -3208,7 +3472,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/is-he-the-one-christian-discernment/yellow-pray-and-watch.png"
   },
   {
@@ -3219,7 +3483,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/is-it-anxiety-or-a-faith-problem/a-mix.png"
   },
   {
@@ -3230,7 +3494,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/is-it-anxiety-or-a-faith-problem/anxiety-not-faithlessness.png"
   },
   {
@@ -3241,7 +3505,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/is-it-anxiety-or-a-faith-problem/seek-support.png"
   },
   {
@@ -3252,7 +3516,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/is-it-anxiety-or-a-faith-problem/spiritual-battle.png"
   },
   {
@@ -3263,7 +3527,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/is-it-anxiety-or-a-faith-problem/too-hard-on-yourself.png"
   },
   {
@@ -3274,7 +3538,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/is-it-conviction-or-shame/healthy-conviction.png"
   },
   {
@@ -3285,7 +3549,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/is-it-conviction-or-shame/old-voice.png"
   },
   {
@@ -3296,7 +3560,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/is-it-conviction-or-shame/tangled-mix.png"
   },
   {
@@ -3307,7 +3571,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/is-it-conviction-or-shame/toxic-shame.png"
   },
   {
@@ -3318,7 +3582,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/is-it-god-or-just-you/gods-nudge.png"
   },
   {
@@ -3329,7 +3593,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/is-it-god-or-just-you/healthy-mix.png"
   },
   {
@@ -3340,7 +3604,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/is-it-god-or-just-you/too-tangled.png"
   },
   {
@@ -3351,7 +3615,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/is-it-god-or-just-you/your-own-desire.png"
   },
   {
@@ -3362,7 +3626,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/is-your-faith-on-autopilot/comfortable-coasting.png"
   },
   {
@@ -3373,7 +3637,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/is-your-faith-on-autopilot/genuinely-resting.png"
   },
   {
@@ -3384,7 +3648,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/is-your-faith-on-autopilot/numb-but-showing-up.png"
   },
   {
@@ -3395,7 +3659,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/is-your-faith-on-autopilot/performance-mode.png"
   },
   {
@@ -3406,7 +3670,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/is-your-faith-on-autopilot/running-on-fumes.png"
   },
   {
@@ -3417,7 +3681,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/is-your-phone-an-idol/fully-captured.png"
   },
   {
@@ -3428,7 +3692,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/is-your-phone-an-idol/surrendered.png"
   },
   {
@@ -3439,7 +3703,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/is-your-phone-an-idol/tempted.png"
   },
   {
@@ -3450,7 +3714,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/is-your-phone-an-idol/tethered.png"
   },
   {
@@ -3461,7 +3725,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/social-media-comparison-type/curator.png"
   },
   {
@@ -3472,7 +3736,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/social-media-comparison-type/doom-scroller.png"
   },
   {
@@ -3483,7 +3747,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/social-media-comparison-type/fomo-feeler.png"
   },
   {
@@ -3494,7 +3758,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/social-media-comparison-type/lurker-comparer.png"
   },
   {
@@ -3505,7 +3769,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/what-generational-pattern-are-you-breaking/absent-parent-cycle.png"
   },
   {
@@ -3516,7 +3780,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/what-generational-pattern-are-you-breaking/addiction-cycle.png"
   },
   {
@@ -3527,7 +3791,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/what-generational-pattern-are-you-breaking/anger-cycle.png"
   },
   {
@@ -3538,7 +3802,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/what-generational-pattern-are-you-breaking/poverty-fear-cycle.png"
   },
   {
@@ -3549,7 +3813,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/what-generational-pattern-are-you-breaking/silence-and-shame-cycle.png"
   },
   {
@@ -3560,7 +3824,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/what-is-god-preparing-you-for/cant-see-yet.png"
   },
   {
@@ -3571,7 +3835,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/what-is-god-preparing-you-for/hard-but-holy-calling.png"
   },
   {
@@ -3582,7 +3846,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/what-is-god-preparing-you-for/hidden-influence.png"
   },
   {
@@ -3593,7 +3857,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/what-is-god-preparing-you-for/leadership-assignment.png"
   },
   {
@@ -3604,7 +3868,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/what-is-god-preparing-you-for/season-of-rest.png"
   },
   {
@@ -3615,7 +3879,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/what-kind-of-doubt-are-you-having/circumstantial.png"
   },
   {
@@ -3626,7 +3890,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/what-kind-of-doubt-are-you-having/emotional.png"
   },
   {
@@ -3637,7 +3901,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/what-kind-of-doubt-are-you-having/intellectual.png"
   },
   {
@@ -3648,7 +3912,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/what-kind-of-doubt-are-you-having/moral-volitional.png"
   },
   {
@@ -3659,7 +3923,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/what-kind-of-doubt-are-you-having/relational.png"
   },
   {
@@ -3670,7 +3934,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/what-lie-about-your-worth/i-have-to-earn-it.png"
   },
   {
@@ -3681,7 +3945,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/what-lie-about-your-worth/im-not-enough.png"
   },
   {
@@ -3692,7 +3956,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/what-lie-about-your-worth/im-too-much.png"
   },
   {
@@ -3703,7 +3967,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/what-lie-about-your-worth/im-unlovable.png"
   },
   {
@@ -3714,7 +3978,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/what-lie-did-your-wound-teach-you/i-have-to-earn-love.png"
   },
   {
@@ -3725,7 +3989,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/what-lie-did-your-wound-teach-you/im-not-enough.png"
   },
   {
@@ -3736,7 +4000,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/what-lie-did-your-wound-teach-you/im-too-much.png"
   },
   {
@@ -3747,7 +4011,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/what-lie-did-your-wound-teach-you/its-all-my-fault.png"
   },
   {
@@ -3758,7 +4022,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/what-lie-did-your-wound-teach-you/its-not-safe-to-trust.png"
   },
   {
@@ -3769,7 +4033,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/what-shame-story-are-you-living/i-am-beyond-repair.png"
   },
   {
@@ -3780,7 +4044,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/what-shame-story-are-you-living/i-am-not-enough.png"
   },
   {
@@ -3791,7 +4055,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/what-shame-story-are-you-living/i-am-too-much.png"
   },
   {
@@ -3802,7 +4066,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/what-shame-story-are-you-living/if-they-knew-theyd-leave.png"
   },
   {
@@ -3813,7 +4077,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-behind-your-spiritual-dryness/dark-night.png"
   },
   {
@@ -3824,7 +4088,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-behind-your-spiritual-dryness/distraction-drift.png"
   },
   {
@@ -3835,7 +4099,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-behind-your-spiritual-dryness/hidden-sin-static.png"
   },
   {
@@ -3846,7 +4110,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-behind-your-spiritual-dryness/soul-fatigue.png"
   },
   {
@@ -3857,7 +4121,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-behind-your-spiritual-dryness/unprocessed-grief.png"
   },
   {
@@ -3868,7 +4132,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-fueling-your-bitterness/a-grudge-you-keep-rehearsing.png"
   },
   {
@@ -3879,7 +4143,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-fueling-your-bitterness/an-apology-that-never-came.png"
   },
   {
@@ -3890,7 +4154,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-fueling-your-bitterness/an-unhealed-injustice.png"
   },
   {
@@ -3901,7 +4165,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-fueling-your-bitterness/comparison-and-envy.png"
   },
   {
@@ -3912,7 +4176,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-fueling-your-bitterness/disappointment-with-god.png"
   },
   {
@@ -3923,7 +4187,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-fueling-your-worry/fear-of-abandonment.png"
   },
   {
@@ -3934,7 +4198,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-fueling-your-worry/fear-of-failing-god.png"
   },
   {
@@ -3945,7 +4209,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-fueling-your-worry/fear-of-future.png"
   },
   {
@@ -3956,7 +4220,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-fueling-your-worry/fear-of-losing-control.png"
   },
   {
@@ -3967,7 +4231,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-fueling-your-worry/fear-of-not-being-enough.png"
   },
   {
@@ -3978,7 +4242,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-fueling-your-worry/fear-of-worst.png"
   },
   {
@@ -3989,7 +4253,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-anxiety-style/avoider.png"
   },
   {
@@ -4000,7 +4264,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-anxiety-style/catastrophizer.png"
   },
   {
@@ -4011,7 +4275,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-anxiety-style/controller.png"
   },
   {
@@ -4022,7 +4286,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-anxiety-style/overthinker.png"
   },
   {
@@ -4033,7 +4297,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-anxiety-style/people-pleaser.png"
   },
   {
@@ -4044,7 +4308,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-anxiety-style/silent-carrier.png"
   },
   {
@@ -4055,7 +4319,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-anxiety-style/worst-case-planner.png"
   },
   {
@@ -4066,7 +4330,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-burnout-stage/cynical-and-detached.png"
   },
   {
@@ -4077,7 +4341,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-burnout-stage/healthy-rhythm.png"
   },
   {
@@ -4088,7 +4352,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-burnout-stage/recovering.png"
   },
   {
@@ -4099,7 +4363,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-burnout-stage/running-on-empty.png"
   },
   {
@@ -4110,7 +4374,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-burnout-stage/stretched-but-okay.png"
   },
   {
@@ -4121,7 +4385,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-burnout-stage/surviving-on-fumes.png"
   },
   {
@@ -4132,7 +4396,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-christian-dating-pattern/faithful-waiter.png"
   },
   {
@@ -4143,7 +4407,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-christian-dating-pattern/fixer.png"
   },
   {
@@ -4154,7 +4418,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-christian-dating-pattern/guarded-heart.png"
   },
   {
@@ -4165,7 +4429,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-christian-dating-pattern/rush-to-the-altar.png"
   },
   {
@@ -4176,7 +4440,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-christian-dating-pattern/serial-almost.png"
   },
   {
@@ -4187,7 +4451,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-church-hurt-recovery-stage/grieving-the-loss.png"
   },
   {
@@ -4198,7 +4462,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-church-hurt-recovery-stage/naming-what-happened.png"
   },
   {
@@ -4209,7 +4473,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-church-hurt-recovery-stage/rebuilding-trust.png"
   },
   {
@@ -4220,7 +4484,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-church-hurt-recovery-stage/setting-boundaries.png"
   },
   {
@@ -4231,7 +4495,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-church-hurt-recovery-stage/still-in-the-fog.png"
   },
   {
@@ -4242,7 +4506,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-comparison-trap/highlight-reel-scroller.png"
   },
   {
@@ -4253,7 +4517,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-comparison-trap/never-measures-up.png"
   },
   {
@@ -4264,7 +4528,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-comparison-trap/secret-competitor.png"
   },
   {
@@ -4275,7 +4539,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-comparison-trap/silent-scorekeeper.png"
   },
   {
@@ -4286,7 +4550,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-discernment-style/bold-mover.png"
   },
   {
@@ -4297,7 +4561,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-discernment-style/counsel-seeker.png"
   },
   {
@@ -4308,7 +4572,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-discernment-style/open-door-walker.png"
   },
   {
@@ -4319,7 +4583,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-discernment-style/peace-waiter.png"
   },
   {
@@ -4330,7 +4594,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-discernment-style/scripture-first.png"
   },
   {
@@ -4341,7 +4605,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-grief-style/busy-doer.png"
   },
   {
@@ -4352,7 +4616,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-grief-style/hidden-griever.png"
   },
   {
@@ -4363,7 +4627,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-grief-style/quiet-carrier.png"
   },
   {
@@ -4374,7 +4638,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-grief-style/tearful-lamenter.png"
   },
   {
@@ -4385,7 +4649,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-hidden-wound/abandonment-wound.png"
   },
   {
@@ -4396,7 +4660,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-hidden-wound/betrayal-wound.png"
   },
   {
@@ -4407,7 +4671,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-hidden-wound/injustice-wound.png"
   },
   {
@@ -4418,7 +4682,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-hidden-wound/not-enough-wound.png"
   },
   {
@@ -4429,7 +4693,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-hidden-wound/rejection-wound.png"
   },
   {
@@ -4440,7 +4704,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-loneliness-pattern/emotional-loneliness.png"
   },
   {
@@ -4451,7 +4715,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-loneliness-pattern/existential-loneliness.png"
   },
   {
@@ -4462,7 +4726,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-loneliness-pattern/situational-loneliness.png"
   },
   {
@@ -4473,7 +4737,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-loneliness-pattern/social-loneliness.png"
   },
   {
@@ -4484,7 +4748,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-love-style-biblically/covenant-lover.png"
   },
   {
@@ -4495,7 +4759,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-love-style-biblically/devoted-protector.png"
   },
   {
@@ -4506,7 +4770,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-love-style-biblically/healing-in-progress.png"
   },
   {
@@ -4517,7 +4781,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-love-style-biblically/partner-in-mission.png"
   },
   {
@@ -4528,7 +4792,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-love-style-biblically/sacrificial-lover.png"
   },
   {
@@ -4539,7 +4803,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-marriage-conflict-style/avoider.png"
   },
   {
@@ -4550,7 +4814,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-marriage-conflict-style/peacemaker.png"
   },
   {
@@ -4561,7 +4825,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-marriage-conflict-style/pursuer.png"
   },
   {
@@ -4572,7 +4836,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-marriage-conflict-style/score-keeper.png"
   },
   {
@@ -4583,7 +4847,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-marriage-conflict-style/stonewaller.png"
   },
   {
@@ -4594,7 +4858,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-money-spirit/free-spender.png"
   },
   {
@@ -4605,7 +4869,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-money-spirit/giver.png"
   },
   {
@@ -4616,7 +4880,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-money-spirit/hoarder.png"
   },
   {
@@ -4627,7 +4891,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-money-spirit/steward.png"
   },
   {
@@ -4638,7 +4902,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-money-spirit/worrier.png"
   },
   {
@@ -4649,7 +4913,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-not-enough-story/not-holy-enough.png"
   },
   {
@@ -4660,7 +4924,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-not-enough-story/not-smart-enough.png"
   },
   {
@@ -4671,7 +4935,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-not-enough-story/not-successful-enough.png"
   },
   {
@@ -4682,7 +4946,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-not-enough-story/not-wanted-enough.png"
   },
   {
@@ -4693,7 +4957,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-overthinking-spiral/comparer.png"
   },
   {
@@ -4704,7 +4968,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-overthinking-spiral/decision-freezer.png"
   },
   {
@@ -4715,7 +4979,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-overthinking-spiral/mind-reader.png"
   },
   {
@@ -4726,7 +4990,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-overthinking-spiral/rehearser.png"
   },
   {
@@ -4737,7 +5001,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-overthinking-spiral/replayer.png"
   },
   {
@@ -4748,7 +5012,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-overthinking-spiral/what-if-machine.png"
   },
   {
@@ -4759,7 +5023,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-parenting-spirit/anxious-perfectionist.png"
   },
   {
@@ -4770,7 +5034,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-parenting-spirit/firm-anchor.png"
   },
   {
@@ -4781,7 +5045,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-parenting-spirit/gentle-shepherd.png"
   },
   {
@@ -4792,7 +5056,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-parenting-spirit/grace-first.png"
   },
   {
@@ -4803,7 +5067,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-parenting-spirit/recovering-strict.png"
   },
   {
@@ -4814,7 +5078,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-path-back-to-god/finding-the-door.png"
   },
   {
@@ -4825,7 +5089,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-path-back-to-god/honest-lament.png"
   },
   {
@@ -4836,7 +5100,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-path-back-to-god/rediscovering-jesus.png"
   },
   {
@@ -4847,7 +5111,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-path-back-to-god/safe-community.png"
   },
   {
@@ -4858,7 +5122,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-path-back-to-god/therapy-and-time.png"
   },
   {
@@ -4869,7 +5133,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-triggered-reaction-style/people-please.png"
   },
   {
@@ -4880,7 +5144,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-triggered-reaction-style/shutdown.png"
   },
   {
@@ -4891,7 +5155,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-triggered-reaction-style/snap.png"
   },
   {
@@ -4902,7 +5166,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-triggered-reaction-style/spiral.png"
   },
   {
@@ -4913,7 +5177,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/whats-your-triggered-reaction-style/vanish.png"
   },
   {
@@ -4924,7 +5188,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-anxiety-verse-for-you/first-peter-5.png"
   },
   {
@@ -4935,7 +5199,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-anxiety-verse-for-you/isaiah-41.png"
   },
   {
@@ -4946,7 +5210,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-anxiety-verse-for-you/john-14.png"
   },
   {
@@ -4957,7 +5221,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-anxiety-verse-for-you/matthew-6.png"
   },
   {
@@ -4968,7 +5232,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-anxiety-verse-for-you/philippians-4.png"
   },
   {
@@ -4979,7 +5243,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-anxiety-verse-for-you/psalm-56.png"
   },
   {
@@ -4990,7 +5254,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-anxiety-verse-for-you/psalm-94.png"
   },
   {
@@ -5001,7 +5265,7 @@
     "rewardArt": "symbol",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-beatitude-defines-you/meek.png"
   },
   {
@@ -5012,7 +5276,7 @@
     "rewardArt": "symbol",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-beatitude-defines-you/merciful.png"
   },
   {
@@ -5023,7 +5287,7 @@
     "rewardArt": "symbol",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-beatitude-defines-you/mourning.png"
   },
   {
@@ -5034,7 +5298,7 @@
     "rewardArt": "symbol",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-beatitude-defines-you/peacemakers.png"
   },
   {
@@ -5045,7 +5309,7 @@
     "rewardArt": "symbol",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-beatitude-defines-you/persecuted.png"
   },
   {
@@ -5056,7 +5320,7 @@
     "rewardArt": "symbol",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-beatitude-defines-you/poor-in-spirit.png"
   },
   {
@@ -5067,7 +5331,7 @@
     "rewardArt": "symbol",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-beatitude-defines-you/pure-in-heart.png"
   },
   {
@@ -5078,7 +5342,7 @@
     "rewardArt": "symbol",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-beatitude-defines-you/righteousness.png"
   },
   {
@@ -5089,7 +5353,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-fear-is-running-your-life/fear-of-death.png"
   },
   {
@@ -5100,7 +5364,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-fear-is-running-your-life/fear-of-disappointing-god.png"
   },
   {
@@ -5111,7 +5375,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-fear-is-running-your-life/fear-of-failure.png"
   },
   {
@@ -5122,7 +5386,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-fear-is-running-your-life/fear-of-losing-someone.png"
   },
   {
@@ -5133,7 +5397,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-fear-is-running-your-life/fear-of-not-mattering.png"
   },
   {
@@ -5144,7 +5408,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-fear-is-running-your-life/fear-of-rejection.png"
   },
   {
@@ -5155,7 +5419,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-fear-is-running-your-life/fear-of-the-unknown.png"
   },
   {
@@ -5166,7 +5430,7 @@
     "rewardArt": "symbol",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-fruit-of-the-spirit-are-you/faithfulness.png"
   },
   {
@@ -5177,7 +5441,7 @@
     "rewardArt": "symbol",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-fruit-of-the-spirit-are-you/gentleness.png"
   },
   {
@@ -5188,7 +5452,7 @@
     "rewardArt": "symbol",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-fruit-of-the-spirit-are-you/goodness.png"
   },
   {
@@ -5199,7 +5463,7 @@
     "rewardArt": "symbol",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-fruit-of-the-spirit-are-you/joy.png"
   },
   {
@@ -5210,7 +5474,7 @@
     "rewardArt": "symbol",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-fruit-of-the-spirit-are-you/kindness.png"
   },
   {
@@ -5221,7 +5485,7 @@
     "rewardArt": "symbol",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-fruit-of-the-spirit-are-you/love.png"
   },
   {
@@ -5232,7 +5496,7 @@
     "rewardArt": "symbol",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-fruit-of-the-spirit-are-you/patience.png"
   },
   {
@@ -5243,7 +5507,7 @@
     "rewardArt": "symbol",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-fruit-of-the-spirit-are-you/peace.png"
   },
   {
@@ -5254,7 +5518,7 @@
     "rewardArt": "symbol",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-fruit-of-the-spirit-are-you/self-control.png"
   },
   {
@@ -5265,7 +5529,7 @@
     "rewardArt": "symbol",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-i-am-statement-of-jesus-are-you/bread-of-life.png"
   },
   {
@@ -5276,7 +5540,7 @@
     "rewardArt": "symbol",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-i-am-statement-of-jesus-are-you/good-shepherd.png"
   },
   {
@@ -5287,7 +5551,7 @@
     "rewardArt": "symbol",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-i-am-statement-of-jesus-are-you/light-of-the-world.png"
   },
   {
@@ -5298,7 +5562,7 @@
     "rewardArt": "symbol",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-i-am-statement-of-jesus-are-you/resurrection-and-life.png"
   },
   {
@@ -5309,7 +5573,7 @@
     "rewardArt": "symbol",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-i-am-statement-of-jesus-are-you/true-vine.png"
   },
   {
@@ -5320,7 +5584,7 @@
     "rewardArt": "symbol",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-name-of-god-are-you/el-roi.png"
   },
   {
@@ -5331,7 +5595,7 @@
     "rewardArt": "symbol",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-name-of-god-are-you/el-shaddai.png"
   },
   {
@@ -5342,7 +5606,7 @@
     "rewardArt": "symbol",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-name-of-god-are-you/jehovah-jireh.png"
   },
   {
@@ -5353,7 +5617,7 @@
     "rewardArt": "symbol",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-name-of-god-are-you/jehovah-rapha.png"
   },
   {
@@ -5364,7 +5628,7 @@
     "rewardArt": "symbol",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-name-of-god-are-you/jehovah-shalom.png"
   },
   {
@@ -5375,7 +5639,7 @@
     "rewardArt": "symbol",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-psalm-speaks-to-you/psalm-119.png"
   },
   {
@@ -5386,7 +5650,7 @@
     "rewardArt": "symbol",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-psalm-speaks-to-you/psalm-121.png"
   },
   {
@@ -5397,7 +5661,7 @@
     "rewardArt": "symbol",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-psalm-speaks-to-you/psalm-139.png"
   },
   {
@@ -5408,7 +5672,7 @@
     "rewardArt": "symbol",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-psalm-speaks-to-you/psalm-23.png"
   },
   {
@@ -5419,7 +5683,7 @@
     "rewardArt": "symbol",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-psalm-speaks-to-you/psalm-27.png"
   },
   {
@@ -5430,7 +5694,7 @@
     "rewardArt": "symbol",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-psalm-speaks-to-you/psalm-46.png"
   },
   {
@@ -5441,7 +5705,7 @@
     "rewardArt": "symbol",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-psalm-speaks-to-you/psalm-51.png"
   },
   {
@@ -5452,7 +5716,7 @@
     "rewardArt": "symbol",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-psalm-speaks-to-you/psalm-91.png"
   },
   {
@@ -5463,7 +5727,7 @@
     "rewardArt": "symbol",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-tribe-of-israel-are-you/benjamin.png"
   },
   {
@@ -5474,7 +5738,7 @@
     "rewardArt": "symbol",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-tribe-of-israel-are-you/dan.png"
   },
   {
@@ -5485,7 +5749,7 @@
     "rewardArt": "symbol",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-tribe-of-israel-are-you/joseph.png"
   },
   {
@@ -5496,7 +5760,7 @@
     "rewardArt": "symbol",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-tribe-of-israel-are-you/judah.png"
   },
   {
@@ -5507,7 +5771,7 @@
     "rewardArt": "symbol",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-tribe-of-israel-are-you/levi.png"
   },
   {
@@ -5518,7 +5782,7 @@
     "rewardArt": "symbol",
     "category": "bible-character",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/which-tribe-of-israel-are-you/reuben.png"
   },
   {
@@ -5529,7 +5793,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/who-are-you-in-christ/beloved.png"
   },
   {
@@ -5540,7 +5804,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/who-are-you-in-christ/chosen.png"
   },
   {
@@ -5551,7 +5815,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/who-are-you-in-christ/redeemed.png"
   },
   {
@@ -5562,7 +5826,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/who-are-you-in-christ/sealed-and-secure.png"
   },
   {
@@ -5573,7 +5837,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/who-do-you-need-to-forgive/church-or-pastor.png"
   },
   {
@@ -5584,7 +5848,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/who-do-you-need-to-forgive/ex.png"
   },
   {
@@ -5595,7 +5859,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/who-do-you-need-to-forgive/former-friend.png"
   },
   {
@@ -5606,7 +5870,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/who-do-you-need-to-forgive/god.png"
   },
   {
@@ -5617,7 +5881,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/who-do-you-need-to-forgive/parent.png"
   },
   {
@@ -5628,7 +5892,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/who-do-you-need-to-forgive/yourself.png"
   },
   {
@@ -5639,7 +5903,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/why-are-you-so-tired/carrying-others-weight.png"
   },
   {
@@ -5650,7 +5914,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/why-are-you-so-tired/decision-fatigue.png"
   },
   {
@@ -5661,7 +5925,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/why-are-you-so-tired/hustle-burnout.png"
   },
   {
@@ -5672,7 +5936,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/why-are-you-so-tired/people-pleasing-drain.png"
   },
   {
@@ -5683,7 +5947,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/why-are-you-so-tired/physically-run-down.png"
   },
   {
@@ -5694,7 +5958,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/why-are-you-so-tired/soul-tired.png"
   },
   {
@@ -5705,7 +5969,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/why-cant-you-hear-gods-voice/missing-the-whisper.png"
   },
   {
@@ -5716,7 +5980,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/why-cant-you-hear-gods-voice/not-in-the-word.png"
   },
   {
@@ -5727,7 +5991,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/why-cant-you-hear-gods-voice/season-of-silence.png"
   },
   {
@@ -5738,7 +6002,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/why-cant-you-hear-gods-voice/too-much-noise.png"
   },
   {
@@ -5749,7 +6013,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/why-cant-you-hear-gods-voice/wanting-new-not-confirming.png"
   },
   {
@@ -5760,7 +6024,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/why-do-you-feel-stuck/stuck-in-burnout.png"
   },
   {
@@ -5771,7 +6035,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/why-do-you-feel-stuck/stuck-in-comparison.png"
   },
   {
@@ -5782,7 +6046,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/why-do-you-feel-stuck/stuck-in-disobedience.png"
   },
   {
@@ -5793,7 +6057,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/why-do-you-feel-stuck/stuck-in-fear.png"
   },
   {
@@ -5804,7 +6068,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/why-do-you-feel-stuck/stuck-in-waiting.png"
   },
   {
@@ -5815,7 +6079,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/why-does-god-feel-silent-right-now/already-answered.png"
   },
   {
@@ -5826,7 +6090,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/why-does-god-feel-silent-right-now/dark-night.png"
   },
   {
@@ -5837,7 +6101,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/why-does-god-feel-silent-right-now/noise-crowded-him-out.png"
   },
   {
@@ -5848,7 +6112,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/why-does-god-feel-silent-right-now/speaking-through-scripture.png"
   },
   {
@@ -5859,7 +6123,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/why-does-god-feel-silent-right-now/stopped-listening.png"
   },
   {
@@ -5870,7 +6134,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/why-hard-to-make-friends/fear-first-move.png"
   },
   {
@@ -5881,7 +6145,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/why-hard-to-make-friends/keep-it-surface.png"
   },
   {
@@ -5892,7 +6156,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/why-hard-to-make-friends/spread-too-thin.png"
   },
   {
@@ -5903,7 +6167,7 @@
     "rewardArt": "symbol",
     "category": "spiritual-profile",
     "status": "live",
-    "hasImage": false,
+    "hasImage": true,
     "path": "public/results/why-hard-to-make-friends/wait-to-be-chosen.png"
   },
   {

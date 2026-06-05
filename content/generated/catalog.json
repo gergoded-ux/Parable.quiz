@@ -466,7 +466,7 @@
     "theme": "scripture-archetype",
     "mode": "archetype",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 86
   },
   {
@@ -476,7 +476,7 @@
     "theme": "scripture-archetype",
     "mode": "archetype",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 86
   },
   {
@@ -486,7 +486,7 @@
     "theme": "scripture-archetype",
     "mode": "archetype",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 85
   },
   {
@@ -496,7 +496,7 @@
     "theme": "scripture-archetype",
     "mode": "archetype",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 85
   },
   {
@@ -506,7 +506,7 @@
     "theme": "scripture-archetype",
     "mode": "archetype",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 84
   },
   {
@@ -516,7 +516,7 @@
     "theme": "scripture-archetype",
     "mode": "archetype",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 83
   },
   {
@@ -526,7 +526,7 @@
     "theme": "scripture-archetype",
     "mode": "archetype",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 83
   },
   {
@@ -536,7 +536,7 @@
     "theme": "scripture-archetype",
     "mode": "archetype",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 82
   },
   {
@@ -546,7 +546,7 @@
     "theme": "scripture-archetype",
     "mode": "archetype",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 82
   },
   {
@@ -556,7 +556,7 @@
     "theme": "scripture-archetype",
     "mode": "archetype",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 82
   },
   {
@@ -566,7 +566,7 @@
     "theme": "scripture-archetype",
     "mode": "archetype",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 80
   },
   {
@@ -576,7 +576,7 @@
     "theme": "scripture-archetype",
     "mode": "archetype",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 80
   },
   {
@@ -586,7 +586,7 @@
     "theme": "scripture-archetype",
     "mode": "archetype",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 80
   },
   {
@@ -596,7 +596,7 @@
     "theme": "scripture-archetype",
     "mode": "archetype",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 80
   },
   {
@@ -606,7 +606,7 @@
     "theme": "scripture-archetype",
     "mode": "archetype",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 79
   },
   {
@@ -616,7 +616,7 @@
     "theme": "scripture-archetype",
     "mode": "archetype",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 79
   },
   {
@@ -626,7 +626,7 @@
     "theme": "scripture-archetype",
     "mode": "archetype",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 78
   },
   {
@@ -636,7 +636,7 @@
     "theme": "scripture-archetype",
     "mode": "archetype",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 78
   },
   {
@@ -646,7 +646,7 @@
     "theme": "scripture-archetype",
     "mode": "archetype",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 78
   },
   {
@@ -656,7 +656,7 @@
     "theme": "scripture-archetype",
     "mode": "archetype",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 77
   },
   {
@@ -666,7 +666,7 @@
     "theme": "scripture-archetype",
     "mode": "archetype",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": null
   },
   {
@@ -726,7 +726,7 @@
     "theme": "scripture-archetype",
     "mode": "archetype",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": null
   },
   {
@@ -756,7 +756,7 @@
     "theme": "bible-knowledge",
     "mode": "knowledge",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 90
   },
   {
@@ -766,7 +766,7 @@
     "theme": "bible-knowledge",
     "mode": "knowledge",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 89
   },
   {
@@ -776,7 +776,7 @@
     "theme": "bible-knowledge",
     "mode": "knowledge",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 89
   },
   {
@@ -786,7 +786,7 @@
     "theme": "bible-knowledge",
     "mode": "knowledge",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 88
   },
   {
@@ -796,7 +796,7 @@
     "theme": "bible-knowledge",
     "mode": "knowledge",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 88
   },
   {
@@ -806,7 +806,7 @@
     "theme": "bible-knowledge",
     "mode": "knowledge",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 87
   },
   {
@@ -816,7 +816,7 @@
     "theme": "bible-knowledge",
     "mode": "knowledge",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 86
   },
   {
@@ -826,7 +826,7 @@
     "theme": "bible-knowledge",
     "mode": "knowledge",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 86
   },
   {
@@ -836,7 +836,7 @@
     "theme": "bible-knowledge",
     "mode": "knowledge",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 85
   },
   {
@@ -846,7 +846,7 @@
     "theme": "bible-knowledge",
     "mode": "knowledge",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 85
   },
   {
@@ -856,7 +856,7 @@
     "theme": "bible-knowledge",
     "mode": "knowledge",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 84
   },
   {
@@ -866,7 +866,7 @@
     "theme": "bible-knowledge",
     "mode": "knowledge",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 84
   },
   {
@@ -876,7 +876,7 @@
     "theme": "bible-knowledge",
     "mode": "knowledge",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 84
   },
   {
@@ -886,7 +886,7 @@
     "theme": "bible-knowledge",
     "mode": "knowledge",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 83
   },
   {
@@ -896,7 +896,7 @@
     "theme": "bible-knowledge",
     "mode": "knowledge",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 83
   },
   {
@@ -906,7 +906,7 @@
     "theme": "bible-knowledge",
     "mode": "knowledge",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 82
   },
   {
@@ -916,7 +916,7 @@
     "theme": "bible-knowledge",
     "mode": "knowledge",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 82
   },
   {
@@ -926,7 +926,7 @@
     "theme": "bible-knowledge",
     "mode": "knowledge",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 81
   },
   {
@@ -936,7 +936,7 @@
     "theme": "bible-knowledge",
     "mode": "knowledge",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 81
   },
   {
@@ -946,7 +946,7 @@
     "theme": "bible-knowledge",
     "mode": "knowledge",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 80
   },
   {
@@ -956,7 +956,7 @@
     "theme": "bible-knowledge",
     "mode": "knowledge",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": 80
   },
   {
@@ -966,7 +966,7 @@
     "theme": "bible-knowledge",
     "mode": "knowledge",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": null
   },
   {
@@ -976,7 +976,7 @@
     "theme": "bible-knowledge",
     "mode": "knowledge",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": null
   },
   {
@@ -986,7 +986,7 @@
     "theme": "bible-knowledge",
     "mode": "knowledge",
     "status": "live",
-    "hasCover": false,
+    "hasCover": true,
     "virality": null
   },
   {
