@@ -45,3 +45,6 @@ next-env.d.ts
 .claude/
 scripts/.asv-cache.json
 scripts/.asv-bible.json
+
+# Full-res image originals kept locally as a backup after WebP conversion
+.image-originals/
