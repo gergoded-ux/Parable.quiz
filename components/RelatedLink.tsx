@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { track } from '@vercel/analytics';
 import { Card, CardHeader, CardContent, CardTitle, CardDescription } from '@/components/ui/card-2';
 import { FitText } from '@/components/FitText';
+import { hasQuizCover, quizCoverUrl } from '@/lib/card-art';
 
 export function RelatedLink({
   fromSlug, toSlug, title, emoji, estimatedMinutes,
@@ -29,9 +30,20 @@ export function RelatedLink({
           </div>
         </CardHeader>
         <CardContent className="flex flex-1 flex-col">
-          <div className="flex w-full items-center justify-center bg-gradient-to-br from-cream-1 to-rose" style={{ aspectRatio: '3 / 2' }}>
-            <span className="text-5xl drop-shadow-sm">{emoji}</span>
-          </div>
+          {/* Real cover art if present (public/quizzes/<slug>.<ext>), else a warm
+              gradient + emoji placeholder - mirrors the homepage QuizCard. */}
+          {hasQuizCover(toSlug) ? (
+            <img
+              src={quizCoverUrl(toSlug)}
+              alt=""
+              className="w-full object-cover"
+              style={{ aspectRatio: '3 / 2' }}
+            />
+          ) : (
+            <div className="flex w-full items-center justify-center bg-gradient-to-br from-cream-1 to-rose" style={{ aspectRatio: '3 / 2' }}>
+              <span className="text-5xl drop-shadow-sm">{emoji}</span>
+            </div>
+          )}
           <div className="px-3 py-2.5">
             <p className="text-xs font-medium text-ink-soft">{estimatedMinutes} min</p>
           </div>
