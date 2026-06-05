@@ -6,6 +6,7 @@ import { hasIllustration } from './card-art';
 export interface CardData {
   slug: string;
   key: string;
+  artKey: string;             // result-image key to load (knowledge uses 'card', a quiz-level scene)
   name: string;
   baseName: string;           // name with any parenthetical stripped
   epithet: string | null;     // text in parens after the name, if any
@@ -53,7 +54,8 @@ export function cardDataFromResult(
   if (test.mode === 'knowledge') {
     const pct = matchPct ?? (parseInt(key, 10) || 0);
     const rarity = rarityFromMatch(pct);
-    const base = { slug: test.slug, key, matchPct, rarity, hasArt: hasIllustration(test.slug, key) };
+    // Knowledge quizzes are score-based: one quiz-level scene at <slug>/card, shown for any score.
+    const base = { slug: test.slug, key, artKey: 'card', matchPct, rarity, hasArt: hasIllustration(test.slug, 'card') };
     const name = `${pct}%`;
     return { ...base, name, baseName: name, epithet: test.title, emoji: '📖', traits: [],
       verse: { text: '', reference: '' },
@@ -64,7 +66,7 @@ export function cardDataFromResult(
   if (!r) return null;
 
   const rarity = rarityFromMatch(matchPct ?? 0); // representative=common when null
-  const base = { slug: test.slug, key, matchPct, rarity, hasArt: hasIllustration(test.slug, key) };
+  const base = { slug: test.slug, key, artKey: key, matchPct, rarity, hasArt: hasIllustration(test.slug, key) };
   const ar = r as { emoji?: string; traits?: string[] };
   const { base: nm, epithet } = splitName(r.name);
   const v = (r as { cardVerse?: typeof r.scripture }).cardVerse ?? r.scripture;

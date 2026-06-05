@@ -22,7 +22,21 @@ export interface RewardCatalogInputs {
 export function buildRewardCatalog(inp: RewardCatalogInputs): RewardEntry[] {
   const out: RewardEntry[] = [];
   for (const t of inp.tests) {
-    if (t.mode !== 'archetype' && t.mode !== 'profile') continue; // knowledge reuses the cover
+    if (t.mode === 'knowledge') {
+      // Score-based: one quiz-level scene image at <slug>/card, shown for any score.
+      out.push({
+        quizSlug: t.slug,
+        quizTitle: t.title,
+        resultKey: 'card',
+        resultName: 'Score card',
+        rewardArt: 'scene',
+        category: t.category,
+        status: inp.published.has(t.slug) ? 'live' : 'backlog',
+        hasImage: inp.hasImage(t.slug, 'card'),
+        path: `public/results/${t.slug}/card.png`,
+      });
+      continue;
+    }
     for (const [key, r] of Object.entries(t.results)) {
       out.push({
         quizSlug: t.slug,

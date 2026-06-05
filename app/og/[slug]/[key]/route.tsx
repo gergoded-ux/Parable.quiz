@@ -58,7 +58,7 @@ export async function GET(req: Request, { params }: { params: Promise<{ slug: st
   const name = d.baseName;
   const nameSize = nameFontSizeOg(name); // OG-tuned; node wraps inside the panel
 
-  const a = artUrl(slug, key);
+  const a = artUrl(slug, d.artKey);
   const artSrc = a.startsWith('http') ? a : url.origin + a;
   const starColor = (on: boolean) => (on ? CARD.star[d.rarity.material].to : 'rgba(107,68,35,0.25)');
 

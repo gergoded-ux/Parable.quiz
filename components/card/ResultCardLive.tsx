@@ -35,7 +35,7 @@ export function ResultCardLive({ data, cardRef }: { data: CardData; cardRef?: Re
             <div style={{ fontFamily: CARD.fonts.display, fontWeight: 700, fontSize: 10, letterSpacing: 3, color: CARD.ink.wm }}>PARABLE</div>
             <div style={{ width: 130, height: 130, margin: '4px auto 0', borderRadius: 10, overflow: 'hidden', border: '1.5px solid rgba(212,175,55,.7)' }}>
               {data.hasArt
-                ? <img src={artUrl(data.slug, data.key)} alt="" crossOrigin="anonymous" style={{ width: '100%', height: '100%', objectFit: 'cover', objectPosition: 'center 20%' }} />
+                ? <img src={artUrl(data.slug, data.artKey)} alt="" crossOrigin="anonymous" style={{ width: '100%', height: '100%', objectFit: 'cover', objectPosition: 'center 20%' }} />
                 : <div style={{ width: '100%', height: '100%', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: 64, background: 'linear-gradient(160deg,#fff8ed,#f0dcc4)' }}>{data.emoji}</div>}
             </div>
             <div style={{ fontFamily: CARD.fonts.body, fontWeight: 800, fontSize: 9.5, letterSpacing: 2.5, marginTop: 6, color: data.rarity.accent }}>
