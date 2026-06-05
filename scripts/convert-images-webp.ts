@@ -24,10 +24,12 @@ const ORIG = join(process.cwd(), '.image-originals');
 const DRY = process.argv.includes('--dry');
 const SAMPLE = 24; // dry-run: images measured per folder, then projected by count
 
+// NOTE: frames (public/cards/frames) are intentionally NOT converted - they are
+// referenced by a hardcoded .png name in lib/rarity.ts and embedded as
+// image/png in the OG route, and they are only ~3.7 MB. Leave them as PNG.
 const CONFIG: Record<string, { max: number; quality: number }> = {
   results: { max: 640, quality: 80 },
   quizzes: { max: 600, quality: 80 },
-  cards: { max: 1080, quality: 88 },
 };
 
 function walk(dir: string): string[] {

@@ -16,7 +16,8 @@ export const CARD = {
 } as const;
 
 // Panel inset geometry, shared by the live DOM card and the next/og renderer.
-export const PANEL = { left: '16%', right: '16%', top: '17.5%', bottom: '11.5%' } as const;
+// top matches bottom so the panel is vertically centered in the frame.
+export const PANEL = { left: '16%', right: '16%', top: '11.5%', bottom: '11.5%' } as const;
 
 // Banded auto-fit for the result name. Profile names are full sentences
 // (up to ~48 chars), so a single fixed size overflows the title box.

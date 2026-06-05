@@ -48,3 +48,7 @@ scripts/.asv-bible.json
 
 # Full-res image originals kept locally as a backup after WebP conversion
 .image-originals/
+
+# Local-only QA mockup (dev tool, 404s in prod - never deployed)
+/app/mockup/
+/components/MockupGrid.tsx
