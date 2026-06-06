@@ -15,11 +15,19 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const { slug } = await params;
   const test = loadTestBySlug(slug);
   if (!test || !isPublished(slug)) return {};
+  // Compose a full-length meta description: keep the punchy subtitle as-is when it
+  // is already substantial, otherwise pad it with a value sentence. Cap at ~158.
+  const sub = test.subtitle?.trim();
+  const tail = test.mode === 'knowledge'
+    ? 'Free Bible IQ quiz: answer the questions, get your score and a shareable scorecard with a verse.'
+    : 'Free Christian quiz: answer a few questions for your result, a verse, and a collectible card to share.';
+  let description = sub && sub.length >= 110 ? sub : (sub ? `${sub} ${tail}` : tail);
+  if (description.length > 158) description = description.slice(0, 155).trimEnd() + '…';
   return {
     title: test.title,
-    description: test.subtitle ?? `A free Christian quiz: ${test.title}. Answer a few questions to get your result with a verse and a shareable card.`,
+    description,
     alternates: { canonical: `/q/${slug}` },
-    openGraph: { title: test.title, type: 'website' },
+    openGraph: { title: test.title, description, type: 'website' },
   };
 }
 
