@@ -25,6 +25,7 @@ export function RelatedQuizzes({ slug }: { slug: string }) {
             toSlug={t.slug}
             title={t.title}
             emoji={pickEmoji(t)}
+            category={t.category}
             estimatedMinutes={t.estimatedMinutes}
           />
         ))}

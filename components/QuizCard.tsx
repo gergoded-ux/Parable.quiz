@@ -5,6 +5,7 @@ import { Card, CardHeader, CardContent, CardTitle, CardDescription } from '@/com
 import { FitText } from '@/components/FitText';
 import { track } from '@vercel/analytics';
 import { hasQuizCover, quizCoverUrl } from '@/lib/card-art';
+import { categoryIcon } from '@/lib/category-icon';
 
 function pickEmoji(t: Test): string {
   if (t.mode === 'archetype') {
@@ -36,11 +37,16 @@ function coverGradient(t: Test): string {
 
 export function QuizCard({ test }: { test: Test }) {
   const emoji = pickEmoji(test);
+  const catIcon = categoryIcon(test.category);
   return (
     <Link href={`/q/${test.slug}`} onClick={() => track('quiz_card_click', { slug: test.slug })} className="block h-full">
       <Card className="flex h-full flex-col">
         <CardHeader className="gap-2.5 p-3">
-          <div className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-cream-2 text-base">{emoji}</div>
+          {catIcon ? (
+            <img src={catIcon} alt="" className="h-8 w-8 shrink-0 rounded-full object-cover" />
+          ) : (
+            <div className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-cream-2 text-base">{emoji}</div>
+          )}
           <div className="min-w-0 flex-1">
             <CardTitle><FitText text={test.title} max={15} min={5} /></CardTitle>
             <CardDescription className="mt-0.5 text-[11px]">{categoryLabel(test)}</CardDescription>

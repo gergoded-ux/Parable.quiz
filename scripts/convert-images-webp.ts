@@ -30,6 +30,8 @@ const SAMPLE = 24; // dry-run: images measured per folder, then projected by cou
 const CONFIG: Record<string, { max: number; quality: number }> = {
   results: { max: 640, quality: 80 },
   quizzes: { max: 600, quality: 80 },
+  // Category icons render in a ~32px circle; 128px covers retina. quality 85 keeps edges crisp.
+  icons: { max: 128, quality: 85 },
 };
 
 function walk(dir: string): string[] {
