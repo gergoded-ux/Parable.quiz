@@ -1,6 +1,6 @@
 // components/TestRunner.tsx
 'use client';
-import { useState, useMemo, useEffect } from 'react';
+import { useState, useMemo, useEffect, useRef } from 'react';
 import { useRouter } from 'next/navigation';
 import { track } from '@vercel/analytics';
 import type { Test } from '@/lib/schema';
@@ -19,6 +19,19 @@ export function TestRunner({ test }: { test: Test }) {
   useEffect(() => {
     track('quiz_start', { slug: test.slug, mode: test.mode });
   }, [test.slug, test.mode]);
+
+  // Drop-off tracking: remember the furthest question reached, then on unmount
+  // fire quiz_abandon if they left the quiz before finishing.
+  const completedRef = useRef(false);
+  const furthestRef = useRef(1);
+  useEffect(() => { furthestRef.current = Math.max(furthestRef.current, step + 1); }, [step]);
+  useEffect(() => {
+    return () => {
+      if (!completedRef.current) {
+        track('quiz_abandon', { slug: test.slug, mode: test.mode, question: furthestRef.current, total: totalQuestions });
+      }
+    };
+  }, [test.slug, test.mode, totalQuestions]);
 
   const currentAnswer = answers[step] ?? null;
   const isLast = step === totalQuestions - 1;
@@ -41,6 +54,7 @@ export function TestRunner({ test }: { test: Test }) {
       const r = scoreKnowledge(test, answers); resultKey = String(r.percent); m = r.percent;
     }
     track('quiz_complete', { slug: test.slug, mode: test.mode, result: resultKey });
+    completedRef.current = true; // so the unmount handler does not log an abandon
     router.push(`/q/${test.slug}/r/${resultKey}?m=${m}`);
   }
 
