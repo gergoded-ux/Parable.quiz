@@ -44,7 +44,7 @@ export function ResultCard(props: Props) {
     return (
       <div className="bg-gradient-to-br from-cream-1 to-rose border border-rose-dark/40 rounded-2xl shadow-card max-w-xl mx-auto p-8 text-center">
         <div className="text-xs uppercase tracking-[2px] text-ink-mute mb-2">You are</div>
-        <div className="text-4xl font-extrabold text-brown-dark mb-2 -tracking-wide">{props.name}</div>
+        <h1 className="text-4xl font-extrabold text-brown-dark mb-2 -tracking-wide">{props.name}</h1>
         <div className="text-6xl my-3">{props.emoji}</div>
         <div className="text-base text-ink-soft leading-relaxed mb-4">{props.description}</div>
         <div className="flex justify-center gap-2 flex-wrap mb-4">
@@ -66,7 +66,7 @@ export function ResultCard(props: Props) {
     return (
       <div className="bg-gradient-to-br from-cream-1 to-rose border border-rose-dark/40 rounded-2xl shadow-card max-w-xl mx-auto p-8 text-center">
         <div className="text-xs uppercase tracking-[2px] text-ink-mute mb-2">Your result</div>
-        <div className="text-4xl font-extrabold text-brown-dark mb-3">{props.name}</div>
+        <h1 className="text-4xl font-extrabold text-brown-dark mb-3">{props.name}</h1>
         <div className="text-base text-ink-soft leading-relaxed mb-4">{props.description}</div>
         <div className="space-y-2 text-left mt-4">
           {props.topDimensions.map(d => (
@@ -93,7 +93,7 @@ export function ResultCard(props: Props) {
   return (
     <div className="bg-gradient-to-br from-cream-1 to-rose border border-rose-dark/40 rounded-2xl shadow-card max-w-xl mx-auto p-8 text-center">
       <div className="text-xs uppercase tracking-[2px] text-ink-mute mb-2">Your score</div>
-      <div className="text-6xl font-extrabold text-brown-dark mb-1">{props.percent}%</div>
+      <h1 className="text-6xl font-extrabold text-brown-dark mb-1">{props.percent}%</h1>
       <div className="text-base text-ink-mute mb-3">{props.correct} of {props.total} correct</div>
       <div className="text-xl font-bold text-brown mb-2">{props.bandLabel}</div>
       <div className="text-base text-ink-soft">{props.message}</div>
