@@ -17,6 +17,7 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://eikonia.art'),
   openGraph: { siteName: 'Eikonia', type: 'website', images: ['/home-bg.webp'] },
   twitter: { card: 'summary_large_image' },
+  verification: { google: 'OAriYbpMbxwcehUM3U8zm5-fxE8fbNKdkhPqz-pN0mI' },
 };
 
 const siteLd = {
