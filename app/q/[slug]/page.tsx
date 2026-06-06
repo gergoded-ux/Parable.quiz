@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
 import { loadPublishedTests, loadTestBySlug, isPublished } from '@/lib/test-loader';
 import { TestRunner } from '@/components/TestRunner';
+import { hasQuizCover, quizCoverUrl } from '@/lib/card-art';
 
 // Only the live (published) quizzes exist as routes; backlog slugs 404.
 export const dynamicParams = false;
@@ -23,11 +24,13 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     : 'Free Christian quiz: answer a few questions for your result, a verse, and a collectible card to share.';
   let description = sub && sub.length >= 110 ? sub : (sub ? `${sub} ${tail}` : tail);
   if (description.length > 158) description = description.slice(0, 155).trimEnd() + '…';
+  const cover = hasQuizCover(slug) ? quizCoverUrl(slug) : undefined;
   return {
     title: test.title,
     description,
     alternates: { canonical: `/q/${slug}` },
-    openGraph: { title: test.title, description, type: 'website' },
+    openGraph: { title: test.title, description, type: 'website', images: cover ? [cover] : undefined },
+    twitter: cover ? { card: 'summary_large_image', title: test.title, description, images: [cover] } : undefined,
   };
 }
 

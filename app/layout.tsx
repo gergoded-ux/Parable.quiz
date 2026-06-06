@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   title: { default: "Eikonia: What's your reflection?", template: '%s · Eikonia' },
   description: 'Free Christian quizzes that reveal what scripture says about you. No sign-up.',
   metadataBase: new URL('https://eikonia.art'),
-  openGraph: { siteName: 'Eikonia', type: 'website' },
+  openGraph: { siteName: 'Eikonia', type: 'website', images: ['/home-bg.webp'] },
   twitter: { card: 'summary_large_image' },
 };
 

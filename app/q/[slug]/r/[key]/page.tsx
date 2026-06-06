@@ -32,18 +32,19 @@ export async function generateMetadata({ params, searchParams }: { params: Promi
   if (test.mode === 'archetype') {
     const r = test.results[key];
     if (r) {
-      title = `You are ${r.name} · ${test.title}`;
+      title = `You are ${r.name}`;
       description = r.description;
     }
   } else if (test.mode === 'profile') {
     const r = test.results[key];
     if (r) {
-      title = `Your top gift: ${r.name} · ${test.title}`;
+      title = `Your top gift: ${r.name}`;
       description = r.description;
     }
   } else {
     title = `${key}% · ${test.title}`;
   }
+  if (description.length > 158) description = description.slice(0, 155).trimEnd() + '…';
   const mq = m ? `?m=${encodeURIComponent(m)}` : '';
   const ogImage = `/og/${slug}/${key}${mq}`;
   return {
