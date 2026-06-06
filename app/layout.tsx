@@ -19,10 +19,19 @@ export const metadata: Metadata = {
   twitter: { card: 'summary_large_image' },
 };
 
+const siteLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'Organization', '@id': 'https://eikonia.art/#org', name: 'Eikonia', url: 'https://eikonia.art', description: 'Free Christian quizzes that reveal what scripture says about you.' },
+    { '@type': 'WebSite', '@id': 'https://eikonia.art/#website', name: 'Eikonia', url: 'https://eikonia.art', inLanguage: 'en', publisher: { '@id': 'https://eikonia.art/#org' } },
+  ],
+};
+
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" className={inter.variable}>
       <body>
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(siteLd) }} />
         {children}
         <SiteFooter />
         <Analytics />

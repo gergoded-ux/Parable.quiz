@@ -10,6 +10,7 @@ import { HomeBackground } from '@/components/HomeBackground';
 
 export const metadata: Metadata = {
   title: 'All Quizzes',
+  alternates: { canonical: '/quizzes' },
   description: 'Browse every Eikonia quiz: Bible character quizzes, spiritual profiles, and Bible IQ tests. Always free, no sign-up.',
 };
 

@@ -4,6 +4,7 @@ import { HomeNav } from '@/components/HomeNav';
 
 export const metadata: Metadata = {
   title: 'Contact',
+  alternates: { canonical: '/contact' },
   description: 'Get in touch with Eikonia: corrections, quiz ideas, partnerships, and privacy requests.',
 };
 

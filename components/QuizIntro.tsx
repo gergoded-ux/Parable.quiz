@@ -53,6 +53,21 @@ export function QuizIntro({ test, onStart }: { test: Test; onStart: () => void }
             <p className="mt-3 text-xs text-ink-mute">Free · No sign-up · For reflection, not a diagnosis</p>
           </div>
         </div>
+
+        <section className="mx-auto mt-6 max-w-md text-left text-sm leading-relaxed text-ink-soft">
+          <h2 className="mb-2 text-base font-bold text-brown-dark">About this quiz</h2>
+          {test.mode === 'knowledge' ? (
+            <p className="mb-3">{`${test.title} is a free Bible IQ quiz with ${test.questions.length} scored questions. See how well you know it and get a shareable scorecard with a verse.`}</p>
+          ) : (
+            <>
+              <p className="mb-3">{`${test.title} is a free ${categoryLabel(test).toLowerCase()} quiz. Answer ${test.questions.length} quick questions to be matched with one of these:`}</p>
+              <ul className="mb-3 list-disc pl-5">
+                {Object.values(test.results).map((r) => <li key={r.name}>{r.name}</li>)}
+              </ul>
+            </>
+          )}
+          <p>Every result comes with a verse (American Standard Version) and a collectible card you can share. Free, no sign-up.</p>
+        </section>
       </main>
     </>
   );

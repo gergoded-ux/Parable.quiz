@@ -48,6 +48,7 @@ export async function generateMetadata({ params, searchParams }: { params: Promi
   const ogImage = `/og/${slug}/${key}${mq}`;
   return {
     title, description,
+    alternates: { canonical: `/q/${slug}/r/${key}` },
     openGraph: { title, description, images: [ogImage], type: 'article' },
     twitter: { card: 'summary_large_image', title, description, images: [ogImage] },
   };
@@ -67,6 +68,17 @@ export default async function ResultPage({ params, searchParams }: { params: Pro
   const mq = matchPct !== null ? `?m=${matchPct}` : '';
   const shareUrl = `https://eikonia.art/q/${test.slug}/r/${key}${mq}`;
   const ogImageAbs = `https://eikonia.art/og/${test.slug}/${key}${mq}`;
+  const resultName = test.mode === 'knowledge' ? `${key}%` : (test.results[key]?.name ?? key);
+  const breadcrumb = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://eikonia.art' },
+      { '@type': 'ListItem', position: 2, name: 'Quizzes', item: 'https://eikonia.art/quizzes' },
+      { '@type': 'ListItem', position: 3, name: test.title, item: `https://eikonia.art/q/${test.slug}` },
+      { '@type': 'ListItem', position: 4, name: resultName, item: `https://eikonia.art/q/${test.slug}/r/${key}` },
+    ],
+  };
 
   let cardProps;
   let shareText;
@@ -98,6 +110,7 @@ export default async function ResultPage({ params, searchParams }: { params: Pro
 
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumb) }} />
       <TrackResultView slug={test.slug} result={key} />
       <HomeNav />
       <main className="px-4 py-8">

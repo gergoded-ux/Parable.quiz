@@ -4,6 +4,7 @@ import { HomeNav } from '@/components/HomeNav';
 
 export const metadata: Metadata = {
   title: 'Terms of Use',
+  alternates: { canonical: '/terms' },
   description: 'The simple terms for using Eikonia: free quizzes for personal reflection, not professional or pastoral advice.',
 };
 

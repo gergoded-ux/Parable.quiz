@@ -4,6 +4,7 @@ import { HomeNav } from '@/components/HomeNav';
 
 export const metadata: Metadata = {
   title: 'FAQ',
+  alternates: { canonical: '/faq' },
   description: 'Common questions about Eikonia: is it free, do you store my answers, which Bible translation, how results work, and more.',
 };
 

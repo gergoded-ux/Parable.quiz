@@ -4,6 +4,7 @@ import { HomeNav } from '@/components/HomeNav';
 
 export const metadata: Metadata = {
   title: 'About',
+  alternates: { canonical: '/about' },
   description: 'What Eikonia is, how the quizzes are made, and what the results are (and are not) meant to be.',
 };
 

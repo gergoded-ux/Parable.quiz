@@ -4,6 +4,7 @@ import { HomeNav } from '@/components/HomeNav';
 
 export const metadata: Metadata = {
   title: 'Privacy Policy',
+  alternates: { canonical: '/privacy' },
   description: 'How Eikonia handles your data: as little as possible. No account, no email required, no selling of personal information.',
 };
 

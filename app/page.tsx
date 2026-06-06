@@ -4,6 +4,9 @@ import { QuizCard } from '@/components/QuizCard';
 import { HomeNav } from '@/components/HomeNav';
 import { HomeBackground } from '@/components/HomeBackground';
 import { AdSlot } from '@/components/AdSlot';
+import type { Metadata } from 'next';
+
+export const metadata: Metadata = { alternates: { canonical: '/' } };
 
 export default function Home() {
   // Live quizzes only (content/published.json), in launch-priority order.
