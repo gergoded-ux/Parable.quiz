@@ -113,7 +113,7 @@ export function TestRunner({ test }: { test: Test }) {
 
   if (calculating) {
     return (
-      <div className="flex min-h-[78vh] flex-col items-center justify-center px-6 text-center">
+      <div role="status" aria-live="polite" className="flex min-h-[78vh] flex-col items-center justify-center px-6 text-center">
         {hasCover && (
           <motion.img
             src={quizCoverUrl(test.slug)}
@@ -153,7 +153,8 @@ export function TestRunner({ test }: { test: Test }) {
           </div>
         )}
         <main className="relative mx-auto max-w-2xl px-6 py-12">
-          <AnimatePresence mode="wait" custom={direction} initial={false}>
+          <div aria-live="polite">
+            <AnimatePresence mode="wait" custom={direction} initial={false}>
             <motion.div
               key={step}
               custom={direction}
@@ -171,7 +172,8 @@ export function TestRunner({ test }: { test: Test }) {
                 onSelect={pick}
               />
             </motion.div>
-          </AnimatePresence>
+            </AnimatePresence>
+          </div>
           <div className="mt-6 flex items-center justify-between">
             <button onClick={goBack} disabled={step === 0} className="text-sm text-ink-mute disabled:opacity-30">
               ← Back

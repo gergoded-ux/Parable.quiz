@@ -35,6 +35,12 @@
     font-family: var(--font-inter), 'Inter', -apple-system, sans-serif;
     min-height: 100%;
   }
+
+  /* Visible keyboard focus on every interactive element (accessibility). */
+  :focus-visible {
+    outline: 2px solid var(--color-brown);
+    outline-offset: 2px;
+  }
 }
 
 @layer components {

@@ -32,13 +32,18 @@ export function QuizIntro({ test, onStart }: { test: Test; onStart: () => void }
             <div className="mb-2 text-xs uppercase tracking-widest text-ink-mute">{categoryLabel(test)}</div>
             <h1 className="mb-2 text-2xl font-extrabold leading-tight text-brown-dark sm:text-3xl">{test.title}</h1>
             {test.subtitle && <p className="mx-auto mb-4 max-w-md text-ink-soft">{test.subtitle}</p>}
-            <div className="mb-6 flex flex-wrap items-center justify-center gap-x-4 gap-y-1 text-sm text-ink-mute">
+            <div className="mb-3 flex flex-wrap items-center justify-center gap-x-4 gap-y-1 text-sm text-ink-mute">
               <span>{test.questions.length} questions</span>
               <span aria-hidden>·</span>
               <span>about {test.estimatedMinutes} min</span>
               <span aria-hidden>·</span>
               <span>{test.mode === 'knowledge' ? 'Scored' : 'Instant result'}</span>
             </div>
+            <p className="mx-auto mb-6 max-w-md text-sm text-ink-soft">
+              {test.mode === 'knowledge'
+                ? 'A quick, scored check of how well you know this passage or topic.'
+                : 'Answer honestly. Your choices map you to the biblical figure or theme you most reflect.'}
+            </p>
             <button
               onClick={onStart}
               className="w-full rounded-full bg-brown px-6 py-4 text-base font-semibold text-white transition-transform hover:-translate-y-0.5"
