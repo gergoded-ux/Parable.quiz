@@ -6,6 +6,7 @@ import { track } from '@vercel/analytics';
 import { AnimatePresence, motion } from 'framer-motion';
 import type { Test } from '@/lib/schema';
 import { scoreArchetypeDetailed, scoreProfileDetailed, scoreKnowledge } from '@/lib/scoring';
+import { hasQuizCover, quizCoverUrl } from '@/lib/card-art';
 import { ProgressBar } from './ProgressBar';
 import { QuestionCard } from './QuestionCard';
 import { QuizIntro } from './QuizIntro';
@@ -21,21 +22,25 @@ const variants = {
 export function TestRunner({ test }: { test: Test }) {
   const router = useRouter();
   const [started, setStarted] = useState(false);
+  const [calculating, setCalculating] = useState(false);
   const [step, setStep] = useState(0);
   const [direction, setDirection] = useState(1);
   const [answers, setAnswers] = useState<number[]>([]);
   const totalQuestions = test.questions.length;
+  const hasCover = hasQuizCover(test.slug);
 
   const startedRef = useRef(false);
   const completedRef = useRef(false);
   const furthestRef = useRef(1);
   const advanceTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const revealTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   useEffect(() => { furthestRef.current = Math.max(furthestRef.current, step + 1); }, [step]);
 
   // Fire quiz_abandon on unmount if the quiz was started but not finished.
   useEffect(() => () => {
     if (advanceTimer.current) clearTimeout(advanceTimer.current);
+    if (revealTimer.current) clearTimeout(revealTimer.current);
     if (startedRef.current && !completedRef.current) {
       track('quiz_abandon', { slug: test.slug, mode: test.mode, question: furthestRef.current, total: totalQuestions });
     }
@@ -61,7 +66,9 @@ export function TestRunner({ test }: { test: Test }) {
     }
     track('quiz_complete', { slug: test.slug, mode: test.mode, result: resultKey });
     completedRef.current = true;
-    router.push(`/q/${test.slug}/r/${resultKey}?m=${m}`);
+    setCalculating(true); // brief anticipation beat before the result
+    const url = `/q/${test.slug}/r/${resultKey}?m=${m}`;
+    revealTimer.current = setTimeout(() => router.push(url), 1100);
   }
 
   // Auto-advance: picking an answer records it, briefly shows the selection, then
@@ -84,9 +91,49 @@ export function TestRunner({ test }: { test: Test }) {
     if (step > 0) { setDirection(-1); setStep(step - 1); }
   }
 
+  // Keyboard: 1-9 pick an option, ArrowLeft goes back.
+  useEffect(() => {
+    if (!started || calculating) return;
+    function onKey(e: KeyboardEvent) {
+      const n = test.questions[step]?.options.length ?? 0;
+      if (/^[1-9]$/.test(e.key)) {
+        const i = parseInt(e.key, 10) - 1;
+        if (i < n) { e.preventDefault(); pick(i); }
+      } else if (e.key === 'ArrowLeft') {
+        e.preventDefault(); goBack();
+      }
+    }
+    window.addEventListener('keydown', onKey);
+    return () => window.removeEventListener('keydown', onKey);
+  }, [started, calculating, step, answers]); // eslint-disable-line react-hooks/exhaustive-deps
+
   const showMidAd = useMemo(() => step === 2 && totalQuestions >= 6, [step, totalQuestions]);
 
   if (!started) return <QuizIntro test={test} onStart={begin} />;
+
+  if (calculating) {
+    return (
+      <div className="flex min-h-[78vh] flex-col items-center justify-center px-6 text-center">
+        {hasCover && (
+          <motion.img
+            src={quizCoverUrl(test.slug)}
+            alt=""
+            className="mb-6 h-28 w-28 rounded-2xl object-cover shadow-[0_10px_30px_rgba(80,50,20,0.18)]"
+            animate={{ scale: [1, 1.06, 1], opacity: [0.82, 1, 0.82] }}
+            transition={{ duration: 1.2, repeat: Infinity, ease: 'easeInOut' }}
+          />
+        )}
+        <p className="text-lg font-semibold text-brown-dark">Calculating your result</p>
+        <p className="mt-1 text-sm text-ink-soft">{test.mode === 'knowledge' ? 'Tallying your score…' : 'Matching you to scripture…'}</p>
+      </div>
+    );
+  }
+
+  const encouragement = isLast
+    ? 'Last question. Pick to reveal your result'
+    : step >= totalQuestions - 2
+      ? 'Almost there'
+      : 'Tap an answer to continue';
 
   return (
     <>
@@ -94,33 +141,45 @@ export function TestRunner({ test }: { test: Test }) {
         <Wordmark size="sm" />
         <ProgressBar current={step + 1} total={totalQuestions} label={test.title} />
       </div>
-      <main className="mx-auto max-w-2xl px-6 py-12">
-        <AnimatePresence mode="wait" custom={direction} initial={false}>
-          <motion.div
-            key={step}
-            custom={direction}
-            variants={variants}
-            initial="enter"
-            animate="center"
-            exit="exit"
-            transition={{ duration: 0.18, ease: 'easeOut' }}
-          >
-            <QuestionCard
-              questionNumber={step + 1}
-              questionText={test.questions[step].text}
-              options={test.questions[step].options.map(o => ({ text: o.text }))}
-              selectedIndex={currentAnswer}
-              onSelect={pick}
+      <div className="relative">
+        {hasCover && (
+          <div aria-hidden className="pointer-events-none absolute inset-x-0 top-0 -z-10 h-44 overflow-hidden">
+            <img
+              src={quizCoverUrl(test.slug)}
+              alt=""
+              className="h-full w-full scale-110 object-cover opacity-25 blur-2xl"
+              style={{ maskImage: 'linear-gradient(to bottom, black, transparent)', WebkitMaskImage: 'linear-gradient(to bottom, black, transparent)' }}
             />
-          </motion.div>
-        </AnimatePresence>
-        <div className="mt-6 flex items-center justify-between">
-          <button onClick={goBack} disabled={step === 0} className="text-sm text-ink-mute disabled:opacity-30">
-            ← Back
-          </button>
-          <span className="text-xs text-ink-mute">{isLast ? 'Pick an answer to see your result' : 'Tap an answer to continue'}</span>
-        </div>
-      </main>
+          </div>
+        )}
+        <main className="relative mx-auto max-w-2xl px-6 py-12">
+          <AnimatePresence mode="wait" custom={direction} initial={false}>
+            <motion.div
+              key={step}
+              custom={direction}
+              variants={variants}
+              initial="enter"
+              animate="center"
+              exit="exit"
+              transition={{ duration: 0.18, ease: 'easeOut' }}
+            >
+              <QuestionCard
+                questionNumber={step + 1}
+                questionText={test.questions[step].text}
+                options={test.questions[step].options.map(o => ({ text: o.text }))}
+                selectedIndex={currentAnswer}
+                onSelect={pick}
+              />
+            </motion.div>
+          </AnimatePresence>
+          <div className="mt-6 flex items-center justify-between">
+            <button onClick={goBack} disabled={step === 0} className="text-sm text-ink-mute disabled:opacity-30">
+              ← Back
+            </button>
+            <span className="text-xs text-ink-mute">{encouragement}</span>
+          </div>
+        </main>
+      </div>
       {showMidAd && <AdSlot slot="mid-quiz" />}
     </>
   );
