@@ -6,6 +6,7 @@ import { loadPublishedTests } from '@/lib/test-loader';
 import type { Test } from '@/lib/schema';
 import { QuizCard } from '@/components/QuizCard';
 import { HomeNav } from '@/components/HomeNav';
+import { HomeBackground } from '@/components/HomeBackground';
 
 export const metadata: Metadata = {
   title: 'All Quizzes',
@@ -22,6 +23,7 @@ export default function QuizzesPage() {
 
   return (
     <>
+      <HomeBackground />
       <HomeNav />
       <header className="px-8 pt-12 pb-2 text-center">
         <h1 className="mb-2 text-3xl font-extrabold text-brown-dark">All quizzes</h1>
