@@ -3,6 +3,7 @@ import Link from 'next/link';
 import type { Test } from '@/lib/schema';
 import { Card, CardHeader, CardContent, CardTitle, CardDescription } from '@/components/ui/card-2';
 import { FitText } from '@/components/FitText';
+import { track } from '@vercel/analytics';
 import { hasQuizCover, quizCoverUrl } from '@/lib/card-art';
 
 function pickEmoji(t: Test): string {
@@ -36,7 +37,7 @@ function coverGradient(t: Test): string {
 export function QuizCard({ test }: { test: Test }) {
   const emoji = pickEmoji(test);
   return (
-    <Link href={`/q/${test.slug}`} className="block h-full">
+    <Link href={`/q/${test.slug}`} onClick={() => track('quiz_card_click', { slug: test.slug })} className="block h-full">
       <Card className="flex h-full flex-col">
         <CardHeader className="gap-2.5 p-3">
           <div className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-cream-2 text-base">{emoji}</div>

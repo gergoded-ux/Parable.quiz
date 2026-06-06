@@ -7,6 +7,7 @@ import { ResultCard } from '@/components/ResultCard';
 import { AdSlot } from '@/components/AdSlot';
 import { RelatedQuizzes } from '@/components/RelatedQuizzes';
 import { ShareableCard } from '@/components/card/ShareableCard';
+import { TrackResultView } from '@/components/TrackResultView';
 import { cardDataFromResult, binaryAffinityStat } from '@/lib/card-data';
 
 export function generateStaticParams() {
@@ -97,6 +98,7 @@ export default async function ResultPage({ params, searchParams }: { params: Pro
 
   return (
     <>
+      <TrackResultView slug={test.slug} result={key} />
       <HomeNav />
       <main className="px-4 py-8">
         <div className="mx-auto flex max-w-5xl flex-col items-center gap-8 lg:flex-row lg:items-start lg:justify-center lg:gap-10">
