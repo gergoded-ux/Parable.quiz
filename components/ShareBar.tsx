@@ -52,7 +52,7 @@ export function ShareBar({ url, text, image, cardEl, showCardShare }: { url: str
     if (!cardEl) return;
     track('share_click', { platform: 'card' });
     try {
-      const blob = await toBlob(cardEl, { pixelRatio: 3, cacheBust: true });
+      const blob = await toBlob(cardEl, { pixelRatio: 3, cacheBust: true, style: { transform: 'none', backfaceVisibility: 'visible' } });
       if (!blob) throw new Error('snapshot failed');
       const file = new File([blob], 'eikonia-card.png', { type: 'image/png' });
       if (navigator.canShare?.({ files: [file] })) {

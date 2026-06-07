@@ -22,11 +22,12 @@ export function ResultCardLive({ data, cardRef }: { data: CardData; cardRef?: Re
 
   return (
     <div style={{ perspective: 1200, width: 330, margin: '0 auto' }}>
-      <div ref={cardRef}
+      <div
         style={{ position: 'relative', width: 330, height: 412, borderRadius: 14, transition: 'transform .7s',
           transformStyle: 'preserve-3d', transform: revealed ? 'rotateY(0deg)' : 'rotateY(180deg)' }}>
-        {/* front */}
-        <div style={{ position: 'absolute', inset: 0, backfaceVisibility: 'hidden', borderRadius: 14, overflow: 'hidden',
+        {/* front (also the Share/Download snapshot target - ref is here, NOT on the
+            3D flip container, so html-to-image captures the flat front, not the back) */}
+        <div ref={cardRef} style={{ position: 'absolute', inset: 0, width: 330, height: 412, backfaceVisibility: 'hidden', borderRadius: 14, overflow: 'hidden',
           backgroundImage: `url(${frame})`, backgroundSize: 'cover', backgroundPosition: 'center', backgroundRepeat: 'no-repeat', boxShadow: '0 10px 26px rgba(80,50,20,.3)' }}>
           <div style={{ position: 'absolute', left: PANEL.left, right: PANEL.right, top: PANEL.top, bottom: PANEL.bottom,
             background: CARD.panel.bg, border: `1px solid ${CARD.panel.border}`, borderRadius: 12,
