@@ -1,12 +1,5 @@
 // components/ResultCard.tsx
-import { getScripture, type Scripture } from '@/lib/scripture';
-
-// A result's verse can come inline or via a ref into shared/scriptures.json.
-function resolveVerse(scripture?: Scripture, scriptureRef?: string): Scripture | null {
-  if (scripture) return scripture;
-  if (scriptureRef) return getScripture(scriptureRef);
-  return null;
-}
+import type { Scripture } from '@/lib/scripture';
 
 interface ArchetypeResultProps {
   mode: 'archetype';
@@ -40,7 +33,6 @@ type Props = ArchetypeResultProps | ProfileResultProps | KnowledgeResultProps;
 
 export function ResultCard(props: Props) {
   if (props.mode === 'archetype') {
-    const verse = resolveVerse(props.scripture, props.scriptureRef);
     return (
       <div className="bg-gradient-to-br from-cream-1 to-rose border border-rose-dark/40 rounded-2xl shadow-card max-w-xl mx-auto p-8 text-center">
         <div className="text-xs uppercase tracking-[2px] text-ink-mute mb-2">You are</div>
@@ -52,17 +44,11 @@ export function ResultCard(props: Props) {
             <span key={t} className="bg-white text-brown rounded-full px-3 py-1 text-xs font-semibold">{t}</span>
           ))}
         </div>
-        {verse && (
-          <div className="border-t border-brown/15 pt-3 italic text-sm text-ink-soft">
-            &ldquo;{verse.text}&rdquo; — {verse.reference}{verse.translation ? ` (${verse.translation})` : ''}
-          </div>
-        )}
       </div>
     );
   }
 
   if (props.mode === 'profile') {
-    const verse = resolveVerse(props.scripture, props.scriptureRef);
     return (
       <div className="bg-gradient-to-br from-cream-1 to-rose border border-rose-dark/40 rounded-2xl shadow-card max-w-xl mx-auto p-8 text-center">
         <div className="text-xs uppercase tracking-[2px] text-ink-mute mb-2">Your result</div>
@@ -80,11 +66,6 @@ export function ResultCard(props: Props) {
             </div>
           ))}
         </div>
-        {verse && (
-          <div className="border-t border-brown/15 pt-3 mt-4 italic text-sm text-ink-soft">
-            &ldquo;{verse.text}&rdquo; — {verse.reference}{verse.translation ? ` (${verse.translation})` : ''}
-          </div>
-        )}
       </div>
     );
   }

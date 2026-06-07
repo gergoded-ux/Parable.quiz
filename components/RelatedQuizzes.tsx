@@ -15,7 +15,7 @@ export function RelatedQuizzes({ slug }: { slug: string }) {
   const related = getRelated(slug);
   if (related.length === 0) return null;
   return (
-    <section className="px-8 pb-8">
+    <section className="mx-auto max-w-6xl px-8 pb-8">
       <h3 className="text-xs uppercase tracking-widest text-brown my-6">Take another</h3>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-3">
         {related.map(t => (

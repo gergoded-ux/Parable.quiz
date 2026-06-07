@@ -16,7 +16,7 @@ export function scoreArchetype(test: ArchetypeTest, answers: number[]): string {
   const firstSeen: Record<string, number> = {};
   test.questions.forEach((q, qi) => {
     const optIdx = answers[qi];
-    if (optIdx < 0 || optIdx >= q.options.length) {
+    if (!Number.isInteger(optIdx) || optIdx < 0 || optIdx >= q.options.length) {
       throw new Error(`Answer index ${optIdx} out of bounds for question ${qi}`);
     }
     const weights = q.options[optIdx].weights;
@@ -43,7 +43,7 @@ export function scoreProfile(test: ProfileTest, answers: number[]): Record<strin
   const raw: Record<string, number> = Object.fromEntries(test.dimensions.map(d => [d, 0]));
   test.questions.forEach((q, qi) => {
     const optIdx = answers[qi];
-    if (optIdx < 0 || optIdx >= q.options.length) {
+    if (!Number.isInteger(optIdx) || optIdx < 0 || optIdx >= q.options.length) {
       throw new Error(`Answer index ${optIdx} out of bounds for question ${qi}`);
     }
     for (const [key, w] of Object.entries(q.options[optIdx].weights)) {
@@ -63,7 +63,7 @@ export function scoreKnowledge(test: KnowledgeTest, answers: number[]): Knowledg
   let correct = 0;
   test.questions.forEach((q, qi) => {
     const optIdx = answers[qi];
-    if (optIdx < 0 || optIdx >= q.options.length) {
+    if (!Number.isInteger(optIdx) || optIdx < 0 || optIdx >= q.options.length) {
       throw new Error(`Answer index ${optIdx} out of bounds for question ${qi}`);
     }
     if (q.options[optIdx].correct) correct++;
@@ -87,7 +87,7 @@ export function scoreArchetypeDetailed(test: ArchetypeTest, answers: number[]): 
   let grand = 0;
   test.questions.forEach((q, qi) => {
     const optIdx = answers[qi];
-    if (optIdx < 0 || optIdx >= q.options.length) {
+    if (!Number.isInteger(optIdx) || optIdx < 0 || optIdx >= q.options.length) {
       throw new Error(`Answer index ${optIdx} out of bounds for question ${qi}`);
     }
     for (const [key, w] of Object.entries(q.options[optIdx].weights)) {
@@ -113,7 +113,7 @@ export function scoreProfileDetailed(test: ProfileTest, answers: number[]): Prof
   let sum = 0;
   test.questions.forEach((q, qi) => {
     const optIdx = answers[qi];
-    if (optIdx < 0 || optIdx >= q.options.length) throw new Error(`Answer index ${optIdx} out of bounds for question ${qi}`);
+    if (!Number.isInteger(optIdx) || optIdx < 0 || optIdx >= q.options.length) throw new Error(`Answer index ${optIdx} out of bounds for question ${qi}`);
     for (const [k, w] of Object.entries(q.options[optIdx].weights)) {
       if (k in raw) { raw[k] += w; sum += w; }
     }

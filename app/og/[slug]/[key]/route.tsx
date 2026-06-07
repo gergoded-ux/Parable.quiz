@@ -1,5 +1,6 @@
 // app/og/[slug]/[key]/route.tsx
 import { ImageResponse } from 'next/og';
+import sharp from 'sharp';
 import { readFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { loadTestBySlug, isPublished } from '@/lib/test-loader';
@@ -35,6 +36,21 @@ function frameDataUri(file: string) {
   return frameCache[file];
 }
 
+// Satori (next/og) cannot decode WebP, so convert the result art to a PNG data
+// URI with sharp. Memoized per file so each art image is converted only once.
+const artCache: Record<string, string> = {};
+async function artDataUri(rel: string): Promise<string | null> {
+  if (artCache[rel]) return artCache[rel];
+  try {
+    const png = await sharp(join(process.cwd(), 'public', 'results', rel)).png().toBuffer();
+    const uri = `data:image/png;base64,${png.toString('base64')}`;
+    artCache[rel] = uri;
+    return uri;
+  } catch {
+    return null;
+  }
+}
+
 export async function GET(req: Request, { params }: { params: Promise<{ slug: string; key: string }> }) {
   const { slug, key } = await params;
   const url = new URL(req.url);
@@ -59,7 +75,7 @@ export async function GET(req: Request, { params }: { params: Promise<{ slug: st
   const nameSize = nameFontSizeOg(name); // OG-tuned; node wraps inside the panel
 
   const a = artUrl(slug, d.artKey);
-  const artSrc = a.startsWith('http') ? a : url.origin + a;
+  const artSrc = d.hasArt ? (a.startsWith('http') ? a : await artDataUri(a.replace(/^\/results\//, ''))) : null;
   const starColor = (on: boolean) => (on ? CARD.star[d.rarity.material].to : 'rgba(107,68,35,0.25)');
 
   return new ImageResponse(
@@ -80,7 +96,7 @@ export async function GET(req: Request, { params }: { params: Promise<{ slug: st
           <div style={{ fontFamily: 'Cinzel', fontWeight: 700, fontSize: 30, letterSpacing: 6, color: CARD.ink.wm, display: 'flex' }}>EIKONIA</div>
           {/* image window */}
           <div style={{ width: 470, height: 470, marginTop: 14, borderRadius: 24, overflow: 'hidden', border: '4px solid rgba(212,175,55,.7)', display: 'flex' }}>
-            {d.hasArt
+            {artSrc
               ? <img width={470} height={470} src={artSrc} style={{ objectFit: 'cover', objectPosition: 'center 20%' }} />
               : <div style={{ width: 470, height: 470, display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: 180, background: 'linear-gradient(160deg,#fff8ed,#f0dcc4)' }}>{d.emoji}</div>}
           </div>
@@ -113,7 +129,7 @@ export async function GET(req: Request, { params }: { params: Promise<{ slug: st
             </div>
           )}
           {d.verse.text && <div style={{ fontFamily: 'EB Garamond', fontStyle: 'italic', fontSize: 26, color: CARD.ink.body, marginTop: 22, textAlign: 'center', display: 'flex' }}>&ldquo;{d.verse.text}&rdquo; — {d.verse.reference}{d.verse.translation ? ` (${d.verse.translation})` : ''}</div>}
-          {d.matchPct !== null && <div style={{ fontFamily: 'Inter', fontWeight: 700, fontSize: 20, letterSpacing: 3, color: CARD.ink.mute, marginTop: 'auto', display: 'flex' }}>{d.matchPct}% MATCH</div>}
+          {d.matchPct !== null && <div style={{ fontFamily: 'Inter', fontWeight: 700, fontSize: 20, letterSpacing: 3, color: CARD.ink.mute, marginTop: 'auto', display: 'flex' }}>{d.matchPct}% MATCH · {d.rarity.label.toUpperCase()}</div>}
         </div>
       </div>
     ),

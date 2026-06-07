@@ -12,41 +12,37 @@ export function ShareableCard({ data, shareUrl, shareText, ogImage }: { data: Ca
   const ref = useRef<HTMLDivElement>(null);
   const [el, setEl] = useState<HTMLElement | null>(null);
   const [zoom, setZoom] = useState(false);
-  const [scale, setScale] = useState(1.6);
+  const [zoomScale, setZoomScale] = useState(1.8);
 
   useEffect(() => { setEl(ref.current); }, []);
 
-  // While zoomed: size the card to fit the viewport, close on Escape, lock scroll.
+  // Show the on-page card larger on desktop; mobile stays at its natural size.
+  const [cardScale, setCardScale] = useState(1);
+  useEffect(() => {
+    const fit = () => setCardScale(window.innerWidth >= 1024 ? 1.25 : 1);
+    fit();
+    window.addEventListener('resize', fit);
+    return () => window.removeEventListener('resize', fit);
+  }, []);
+
+  // While zoomed: size the (flat) card to fit the viewport, close on Escape, lock scroll.
   useEffect(() => {
     if (!zoom) return;
-    const fit = () => setScale(Math.max(1, Math.min(
-      (window.innerWidth - 48) / CARD_W,
-      (window.innerHeight - 150) / CARD_H,
-      2.2,
-    )));
+    const fit = () => setZoomScale(Math.max(1, Math.min((window.innerWidth - 48) / CARD_W, (window.innerHeight - 120) / CARD_H, 2.4)));
     fit();
     const onKey = (e: KeyboardEvent) => { if (e.key === 'Escape') setZoom(false); };
     window.addEventListener('keydown', onKey);
     window.addEventListener('resize', fit);
     document.body.style.overflow = 'hidden';
-    return () => {
-      window.removeEventListener('keydown', onKey);
-      window.removeEventListener('resize', fit);
-      document.body.style.overflow = '';
-    };
+    return () => { window.removeEventListener('keydown', onKey); window.removeEventListener('resize', fit); document.body.style.overflow = ''; };
   }, [zoom]);
 
   return (
     <>
-      {/* Mouse convenience: click the card to zoom. */}
       <div onClick={() => setZoom(true)} className="cursor-zoom-in select-none">
-        <ResultCardLive data={data} cardRef={ref} />
+        <ResultCardLive data={data} cardRef={ref} scale={cardScale} />
       </div>
-      {/* Accessible control (keyboard + screen readers). */}
-      <button
-        onClick={() => setZoom(true)}
-        className="mx-auto mt-1 block text-xs text-ink-mute underline-offset-2 hover:underline"
-      >
+      <button onClick={() => setZoom(true)} className="mx-auto mt-1 block text-xs text-ink-mute underline-offset-2 hover:underline">
         Tap the card to zoom in
       </button>
 
@@ -61,8 +57,8 @@ export function ShareableCard({ data, shareUrl, shareText, ogImage }: { data: Ca
           className="fixed inset-0 z-50 flex items-center justify-center p-4"
           style={{ background: 'rgba(20,12,4,0.82)', backdropFilter: 'blur(2px)', cursor: 'zoom-out' }}
         >
-          <div onClick={(e) => e.stopPropagation()} style={{ transform: `scale(${scale})`, transformOrigin: 'center', cursor: 'default' }}>
-            <ResultCardLive data={data} />
+          <div onClick={(e) => e.stopPropagation()} style={{ cursor: 'default' }}>
+            <ResultCardLive data={data} flat scale={zoomScale} />
           </div>
           <button
             onClick={() => setZoom(false)}

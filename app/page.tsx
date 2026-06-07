@@ -22,12 +22,14 @@ export default function Home() {
     <>
       <HomeBackground />
       <HomeNav />
-      <header className="text-center py-16 px-8">
-        <h1 className="text-4xl md:text-5xl font-extrabold text-brown-dark -tracking-wide mb-3">
-          What&rsquo;s your reflection?
-        </h1>
-        <p className="text-base text-ink-soft mb-3">{all.length} quizzes that reveal what scripture says about you.</p>
-        <div className="text-xs uppercase tracking-widest text-ink-mute">{all.length} QUIZZES · ALWAYS FREE · NO SIGN-UP</div>
+      <header className="px-8 py-14 text-center">
+        <div className="mx-auto inline-block max-w-2xl rounded-3xl bg-cream-1/75 px-8 py-7 shadow-[0_8px_30px_rgba(80,50,20,0.12)] backdrop-blur-sm">
+          <h1 className="mb-3 text-4xl font-extrabold -tracking-wide text-brown-dark md:text-5xl">
+            What&rsquo;s your reflection?
+          </h1>
+          <p className="mb-3 text-base text-ink-soft">{all.length} quizzes that reveal what scripture says about you.</p>
+          <div className="text-xs uppercase tracking-widest text-ink-mute">{all.length} QUIZZES · ALWAYS FREE · NO SIGN-UP</div>
+        </div>
       </header>
 
       {featured.length > 0 && (

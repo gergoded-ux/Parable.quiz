@@ -2,7 +2,6 @@
 import Link from 'next/link';
 import type { Test } from '@/lib/schema';
 import { Card, CardHeader, CardContent, CardTitle, CardDescription } from '@/components/ui/card-2';
-import { FitText } from '@/components/FitText';
 import { track } from '@vercel/analytics';
 import { hasQuizCover, quizCoverUrl } from '@/lib/card-art';
 import { categoryIcon } from '@/lib/category-icon';
@@ -48,7 +47,7 @@ export function QuizCard({ test }: { test: Test }) {
             <div className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-cream-2 text-base">{emoji}</div>
           )}
           <div className="min-w-0 flex-1">
-            <CardTitle><FitText text={test.title} max={15} min={5} /></CardTitle>
+            <CardTitle className="line-clamp-2 min-h-[2.5em] text-[13px] font-bold leading-snug">{test.title}</CardTitle>
             <CardDescription className="mt-0.5 text-[11px]">{categoryLabel(test)}</CardDescription>
           </div>
         </CardHeader>

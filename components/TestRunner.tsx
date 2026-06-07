@@ -56,13 +56,20 @@ export function TestRunner({ test }: { test: Test }) {
   const isLast = step === totalQuestions - 1;
 
   function finish(allAnswers: number[]) {
+    // Guarantee one valid answer per question before scoring. An interrupted flow
+    // (or a browser extension swallowing a tap) could otherwise leave a gap, which
+    // crashed the scorer. Any missing/invalid answer defaults to the first option.
+    const safe = test.questions.map((q, i) => {
+      const a = allAnswers[i];
+      return Number.isInteger(a) && a >= 0 && a < q.options.length ? a : 0;
+    });
     let resultKey: string; let m = 0;
     if (test.mode === 'archetype') {
-      const d = scoreArchetypeDetailed(test, allAnswers); resultKey = d.winner; m = d.matchPct;
+      const d = scoreArchetypeDetailed(test, safe); resultKey = d.winner; m = d.matchPct;
     } else if (test.mode === 'profile') {
-      const d = scoreProfileDetailed(test, allAnswers); resultKey = d.top; m = d.matchPct;
+      const d = scoreProfileDetailed(test, safe); resultKey = d.top; m = d.matchPct;
     } else {
-      const r = scoreKnowledge(test, allAnswers); resultKey = String(r.percent); m = r.percent;
+      const r = scoreKnowledge(test, safe); resultKey = String(r.percent); m = r.percent;
     }
     track('quiz_complete', { slug: test.slug, mode: test.mode, result: resultKey });
     completedRef.current = true;
@@ -83,7 +90,7 @@ export function TestRunner({ test }: { test: Test }) {
       if (isLast) { finish(next); return; }
       setDirection(1);
       setStep(s => s + 1);
-    }, 260);
+    }, 400);
   }
 
   function goBack() {
@@ -175,7 +182,7 @@ export function TestRunner({ test }: { test: Test }) {
             </AnimatePresence>
           </div>
           <div className="mt-6 flex items-center justify-between">
-            <button onClick={goBack} disabled={step === 0} className="text-sm text-ink-mute disabled:opacity-30">
+            <button onClick={goBack} disabled={step === 0} className="rounded-full border border-rose-dark/60 px-4 py-2 text-sm font-medium text-brown transition-colors hover:bg-cream-1 disabled:opacity-30">
               ← Back
             </button>
             <span className="text-xs text-ink-mute">{encouragement}</span>
