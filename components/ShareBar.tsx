@@ -36,6 +36,9 @@ export function ShareBar({ url, text, image, cardEl, showCardShare }: { url: str
   const encUrl = encodeURIComponent(url);
   const encText = encodeURIComponent(text);
   const encImage = image ? encodeURIComponent(image) : '';
+  // Pinterest keeps the card image (media=) regardless of where the pin links, so
+  // point the pin at the quiz itself (drives takes), not the shared result page.
+  const encPinUrl = encodeURIComponent(url.split('/r/')[0]);
 
   function copy() {
     navigator.clipboard.writeText(url);
@@ -79,7 +82,7 @@ export function ShareBar({ url, text, image, cardEl, showCardShare }: { url: str
         </button>
       )}
       <a
-        href={`https://pinterest.com/pin/create/button/?url=${encUrl}&media=${encImage}&description=${encText}`}
+        href={`https://pinterest.com/pin/create/button/?url=${encPinUrl}&media=${encImage}&description=${encText}`}
         target="_blank" rel="noopener noreferrer"
         onClick={() => logShare('pinterest')}
         className={SECONDARY} aria-label="Save to Pinterest" title="Save to Pinterest"

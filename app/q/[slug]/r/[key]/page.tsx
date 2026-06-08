@@ -1,6 +1,7 @@
 // app/q/[slug]/r/[key]/page.tsx
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
+import Link from 'next/link';
 import { loadPublishedTests, loadTestBySlug, isPublished } from '@/lib/test-loader';
 import { HomeNav } from '@/components/HomeNav';
 import { ResultCard } from '@/components/ResultCard';
@@ -123,6 +124,12 @@ export default async function ResultPage({ params, searchParams }: { params: Pro
           <div className="w-full max-w-xl lg:pt-1">
             <ResultCard {...cardProps} />
           </div>
+        </div>
+        <div className="mx-auto mt-4 mb-10 max-w-md text-center">
+          <p className="mb-3 text-sm text-ink-soft">Curious what you&rsquo;d get?</p>
+          <Link href={`/q/${test.slug}`} className="inline-block rounded-full bg-brown px-8 py-3 text-base font-semibold text-white shadow-card transition-transform hover:-translate-y-0.5">
+            Take this quiz yourself
+          </Link>
         </div>
         <AdSlot slot="post-share" />
         <RelatedQuizzes slug={test.slug} />
