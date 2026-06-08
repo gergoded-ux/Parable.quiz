@@ -46,7 +46,8 @@ export async function generateMetadata({ params, searchParams }: { params: Promi
   }
   if (description.length > 158) description = description.slice(0, 155).trimEnd() + '…';
   const mq = m ? `?m=${encodeURIComponent(m)}` : '';
-  const ogImage = `/og/${slug}/${key}${mq}`;
+  // v= forces social platforms + CDN to refetch after the frame-centering fix.
+  const ogImage = `/og/${slug}/${key}${mq}${mq ? '&' : '?'}v=2`;
   return {
     title, description,
     alternates: { canonical: `/q/${slug}/r/${key}` },
@@ -68,7 +69,7 @@ export default async function ResultPage({ params, searchParams }: { params: Pro
 
   const mq = matchPct !== null ? `?m=${matchPct}` : '';
   const shareUrl = `https://eikonia.art/q/${test.slug}/r/${key}${mq}`;
-  const ogImageAbs = `https://eikonia.art/og/${test.slug}/${key}${mq}`;
+  const ogImageAbs = `https://eikonia.art/og/${test.slug}/${key}${mq}${mq ? '&' : '?'}v=2`;
   const resultName = test.mode === 'knowledge' ? `${key}%` : (test.results[key]?.name ?? key);
   const breadcrumb = {
     '@context': 'https://schema.org',

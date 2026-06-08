@@ -78,10 +78,18 @@ export async function GET(req: Request, { params }: { params: Promise<{ slug: st
   const artSrc = d.hasArt ? (a.startsWith('http') ? a : await artDataUri(a.replace(/^\/results\//, ''))) : null;
   const starColor = (on: boolean) => (on ? CARD.star[d.rarity.material].to : 'rgba(107,68,35,0.25)');
 
+  // Frames are square (1024px). Satori's backgroundSize:'cover' does not center the
+  // crop reliably (the frame drifts), so place the frame as an explicit, manually
+  // center-cropped <img> — matching how the browser renders the live card.
+  const FS = 1024;
+  const cov = Math.max(W / FS, H / FS);
+  const fw = Math.round(FS * cov), fh = Math.round(FS * cov);
+  const fx = Math.round((W - fw) / 2), fy = Math.round((H - fh) / 2);
+
   return new ImageResponse(
     (
-      <div style={{ width: '100%', height: '100%', display: 'flex',
-        backgroundImage: `url(${frameDataUri(d.rarity.frame)})`, backgroundSize: 'cover', backgroundPosition: 'center', backgroundRepeat: 'no-repeat' }}>
+      <div style={{ width: '100%', height: '100%', display: 'flex', position: 'relative' }}>
+        <img src={frameDataUri(d.rarity.frame)} width={fw} height={fh} style={{ position: 'absolute', left: fx, top: fy }} />
         <div style={{ position: 'absolute', left: PANEL.left, right: PANEL.right, top: PANEL.top, bottom: PANEL.bottom,
           background: CARD.panel.bg, border: `3px solid ${CARD.panel.border}`, borderRadius: 34,
           display: 'flex', flexDirection: 'column', alignItems: 'center', padding: '34px 40px 30px 70px' }}>
