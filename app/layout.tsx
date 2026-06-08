@@ -5,6 +5,7 @@ import { Analytics } from '@vercel/analytics/next';
 import { SpeedInsights } from '@vercel/speed-insights/next';
 import './globals.css';
 import { SiteFooter } from '@/components/SiteFooter';
+import { FeedbackWidget } from '@/components/FeedbackWidget';
 
 const inter = Inter({
   subsets: ['latin'],
@@ -35,6 +36,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(siteLd) }} />
         {children}
         <SiteFooter />
+        <FeedbackWidget />
         <Analytics />
         <SpeedInsights />
       </body>
