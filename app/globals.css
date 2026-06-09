@@ -55,3 +55,14 @@
 }
 .fb-nudge { animation: fb-nudge 1.3s ease-in-out 3; }
 @media (prefers-reduced-motion: reduce) { .fb-nudge { animation: none; } }
+
+/* Rendered Markdown for blog articles. */
+.prose-eikonia { color: var(--color-ink-soft); line-height: 1.75; font-size: 1.05rem; }
+.prose-eikonia p { margin: 0 0 1rem; }
+.prose-eikonia h2 { margin: 1.9rem 0 .6rem; font-size: 1.5rem; font-weight: 800; color: var(--color-brown-dark); }
+.prose-eikonia h3 { margin: 1.5rem 0 .5rem; font-size: 1.2rem; font-weight: 800; color: var(--color-brown-dark); }
+.prose-eikonia ul, .prose-eikonia ol { margin: 0 0 1rem 1.3rem; }
+.prose-eikonia li { margin: .35rem 0; }
+.prose-eikonia blockquote { margin: 1.25rem 0; padding: .4rem 0 .4rem 1rem; border-left: 3px solid var(--color-rose-dark); font-style: italic; color: var(--color-brown); }
+.prose-eikonia a { color: var(--color-brown); text-decoration: underline; }
+.prose-eikonia strong { color: var(--color-ink); font-weight: 700; }

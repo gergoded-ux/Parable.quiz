@@ -9,6 +9,7 @@ const LINKS = [
   { href: '/collections/identity', label: 'Who Am I' },
   { href: '/collections/relationships', label: 'Relationships' },
   { href: '/collections/bibleiq', label: 'Bible IQ' },
+  { href: '/blog', label: 'Articles' },
   { href: '/faq', label: 'FAQ' },
   { href: '/about', label: 'About' },
 ];
