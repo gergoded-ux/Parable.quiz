@@ -47,3 +47,11 @@
   .card-hover { transition: transform .15s, box-shadow .15s; }
   .card-hover:hover { transform: translateY(-2px); }
 }
+
+/* One-time, gentle attention pulse for the feedback button (result-page nudge). */
+@keyframes fb-nudge {
+  0%, 100% { box-shadow: 0 4px 6px rgba(80, 50, 20, 0.12), 0 0 0 0 rgba(184, 147, 47, 0); }
+  50% { box-shadow: 0 4px 6px rgba(80, 50, 20, 0.12), 0 0 0 12px rgba(184, 147, 47, 0.22); }
+}
+.fb-nudge { animation: fb-nudge 1.3s ease-in-out 3; }
+@media (prefers-reduced-motion: reduce) { .fb-nudge { animation: none; } }

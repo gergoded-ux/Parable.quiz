@@ -1,6 +1,7 @@
 // components/FeedbackWidget.tsx
 'use client';
 import { useEffect, useState } from 'react';
+import { usePathname } from 'next/navigation';
 import { track } from '@vercel/analytics';
 
 const TYPES = [
@@ -18,6 +19,8 @@ export function FeedbackWidget() {
   const [email, setEmail] = useState('');
   const [hp, setHp] = useState('');
   const [status, setStatus] = useState<Status>('idle');
+  const [pulse, setPulse] = useState(false);
+  const pathname = usePathname();
 
   useEffect(() => {
     if (!open) return;
@@ -26,6 +29,27 @@ export function FeedbackWidget() {
     document.body.style.overflow = 'hidden';
     return () => { window.removeEventListener('keydown', onKey); document.body.style.overflow = ''; };
   }, [open, status]);
+
+  // One-time gentle nudge on result pages: ~5s after load, pulse the feedback
+  // button so people notice they can leave a note. Never repeats (localStorage
+  // 'seen'); skipped if they've already opened it or prefer reduced motion.
+  useEffect(() => {
+    if (!/^\/q\/[^/]+\/r\/[^/]+$/.test(pathname || '')) return;
+    try { if (localStorage.getItem('eikonia:fb:seen')) return; } catch {}
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+    const t = setTimeout(() => {
+      setPulse(true);
+      try { localStorage.setItem('eikonia:fb:seen', '1'); } catch {}
+    }, 5000);
+    return () => clearTimeout(t);
+  }, [pathname]);
+
+  // Opening (or ever having opened) the widget cancels the nudge for good.
+  function openWidget() {
+    setPulse(false);
+    try { localStorage.setItem('eikonia:fb:seen', '1'); } catch {}
+    setOpen(true);
+  }
 
   async function submit(e: React.FormEvent) {
     e.preventDefault();
@@ -52,9 +76,10 @@ export function FeedbackWidget() {
   return (
     <>
       <button
-        onClick={() => setOpen(true)}
+        onClick={openWidget}
+        onAnimationEnd={() => setPulse(false)}
         aria-label="Send feedback"
-        className="fixed bottom-4 right-4 z-40 flex items-center gap-2 rounded-full border border-brown/25 bg-white/95 px-4 py-2.5 text-sm font-semibold text-brown shadow-md backdrop-blur transition-transform hover:-translate-y-0.5"
+        className={`fixed bottom-4 right-4 z-40 flex items-center gap-2 rounded-full border border-brown/25 bg-white/95 px-4 py-2.5 text-sm font-semibold text-brown shadow-md backdrop-blur transition-transform hover:-translate-y-0.5${pulse ? ' fb-nudge' : ''}`}
       >
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
           <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z" />
