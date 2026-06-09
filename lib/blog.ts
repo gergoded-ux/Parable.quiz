@@ -1,7 +1,8 @@
 // lib/blog.ts
-// Markdown-based blog. Each article is content/blog/<slug>.md with frontmatter
-// (title, description, date, quiz, collection, published) + a Markdown body.
-import { readdirSync, readFileSync } from 'node:fs';
+// Markdown-based blog. Each article lives in its own folder:
+//   content/blog/<slug>/index.md       the article (frontmatter + Markdown body)
+//   content/blog/<slug>/transcripts/   raw source material (gitignored, not built)
+import { existsSync, readdirSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { marked } from 'marked';
 
@@ -18,8 +19,10 @@ export type Post = {
   html: string;
 };
 
-function parse(file: string): Post | null {
-  const raw = readFileSync(join(DIR, file), 'utf-8');
+function parse(slug: string): Post | null {
+  const file = join(DIR, slug, 'index.md');
+  if (!existsSync(file)) return null;
+  const raw = readFileSync(file, 'utf-8');
   const m = raw.match(/^---\s*\n([\s\S]*?)\n---\s*\n([\s\S]*)$/);
   if (!m) return null;
   const fm: Record<string, string> = {};
@@ -32,8 +35,8 @@ function parse(file: string): Post | null {
     fm[k] = v;
   }
   return {
-    slug: file.replace(/\.md$/, ''),
-    title: fm.title ?? file,
+    slug,
+    title: fm.title ?? slug,
     description: fm.description ?? '',
     date: fm.date ?? '',
     quiz: fm.quiz ?? '',
@@ -47,13 +50,15 @@ let cache: Post[] | null = null;
 
 export function loadAllPosts(): Post[] {
   if (cache) return cache;
-  let files: string[] = [];
+  let slugs: string[] = [];
   try {
-    files = readdirSync(DIR).filter((f) => f.endsWith('.md'));
+    slugs = readdirSync(DIR, { withFileTypes: true })
+      .filter((d) => d.isDirectory())
+      .map((d) => d.name);
   } catch {
-    files = [];
+    slugs = [];
   }
-  cache = files.map(parse).filter((p): p is Post => !!p);
+  cache = slugs.map(parse).filter((p): p is Post => !!p);
   return cache;
 }
 

@@ -6,9 +6,10 @@ get shared. A genuine help loop._
 
 ## Recommended architecture (lean, fits the stack)
 
-- **Markdown files**, one per article: `content/blog/<slug>.md` with YAML-ish frontmatter
-  (`title`, `description`, `date`, `quiz` = the slug to embed, `collection`, `published`,
-  optional `hero`). Body is plain Markdown.
+- **One folder per article**: `content/blog/<slug>/index.md` (the article) with YAML-ish
+  frontmatter (`title`, `description`, `date`, `quiz` = the slug to embed, `collection`,
+  `published`, optional `hero`). Body is plain Markdown. Raw source material goes in a
+  sibling `content/blog/<slug>/transcripts/` folder (gitignored; a committed README explains it).
   - Why Markdown (not a CMS, not MDX): you'll feed me transcripts -> I turn them into
     Markdown easily; it's diff-able, free, zero infra, and you can edit it. MDX (embedding
     React per-article) is overkill — one quiz embed per article is template-driven.
