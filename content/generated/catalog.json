@@ -91,11 +91,11 @@
   },
   {
     "slug": "which-bible-figure-wounded-by-religious-leaders",
-    "title": "Which Bible Figure Was Wounded by Religious Leaders Like You?",
+    "title": "Which Bible Figure Wounded by Religious Leaders Are You?",
     "category": "bible-character",
     "theme": "church-hurt",
     "mode": "archetype",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 89
   },
@@ -155,7 +155,7 @@
     "category": "bible-character",
     "theme": "doubt-faith",
     "mode": "archetype",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 92
   },
@@ -165,7 +165,7 @@
     "category": "bible-character",
     "theme": "doubt-faith",
     "mode": "archetype",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 89
   },
@@ -205,7 +205,7 @@
     "category": "bible-character",
     "theme": "grief-loss",
     "mode": "archetype",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 90
   },
@@ -245,7 +245,7 @@
     "category": "bible-character",
     "theme": "healing-wounds",
     "mode": "archetype",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 94
   },
@@ -605,7 +605,7 @@
     "category": "bible-character",
     "theme": "scripture-archetype",
     "mode": "archetype",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 79
   },
@@ -615,7 +615,7 @@
     "category": "bible-character",
     "theme": "scripture-archetype",
     "mode": "archetype",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 79
   },
@@ -625,7 +625,7 @@
     "category": "bible-character",
     "theme": "scripture-archetype",
     "mode": "archetype",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 78
   },
@@ -635,7 +635,7 @@
     "category": "bible-character",
     "theme": "scripture-archetype",
     "mode": "archetype",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 78
   },
@@ -655,7 +655,7 @@
     "category": "bible-character",
     "theme": "scripture-archetype",
     "mode": "archetype",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 77
   },
@@ -845,7 +845,7 @@
     "category": "bible-iq",
     "theme": "bible-knowledge",
     "mode": "knowledge",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 85
   },
@@ -885,7 +885,7 @@
     "category": "bible-iq",
     "theme": "bible-knowledge",
     "mode": "knowledge",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 83
   },
@@ -905,7 +905,7 @@
     "category": "bible-iq",
     "theme": "bible-knowledge",
     "mode": "knowledge",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 82
   },
@@ -925,7 +925,7 @@
     "category": "bible-iq",
     "theme": "bible-knowledge",
     "mode": "knowledge",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 81
   },
@@ -935,7 +935,7 @@
     "category": "bible-iq",
     "theme": "bible-knowledge",
     "mode": "knowledge",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 81
   },
@@ -945,7 +945,7 @@
     "category": "bible-iq",
     "theme": "bible-knowledge",
     "mode": "knowledge",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 80
   },
@@ -955,7 +955,7 @@
     "category": "bible-iq",
     "theme": "bible-knowledge",
     "mode": "knowledge",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 80
   },
@@ -975,7 +975,7 @@
     "category": "bible-iq",
     "theme": "bible-knowledge",
     "mode": "knowledge",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": null
   },
@@ -985,7 +985,7 @@
     "category": "bible-iq",
     "theme": "bible-knowledge",
     "mode": "knowledge",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": null
   },
@@ -1005,7 +1005,7 @@
     "category": "spiritual-profile",
     "theme": "anxiety",
     "mode": "profile",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 92
   },
@@ -1025,7 +1025,7 @@
     "category": "spiritual-profile",
     "theme": "anxiety",
     "mode": "profile",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 90
   },
@@ -1035,7 +1035,7 @@
     "category": "spiritual-profile",
     "theme": "anxiety",
     "mode": "profile",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 89
   },
@@ -1045,7 +1045,7 @@
     "category": "spiritual-profile",
     "theme": "anxiety",
     "mode": "profile",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 89
   },
@@ -1055,7 +1055,7 @@
     "category": "spiritual-profile",
     "theme": "anxiety",
     "mode": "profile",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 89
   },
@@ -1065,7 +1065,7 @@
     "category": "spiritual-profile",
     "theme": "anxiety",
     "mode": "profile",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 88
   },
@@ -1335,7 +1335,7 @@
     "category": "spiritual-profile",
     "theme": "church-hurt",
     "mode": "profile",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 95
   },
@@ -1345,7 +1345,7 @@
     "category": "spiritual-profile",
     "theme": "church-hurt",
     "mode": "profile",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 92
   },
@@ -1355,7 +1355,7 @@
     "category": "spiritual-profile",
     "theme": "church-hurt",
     "mode": "profile",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 90
   },
@@ -1365,7 +1365,7 @@
     "category": "spiritual-profile",
     "theme": "church-hurt",
     "mode": "profile",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 89
   },
@@ -1375,7 +1375,7 @@
     "category": "spiritual-profile",
     "theme": "church-hurt",
     "mode": "profile",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 88
   },
@@ -1465,7 +1465,7 @@
     "category": "spiritual-profile",
     "theme": "comparison-shame",
     "mode": "profile",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 89
   },
@@ -1475,7 +1475,7 @@
     "category": "spiritual-profile",
     "theme": "comparison-shame",
     "mode": "profile",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 89
   },
@@ -1615,7 +1615,7 @@
     "category": "spiritual-profile",
     "theme": "doubt-faith",
     "mode": "profile",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 91
   },
@@ -1625,7 +1625,7 @@
     "category": "spiritual-profile",
     "theme": "doubt-faith",
     "mode": "profile",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 90
   },
@@ -1635,7 +1635,7 @@
     "category": "spiritual-profile",
     "theme": "doubt-faith",
     "mode": "profile",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 90
   },
@@ -1655,7 +1655,7 @@
     "category": "spiritual-profile",
     "theme": "doubt-faith",
     "mode": "profile",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 90
   },
@@ -1665,7 +1665,7 @@
     "category": "spiritual-profile",
     "theme": "doubt-faith",
     "mode": "profile",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 89
   },
@@ -1675,7 +1675,7 @@
     "category": "spiritual-profile",
     "theme": "doubt-faith",
     "mode": "profile",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 88
   },
@@ -1875,7 +1875,7 @@
     "category": "spiritual-profile",
     "theme": "forgiveness",
     "mode": "profile",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 89
   },
@@ -1985,7 +1985,7 @@
     "category": "spiritual-profile",
     "theme": "grief-loss",
     "mode": "profile",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 88
   },
@@ -2065,7 +2065,7 @@
     "category": "spiritual-profile",
     "theme": "healing-wounds",
     "mode": "profile",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 93
   },
@@ -2075,7 +2075,7 @@
     "category": "spiritual-profile",
     "theme": "healing-wounds",
     "mode": "profile",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 93
   },
@@ -2085,7 +2085,7 @@
     "category": "spiritual-profile",
     "theme": "healing-wounds",
     "mode": "profile",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 90
   },
@@ -2105,7 +2105,7 @@
     "category": "spiritual-profile",
     "theme": "healing-wounds",
     "mode": "profile",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 89
   },
@@ -2225,7 +2225,7 @@
     "category": "spiritual-profile",
     "theme": "identity",
     "mode": "profile",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 88
   },
@@ -2515,7 +2515,7 @@
     "category": "spiritual-profile",
     "theme": "rest-burnout",
     "mode": "profile",
-    "status": "live",
+    "status": "backlog",
     "hasCover": true,
     "virality": 90
   },
