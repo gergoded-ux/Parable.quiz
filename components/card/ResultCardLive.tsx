@@ -59,7 +59,7 @@ export function ResultCardLive({ data, cardRef, scale = 1, flat = false }: { dat
         {!flat && (
         <div style={{ position: 'absolute', inset: 0, backfaceVisibility: 'hidden', transform: 'rotateY(180deg)', borderRadius: 14,
           backgroundImage: `url(${frame})`, backgroundSize: 'cover', backgroundPosition: 'center', backgroundRepeat: 'no-repeat', display: 'flex', alignItems: 'center', justifyContent: 'center', boxShadow: '0 10px 26px rgba(80,50,20,.3)' }}>
-          <div style={{ fontFamily: CARD.fonts.display, fontWeight: 900, fontSize: 40, color: 'rgba(253,250,238,.85)' }}>✦</div>
+          <img src="/logo.webp" alt="" width={140} height={140} style={{ width: 140, height: 140, filter: 'drop-shadow(0 2px 7px rgba(74,47,21,.4))' }} />
         </div>
         )}
         </div>
