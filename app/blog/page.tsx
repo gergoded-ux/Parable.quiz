@@ -3,6 +3,7 @@ import Link from 'next/link';
 import type { Metadata } from 'next';
 import { loadPublishedPosts } from '@/lib/blog';
 import { HomeNav } from '@/components/HomeNav';
+import { quizCoverUrl } from '@/lib/card-art';
 
 export const metadata: Metadata = {
   title: 'Articles',
@@ -30,15 +31,23 @@ export default function BlogIndex() {
           <p className="text-center text-ink-mute">New articles are on the way.</p>
         ) : (
           <ul className="space-y-5">
-            {posts.map((p) => (
-              <li key={p.slug} className="rounded-2xl border border-rose/40 bg-white p-5 shadow-card transition-transform hover:-translate-y-0.5">
-                <Link href={`/blog/${p.slug}`} className="block no-underline">
-                  <h2 className="text-xl font-extrabold text-brown-dark">{p.title}</h2>
-                  <p className="mt-1 text-ink-soft">{p.description}</p>
-                  <div className="mt-2 text-sm font-semibold text-brown">Read &rarr;</div>
-                </Link>
-              </li>
-            ))}
+            {posts.map((p) => {
+              const cover = quizCoverUrl(p.quiz);
+              return (
+                <li key={p.slug} className="overflow-hidden rounded-2xl border border-rose/40 bg-white shadow-card transition-transform hover:-translate-y-0.5">
+                  <Link href={`/blog/${p.slug}`} className="flex gap-4 p-4 no-underline sm:gap-5">
+                    {cover && (
+                      <img src={cover} alt="" className="h-20 w-28 shrink-0 rounded-xl object-cover sm:h-24 sm:w-40" />
+                    )}
+                    <div className="min-w-0">
+                      <h2 className="text-lg font-extrabold leading-tight text-brown-dark sm:text-xl">{p.title}</h2>
+                      <p className="mt-1 line-clamp-2 text-sm text-ink-soft sm:text-base">{p.description}</p>
+                      <div className="mt-2 text-sm font-semibold text-brown">Read &rarr;</div>
+                    </div>
+                  </Link>
+                </li>
+              );
+            })}
           </ul>
         )}
       </main>
