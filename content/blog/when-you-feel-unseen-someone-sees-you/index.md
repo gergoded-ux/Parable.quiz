@@ -1,6 +1,6 @@
 ---
 title: When You Feel Unseen, Someone Still Sees You
-description: Feeling invisible and overlooked? Hagar met El Roi, the God who sees, in her loneliest moment. He is looking at you in yours too.
+description: Feeling invisible and overlooked? Hagar met El Roi, the God who sees, in her loneliest moment. He is looking at you in yours too, and he always has been.
 date: 2026-06-10
 quiz: found-by-god-story
 collection: identity
@@ -9,7 +9,7 @@ published: false
 
 You wake up after a terrible night and the world just... keeps going. Traffic moves, emails arrive, the group chat bubbles with something trivial, and nobody asks. Nobody knows. You held everything together in the dark, and the morning came with zero acknowledgment of that fact. I have written about this feeling in a journal at 2am with a baby in my arms and a to-do list that had no end. Why didn't anyone notice? Why didn't the world at least pause?
 
-That question is more honest than it sounds. It points to something real: the ache of pouring yourself out for everyone around you while feeling completely invisible to them.
+That question is more honest than it sounds. It points to something real: the ache of pouring yourself out for everyone around you while feeling completely invisible to them. When you feel unseen by the people closest to you, the loneliness has a particular weight that is hard to name to anyone.
 
 ## When you feel unseen by the people closest to you
 
@@ -41,7 +41,7 @@ That is the shape of El Roi.
 
 Here is the harder part, and I want to handle it carefully because it can go wrong fast.
 
-There are seasons when the silence and distance from others is not a sign you are forgotten. It is a sign you are being set apart. Not every loneliness is abandonment. Some of it is preparation, the kind that only happens when distractions clear and you have no one else to lean on but God.
+There are seasons when the silence and distance from others is not a sign you are forgotten. It is a sign you are being set apart. Not every loneliness is abandonment. Some of it is preparation, the kind that only happens when distractions clear and you have no one else to lean on but God. The article on [what God may be preparing you for](/blog/what-is-god-preparing-you-for) traces that formation theme in more detail.
 
 Think of David writing psalms from inside actual caves, afraid, exiled, waiting years for a promise he could not see moving. His journals from that period are still in the Bible. They are not polished. They say things like, "I am weary with my groaning; every night make I my bed to swim; I water my couch with my tears" (Psalm 6:6, ASV). And then, two verses later, something shifted and he could write, "Jehovah hath heard the voice of my weeping" (Psalm 6:8, ASV). The crying came first. The turning came after.
 
@@ -53,17 +53,17 @@ The short quiz below can help you find the story that meets you in this season.
 
 There is a particular category of invisible labor that this matters to most: the work done in the dark, for people who cannot fully thank you, in moments nobody witnesses.
 
-The feeding in the middle of the night. The conversation you had that held someone together, and they moved on without knowing. The prayer you prayed alone that held the line on something. The version of you that showed up for someone else when you had nothing left.
+The feeding in the middle of the night. The conversation you had that held someone together, and they moved on without knowing. The prayer you prayed alone that held the line on something. The version of you that showed up for someone else when you had nothing left. If that invisible labor has a particular exhaustion tied to it, the piece on [grace for the burned-out mom](/blog/grace-for-the-burned-out-mom) speaks directly to that season.
 
 "He will feed his flock like a shepherd, he will gather the lambs in his arm, and carry them in his bosom" (Isaiah 40:11, ASV). That image is not for the strong and visible. It is for the ones being led gently because they are carrying something heavy.
 
-God sees the work you did last night that no one will put on a headline. He sees the grief you haven't named to anyone. He sees the effort that goes unacknowledged and the longing underneath the fine you tell everyone you are. (I say "he sees" and mean it flatly, not as a motivational phrase. El Roi is the God who sees. That is his name, and Hagar gave it to him for a reason.)
+God sees the work you did last night that no one will put on a headline. The grief you have not named to anyone is known to him. He sees the effort that goes unacknowledged and the longing underneath the fine you tell everyone you are. (I say "he sees" and mean it flatly, not as a motivational phrase. El Roi is the God who sees. That is his name, and Hagar gave it to him for a reason.)
 
 ## Does God see me when I feel forgotten?
 
 Yes. And the evidence is not primarily a feeling. It is Hagar, in the wilderness, with no credentials and no community, receiving a visit from the God of the universe and walking away with a name for him.
 
-He does not wait for you to be impressive or public or put-together before he comes looking. He came to a spring in the desert for a frightened woman nobody was looking for. He comes to wherever you are right now, in the ordinary unwitnessed moment of your actual life.
+He does not wait for you to be impressive or public or put-together before he comes looking. He came to a spring in the desert for a frightened woman nobody was looking for. When you feel unseen, that is precisely where he is already present, in the ordinary unwitnessed moment of your actual life.
 
 "casting all your anxiety upon him, because he careth for you" (1 Peter 5:7, ASV).
 

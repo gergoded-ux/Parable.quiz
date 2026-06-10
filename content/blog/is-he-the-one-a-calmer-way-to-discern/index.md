@@ -1,6 +1,6 @@
 ---
 title: Is He the One? A Calmer Way to Discern
-description: Feeling anxious about whether he's right for you? Here's a grounded, prayerful approach to christian dating discernment without the spiral.
+description: Feeling anxious about whether he is right for you? Here is a grounded, prayerful approach to christian dating discernment that trades the spiral for peace.
 date: 2026-06-10
 quiz: is-he-the-one-christian-discernment
 collection: relationships
@@ -29,7 +29,7 @@ What you actually need to watch is what he does when nothing is at stake.
 
 How does he talk about the waitress who got his order wrong? How does he speak about his mother, his ex, his old friends? Is he kind to people who cannot do anything for him? Does he apologize when he is wrong, or does he get defensive and find a way to make you feel responsible for his reaction?
 
-One older believer I heard describe this put it plainly: if a man does not know how to own something, if genuine humility is not in him, be careful. Everyone has good moments. The question is what his consistency looks like when nobody is watching.
+One older believer I heard describe this put it plainly: if a man does not know how to own something, if genuine humility is not in him, be careful. Everyone has good moments. The question is what his consistency looks like when nobody is watching. If you want a clearer picture of what [real love actually looks like in practice](/blog/loving-the-way-jesus-loved), it helps to have a standard beyond feelings to measure against.
 
 That is not a cynical way to evaluate someone. It is wisdom. "Trust in Jehovah with all thy heart, and lean not upon thine own understanding" (Proverbs 3:5, ASV) is not a command to stop thinking clearly. It is an invitation to let God inform what you observe, not override it.
 
@@ -51,7 +51,7 @@ One young man described how he prayed for a girlfriend every day for three years
 
 I think about that when I hear women describe the version of discernment that is really just anxiety in a spiritual costume. The constant asking God for a sign. The reading into everything. The inability to be present in the relationship because you are always evaluating it. Sometimes that level of fixation is not discernment. It is fear dressed up as prayer.
 
-That fear deserves attention, not judgment. Loneliness is real. Wanting a companion is not a flaw. But a relationship chosen primarily from fear of being alone tends to produce exactly the loneliness it was trying to prevent. I have watched this in friends' lives. I have felt the pull of it myself.
+That fear deserves attention, not judgment. Loneliness is real. Wanting a companion is not a flaw. But a relationship chosen primarily from fear of being alone tends to produce exactly the loneliness it was trying to prevent. The same quiet work that helps with [discerning God's voice in prayer](/blog/hearing-god-in-a-noisy-world) can steady this kind of anxious seeking too. I have watched this in friends' lives. I have felt the pull of it myself.
 
 If you are honest with yourself and you find that fear is doing a lot of the driving, that is worth bringing to God directly. The prayer shifts from "God, is he the one?" to "God, what am I actually afraid of, and what do you want to do with that?"
 

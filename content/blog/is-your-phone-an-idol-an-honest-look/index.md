@@ -1,13 +1,13 @@
 ---
-title: Is My Phone an Idol? An Honest Look
-description: A gentle gut-check on whether your phone has become an idol, and what the Bible says about attention, worship, and the christian social media fast.
+title: Is My Phone an Idol? An Honest Gut Check
+description: A gentle gut check on whether your phone has become an idol, plus what the Bible says about attention, worship, and a Christian social media fast.
 date: 2026-06-10
 quiz: is-your-phone-an-idol
 collection: walking
 published: false
 ---
 
-The first thing I reached for this morning was not God. It was my phone. Before my feet hit the floor, I was already in the algorithm. One woman who fasted social media for 21 days put it simply: she wanted to be so close to God that her phone was the very last thing on her mind, not the first. I read that and felt convicted, because the opposite was true of me.
+The first thing I reached for this morning was not God. It was my phone. Before my feet hit the floor, I was already in the algorithm. One woman who fasted social media for 21 days put it simply: she wanted to be so close to God that her phone was the very last thing on her mind, not the first. I read that and felt convicted, because the opposite was true of me. That is when I started asking myself whether is my phone an idol is actually a question worth sitting with honestly, not just scrolling past.
 
 That is worth sitting with.
 
@@ -21,7 +21,7 @@ Your heart follows your attention. And attention is a form of worship. Where you
 
 A preacher I heard framed it this way: when you are discouraged, what do you reach for? He admitted that during a break from social media, he found himself jumping back on for five minutes just to read comments about himself. The Lord surfaced it immediately: you did not even realize how much you were feeding a neediness there every single day. That is the test. Not what you use, but what you need.
 
-## What a christian social media fast actually shows you
+## What a Christian social media fast actually shows you
 
 A man who replaced every minute of social media with scripture for 100 hours noticed something by day two. Every time he felt bored or stressed, the first place he ran was his phone. He did not plan to. It just happened. He said it like a confession: "I just did it again."
 
@@ -37,7 +37,7 @@ You do not need a diagnostic test for this. You already know some of the answers
 
 When you feel bored or unsettled, what do you reach for first? When you sit down to pray and your mind wanders, where does it wander? When something frustrates you during the day, do you immediately want to post about it, scroll past it, or just be with God about it?
 
-Social media does specific things to us that are worth naming. It creates comparison almost automatically: you see a curated highlight reel and your own ordinary life starts to feel lesser by contrast. It stokes outrage at people you have never met and will never talk to, which produces a heat in the chest that feels productive but usually is not. And it offers a version of connection that is real enough to satisfy temporarily but too thin to go all the way down. One speaker described it like this: you can watch someone's stories for months and convince yourself you know them. But when you get off the platform, you realize the relationship only existed there.
+Social media does specific things to us that are worth naming. It creates comparison almost automatically: you see a curated highlight reel and your own ordinary life starts to feel lesser by contrast. If you want to look at that more closely, [what comparison is quietly stealing from you](/blog/what-comparison-is-quietly-stealing) is worth reading alongside this. It stokes outrage at people you have never met and will never talk to, which produces a heat in the chest that feels productive but usually is not. And it offers a version of connection that is real enough to satisfy temporarily but too thin to go all the way down. One speaker described it like this: you can watch someone's stories for months and convince yourself you know them. But when you get off the platform, you realize the relationship only existed there.
 
 None of that makes the phone evil. It makes it a thing that requires care.
 
@@ -47,7 +47,7 @@ The short quiz below is a two-minute honest gut-check on where your attention ac
 
 This is not a call to delete everything and move to a farm. I have done the panicked deletion and the sheepish reinstall more than once, and guilt-driven digital asceticism tends not to stick.
 
-What actually seems to work, from the stories in those transcripts, is smaller and more honest: a phone-free first 20 minutes in the morning, where you let God get your first attention of the day. One screen-free evening a week where you have to talk to the people actually in the room with you. Or, if you want to try something more stretching, a week-long fast from the one app that has the strongest pull on you. Not to be holy. Just to find out what you are actually like without it.
+What actually seems to work, from the stories in those transcripts, is smaller and more honest: a phone-free first 20 minutes in the morning, where you let God get your first attention of the day. One screen-free evening a week where you have to talk to the people actually in the room with you. That kind of quiet is not laziness; [rest is not a reward you earn after productivity](/blog/rest-isnt-a-reward), and the same is true of silence. Or, if you want to try something more stretching, a week-long fast from the one app that has the strongest pull on you. Not to be holy. Just to find out what you are actually like without it.
 
 One person who tried the 100-hour scripture replacement experiment said that after a few days, he noticed he was not feeling as tempted as normal. He thinks it was because he had stopped feeding his mind the same steady stream of content. Something quieter had room to grow. He described finishing that last night reading Hebrews and feeling more joy and peace than he expected. He did not finish the New Testament. But that was not really the point.
 
@@ -59,6 +59,6 @@ What we feed the heart matters. Not because God is watching your screen time wit
 
 Yes, though it takes more intention than most of us bring to it. One useful question, borrowed from a conversation I heard between two Christians who had both taken long breaks from their platforms: have you even asked God what he thinks about how you use it? Not as a performance question. As an actual prayer. The content you ingest, the accounts you follow, the way you respond in comments when you feel heat in your chest, the state of your soul before you open the app. These are not outside God's concern. They are part of the everyday life he is shaping.
 
-The goal is ordered loves, not no loves. A phone in its right place is a fine thing. The trick is figuring out whether yours is in its right place, and being honest enough with yourself to do something about it when it is not.
+The goal is ordered loves, not no loves. A phone in its right place is a fine thing. The question is my phone an idol comes down to exactly this: figuring out whether yours is in its right place, and being honest enough with yourself to do something about it when it is not.
 
 God is not competing with your phone for your attention. He is simply patient, and near, and waiting for you to look up.

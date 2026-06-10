@@ -9,7 +9,7 @@ published: false
 
 You know the feeling. You finally get a Saturday with nothing scheduled, and instead of feeling restored, you spend three hours scrolling your phone, then feel worse at the end of it than you did at the start. You were not working. But you were not resting either. There is a difference, and most of us have stopped noticing it.
 
-A woman who leads a podcast about recovery and burnout described her pattern bluntly: she would go, go, go until she collapsed, then call the collapse rest. But it was not rest. It was the body quitting because no one gave it permission to stop earlier.
+A woman who leads a podcast about recovery and burnout described her pattern bluntly: she would go, go, go until she collapsed, then call the collapse rest. But it was not rest. It was the body quitting because no one gave it permission to stop earlier. If that pattern sounds familiar, the piece on [what to do when you are running on empty](/blog/grace-for-the-burned-out-mom) speaks directly to it.
 
 ## What the Bible actually says about biblical rest
 
@@ -21,7 +21,7 @@ The Hebrew word behind that Genesis passage carries something surprising. It mea
 
 Rest, in that sense, is an act. A small, quiet act of trust.
 
-## What does the Bible say about rest when life is not cooperating
+## What does the Bible say about rest when life is not cooperating?
 
 One of the hardest things about genuine rest is that it asks something of you precisely when you have nothing left to give. You do not get to rest first and then trust God later. The rest is the trust.
 
@@ -39,9 +39,9 @@ One voice in these conversations described her own restlessness honestly: she co
 
 "Be still, and know that I am God." (Psalm 46:10, ASV) Another rendering puts it this way: surrender your anxiety, stop your striving, and you will see that I am God. The stillness is a posture of trust, not an absence of sound.
 
-A lot of what we call rest is really numbing. Scrolling, overeating, staying up too late to carve out quiet minutes that do not end up quiet at all. These avoid the feeling of exhaustion without addressing what is underneath it. They cost you something without returning anything.
+A lot of what we call rest is really numbing. Scrolling, overeating, staying up too late to carve out quiet minutes that do not end up quiet at all. These avoid the feeling of exhaustion without addressing what is underneath it. They cost you something without returning anything. The [anxious striving underneath the busyness](/blog/anxiety-and-faith-can-coexist) often needs its own attention before real stillness becomes possible.
 
-Genuine rest has texture. It involves something outside the cycle of output and depletion. A walk without a destination. A meal with people you like. Scripture without a goal. Prayer without an agenda. (I know that sounds impractical. It also sounds like exactly what you have been putting off.)
+Genuine rest has texture. It involves something outside the cycle of output and depletion. A walk without a destination. A meal with people you like, the kind where nobody checks a phone. Scripture without a goal. Prayer without an agenda. (I know that sounds impractical. It also sounds like exactly what you have been putting off.)
 
 ## Jesus as our rest
 
@@ -55,7 +55,7 @@ There is a place of rest, and it is in the presence of Jesus. That is not a meta
 
 The short quiz below can help you identify which kind of rest you are actually getting.
 
-## But am I allowed to rest before everything is done
+## But am I allowed to rest before everything is done?
 
 The answer is yes. And this is the point that keeps coming up whenever people who have actually wrestled with this talk honestly about it.
 
@@ -69,7 +69,7 @@ Choosing rest is, in a small and daily way, an act of faith that someone else is
 
 He does not falter. He does not forget. You do not have to fill the silence to keep things running.
 
-## Can you actually learn to rest
+## Can you actually learn to rest?
 
 You can. It is a practice, not a switch. One person described starting with one-minute intervals of just sitting still, no phone, no music, and building up from there. Another described surrendering her calendar to God each morning and watching appointments clear on days when her body needed space. Another described sitting before God without an agenda, no Bible open, no journal, just listening, and finding that things that had felt impossible to hear started coming through.
 

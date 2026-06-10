@@ -17,7 +17,13 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     title: p.title,
     description: p.description,
     alternates: { canonical: `/blog/${slug}` },
-    openGraph: { type: 'article', title: p.title, description: p.description },
+    openGraph: {
+      type: 'article',
+      title: p.title,
+      description: p.description,
+      images: [{ url: '/og-blog.png', width: 1200, height: 630 }],
+    },
+    twitter: { card: 'summary_large_image', title: p.title, description: p.description, images: ['/og-blog.png'] },
     // Drafts are reachable by URL (for preview) but kept out of search until launch.
     robots: p.published ? undefined : { index: false, follow: false },
   };
@@ -34,14 +40,26 @@ export default async function Article({ params }: { params: Promise<{ slug: stri
     headline: p.title,
     description: p.description,
     datePublished: p.date || undefined,
+    image: 'https://eikonia.art/og-blog.png',
     author: { '@type': 'Organization', name: 'Eikonia', url: 'https://eikonia.art' },
     publisher: { '@type': 'Organization', name: 'Eikonia', url: 'https://eikonia.art' },
     mainEntityOfPage: `https://eikonia.art/blog/${slug}`,
   };
 
+  const breadcrumbLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://eikonia.art' },
+      { '@type': 'ListItem', position: 2, name: 'Articles', item: 'https://eikonia.art/blog' },
+      { '@type': 'ListItem', position: 3, name: p.title, item: `https://eikonia.art/blog/${slug}` },
+    ],
+  };
+
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(ld) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
       <HomeNav />
       <main className="mx-auto max-w-2xl px-6 py-10">
         <article>

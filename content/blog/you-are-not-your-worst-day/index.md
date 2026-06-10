@@ -9,9 +9,9 @@ published: false
 
 You were doing so well.
 
-Seriously, you were. Maybe you had a stretch where you felt patient, grounded, genuinely kinder than you used to be. You were praying more, snapping less, actually listening to people. You thought: this is who I am becoming. And then you went home.
+Seriously, you were. Maybe you had a stretch where you felt patient, grounded, genuinely kinder than you used to be. You were praying more, snapping less, actually listening to people. You thought: this is who I am becoming. And then you went home. Your identity in Christ held steady through all of it, even when you could not feel it holding.
 
-One pastor talks about this pattern with college students. They come back from a semester of real spiritual growth and within about forty-eight hours of being under their parents' roof, they are a different person. Short-fused. Petty. Pulling out old grudges like sweaters from a closet they forgot existed. And the question that surfaces, quietly and with real weight, is: was any of that growth real? Am I actually who I thought I was?
+One pastor talks about this pattern with college students. They come back from a semester of real spiritual growth and within about forty-eight hours of being under their parents' roof, they are a different person. Short-fused. Petty. Pulling out old grudges like sweaters from a closet they forgot existed, which is its own kind of wound that runs deeper than most people admit to. If you want to think through [how to forgive someone who never said sorry](/blog/how-to-forgive-someone-who-never-said-sorry), that article goes into the mechanics of it honestly. And the question that surfaces, quietly and with real weight, is: was any of that growth real? Am I actually who I thought I was? That question goes right to the heart of what identity in Christ actually means in the unguarded moments.
 
 It is a fair question. And the answer is more honest than it first sounds.
 
@@ -47,7 +47,7 @@ So when you go home and the unedited version of you shows up, you are not lookin
 
 That pastor's advice was plain: bring what gets unearthed to God. Bring the anger that only your sibling knows how to locate. Do not run from it or bury it. Say: Lord, this is still in me. What do I do with it?
 
-He does not always take it away immediately (I do not know why it works this way, but it does). What he does is begin working with you on it. Usually not dramatically. It tends to feel like long dinners with the same difficult people.
+He does not always take it away immediately (I do not know why it works this way, but it does). And if part of what got unearthed is the feeling that no one around you actually notices what is happening inside you, it is worth knowing that [someone does see you, even when you feel overlooked](/blog/when-you-feel-unseen-someone-sees-you). What he does is begin working with you on it. Usually not dramatically. It tends to feel like long dinners with the same difficult people.
 
 If you want to take a moment to sit with what this actually means for you specifically, the short quiz below can help you hear what is true about who you are.
 

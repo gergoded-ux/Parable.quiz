@@ -1,6 +1,6 @@
 ---
 title: Overcoming Comparison Before It Steals Your Peace
-description: Comparison is a prison with an open door. Here's what the Bible actually says about overcoming comparison and walking free from envy's grip.
+description: Comparison is a prison with an open door. Here is what the Bible actually says about overcoming comparison and walking free from envy's grip.
 date: 2026-06-10
 quiz: whats-your-comparison-trap
 collection: walking
@@ -35,7 +35,7 @@ That verse is blunt in the best way. Your work. Your glorying. No one else's is 
 
 ## Running your own race when comparison in the Bible reframes the whole contest
 
-Here is something worth sitting with honestly: you were not given their gifts, their timing, or their specific assignment. So running their race is not ambition. It is, in a strange way, a form of ingratitude for what you actually are.
+Here is something worth sitting with honestly: you were not given their gifts, their timing, or their specific assignment. So running their race is not ambition. It is, in a strange way, a form of ingratitude for what you actually are. If comparison has left you feeling like [you are falling behind a schedule you never agreed to](/blog/the-lie-that-youre-falling-behind), that feeling is worth examining, because it usually has more to do with a borrowed measuring stick than a real one.
 
 One teacher put it this way: God will never call you to do something that does not require him. The thing you feel weakest about, the place where you feel most outmatched by whoever you keep comparing yourself to, might be exactly where God intends to show up. Moses was carrying a shepherd's staff, a reminder of everything he had failed to become, and that became the instrument. God was not embarrassed by Moses's smallness. He used it.
 
@@ -61,6 +61,6 @@ No. That is not the promise, and anyone telling you otherwise has not read the s
 
 One woman shared something quietly devastating: she discovered years later that a family member had been behind her father's death, and the root of it was jealousy. She stood in that room looking for the anger and could not find it, because God had done enough work in her heart that she saw the person before she saw the offense. That is not a testimony about being emotionally unfazed. It is a testimony about what regular honesty with God, over years, actually does to a person.
 
-You are not behind. You are not forgotten. What comparison has taken from you, attention to your actual life, presence in your actual season, gratitude for the things God has already placed in your hands, those can be returned. Not all at once. But steadily, one honest moment at a time.
+You are not behind. You are not forgotten. What comparison has taken from you, attention to your actual life, presence in your actual season, gratitude for the things God has already placed in your hands, those can be returned. Not all at once. But steadily, one honest moment at a time. Who you are before God does not shrink because someone else is celebrated, and [your identity in Christ holds even on your worst days](/blog/you-are-not-your-worst-day).
 
 Your race is yours. No one else was built to run it.

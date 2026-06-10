@@ -37,7 +37,7 @@ The fulness of time. That phrase keeps stopping me. God does not move prematurel
 
 ## The hiddenness before the work
 
-David did not become a king the morning after Samuel anointed him. He went back to the sheep. He spent years in that field before anyone outside his family could have told you his name. What he was doing there, chasing off lions, writing songs in the dark, staying faithful to a flock that offered him no applause, was exactly the preparation that made him capable of what came next.
+David did not become a king the morning after Samuel anointed him. He went back to the sheep. He spent years in that field before anyone outside his family could have told you his name. What he was doing there, chasing off lions, writing songs in the dark, staying faithful to a flock that offered him no applause, was exactly the preparation that made him capable of what came next. [Your calling is rarely a straight line](/blog/your-calling-is-rarely-a-straight-line), and David's story may be the clearest example in all of scripture.
 
 Moses spent forty years in Midian as nobody in particular. Forty years after a false start, after trying to act in his own strength and making a wreck of it. Then came the burning bush.
 
@@ -59,7 +59,7 @@ Stay flexible too, in the way the branch stays flexible in winter. The branches 
 
 ## Does the silence mean God has forgotten you?
 
-No. The silence of God in a season of proving is its own language. It is not absence. It is the invitation to trust his presence when his voice goes quiet. A preacher I heard put it this way: "Though I walk through the valley of the shadow of death, I will fear no evil, for thou art with me" is not a verse about hearing God speak. It is a verse about knowing he is there even when he is not.
+No. The silence of God in a season of proving is its own language. It is not absence. It is the invitation to trust his presence when his voice goes quiet. If you are struggling to hear anything at all right now, [hearing God in a noisy world](/blog/hearing-god-in-a-noisy-world) speaks directly to that experience. A preacher I heard put it this way: "Though I walk through the valley of the shadow of death, I will fear no evil, for thou art with me" is not a verse about hearing God speak. It is a verse about knowing he is there even when he is not.
 
 "Jehovah seeth not as man seeth; for man looketh on the outward appearance, but Jehovah looketh on the heart" (1 Samuel 16:7, ASV)
 

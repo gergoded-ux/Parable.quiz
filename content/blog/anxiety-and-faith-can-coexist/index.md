@@ -1,13 +1,13 @@
 ---
 title: Christian Anxiety and Faith Can Coexist
-description: Feeling anxious doesn't mean your faith is failing. What does the Bible say about anxiety? More tenderness than you expect.
+description: Feeling anxious does not mean your faith is failing. Here is what the Bible actually says about christian anxiety, and the tenderness God meets it with.
 date: 2026-06-10
 quiz: which-anxiety-verse-for-you
 collection: peace
 published: false
 ---
 
-She gave her life to Jesus in high school. Something cracked open that she hadn't felt before: peace, actual peace, the kind that made her want to read her Bible at night instead of dreading it. For about six months she thought the anxiety was gone for good.
+She gave her life to Jesus in high school. Something cracked open that she hadn't felt before: peace, actual peace, the kind that made her want to read her Bible at night instead of dreading it. For about six months she thought the anxiety was gone for good. Christian anxiety is not a modern invention, and it did not begin with her.
 
 Then it came back.
 
@@ -73,6 +73,6 @@ No. One speaker said this plainly, and it has stayed with me: when Jesus says "d
 
 The short quiz below can point you to a specific verse for where you are today.
 
-Wherever you are reading this, the anxious person in you is not evidence of a failing faith. It is evidence that you are human, that something matters to you, that you are still here. You are met at the door, not with disappointment, but with the one who already knows what it feels like to sweat through the night before a terrible morning, who asked the Father if there was another way, and who came close anyway.
+Wherever you are reading this, the anxious person in you is not evidence of a failing faith. It is evidence that you are human, that something matters to you, that you are still here. Christian anxiety does not disqualify you from God's presence; it is one of the places he tends to show up most quietly. If you feel like you are carrying it alone, [someone already sees what you are holding](/blog/when-you-feel-unseen-someone-sees-you). And when the weight of it makes rest feel impossible, [rest is not something you earn first](/blog/rest-isnt-a-reward). You are met at the door, not with disappointment, but with the one who already knows what it feels like to sweat through the night before a terrible morning, who asked the Father if there was another way, and who came close anyway.
 
 That's the God you are bringing this to.

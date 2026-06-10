@@ -63,9 +63,9 @@ If you are not sure how God tends to speak to you specifically, the short quiz b
 
 ## What does it mean when you still cannot hear him?
 
-Silence is not evidence of abandonment. It might be that he has already spoken and you missed it. It might be that he is not answering that particular question because he wants to answer a different one. It might be that he is growing your capacity to hear in a new way, so that what used to come through words is now coming through peace, or through an image, or through a feeling you cannot quite name but cannot quite dismiss either.
+Silence is not evidence of abandonment. It might be that he has already spoken and you missed it. It might be that he is not answering that particular question because he wants to answer a different one. It might be that he is growing your capacity to hear in a new way, so that what used to come through words is now coming through peace, or through an image, or through a feeling you cannot quite name but cannot quite dismiss either. If you are in one of those quiet seasons where you cannot quite make out his voice, [what God may be preparing you for in that silence](/blog/what-is-god-preparing-you-for) is often more than it seems. And the posture that makes those seasons bearable is the same one that makes hearing possible at all: [being still rather than striving](/blog/rest-isnt-a-reward).
 
-One of the oldest passages in the Bible is a man named Elijah, wrecked, under a broom tree, done. God did not lecture him. He fed him. He let him sleep. He asked him a question that still hangs in the air for all of us: "What doest thou here, Elijah?" (1 Kings 19:9, ASV).
+Elijah under the broom tree again comes to mind here. God did not lecture him. He fed him. He let him sleep. He asked him a question that still hangs in the air for all of us: "What doest thou here, Elijah?" (1 Kings 19:9, ASV).
 
 It was not a rebuke. It was an invitation. Come tell me what is happening with you.
 

@@ -8,6 +8,12 @@ export const metadata: Metadata = {
   title: 'Articles',
   description: 'Honest, hopeful reads on faith, identity, and everyday life. Each one pairs with a quiz.',
   alternates: { canonical: '/blog' },
+  openGraph: {
+    title: 'Articles',
+    description: 'Honest, hopeful reads on faith, identity, and everyday life. Each one pairs with a quiz.',
+    images: [{ url: '/og-blog.png', width: 1200, height: 630 }],
+  },
+  twitter: { card: 'summary_large_image', images: ['/og-blog.png'] },
 };
 
 export default function BlogIndex() {

@@ -37,11 +37,11 @@ One podcast host I listened to raised a question worth sitting with: what does i
 
 The passage in 1 Corinthians adds a detail that often gets skipped. Love "taketh not account of evil" (1 Corinthians 13:5, ASV). The word Paul uses there is an accounting term. It pictures a ledger, maintained carefully so nothing is forgotten and no debt goes unpaid. Most of us keep one. We call it memory, or context, or just knowing what someone is really like. But if you find yourself pulling out old injuries in arguments, or if you hold someone's worst moment against their best current effort, you are maintaining a ledger. This love closes it.
 
-That is not pretending harm did not happen. It is not skipping past something that genuinely needs to be addressed. It means that once something is forgiven, it stops being a balance owed. That is one of the most costly and freeing things you can offer someone: to be loved without an outstanding tab.
+That is not pretending harm did not happen. It is not skipping past something that genuinely needs to be addressed. It means that once something is forgiven, it stops being a balance owed. That is one of the most costly and freeing things you can offer someone: to be loved without an outstanding tab. If you are carrying a specific wound that makes closing the ledger feel impossible, the piece on [forgiving someone who never said sorry](/blog/how-to-forgive-someone-who-never-said-sorry) follows this thread in a more personal direction.
 
 ## What loving like Jesus looks like this week
 
-In marriage, it often shows up in the small moments. Choosing not to score points in a disagreement. Staying genuinely curious about who your spouse is becoming, not just who you expected them to be. Letting the kitchen thing go. (You know the one.)
+In marriage, it often shows up in the small moments. Choosing not to score points in a disagreement. Staying genuinely curious about who your spouse is becoming, not just who you expected them to be. Letting the kitchen thing go. (You know the one.) If you are trying to discern whether a relationship is one worth this kind of long investment, the guide on [discerning a relationship with less anxiety](/blog/is-he-the-one-a-calmer-way-to-discern) is worth reading alongside this one.
 
 In friendship, it looks like showing up when it is inconvenient, and being honest when honesty is harder than agreement. Not withdrawing when a friend disappoints you, even when your first instinct is to protect yourself by pulling back.
 

@@ -9,7 +9,7 @@ published: false
 
 You have read a Bible story and felt something catch. A small recognition, like spotting your handwriting in someone else's notebook. Maybe it was David hiding in a cave after the oil had already been poured on his head. Maybe it was Hannah, year after year at the temple, praying through a silence that felt like it had her name on it. Maybe it was Joseph, dreaming of ruling his brothers and waking up in a pit.
 
-That recognition is not a trick of the mind. It is one of the reasons the stories were preserved at all.
+That recognition is not a trick of the mind. It is one of the reasons the stories were preserved at all. If you have come here asking "which Bible character am I," you are already asking the right kind of question, because the answer tends to carry more than a personality label.
 
 ## Why asking "which Bible character am I" is a serious question
 
@@ -51,7 +51,7 @@ The hardest part of the waiting season, for most of these people, was not the ou
 
 Job never got a clean answer to why he suffered. Not in the book, anyway. He finished well, but he finished without closure. That is in the text for a reason.
 
-What the stories offer is not an explanation of your timing. What they offer is company. You are not behind. You are not forgotten. You are somewhere in the middle of a story that has not finished yet, which is exactly where David was in the caves, exactly where Joseph was in the dungeon, exactly where Hannah was in the temple year after year.
+What the stories offer is not an explanation of your timing. What they offer is company. You are not behind, and the article on [the lie that you are falling behind](/blog/the-lie-that-youre-falling-behind) goes deeper on exactly that pressure. You are not forgotten. You are somewhere in the middle of a story that has not finished yet, which is exactly where David was in the caves, exactly where Joseph was in the dungeon, exactly where Hannah was in the temple year after year.
 
 The characters of scripture were not placed there to be ideals. They were placed there so you can see yourself in them, and then ask the more useful question: where did God take them from here?
 
@@ -59,6 +59,6 @@ The characters of scripture were not placed there to be ideals. They were placed
 
 Not always. What the scriptures suggest is that God's timing is not accidental. The seasons between the promise and the fulfillment are not filler. They are where something is built inside of you that you will need later.
 
-The question worth sitting with is not "how long will this take" but "what is this season forming in me?" David in the caves was becoming a king who knew what it felt like to be hunted. Joseph in the dungeon was developing the capacity to steward a nation's resources, which was exactly what his assignment required.
+The question worth sitting with is not "how long will this take" but "what is this season forming in me?" David in the caves was becoming a king who knew what it felt like to be hunted. Joseph in the dungeon was developing the capacity to steward a nation's resources, which was exactly what his assignment required. The piece on [what God may be preparing you for](/blog/what-is-god-preparing-you-for) sits right alongside this theme if the waiting season is pressing on you.
 
 You are already in the story. The character you see yourself in right now is not the final word on who you are.

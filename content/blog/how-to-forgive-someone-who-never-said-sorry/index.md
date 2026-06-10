@@ -13,7 +13,7 @@ You probably know that specific ache. The person who hurt you most, the one you 
 
 Before anything else, someone needs to say this to you. What happened was not okay. It should not have happened. And if the people around you have stayed quiet, let me say it plainly: I'm sorry. You deserved better than that.
 
-Now, about forgiveness.
+Now, about forgiveness. And specifically, how to forgive someone who isn't sorry, which is the harder version of the question nobody warns you about.
 
 ## The lies we believe about forgiveness without an apology
 
@@ -33,7 +33,7 @@ One thing every honest teacher of this material agrees on: forgiveness does not 
 
 A preacher I heard described bitterness as drinking rat poison and waiting for the rat to die. The image is blunt, but it is accurate. Unforgiveness does not punish the person who wronged you. It keeps you frozen in the moment they wronged you, unable to move forward into the life God has for you.
 
-The word for forgiveness in Greek literally means to let go. Not to approve of, not to minimize. To release. You stop trying to collect the debt yourself. Not because the debt is not real. It is real. But because you are not the right one to collect it. "Avenge not yourselves, beloved, but give place unto the wrath of God: for it is written, Vengeance belongeth unto me; I will recompense, saith the Lord" (Romans 12:19, ASV).
+The word for forgiveness in Greek literally means to let go. Not to approve of, not to minimize. To release. You stop trying to collect the debt yourself. Not because the debt is not real. It is real. But because you are not the right one to collect it. Keeping an internal ledger of what they owe you is exhausting, and [loving the way Jesus loved](/blog/loving-the-way-jesus-loved) means releasing that record, not because they deserve it, but because you were released first. "Avenge not yourselves, beloved, but give place unto the wrath of God: for it is written, Vengeance belongeth unto me; I will recompense, saith the Lord" (Romans 12:19, ASV).
 
 That is not a small promise. God says: I see what was done. I will settle accounts. You do not have to.
 
@@ -41,7 +41,7 @@ That is not a small promise. God says: I see what was done. I will settle accoun
 
 Here is where most people get stuck. They wait to feel ready. They want the feeling of release before they make the decision. But it does not work in that direction. Forgiveness is a decision. The feeling tends to follow, sometimes much later.
 
-There is a true story that has stayed with me. A woman who survived a Nazi concentration camp found herself, years later, face to face with one of the guards who had tormented her. He had become a Christian, stretched out his hand, and asked her forgiveness.
+There is a true story that has stayed with me. Corrie ten Boom, who survived Ravensbruck concentration camp and told the story in her book The Hiding Place, found herself years after the war face to face with one of the guards who had tormented her. He had become a Christian, stretched out his hand, and asked her forgiveness.
 
 She could not make herself reach back. Her sister had died in that camp.
 
@@ -67,8 +67,8 @@ If you were betrayed by a close friend, one of the sharpest specific griefs ther
 
 That is the basis. Not willpower, not emotional resolution, not the other person's repentance. The basis is what God already did for you, at a cost you could not have paid yourself.
 
-One teacher put it plainly: there is no one on earth who has sinned against you as much as you have sinned against God. That is not meant to minimize what was done to you. It is meant to locate you in the larger story. You received a forgiveness you had not earned and could not buy. That changes what you are able to extend to someone else, not because you feel like it, but because you understand what you have already been given.
+One teacher put it plainly: there is no one on earth who has sinned against you as much as you have sinned against God. That is not meant to minimize what was done to you. It is meant to locate you in the larger story. You received a forgiveness you had not earned and could not buy. That changes what you are able to extend to someone else, not because you feel like it, but because you understand what you have already been given. It also matters that the shame or self-doubt the wound left behind is not the whole of who you are, and the article on [identity after failure and what God says about it](/blog/you-are-not-your-worst-day) is worth reading alongside this one.
 
-The apology may never come. That is a real possibility, and it is painful to sit with. But the peace that forgiveness opens up, that does not require the other person to do anything. It requires only a decision, made perhaps many times, to release the debt to the only one capable of settling it perfectly.
+The apology may never come. That is a real possibility, and it is painful to sit with. Learning to forgive someone who isn't sorry is not a smaller task than forgiving someone who is; in some ways it is larger, because there is no closure from outside to lean on. But the peace that forgiveness opens up does not require the other person to do anything. It requires only a decision, made perhaps many times, to release the debt to the only one capable of settling it perfectly.
 
 He heals the broken in heart, and the healing does not wait for the one who broke it.

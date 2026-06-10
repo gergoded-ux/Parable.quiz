@@ -1,13 +1,13 @@
 ---
 title: Grace for the Christian Mom Burnout Season
-description: If christian mom burnout has left you numb, resentful, or wanting to quit, this isn't a faith failure. Here's what the Bible actually says about rest and recovery.
+description: If christian mom burnout has left you numb, resentful, or ready to quit, it is not a faith failure. Here is what the Bible says about recovery.
 date: 2026-06-10
 quiz: do-you-have-mom-burnout
 collection: peace
 published: false
 ---
 
-You got to the end of the day and felt nothing. Not tired in the way a nap fixes. Nothing. You prayed the words, made the lunches, answered the texts, smiled through the small group. And somewhere behind all of it, a voice said: I cannot keep doing this.
+You got to the end of the day and felt nothing. Not tired in the way a nap fixes. Nothing. You prayed the words, made the lunches, answered the texts, smiled through the small group. And somewhere behind all of it, a voice said: I cannot keep doing this. Christian mom burnout does not announce itself. It accumulates quietly until one ordinary Tuesday you realize the well is dry.
 
 That is not a character flaw. That is a warning light.
 
@@ -25,7 +25,7 @@ That is the hardest lesson: the things that wore you down looked like faithfulne
 
 One preacher put it plainly: it is possible to do a lot for Jesus and not spend any time with Jesus. You can serve on fumes. You can give out bread you never had for yourself. And after a while, what you are handing people isn't bread at all, it's sugar. It looks like the real thing. It doesn't nourish anyone, including you.
 
-A lot of christian mom burnout comes not from laziness but from this inversion. You gave the kids, the church, the marriage, the neighbor, all the best of yourself, and went back to the well and found it dry. Neither was Elijah designed to run like that.
+A lot of christian mom burnout comes not from laziness but from this inversion. You gave the kids, the church, the marriage, the neighbor, all the best of yourself, and went back to the well and found it dry. If that invisible, unthanked labor describes your days, [someone does see the work no one else notices](/blog/when-you-feel-unseen-someone-sees-you). Neither was Elijah designed to run like that.
 
 Elijah had just called down fire from heaven, outrun a chariot for twenty miles, and faced down 450 false prophets. One of the most powerful figures in the Old Testament. And then one threat from one queen sent him into the wilderness asking to die.
 
@@ -63,7 +63,7 @@ Recovery is not something you manage. It is something you enter. The rest alread
 
 He does not say come after you have fixed your schedule. He says come now, worn out, and I will give it to you.
 
-That word give matters. Rest is not what you earn at the end of a productive day. It is a gift. Your recovery does not depend on your performance.
+That word give matters. Rest is not what you earn at the end of a productive day. It is a gift, and [rest is not a reward you have to deserve](/blog/rest-isnt-a-reward) is worth sitting with when you are tempted to think otherwise. Your recovery does not depend on your performance.
 
 So what does receiving look like? Telling someone the truth about how tired you are, and letting them help. Sleeping before you feel you have earned it. Sitting outside for five minutes without your phone. Praying something short and real, God, I am empty, instead of the performance of a devotional you don't have the energy for right now.
 
@@ -77,7 +77,7 @@ Yes. This is the question worth answering plainly, because so many women blame t
 
 The woman who described her own burnout was a doctor with clinical psychiatry training. She had treated depressed patients for years. She told herself she understood. Then it happened to her. "I never understood," she said, "how deep it went, until it was me."
 
-Burnout does not come for weak women or faithless ones. It comes for the conscientious ones, the ones who will not ask for help because they don't want to be a burden. It comes, sometimes, precisely because of love.
+Christian mom burnout does not come for weak women or faithless ones. It comes for the conscientious ones, the ones who will not ask for help because they don't want to be a burden. It comes, sometimes, precisely because of love.
 
 God is not far from you in this. Isaiah writes: "He will gather the lambs in his arm, and carry them in his bosom, and will gently lead those that have their young." (Isaiah 40:11, ASV)
 

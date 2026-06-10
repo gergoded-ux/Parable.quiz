@@ -1,13 +1,13 @@
 ---
 title: How to Find Your Calling When the Path Gets Crooked
-description: Struggling to find your calling? Scripture shows that Joseph, Moses, and David all took the long way. Here's what their detours actually teach us.
+description: Struggling to find your calling? Joseph, Moses, and David all took the long way, some detours lasting forty years. Here is what their zigzags teach us.
 date: 2026-06-10
 quiz: are-you-actually-behind-in-life
 collection: calling
 published: false
 ---
 
-You had a rough idea of where you were going. Maybe it came from a moment in prayer, a nudge you couldn't shake, something someone said over you years ago. But life has not moved the way you pictured, and now you sit with this low-grade worry that you missed something, or that the window quietly closed while you weren't paying attention.
+You had a rough idea of where you were going. Maybe it came from a moment in prayer, a nudge you couldn't shake, something someone said over you years ago. But life has not moved the way you pictured, and now you sit with this low-grade worry that you missed something, or that the window quietly closed while you weren't paying attention. That question of how to find your calling tends to get louder the longer the path stays crooked.
 
 That feeling is worth taking seriously. It is not worth believing.
 
@@ -33,7 +33,7 @@ Three signs show up consistently. First, something breaks your heart or fires yo
 
 ## How to find your calling when you feel behind
 
-Here is the thing about the burden-plus-gifting-plus-confirmation test. It is useless if you are not moving. The calling found Moses while he was tending Jethro's flock. David's destiny found him while he was delivering cheese to his brothers at the front. You don't have to have the whole picture to take the next step. You just have to take it.
+If you are carrying the weight of [feeling like you are falling behind](/blog/the-lie-that-youre-falling-behind), it helps to know that weight is almost never the accurate map it pretends to be. Here is the thing about the burden-plus-gifting-plus-confirmation test. It is useless if you are not moving. The calling found Moses while he was tending Jethro's flock. David's destiny found him while he was delivering cheese to his brothers at the front. You don't have to have the whole picture to take the next step. You just have to take it.
 
 "A man's heart deviseth his way; but Jehovah directeth his steps." (Proverbs 16:9, ASV)
 
@@ -49,7 +49,7 @@ If you want to know where you stand right now, the short quiz below can help you
 
 It has not. That is the simple answer. One preacher put it like this: the calling placed on your life is not revoked by the wrong turns you took, the years you wasted, the season you went backward. The gifts and the call of God are not contingent on your performance. They were given before you were born, and they do not expire.
 
-What happens is that we confuse the silence of a season with the absence of God. The desert looks like nothing is growing, and it is usually where the deepest formation happens. Moses could not have led a million people through that terrain if he had not spent forty years in it. The silence was the preparation.
+What happens is that we confuse the silence of a season with the absence of God. The desert looks like nothing is growing, and it is usually where the deepest formation happens. Moses could not have led a million people through that terrain if he had not spent forty years in it. The silence was the preparation. If you want a closer look at [what God may be preparing you for](/blog/what-is-god-preparing-you-for) in this exact season, that question is worth sitting with directly.
 
 There is something else worth naming. Many people backslide not because of dramatic failure but because they disengaged from what they were made to do. When you are not doing the thing you are built for, you feel it. Not always as a crisis. More often as a slow fading, a fire going low, until one day you look up and realize you have been coasting for years.
 
@@ -59,7 +59,7 @@ If that is where you are, the path back starts with honesty: what broke your hea
 
 All things. The pit, the desert, the dungeon. All of it works together. The working takes time, and it does not look like progress from the inside. But the zigzag is not a sign that you are off course. It is often the course.
 
-You were born for a specific purpose that only you can fill. Scripture says it plainly. Everyone who has actually found their way confirms it. Keep going.
+You were born for a specific purpose that only you can fill. Scripture says it plainly. Everyone who has wrestled honestly with how to find your calling and kept moving confirms it. Keep going.
 
 ## What if I think I've already missed my calling?
 
