@@ -13,4 +13,9 @@ export const config: VercelConfig = {
     routes.cacheControl('/quizzes/(.*)', { public: true, maxAge: '1 week' }),
     routes.cacheControl('/cards/(.*)', { public: true, maxAge: '1 week' }),
   ],
+  crons: [
+    // Daily ~13:00 UTC (~9am ET): post the tracker's due "Scheduled" rows to
+    // Threads / Facebook / Instagram. Inert until platform credentials are set.
+    { path: '/api/cron/social', schedule: '0 13 * * *' },
+  ],
 };
