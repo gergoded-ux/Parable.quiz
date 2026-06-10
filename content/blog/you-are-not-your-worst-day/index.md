@@ -1,46 +1,68 @@
 ---
-title: You Are Not Who Your Worst Day Says You Are
-description: Your identity is not your failures or your best moments. It is who God says you are.
-date: 2026-06-09
+title: Who You Are in Christ Is Not Your Worst Day
+description: Identity in Christ is not built from your best moments or dismantled by your worst. What your family sees at the dinner table is not the verdict on who you are.
+date: 2026-06-10
 quiz: who-are-you-in-christ
 collection: identity
 published: false
 ---
 
-Some days the memory of your worst moment finds you before you are fully awake. It sits on your chest and speaks with real authority. It says: this is who you are. This is what you amount to. And because the memory is true, because the thing really did happen, it can be surprisingly hard to argue back.
+You were doing so well.
 
-But a true fact about what you did is not the same thing as the truth about who you are. That distinction is quiet and easy to miss, and most of us have spent years collapsing the two together.
+Seriously, you were. Maybe you had a stretch where you felt patient, grounded, genuinely kinder than you used to be. You were praying more, snapping less, actually listening to people. You thought: this is who I am becoming. And then you went home.
 
-## Peter and the Fire
+One pastor talks about this pattern with college students. They come back from a semester of real spiritual growth and within about forty-eight hours of being under their parents' roof, they are a different person. Short-fused. Petty. Pulling out old grudges like sweaters from a closet they forgot existed. And the question that surfaces, quietly and with real weight, is: was any of that growth real? Am I actually who I thought I was?
 
-Consider Peter. The night Jesus was arrested, Peter followed at a distance to the courtyard of the high priest. Three times someone asked if he knew Jesus. Three times he said no. The third time he added a curse to make himself more convincing.
+It is a fair question. And the answer is more honest than it first sounds.
 
-This was not a moment of weakness under abstract pressure. This was a man watching his friend be dragged toward death, and choosing, three deliberate times, to say: I do not know him.
+## Why home surfaces what you have been hiding
 
-If your worst day defines you, Peter should have been finished. Instead, after the resurrection, Jesus met him by another charcoal fire, asked him three times if he loved him, and reinstated him three times. Peter became the apostle who preached at Pentecost and saw three thousand people respond. The restoration was not despite what Peter had done. Jesus walked directly through it.
+Here is what that pastor said, and I think he got it exactly right: your family does not put that impatience in you. They do not install the selfishness or the sarcasm or the way you get small and petty when you are tired and someone asks one too many things of you. They just reveal it. The stuff was already there.
 
-That is not a story about how your failures do not matter. They matter. Peter's denial was real, and it cost him something. But it was not the final word on his identity.
+Out in the world, you get to curate. You self-select your company, your obligations, the moments when you give. You can be generous on your own schedule. But home is different. Home is people who did not sign up to be careful around you, who will ask things of you when it is not convenient, who will say the specific thing in the specific tone that has gotten under your skin for twenty years. You do not get to be the edited version of yourself. They see the unedited one.
 
-## What Shame Gets Wrong
+And the unedited version, when it shows up, can feel like an indictment.
 
-Shame is not the same as guilt. Guilt says: I did something wrong. That is a message worth hearing, because it is often true, and it can lead somewhere good. Shame says something different. Shame says: I am something wrong. I am broken in a way that is probably permanent. It takes an event and turns it into a verdict.
+The word shame wants to step in right there. Shame says: see, I knew it. This is who you actually are. All that growth was performance. You are the person at the dinner table, not the person you thought you were becoming. And because the dinner table moment was real, because you really did say that thing or give that look or go completely quiet in a way everyone noticed, it can be hard to argue back.
 
-The problem with that verdict is that it was never yours to give. "There is therefore now no condemnation to them that are in Christ Jesus." (Romans 8:1, ASV). That sentence was written to people who knew exactly what they had done. Paul had watched Stephen be stoned. The Roman church he was writing to was full of people who had lived in ways they were not proud of. The verdict of no condemnation was not offered to people with clean records. It was offered to people in Christ.
+But shame is doing something dishonest here. It is taking a true fact about what you did and presenting it as the final truth about who you are. Those two things are not the same.
 
-Your identity is not assembled from your best performances or dismantled by your worst ones. It is given. That does not make the past disappear or the consequences go away. But it does mean the story is not over, and more importantly, it means the story was never only about you.
+## The fire at the shore and what identity in Christ actually means
 
-## The Naming That Holds
+Peter denied Jesus three times. Not once in a moment of confusion, but three separate deliberate times, one of them with a curse added to make it more convincing. He was watching his closest friend being led toward death, and he said, with some effort: I do not know the man.
 
-There is a pattern throughout scripture where God names people differently than their circumstances would suggest. Abram becomes Abraham before he has a child. Simon becomes Peter, the rock, before he has shown much rocklike stability. The name comes ahead of the reality, not as a reward for achieving it.
+If what we do in our worst moment is who we are, Peter was finished. But the story does not end there. After the resurrection, Jesus met him by a charcoal fire on the shore and asked him, three times, if he loved him. Three times Peter said yes. Three times Jesus gave him a commission. The symmetry is not accidental. Jesus walked directly into the worst moment, acknowledged it without pretending it away, and named Peter forward anyway.
 
-This is worth sitting with when the voice of your worst day gets loud. The voice speaks from the past. What God speaks is fixed and forward-facing. You are not your failures, but you are also not your best moments. You are who you are in relation to Christ, and that is a foundation that does not shift when your performance does.
+"There is therefore now no condemnation to them that are in Christ Jesus." (Romans 8:1, ASV). That was written by Paul, who had stood watching Stephen be stoned. The people receiving that letter were not people with clean records. The verdict of no condemnation was not offered on the basis of performance. It was offered on the basis of who they were in relation to Christ.
 
-If you want to slow down and hear some of that more clearly, the short quiz below can help you hear what is true about you.
+Your identity in Christ is not assembled from your good weeks and dismantled by your bad ones. It is given. That does not make the dinner table moment disappear or mean the people who witnessed it imagined it. But it does mean that moment is not the source of your name.
 
-## There Is Still a Morning
+## You are not your failures, and you are not your curated self either
 
-Peter ended up writing, late in his life, to scattered and suffering churches. He called them "a royal priesthood, a holy nation, a people for God's own possession." (1 Peter 2:9, ASV). He had earned the right to say it. He knew what it was to be defined by failure. He knew what it was to be redefined by grace.
+Here is the thing that trips people up though: if your worst day does not define you, your best day does not either. Identity in Christ is not permission to import your good performances as the real you and disown the rest. It is something more uncomfortable and more freeing than that.
 
-Your worst day is not the last word. It does not get to be. The one who makes all things new is also the one who holds your name, and he has not let go of it.
+The pattern through scripture is that God names people ahead of their behavior. Abram becomes Abraham before he has a child. Simon becomes Peter, the rock, before he has demonstrated much rocklike stability. Jacob, who was a deceiver by trade, gets renamed Israel before the fruit of that name is visible. The name is not a reward. It is a starting point.
 
-That is worth more than any verdict you have handed yourself.
+So when you go home and the unedited version of you shows up, you are not looking at evidence that the good moments were fake. You are looking at the distance between who you are being named and who you have grown into so far. And that distance is not an indictment. It is an invitation.
+
+That pastor's advice was plain: bring what gets unearthed to God. Bring the anger that only your sibling knows how to locate. Do not run from it or bury it. Say: Lord, this is still in me. What do I do with it?
+
+He does not always take it away immediately (I do not know why it works this way, but it does). What he does is begin working with you on it. Usually not dramatically. It tends to feel like long dinners with the same difficult people.
+
+If you want to take a moment to sit with what this actually means for you specifically, the short quiz below can help you hear what is true about who you are.
+
+## What identity in Christ says about home
+
+Late in his life, Peter wrote to scattered churches under pressure. He called them "a royal priesthood, a holy nation, a people for God's own possession." (1 Peter 2:9, ASV). That is remarkable given his history, and I do not think it is a coincidence that he was the one who wrote it. He had been the worst version of himself in a very public way and had been named forward anyway. He knew from the inside what it meant to be redefined.
+
+One teacher put it this way: find your Calcutta at home. The people who see the unedited version of you are not obstacles to your growth. They are the place it happens.
+
+Your identity in Christ does not shift when you snap at someone over something small. It does not erode when the old selfishness surfaces under pressure. It holds because it was never built on your behavior in the first place. God is not surprised by what showed up at the dinner table. He is not reconsidering.
+
+That is not a comfortable teaching. It asks something of you: stop running from what got unearthed, and bring it to him. But it is also the most settled ground you will ever stand on.
+
+The verdict about who you are was not given by your worst day. And it cannot be taken by it either.
+
+## Does God expect me to be a different person at home than I am elsewhere?
+
+Not exactly. The version of yourself that shows up at home is not a worse person than the one your coworkers see. It is a more complete picture. Growth in comfortable, self-selected environments is real, but it has not been tested by the people who know you longest and ask the most of you. God is not comparing the two versions. He is using both to do the same work.

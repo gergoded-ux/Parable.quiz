@@ -1,46 +1,82 @@
 ---
 title: Is He the One? A Calmer Way to Discern
-description: A grounded, prayerful way to think about a relationship without anxiety or rushing.
-date: 2026-06-09
+description: Feeling anxious about whether he's right for you? Here's a grounded, prayerful approach to christian dating discernment without the spiral.
+date: 2026-06-10
 quiz: is-he-the-one-christian-discernment
 collection: relationships
 published: false
 ---
 
-You do not have to figure this out by Friday. That might sound obvious, but if you have ever lain awake running the same mental loop, measuring his texts, replaying a conversation, trying to force a conclusion, you know how hard it is to actually believe. Discernment in relationships is one of the places where anxiety likes to masquerade as wisdom, and the pressure to "just know" can crowd out the quieter, steadier voice you actually need to hear.
+You know that loop you get stuck in at 11 p.m.? Replaying what he said, what you said, what his response time means, whether the fact that he remembered your coffee order is a sign or just, you know, basic attentiveness. If you have been there, you are not overthinking. You are just not yet sure. And the question underneath all of it is: is he the one?
 
-So here is a calmer approach. Not a formula, not a checklist to score, but a few honest questions worth sitting with over time.
+That question can be a good, honest question worth sitting with over time, or a trap door into an anxiety spiral. It depends almost entirely on what you are actually asking when you ask it.
 
-## Start with the thing that matters most
+## What "is he the one" is really asking
 
-Shared faith is not a box to tick. It shapes how two people handle money, raise children, forgive each other, and decide what a good life even looks like. If you and this man are not heading in the same direction spiritually, that gap tends to widen under pressure, not close. "Be not unequally yoked with unbelievers" (2 Corinthians 6:14, ASV) is often quoted in a way that feels like a warning label, but it is more like the observation of someone who has seen what happens downstream. Compatibility of faith is not about finding someone identical to you. It is about finding someone whose spiritual commitments run deep enough to hold when life gets hard.
+When most women ask this question, they are not asking for a metaphysical verdict. They are asking something more practical: is this man worth my continued investment, my trust, my vulnerability? Is this relationship moving in the right direction?
 
-So ask yourself: Does he take his faith seriously when no one is watching? Does he show up to worship, to community, to service, not to impress you, but because it matters to him? You are looking for fruit, not performance.
+That is a question you can actually answer. Not in one conversation, not by Friday, but over time, through what you observe when the pressure is off.
 
-## Watch how he treats people he does not need to impress
+One pastor I heard describe christian dating discernment this way: the question is not whether you feel butterflies. Butterflies show up for all kinds of reasons, including anxiety, which is not the same as peace. The question is whether you consistently come away from time with this person feeling settled, seen, and more yourself. Or whether you consistently come away performing, bracing, second-guessing.
 
-This is one of the most reliable things you can observe. How does he speak to a server at a restaurant? How does he talk about his mother, his coworkers, his old friends? Is he generous with the people who can do nothing for him?
+That distinction matters.
 
-Character shows up in ordinary moments, not grand gestures. A man who is kind to you but dismissive to others is showing you something important. And a man who is consistent, even in the small things, is also showing you something important.
+## Character, not chemistry, is what you can actually evaluate
 
-You are not looking for perfection. You are looking for a pattern.
+Here is something I have heard said in a few different ways, and it keeps being true: you will see the best version of a man when he is trying to impress you. He will bring flowers (or the 2024 equivalent of flowers). He will be patient. He will listen well.
 
-## The difference between peace and absence of conflict
+What you actually need to watch is what he does when nothing is at stake.
 
-Some women mistake a low-conflict relationship for a peaceful one. They are not the same. A relationship can feel smooth because both people are avoiding hard things, or because one person is always accommodating the other. That is not peace; that is surface quiet.
+How does he talk about the waitress who got his order wrong? How does he speak about his mother, his ex, his old friends? Is he kind to people who cannot do anything for him? Does he apologize when he is wrong, or does he get defensive and find a way to make you feel responsible for his reaction?
 
-Real peace in a relationship has some texture to it. You can disagree and come back. You can raise a concern and be heard. You can be honest about something difficult without bracing for a reaction.
+One older believer I heard describe this put it plainly: if a man does not know how to own something, if genuine humility is not in him, be careful. Everyone has good moments. The question is what his consistency looks like when nobody is watching.
 
-"Trust in Jehovah with all thy heart, and lean not upon thine own understanding" (Proverbs 3:5, ASV) is not a command to stop thinking clearly. It is an invitation to hold your conclusions loosely, to make room for God to show you what you cannot yet see. Sometimes that means waiting a little longer before deciding. Sometimes it means asking a trusted older woman in your life what she observes. Sometimes it means the short quiz below can help you sort the signal from the noise.
+That is not a cynical way to evaluate someone. It is wisdom. "Trust in Jehovah with all thy heart, and lean not upon thine own understanding" (Proverbs 3:5, ASV) is not a command to stop thinking clearly. It is an invitation to let God inform what you observe, not override it.
 
-## On the fear of being alone
+## The difference between peace and just... no conflict
 
-It is worth naming this honestly, because it shapes more decisions than people admit. If you are staying in a relationship primarily because the alternative feels lonely, that fear deserves attention. Not judgment, just attention. Loneliness is real, and wanting a companion is not a flaw. But a relationship chosen out of fear tends to produce the very loneliness it was trying to prevent.
+This one catches a lot of people off guard.
 
-You are allowed to want this. You are also allowed to want it to be right.
+A relationship can feel smooth because it genuinely is, or because one of you is quietly absorbing tension all the time. It can feel harmonious because you agree on everything, or because one person has learned not to bring things up. That is not peace. That is managed silence.
 
-## There is no deadline
+Real peace has some texture. You can disagree and come back without it becoming a referendum on the relationship. You can say something honest and hard without bracing yourself for days of withdrawal. You can be uncertain and let him be uncertain too, and it does not spiral into a crisis.
 
-Discernment is not a race. If he is the right man, taking a few more months to be sure will not disqualify him. And if he is not, rushing will not fix that either. Give yourself the grace to observe, to pray, to ask good people good questions.
+The fruit of the Spirit in Galatians 5 includes peace, and also patience and self-control. When you see those things in a man consistently, under pressure, in ordinary moments, that is fruit. Not a performance, not a first-date impression. Fruit.
 
-God is not withholding the answer to be cruel. Often He is asking you to slow down enough to actually see what is already in front of you.
+(I want to be careful here not to set up an impossible standard. Nobody is patient 100% of the time. You are not, either. The question is whether he is a person who, when he falls short, actually takes responsibility. That tells you more than the falling short did.)
+
+## On craving love, and what that craving might be telling you
+
+One young man described how he prayed for a girlfriend every day for three years while his actual relationship with God was basically transactional. He kept showing up to church and the dating apps and prayer looking for what he could get. God, he said later, was quiet not because the prayer was wrong but because his heart was not in a place to hear the answer clearly.
+
+I think about that when I hear women describe the version of discernment that is really just anxiety in a spiritual costume. The constant asking God for a sign. The reading into everything. The inability to be present in the relationship because you are always evaluating it. Sometimes that level of fixation is not discernment. It is fear dressed up as prayer.
+
+That fear deserves attention, not judgment. Loneliness is real. Wanting a companion is not a flaw. But a relationship chosen primarily from fear of being alone tends to produce exactly the loneliness it was trying to prevent. I have watched this in friends' lives. I have felt the pull of it myself.
+
+If you are honest with yourself and you find that fear is doing a lot of the driving, that is worth bringing to God directly. The prayer shifts from "God, is he the one?" to "God, what am I actually afraid of, and what do you want to do with that?"
+
+## Does God pick your spouse, or do you?
+
+Probably both, and the tension between those two things is actually useful.
+
+I heard an older pastor describe his approach: he gave his free choice back to God deliberately, not because he had no preferences, but because he knew he could not see what God could see. He kept his heart neutral enough that if God said no, he could actually hear it. He checked in constantly, looked for peace, and when the peace kept coming he moved forward. When it did not, he stopped.
+
+That is the posture. Your whole self shows up, including your mind and your observations. You hold the conclusion loosely enough that God can work with it. And you do not give your whole heart away and then ask God to confirm a decision you have already made.
+
+## Bring in people who are not you
+
+You are probably not the most objective person in this situation. That is not a flaw. It is just how proximity to hope works.
+
+Trusted older women in your life are worth their weight here. So are honest friends who have your actual good in mind, the long-term version of it. Someone who has watched you for years can say "that does not sound like you" in a way that lands differently than your own journaling.
+
+If the people who know you best are consistently uneasy, that is data. If they consistently see you come alive and at peace, that is also data.
+
+The short quiz below is one more small tool for sorting what you actually observe from what you are hoping is true.
+
+## What if I'm just not sure yet?
+
+Then you are not sure yet, and that is allowed.
+
+Discernment is not a race. If he is the right man, taking a few more months to be certain will not disqualify him. And if he is not, rushing will not fix that.
+
+You are allowed to want this, and to want it to be right. Both things can be true at the same time. The fact that you care enough to ask the question carefully is not a weakness. It is exactly the kind of attention a decision this important deserves.
