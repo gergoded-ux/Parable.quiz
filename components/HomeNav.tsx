@@ -5,9 +5,11 @@ import { useEffect, useState } from 'react';
 import { Wordmark } from './Wordmark';
 
 const LINKS = [
-  { href: '/quizzes', label: 'Quizzes' },
-  { href: '/quizzes#profile', label: 'Spiritual Profiles' },
-  { href: '/quizzes#knowledge', label: 'Bible IQ' },
+  { href: '/collections/characters', label: 'Bible Characters' },
+  { href: '/collections/identity', label: 'Who Am I' },
+  { href: '/collections/relationships', label: 'Relationships' },
+  { href: '/collections/bibleiq', label: 'Bible IQ' },
+  { href: '/blog', label: 'Articles' },
   { href: '/faq', label: 'FAQ' },
   { href: '/about', label: 'About' },
 ];

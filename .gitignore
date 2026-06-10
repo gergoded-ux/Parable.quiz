@@ -52,3 +52,8 @@ scripts/.asv-bible.json
 # Local-only QA mockup (dev tool, 404s in prod - never deployed)
 /app/mockup/
 /components/MockupGrid.tsx
+
+# Blog transcript drop zones: raw source material for articles.
+# The folders and READMEs are committed; the transcripts you drop in are not.
+content/blog/*/transcripts/*
+!content/blog/*/transcripts/README.md

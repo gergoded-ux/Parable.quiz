@@ -1,0 +1,151 @@
+// lib/collections.ts
+// The homepage's themed collections, ordered to create a deliberate flow:
+// playful -> identity -> relationships -> purpose -> peace -> growth -> knowledge.
+// Each collection lists the quizzes (by slug) shown in that row. The union of all
+// collection slugs is the live allowlist (kept in sync with content/published.json).
+
+export type Collection = { id: string; title: string; blurb: string; slugs: string[] };
+
+export const COLLECTIONS: Collection[] = [
+  {
+    id: 'characters',
+    title: 'Which Bible Character Are You?',
+    blurb: 'The fun part. Find your match and pull a collectible card.',
+    slugs: [
+      'which-bible-character-are-you',
+      'which-apostle-are-you',
+      'which-woman-of-the-bible-are-you',
+      'which-bible-king-are-you',
+      'which-bible-queen-are-you',
+      'which-prophet-are-you',
+      'which-bible-warrior-are-you',
+      'which-biblically-accurate-angel-are-you',
+      'which-judge-of-israel-are-you',
+      'which-patriarch-are-you',
+      'which-tribe-of-israel-are-you',
+      'which-bible-dreamer-are-you',
+      'which-i-am-statement-of-jesus-are-you',
+      'which-miracle-working-prophet-are-you',
+      'which-name-of-god-are-you',
+      'which-bible-miracle-are-you',
+      'which-bible-animal-are-you',
+      'which-bible-story-are-you-living',
+      'which-parable-describes-your-life',
+      'which-psalm-speaks-to-you',
+      'which-gospel-writer-are-you',
+      'which-piece-of-the-armor-of-god-are-you',
+      'which-christmas-character-are-you',
+      'which-bible-villain-are-you',
+      'are-you-a-leah-or-a-rachel',
+      'mary-or-martha',
+      'which-bible-parent-are-you',
+      'which-overlooked-bible-person-are-you',
+    ],
+  },
+  {
+    id: 'identity',
+    title: 'Who Am I, Really?',
+    blurb: 'What scripture says about your worth and identity.',
+    slugs: [
+      'who-are-you-in-christ',
+      'what-lie-about-your-worth',
+      'which-fruit-of-the-spirit-are-you',
+      'which-beatitude-defines-you',
+      'found-by-god-story',
+      'unseen-by-god-moment',
+      'whats-your-loneliness-pattern',
+      'why-hard-to-make-friends',
+    ],
+  },
+  {
+    id: 'relationships',
+    title: 'Love & Relationships',
+    blurb: 'Dating, marriage, and the people closest to you.',
+    slugs: [
+      'is-he-the-one-christian-discernment',
+      'whats-your-christian-dating-pattern',
+      'whats-your-love-style-biblically',
+      'whats-your-marriage-conflict-style',
+      'whats-your-parenting-spirit',
+      'which-bible-couple-is-your-relationship',
+    ],
+  },
+  {
+    id: 'calling',
+    title: 'Calling & Purpose',
+    blurb: 'Where you are, and what God may be preparing.',
+    slugs: [
+      'are-you-actually-behind-in-life',
+      'why-do-you-feel-stuck',
+      'what-is-god-preparing-you-for',
+      'whats-your-money-spirit',
+      'which-bible-money-figure-are-you',
+      'which-waiting-season-bible-figure',
+    ],
+  },
+  {
+    id: 'peace',
+    title: 'Peace & Rest',
+    blurb: 'Gentle check-ins for an anxious, tired heart.',
+    slugs: [
+      'which-anxiety-verse-for-you',
+      'whats-your-anxiety-style',
+      'do-you-have-mom-burnout',
+      'are-you-actually-resting-or-just-stopping',
+      'is-your-faith-on-autopilot',
+      'which-burned-out-bible-hero-are-you',
+      'which-bible-figure-felt-your-anxiety',
+    ],
+  },
+  {
+    id: 'walking',
+    title: 'Walking With God',
+    blurb: 'Hearing God, forgiving, and growing closer.',
+    slugs: [
+      'whats-your-discernment-style',
+      'is-it-god-or-just-you',
+      'why-cant-you-hear-gods-voice',
+      'can-you-forgive-someone-who-isnt-sorry',
+      'who-do-you-need-to-forgive',
+      'which-forgiven-bible-figure-are-you',
+      'are-you-a-cycle-breaker',
+      'whats-your-comparison-trap',
+      'is-your-phone-an-idol',
+      'social-media-comparison-type',
+    ],
+  },
+  {
+    id: 'bibleiq',
+    title: 'Test Your Bible Knowledge',
+    blurb: 'How well do you actually know the Book?',
+    slugs: [
+      'how-well-do-you-know-the-gospels',
+      'how-well-do-you-know-moses',
+      'jesus-miracles-iq',
+      'easter-resurrection-iq',
+      'how-well-do-you-know-revelation',
+      'how-well-do-you-know-david-and-goliath',
+      'how-well-do-you-know-the-ten-commandments',
+      'noahs-ark-iq',
+      'name-the-books-of-the-bible',
+      'apostle-paul-iq',
+      'guess-the-bible-verse',
+      'jesus-parables-iq',
+      'women-of-the-bible-iq',
+      'joseph-in-egypt-iq',
+      'genesis-iq',
+    ],
+  },
+];
+
+// A small cross-section "Start here" row of flagships (also live in their collections).
+export const FEATURED: string[] = [
+  'who-are-you-in-christ',
+  'which-bible-character-are-you',
+  'is-he-the-one-christian-discernment',
+  'which-overlooked-bible-person-are-you',
+  'how-well-do-you-know-the-gospels',
+];
+
+// The live allowlist = every quiz in a collection.
+export const PUBLISHED_SLUGS: string[] = COLLECTIONS.flatMap((c) => c.slugs);
