@@ -4,7 +4,7 @@ description: Feeling invisible and overlooked? Hagar met El Roi, the God who see
 date: 2026-06-10
 quiz: found-by-god-story
 collection: identity
-published: false
+published: true
 ---
 
 You wake up after a terrible night and the world just... keeps going. Traffic moves, emails arrive, the group chat bubbles with something trivial, and nobody asks. Nobody knows. You held everything together in the dark, and the morning came with zero acknowledgment of that fact. I have written about this feeling in a journal at 2am with a baby in my arms and a to-do list that had no end. Why didn't anyone notice? Why didn't the world at least pause?

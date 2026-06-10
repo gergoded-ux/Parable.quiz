@@ -4,7 +4,7 @@ description: A gentle gut check on whether your phone has become an idol, plus w
 date: 2026-06-10
 quiz: is-your-phone-an-idol
 collection: walking
-published: false
+published: true
 ---
 
 The first thing I reached for this morning was not God. It was my phone. Before my feet hit the floor, I was already in the algorithm. One woman who fasted social media for 21 days put it simply: she wanted to be so close to God that her phone was the very last thing on her mind, not the first. I read that and felt convicted, because the opposite was true of me. That is when I started asking myself whether is my phone an idol is actually a question worth sitting with honestly, not just scrolling past.

@@ -4,7 +4,7 @@ description: Learning how to love like Jesus means more than feelings. It means 
 date: 2026-06-10
 quiz: whats-your-love-style-biblically
 collection: relationships
-published: false
+published: true
 ---
 
 The night before his crucifixion, Jesus looked around the room at his closest friends and saw two things: proud hearts and dirty feet. They had spent the evening arguing about who was the greatest among them. He knew one of them was about to hand him over to be killed. And what he did next is still the clearest picture anyone has ever given us of how to love like Jesus.

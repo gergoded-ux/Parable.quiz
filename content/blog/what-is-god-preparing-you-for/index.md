@@ -4,7 +4,7 @@ description: If friendships are fading, doors keep closing, and your appetites a
 date: 2026-06-10
 quiz: what-is-god-preparing-you-for
 collection: calling
-published: false
+published: true
 ---
 
 You noticed it quietly at first. A friendship that used to feel easy started to feel forced. A door you knocked on stayed shut. Things you used to want, you stopped wanting. Nobody handed you an explanation. The silence where momentum used to be is loud. And somewhere underneath the confusion, a question: is this preparation or is it punishment?

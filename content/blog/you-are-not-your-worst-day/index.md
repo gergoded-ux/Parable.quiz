@@ -4,7 +4,7 @@ description: Identity in Christ is not built from your best moments or dismantle
 date: 2026-06-10
 quiz: who-are-you-in-christ
 collection: identity
-published: false
+published: true
 ---
 
 You were doing so well.

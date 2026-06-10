@@ -4,7 +4,7 @@ description: Asking "which Bible character am I" is more than a quiz. The charac
 date: 2026-06-10
 quiz: which-bible-character-are-you
 collection: characters
-published: false
+published: true
 ---
 
 You have read a Bible story and felt something catch. A small recognition, like spotting your handwriting in someone else's notebook. Maybe it was David hiding in a cave after the oil had already been poured on his head. Maybe it was Hannah, year after year at the temple, praying through a silence that felt like it had her name on it. Maybe it was Joseph, dreaming of ruling his brothers and waking up in a pit.

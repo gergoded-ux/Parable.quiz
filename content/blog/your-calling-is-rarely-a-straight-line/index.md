@@ -4,7 +4,7 @@ description: Struggling to find your calling? Joseph, Moses, and David all took 
 date: 2026-06-10
 quiz: are-you-actually-behind-in-life
 collection: calling
-published: false
+published: true
 ---
 
 You had a rough idea of where you were going. Maybe it came from a moment in prayer, a nudge you couldn't shake, something someone said over you years ago. But life has not moved the way you pictured, and now you sit with this low-grade worry that you missed something, or that the window quietly closed while you weren't paying attention. That question of how to find your calling tends to get louder the longer the path stays crooked.

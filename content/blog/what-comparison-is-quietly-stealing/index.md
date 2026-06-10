@@ -4,7 +4,7 @@ description: Comparison is a prison with an open door. Here is what the Bible ac
 date: 2026-06-10
 quiz: whats-your-comparison-trap
 collection: walking
-published: false
+published: true
 ---
 
 You were fine. You were actually fine. And then you opened your phone.

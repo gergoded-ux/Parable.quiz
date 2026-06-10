@@ -4,7 +4,7 @@ description: Feeling anxious about whether he is right for you? Here is a ground
 date: 2026-06-10
 quiz: is-he-the-one-christian-discernment
 collection: relationships
-published: false
+published: true
 ---
 
 You know that loop you get stuck in at 11 p.m.? Replaying what he said, what you said, what his response time means, whether the fact that he remembered your coffee order is a sign or just, you know, basic attentiveness. If you have been there, you are not overthinking. You are just not yet sure. And the question underneath all of it is: is he the one?

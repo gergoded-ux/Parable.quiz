@@ -4,7 +4,7 @@ description: If christian mom burnout has left you numb, resentful, or ready to 
 date: 2026-06-10
 quiz: do-you-have-mom-burnout
 collection: peace
-published: false
+published: true
 ---
 
 You got to the end of the day and felt nothing. Not tired in the way a nap fixes. Nothing. You prayed the words, made the lunches, answered the texts, smiled through the small group. And somewhere behind all of it, a voice said: I cannot keep doing this. Christian mom burnout does not announce itself. It accumulates quietly until one ordinary Tuesday you realize the well is dry.

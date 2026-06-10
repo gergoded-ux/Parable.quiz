@@ -4,7 +4,7 @@ description: Feeling behind in life is real and painful, but Scripture says God 
 date: 2026-06-10
 quiz: which-waiting-season-bible-figure
 collection: calling
-published: false
+published: true
 ---
 
 You open the app for thirty seconds and suddenly your chest is tight. Someone just announced the promotion. The baby. The ring. The house. And there you are, still in what feels like a waiting room with no number, watching the whole room get called ahead of you. That feeling of being behind in life is one of the most common aches people carry quietly. It is not that life is hard, exactly. It is that you are starting to wonder if you missed your slot.

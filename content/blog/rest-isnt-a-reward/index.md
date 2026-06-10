@@ -4,7 +4,7 @@ description: What does the Bible say about rest? It's not a prize you earn after
 date: 2026-06-10
 quiz: are-you-actually-resting-or-just-stopping
 collection: peace
-published: false
+published: true
 ---
 
 You know the feeling. You finally get a Saturday with nothing scheduled, and instead of feeling restored, you spend three hours scrolling your phone, then feel worse at the end of it than you did at the start. You were not working. But you were not resting either. There is a difference, and most of us have stopped noticing it.

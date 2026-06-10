@@ -4,7 +4,7 @@ description: Feeling anxious does not mean your faith is failing. Here is what t
 date: 2026-06-10
 quiz: which-anxiety-verse-for-you
 collection: peace
-published: false
+published: true
 ---
 
 She gave her life to Jesus in high school. Something cracked open that she hadn't felt before: peace, actual peace, the kind that made her want to read her Bible at night instead of dreading it. For about six months she thought the anxiety was gone for good. Christian anxiety is not a modern invention, and it did not begin with her.

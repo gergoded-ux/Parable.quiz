@@ -4,7 +4,7 @@ description: Struggling to hear God's voice? Learn how to discern God's voice fr
 date: 2026-06-10
 quiz: whats-your-discernment-style
 collection: walking
-published: false
+published: true
 ---
 
 You have been talking to God for years. Praying, reading, showing up. And still, on a Tuesday afternoon when the question actually matters, you sit in the quiet and wonder: was that him, or was that just me?
