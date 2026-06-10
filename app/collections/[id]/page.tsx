@@ -6,6 +6,7 @@ import { COLLECTIONS } from '@/lib/collections';
 import { isPublished, loadTestBySlug } from '@/lib/test-loader';
 import { QuizCard } from '@/components/QuizCard';
 import { HomeNav } from '@/components/HomeNav';
+import { HomeBackground } from '@/components/HomeBackground';
 import type { Test } from '@/lib/schema';
 
 export function generateStaticParams() {
@@ -35,6 +36,7 @@ export default async function CollectionPage({ params }: { params: Promise<{ id:
 
   return (
     <>
+      <HomeBackground />
       <HomeNav />
       <main className="px-6 py-10">
         <header className="mx-auto mb-7 max-w-3xl text-center">

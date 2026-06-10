@@ -26,7 +26,7 @@ export function HomeNav() {
   }, [open]);
 
   return (
-    <nav className="relative z-30 border-b border-rose/50">
+    <nav className="relative z-30">
       <div className="flex items-center justify-between px-6 py-4 sm:px-8 md:py-5">
         <Wordmark size="lg" />
 
