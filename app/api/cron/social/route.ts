@@ -11,6 +11,7 @@ import { queryDueRows, markPublished, markFailed, type DueRow } from '@/lib/soci
 import { postThreads } from '@/lib/social/threads';
 import { postFacebook } from '@/lib/social/facebook';
 import { postInstagram } from '@/lib/social/instagram';
+import { postPinterest } from '@/lib/social/pinterest';
 
 export const runtime = 'nodejs';
 export const dynamic = 'force-dynamic';
@@ -62,6 +63,23 @@ export async function GET(req: Request) {
             continue;
           }
           result = await postInstagram({ caption: row.caption, imageUrl: image });
+          break;
+        }
+        case 'Pinterest': {
+          const image = row.imageUrl ?? tile;
+          const board = process.env.PINTEREST_BOARD_ID;
+          if (!image || !board) {
+            summary.skipped++;
+            summary.details.push({ title: row.title, platform: row.platform, status: `skipped: Pinterest needs ${!image ? 'an image' : 'PINTEREST_BOARD_ID'}` });
+            continue;
+          }
+          result = await postPinterest({
+            title: row.title.replace(/^Pin\s*·\s*/i, ''),
+            description: row.caption,
+            link: row.postUrl,
+            imageUrl: image,
+            boardId: board,
+          });
           break;
         }
         default:

@@ -15,7 +15,8 @@ via the Graph APIs, and writes the result back (`Published` + `Live URL`, or
 | Threads | `Caption` as the post; if `Post URL` is set, it is posted as the **first reply** (links are suppressed in the body) | only if `Image` is set |
 | Facebook | `Caption` + `Post URL` as a Page post | photo post if `Image` is set |
 | Instagram | `Caption`; **requires an image** | `Image` if set, else the titled tile derived from the quiz slug in `Post URL` |
-| Pinterest / Reddit / etc. | skipped (handled outside this Meta cron) | — |
+| Pinterest | `Caption` as the pin description, `Post URL` as the link | `Image` if set, else the titled tile from the quiz slug; pinned to `PINTEREST_BOARD_ID` |
+| Reddit / X / LinkedIn / etc. | skipped (handled elsewhere) | — |
 
 `Image` accepts any `/api/social-image?...` URL:
 - `…?type=tile&slug=<slug>` — the titled cover-card (1080x1350, default for quiz rows)
@@ -33,7 +34,9 @@ via the Graph APIs, and writes the result back (`Published` + `Live URL`, or
 | `META_PAGE_ID` | The Facebook Page id. |
 | `META_PAGE_TOKEN` | Long-lived Page access token (also used to publish to Instagram). |
 | `IG_USER_ID` | The Instagram Business account id linked to the Page. |
-| `SITE_URL` | Optional. Defaults to `https://eikonia.art`. The origin Meta fetches images from. |
+| `PINTEREST_TOKEN` | Pinterest API v5 access token. |
+| `PINTEREST_BOARD_ID` | The board pins are created on (from `GET /v5/boards`). |
+| `SITE_URL` | Optional. Defaults to `https://eikonia.art`. The origin platforms fetch images from. |
 
 ---
 
@@ -60,6 +63,28 @@ via the Graph APIs, and writes the result back (`Published` + `Live URL`, or
 3. Request scopes `threads_basic`, `threads_content_publish`.
 4. Generate a token via the Threads OAuth flow; exchange it for a **long-lived token** (60 days, refreshable) → `THREADS_TOKEN`.
 5. `GET https://graph.threads.net/v1.0/me?access_token=<TOKEN>` → the `id` is `THREADS_USER_ID`.
+
+## 3c. Pinterest (≈20 min)
+1. **developers.pinterest.com → Manage apps → Create app**. Note the **App ID** and **App secret**.
+2. App settings → add **Redirect URI** `https://eikonia.art/`; request scopes `pins:write`, `boards:read`, `user_accounts:read`.
+3. **Authorize** (logged into the Eikonia Pinterest account), then copy the `code` from the redirect:
+   ```
+   https://www.pinterest.com/oauth/?client_id=<APP_ID>&redirect_uri=https://eikonia.art/&response_type=code&scope=pins:write,boards:read,user_accounts:read
+   ```
+4. **Exchange for a token** (PowerShell):
+   ```powershell
+   $basic = [Convert]::ToBase64String([Text.Encoding]::ASCII.GetBytes("<APP_ID>:<APP_SECRET>"))
+   $r = Invoke-RestMethod -Method Post -Uri 'https://api.pinterest.com/v5/oauth/token' -Headers @{ Authorization = "Basic $basic" } -Body @{ grant_type='authorization_code'; code='<CODE>'; redirect_uri='https://eikonia.art/' }
+   $r.access_token   # -> PINTEREST_TOKEN
+   ```
+5. **Get the board id**:
+   ```powershell
+   Invoke-RestMethod 'https://api.pinterest.com/v5/boards' -Headers @{ Authorization = "Bearer $($r.access_token)" }
+   ```
+   Copy the `id` of the board you want → `PINTEREST_BOARD_ID`.
+6. New apps start in **Trial** access (fine for posting to your own boards); apply for Standard access for higher limits later. Tokens expire (~30 days) with a 1-year refresh token — refresh via `grant_type=refresh_token` before expiry.
+
+**v1 note:** all Pinterest rows pin to the single `PINTEREST_BOARD_ID`. Per-board routing (the 8 themed boards) is a later enhancement via a Board field on the tracker.
 
 ## 4. Wire it up
 1. Add all the env vars (section above) to Vercel for **Production**.
