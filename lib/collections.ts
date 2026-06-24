@@ -10,7 +10,7 @@ export const COLLECTIONS: Collection[] = [
   {
     id: 'characters',
     title: 'Which Bible Character Are You?',
-    blurb: 'The fun part. Find your match and pull a collectible card.',
+    blurb: 'The fun part. Find your match and keep a collectible card.',
     slugs: [
       'which-bible-character-are-you',
       'which-apostle-are-you',

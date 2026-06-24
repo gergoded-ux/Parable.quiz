@@ -49,8 +49,8 @@ export function CollectionView() {
     return (
       <div className="mx-auto max-w-md py-16 text-center">
         <h1 className="text-3xl font-extrabold -tracking-wide text-brown-dark">My cards</h1>
-        <p className="mt-3 text-ink-soft">Your collection is empty. Take a quiz and your first card lands here.</p>
-        <Link href="/" className="mt-6 inline-block rounded-full bg-brown px-7 py-3 font-semibold text-white shadow-card transition-transform hover:-translate-y-0.5">Find a quiz</Link>
+        <p className="mt-3 text-ink-soft">No cards yet. Take a quiz and your first one lands right here.</p>
+        <Link href="/" className="mt-6 inline-block rounded-full bg-brown px-7 py-3 font-semibold text-white shadow-card transition-transform hover:-translate-y-0.5">Take your first quiz</Link>
       </div>
     );
   }

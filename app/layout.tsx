@@ -13,8 +13,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: { default: "Eikonia: What's your reflection?", template: '%s · Eikonia' },
-  description: 'Free Christian quizzes that reveal what scripture says about you. No sign-up.',
+  title: { default: 'Free Christian quizzes & Bible character cards · Eikonia', template: '%s · Eikonia' },
+  description: 'Free Christian quizzes that show you yourself in scripture. Each result comes with a verse and a collectible card to keep. No sign-up.',
   metadataBase: new URL('https://eikonia.art'),
   openGraph: { siteName: 'Eikonia', type: 'website', images: ['/home-bg.webp'] },
   twitter: { card: 'summary_large_image' },
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
 const siteLd = {
   '@context': 'https://schema.org',
   '@graph': [
-    { '@type': 'Organization', '@id': 'https://eikonia.art/#org', name: 'Eikonia', url: 'https://eikonia.art', logo: 'https://eikonia.art/logo.webp', description: 'Free Christian quizzes that reveal what scripture says about you.' },
+    { '@type': 'Organization', '@id': 'https://eikonia.art/#org', name: 'Eikonia', url: 'https://eikonia.art', logo: 'https://eikonia.art/logo.webp', description: 'Free Christian quizzes that show you yourself in scripture, with a verse and a collectible card to keep.' },
     { '@type': 'WebSite', '@id': 'https://eikonia.art/#website', name: 'Eikonia', url: 'https://eikonia.art', inLanguage: 'en', publisher: { '@id': 'https://eikonia.art/#org' } },
   ],
 };

@@ -28,9 +28,9 @@ export default function Home() {
       <header className="px-8 pb-6 pt-14 text-center">
         <div className="mx-auto inline-block max-w-2xl rounded-3xl bg-cream-1/75 px-8 py-7 shadow-[0_8px_30px_rgba(80,50,20,0.12)] backdrop-blur-sm">
           <h1 className="mb-3 text-4xl font-extrabold -tracking-wide text-brown-dark md:text-5xl">
-            What&rsquo;s your reflection?
+            What does scripture say about you?
           </h1>
-          <p className="mb-3 text-base text-ink-soft">{total} quizzes that reveal what scripture says about you.</p>
+          <p className="mb-3 text-base text-ink-soft">A short quiz, a verse for your result, and a collectible card to keep.</p>
           <div className="text-xs uppercase tracking-widest text-ink-mute">{total} QUIZZES &middot; ALWAYS FREE &middot; NO SIGN-UP</div>
         </div>
       </header>

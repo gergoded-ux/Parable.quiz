@@ -102,7 +102,7 @@ export function FeedbackWidget() {
             </div>
 
             {status === 'sent' ? (
-              <p className="py-8 text-center text-brown">&#x1F64F; Thank you &mdash; we read every note.</p>
+              <p className="py-8 text-center text-brown">&#x1F64F; Thank you. We read every note.</p>
             ) : (
               <form onSubmit={submit} className="space-y-3">
                 <div className="flex gap-2">
