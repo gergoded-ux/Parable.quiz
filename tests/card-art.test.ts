@@ -7,9 +7,9 @@ describe('card-art', () => {
     expect(hasIllustration('are-you-a-leah-or-a-rachel', 'leah')).toBe(true);
   });
   it('reports no illustration for an unknown result', () => {
-    expect(hasIllustration('which-apostle-are-you', 'peter')).toBe(false);
+    expect(hasIllustration('totally-made-up-slug', 'nobody')).toBe(false);
   });
   it('builds a url under the configured base', () => {
-    expect(artUrl('are-you-a-leah-or-a-rachel', 'leah')).toMatch(/\/results\/are-you-a-leah-or-a-rachel\/leah\.jpg$/);
+    expect(artUrl('are-you-a-leah-or-a-rachel', 'leah')).toMatch(/\/results\/are-you-a-leah-or-a-rachel\/leah\.(webp|jpg|png)$/);
   });
 });

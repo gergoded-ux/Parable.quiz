@@ -13,7 +13,8 @@
     "start": "next start",
     "test": "vitest run",
     "test:watch": "vitest",
-    "validate:tests": "tsx scripts/validate-tests.ts"
+    "validate:tests": "tsx scripts/validate-tests.ts",
+    "regression": "vitest run && tsx scripts/validate-tests.ts && node scripts/check-article-verses.mjs"
   },
   "dependencies": {
     "@vercel/analytics": "^2.0.1",
