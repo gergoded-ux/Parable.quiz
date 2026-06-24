@@ -1,14 +1,12 @@
 'use client';
 import { useEffect } from 'react';
 import { saveCard } from '@/lib/collection';
+import type { CardData } from '@/lib/card-data';
 
-// Drops the viewed result into the visitor's localStorage collection.
-// (prop is resultKey, not key, since React reserves the key prop.)
-export function SaveToCollection({ slug, resultKey, artKey, name, matchPct }: {
-  slug: string; resultKey: string; artKey: string; name: string; matchPct: number | null;
-}) {
+// Drops the viewed result (full card data) into the visitor's localStorage binder.
+export function SaveToCollection({ data }: { data: CardData }) {
   useEffect(() => {
-    saveCard({ slug, key: resultKey, artKey, name, matchPct });
-  }, [slug, resultKey, artKey, name, matchPct]);
+    saveCard(data);
+  }, [data.slug, data.key]); // re-save only when the card identity changes
   return null;
 }

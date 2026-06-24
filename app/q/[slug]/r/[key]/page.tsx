@@ -116,7 +116,7 @@ export default async function ResultPage({ params, searchParams }: { params: Pro
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumb) }} />
       <TrackResultView slug={test.slug} result={key} />
-      <SaveToCollection slug={test.slug} resultKey={key} artKey={cardData.artKey} name={cardData.baseName} matchPct={cardData.matchPct} />
+      <SaveToCollection data={cardData} />
       <HomeNav />
       <main className="px-4 py-8">
         <div className="mx-auto flex max-w-6xl flex-col items-center gap-8 lg:flex-row lg:items-start lg:justify-center lg:gap-10">

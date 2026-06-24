@@ -3,10 +3,14 @@ import { useEffect, useState } from 'react';
 import Link from 'next/link';
 import { COLLECTIONS } from '@/lib/collections';
 import { loadCards, type SavedCard } from '@/lib/collection';
-import { artUrl, quizCoverUrl } from '@/lib/card-art';
-import { rarityFromMatch } from '@/lib/rarity';
+import { quizCoverUrl } from '@/lib/card-art';
+import { ResultCardLive } from '@/components/card/ResultCardLive';
 
 const TOTAL = COLLECTIONS.reduce((n, c) => n + c.slugs.length, 0);
+
+// A complete card (full CardData) can render as the real card; legacy/partial
+// entries fall back to a slot tile.
+const isFull = (c?: SavedCard) => !!c && !!c.rarity && !!c.verse && !!c.stat;
 
 function Bar({ owned, total }: { owned: number; total: number }) {
   const pct = total ? Math.round((owned / total) * 100) : 0;
@@ -19,6 +23,7 @@ function Bar({ owned, total }: { owned: number; total: number }) {
 
 export function CollectionView() {
   const [bySlug, setBySlug] = useState<Map<string, SavedCard> | null>(null);
+  const [scale, setScale] = useState(0.6);
 
   useEffect(() => {
     const m = new Map<string, SavedCard>();
@@ -27,6 +32,13 @@ export function CollectionView() {
       if (!prev || c.ts > prev.ts) m.set(c.slug, c); // latest result per quiz wins
     }
     setBySlug(m);
+  }, []);
+
+  useEffect(() => {
+    const fit = () => setScale(window.innerWidth < 640 ? 0.5 : 0.6);
+    fit();
+    window.addEventListener('resize', fit);
+    return () => window.removeEventListener('resize', fit);
   }, []);
 
   if (!bySlug) return <p className="py-16 text-center text-ink-mute">Loading your cards...</p>;
@@ -42,6 +54,9 @@ export function CollectionView() {
       </div>
     );
   }
+
+  const W = Math.round(330 * scale);
+  const H = Math.round(412 * scale);
 
   return (
     <div className="mx-auto max-w-6xl">
@@ -60,37 +75,24 @@ export function CollectionView() {
               <span className="shrink-0 text-sm text-ink-mute">{have} / {col.slugs.length}</span>
             </div>
             <div className="mb-4"><Bar owned={have} total={col.slugs.length} /></div>
-            <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5">
+            <div className="flex flex-wrap justify-center gap-4 sm:justify-start">
               {col.slugs.map((slug) => {
                 const card = bySlug.get(slug);
-                if (card) {
-                  const rar = rarityFromMatch(card.matchPct ?? 0);
-                  const art = artUrl(slug, card.artKey) || quizCoverUrl(slug);
+                if (isFull(card)) {
+                  const href = `/q/${slug}/r/${card!.key}${card!.matchPct != null ? `?m=${card!.matchPct}` : ''}`;
                   return (
-                    <Link key={slug} href={`/q/${slug}/r/${card.key}${card.matchPct != null ? `?m=${card.matchPct}` : ''}`}
-                      className="overflow-hidden rounded-2xl border border-rose/50 bg-white shadow-card transition-transform hover:-translate-y-0.5">
-                      <div className="aspect-[4/5] bg-cream-2">
-                        {art && <img src={art} alt="" className="h-full w-full object-cover" />}
-                      </div>
-                      <div className="p-2.5">
-                        <div className="truncate text-sm font-extrabold text-brown-dark">{card.name}</div>
-                        <div className="mt-1 flex items-center justify-between gap-2">
-                          <span className="rounded-full px-2 py-0.5 text-[11px] font-bold uppercase tracking-wide" style={{ color: rar.accent, border: `1px solid ${rar.accent}55` }}>{rar.label}</span>
-                          {card.matchPct != null && !card.name.endsWith('%') && <span className="text-[11px] font-semibold text-ink-mute">{card.matchPct}%</span>}
-                        </div>
-                      </div>
+                    <Link key={slug} href={href} className="block transition-transform hover:-translate-y-1" aria-label={card!.name}>
+                      <ResultCardLive data={card!} flat scale={scale} />
                     </Link>
                   );
                 }
                 const cover = quizCoverUrl(slug);
                 return (
-                  <Link key={slug} href={`/q/${slug}`}
-                    className="overflow-hidden rounded-2xl border border-dashed border-rose/50 bg-cream-1/50 transition-transform hover:-translate-y-0.5">
-                    <div className="relative aspect-[4/5] bg-cream-2">
-                      {cover && <img src={cover} alt="" className="h-full w-full object-cover opacity-20" />}
-                      <div className="absolute inset-0 flex items-center justify-center text-3xl font-bold text-ink-mute/50">?</div>
-                    </div>
-                    <div className="p-2.5"><div className="text-xs text-ink-mute">Not yet collected</div></div>
+                  <Link key={slug} href={card ? `/q/${slug}/r/${card.key}` : `/q/${slug}`}
+                    style={{ width: W, height: H }}
+                    className="relative shrink-0 overflow-hidden rounded-[14px] border border-dashed border-rose/50 bg-cream-2 transition-transform hover:-translate-y-1">
+                    {cover && <img src={cover} alt="" className="absolute inset-0 h-full w-full object-cover opacity-15" />}
+                    <div className="absolute inset-0 flex items-center justify-center text-4xl font-bold text-ink-mute/50">?</div>
                   </Link>
                 );
               })}

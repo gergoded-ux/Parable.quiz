@@ -1,11 +1,20 @@
 import { describe, it, expect, beforeEach } from 'vitest';
 import { saveCard, loadCards } from '@/lib/collection';
+import type { CardData } from '@/lib/card-data';
+
+// Minimal full CardData for store tests; only slug/key/matchPct matter here.
+const mk = (slug: string, key: string, matchPct: number | null): CardData => ({
+  slug, key, artKey: key, name: 'X', baseName: 'X', epithet: null, emoji: 'x',
+  traits: [], verse: { text: '', reference: '' }, matchPct, hasArt: false,
+  rarity: { tier: 'common', label: 'Common', stars: 2, material: 'green', accent: '#000', frame: 'f.png' },
+  stat: { heading: '', rows: [], suffix: '' },
+});
 
 describe('collection store', () => {
   beforeEach(() => localStorage.clear());
 
   it('saves and loads a card with a timestamp', () => {
-    saveCard({ slug: 'a', key: '1', artKey: '1', name: 'A', matchPct: 90 });
+    saveCard(mk('a', '1', 90));
     const cards = loadCards();
     expect(cards).toHaveLength(1);
     expect(cards[0].slug).toBe('a');
@@ -13,8 +22,8 @@ describe('collection store', () => {
   });
 
   it('dedupes the same slug:key in place', () => {
-    saveCard({ slug: 'a', key: '1', artKey: '1', name: 'A', matchPct: 50 });
-    saveCard({ slug: 'a', key: '1', artKey: '1', name: 'A', matchPct: 80 });
+    saveCard(mk('a', '1', 50));
+    saveCard(mk('a', '1', 80));
     const cards = loadCards();
     expect(cards).toHaveLength(1);
     expect(cards[0].matchPct).toBe(80);
@@ -22,7 +31,7 @@ describe('collection store', () => {
 
   it('does not drop a save when the store holds a non-object value', () => {
     localStorage.setItem('eikonia:cards', '[]');
-    saveCard({ slug: 'a', key: '1', artKey: '1', name: 'A', matchPct: 90 });
+    saveCard(mk('a', '1', 90));
     expect(loadCards()).toHaveLength(1);
   });
 

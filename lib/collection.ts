@@ -1,8 +1,12 @@
 // lib/collection.ts
-// Client-only collection store: the cards a visitor has earned, kept in
+// Client-only collection store: the full card a visitor earned, kept in
 // localStorage keyed by "slug:key" so re-viewing a result updates in place.
-// ponytail: no backend, device-bound by design. Accounts/sync = later.
-export type SavedCard = { slug: string; key: string; artKey: string; name: string; matchPct: number | null; ts: number };
+// We store the whole CardData so the binder can render the real card without
+// reloading quiz data on the client.
+// ponytail: no backend, device-bound by design. Accounts/sync later.
+import type { CardData } from './card-data';
+
+export type SavedCard = CardData & { ts: number };
 
 const STORE = 'eikonia:cards';
 
@@ -21,12 +25,12 @@ export function loadCards(): SavedCard[] {
   }
 }
 
-export function saveCard(c: Omit<SavedCard, 'ts'>): void {
+export function saveCard(card: CardData): void {
   if (typeof window === 'undefined') return;
   try {
     const parsed = JSON.parse(localStorage.getItem(STORE) || '{}');
     const map: Record<string, SavedCard> = isMap(parsed) ? parsed : {};
-    map[`${c.slug}:${c.key}`] = { ...c, ts: Date.now() };
+    map[`${card.slug}:${card.key}`] = { ...card, ts: Date.now() };
     localStorage.setItem(STORE, JSON.stringify(map));
   } catch {}
 }
