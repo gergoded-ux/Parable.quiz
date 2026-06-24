@@ -59,22 +59,19 @@ Drivers: completion ("12 of 80"), meaning (each card carries a verse), identity 
 - No backend yet: the collection and feedback are client-side. A cross-device, persistent collection needs accounts (the main future unlock).
 - Free and static; auto-deploys `main` to eikonia.art.
 
-## Core-loop feature backlog (prioritized)
+## Core-loop features
 
-Cheap and on-brand, no backend, highest loop ROI first:
+Shipped (no backend):
 
-1. Earn moment. A toast on the result page ("Added to your binder, 13 of 80") plus the existing card flip, so earning feels like a reward.
-2. Set-completion payoff. Finishing a collection (all 28 characters) unlocks a "set complete" seal on the binder and a shareable. Gives the binder a goal.
-3. Share your collection. A generated image ("I have collected 13 Eikonia cards") for social. Turns the binder itself into acquisition.
-4. Next-gap nudge. "You are 2 away from finishing Bible Characters" on the binder and after a result. Pulls completion.
-5. Weekly featured quiz or daily verse on the home page, rotated by date. A cheap, static reason to return.
-6. Re-pull depth. Retaking a quiz can surface a different card (there are 563 result variants): "see another side of yourself." Encourages replays.
-7. Favorite or pin plus simple sort on the binder, so people can organize what they keep.
+1. Earn moment. A toast on the result page ("Saved to your binder, N of 80") that also nudges the nearest set to finish.
+2. Set-completion seal. A "Complete" badge on a collection once every card in it is collected.
+3. Share my binder. A branded image ("I have collected N of 80 cards") to share or download.
+4. Next-gap nudge. Folded into the earn toast ("2 more to finish Bible Characters").
+5. Quiz of the week. A date-rotated weekly pick on the home page, a cheap reason to return.
+6. Re-pull depth. A line on the result page inviting a retake for a different card.
+7. Favorites. Star a card and filter the binder to favorites only.
 
-Needs light infrastructure:
+Not yet (deliberately deferred):
 
-8. Gentle email capture. The only return trigger that scales ("a new quiz dropped"). Needs a form and a list.
-
-The ceiling (needs a backend):
-
-9. Accounts and sync (magic link). Cross-device, never-lost collection. This is the real ceiling for the loop and the eventual upgrade from localStorage.
+8. Email capture. The return trigger that scales ("a new quiz dropped"). Needs a list.
+9. Accounts and sync. Cross-device, never-lost collection. The real ceiling for the loop; needs a backend.

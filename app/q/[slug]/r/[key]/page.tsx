@@ -10,6 +10,7 @@ import { RelatedQuizzes } from '@/components/RelatedQuizzes';
 import { ShareableCard } from '@/components/card/ShareableCard';
 import { TrackResultView } from '@/components/TrackResultView';
 import { SaveToCollection } from '@/components/SaveToCollection';
+import { EarnToast } from '@/components/EarnToast';
 import { cardDataFromResult, binaryAffinityStat } from '@/lib/card-data';
 
 export function generateStaticParams() {
@@ -117,6 +118,7 @@ export default async function ResultPage({ params, searchParams }: { params: Pro
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumb) }} />
       <TrackResultView slug={test.slug} result={key} />
       <SaveToCollection data={cardData} />
+      <EarnToast />
       <HomeNav />
       <main className="px-4 py-8">
         <div className="mx-auto flex max-w-6xl flex-col items-center gap-8 lg:flex-row lg:items-start lg:justify-center lg:gap-10">
@@ -132,6 +134,7 @@ export default async function ResultPage({ params, searchParams }: { params: Pro
           <Link href={`/q/${test.slug}`} className="inline-block rounded-full bg-brown px-8 py-3 text-base font-semibold text-white shadow-card transition-transform hover:-translate-y-0.5">
             Take this quiz yourself
           </Link>
+          <p className="mt-3 text-xs text-ink-mute">Answer differently next time and you could land on a new card.</p>
         </div>
         <AdSlot slot="post-share" />
         <RelatedQuizzes slug={test.slug} />

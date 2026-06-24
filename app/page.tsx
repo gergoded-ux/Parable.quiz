@@ -6,6 +6,7 @@ import { QuizCard } from '@/components/QuizCard';
 import { HomeNav } from '@/components/HomeNav';
 import { HomeBackground } from '@/components/HomeBackground';
 import { HomeHero } from '@/components/HomeHero';
+import { QuizOfTheWeek } from '@/components/QuizOfTheWeek';
 import { AdSlot } from '@/components/AdSlot';
 import { quizCoverUrl } from '@/lib/card-art';
 import type { Metadata } from 'next';
@@ -36,6 +37,8 @@ export default function Home() {
       </header>
 
       <HomeHero items={featuredItems} />
+
+      <QuizOfTheWeek items={featuredItems} />
 
       <AdSlot slot="home-mid" />
 

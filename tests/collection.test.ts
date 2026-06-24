@@ -1,5 +1,5 @@
 import { describe, it, expect, beforeEach } from 'vitest';
-import { saveCard, loadCards } from '@/lib/collection';
+import { saveCard, loadCards, loadFavorites, toggleFavorite, nextGap, weeklyIndex } from '@/lib/collection';
 import type { CardData } from '@/lib/card-data';
 
 // Minimal full CardData for store tests; only slug/key/matchPct matter here.
@@ -38,5 +38,37 @@ describe('collection store', () => {
   it('treats a corrupt store as empty', () => {
     localStorage.setItem('eikonia:cards', '"oops"');
     expect(loadCards()).toEqual([]);
+  });
+});
+
+describe('favorites', () => {
+  beforeEach(() => localStorage.clear());
+
+  it('toggles a favorite on and off', () => {
+    expect(loadFavorites()).toEqual([]);
+    expect(toggleFavorite('a')).toEqual(['a']);
+    expect(loadFavorites()).toEqual(['a']);
+    expect(toggleFavorite('a')).toEqual([]);
+  });
+});
+
+describe('nextGap', () => {
+  it('returns null when nothing is in progress', () => {
+    expect(nextGap(new Set())).toBeNull();
+  });
+
+  it('returns the in-progress collection with fewest remaining', () => {
+    const g = nextGap(new Set(['who-are-you-in-christ'])); // identity has 8 slugs
+    expect(g?.id).toBe('identity');
+    expect(g?.remaining).toBe(7);
+  });
+});
+
+describe('weeklyIndex', () => {
+  it('rotates once per week and wraps', () => {
+    expect(weeklyIndex(5, 0)).toBe(0);
+    expect(weeklyIndex(5, 7 * 86400000)).toBe(1);
+    expect(weeklyIndex(5, 7 * 86400000 * 5)).toBe(0);
+    expect(weeklyIndex(0, 123)).toBe(0);
   });
 });
