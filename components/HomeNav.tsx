@@ -10,6 +10,7 @@ const LINKS = [
   { href: '/collections/relationships', label: 'Relationships' },
   { href: '/collections/bibleiq', label: 'Bible IQ' },
   { href: '/blog', label: 'Articles' },
+  { href: '/collection', label: 'My Cards' },
   { href: '/faq', label: 'FAQ' },
   { href: '/about', label: 'About' },
 ];

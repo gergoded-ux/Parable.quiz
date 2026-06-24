@@ -66,10 +66,10 @@ via the Graph APIs, and writes the result back (`Published` + `Live URL`, or
 
 ## 3c. Pinterest (≈20 min)
 1. **developers.pinterest.com → Manage apps → Create app**. Note the **App ID** and **App secret**.
-2. App settings → add **Redirect URI** `https://eikonia.art/`; request scopes `pins:write`, `boards:read`, `user_accounts:read`.
+2. App settings → add **Redirect URI** `https://eikonia.art/`; enable scopes `boards:read`, `boards:write`, `pins:read`, `pins:write`, `user_accounts:read` (creating a pin needs `boards:write` and `pins:read`, not just `pins:write`).
 3. **Authorize** (logged into the Eikonia Pinterest account), then copy the `code` from the redirect:
    ```
-   https://www.pinterest.com/oauth/?client_id=<APP_ID>&redirect_uri=https://eikonia.art/&response_type=code&scope=pins:write,boards:read,user_accounts:read
+   https://www.pinterest.com/oauth/?client_id=<APP_ID>&redirect_uri=https://eikonia.art/&response_type=code&scope=boards:read,boards:write,pins:read,pins:write,user_accounts:read
    ```
 4. **Exchange for a token** (PowerShell):
    ```powershell
