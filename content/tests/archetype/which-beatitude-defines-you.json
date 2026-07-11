@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "bible-character",
   "estimatedMinutes": 4,
+  "about": "In the Sermon on the Mount, Jesus calls blessed the people the world usually overlooks: the poor in spirit, the grieving, the meek, the hungry for justice. Each beatitude names a real condition and attaches a real promise to it.",
+  "verses": [
+    {
+      "text": "Blessed are the poor in spirit: for theirs is the kingdom of heaven.",
+      "reference": "Matthew 5:3",
+      "translation": "ASV"
+    }
+  ],
   "mode": "archetype",
   "questions": [
     {

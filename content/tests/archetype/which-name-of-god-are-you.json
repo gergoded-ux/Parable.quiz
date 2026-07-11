@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "bible-character",
   "estimatedMinutes": 4,
+  "about": "God reveals Himself through names that meet specific needs: provision on a mountain, being seen in the wilderness, strength too big to measure, healing after bitter water, peace in the middle of fear. Each name is a promise attached to a moment somebody actually lived through.",
+  "verses": [
+    {
+      "text": "And they that know thy name will put their trust in thee; For thou, Jehovah, hast not forsaken them that seek thee.",
+      "reference": "Psalm 9:10",
+      "translation": "ASV"
+    }
+  ],
   "mode": "archetype",
   "questions": [
     {

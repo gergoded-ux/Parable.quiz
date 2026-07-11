@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "bible-character",
   "estimatedMinutes": 5,
+  "about": "Even the giants of faith hit a wall: a prophet who wanted to die right after his biggest victory, a leader carrying too many people alone, a busy woman resentful of the work, a weeping servant worn thin, a woman who came home from everything with nothing left. God met every one of them gently.",
+  "verses": [
+    {
+      "text": "And he lay down and slept under a juniper-tree; and, behold, an angel touched him, and said unto him, Arise and eat.",
+      "reference": "1 Kings 19:5",
+      "translation": "ASV"
+    }
+  ],
   "mode": "archetype",
   "questions": [
     {

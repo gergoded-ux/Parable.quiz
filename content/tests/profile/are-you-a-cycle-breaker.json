@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "spiritual-profile",
   "estimatedMinutes": 5,
+  "about": "Being the first person in your family to do things differently is lonely work, whether you chose it, resented it, are exhausted by it, or are still partway stuck inside the pattern you are trying to end. Every stage of that is real, and none of it is wasted.",
+  "verses": [
+    {
+      "text": "Behold, I will do a new thing; now shall it spring forth; shall ye not know it? I will even make a way in the wilderness, and rivers in the desert.",
+      "reference": "Isaiah 43:19",
+      "translation": "ASV"
+    }
+  ],
   "mode": "profile",
   "dimensions": [
     "born-cycle-breaker",

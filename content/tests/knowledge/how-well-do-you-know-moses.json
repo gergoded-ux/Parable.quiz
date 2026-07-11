@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "bible-iq",
   "estimatedMinutes": 5,
+  "about": "Moses' life breaks into three unmistakable acts: forty years raised as royalty, forty years hiding as a shepherd, and forty years leading a nation he never wanted to lead. Few figures in scripture cover that much ground, from a basket in the reeds to a mountain he was not allowed to enter.",
+  "verses": [
+    {
+      "text": "And there hath not arisen a prophet since in Israel like unto Moses, whom Jehovah knew face to face,",
+      "reference": "Deuteronomy 34:10",
+      "translation": "ASV"
+    }
+  ],
   "mode": "knowledge",
   "questions": [
     {

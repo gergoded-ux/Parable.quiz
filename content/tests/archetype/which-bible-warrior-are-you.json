@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "bible-character",
   "estimatedMinutes": 4,
+  "about": "Scripture's warriors were rarely the most obviously qualified people in the room: a hesitant judge, a shepherd boy, a strongman with a private battle, a leader who rose without waiting for someone braver. Their courage came from whose fight they believed it was.",
+  "verses": [
+    {
+      "text": "and that all this assembly may know that Jehovah saveth not with sword and spear: for the battle is Jehovah’s, and he will give you into our hand.",
+      "reference": "1 Samuel 17:47",
+      "translation": "ASV"
+    }
+  ],
   "mode": "archetype",
   "questions": [
     {

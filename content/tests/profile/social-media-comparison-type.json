@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "spiritual-profile",
   "estimatedMinutes": 5,
+  "about": "The feed has a way of stealing peace in specific patterns: doom-scrolling until you feel empty, curating your life for approval, quietly comparing from the sidelines, or aching with the fear of missing out. Naming your pattern loosens its grip.",
+  "verses": [
+    {
+      "text": "For we are not bold to number or compare ourselves with certain of them that commend themselves: but they themselves, measuring themselves by themselves, and comparing themselves with themselves, are without understanding.",
+      "reference": "2 Corinthians 10:12",
+      "translation": "ASV"
+    }
+  ],
   "mode": "profile",
   "dimensions": [
     "doom-scroller",

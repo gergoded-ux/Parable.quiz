@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "bible-character",
   "estimatedMinutes": 4,
+  "about": "The Psalms are the Bible's most honest book: prayers of fear, guilt, longing, wonder, and relief, often in the same chapter. Whatever you are carrying this week, there is very likely a psalm that already carried it first.",
+  "verses": [
+    {
+      "text": "Oh taste and see that Jehovah is good: Blessed is the man that taketh refuge in him.",
+      "reference": "Psalm 34:8",
+      "translation": "ASV"
+    }
+  ],
   "mode": "archetype",
   "questions": [
     {

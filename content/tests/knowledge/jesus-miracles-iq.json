@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "bible-iq",
   "estimatedMinutes": 5,
+  "about": "Every miracle Jesus performed pointed past itself, to who He actually was. Water into wine, storms silenced, the blind seeing, the dead walking out of tombs: each one was a sign, not just a spectacle.",
+  "verses": [
+    {
+      "text": "Many other signs therefore did Jesus in the presence of the disciples, which are not written in this book:",
+      "reference": "John 20:30",
+      "translation": "ASV"
+    }
+  ],
   "mode": "knowledge",
   "questions": [
     {

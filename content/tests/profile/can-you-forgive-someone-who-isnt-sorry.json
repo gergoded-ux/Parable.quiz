@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "spiritual-profile",
   "estimatedMinutes": 5,
+  "about": "Forgiveness and reconciliation are not the same thing, and scripture never asks you to pretend an apology arrived when it did not. This quiz helps you find where you honestly stand with the person who never said sorry.",
+  "verses": [
+    {
+      "text": "forbearing one another, and forgiving each other, if any man have a complaint against any; even as the Lord forgave you, so also do ye:",
+      "reference": "Colossians 3:13",
+      "translation": "ASV"
+    }
+  ],
   "mode": "profile",
   "dimensions": [
     "ready-to-release",

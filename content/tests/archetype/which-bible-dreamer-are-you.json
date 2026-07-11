@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "bible-character",
   "estimatedMinutes": 4,
+  "about": "God has always used dreams and visions to say things people were not ready to hear awake: a promise too big to say out loud, a meaning hidden from everyone else, a ladder reaching to heaven from the loneliest place on earth, and a warning nobody wanted to believe.",
+  "verses": [
+    {
+      "text": "And it shall come to pass afterward, that I will pour out my Spirit upon all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions:",
+      "reference": "Joel 2:28",
+      "translation": "ASV"
+    }
+  ],
   "mode": "archetype",
   "theme": "scripture-archetype",
   "questions": [

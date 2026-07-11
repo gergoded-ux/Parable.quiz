@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "spiritual-profile",
   "estimatedMinutes": 5,
+  "about": "Stopping and resting are not the same thing. Scrolling, collapsing from exhaustion, resting with guilt attached, or staying productive even in downtime can all feel like rest while leaving you just as empty. True rest, the kind God modeled, actually restores you.",
+  "verses": [
+    {
+      "text": "And on the seventh day God finished his work which he had made; and he rested on the seventh day from all his work which he had made.",
+      "reference": "Genesis 2:2",
+      "translation": "ASV"
+    }
+  ],
   "mode": "profile",
   "dimensions": [
     "numb-scrolling",

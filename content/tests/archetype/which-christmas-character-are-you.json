@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "bible-character",
   "estimatedMinutes": 3,
+  "about": "The nativity was crowded with unlikely players: a teenage girl asked to carry the impossible, a quiet carpenter who simply obeyed, travelers who followed a light for months, night-shift shepherds who got the biggest announcement in history, and an innkeeper who almost missed it all.",
+  "verses": [
+    {
+      "text": "And the angel said unto them, Be not afraid; for behold, I bring you good tidings of great joy which shall be to all the people:  for there is born to you this day in the city of David a Saviour, who is Christ the Lord.",
+      "reference": "Luke 2:10-11",
+      "translation": "ASV"
+    }
+  ],
   "mode": "archetype",
   "questions": [
     {

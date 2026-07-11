@@ -5,6 +5,11 @@
   "lang": "en",
   "category": "spiritual-profile",
   "estimatedMinutes": 5,
+  "about": "Scripture does not describe your identity as something you build. It describes it as something already given to you in Christ: chosen, beloved, redeemed, and held. This quiz walks through four of those truths so you can notice which one your heart most needs to hear right now.",
+  "verses": [
+    { "text": "Wherefore if any man is in Christ, he is a new creature: the old things are passed away; behold, they are become new.", "reference": "2 Corinthians 5:17", "translation": "ASV" },
+    { "text": "I have been crucified with Christ; and it is no longer I that live, but Christ liveth in me: and that life which I now live in the flesh I live in faith, the faith which is in the Son of God, who loved me, and gave himself up for me.", "reference": "Galatians 2:20", "translation": "ASV" }
+  ],
   "mode": "profile",
   "dimensions": [
     "chosen",

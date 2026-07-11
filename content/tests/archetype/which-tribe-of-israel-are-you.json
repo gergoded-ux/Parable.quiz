@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "bible-character",
   "estimatedMinutes": 4,
+  "about": "Jacob's twelve sons became twelve very different tribes, each carrying its own blessing and its own bent: a lion-hearted leader, a set-apart priesthood, a beloved protector, a fruitful survivor of betrayal, a firstborn learning steadiness, and a tribe built for justice.",
+  "verses": [
+    {
+      "text": "All these are the twelve tribes of Israel: and this is it that their father spake unto them and blessed them; every one according to his blessing he blessed them.",
+      "reference": "Genesis 49:28",
+      "translation": "ASV"
+    }
+  ],
   "mode": "archetype",
   "theme": "scripture-archetype",
   "questions": [

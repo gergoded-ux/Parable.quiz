@@ -20,6 +20,11 @@ export const TestBase = z.object({
   category: z.enum(['bible-character', 'spiritual-profile', 'bible-iq']),
   theme: z.string().optional(),
   estimatedMinutes: z.number().int().positive(),
+  // Shown on the intro screen: a short general comment on the quiz's theme,
+  // plus 1-2 representative verses (not tied to any single result, so the
+  // intro doesn't spoil an outcome).
+  about: z.string().optional(),
+  verses: z.array(InlineScripture).max(2).optional(),
 });
 
 export type TestBase = z.infer<typeof TestBase>;

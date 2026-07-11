@@ -10,6 +10,7 @@ import { hasQuizCover, quizCoverUrl } from '@/lib/card-art';
 import { ProgressBar } from './ProgressBar';
 import { QuestionCard } from './QuestionCard';
 import { QuizIntro } from './QuizIntro';
+import { QuizRail, QuizStrip } from './QuizContext';
 import { Wordmark } from './Wordmark';
 import { AdSlot } from './AdSlot';
 
@@ -148,9 +149,10 @@ export function TestRunner({ test }: { test: Test }) {
         <Wordmark size="sm" />
         <ProgressBar current={step + 1} total={totalQuestions} label={test.title} />
       </div>
+      <QuizStrip test={test} step={step} />
       <div className="relative">
         {hasCover && (
-          <div aria-hidden className="pointer-events-none absolute inset-x-0 top-0 -z-10 h-44 overflow-hidden">
+          <div aria-hidden className="pointer-events-none absolute inset-x-0 top-0 -z-10 h-44 overflow-hidden lg:hidden">
             <img
               src={quizCoverUrl(test.slug)}
               alt=""
@@ -159,33 +161,36 @@ export function TestRunner({ test }: { test: Test }) {
             />
           </div>
         )}
-        <main className="relative mx-auto max-w-2xl px-6 py-12">
-          <div aria-live="polite">
-            <AnimatePresence mode="wait" custom={direction} initial={false}>
-            <motion.div
-              key={step}
-              custom={direction}
-              variants={variants}
-              initial="enter"
-              animate="center"
-              exit="exit"
-              transition={{ duration: 0.18, ease: 'easeOut' }}
-            >
-              <QuestionCard
-                questionNumber={step + 1}
-                questionText={test.questions[step].text}
-                options={test.questions[step].options.map(o => ({ text: o.text }))}
-                selectedIndex={currentAnswer}
-                onSelect={pick}
-              />
-            </motion.div>
-            </AnimatePresence>
-          </div>
-          <div className="mt-6 flex items-center justify-between">
-            <button onClick={goBack} disabled={step === 0} className="rounded-full border border-rose-dark/60 px-4 py-2 text-sm font-medium text-brown transition-colors hover:bg-cream-1 disabled:opacity-30">
-              ← Back
-            </button>
-            <span className="text-xs text-ink-mute">{encouragement}</span>
+        <main className="relative mx-auto max-w-5xl px-6 py-12 lg:grid lg:grid-cols-[320px_1fr] lg:items-start lg:gap-10">
+          <QuizRail test={test} />
+          <div className="max-w-2xl">
+            <div aria-live="polite">
+              <AnimatePresence mode="wait" custom={direction} initial={false}>
+              <motion.div
+                key={step}
+                custom={direction}
+                variants={variants}
+                initial="enter"
+                animate="center"
+                exit="exit"
+                transition={{ duration: 0.18, ease: 'easeOut' }}
+              >
+                <QuestionCard
+                  questionNumber={step + 1}
+                  questionText={test.questions[step].text}
+                  options={test.questions[step].options.map(o => ({ text: o.text }))}
+                  selectedIndex={currentAnswer}
+                  onSelect={pick}
+                />
+              </motion.div>
+              </AnimatePresence>
+            </div>
+            <div className="mt-6 flex items-center justify-between">
+              <button onClick={goBack} disabled={step === 0} className="rounded-full border border-rose-dark/60 px-4 py-2 text-sm font-medium text-brown transition-colors hover:bg-cream-1 disabled:opacity-30">
+                ← Back
+              </button>
+              <span className="text-xs text-ink-mute">{encouragement}</span>
+            </div>
           </div>
         </main>
       </div>

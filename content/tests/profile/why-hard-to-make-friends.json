@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "spiritual-profile",
   "estimatedMinutes": 5,
+  "about": "Adult friendship is hard for almost everyone, and usually for a specific, nameable reason: waiting to be chosen, fearing the first move, staying at the surface, or simply having nothing left to give. Naming your particular block is the start of loosening it.",
+  "verses": [
+    {
+      "text": "He that maketh many friends doeth it to his own destruction; But there is a friend that sticketh closer than a brother.",
+      "reference": "Proverbs 18:24",
+      "translation": "ASV"
+    }
+  ],
   "mode": "profile",
   "dimensions": [
     "wait-to-be-chosen",

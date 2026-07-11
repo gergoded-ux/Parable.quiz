@@ -200,6 +200,28 @@ describe('Inline scripture', () => {
   });
 });
 
+describe('TestBase intro fields', () => {
+  it('accepts optional about + verses', () => {
+    const result = TestBase.safeParse({
+      slug: 's', title: 't', lang: 'en', category: 'bible-character', estimatedMinutes: 4,
+      about: 'A general comment about the theme.',
+      verses: [{ text: 'In the beginning', reference: 'Genesis 1:1', translation: 'ASV' }],
+    });
+    expect(result.success).toBe(true);
+  });
+  it('rejects more than 2 verses', () => {
+    const result = TestBase.safeParse({
+      slug: 's', title: 't', lang: 'en', category: 'bible-character', estimatedMinutes: 4,
+      verses: [
+        { text: 'a', reference: 'Genesis 1:1' },
+        { text: 'b', reference: 'Genesis 1:2' },
+        { text: 'c', reference: 'Genesis 1:3' },
+      ],
+    });
+    expect(result.success).toBe(false);
+  });
+});
+
 describe('cardVerse', () => {
   it('accepts an archetype result with an optional cardVerse', () => {
     const r = ArchetypeTest.safeParse({

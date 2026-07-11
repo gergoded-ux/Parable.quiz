@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "bible-character",
   "estimatedMinutes": 4,
+  "about": "Scripture's couples loved in very different ways: quiet integrity, shared mission, hard-won redemption, deep feeling that needed guarding, and a long, patient wait for a promise. Which one sounds like the two of you?",
+  "verses": [
+    {
+      "text": "And if a man prevail against him that is alone, two shall withstand him; and a threefold cord is not quickly broken.",
+      "reference": "Ecclesiastes 4:12",
+      "translation": "ASV"
+    }
+  ],
   "mode": "archetype",
   "questions": [
     {

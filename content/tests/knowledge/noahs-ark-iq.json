@@ -6,6 +6,14 @@
   "category": "bible-iq",
   "theme": "bible-knowledge",
   "estimatedMinutes": 5,
+  "about": "One boat, one family, and every kind of animal, built at God's instruction while the rest of the world went about business as usual. It is a story about judgment, but it is just as much a story about God keeping a promise to the ones who trusted Him.",
+  "verses": [
+    {
+      "text": "I do set my bow in the cloud, and it shall be for a token of a covenant between me and the earth.",
+      "reference": "Genesis 9:13",
+      "translation": "ASV"
+    }
+  ],
   "mode": "knowledge",
   "questions": [
     {

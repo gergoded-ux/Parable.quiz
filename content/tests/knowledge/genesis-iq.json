@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "bible-iq",
   "estimatedMinutes": 5,
+  "about": "Genesis is the book of beginnings: creation, the fall, a flood, a promise to Abraham, and the family that became a nation. Nearly every major theme in the rest of scripture has its roots planted somewhere in this first book.",
+  "verses": [
+    {
+      "text": "In the beginning God created the heavens and the earth.",
+      "reference": "Genesis 1:1",
+      "translation": "ASV"
+    }
+  ],
   "mode": "knowledge",
   "questions": [
     {

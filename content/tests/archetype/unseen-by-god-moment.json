@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "bible-character",
   "estimatedMinutes": 4,
+  "about": "Feeling forgotten by God is an old, honest ache, and scripture does not pretend otherwise. It sits with people in the wilderness, under the broom tree, in the temple, in the cave, and shows a God who was paying attention the entire time.",
+  "verses": [
+    {
+      "text": "Jehovah is nigh unto them that are of a broken heart, And saveth such as are of a contrite spirit.",
+      "reference": "Psalm 34:18",
+      "translation": "ASV"
+    }
+  ],
   "mode": "archetype",
   "questions": [
     {

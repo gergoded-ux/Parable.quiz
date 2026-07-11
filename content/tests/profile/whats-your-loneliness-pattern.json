@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "spiritual-profile",
   "estimatedMinutes": 5,
+  "about": "Loneliness is not one feeling. It can be missing depth with the people you already have, missing a place you belong, missing meaning itself, or grieving a specific loss that reshaped your circle. Naming which kind you carry is the first step out of it.",
+  "verses": [
+    {
+      "text": "God setteth the solitary in families: He bringeth out the prisoners into prosperity; But the rebellious dwell in a parched land.",
+      "reference": "Psalm 68:6",
+      "translation": "ASV"
+    }
+  ],
   "mode": "profile",
   "dimensions": [
     "emotional-loneliness",

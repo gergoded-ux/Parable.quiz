@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "bible-character",
   "estimatedMinutes": 4,
+  "about": "The prophets were not fortune-tellers. They were people so undone by what God showed them that they could not stay quiet about it, whatever it cost them: exile, ridicule, heartbreak, or a very long walk in the wrong direction first.",
+  "verses": [
+    {
+      "text": "The lion hath roared; who will not fear? The Lord Jehovah hath spoken; who can but prophesy?",
+      "reference": "Amos 3:8",
+      "translation": "ASV"
+    }
+  ],
   "mode": "archetype",
   "questions": [
     {

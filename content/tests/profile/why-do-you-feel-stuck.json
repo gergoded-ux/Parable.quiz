@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "spiritual-profile",
   "estimatedMinutes": 5,
+  "about": "Feeling frozen has a cause, even when you cannot name it: waiting on something only God can open, fear of the next step, comparison, burnout, or a yes you have been avoiding. Naming the exact reason is usually the first thing that unsticks it.",
+  "verses": [
+    {
+      "text": "Brethren, I count not myself yet to have laid hold: but one thing I do, forgetting the things which are behind, and stretching forward to the things which are before,  I press on toward the goal unto the prize of the high calling of God in Christ Jesus.",
+      "reference": "Philippians 3:13-14",
+      "translation": "ASV"
+    }
+  ],
   "mode": "profile",
   "dimensions": [
     "stuck-in-waiting",

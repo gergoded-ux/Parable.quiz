@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "bible-character",
   "estimatedMinutes": 5,
+  "about": "You are not the first person to panic. Some of the bravest people in scripture were frantic, hunted, desperate, sinking, burned out, blindsided, or running scared, and God met every one of them exactly there, not after they calmed down first.",
+  "verses": [
+    {
+      "text": "Cast thy burden upon Jehovah, and he will sustain thee: He will never suffer the righteous to be moved.",
+      "reference": "Psalm 55:22",
+      "translation": "ASV"
+    }
+  ],
   "mode": "archetype",
   "questions": [
     {

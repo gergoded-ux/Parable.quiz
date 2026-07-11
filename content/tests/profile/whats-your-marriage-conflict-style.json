@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "spiritual-profile",
   "estimatedMinutes": 5,
+  "about": "Every couple fights, and almost everyone fights in a pattern: going quiet, pressing in too hard, smoothing it over too fast, keeping score, or avoiding it altogether. None of these patterns are unforgivable. They are just habits worth noticing together.",
+  "verses": [
+    {
+      "text": "Be ye angry, and sin not: let not the sun go down upon your wrath:",
+      "reference": "Ephesians 4:26",
+      "translation": "ASV"
+    }
+  ],
   "mode": "profile",
   "dimensions": [
     "stonewaller",

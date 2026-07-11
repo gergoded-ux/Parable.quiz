@@ -17,7 +17,7 @@ Rule: every new feature adds a test to the suite below in the same change.
 | Rarity | tests/rarity.test.ts | match% to tier boundaries + clamping |
 | Card art | tests/card-art.test.ts | result-art url building + hasIllustration |
 | Card data | tests/card-data.test.ts | result to card-data mapping |
-| Schema | tests/schema.test.ts | quiz zod schema |
+| Schema | tests/schema.test.ts | quiz zod schema, incl. intro `about`/`verses` |
 | Scripture | tests/scripture.test.ts | scripture loader |
 | Test loader | tests/test-loader.test.ts | published allowlist + loaders |
 | Generated catalogs | tests/{themes,catalog,reward-art,reward-catalog}.test.ts | catalog/reward generation |
@@ -29,6 +29,7 @@ Rule: every new feature adds a test to the suite below in the same change.
 
 - `tsx scripts/validate-tests.ts` - every quiz JSON is schema-valid
 - `node scripts/check-article-verses.mjs` - every blog scripture quote is exact ASV
+- `node scripts/check-quiz-verses.mjs` - every quiz-intro verse is exact ASV
 
 ## Build gate (`pnpm build`)
 

@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "spiritual-profile",
   "estimatedMinutes": 5,
+  "about": "Money has a way of exposing the heart: fear, generosity, anxiety, indulgence, or careful stewardship. This is an honest look at which one describes how you actually handle what you have been given.",
+  "verses": [
+    {
+      "text": "for where thy treasure is, there will thy heart be also.",
+      "reference": "Matthew 6:21",
+      "translation": "ASV"
+    }
+  ],
   "mode": "profile",
   "dimensions": [
     "hoarder",

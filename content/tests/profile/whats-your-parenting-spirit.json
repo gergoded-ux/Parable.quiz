@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "spiritual-profile",
   "estimatedMinutes": 5,
+  "about": "You love your kids fiercely, and that love tends to show up through a particular lens: gentle shepherding, firm anchoring, grace-first mercy, anxious perfectionism, or the hard work of unlearning a harsher upbringing. Every one of these can grow into a healthier balance.",
+  "verses": [
+    {
+      "text": "And, ye fathers, provoke not your children to wrath: but nurture them in the chastening and admonition of the Lord.",
+      "reference": "Ephesians 6:4",
+      "translation": "ASV"
+    }
+  ],
   "mode": "profile",
   "dimensions": [
     "gentle-shepherd",

@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "bible-character",
   "estimatedMinutes": 4,
+  "about": "Every parent in scripture got something right and something hard: open-handed prayer, fierce protection, honest regret, avoided conversations, quiet treasuring, or faith passed down on purpose. None of them parented perfectly, and God still used every one of them.",
+  "verses": [
+    {
+      "text": "Train up a child in the way he should go, And even when he is old he will not depart from it.",
+      "reference": "Proverbs 22:6",
+      "translation": "ASV"
+    }
+  ],
   "mode": "archetype",
   "questions": [
     {

@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "spiritual-profile",
   "estimatedMinutes": 5,
+  "about": "Scripture offers more than one verse for fear, because fear does not show up the same way twice: sometimes it is everything at once, sometimes it is only tomorrow, sometimes it is a weight too heavy to carry alone. This quiz points you to the one that matches your exact moment.",
+  "verses": [
+    {
+      "text": "In nothing be anxious; but in everything by prayer and supplication with thanksgiving let your requests be made known unto God.  And the peace of God, which passeth all understanding, shall guard your hearts and your thoughts in Christ Jesus.",
+      "reference": "Philippians 4:6-7",
+      "translation": "ASV"
+    }
+  ],
   "mode": "profile",
   "dimensions": [
     "philippians-4",

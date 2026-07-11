@@ -6,6 +6,14 @@
   "category": "bible-iq",
   "theme": "bible-knowledge",
   "estimatedMinutes": 5,
+  "about": "Jesus told dozens of parables, and each one hides something true inside an ordinary picture: lost coins, wandering sheep, seed on soil, a father running down a road. Knowing them well means catching what each story was actually about.",
+  "verses": [
+    {
+      "text": "And with many such parables spake he the word unto them, as they were able to hear it;",
+      "reference": "Mark 4:33",
+      "translation": "ASV"
+    }
+  ],
   "mode": "knowledge",
   "questions": [
     {

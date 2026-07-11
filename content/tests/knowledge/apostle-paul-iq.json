@@ -6,6 +6,14 @@
   "category": "bible-iq",
   "theme": "bible-knowledge",
   "estimatedMinutes": 5,
+  "about": "Paul went from hunting Christians to writing roughly half the New Testament, and his letters still shape how the church understands grace, faith, and what it means to follow Jesus. Few conversions in history changed as much as his.",
+  "verses": [
+    {
+      "text": "but they only heard say, He that once persecuted us now preacheth the faith of which he once made havoc;",
+      "reference": "Galatians 1:23",
+      "translation": "ASV"
+    }
+  ],
   "mode": "knowledge",
   "questions": [
     {

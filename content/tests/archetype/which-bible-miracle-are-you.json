@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "bible-character",
   "estimatedMinutes": 4,
+  "about": "Jesus' miracles were never just about being impressive. Wine at a wedding, calm in the middle of a storm, a hand reaching for someone sinking, a lunch that fed thousands, a friend called back from a tomb: each one was compassion, aimed at exactly the need in front of Him.",
+  "verses": [
+    {
+      "text": "This beginning of his signs did Jesus in Cana of Galilee, and manifested his glory; and his disciples believed on him.",
+      "reference": "John 2:11",
+      "translation": "ASV"
+    }
+  ],
   "mode": "archetype",
   "theme": "scripture-archetype",
   "questions": [

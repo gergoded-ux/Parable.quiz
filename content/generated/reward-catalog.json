@@ -496,56 +496,56 @@
   },
   {
     "quizSlug": "which-bible-figure-wounded-by-religious-leaders",
-    "quizTitle": "Which Bible Figure Was Wounded by Religious Leaders Like You?",
+    "quizTitle": "Which Bible Figure Wounded by Religious Leaders Are You?",
     "resultKey": "david",
     "resultName": "David",
     "rewardArt": "character",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-bible-figure-wounded-by-religious-leaders/david.png"
   },
   {
     "quizSlug": "which-bible-figure-wounded-by-religious-leaders",
-    "quizTitle": "Which Bible Figure Was Wounded by Religious Leaders Like You?",
+    "quizTitle": "Which Bible Figure Wounded by Religious Leaders Are You?",
     "resultKey": "hannah",
     "resultName": "Hannah",
     "rewardArt": "character",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-bible-figure-wounded-by-religious-leaders/hannah.png"
   },
   {
     "quizSlug": "which-bible-figure-wounded-by-religious-leaders",
-    "quizTitle": "Which Bible Figure Was Wounded by Religious Leaders Like You?",
+    "quizTitle": "Which Bible Figure Wounded by Religious Leaders Are You?",
     "resultKey": "jeremiah",
     "resultName": "Jeremiah",
     "rewardArt": "character",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-bible-figure-wounded-by-religious-leaders/jeremiah.png"
   },
   {
     "quizSlug": "which-bible-figure-wounded-by-religious-leaders",
-    "quizTitle": "Which Bible Figure Was Wounded by Religious Leaders Like You?",
+    "quizTitle": "Which Bible Figure Wounded by Religious Leaders Are You?",
     "resultKey": "jesus",
     "resultName": "Jesus Himself",
     "rewardArt": "character",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-bible-figure-wounded-by-religious-leaders/jesus.png"
   },
   {
     "quizSlug": "which-bible-figure-wounded-by-religious-leaders",
-    "quizTitle": "Which Bible Figure Was Wounded by Religious Leaders Like You?",
+    "quizTitle": "Which Bible Figure Wounded by Religious Leaders Are You?",
     "resultKey": "man-born-blind",
     "resultName": "The Man Born Blind",
     "rewardArt": "character",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-bible-figure-wounded-by-religious-leaders/man-born-blind.png"
   },
@@ -556,7 +556,7 @@
     "resultName": "David (Wept for His Child)",
     "rewardArt": "character",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-bible-figures-grief-mirrors-yours/david.png"
   },
@@ -567,7 +567,7 @@
     "resultName": "Jesus (Wept at the Tomb)",
     "rewardArt": "character",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-bible-figures-grief-mirrors-yours/jesus.png"
   },
@@ -578,7 +578,7 @@
     "resultName": "Job (Lost Everything)",
     "rewardArt": "character",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-bible-figures-grief-mirrors-yours/job.png"
   },
@@ -589,7 +589,7 @@
     "resultName": "Mary and Martha (Where Were You, Lord?)",
     "rewardArt": "character",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-bible-figures-grief-mirrors-yours/mary-and-martha.png"
   },
@@ -600,7 +600,7 @@
     "resultName": "Naomi (Turned Bitter)",
     "rewardArt": "character",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-bible-figures-grief-mirrors-yours/naomi.png"
   },
@@ -1073,7 +1073,7 @@
     "resultName": "Gideon (lays out a fleece)",
     "rewardArt": "character",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-doubting-bible-figure-are-you/gideon.png"
   },
@@ -1084,7 +1084,7 @@
     "resultName": "Job (demands an answer)",
     "rewardArt": "character",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-doubting-bible-figure-are-you/job.png"
   },
@@ -1095,7 +1095,7 @@
     "resultName": "John the Baptist in prison (are you the one?)",
     "rewardArt": "character",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-doubting-bible-figure-are-you/john-the-baptist.png"
   },
@@ -1106,7 +1106,7 @@
     "resultName": "The father of Mark 9 (help my unbelief)",
     "rewardArt": "character",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-doubting-bible-figure-are-you/mark-9-father.png"
   },
@@ -1117,7 +1117,7 @@
     "resultName": "Sarah (laughs in disbelief)",
     "rewardArt": "character",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-doubting-bible-figure-are-you/sarah.png"
   },
@@ -1128,7 +1128,7 @@
     "resultName": "Thomas (needs proof)",
     "rewardArt": "character",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-doubting-bible-figure-are-you/thomas.png"
   },
@@ -1579,7 +1579,7 @@
     "resultName": "Asaph",
     "rewardArt": "character",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-when-god-is-silent-figure-are-you/asaph.png"
   },
@@ -1590,7 +1590,7 @@
     "resultName": "David in the Cave",
     "rewardArt": "character",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-when-god-is-silent-figure-are-you/david-in-the-cave.png"
   },
@@ -1601,7 +1601,7 @@
     "resultName": "Elijah",
     "rewardArt": "character",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-when-god-is-silent-figure-are-you/elijah.png"
   },
@@ -1612,7 +1612,7 @@
     "resultName": "Habakkuk",
     "rewardArt": "character",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-when-god-is-silent-figure-are-you/habakkuk.png"
   },
@@ -1623,7 +1623,7 @@
     "resultName": "Hannah",
     "rewardArt": "character",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-when-god-is-silent-figure-are-you/hannah.png"
   },
@@ -1634,7 +1634,7 @@
     "resultName": "Job",
     "rewardArt": "character",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-when-god-is-silent-figure-are-you/job.png"
   },
@@ -1733,7 +1733,7 @@
     "resultName": "The Bleeding Woman (Suffering, Then Touched)",
     "rewardArt": "character",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-wounded-but-healed-bible-figure/bleeding-woman.png"
   },
@@ -1744,7 +1744,7 @@
     "resultName": "Hagar (Cast Out, Seen by God)",
     "rewardArt": "character",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-wounded-but-healed-bible-figure/hagar.png"
   },
@@ -1755,7 +1755,7 @@
     "resultName": "Joseph (Betrayed, Then Restored)",
     "rewardArt": "character",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-wounded-but-healed-bible-figure/joseph.png"
   },
@@ -1766,7 +1766,7 @@
     "resultName": "Mephibosheth (Crippled, Then Seated at the Table)",
     "rewardArt": "character",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-wounded-but-healed-bible-figure/mephibosheth.png"
   },
@@ -1777,7 +1777,7 @@
     "resultName": "Naomi (Bitter, Then Renamed)",
     "rewardArt": "character",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-wounded-but-healed-bible-figure/naomi.png"
   },
@@ -1788,7 +1788,7 @@
     "resultName": "Paul (The Persecutor Made Apostle)",
     "rewardArt": "character",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-wounded-but-healed-bible-figure/paul.png"
   },
@@ -2019,7 +2019,7 @@
     "resultName": "Babylon (faithful in exile)",
     "rewardArt": "place",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-bible-city-are-you/babylon.png"
   },
@@ -2030,7 +2030,7 @@
     "resultName": "Bethlehem (the small beginning)",
     "rewardArt": "place",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-bible-city-are-you/bethlehem.png"
   },
@@ -2041,7 +2041,7 @@
     "resultName": "Jericho (the walls come down)",
     "rewardArt": "place",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-bible-city-are-you/jericho.png"
   },
@@ -2052,7 +2052,7 @@
     "resultName": "Jerusalem (the city of God)",
     "rewardArt": "place",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-bible-city-are-you/jerusalem.png"
   },
@@ -2063,7 +2063,7 @@
     "resultName": "Nazareth (the underestimated)",
     "rewardArt": "place",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-bible-city-are-you/nazareth.png"
   },
@@ -2074,7 +2074,7 @@
     "resultName": "Nineveh (the second chance)",
     "rewardArt": "place",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-bible-city-are-you/nineveh.png"
   },
@@ -2085,7 +2085,7 @@
     "resultName": "Mount Ararat (the resting place)",
     "rewardArt": "place",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-bible-mountain-are-you/ararat.png"
   },
@@ -2096,7 +2096,7 @@
     "resultName": "The Mount of the Beatitudes (the blessing)",
     "rewardArt": "place",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-bible-mountain-are-you/beatitudes.png"
   },
@@ -2107,7 +2107,7 @@
     "resultName": "Mount Carmel (the showdown)",
     "rewardArt": "place",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-bible-mountain-are-you/carmel.png"
   },
@@ -2118,7 +2118,7 @@
     "resultName": "Mount of Olives (the hope of return)",
     "rewardArt": "place",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-bible-mountain-are-you/olives.png"
   },
@@ -2129,7 +2129,7 @@
     "resultName": "Mount Sinai (the holy fire)",
     "rewardArt": "place",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-bible-mountain-are-you/sinai.png"
   },
@@ -2140,7 +2140,7 @@
     "resultName": "Mount Zion (the place of provision)",
     "rewardArt": "place",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-bible-mountain-are-you/zion.png"
   },
@@ -2162,7 +2162,7 @@
     "resultName": "Score card",
     "rewardArt": "scene",
     "category": "bible-iq",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/bible-doubters-iq/card.png"
   },
@@ -2173,7 +2173,7 @@
     "resultName": "Score card",
     "rewardArt": "scene",
     "category": "bible-iq",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/book-of-acts-iq/card.png"
   },
@@ -2184,7 +2184,7 @@
     "resultName": "Score card",
     "rewardArt": "scene",
     "category": "bible-iq",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/book-of-judges-iq/card.png"
   },
@@ -2206,7 +2206,7 @@
     "resultName": "Score card",
     "rewardArt": "scene",
     "category": "bible-iq",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/exodus-iq/card.png"
   },
@@ -2294,7 +2294,7 @@
     "resultName": "Score card",
     "rewardArt": "scene",
     "category": "bible-iq",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/how-well-do-you-know-the-ten-plagues/card.png"
   },
@@ -2327,7 +2327,7 @@
     "resultName": "Score card",
     "rewardArt": "scene",
     "category": "bible-iq",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/jonah-iq/card.png"
   },
@@ -2371,7 +2371,7 @@
     "resultName": "Score card",
     "rewardArt": "scene",
     "category": "bible-iq",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/parables-iq/card.png"
   },
@@ -2382,7 +2382,7 @@
     "resultName": "Score card",
     "rewardArt": "scene",
     "category": "bible-iq",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/proverbs-wisdom-iq/card.png"
   },
@@ -2393,7 +2393,7 @@
     "resultName": "Score card",
     "rewardArt": "scene",
     "category": "bible-iq",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/verse-or-quote/card.png"
   },
@@ -2404,7 +2404,7 @@
     "resultName": "Day of Atonement (Cleansing and Forgiveness)",
     "rewardArt": "scene",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-bible-feast-are-you/day-of-atonement.png"
   },
@@ -2415,7 +2415,7 @@
     "resultName": "Passover (Deliverance and Mercy)",
     "rewardArt": "scene",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-bible-feast-are-you/passover.png"
   },
@@ -2426,7 +2426,7 @@
     "resultName": "Pentecost (Fresh Fire and Power)",
     "rewardArt": "scene",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-bible-feast-are-you/pentecost.png"
   },
@@ -2437,7 +2437,7 @@
     "resultName": "Tabernacles (Dwelling and Rest)",
     "rewardArt": "scene",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-bible-feast-are-you/tabernacles.png"
   },
@@ -2448,7 +2448,7 @@
     "resultName": "Trumpets (Awakening and Return)",
     "rewardArt": "scene",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-bible-feast-are-you/trumpets.png"
   },
@@ -2591,7 +2591,7 @@
     "resultName": "Day One: Light",
     "rewardArt": "scene",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-day-of-creation-are-you/day1.png"
   },
@@ -2602,7 +2602,7 @@
     "resultName": "Day Two: Sky and Sea",
     "rewardArt": "scene",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-day-of-creation-are-you/day2.png"
   },
@@ -2613,7 +2613,7 @@
     "resultName": "Day Three: Land and Growing Things",
     "rewardArt": "scene",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-day-of-creation-are-you/day3.png"
   },
@@ -2624,7 +2624,7 @@
     "resultName": "Day Four: Sun, Moon and Stars",
     "rewardArt": "scene",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-day-of-creation-are-you/day4.png"
   },
@@ -2635,7 +2635,7 @@
     "resultName": "Day Five: Sea Creatures and Birds",
     "rewardArt": "scene",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-day-of-creation-are-you/day5.png"
   },
@@ -2646,7 +2646,7 @@
     "resultName": "Day Six: Animals and Humankind",
     "rewardArt": "scene",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-day-of-creation-are-you/day6.png"
   },
@@ -2657,7 +2657,7 @@
     "resultName": "Day Seven: Rest",
     "rewardArt": "scene",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-day-of-creation-are-you/day7.png"
   },
@@ -2745,7 +2745,7 @@
     "resultName": "The Nile Turned to Blood",
     "rewardArt": "scene",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-plague-of-egypt-are-you/blood.png"
   },
@@ -2756,7 +2756,7 @@
     "resultName": "The Plague of Darkness",
     "rewardArt": "scene",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-plague-of-egypt-are-you/darkness.png"
   },
@@ -2767,7 +2767,7 @@
     "resultName": "The Final Plague",
     "rewardArt": "scene",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-plague-of-egypt-are-you/firstborn.png"
   },
@@ -2778,7 +2778,7 @@
     "resultName": "The Plague of Frogs",
     "rewardArt": "scene",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-plague-of-egypt-are-you/frogs.png"
   },
@@ -2789,7 +2789,7 @@
     "resultName": "The Plague of Hail",
     "rewardArt": "scene",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-plague-of-egypt-are-you/hail.png"
   },
@@ -2800,7 +2800,7 @@
     "resultName": "The Plague of Locusts",
     "rewardArt": "scene",
     "category": "bible-character",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-plague-of-egypt-are-you/locusts.png"
   },
@@ -2965,7 +2965,7 @@
     "resultName": "Yes, and You're Hiding It",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/are-you-angry-at-god/hiding-it.png"
   },
@@ -2976,7 +2976,7 @@
     "resultName": "More Disappointed Than Angry",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/are-you-angry-at-god/more-disappointed.png"
   },
@@ -2987,7 +2987,7 @@
     "resultName": "Numb and Distant Right Now",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/are-you-angry-at-god/numb-and-distant.png"
   },
@@ -2998,7 +2998,7 @@
     "resultName": "Yes, and You're Wrestling Honestly",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/are-you-angry-at-god/wrestling-honestly.png"
   },
@@ -3009,7 +3009,7 @@
     "resultName": "Yes, the Classic Dark Night",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/are-you-in-a-dark-night-of-the-soul/classic-dark-night.png"
   },
@@ -3020,7 +3020,7 @@
     "resultName": "Conviction You're Avoiding",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/are-you-in-a-dark-night-of-the-soul/conviction-avoiding.png"
   },
@@ -3031,7 +3031,7 @@
     "resultName": "Depression Wearing a Spiritual Mask",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/are-you-in-a-dark-night-of-the-soul/depression-mask.png"
   },
@@ -3042,7 +3042,7 @@
     "resultName": "A Dry Season (Normal)",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/are-you-in-a-dark-night-of-the-soul/dry-season.png"
   },
@@ -3053,7 +3053,7 @@
     "resultName": "Spiritual Burnout (Not the Same)",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/are-you-in-a-dark-night-of-the-soul/spiritual-burnout.png"
   },
@@ -3108,7 +3108,7 @@
     "resultName": "Deconstruction Toward Exit",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/deconstructing-or-asking-honest-questions/deconstruction-toward-exit.png"
   },
@@ -3119,7 +3119,7 @@
     "resultName": "Deconstruction Toward Rebuilding",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/deconstructing-or-asking-honest-questions/deconstruction-toward-rebuilding.png"
   },
@@ -3130,7 +3130,7 @@
     "resultName": "Faith Crisis (pain-driven)",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/deconstructing-or-asking-honest-questions/faith-crisis.png"
   },
@@ -3141,7 +3141,7 @@
     "resultName": "Healthy Questioning (faith-building)",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/deconstructing-or-asking-honest-questions/healthy-questioning.png"
   },
@@ -3152,7 +3152,7 @@
     "resultName": "Stuck in the Rubble",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/deconstructing-or-asking-honest-questions/stuck-in-the-rubble.png"
   },
@@ -3163,7 +3163,7 @@
     "resultName": "Carrying Real Church Hurt",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/do-you-have-church-hurt/carrying-real-church-hurt.png"
   },
@@ -3174,7 +3174,7 @@
     "resultName": "Mostly Healed, a Few Triggers Left",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/do-you-have-church-hurt/mostly-healed.png"
   },
@@ -3185,7 +3185,7 @@
     "resultName": "A Spirit of Offense, Not Abuse",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/do-you-have-church-hurt/spirit-of-offense.png"
   },
@@ -3196,7 +3196,7 @@
     "resultName": "Survived Spiritual Abuse",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/do-you-have-church-hurt/survived-spiritual-abuse.png"
   },
@@ -3207,7 +3207,7 @@
     "resultName": "The Capable Mask",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/do-you-have-high-functioning-anxiety/capable-mask.png"
   },
@@ -3218,7 +3218,7 @@
     "resultName": "Hidden High-Functioning Anxiety",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/do-you-have-high-functioning-anxiety/hidden-high-functioning.png"
   },
@@ -3229,7 +3229,7 @@
     "resultName": "Mostly At Peace",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/do-you-have-high-functioning-anxiety/mostly-at-peace.png"
   },
@@ -3240,7 +3240,7 @@
     "resultName": "Productive Panic",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/do-you-have-high-functioning-anxiety/productive-panic.png"
   },
@@ -3251,7 +3251,7 @@
     "resultName": "Quiet Overwhelm",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/do-you-have-high-functioning-anxiety/quiet-overwhelm.png"
   },
@@ -3328,7 +3328,7 @@
     "resultName": "The Burned-Out Server",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/do-you-secretly-feel-like-a-fraud-at-church/the-burned-out-server.png"
   },
@@ -3339,7 +3339,7 @@
     "resultName": "The Impostor",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/do-you-secretly-feel-like-a-fraud-at-church/the-impostor.png"
   },
@@ -3350,7 +3350,7 @@
     "resultName": "The Performer",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/do-you-secretly-feel-like-a-fraud-at-church/the-performer.png"
   },
@@ -3361,7 +3361,7 @@
     "resultName": "The Quiet Doubter",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/do-you-secretly-feel-like-a-fraud-at-church/the-quiet-doubter.png"
   },
@@ -3372,7 +3372,7 @@
     "resultName": "The Real Deal",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/do-you-secretly-feel-like-a-fraud-at-church/the-real-deal.png"
   },
@@ -3383,7 +3383,7 @@
     "resultName": "Anxiously Attached",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/how-anxious-is-your-attachment-to-god/anxiously-attached.png"
   },
@@ -3394,7 +3394,7 @@
     "resultName": "Avoidant",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/how-anxious-is-your-attachment-to-god/avoidant.png"
   },
@@ -3405,7 +3405,7 @@
     "resultName": "Earning-It",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/how-anxious-is-your-attachment-to-god/earning-it.png"
   },
@@ -3416,7 +3416,7 @@
     "resultName": "Growing Secure",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/how-anxious-is-your-attachment-to-god/growing-secure.png"
   },
@@ -3427,7 +3427,7 @@
     "resultName": "Securely Attached",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/how-anxious-is-your-attachment-to-god/securely-attached.png"
   },
@@ -3482,7 +3482,7 @@
     "resultName": "A Mix You Can Untangle",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/is-it-anxiety-or-a-faith-problem/a-mix.png"
   },
@@ -3493,7 +3493,7 @@
     "resultName": "It's Anxiety, Not Faithlessness",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/is-it-anxiety-or-a-faith-problem/anxiety-not-faithlessness.png"
   },
@@ -3504,7 +3504,7 @@
     "resultName": "Time to Seek Support",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/is-it-anxiety-or-a-faith-problem/seek-support.png"
   },
@@ -3515,7 +3515,7 @@
     "resultName": "Mostly Spiritual Battle",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/is-it-anxiety-or-a-faith-problem/spiritual-battle.png"
   },
@@ -3526,7 +3526,7 @@
     "resultName": "You're Being Too Hard on Yourself",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/is-it-anxiety-or-a-faith-problem/too-hard-on-yourself.png"
   },
@@ -3537,7 +3537,7 @@
     "resultName": "Healthy Conviction From God",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/is-it-conviction-or-shame/healthy-conviction.png"
   },
@@ -3548,7 +3548,7 @@
     "resultName": "An Old Voice That Isn't God's",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/is-it-conviction-or-shame/old-voice.png"
   },
@@ -3559,7 +3559,7 @@
     "resultName": "A Tangled Mix",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/is-it-conviction-or-shame/tangled-mix.png"
   },
@@ -3570,7 +3570,7 @@
     "resultName": "Toxic Shame From People",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/is-it-conviction-or-shame/toxic-shame.png"
   },
@@ -3768,7 +3768,7 @@
     "resultName": "The Absent-Parent Cycle",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/what-generational-pattern-are-you-breaking/absent-parent-cycle.png"
   },
@@ -3779,7 +3779,7 @@
     "resultName": "The Addiction Cycle",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/what-generational-pattern-are-you-breaking/addiction-cycle.png"
   },
@@ -3790,7 +3790,7 @@
     "resultName": "The Anger Cycle",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/what-generational-pattern-are-you-breaking/anger-cycle.png"
   },
@@ -3801,7 +3801,7 @@
     "resultName": "The Poverty-Fear Cycle",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/what-generational-pattern-are-you-breaking/poverty-fear-cycle.png"
   },
@@ -3812,7 +3812,7 @@
     "resultName": "The Silence-and-Shame Cycle",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/what-generational-pattern-are-you-breaking/silence-and-shame-cycle.png"
   },
@@ -3878,7 +3878,7 @@
     "resultName": "Circumstantial Doubt (suffering shook you)",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/what-kind-of-doubt-are-you-having/circumstantial.png"
   },
@@ -3889,7 +3889,7 @@
     "resultName": "Emotional Doubt",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/what-kind-of-doubt-are-you-having/emotional.png"
   },
@@ -3900,7 +3900,7 @@
     "resultName": "Intellectual Doubt",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/what-kind-of-doubt-are-you-having/intellectual.png"
   },
@@ -3911,7 +3911,7 @@
     "resultName": "Moral / Volitional Doubt",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/what-kind-of-doubt-are-you-having/moral-volitional.png"
   },
@@ -3922,7 +3922,7 @@
     "resultName": "Relational Doubt (someone hurt you)",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/what-kind-of-doubt-are-you-having/relational.png"
   },
@@ -3977,7 +3977,7 @@
     "resultName": "'I Have to Earn Love'",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/what-lie-did-your-wound-teach-you/i-have-to-earn-love.png"
   },
@@ -3988,7 +3988,7 @@
     "resultName": "'I'm Not Enough'",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/what-lie-did-your-wound-teach-you/im-not-enough.png"
   },
@@ -3999,7 +3999,7 @@
     "resultName": "'I'm Too Much'",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/what-lie-did-your-wound-teach-you/im-too-much.png"
   },
@@ -4010,7 +4010,7 @@
     "resultName": "'It's All My Fault'",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/what-lie-did-your-wound-teach-you/its-all-my-fault.png"
   },
@@ -4021,7 +4021,7 @@
     "resultName": "'It's Not Safe to Trust'",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/what-lie-did-your-wound-teach-you/its-not-safe-to-trust.png"
   },
@@ -4032,7 +4032,7 @@
     "resultName": "I Am Beyond Repair",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/what-shame-story-are-you-living/i-am-beyond-repair.png"
   },
@@ -4043,7 +4043,7 @@
     "resultName": "I Am Not Enough",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/what-shame-story-are-you-living/i-am-not-enough.png"
   },
@@ -4054,7 +4054,7 @@
     "resultName": "I Am Too Much",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/what-shame-story-are-you-living/i-am-too-much.png"
   },
@@ -4065,7 +4065,7 @@
     "resultName": "If They Knew, They'd Leave",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/what-shame-story-are-you-living/if-they-knew-theyd-leave.png"
   },
@@ -4076,7 +4076,7 @@
     "resultName": "The Dark Night (God is weaning, not leaving)",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-behind-your-spiritual-dryness/dark-night.png"
   },
@@ -4087,7 +4087,7 @@
     "resultName": "Distraction Drift",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-behind-your-spiritual-dryness/distraction-drift.png"
   },
@@ -4098,7 +4098,7 @@
     "resultName": "Hidden Sin Static",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-behind-your-spiritual-dryness/hidden-sin-static.png"
   },
@@ -4109,7 +4109,7 @@
     "resultName": "Soul Fatigue (you're empty, not far)",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-behind-your-spiritual-dryness/soul-fatigue.png"
   },
@@ -4120,7 +4120,7 @@
     "resultName": "Unprocessed Grief",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-behind-your-spiritual-dryness/unprocessed-grief.png"
   },
@@ -4131,7 +4131,7 @@
     "resultName": "A Grudge You Keep Rehearsing",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-fueling-your-bitterness/a-grudge-you-keep-rehearsing.png"
   },
@@ -4142,7 +4142,7 @@
     "resultName": "An Apology That Never Came",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-fueling-your-bitterness/an-apology-that-never-came.png"
   },
@@ -4153,7 +4153,7 @@
     "resultName": "An Unhealed Injustice",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-fueling-your-bitterness/an-unhealed-injustice.png"
   },
@@ -4164,7 +4164,7 @@
     "resultName": "Comparison and Envy",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-fueling-your-bitterness/comparison-and-envy.png"
   },
@@ -4175,7 +4175,7 @@
     "resultName": "Disappointment With God",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-fueling-your-bitterness/disappointment-with-god.png"
   },
@@ -4186,7 +4186,7 @@
     "resultName": "Fear of Abandonment",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-fueling-your-worry/fear-of-abandonment.png"
   },
@@ -4197,7 +4197,7 @@
     "resultName": "Fear of Failing God",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-fueling-your-worry/fear-of-failing-god.png"
   },
@@ -4208,7 +4208,7 @@
     "resultName": "Fear of the Future",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-fueling-your-worry/fear-of-future.png"
   },
@@ -4219,7 +4219,7 @@
     "resultName": "Fear of Losing Control",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-fueling-your-worry/fear-of-losing-control.png"
   },
@@ -4230,7 +4230,7 @@
     "resultName": "Fear of Not Being Enough",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-fueling-your-worry/fear-of-not-being-enough.png"
   },
@@ -4241,7 +4241,7 @@
     "resultName": "Fear of the Worst Happening",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-fueling-your-worry/fear-of-worst.png"
   },
@@ -4329,7 +4329,7 @@
     "resultName": "Cynical and Detached",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-your-burnout-stage/cynical-and-detached.png"
   },
@@ -4340,7 +4340,7 @@
     "resultName": "Healthy Rhythm",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-your-burnout-stage/healthy-rhythm.png"
   },
@@ -4351,7 +4351,7 @@
     "resultName": "Recovering",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-your-burnout-stage/recovering.png"
   },
@@ -4362,7 +4362,7 @@
     "resultName": "Running on Empty",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-your-burnout-stage/running-on-empty.png"
   },
@@ -4373,7 +4373,7 @@
     "resultName": "Stretched but Okay",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-your-burnout-stage/stretched-but-okay.png"
   },
@@ -4384,7 +4384,7 @@
     "resultName": "Surviving on Fumes",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-your-burnout-stage/surviving-on-fumes.png"
   },
@@ -4450,7 +4450,7 @@
     "resultName": "Grieving the Loss",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-your-church-hurt-recovery-stage/grieving-the-loss.png"
   },
@@ -4461,7 +4461,7 @@
     "resultName": "Naming What Happened",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-your-church-hurt-recovery-stage/naming-what-happened.png"
   },
@@ -4472,7 +4472,7 @@
     "resultName": "Cautiously Rebuilding Trust",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-your-church-hurt-recovery-stage/rebuilding-trust.png"
   },
@@ -4483,7 +4483,7 @@
     "resultName": "Setting Boundaries",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-your-church-hurt-recovery-stage/setting-boundaries.png"
   },
@@ -4494,7 +4494,7 @@
     "resultName": "Still in the Fog",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-your-church-hurt-recovery-stage/still-in-the-fog.png"
   },
@@ -4604,7 +4604,7 @@
     "resultName": "Busy Doer",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-your-grief-style/busy-doer.png"
   },
@@ -4615,7 +4615,7 @@
     "resultName": "Hidden Griever",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-your-grief-style/hidden-griever.png"
   },
@@ -4626,7 +4626,7 @@
     "resultName": "Quiet Carrier",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-your-grief-style/quiet-carrier.png"
   },
@@ -4637,7 +4637,7 @@
     "resultName": "Tearful Lamenter",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-your-grief-style/tearful-lamenter.png"
   },
@@ -4648,7 +4648,7 @@
     "resultName": "The Abandonment Wound",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-your-hidden-wound/abandonment-wound.png"
   },
@@ -4659,7 +4659,7 @@
     "resultName": "The Betrayal Wound",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-your-hidden-wound/betrayal-wound.png"
   },
@@ -4670,7 +4670,7 @@
     "resultName": "The Injustice Wound",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-your-hidden-wound/injustice-wound.png"
   },
@@ -4681,7 +4681,7 @@
     "resultName": "The Not-Enough Wound",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-your-hidden-wound/not-enough-wound.png"
   },
@@ -4692,7 +4692,7 @@
     "resultName": "The Rejection Wound",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-your-hidden-wound/rejection-wound.png"
   },
@@ -4912,7 +4912,7 @@
     "resultName": "Not Holy Enough",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-your-not-enough-story/not-holy-enough.png"
   },
@@ -4923,7 +4923,7 @@
     "resultName": "Not Smart Enough",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-your-not-enough-story/not-smart-enough.png"
   },
@@ -4934,7 +4934,7 @@
     "resultName": "Not Successful Enough",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-your-not-enough-story/not-successful-enough.png"
   },
@@ -4945,7 +4945,7 @@
     "resultName": "Not Wanted Enough",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-your-not-enough-story/not-wanted-enough.png"
   },
@@ -4956,7 +4956,7 @@
     "resultName": "The Comparer",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-your-overthinking-spiral/comparer.png"
   },
@@ -4967,7 +4967,7 @@
     "resultName": "The Decision-Freezer",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-your-overthinking-spiral/decision-freezer.png"
   },
@@ -4978,7 +4978,7 @@
     "resultName": "The Mind-Reader",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-your-overthinking-spiral/mind-reader.png"
   },
@@ -4989,7 +4989,7 @@
     "resultName": "The Rehearser",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-your-overthinking-spiral/rehearser.png"
   },
@@ -5000,7 +5000,7 @@
     "resultName": "The Replayer",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-your-overthinking-spiral/replayer.png"
   },
@@ -5011,7 +5011,7 @@
     "resultName": "The What-If Machine",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-your-overthinking-spiral/what-if-machine.png"
   },
@@ -5077,7 +5077,7 @@
     "resultName": "Still Finding the Door",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-your-path-back-to-god/finding-the-door.png"
   },
@@ -5088,7 +5088,7 @@
     "resultName": "Through Honest Lament",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-your-path-back-to-god/honest-lament.png"
   },
@@ -5099,7 +5099,7 @@
     "resultName": "Through Rediscovering Jesus Apart From Religion",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-your-path-back-to-god/rediscovering-jesus.png"
   },
@@ -5110,7 +5110,7 @@
     "resultName": "Through a Safe Small Community",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-your-path-back-to-god/safe-community.png"
   },
@@ -5121,7 +5121,7 @@
     "resultName": "Through Therapy and Time",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-your-path-back-to-god/therapy-and-time.png"
   },
@@ -5132,7 +5132,7 @@
     "resultName": "The People-Please (Fawn)",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-your-triggered-reaction-style/people-please.png"
   },
@@ -5143,7 +5143,7 @@
     "resultName": "The Shutdown (Freeze)",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-your-triggered-reaction-style/shutdown.png"
   },
@@ -5154,7 +5154,7 @@
     "resultName": "The Snap (Fight)",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-your-triggered-reaction-style/snap.png"
   },
@@ -5165,7 +5165,7 @@
     "resultName": "The Spiral (Overthink)",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-your-triggered-reaction-style/spiral.png"
   },
@@ -5176,7 +5176,7 @@
     "resultName": "The Vanish (Flight)",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/whats-your-triggered-reaction-style/vanish.png"
   },
@@ -5352,7 +5352,7 @@
     "resultName": "Fear of Death",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-fear-is-running-your-life/fear-of-death.png"
   },
@@ -5363,7 +5363,7 @@
     "resultName": "Fear of Disappointing God",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-fear-is-running-your-life/fear-of-disappointing-god.png"
   },
@@ -5374,7 +5374,7 @@
     "resultName": "Fear of Failure",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-fear-is-running-your-life/fear-of-failure.png"
   },
@@ -5385,7 +5385,7 @@
     "resultName": "Fear of Losing Someone",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-fear-is-running-your-life/fear-of-losing-someone.png"
   },
@@ -5396,7 +5396,7 @@
     "resultName": "Fear of Not Mattering",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-fear-is-running-your-life/fear-of-not-mattering.png"
   },
@@ -5407,7 +5407,7 @@
     "resultName": "Fear of Rejection",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-fear-is-running-your-life/fear-of-rejection.png"
   },
@@ -5418,7 +5418,7 @@
     "resultName": "Fear of the Unknown",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/which-fear-is-running-your-life/fear-of-the-unknown.png"
   },
@@ -5902,7 +5902,7 @@
     "resultName": "Carrying Others' Weight",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/why-are-you-so-tired/carrying-others-weight.png"
   },
@@ -5913,7 +5913,7 @@
     "resultName": "Decision Fatigue",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/why-are-you-so-tired/decision-fatigue.png"
   },
@@ -5924,7 +5924,7 @@
     "resultName": "Hustle Burnout",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/why-are-you-so-tired/hustle-burnout.png"
   },
@@ -5935,7 +5935,7 @@
     "resultName": "People-Pleasing Drain",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/why-are-you-so-tired/people-pleasing-drain.png"
   },
@@ -5946,7 +5946,7 @@
     "resultName": "Just Physically Run-Down",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/why-are-you-so-tired/physically-run-down.png"
   },
@@ -5957,7 +5957,7 @@
     "resultName": "Soul Tired",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/why-are-you-so-tired/soul-tired.png"
   },
@@ -6078,7 +6078,7 @@
     "resultName": "He Already Answered, You Didn't Recognize It",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/why-does-god-feel-silent-right-now/already-answered.png"
   },
@@ -6089,7 +6089,7 @@
     "resultName": "The Dark Night (deliberate withdrawal)",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/why-does-god-feel-silent-right-now/dark-night.png"
   },
@@ -6100,7 +6100,7 @@
     "resultName": "Noise Has Crowded Him Out",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/why-does-god-feel-silent-right-now/noise-crowded-him-out.png"
   },
@@ -6111,7 +6111,7 @@
     "resultName": "He's Speaking Through Scripture (not feelings)",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/why-does-god-feel-silent-right-now/speaking-through-scripture.png"
   },
@@ -6122,7 +6122,7 @@
     "resultName": "You Stopped Listening",
     "rewardArt": "symbol",
     "category": "spiritual-profile",
-    "status": "live",
+    "status": "backlog",
     "hasImage": true,
     "path": "public/results/why-does-god-feel-silent-right-now/stopped-listening.png"
   },

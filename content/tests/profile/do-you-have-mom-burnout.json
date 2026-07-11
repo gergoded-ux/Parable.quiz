@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "spiritual-profile",
   "estimatedMinutes": 5,
+  "about": "Burnout in motherhood is not a character flaw, and scripture does not treat rest as optional or shameful. Whether you are running on empty, touched out, resentful, stretched thin, or actually finding a good rhythm, there is grace for exactly where you are.",
+  "verses": [
+    {
+      "text": "Come unto me, all ye that labor and are heavy laden, and I will give you rest.",
+      "reference": "Matthew 11:28",
+      "translation": "ASV"
+    }
+  ],
   "mode": "profile",
   "dimensions": [
     "burned-out-and-running-on-empty",

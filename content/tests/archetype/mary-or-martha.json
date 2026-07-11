@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "bible-character",
   "estimatedMinutes": 2,
+  "about": "Two sisters, one dinner, and a very short, very pointed answer from Jesus about what actually matters most. This isn't about which sister is better. It's about which posture, sitting or serving, your particular week is missing.",
+  "verses": [
+    {
+      "text": "But the Lord answered and said unto her, Martha, Martha, thou art anxious and troubled about many things:  but one thing is needful: for Mary hath chosen the good part, which shall not be taken away from her.",
+      "reference": "Luke 10:41-42",
+      "translation": "ASV"
+    }
+  ],
   "mode": "archetype",
   "questions": [
     {

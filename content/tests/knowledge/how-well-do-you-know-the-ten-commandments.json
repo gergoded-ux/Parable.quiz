@@ -6,6 +6,14 @@
   "category": "bible-iq",
   "theme": "bible-knowledge",
   "estimatedMinutes": 5,
+  "about": "Ten short instructions, given on a mountain, still shape how billions of people think about right and wrong. They were never meant as a checklist for earning God's favor, but as a picture of a life shaped by love for Him and for other people.",
+  "verses": [
+    {
+      "text": "I am Jehovah thy God, who brought thee out of the land of Egypt, out of the house of bondage.",
+      "reference": "Exodus 20:2",
+      "translation": "ASV"
+    }
+  ],
   "mode": "knowledge",
   "questions": [
     {

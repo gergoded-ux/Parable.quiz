@@ -6,6 +6,14 @@
   "category": "bible-iq",
   "theme": "bible-knowledge",
   "estimatedMinutes": 5,
+  "about": "The resurrection is the hinge the entire Christian faith turns on. Without an empty tomb, Easter is just a sad Friday. With it, everything changes, for the first disciples and for every believer since.",
+  "verses": [
+    {
+      "text": "and if Christ hath not been raised, then is our preaching vain, your faith also is vain.",
+      "reference": "1 Corinthians 15:14",
+      "translation": "ASV"
+    }
+  ],
   "mode": "knowledge",
   "questions": [
     {

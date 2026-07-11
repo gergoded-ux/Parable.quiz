@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "spiritual-profile",
   "estimatedMinutes": 5,
+  "about": "If your relationships keep ending the same way, there is usually a pattern underneath it: stalling right before things get real, guarding your heart so hard nothing gets in, trying to fix someone instead of loving them, holding out well, or rushing toward the altar out of fear. Naming the loop is the first step to breaking it.",
+  "verses": [
+    {
+      "text": "Keep thy heart with all diligence; For out of it are the issues of life.",
+      "reference": "Proverbs 4:23",
+      "translation": "ASV"
+    }
+  ],
   "mode": "profile",
   "dimensions": [
     "serial-almost",

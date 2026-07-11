@@ -5,6 +5,11 @@
   "lang": "en",
   "category": "spiritual-profile",
   "estimatedMinutes": 5,
+  "about": "Waiting seasons can feel like being forgotten, but scripture treats them as workrooms, not holding cells. Joseph waited in a pit and a prison before a palace. David waited in fields and caves before a throne. This quiz will not tell you exactly what is coming, but it may help you notice what is already being built in you.",
+  "verses": [
+    { "text": "For I know the thoughts that I think toward you, saith Jehovah, thoughts of peace, and not of evil, to give you hope in your latter end.", "reference": "Jeremiah 29:11", "translation": "ASV" },
+    { "text": "Count it all joy, my brethren, when ye fall into manifold temptations; knowing that the proving of your faith worketh patience. And let patience have its perfect work, that ye may be perfect and entire, lacking in nothing.", "reference": "James 1:2-4", "translation": "ASV" }
+  ],
   "mode": "profile",
   "dimensions": [
     "leadership-assignment",

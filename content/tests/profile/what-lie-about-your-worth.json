@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "spiritual-profile",
   "estimatedMinutes": 5,
+  "about": "Everyone has a lie on repeat about their own worth: too much, not enough, unlovable, or forever earning it. This quiz names the specific lie running your self-talk, and sets it next to what God actually says about you instead.",
+  "verses": [
+    {
+      "text": "I will give thanks unto thee; for I am fearfully and wonderfully made: Wonderful are thy works; And that my soul knoweth right well.",
+      "reference": "Psalm 139:14",
+      "translation": "ASV"
+    }
+  ],
   "mode": "profile",
   "dimensions": [
     "im-too-much",

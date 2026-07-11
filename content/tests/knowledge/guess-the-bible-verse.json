@@ -6,6 +6,14 @@
   "category": "bible-iq",
   "theme": "bible-knowledge",
   "estimatedMinutes": 5,
+  "about": "Some verses get quoted so often that people forget where they actually live in scripture. This one is a quick test of whether you know not just the words, but the book and chapter they came from.",
+  "verses": [
+    {
+      "text": "Thy word have I laid up in my heart, That I might not sin against thee.",
+      "reference": "Psalm 119:11",
+      "translation": "ASV"
+    }
+  ],
   "mode": "knowledge",
   "questions": [
     {

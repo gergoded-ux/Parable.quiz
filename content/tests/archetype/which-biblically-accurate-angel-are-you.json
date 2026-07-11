@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "bible-character",
   "estimatedMinutes": 4,
+  "about": "The Bible's angels are stranger and more intense than the greeting-card version: burning worshipers, wheels covered in eyes, a gatekeeper with a flaming sword, a warrior prince, and a messenger who can silence fear the moment he opens his mouth.",
+  "verses": [
+    {
+      "text": "Are they not all ministering spirits, sent forth to do service for the sake of them that shall inherit salvation?",
+      "reference": "Hebrews 1:14",
+      "translation": "ASV"
+    }
+  ],
   "mode": "archetype",
   "theme": "scripture-archetype",
   "questions": [

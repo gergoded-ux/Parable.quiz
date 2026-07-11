@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "spiritual-profile",
   "estimatedMinutes": 5,
+  "about": "That nudge you keep feeling is not always easy to source. Sometimes it holds up under pressure and stays peaceful. Sometimes it is just your own wanting, dressed up as a leading. This quiz helps you notice the difference before you act on it.",
+  "verses": [
+    {
+      "text": "prove all things; hold fast that which is good;",
+      "reference": "1 Thessalonians 5:21",
+      "translation": "ASV"
+    }
+  ],
   "mode": "profile",
   "dimensions": [
     "gods-nudge",

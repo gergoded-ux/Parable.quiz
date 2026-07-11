@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "bible-character",
   "estimatedMinutes": 4,
+  "about": "Jesus taught in stories on purpose, because a story gets past your defenses in a way a lecture never could. A father running down the road, a stranger who stops to help, seed landing on soil, a shepherd who won't stop counting until the flock is whole. One of them is describing your week right now.",
+  "verses": [
+    {
+      "text": "All these things spake Jesus in parables unto the multitudes; and without a parable spake he nothing unto them:",
+      "reference": "Matthew 13:34",
+      "translation": "ASV"
+    }
+  ],
   "mode": "archetype",
   "questions": [
     {

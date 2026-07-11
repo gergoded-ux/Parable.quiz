@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "bible-character",
   "estimatedMinutes": 4,
+  "about": "However far off you have felt, scripture is full of people God went looking for: a son on the road home, a man up a tree hoping not to be noticed, a sheep that wandered without meaning to, a woman who assumed her past disqualified her. He found every one of them.",
+  "verses": [
+    {
+      "text": "For the Son of man came to seek and to save that which was lost.",
+      "reference": "Luke 19:10",
+      "translation": "ASV"
+    }
+  ],
   "mode": "archetype",
   "questions": [
     {

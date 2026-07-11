@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "bible-character",
   "estimatedMinutes": 4,
+  "about": "Israel's kings make for an honest gallery: a reluctant one, a wholehearted mess of a shepherd-king, a wise one who chased more anyway, a faithful one under pressure, and a reformer who cleaned house. None of them were flawless, and God kept working through every one of them.",
+  "verses": [
+    {
+      "text": "But Jehovah said unto Samuel, Look not on his countenance, or on the height of his stature; because I have rejected him: for Jehovah seeth not as man seeth; for man looketh on the outward appearance, but Jehovah looketh on the heart.",
+      "reference": "1 Samuel 16:7",
+      "translation": "ASV"
+    }
+  ],
   "mode": "archetype",
   "theme": "scripture-archetype",
   "questions": [

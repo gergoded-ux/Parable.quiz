@@ -5,6 +5,11 @@
   "lang": "en",
   "category": "bible-character",
   "estimatedMinutes": 4,
+  "about": "The Twelve were not an elite group. They were fishermen, a tax collector, a skeptic, and at least one hothead, and Jesus still built His church on them. This quiz is not really about picking a favorite. It is a reminder that God has always worked through ordinary, uneven people, the same kind you see in the mirror.",
+  "verses": [
+    { "text": "And he goeth up into the mountain, and calleth unto him whom he himself would; and they went unto him. And he appointed twelve, that they might be with him, and that he might send them forth to preach,", "reference": "Mark 3:13-14", "translation": "ASV" },
+    { "text": "but God chose the foolish things of the world, that he might put to shame them that are wise; and God chose the weak things of the world, that he might put to shame the things that are strong;", "reference": "1 Corinthians 1:27", "translation": "ASV" }
+  ],
   "mode": "archetype",
   "questions": [
     {

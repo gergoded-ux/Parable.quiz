@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "bible-character",
   "estimatedMinutes": 4,
+  "about": "Matthew, Mark, Luke, and John all watched the same life and wrote it in their own voice: one building a bridge to the Old Testament, one moving fast, one checking every detail with care, one lingering on what mattered most to the heart. Which pen sounds like yours?",
+  "verses": [
+    {
+      "text": "And there are also many other things which Jesus did, the which if they should be written every one, I suppose that even the world itself would not contain the books that should be written.",
+      "reference": "John 21:25",
+      "translation": "ASV"
+    }
+  ],
   "mode": "archetype",
   "theme": "scripture-archetype",
   "questions": [

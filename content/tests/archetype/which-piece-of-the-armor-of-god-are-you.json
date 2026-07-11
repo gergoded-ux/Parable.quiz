@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "bible-character",
   "estimatedMinutes": 4,
+  "about": "Paul pictures the Christian life as armor, piece by piece, because faith needs to be worn, not just believed. Truth, righteousness, peace, faith, salvation, the Spirit's sword: each part covers something different, and together they hold up under real pressure.",
+  "verses": [
+    {
+      "text": "Put on the whole armor of God, that ye may be able to stand against the wiles of the devil.",
+      "reference": "Ephesians 6:11",
+      "translation": "ASV"
+    }
+  ],
   "mode": "archetype",
   "questions": [
     {

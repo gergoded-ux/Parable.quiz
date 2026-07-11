@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "spiritual-profile",
   "estimatedMinutes": 5,
+  "about": "The feeling that everyone else has it figured out is almost always built from comparison, not evidence. This quiz is a gentle, honest gut-check on whether you are actually behind, or just measuring your ordinary life against everyone else's highlight reel.",
+  "verses": [
+    {
+      "text": "For everything there is a season, and a time for every purpose under heaven:",
+      "reference": "Ecclesiastes 3:1",
+      "translation": "ASV"
+    }
+  ],
   "mode": "profile",
   "dimensions": [
     "right-on-gods-timeline",

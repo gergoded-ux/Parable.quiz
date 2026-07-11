@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "bible-character",
   "estimatedMinutes": 4,
+  "about": "Scripture's women rarely fit one mold. There is the sister who chooses stillness, the one who serves, the loyal refugee, the judge, the widow who prays through tears, and the outsider grafted straight into the family line. Different women, different faith, same God meeting each one exactly where she stood.",
+  "verses": [
+    {
+      "text": "Strength and dignity are her clothing; And she laugheth at the time to come.",
+      "reference": "Proverbs 31:25",
+      "translation": "ASV"
+    }
+  ],
   "mode": "archetype",
   "questions": [
     {

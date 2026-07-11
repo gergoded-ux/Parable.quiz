@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "spiritual-profile",
   "estimatedMinutes": 5,
+  "about": "Faith goes through seasons, and not every quiet stretch is a red flag. This quiz is an honest gut-check on whether your faith has gone flat from exhaustion, become a performance, settled into a comfortable coast, or is simply resting in a way that still counts as real.",
+  "verses": [
+    {
+      "text": "But I have this against thee, that thou didst leave thy first love.",
+      "reference": "Revelation 2:4",
+      "translation": "ASV"
+    }
+  ],
   "mode": "profile",
   "dimensions": [
     "running-on-fumes",

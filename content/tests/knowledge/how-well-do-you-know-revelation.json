@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "bible-iq",
   "estimatedMinutes": 5,
+  "about": "Revelation is the strangest, most symbolic book in the Bible, and also one of the most hopeful: it ends with a wedding, a new city, and no more tears, not with defeat. Knowing it well means reading past the imagery to what it is actually promising.",
+  "verses": [
+    {
+      "text": "and he shall wipe away every tear from their eyes; and death shall be no more; neither shall there be mourning, nor crying, nor pain, any more: the first things are passed away.",
+      "reference": "Revelation 21:4",
+      "translation": "ASV"
+    }
+  ],
   "mode": "knowledge",
   "questions": [
     {

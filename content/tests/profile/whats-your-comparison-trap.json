@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "spiritual-profile",
   "estimatedMinutes": 5,
+  "about": "Comparison steals joy in a few predictable ways: scrolling other people's highlight reels, running a silent scoreboard, believing you never measure up, or quietly turning everything into a competition. Naming your particular trap is the first step out of it.",
+  "verses": [
+    {
+      "text": "But let each man prove his own work, and then shall he have his glorying in regard of himself alone, and not of his neighbor.",
+      "reference": "Galatians 6:4",
+      "translation": "ASV"
+    }
+  ],
   "mode": "profile",
   "dimensions": [
     "highlight-reel-scroller",

@@ -5,6 +5,10 @@
   "lang": "en",
   "category": "spiritual-profile",
   "estimatedMinutes": 5,
+  "about": "Discernment is not a feeling you wait to arrive. It is something scripture says you can actually grow, by paying attention, praying honestly, and giving time the room to show you what a rushed heart cannot. This quiz will not decide for you, but it may help you name what you already sense.",
+  "verses": [
+    { "text": "Trust in Jehovah with all thy heart, And lean not upon thine own understanding: In all thy ways acknowledge him, And he will direct thy paths.", "reference": "Proverbs 3:5-6", "translation": "ASV" }
+  ],
   "mode": "profile",
   "dimensions": [
     "green-light-pursue",

@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "bible-iq",
   "estimatedMinutes": 5,
+  "about": "From a coat of many colors to a pit, a prison, and finally a palace, Joseph's story is one of the Bible's longest and most detailed arcs, and one of its clearest pictures of God turning betrayal into rescue.",
+  "verses": [
+    {
+      "text": "And as for you, ye meant evil against me; but God meant it for good, to bring to pass, as it is this day, to save much people alive.",
+      "reference": "Genesis 50:20",
+      "translation": "ASV"
+    }
+  ],
   "mode": "knowledge",
   "questions": [
     {

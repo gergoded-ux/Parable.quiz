@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "bible-character",
   "estimatedMinutes": 4,
+  "about": "Leah and Rachel were sisters married to the same man, and each carried her own particular ache: one overlooked, one adored but never satisfied. Their story is an old, honest picture of comparison, and of a God who sees the one everyone else looks past.",
+  "verses": [
+    {
+      "text": "And Jehovah saw that Leah was hated, and he opened her womb: but Rachel was barren.",
+      "reference": "Genesis 29:31",
+      "translation": "ASV"
+    }
+  ],
   "mode": "archetype",
   "questions": [
     {

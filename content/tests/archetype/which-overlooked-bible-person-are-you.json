@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "bible-character",
   "estimatedMinutes": 4,
+  "about": "Some of scripture's most tender stories are about people the world walked straight past: the unloved wife, the cast-out servant, the disabled man everyone forgot, the outsider nobody wanted at the table. God kept walking toward every one of them.",
+  "verses": [
+    {
+      "text": "When my father and my mother forsake me, Then Jehovah will take me up.",
+      "reference": "Psalm 27:10",
+      "translation": "ASV"
+    }
+  ],
   "mode": "archetype",
   "questions": [
     {

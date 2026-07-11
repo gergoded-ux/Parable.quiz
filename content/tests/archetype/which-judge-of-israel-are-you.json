@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "bible-character",
   "estimatedMinutes": 4,
+  "about": "Before Israel had kings, God raised up judges, and almost none of them looked like natural leaders: a woman who led from under a tree, a farmer hiding from the enemy, a strongman undone by his own weakness, and an outcast suddenly needed by the very people who threw him out.",
+  "verses": [
+    {
+      "text": "And Jehovah raised up judges, who saved them out of the hand of those that despoiled them.",
+      "reference": "Judges 2:16",
+      "translation": "ASV"
+    }
+  ],
   "mode": "archetype",
   "questions": [
     {

@@ -6,6 +6,14 @@
   "category": "bible-iq",
   "theme": "bible-knowledge",
   "estimatedMinutes": 5,
+  "about": "Scripture's women rarely get the space they deserve in casual retellings, but their stories carry real weight: judges, prophets, queens, mothers, and quiet faithful women who changed the course of the whole narrative.",
+  "verses": [
+    {
+      "text": "Many daughters have done worthily, But thou excellest them all.",
+      "reference": "Proverbs 31:29",
+      "translation": "ASV"
+    }
+  ],
   "mode": "knowledge",
   "questions": [
     {

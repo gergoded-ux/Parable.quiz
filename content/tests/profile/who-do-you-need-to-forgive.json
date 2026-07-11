@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "spiritual-profile",
   "estimatedMinutes": 5,
+  "about": "There is probably a name your heart already whispered before you finished reading this sentence: a parent, a friend, a church, an ex, yourself, or even God. This quiz helps you name it gently, and points toward the first small step of setting it down.",
+  "verses": [
+    {
+      "text": "and be ye kind one to another, tenderhearted, forgiving each other, even as God also in Christ forgave you.",
+      "reference": "Ephesians 4:32",
+      "translation": "ASV"
+    }
+  ],
   "mode": "profile",
   "dimensions": [
     "parent",

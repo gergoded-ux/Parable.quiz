@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "bible-character",
   "estimatedMinutes": 4,
+  "about": "Seven times in John's gospel, Jesus describes Himself with the same words God used at the burning bush: I am. Bread, light, a shepherd, resurrection, a vine, each one meets a different kind of hunger, and each one is Him saying the same thing: I am enough for this.",
+  "verses": [
+    {
+      "text": "And God said unto Moses, I AM THAT I AM: and he said, Thus shalt thou say unto the children of Israel, I AM hath sent me unto you.",
+      "reference": "Exodus 3:14",
+      "translation": "ASV"
+    }
+  ],
   "mode": "archetype",
   "questions": [
     {

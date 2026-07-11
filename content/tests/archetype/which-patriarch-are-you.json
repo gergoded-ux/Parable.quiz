@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "bible-character",
   "estimatedMinutes": 4,
+  "about": "Abraham, Isaac, and Jacob are called the fathers of faith, but none of them got there by being flawless. One left home before he could see where he was going, one lived quietly in another man's shadow, and one wrestled God Himself before he got a new name.",
+  "verses": [
+    {
+      "text": "Now Jehovah said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father’s house, unto the land that I will show thee:",
+      "reference": "Genesis 12:1",
+      "translation": "ASV"
+    }
+  ],
   "mode": "archetype",
   "questions": [
     {

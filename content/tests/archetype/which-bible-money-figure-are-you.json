@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "bible-character",
   "estimatedMinutes": 5,
+  "about": "Scripture has a lot to say about money through the people who wrestled with it: a ruler who could not let go, a cheat who gave back double, a widow who gave everything she had, a man who lost it all, and a king who had more than enough and still felt empty.",
+  "verses": [
+    {
+      "text": "For the love of money is a root of all kinds of evil: which some reaching after have been led astray from the faith, and have pierced themselves through with many sorrows.",
+      "reference": "1 Timothy 6:10",
+      "translation": "ASV"
+    }
+  ],
   "mode": "archetype",
   "questions": [
     {

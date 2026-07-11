@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "bible-character",
   "estimatedMinutes": 3,
+  "about": "Galatians names nine qualities the Spirit grows in a life over time, not overnight and not by gritted teeth. This quiz is a quick look at which fruit tends to ripen loudest in you right now.",
+  "verses": [
+    {
+      "text": "But the fruit of the Spirit is love, joy, peace, longsuffering, kindness, goodness, faithfulness,  meekness, self-control; against such there is no law.",
+      "reference": "Galatians 5:22-23",
+      "translation": "ASV"
+    }
+  ],
   "mode": "archetype",
   "questions": [
     {

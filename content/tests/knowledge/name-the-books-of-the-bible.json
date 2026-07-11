@@ -6,6 +6,14 @@
   "category": "bible-iq",
   "theme": "bible-knowledge",
   "estimatedMinutes": 5,
+  "about": "Sixty-six books, written across roughly 1,500 years by dozens of authors, and somehow one continuous story. Knowing where each book sits, and why, makes the whole thing far easier to navigate.",
+  "verses": [
+    {
+      "text": "Every scripture inspired of God is also profitable for teaching, for reproof, for correction, for instruction which is in righteousness:",
+      "reference": "2 Timothy 3:16",
+      "translation": "ASV"
+    }
+  ],
   "mode": "knowledge",
   "questions": [
     {

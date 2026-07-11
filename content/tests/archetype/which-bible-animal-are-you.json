@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "bible-character",
   "estimatedMinutes": 3,
+  "about": "Scripture is full of animal imagery for how God's people move through the world: a lion's courage, a lamb's surrender, an eagle's height, a dove's peace, a sheep's dependence, even an unlikely voice from a donkey. Which one describes your particular kind of faith?",
+  "verses": [
+    {
+      "text": "but they that wait for Jehovah shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; they shall walk, and not faint.",
+      "reference": "Isaiah 40:31",
+      "translation": "ASV"
+    }
+  ],
   "mode": "archetype",
   "questions": [
     {

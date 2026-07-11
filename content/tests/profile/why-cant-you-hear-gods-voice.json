@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "spiritual-profile",
   "estimatedMinutes": 5,
+  "about": "God rarely shouts. Most people who feel like He has gone quiet are actually straining for something loud while missing a whisper, drowning it out with noise, skipping the book where He speaks most clearly, or walking through a season of silence that has its own purpose.",
+  "verses": [
+    {
+      "text": "and after the earthquake a fire; but Jehovah was not in the fire: and after the fire a still small voice.",
+      "reference": "1 Kings 19:12",
+      "translation": "ASV"
+    }
+  ],
   "mode": "profile",
   "dimensions": [
     "missing-the-whisper",

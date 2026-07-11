@@ -61,12 +61,35 @@ export function QuizIntro({ test, onStart }: { test: Test; onStart: () => void }
           ) : (
             <>
               <p className="mb-3">{`${test.title} is a free ${categoryLabel(test).toLowerCase()} quiz. Answer ${test.questions.length} quick questions to be matched with one of these:`}</p>
-              <ul className="mb-3 list-disc pl-5">
-                {Object.values(test.results).map((r) => <li key={r.name}>{r.name}</li>)}
+              <ul className="mb-3 space-y-2">
+                {Object.values(test.results).map((r) => (
+                  <li key={r.name} className="flex gap-2">
+                    {'emoji' in r && <span aria-hidden>{r.emoji as string}</span>}
+                    <span><strong className="text-brown-dark">{r.name}</strong> · {r.description}</span>
+                  </li>
+                ))}
               </ul>
             </>
           )}
           <p>Every result comes with a verse (American Standard Version) and a collectible card you can share. Free, no sign-up.</p>
+
+          {test.about && (
+            <>
+              <h2 className="mb-2 mt-6 text-base font-bold text-brown-dark">What the Bible says</h2>
+              <p>{test.about}</p>
+            </>
+          )}
+
+          {test.verses && test.verses.length > 0 && (
+            <div className="mt-4 space-y-3">
+              {test.verses.map((v) => (
+                <blockquote key={v.reference} className="border-l-2 border-rose-dark/50 pl-3 italic">
+                  &ldquo;{v.text}&rdquo;
+                  <footer className="mt-1 text-xs not-italic text-ink-mute">{v.reference} ({v.translation ?? 'ASV'})</footer>
+                </blockquote>
+              ))}
+            </div>
+          )}
         </section>
       </main>
     </>

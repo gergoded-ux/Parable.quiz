@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "spiritual-profile",
   "estimatedMinutes": 5,
+  "about": "Scripture pictures love in a lot of different shapes: covenant loyalty, sacrificial grace, shared mission, steady protection, and love still healing from a wound. None of these is the correct love style. Each is a real way people in the Bible loved well.",
+  "verses": [
+    {
+      "text": "But now abideth faith, hope, love, these three; and the greatest of these is love.",
+      "reference": "1 Corinthians 13:13",
+      "translation": "ASV"
+    }
+  ],
   "mode": "profile",
   "dimensions": [
     "covenant-lover",

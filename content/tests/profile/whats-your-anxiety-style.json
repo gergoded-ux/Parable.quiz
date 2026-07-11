@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "spiritual-profile",
   "estimatedMinutes": 5,
+  "about": "Anxiety does not move the same way in everyone: some catastrophize, some overthink, some grip for control, some perform for approval, some avoid, some plan for every disaster, some just carry it silently. This quiz names your particular shape of fear.",
+  "verses": [
+    {
+      "text": "casting all your anxiety upon him, because he careth for you.",
+      "reference": "1 Peter 5:7",
+      "translation": "ASV"
+    }
+  ],
   "mode": "profile",
   "dimensions": [
     "catastrophizer",

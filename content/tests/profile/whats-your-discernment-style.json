@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "spiritual-profile",
   "estimatedMinutes": 5,
+  "about": "People sense God's leading in different ways: through wise counsel, a settled peace, an open door they walk through, scripture read first, or plain boldness to act. Each style has real strength, and each has a blind spot worth knowing.",
+  "verses": [
+    {
+      "text": "But if any of you lacketh wisdom, let him ask of God, who giveth to all liberally and upbraideth not; and it shall be given him.",
+      "reference": "James 1:5",
+      "translation": "ASV"
+    }
+  ],
   "mode": "profile",
   "dimensions": [
     "counsel-seeker",

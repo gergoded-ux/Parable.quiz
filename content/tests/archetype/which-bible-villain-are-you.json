@@ -5,6 +5,14 @@
   "lang": "en",
   "category": "bible-character",
   "estimatedMinutes": 4,
+  "about": "This one is playful on purpose: a light look at the shadow side everyone carries, from self-interest to stubbornness to pride to fear dressed up as control. Naming the tendency isn't condemnation. It's usually the first step toward it losing its grip.",
+  "verses": [
+    {
+      "text": "for all have sinned, and fall short of the glory of God;  being justified freely by his grace through the redemption that is in Christ Jesus:",
+      "reference": "Romans 3:23-24",
+      "translation": "ASV"
+    }
+  ],
   "mode": "archetype",
   "theme": "scripture-archetype",
   "questions": [
